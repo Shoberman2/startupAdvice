@@ -1,0 +1,39 @@
+# dependencies
+node_modules
+.pnp
+.pnp.js
+
+# next.js
+.next
+out
+
+# build outputs
+build
+dist
+
+# misc
+.DS_Store
+*.pem
+*.log
+
+# env files (never commit)
+.env
+.env*.local
+.env.production
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+
+# testing
+coverage
+playwright-report
+test-results
+
+# tooling
+.turbo
+
+# Claude Code / agent state — developer-specific, not shared
+.claude/

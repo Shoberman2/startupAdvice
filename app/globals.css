@@ -1,0 +1,157 @@
+/* Design tokens — mirrors DESIGN.md. Edit both together. */
+
+:root {
+  /* Type families */
+  --font-serif: "EB Garamond", "New Spirit", Georgia, serif;
+  --font-sans: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, monospace;
+
+  /* Type scale */
+  --type-scale-question: 32px;
+  --type-scale-h1: 24px;
+  --type-scale-body: 18px;
+  --type-scale-meta: 14px;
+
+  /* Color */
+  --bg: #fcfbf7;
+  --text: #141414;
+  --muted: #6b6863;
+  --accent: #8a3324;
+  --hairline: #e8e5dd;
+
+  /* Radius */
+  --radius-card: 0;
+  --radius-input: 2px;
+  --radius-button: 2px;
+
+  /* Spacing (8px base) */
+  --space-1: 8px;
+  --space-2: 16px;
+  --space-3: 24px;
+  --space-4: 48px;
+  --space-5: 96px;
+
+  /* Motion */
+  --ease: cubic-bezier(0.2, 0.0, 0.2, 1);
+  --duration-fast: 200ms;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-serif);
+  font-size: var(--type-scale-body);
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+button,
+input,
+textarea,
+select {
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+a:visited {
+  /* Per DESIGN.md universal rule: preserve visited link distinction. */
+  color: color-mix(in srgb, var(--accent) 70%, var(--muted));
+}
+
+button {
+  border: 1px solid var(--text);
+  background: var(--text);
+  color: var(--bg);
+  border-radius: var(--radius-button);
+  padding: var(--space-1) var(--space-2);
+  cursor: pointer;
+  font-family: var(--font-sans);
+  font-size: var(--type-scale-meta);
+  letter-spacing: 0.02em;
+  transition: background var(--duration-fast) var(--ease),
+    color var(--duration-fast) var(--ease);
+}
+
+button:hover {
+  background: var(--bg);
+  color: var(--text);
+}
+
+button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+input[type="text"],
+textarea {
+  border: 1px solid var(--hairline);
+  background: var(--bg);
+  border-radius: var(--radius-input);
+  padding: var(--space-2);
+  font-family: var(--font-serif);
+  font-size: var(--type-scale-body);
+  transition: border-color var(--duration-fast) var(--ease);
+}
+
+input[type="text"]:focus,
+textarea:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+/* Streaming underline pulse for the founder column heading.
+   Goes static when the `data-streaming` attribute is removed. */
+@keyframes underline-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.35; }
+}
+
+.streaming-underline {
+  height: 2px;
+  background: var(--accent);
+  width: 100%;
+}
+
+.streaming-underline[data-streaming="true"] {
+  animation: underline-pulse 1.5s var(--ease) infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .streaming-underline[data-streaming="true"] {
+    animation: none;
+  }
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}
+
+/* Hairline rule */
+hr {
+  border: none;
+  height: 1px;
+  background: var(--hairline);
+  margin: var(--space-3) 0;
+}
