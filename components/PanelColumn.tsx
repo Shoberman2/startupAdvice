@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import type { PanelistMeta } from "@/lib/panel/all-panelists";
 import { consumeObjectStream } from "@/lib/panel/partial-json";
+import { splitCitations } from "@/lib/panel/render-citations";
 
 /** Server schema mirror — kept in sync with PanelResponseSchema in the route. */
 interface PanelResponse {
@@ -314,24 +315,6 @@ function AnswerBody(props: {
       )}
     </p>
   );
-}
-
-type Part = { kind: "text"; text: string } | { kind: "cite"; num: number };
-
-function splitCitations(text: string): Part[] {
-  const parts: Part[] = [];
-  const re = /\[cite:(\d+)\]/g;
-  let lastIndex = 0;
-  let m: RegExpExecArray | null;
-  while ((m = re.exec(text)) !== null) {
-    if (m.index > lastIndex) {
-      parts.push({ kind: "text", text: text.slice(lastIndex, m.index) });
-    }
-    parts.push({ kind: "cite", num: Number(m[1]) });
-    lastIndex = m.index + m[0].length;
-  }
-  if (lastIndex < text.length) parts.push({ kind: "text", text: text.slice(lastIndex) });
-  return parts;
 }
 
 function CitationMark({ num, onClick }: { num: number; onClick: () => void }) {

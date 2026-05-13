@@ -16,12 +16,30 @@ export default function HomePage() {
     >
       <header
         style={{
-          fontFamily: "var(--font-serif)",
-          fontSize: 18,
-          color: "var(--accent)",
+          display: "flex",
+          justifyContent: "space-between",
+          alignItems: "center",
         }}
       >
-        Founder Panel
+        <span
+          style={{
+            fontFamily: "var(--font-serif)",
+            fontSize: 18,
+            color: "var(--accent)",
+          }}
+        >
+          Founder Panel
+        </span>
+        <a
+          href="/think"
+          style={{
+            fontFamily: "var(--font-sans)",
+            fontSize: "var(--type-scale-meta)",
+            color: "var(--muted)",
+          }}
+        >
+          Browse what they think →
+        </a>
       </header>
 
       <section
