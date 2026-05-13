@@ -30,16 +30,22 @@ export default function HomePage() {
         >
           Founder Panel
         </span>
-        <a
-          href="/think"
+        <nav
           style={{
+            display: "flex",
+            gap: "var(--space-3)",
             fontFamily: "var(--font-sans)",
             fontSize: "var(--type-scale-meta)",
-            color: "var(--muted)",
           }}
         >
-          Browse what they think →
-        </a>
+          <a href="/think" style={{ color: "var(--muted)" }}>
+            Think
+          </a>
+          <a href="/with" style={{ color: "var(--muted)" }}>
+            Talk
+          </a>
+          <span style={{ color: "var(--text)" }}>Ask</span>
+        </nav>
       </header>
 
       <section
