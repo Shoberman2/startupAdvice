@@ -9,6 +9,8 @@
     "scrape": "bun run scripts/scrape.ts",
     "warm-cache": "bun run scripts/warm-cache.ts",
     "generate-summaries": "bun run scripts/generate-summaries.ts",
+    "seed-debate": "bun run scripts/seed-debate.ts",
+    "debate-tick": "bun run scripts/debate-tick.ts",
     "test": "vitest run",
     "test:watch": "vitest",
     "test:e2e": "playwright test",

@@ -44,6 +44,9 @@ export default function HomePage() {
           <a href="/with" style={{ color: "var(--muted)" }}>
             Talk
           </a>
+          <a href="/watch" style={{ color: "var(--muted)" }}>
+            Watch
+          </a>
           <span style={{ color: "var(--text)" }}>Ask</span>
         </nav>
       </header>
