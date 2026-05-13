@@ -1,6 +1,7 @@
 /* Design tokens — mirrors DESIGN.md. Edit both together. */
 
-:root {
+:root,
+:root[data-theme="light"] {
   /* Type families */
   --font-serif: "EB Garamond", "New Spirit", Georgia, serif;
   --font-sans: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
@@ -11,18 +12,23 @@
   --type-scale-h1: 24px;
   --type-scale-body: 18px;
   --type-scale-meta: 14px;
+  --type-scale-micro: 12px;
 
-  /* Color */
+  /* Color — light */
   --bg: #fcfbf7;
+  --surface: #f7f4ec;
   --text: #141414;
   --muted: #6b6863;
   --accent: #8a3324;
+  --accent-soft: rgba(138, 51, 36, 0.12);
   --hairline: #e8e5dd;
+  --hairline-strong: #d8d3c7;
 
   /* Radius */
   --radius-card: 0;
   --radius-input: 2px;
   --radius-button: 2px;
+  --radius-avatar: 50%;
 
   /* Spacing (8px base) */
   --space-1: 8px;
@@ -34,6 +40,22 @@
   /* Motion */
   --ease: cubic-bezier(0.2, 0.0, 0.2, 1);
   --duration-fast: 200ms;
+  --duration-drawer: 250ms;
+
+  color-scheme: light;
+}
+
+:root[data-theme="dark"] {
+  --bg: #15110d;
+  --surface: #1c1814;
+  --text: #f5f1e8;
+  --muted: #a09a8e;
+  --accent: #d86a52;
+  --accent-soft: rgba(216, 106, 82, 0.14);
+  --hairline: #2b2620;
+  --hairline-strong: #3b342b;
+
+  color-scheme: dark;
 }
 
 * {
@@ -51,6 +73,11 @@ body {
   line-height: 1.55;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern", "liga";
+  transition:
+    background var(--duration-fast) var(--ease),
+    color var(--duration-fast) var(--ease);
 }
 
 button,
@@ -69,11 +96,10 @@ a {
 
 a:hover {
   text-decoration: underline;
-  text-underline-offset: 2px;
+  text-underline-offset: 3px;
 }
 
 a:visited {
-  /* Per DESIGN.md universal rule: preserve visited link distinction. */
   color: color-mix(in srgb, var(--accent) 70%, var(--muted));
 }
 
@@ -87,7 +113,8 @@ button {
   font-family: var(--font-sans);
   font-size: var(--type-scale-meta);
   letter-spacing: 0.02em;
-  transition: background var(--duration-fast) var(--ease),
+  transition:
+    background var(--duration-fast) var(--ease),
     color var(--duration-fast) var(--ease);
 }
 
@@ -96,14 +123,17 @@ button:hover {
   color: var(--text);
 }
 
-button:focus-visible {
+button:focus-visible,
+a:focus-visible,
+[tabindex]:focus-visible {
   outline: 2px solid var(--accent);
   outline-offset: 2px;
 }
 
 input[type="text"],
+input[type="search"],
 textarea {
-  border: 1px solid var(--hairline);
+  border: 1px solid var(--hairline-strong);
   background: var(--bg);
   border-radius: var(--radius-input);
   padding: var(--space-2);
@@ -113,16 +143,40 @@ textarea {
 }
 
 input[type="text"]:focus,
+input[type="search"]:focus,
 textarea:focus {
   outline: none;
   border-color: var(--accent);
 }
 
-/* Streaming underline pulse for the founder column heading.
-   Goes static when the `data-streaming` attribute is removed. */
+::placeholder {
+  color: var(--muted);
+  font-style: italic;
+  opacity: 1;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background: var(--hairline);
+  margin: var(--space-3) 0;
+}
+
+/* ───────────────── Streaming underline pulse ───────────────── */
+
 @keyframes underline-pulse {
+  0%, 100% { opacity: 1; transform: scaleX(1); }
+  50% { opacity: 0.45; transform: scaleX(0.96); }
+}
+
+@keyframes dot-pulse {
   0%, 100% { opacity: 1; }
   50% { opacity: 0.35; }
+}
+
+@keyframes caret-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.25; }
 }
 
 .streaming-underline {
@@ -131,13 +185,18 @@ textarea:focus {
   width: 100%;
 }
 
-.streaming-underline[data-streaming="true"] {
+.streaming-underline[data-streaming="true"],
+.pulse-underline[data-live="true"] {
   animation: underline-pulse 1.5s var(--ease) infinite;
+  transform-origin: left center;
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .streaming-underline[data-streaming="true"] {
-    animation: none;
+  .streaming-underline[data-streaming="true"],
+  .pulse-underline[data-live="true"],
+  .pulse-dot,
+  .stream-caret {
+    animation: none !important;
   }
   *,
   *::before,
@@ -148,10 +207,74 @@ textarea:focus {
   }
 }
 
-/* Hairline rule */
-hr {
-  border: none;
-  height: 1px;
-  background: var(--hairline);
-  margin: var(--space-3) 0;
+/* ───────────────── Reusable atoms ───────────────── */
+
+.wordmark {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  font-size: 18px;
+  color: var(--accent);
+  letter-spacing: 0.01em;
+  text-decoration: none;
+}
+.wordmark:hover {
+  text-decoration: none;
+}
+
+.smallcaps {
+  font-family: var(--font-sans);
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: var(--muted);
+}
+
+.mono-meta {
+  font-family: var(--font-mono);
+  font-size: var(--type-scale-micro);
+  color: var(--muted);
+}
+
+.cite-mark {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--accent);
+  vertical-align: super;
+  line-height: 1;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px dotted currentColor;
+  padding: 1px 2px;
+  margin: 0 1px;
+  cursor: pointer;
+  font-weight: 500;
+}
+.cite-mark:hover {
+  background: var(--accent-soft);
+}
+.cite-mark:disabled {
+  cursor: default;
+  opacity: 0.55;
+}
+
+.pulse-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  vertical-align: 2px;
+  margin-right: 6px;
+  animation: dot-pulse 1.5s var(--ease) infinite;
+}
+
+.stream-caret {
+  display: inline-block;
+  width: 2px;
+  height: 1em;
+  vertical-align: text-bottom;
+  background: var(--accent);
+  margin-left: 2px;
+  animation: caret-pulse 1.5s var(--ease) infinite;
 }

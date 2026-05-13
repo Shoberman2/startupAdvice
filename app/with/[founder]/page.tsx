@@ -1,10 +1,23 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { panelistMeta } from "@/lib/panel/all-panelists";
+import { SiteHeader } from "@/components/SiteHeader";
 import { ChatView } from "./ChatView";
 
 interface Params {
   founder: string;
+}
+
+function initials(name: string): string {
+  return name
+    .split(/\s+/)
+    .map((p) => p[0]?.toUpperCase() ?? "")
+    .join("")
+    .slice(0, 2);
+}
+
+function firstName(name: string): string {
+  return name.split(/\s+/)[0] ?? name;
 }
 
 export async function generateMetadata({ params }: { params: Promise<Params> }) {
@@ -32,7 +45,7 @@ export default async function WithFounderPage({ params }: { params: Promise<Para
   return (
     <main
       style={{
-        minHeight: "100vh",
+        minHeight: "100dvh",
         display: "flex",
         flexDirection: "column",
         maxWidth: 720,
@@ -40,68 +53,72 @@ export default async function WithFounderPage({ params }: { params: Promise<Para
         padding: "var(--space-3) var(--space-3) 0",
       }}
     >
-      <header
-        style={{
-          display: "flex",
-          justifyContent: "space-between",
-          alignItems: "center",
-          paddingBottom: "var(--space-2)",
-          borderBottom: "1px solid var(--hairline)",
-        }}
-      >
-        <Link
-          href="/"
-          style={{ fontFamily: "var(--font-serif)", fontSize: 18, color: "var(--accent)" }}
-        >
-          Founder Panel
-        </Link>
-        <Link
-          href="/with"
-          style={{
-            fontFamily: "var(--font-sans)",
-            fontSize: "var(--type-scale-meta)",
-            color: "var(--muted)",
-          }}
-        >
-          Talk to someone else →
-        </Link>
-      </header>
+      <SiteHeader
+        active="with"
+        rightSlot={
+          <Link
+            href="/with"
+            style={{
+              fontFamily: "var(--font-sans)",
+              fontSize: "var(--type-scale-meta)",
+              color: "var(--muted)",
+              textDecoration: "none",
+            }}
+          >
+            Talk to someone else →
+          </Link>
+        }
+      />
 
       <section
         style={{
           display: "flex",
           gap: "var(--space-2)",
           alignItems: "center",
-          padding: "var(--space-2) 0",
+          padding: "var(--space-3) 0 var(--space-2)",
+          marginTop: "var(--space-2)",
           borderBottom: "1px solid var(--hairline)",
         }}
       >
         <div
+          aria-hidden="true"
           style={{
-            width: 48,
-            height: 48,
-            background: "var(--hairline)",
-            backgroundImage: `url(${meta.avatarPath})`,
-            backgroundSize: "cover",
+            width: 56,
+            height: 56,
+            borderRadius: "var(--radius-avatar)",
+            background: "var(--accent-soft)",
+            color: "var(--accent)",
+            border: "1px solid var(--accent)",
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+            fontFamily: "var(--font-serif)",
+            fontSize: 22,
+            fontWeight: 500,
+            letterSpacing: "-0.02em",
             flexShrink: 0,
           }}
-          aria-hidden="true"
-        />
+        >
+          {initials(meta.name)}
+        </div>
         <div>
           <div
             style={{
               fontFamily: "var(--font-serif)",
-              fontSize: "var(--type-scale-body)",
+              fontSize: 24,
+              fontWeight: 500,
               color: "var(--text)",
+              lineHeight: 1.1,
             }}
           >
             {meta.name}
           </div>
           <div
             style={{
-              fontFamily: "var(--font-sans)",
+              fontFamily: "var(--font-mono)",
               fontSize: 12,
               color: "var(--muted)",
+              marginTop: 4,
             }}
           >
             {meta.era}
@@ -109,7 +126,11 @@ export default async function WithFounderPage({ params }: { params: Promise<Para
         </div>
       </section>
 
-      <ChatView founderSlug={meta.slug} founderName={meta.name} />
+      <ChatView
+        founderSlug={meta.slug}
+        founderName={meta.name}
+        founderFirstName={firstName(meta.name)}
+      />
     </main>
   );
 }

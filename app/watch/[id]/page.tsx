@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { SiteHeader } from "@/components/SiteHeader";
 import { DebateView } from "./DebateView";
 
 interface Params {
@@ -18,33 +19,31 @@ export default async function DebatePage({ params }: { params: Promise<Params> }
   return (
     <main
       style={{
-        minHeight: "100vh",
+        minHeight: "100dvh",
         padding: "var(--space-3)",
-        maxWidth: 720,
+        maxWidth: 820,
         margin: "0 auto",
         display: "flex",
         flexDirection: "column",
         gap: "var(--space-3)",
       }}
     >
-      <header style={{ display: "flex", justifyContent: "space-between" }}>
-        <Link
-          href="/"
-          style={{ fontFamily: "var(--font-serif)", fontSize: 18, color: "var(--accent)" }}
-        >
-          Founder Panel
-        </Link>
-        <Link
-          href="/watch"
-          style={{
-            fontFamily: "var(--font-sans)",
-            fontSize: "var(--type-scale-meta)",
-            color: "var(--muted)",
-          }}
-        >
-          All debates →
-        </Link>
-      </header>
+      <SiteHeader
+        active="watch"
+        rightSlot={
+          <Link
+            href="/watch"
+            style={{
+              fontFamily: "var(--font-sans)",
+              fontSize: "var(--type-scale-meta)",
+              color: "var(--muted)",
+              textDecoration: "none",
+            }}
+          >
+            ← Back to Watch
+          </Link>
+        }
+      />
 
       <DebateView debateId={id} />
     </main>

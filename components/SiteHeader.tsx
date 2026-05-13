@@ -1,0 +1,61 @@
+import Link from "next/link";
+import { ThemeToggle } from "./ThemeToggle";
+
+interface SiteHeaderProps {
+  /** Right-aligned content. If omitted, the standard nav renders. */
+  rightSlot?: React.ReactNode;
+  /** Which top-level link is the current section ("ask" | "think" | "with" | "watch"). */
+  active?: "ask" | "think" | "with" | "watch";
+}
+
+export function SiteHeader({ rightSlot, active }: SiteHeaderProps) {
+  const items: Array<{ key: NonNullable<SiteHeaderProps["active"]>; label: string; href: string }> = [
+    { key: "think", label: "Think", href: "/think" },
+    { key: "with", label: "Talk", href: "/with" },
+    { key: "watch", label: "Watch", href: "/watch" },
+    { key: "ask", label: "Ask", href: "/" },
+  ];
+
+  return (
+    <header
+      style={{
+        display: "flex",
+        justifyContent: "space-between",
+        alignItems: "center",
+        gap: "var(--space-2)",
+      }}
+    >
+      <Link href="/" className="wordmark">
+        Founder Panel
+      </Link>
+
+      <div style={{ display: "flex", alignItems: "center", gap: "var(--space-3)" }}>
+        {rightSlot ?? (
+          <nav
+            aria-label="Primary"
+            style={{
+              display: "flex",
+              gap: "var(--space-3)",
+              fontFamily: "var(--font-sans)",
+              fontSize: "var(--type-scale-meta)",
+            }}
+          >
+            {items.map((item) => (
+              <Link
+                key={item.key}
+                href={item.href}
+                style={{
+                  color: active === item.key ? "var(--text)" : "var(--muted)",
+                  textDecoration: "none",
+                }}
+              >
+                {item.label}
+              </Link>
+            ))}
+          </nav>
+        )}
+        <ThemeToggle />
+      </div>
+    </header>
+  );
+}

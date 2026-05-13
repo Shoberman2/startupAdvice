@@ -2,6 +2,7 @@ import Link from "next/link";
 import { ALL_PANELISTS } from "@/lib/panel/all-panelists";
 import { CATEGORY_LABELS, TOPICS, type TopicCategory } from "@/data/topics";
 import { listAllSummaryStubs } from "@/lib/summaries";
+import { SiteHeader } from "@/components/SiteHeader";
 
 export const dynamic = "force-dynamic";
 
@@ -10,230 +11,262 @@ export const metadata = {
   description: "How eight founders think about the questions that matter, in their own words.",
 };
 
+const ROMAN = ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x", "xi", "xii", "xiii", "xiv", "xv", "xvi"];
+const PART_ROMAN = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII"];
+
 export default async function ThinkIndex() {
   const stubs = await listAllSummaryStubs();
   const exists = new Set(stubs.map((s) => `${s.founderSlug}|${s.topicSlug}`));
 
-  const groupedTopics = groupByCategory();
+  // Founders with at least one summary, in declared order.
+  const foundersWithSummaries = ALL_PANELISTS.filter((p) =>
+    TOPICS.some((t) => exists.has(`${p.slug}|${t.slug}`)),
+  );
 
   return (
     <main
       style={{
-        minHeight: "100vh",
+        minHeight: "100dvh",
         padding: "var(--space-3)",
-        maxWidth: 1200,
+        maxWidth: 820,
         margin: "0 auto",
         display: "flex",
         flexDirection: "column",
-        gap: "var(--space-4)",
+        gap: "var(--space-3)",
       }}
     >
-      <header style={{ display: "flex", justifyContent: "space-between" }}>
-        <Link
-          href="/"
-          style={{
-            fontFamily: "var(--font-serif)",
-            fontSize: 18,
-            color: "var(--accent)",
-          }}
-        >
-          Founder Panel
-        </Link>
-        <nav style={{ display: "flex", gap: "var(--space-3)" }}>
-          <Link
-            href="/think"
-            style={{
-              fontFamily: "var(--font-sans)",
-              fontSize: "var(--type-scale-meta)",
-              color: "var(--text)",
-            }}
-          >
-            Think
-          </Link>
-          <Link
-            href="/"
-            style={{
-              fontFamily: "var(--font-sans)",
-              fontSize: "var(--type-scale-meta)",
-              color: "var(--muted)",
-            }}
-          >
-            Ask
-          </Link>
-        </nav>
-      </header>
+      <SiteHeader active="think" />
 
-      <section style={{ display: "flex", flexDirection: "column", gap: "var(--space-1)" }}>
+      <section
+        style={{
+          paddingBottom: "var(--space-2)",
+          borderBottom: "2px solid var(--text)",
+          marginTop: "var(--space-3)",
+          display: "flex",
+          flexDirection: "column",
+          gap: 4,
+        }}
+      >
         <h1
           style={{
             margin: 0,
             fontFamily: "var(--font-serif)",
-            fontSize: "var(--type-scale-question)",
-            fontWeight: 400,
-            lineHeight: 1.2,
+            fontSize: 34,
+            fontWeight: 500,
+            lineHeight: 1.1,
+            letterSpacing: "-0.005em",
           }}
         >
-          How eight founders think
+          Think
         </h1>
         <p
           style={{
             margin: 0,
             color: "var(--muted)",
             fontFamily: "var(--font-serif)",
-            fontSize: "var(--type-scale-body)",
             fontStyle: "italic",
+            fontSize: 17,
           }}
         >
-          Distilled positions from {TOPICS.length} topics, in their own words, with receipts.
+          Topical summaries across the eight-blog corpus. Read what each founder has said
+          about the topics that matter to you.
         </p>
       </section>
 
-      <section style={{ display: "flex", flexDirection: "column", gap: "var(--space-3)" }}>
-        <h2
+      {foundersWithSummaries.length === 0 && (
+        <p
           style={{
-            fontFamily: "var(--font-sans)",
-            fontSize: 13,
-            letterSpacing: "0.08em",
-            textTransform: "uppercase",
+            fontFamily: "var(--font-serif)",
+            fontStyle: "italic",
             color: "var(--muted)",
+            padding: "var(--space-4) 0",
             margin: 0,
           }}
         >
-          By founder
-        </h2>
-        <div
-          style={{
-            display: "grid",
-            gridTemplateColumns: "repeat(auto-fill, minmax(240px, 1fr))",
-            gap: "var(--space-2)",
-          }}
-        >
-          {ALL_PANELISTS.map((p) => {
-            const topicCount = TOPICS.filter((t) =>
-              exists.has(`${p.slug}|${t.slug}`),
-            ).length;
-            return (
-              <Link
-                key={p.slug}
-                href={`/think/${p.slug}`}
-                style={{
-                  display: "flex",
-                  alignItems: "center",
-                  gap: "var(--space-2)",
-                  padding: "var(--space-2) 0",
-                  borderTop: "1px solid var(--hairline)",
-                  color: "var(--text)",
-                  textDecoration: "none",
-                }}
-              >
-                <div
-                  style={{
-                    width: 48,
-                    height: 48,
-                    background: "var(--hairline)",
-                    backgroundImage: `url(${p.avatarPath})`,
-                    backgroundSize: "cover",
-                  }}
-                  aria-hidden="true"
-                />
-                <div>
-                  <div
-                    style={{
-                      fontFamily: "var(--font-serif)",
-                      fontSize: "var(--type-scale-body)",
-                      color: "var(--text)",
-                    }}
-                  >
-                    {p.name}
-                  </div>
-                  <div
-                    style={{
-                      fontFamily: "var(--font-sans)",
-                      fontSize: 12,
-                      color: "var(--muted)",
-                    }}
-                  >
-                    {topicCount} {topicCount === 1 ? "topic" : "topics"}
-                  </div>
-                </div>
-              </Link>
-            );
-          })}
-        </div>
-      </section>
+          No summaries generated yet. Run{" "}
+          <code style={{ fontFamily: "var(--font-mono)", fontSize: 14 }}>
+            bun run generate-summaries
+          </code>{" "}
+          to populate the library.
+        </p>
+      )}
 
-      <section style={{ display: "flex", flexDirection: "column", gap: "var(--space-3)" }}>
-        <h2
-          style={{
-            fontFamily: "var(--font-sans)",
-            fontSize: 13,
-            letterSpacing: "0.08em",
-            textTransform: "uppercase",
-            color: "var(--muted)",
-            margin: 0,
-          }}
-        >
-          By topic
-        </h2>
-        {(Object.keys(groupedTopics) as TopicCategory[]).map((cat) => (
-          <section
-            key={cat}
-            style={{ display: "flex", flexDirection: "column", gap: "var(--space-1)" }}
-          >
-            <h3
+      {foundersWithSummaries.map((p, partIdx) => {
+        const topicsForFounder = TOPICS.filter((t) => exists.has(`${p.slug}|${t.slug}`));
+        return (
+          <section key={p.slug} style={{ marginTop: "var(--space-3)" }}>
+            <div className="smallcaps" style={{ color: "var(--accent)", marginBottom: 4 }}>
+              Part {PART_ROMAN[partIdx] ?? partIdx + 1}
+            </div>
+            <h2
               style={{
+                margin: "0 0 var(--space-2)",
                 fontFamily: "var(--font-serif)",
-                fontSize: "var(--type-scale-body)",
-                fontStyle: "italic",
-                color: "var(--text)",
-                margin: 0,
-                fontWeight: 400,
+                fontSize: 22,
+                fontWeight: 500,
+                letterSpacing: "-0.005em",
               }}
             >
-              {CATEGORY_LABELS[cat]}
-            </h3>
+              <Link href={`/think/${p.slug}`} style={{ color: "var(--text)", textDecoration: "none" }}>
+                {p.name}
+              </Link>
+            </h2>
             <ul style={{ listStyle: "none", padding: 0, margin: 0 }}>
-              {groupedTopics[cat].map((t) => {
-                const count = ALL_PANELISTS.filter((p) =>
-                  exists.has(`${p.slug}|${t.slug}`),
-                ).length;
-                return (
-                  <li
-                    key={t.slug}
+              {topicsForFounder.map((t, ti) => (
+                <li key={t.slug}>
+                  <Link
+                    href={`/think/${p.slug}/${t.slug}`}
                     style={{
-                      borderTop: "1px solid var(--hairline)",
-                      padding: "var(--space-1) 0",
-                      display: "flex",
-                      justifyContent: "space-between",
+                      display: "grid",
+                      gridTemplateColumns: "32px 1fr auto auto",
+                      gap: 12,
                       alignItems: "baseline",
-                      gap: "var(--space-2)",
+                      padding: "10px 0",
+                      borderBottom: "1px dotted var(--hairline)",
+                      textDecoration: "none",
+                      color: "var(--text)",
+                      fontFamily: "var(--font-serif)",
+                      fontSize: 17,
                     }}
                   >
                     <span
                       style={{
-                        fontFamily: "var(--font-serif)",
-                        fontSize: "var(--type-scale-body)",
-                      }}
-                    >
-                      {t.label}
-                    </span>
-                    <span
-                      style={{
-                        fontFamily: "var(--font-sans)",
+                        fontFamily: "var(--font-mono)",
                         fontSize: 12,
                         color: "var(--muted)",
                       }}
                     >
-                      {count}/{ALL_PANELISTS.length} founders
+                      {ROMAN[ti] ?? ti + 1}.
                     </span>
-                  </li>
-                );
-              })}
+                    <span>
+                      {t.label}
+                      {t.description && (
+                        <em
+                          style={{
+                            color: "var(--muted)",
+                            fontStyle: "italic",
+                            fontSize: 14,
+                            marginLeft: 8,
+                          }}
+                        >
+                          — {t.description}
+                        </em>
+                      )}
+                    </span>
+                    <span
+                      style={{
+                        fontFamily: "var(--font-mono)",
+                        fontSize: 12,
+                        color: "var(--muted)",
+                      }}
+                    >
+                      summary
+                    </span>
+                    <span
+                      aria-hidden="true"
+                      style={{
+                        fontFamily: "var(--font-mono)",
+                        fontSize: 13,
+                        color: "var(--accent)",
+                      }}
+                    >
+                      →
+                    </span>
+                  </Link>
+                </li>
+              ))}
             </ul>
           </section>
-        ))}
-      </section>
+        );
+      })}
+
+      <ByTopicIndex stubs={stubs} />
     </main>
+  );
+}
+
+function ByTopicIndex({ stubs }: { stubs: Array<{ founderSlug: string; topicSlug: string }> }) {
+  const exists = new Set(stubs.map((s) => `${s.founderSlug}|${s.topicSlug}`));
+  const groupedTopics = groupByCategory();
+  const categories = Object.keys(groupedTopics) as TopicCategory[];
+
+  if (categories.length === 0) return null;
+
+  return (
+    <section
+      style={{
+        marginTop: "var(--space-5)",
+        paddingTop: "var(--space-3)",
+        borderTop: "2px solid var(--text)",
+        display: "flex",
+        flexDirection: "column",
+        gap: "var(--space-3)",
+      }}
+    >
+      <div>
+        <div className="smallcaps" style={{ color: "var(--accent)", marginBottom: 4 }}>
+          Index
+        </div>
+        <h2
+          style={{
+            margin: 0,
+            fontFamily: "var(--font-serif)",
+            fontSize: 22,
+            fontWeight: 500,
+          }}
+        >
+          By topic
+        </h2>
+      </div>
+
+      {categories.map((cat) => (
+        <div key={cat}>
+          <h3
+            style={{
+              margin: "0 0 var(--space-1)",
+              fontFamily: "var(--font-serif)",
+              fontStyle: "italic",
+              fontSize: 17,
+              fontWeight: 400,
+              color: "var(--text)",
+            }}
+          >
+            {CATEGORY_LABELS[cat]}
+          </h3>
+          <ul style={{ listStyle: "none", padding: 0, margin: 0 }}>
+            {groupedTopics[cat].map((t) => {
+              const count = ALL_PANELISTS.filter((p) => exists.has(`${p.slug}|${t.slug}`)).length;
+              return (
+                <li
+                  key={t.slug}
+                  style={{
+                    padding: "8px 0",
+                    borderBottom: "1px dotted var(--hairline)",
+                    display: "flex",
+                    justifyContent: "space-between",
+                    alignItems: "baseline",
+                    gap: "var(--space-2)",
+                    fontFamily: "var(--font-serif)",
+                    fontSize: 17,
+                  }}
+                >
+                  <span>{t.label}</span>
+                  <span
+                    style={{
+                      fontFamily: "var(--font-mono)",
+                      fontSize: 12,
+                      color: "var(--muted)",
+                    }}
+                  >
+                    {count}/{ALL_PANELISTS.length} founders
+                  </span>
+                </li>
+              );
+            })}
+          </ul>
+        </div>
+      ))}
+    </section>
   );
 }
 

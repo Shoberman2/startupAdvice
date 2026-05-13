@@ -37,3 +37,4 @@ test-results
 
 # Claude Code / agent state — developer-specific, not shared
 .claude/
+.gstack/

@@ -39,17 +39,13 @@ export function DebateView({ debateId }: { debateId: string }) {
         setData(next);
         setError(null);
 
-        // Auto-scroll only if a NEW message arrived since the last poll.
         if (next.messages.length > messageCountRef.current) {
           messageCountRef.current = next.messages.length;
-          // Small delay so the new DOM lands first.
           setTimeout(() => {
             bottomRef.current?.scrollIntoView({ behavior: "smooth" });
           }, 50);
         }
 
-        // Continue polling while the debate is active. Concluded debates
-        // are static — stop polling to save bandwidth.
         if (next.session.status === "active") {
           pollHandle = setTimeout(load, 20_000);
         }
@@ -70,49 +66,84 @@ export function DebateView({ debateId }: { debateId: string }) {
 
   if (error) {
     return (
-      <div role="alert" style={{ color: "var(--muted)", fontStyle: "italic" }}>
+      <div
+        role="alert"
+        style={{
+          fontFamily: "var(--font-serif)",
+          fontSize: 17,
+          color: "var(--text)",
+          borderLeft: "2px solid var(--accent)",
+          paddingLeft: "var(--space-2)",
+        }}
+      >
+        <div className="smallcaps" style={{ color: "var(--accent)", marginBottom: 4 }}>
+          Error
+        </div>
         {error}
       </div>
     );
   }
 
   if (!data) {
-    return <div style={{ color: "var(--muted)", fontStyle: "italic" }}>Loading…</div>;
+    return (
+      <div style={{ color: "var(--muted)", fontStyle: "italic", padding: "var(--space-3) 0" }}>
+        Loading…
+      </div>
+    );
   }
 
   const { session, messages } = data;
+  const isActive = session.status === "active";
+  // The last message is "currently writing" only if the debate is still active
+  // AND turnCount < maxTurns (i.e., we expect another turn after it). When the
+  // debate hits its cap or concludes, the last message is just the last message.
+  const lastMessageIsActive = isActive && messages.length > 0 && session.turnCount < session.maxTurns;
+  const expectingFirstTurn = isActive && messages.length === 0;
 
   return (
     <>
-      <section style={{ display: "flex", flexDirection: "column", gap: "var(--space-1)" }}>
+      <section
+        style={{
+          paddingBottom: "var(--space-2)",
+          borderBottom: "1px solid var(--hairline)",
+          display: "flex",
+          flexDirection: "column",
+          gap: 6,
+        }}
+      >
         <div
-          style={{
-            fontFamily: "var(--font-sans)",
-            fontSize: 12,
-            color: "var(--muted)",
-            letterSpacing: "0.04em",
-            textTransform: "uppercase",
-          }}
+          className="smallcaps"
+          style={{ color: isActive ? "var(--accent)" : "var(--muted)" }}
         >
-          {session.status === "active"
-            ? `Active · Turn ${session.turnCount}/${session.maxTurns}`
-            : `Concluded · ${session.turnCount} turns`}
+          {isActive && <span className="pulse-dot" />}
+          {isActive
+            ? `Live debate · turn ${session.turnCount} of ${session.maxTurns}`
+            : `Concluded · ${session.turnCount} ${session.turnCount === 1 ? "turn" : "turns"}`}
         </div>
         <h1
           style={{
             margin: 0,
             fontFamily: "var(--font-serif)",
             fontSize: 32,
-            fontWeight: 400,
+            fontWeight: 500,
             lineHeight: 1.2,
+            letterSpacing: "-0.005em",
           }}
         >
           {session.topic}
         </h1>
-        <FounderRoster founders={session.founders} />
+        <div className="mono-meta">
+          {new Date(session.startedAt).toLocaleString("en-US", {
+            month: "short",
+            day: "numeric",
+            year: "numeric",
+            hour: "numeric",
+            minute: "2-digit",
+          })}
+          {" · "}
+          {session.founders.map(safeName).join(", ")}
+        </div>
       </section>
-
-      <hr />
 
       <section
         aria-live="polite"
@@ -120,44 +151,49 @@ export function DebateView({ debateId }: { debateId: string }) {
         style={{
           display: "flex",
           flexDirection: "column",
-          gap: "var(--space-3)",
+          marginTop: "var(--space-2)",
         }}
       >
-        {messages.length === 0 && (
-          <div
+        {expectingFirstTurn && (
+          <p
             style={{
-              color: "var(--muted)",
               fontFamily: "var(--font-serif)",
               fontStyle: "italic",
+              color: "var(--muted)",
+              margin: "var(--space-3) 0",
             }}
           >
-            Just seeded. First turn lands at the next cron tick.
-          </div>
+            Seeded. First turn lands at the next cron tick.
+          </p>
         )}
 
-        {messages.map((m) => (
-          <DebateMessageView
-            key={m.id}
-            message={m}
-            onCitationClick={(citation) =>
-              setDrawer({
-                panelistSlug: m.founderSlug,
-                postUrl: citation.post_url,
-                paragraphIndex: citation.paragraph_idx,
-              })
-            }
-          />
-        ))}
+        {messages.map((m, i) => {
+          const isLast = i === messages.length - 1;
+          const writing = lastMessageIsActive && isLast;
+          return (
+            <Turn
+              key={m.id}
+              message={m}
+              writing={writing}
+              onCitationClick={(citation) =>
+                setDrawer({
+                  panelistSlug: m.founderSlug,
+                  postUrl: citation.post_url,
+                  paragraphIndex: citation.paragraph_idx,
+                })
+              }
+            />
+          );
+        })}
 
-        {session.status === "active" && (
+        {isActive && messages.length > 0 && !lastMessageIsActive && (
           <div
+            className="mono-meta"
             style={{
-              fontFamily: "var(--font-sans)",
-              fontSize: 12,
-              color: "var(--muted)",
-              fontStyle: "italic",
-              paddingTop: "var(--space-1)",
+              padding: "var(--space-2) 0 0",
               borderTop: "1px solid var(--hairline)",
+              marginTop: "var(--space-2)",
+              fontStyle: "italic",
             }}
           >
             Waiting for the next turn. New messages appear every ~15 minutes.
@@ -176,98 +212,80 @@ export function DebateView({ debateId }: { debateId: string }) {
   );
 }
 
-function FounderRoster({ founders }: { founders: string[] }) {
-  return (
-    <div
-      style={{
-        display: "flex",
-        alignItems: "center",
-        gap: "var(--space-2)",
-        marginTop: "var(--space-1)",
-      }}
-    >
-      <div style={{ display: "flex" }}>
-        {founders.map((slug, i) => (
-          <div
-            key={slug}
-            aria-hidden="true"
-            style={{
-              width: 32,
-              height: 32,
-              background: "var(--hairline)",
-              backgroundImage: `url(${safeAvatar(slug)})`,
-              backgroundSize: "cover",
-              marginLeft: i === 0 ? 0 : -8,
-              outline: "1px solid var(--bg)",
-              position: "relative",
-              zIndex: founders.length - i,
-            }}
-          />
-        ))}
-      </div>
-      <span style={{ fontFamily: "var(--font-sans)", fontSize: 13, color: "var(--muted)" }}>
-        {founders.map(safeName).join(" · ")}
-      </span>
-    </div>
-  );
-}
-
-function DebateMessageView({
+function Turn({
   message,
+  writing,
   onCitationClick,
 }: {
   message: DebateMessage;
+  writing: boolean;
   onCitationClick: (c: DebateMessage["citations"][number]) => void;
 }) {
   const name = safeName(message.founderSlug);
+  const era = safeEra(message.founderSlug);
   const parts = splitCitations(message.content);
 
   return (
     <article
       style={{
-        display: "flex",
-        flexDirection: "column",
-        gap: "var(--space-1)",
+        padding: "var(--space-2) var(--space-2) var(--space-2) var(--space-3)",
+        margin: "var(--space-2) 0",
+        borderLeft: `2px solid ${writing ? "var(--accent)" : "transparent"}`,
+        background: writing ? "var(--accent-soft)" : "transparent",
+        transition: "background var(--duration-fast) var(--ease)",
       }}
     >
       <header
         style={{
           display: "flex",
           alignItems: "center",
-          gap: "var(--space-1)",
-          fontFamily: "var(--font-sans)",
-          fontSize: 12,
-          color: "var(--muted)",
+          gap: 10,
+          marginBottom: "var(--space-1)",
         }}
       >
-        <div
-          aria-hidden="true"
+        <span
           style={{
-            width: 24,
-            height: 24,
-            background: "var(--hairline)",
-            backgroundImage: `url(${safeAvatar(message.founderSlug)})`,
-            backgroundSize: "cover",
+            fontFamily: "var(--font-sans)",
+            fontSize: 11,
+            fontWeight: 600,
+            letterSpacing: "0.2em",
+            textTransform: "uppercase",
+            color: "var(--text)",
           }}
-        />
-        <span style={{ color: "var(--text)", letterSpacing: "0.02em" }}>{name}</span>
-        <span aria-hidden="true">·</span>
-        <span>Turn {message.turnIndex + 1}</span>
-        {message.respondsTo.length > 0 && (
-          <>
-            <span aria-hidden="true">·</span>
-            <span>↳ {message.respondsTo.map((t) => `turn ${t + 1}`).join(", ")}</span>
-          </>
+        >
+          {name}
+        </span>
+        {era && (
+          <span
+            style={{
+              fontFamily: "var(--font-mono)",
+              fontSize: 10,
+              color: "var(--muted)",
+            }}
+          >
+            {era}
+          </span>
+        )}
+        {writing && (
+          <span
+            style={{
+              marginLeft: "auto",
+              fontFamily: "var(--font-mono)",
+              fontStyle: "italic",
+              fontSize: 10,
+              color: "var(--accent)",
+            }}
+          >
+            writing…
+          </span>
         )}
       </header>
       <div
         style={{
           fontFamily: "var(--font-serif)",
-          fontSize: "var(--type-scale-body)",
-          lineHeight: 1.55,
+          fontSize: 17,
+          lineHeight: 1.6,
           color: "var(--text)",
-          paddingLeft: "var(--space-3)",
-          borderLeft: "2px solid var(--accent)",
           whiteSpace: "pre-wrap",
         }}
       >
@@ -285,6 +303,7 @@ function DebateMessageView({
             />
           ),
         )}
+        {writing && <span className="stream-caret" aria-hidden="true" />}
       </div>
     </article>
   );
@@ -292,23 +311,14 @@ function DebateMessageView({
 
 function CitationMark({ num, onClick }: { num: number; onClick: () => void }) {
   return (
-    <sup style={{ fontFamily: "var(--font-mono)", fontSize: "0.7em", margin: "0 1px" }}>
-      <button
-        type="button"
-        onClick={onClick}
-        style={{
-          background: "transparent",
-          color: "var(--accent)",
-          border: "none",
-          padding: 0,
-          font: "inherit",
-          cursor: "pointer",
-        }}
-        aria-label={`Open source for citation ${num + 1}`}
-      >
-        [{num + 1}]
-      </button>
-    </sup>
+    <button
+      type="button"
+      onClick={onClick}
+      className="cite-mark"
+      aria-label={`Open source for citation ${num + 1}`}
+    >
+      [{num + 1}]
+    </button>
   );
 }
 
@@ -320,9 +330,9 @@ function safeName(slug: string): string {
   }
 }
 
-function safeAvatar(slug: string): string {
+function safeEra(slug: string): string {
   try {
-    return panelistMeta(slug).avatarPath;
+    return panelistMeta(slug).era;
   } catch {
     return "";
   }

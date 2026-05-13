@@ -1,16 +1,25 @@
 import Link from "next/link";
 import { ALL_PANELISTS } from "@/lib/panel/all-panelists";
+import { SiteHeader } from "@/components/SiteHeader";
 
 export const metadata = {
   title: "Talk with a founder — Founder Panel",
   description: "Pick a founder and have a one-on-one conversation grounded in their essays.",
 };
 
+function initials(name: string): string {
+  return name
+    .split(/\s+/)
+    .map((p) => p[0]?.toUpperCase() ?? "")
+    .join("")
+    .slice(0, 2);
+}
+
 export default function WithIndex() {
   return (
     <main
       style={{
-        minHeight: "100vh",
+        minHeight: "100dvh",
         padding: "var(--space-3)",
         maxWidth: 720,
         margin: "0 auto",
@@ -19,32 +28,7 @@ export default function WithIndex() {
         gap: "var(--space-4)",
       }}
     >
-      <header style={{ display: "flex", justifyContent: "space-between" }}>
-        <Link
-          href="/"
-          style={{ fontFamily: "var(--font-serif)", fontSize: 18, color: "var(--accent)" }}
-        >
-          Founder Panel
-        </Link>
-        <nav
-          style={{
-            display: "flex",
-            gap: "var(--space-3)",
-            fontFamily: "var(--font-sans)",
-            fontSize: "var(--type-scale-meta)",
-          }}
-        >
-          <Link href="/think" style={{ color: "var(--muted)" }}>
-            Think
-          </Link>
-          <Link href="/with" style={{ color: "var(--text)" }}>
-            Talk
-          </Link>
-          <Link href="/" style={{ color: "var(--muted)" }}>
-            Ask
-          </Link>
-        </nav>
-      </header>
+      <SiteHeader active="with" />
 
       <section style={{ display: "flex", flexDirection: "column", gap: "var(--space-1)" }}>
         <h1
@@ -52,8 +36,9 @@ export default function WithIndex() {
             margin: 0,
             fontFamily: "var(--font-serif)",
             fontSize: "var(--type-scale-question)",
-            fontWeight: 400,
+            fontWeight: 500,
             lineHeight: 1.2,
+            letterSpacing: "-0.005em",
           }}
         >
           Pick a founder to talk with
@@ -64,6 +49,7 @@ export default function WithIndex() {
             color: "var(--muted)",
             fontFamily: "var(--font-serif)",
             fontStyle: "italic",
+            fontSize: 17,
           }}
         >
           One-on-one. In their voice. With citations on every claim.
@@ -94,35 +80,58 @@ export default function WithIndex() {
               }}
             >
               <div
+                aria-hidden="true"
                 style={{
-                  width: 56,
-                  height: 56,
-                  background: "var(--hairline)",
-                  backgroundImage: `url(${p.avatarPath})`,
-                  backgroundSize: "cover",
+                  width: 48,
+                  height: 48,
+                  borderRadius: "var(--radius-avatar)",
+                  background: "var(--accent-soft)",
+                  color: "var(--accent)",
+                  border: "1px solid var(--accent)",
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "center",
+                  fontFamily: "var(--font-serif)",
+                  fontSize: 18,
+                  fontWeight: 500,
                   flexShrink: 0,
                 }}
-                aria-hidden="true"
-              />
+              >
+                {initials(p.name)}
+              </div>
               <div>
                 <div
                   style={{
                     fontFamily: "var(--font-serif)",
                     fontSize: "var(--type-scale-body)",
+                    fontWeight: 500,
+                    lineHeight: 1.2,
                   }}
                 >
                   {p.name}
                 </div>
                 <div
                   style={{
-                    fontFamily: "var(--font-sans)",
+                    fontFamily: "var(--font-mono)",
                     fontSize: 12,
                     color: "var(--muted)",
+                    marginTop: 3,
                   }}
                 >
                   {p.era}
                 </div>
               </div>
+              <span
+                aria-hidden="true"
+                style={{
+                  marginLeft: "auto",
+                  fontFamily: "var(--font-mono)",
+                  fontSize: 13,
+                  color: "var(--accent)",
+                }}
+              >
+                →
+              </span>
             </Link>
           </li>
         ))}

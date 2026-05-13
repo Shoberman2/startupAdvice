@@ -1,55 +1,24 @@
-/**
- * Landing — pre-question state.
- *
- * Active-state rendering lives in app/panel/page.tsx; this file is the
- * editorial first-impression: wordmark, claim, input, four pinned questions.
- */
+import Link from "next/link";
+import { SiteHeader } from "@/components/SiteHeader";
+
+const CANONICAL_QUESTIONS = [
+  "Should I raise venture capital now?",
+  "When do I fire my cofounder?",
+  "Should I quit my job to start something?",
+  "Should I pivot?",
+];
+
 export default function HomePage() {
   return (
     <main
       style={{
-        minHeight: "100vh",
+        minHeight: "100dvh",
         display: "flex",
         flexDirection: "column",
         padding: "var(--space-3)",
       }}
     >
-      <header
-        style={{
-          display: "flex",
-          justifyContent: "space-between",
-          alignItems: "center",
-        }}
-      >
-        <span
-          style={{
-            fontFamily: "var(--font-serif)",
-            fontSize: 18,
-            color: "var(--accent)",
-          }}
-        >
-          Founder Panel
-        </span>
-        <nav
-          style={{
-            display: "flex",
-            gap: "var(--space-3)",
-            fontFamily: "var(--font-sans)",
-            fontSize: "var(--type-scale-meta)",
-          }}
-        >
-          <a href="/think" style={{ color: "var(--muted)" }}>
-            Think
-          </a>
-          <a href="/with" style={{ color: "var(--muted)" }}>
-            Talk
-          </a>
-          <a href="/watch" style={{ color: "var(--muted)" }}>
-            Watch
-          </a>
-          <span style={{ color: "var(--text)" }}>Ask</span>
-        </nav>
-      </header>
+      <SiteHeader active="ask" />
 
       <section
         style={{
@@ -62,16 +31,18 @@ export default function HomePage() {
           margin: "0 auto",
           width: "100%",
           gap: "var(--space-4)",
+          padding: "var(--space-5) 0",
         }}
       >
         <h1
           style={{
             fontFamily: "var(--font-serif)",
             fontSize: "var(--type-scale-question)",
-            fontWeight: 400,
+            fontWeight: 500,
             textAlign: "center",
             margin: 0,
-            lineHeight: 1.25,
+            lineHeight: 1.2,
+            letterSpacing: "-0.005em",
           }}
         >
           Eight founders. Your question. With receipts.
@@ -80,7 +51,12 @@ export default function HomePage() {
         <form
           action="/panel"
           method="get"
-          style={{ width: "100%", display: "flex", flexDirection: "column", gap: "var(--space-2)" }}
+          style={{
+            width: "100%",
+            display: "flex",
+            flexDirection: "column",
+            gap: "var(--space-2)",
+          }}
         >
           <input
             type="text"
@@ -107,24 +83,20 @@ export default function HomePage() {
             width: "100%",
           }}
         >
-          {[
-            "Should I raise venture capital now?",
-            "When do I fire my cofounder?",
-            "Should I quit my job to start something?",
-            "Should I pivot?",
-          ].map((q) => (
+          {CANONICAL_QUESTIONS.map((q) => (
             <li key={q}>
-              <a
+              <Link
                 href={`/panel?q=${encodeURIComponent(q)}`}
                 style={{
                   fontFamily: "var(--font-serif)",
                   color: "var(--text)",
                   textDecoration: "none",
+                  fontSize: 17,
                 }}
               >
                 <span style={{ color: "var(--muted)", marginRight: 8 }}>·</span>
                 {q}
-              </a>
+              </Link>
             </li>
           ))}
         </ul>

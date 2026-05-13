@@ -38,7 +38,19 @@ export function WatchFeed() {
 
   if (error) {
     return (
-      <div role="alert" style={{ color: "var(--muted)", fontStyle: "italic" }}>
+      <div
+        role="alert"
+        style={{
+          fontFamily: "var(--font-serif)",
+          fontSize: 17,
+          color: "var(--text)",
+          borderLeft: "2px solid var(--accent)",
+          paddingLeft: "var(--space-2)",
+        }}
+      >
+        <div className="smallcaps" style={{ color: "var(--accent)", marginBottom: 4 }}>
+          Error
+        </div>
         {error}
       </div>
     );
@@ -46,77 +58,72 @@ export function WatchFeed() {
 
   if (!feed) {
     return (
-      <div style={{ color: "var(--muted)", fontStyle: "italic" }}>Loading…</div>
+      <div
+        style={{
+          color: "var(--muted)",
+          fontFamily: "var(--font-serif)",
+          fontStyle: "italic",
+          padding: "var(--space-3) 0",
+        }}
+      >
+        Loading the feed…
+      </div>
+    );
+  }
+
+  const liveCount = feed.active.length;
+  const allRows: Array<{ session: DebateSession | DebateWithLatest; live: boolean }> = [
+    ...feed.active.map((d) => ({ session: d, live: true })),
+    ...feed.concluded.map((d) => ({ session: d, live: false })),
+  ];
+
+  if (allRows.length === 0) {
+    return (
+      <p
+        style={{
+          fontFamily: "var(--font-serif)",
+          fontStyle: "italic",
+          color: "var(--muted)",
+          padding: "var(--space-3) 0",
+          margin: 0,
+        }}
+      >
+        No debates yet today. The next cron tick starts one.
+      </p>
     );
   }
 
   return (
     <>
-      <Section title="Active">
-        {feed.active.length === 0 ? (
-          <Empty text="No debates running right now. The next cron tick will start one." />
-        ) : (
-          <ul style={{ listStyle: "none", padding: 0, margin: 0 }}>
-            {feed.active.map((d) => (
-              <li key={d.id}>
-                <DebateCard debate={d} />
-              </li>
-            ))}
-          </ul>
-        )}
-      </Section>
+      <div
+        className="mono-meta"
+        style={{ paddingBottom: "var(--space-1)" }}
+        aria-live="polite"
+      >
+        {liveCount === 0
+          ? `${allRows.length} concluded ${allRows.length === 1 ? "debate" : "debates"}`
+          : liveCount === allRows.length
+            ? `${liveCount} live ${liveCount === 1 ? "debate" : "debates"}`
+            : `${liveCount} live · ${allRows.length - liveCount} concluded`}
+      </div>
 
-      {feed.concluded.length > 0 && (
-        <Section title="Concluded">
-          <ul style={{ listStyle: "none", padding: 0, margin: 0 }}>
-            {feed.concluded.map((d) => (
-              <li key={d.id}>
-                <DebateCard debate={{ ...d, latestMessage: null }} />
-              </li>
-            ))}
-          </ul>
-        </Section>
-      )}
+      <ul style={{ listStyle: "none", padding: 0, margin: 0 }}>
+        {allRows.map(({ session, live }) => (
+          <li key={session.id}>
+            <DebateRow
+              debate={"latestMessage" in session ? session : { ...session, latestMessage: null }}
+              live={live}
+            />
+          </li>
+        ))}
+      </ul>
     </>
   );
 }
 
-function Section({ title, children }: { title: string; children: React.ReactNode }) {
-  return (
-    <section style={{ display: "flex", flexDirection: "column", gap: "var(--space-2)" }}>
-      <h2
-        style={{
-          fontFamily: "var(--font-sans)",
-          fontSize: 13,
-          letterSpacing: "0.08em",
-          textTransform: "uppercase",
-          color: "var(--muted)",
-          margin: 0,
-        }}
-      >
-        {title}
-      </h2>
-      {children}
-    </section>
-  );
-}
+function DebateRow({ debate, live }: { debate: DebateWithLatest; live: boolean }) {
+  const founders = debate.founders.map(safeName).join(" · ");
 
-function Empty({ text }: { text: string }) {
-  return (
-    <div
-      style={{
-        color: "var(--muted)",
-        fontFamily: "var(--font-serif)",
-        fontStyle: "italic",
-        padding: "var(--space-2) 0",
-      }}
-    >
-      {text}
-    </div>
-  );
-}
-
-function DebateCard({ debate }: { debate: DebateWithLatest }) {
   return (
     <Link
       href={`/watch/${debate.id}`}
@@ -124,108 +131,92 @@ function DebateCard({ debate }: { debate: DebateWithLatest }) {
         display: "block",
         textDecoration: "none",
         color: "var(--text)",
-        borderTop: "1px solid var(--hairline)",
-        padding: "var(--space-2) 0",
+        padding: "var(--space-3) 0",
+        borderBottom: "1px solid var(--hairline)",
       }}
     >
       <div
         style={{
-          display: "flex",
-          justifyContent: "space-between",
-          gap: "var(--space-2)",
-          alignItems: "baseline",
+          fontFamily: "var(--font-sans)",
+          fontSize: 11,
+          fontWeight: 600,
+          letterSpacing: "0.18em",
+          textTransform: "uppercase",
+          color: live ? "var(--accent)" : "var(--muted)",
+          marginBottom: 6,
         }}
       >
-        <h3
-          style={{
-            margin: 0,
-            fontFamily: "var(--font-serif)",
-            fontSize: "var(--type-scale-body)",
-            fontWeight: 400,
-            flex: 1,
-          }}
-        >
-          {debate.topic}
-        </h3>
-        <span
-          style={{
-            fontFamily: "var(--font-sans)",
-            fontSize: 12,
-            color: "var(--muted)",
-            flexShrink: 0,
-          }}
-        >
-          Turn {debate.turnCount}/{debate.maxTurns} · {timeAgo(debate.lastMessageAt)}
-        </span>
+        {live && <span className="pulse-dot" />}
+        {live
+          ? `Live · turn ${debate.turnCount}`
+          : `Concluded · ${debate.turnCount} ${debate.turnCount === 1 ? "turn" : "turns"}`}
       </div>
 
-      <div
+      <h3
         style={{
-          display: "flex",
-          alignItems: "center",
-          gap: "var(--space-2)",
-          marginTop: "var(--space-1)",
+          margin: "0 0 8px",
+          fontFamily: "var(--font-serif)",
+          fontSize: 28,
+          fontWeight: 500,
+          lineHeight: 1.2,
+          letterSpacing: "-0.005em",
+          display: "inline-block",
+          position: "relative",
         }}
       >
-        <FounderAvatars founders={debate.founders} />
-        <span
-          style={{
-            fontFamily: "var(--font-sans)",
-            fontSize: 12,
-            color: "var(--muted)",
-          }}
-        >
-          {debate.founders.map((f) => safeName(f)).join(" · ")}
-        </span>
-      </div>
+        {debate.topic}
+        {live && (
+          <span
+            aria-hidden="true"
+            className="pulse-underline"
+            data-live="true"
+            style={{
+              position: "absolute",
+              left: 0,
+              right: 0,
+              bottom: -4,
+              height: 2,
+              background: "var(--accent)",
+            }}
+          />
+        )}
+      </h3>
 
       {debate.latestMessage && (
         <p
           style={{
-            margin: 0,
-            marginTop: "var(--space-1)",
-            color: "var(--muted)",
+            margin: "0 0 8px",
             fontFamily: "var(--font-serif)",
             fontStyle: "italic",
-            fontSize: 15,
-            lineHeight: 1.4,
+            fontSize: 17,
+            lineHeight: 1.5,
+            color: "var(--muted)",
+            maxWidth: 720,
             overflow: "hidden",
             display: "-webkit-box",
             WebkitLineClamp: 2,
             WebkitBoxOrient: "vertical",
           }}
         >
-          <span style={{ color: "var(--text)", fontStyle: "normal" }}>
-            {safeName(debate.latestMessage.founderSlug)}:
-          </span>{" "}
           {debate.latestMessage.content}
         </p>
       )}
-    </Link>
-  );
-}
 
-function FounderAvatars({ founders }: { founders: string[] }) {
-  return (
-    <div style={{ display: "flex" }}>
-      {founders.map((slug, i) => (
-        <div
-          key={slug}
-          aria-hidden="true"
-          style={{
-            width: 28,
-            height: 28,
-            background: "var(--hairline)",
-            backgroundImage: `url(${safeAvatar(slug)})`,
-            backgroundSize: "cover",
-            marginLeft: i === 0 ? 0 : -6,
-            outline: "1px solid var(--bg)",
-            position: "relative",
-            zIndex: founders.length - i,
-          }}
-        />
-      ))}
-    </div>
+      <div
+        style={{
+          fontFamily: "var(--font-sans)",
+          fontSize: 13,
+          color: "var(--muted)",
+          letterSpacing: "0.02em",
+        }}
+      >
+        <span style={{ color: "var(--text)" }}>{founders}</span>
+        <span style={{ color: "var(--hairline-strong)", margin: "0 6px" }}>·</span>
+        <span style={{ fontFamily: "var(--font-mono)", fontSize: 11, color: "var(--muted)" }}>
+          {timeAgo(debate.lastMessageAt)}
+        </span>
+      </div>
+    </Link>
   );
 }
 
@@ -234,14 +225,6 @@ function safeName(slug: string): string {
     return panelistMeta(slug).name;
   } catch {
     return slug;
-  }
-}
-
-function safeAvatar(slug: string): string {
-  try {
-    return panelistMeta(slug).avatarPath;
-  } catch {
-    return "";
   }
 }
 

@@ -14,86 +14,96 @@ interface SummaryViewProps {
 export function SummaryView({ summary, panelistSlug, panelistName }: SummaryViewProps) {
   const [drawer, setDrawer] = useState<DrawerRequest | null>(null);
 
-  const parts = splitCitations(summary.content);
+  // Split the content into paragraphs on \n\n so we can drop-cap the first one.
+  // Each paragraph then gets citation-aware rendering.
+  const paragraphs = splitParagraphs(summary.content);
 
   return (
     <>
       <article
         style={{
           fontFamily: "var(--font-serif)",
-          fontSize: "var(--type-scale-body)",
-          lineHeight: 1.6,
-          whiteSpace: "pre-wrap",
+          fontSize: 19,
+          lineHeight: 1.65,
           color: "var(--text)",
         }}
       >
-        {parts.map((part, i) => {
-          if (part.kind === "text") return <span key={i}>{part.text}</span>;
-          const citation = summary.citations.find((c) => c.index === part.num);
-          if (!citation) return <span key={i}>[?]</span>;
+        {paragraphs.map((text, i) => {
+          const parts = splitCitations(text);
+          const isFirst = i === 0;
           return (
-            <CitationMark
+            <p
               key={i}
-              num={part.num}
-              onClick={() =>
-                setDrawer({
-                  panelistSlug,
-                  postUrl: citation.post_url,
-                  paragraphIndex: citation.paragraph_idx,
-                })
-              }
-            />
+              className={isFirst ? "chapter-dropcap" : undefined}
+              style={{
+                margin: 0,
+                marginBottom: "var(--space-2)",
+                whiteSpace: "pre-wrap",
+              }}
+            >
+              {parts.map((p, j) => {
+                if (p.kind === "text") return <span key={j}>{p.text}</span>;
+                const citation = summary.citations.find((c) => c.index === p.num);
+                if (!citation) return <span key={j}>[?]</span>;
+                return (
+                  <CitationMark
+                    key={j}
+                    num={p.num}
+                    onClick={() =>
+                      setDrawer({
+                        panelistSlug,
+                        postUrl: citation.post_url,
+                        paragraphIndex: citation.paragraph_idx,
+                      })
+                    }
+                  />
+                );
+              })}
+            </p>
           );
         })}
       </article>
 
       <section
         style={{
-          marginTop: "var(--space-3)",
-          paddingTop: "var(--space-3)",
+          marginTop: "var(--space-4)",
+          paddingTop: "var(--space-2)",
           borderTop: "1px solid var(--hairline)",
           display: "flex",
-          flexDirection: "column",
-          gap: "var(--space-1)",
-          fontFamily: "var(--font-sans)",
-          fontSize: 13,
+          alignItems: "baseline",
+          justifyContent: "space-between",
+          gap: "var(--space-2)",
+          flexWrap: "wrap",
+          fontFamily: "var(--font-mono)",
+          fontSize: 12,
           color: "var(--muted)",
         }}
       >
-        <div
-          style={{
-            letterSpacing: "0.06em",
-            textTransform: "uppercase",
-            marginBottom: 4,
-          }}
-        >
-          Drawn from
-        </div>
-        {summary.citations.map((c) => (
-          <a
-            key={`${c.post_url}-${c.paragraph_idx}`}
-            href={c.post_url}
-            target="_blank"
-            rel="noopener noreferrer"
-            style={{
-              color: "var(--text)",
-              fontFamily: "var(--font-serif)",
-              fontStyle: "italic",
-            }}
-          >
-            <span
+        <span>
+          Sources: {countSources(summary)} {countSources(summary) === 1 ? "essay" : "essays"} ·{" "}
+          {summary.citations.length} quoted{" "}
+          {summary.citations.length === 1 ? "passage" : "passages"}
+        </span>
+        <span style={{ display: "flex", gap: 12, alignItems: "baseline" }}>
+          {summary.citations.slice(0, 6).map((c) => (
+            <a
+              key={`${c.post_url}-${c.paragraph_idx}`}
+              href={c.post_url}
+              target="_blank"
+              rel="noopener noreferrer"
               style={{
-                fontFamily: "var(--font-mono)",
                 color: "var(--accent)",
-                marginRight: 6,
-                fontSize: 12,
+                textDecoration: "none",
+                fontFamily: "var(--font-mono)",
               }}
             >
               [{c.index + 1}]
-            </span>
-            {c.post_title}
-          </a>
-        ))}
+            </a>
+          ))}
+          {summary.citations.length > 6 && (
+            <span style={{ color: "var(--muted)" }}>+{summary.citations.length - 6} more</span>
+          )}
+        </span>
       </section>
 
       <SourceDrawer
@@ -101,34 +111,44 @@ export function SummaryView({ summary, panelistSlug, panelistName }: SummaryView
         panelistName={panelistName}
         onClose={() => setDrawer(null)}
       />
+
+      <style>{`
+        .chapter-dropcap::first-letter {
+          font-family: var(--font-serif);
+          font-size: 64px;
+          font-weight: 500;
+          float: left;
+          line-height: 0.85;
+          padding: 6px 10px 0 0;
+          color: var(--accent);
+        }
+      `}</style>
     </>
   );
 }
 
 function CitationMark({ num, onClick }: { num: number; onClick: () => void }) {
   return (
-    <sup
-      style={{
-        fontFamily: "var(--font-mono)",
-        fontSize: "0.7em",
-        margin: "0 1px",
-      }}
+    <button
+      type="button"
+      onClick={onClick}
+      className="cite-mark"
+      aria-label={`Open source for citation ${num + 1}`}
     >
-      <button
-        type="button"
-        onClick={onClick}
-        style={{
-          background: "transparent",
-          color: "var(--accent)",
-          border: "none",
-          padding: 0,
-          font: "inherit",
-          cursor: "pointer",
-        }}
-        aria-label={`Open source for citation ${num + 1}`}
-      >
-        [{num + 1}]
-      </button>
-    </sup>
+      [{num + 1}]
+    </button>
   );
+}
+
+function splitParagraphs(content: string): string[] {
+  // Normalize line endings, split on blank lines, drop empties.
+  return content
+    .replace(/\r\n/g, "\n")
+    .split(/\n{2,}/)
+    .map((s) => s.trim())
+    .filter(Boolean);
+}
+
+function countSources(summary: Summary): number {
+  return new Set(summary.citations.map((c) => c.post_url)).size;
 }

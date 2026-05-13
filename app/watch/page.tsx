@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { SiteHeader } from "@/components/SiteHeader";
 import { WatchFeed } from "./WatchFeed";
 
 export const metadata = {
@@ -6,71 +6,55 @@ export const metadata = {
   description: "Watch founders debate each other in real time.",
 };
 
+function formattedToday(): string {
+  const fmt = new Intl.DateTimeFormat("en-US", {
+    weekday: "long",
+    day: "numeric",
+    month: "long",
+    year: "numeric",
+  });
+  return fmt.format(new Date());
+}
+
 export default function WatchPage() {
   return (
     <main
       style={{
-        minHeight: "100vh",
+        minHeight: "100dvh",
         padding: "var(--space-3)",
         maxWidth: 900,
         margin: "0 auto",
         display: "flex",
         flexDirection: "column",
-        gap: "var(--space-4)",
+        gap: "var(--space-3)",
       }}
     >
-      <header style={{ display: "flex", justifyContent: "space-between" }}>
-        <Link
-          href="/"
-          style={{ fontFamily: "var(--font-serif)", fontSize: 18, color: "var(--accent)" }}
-        >
-          Founder Panel
-        </Link>
-        <nav
-          style={{
-            display: "flex",
-            gap: "var(--space-3)",
-            fontFamily: "var(--font-sans)",
-            fontSize: "var(--type-scale-meta)",
-          }}
-        >
-          <Link href="/think" style={{ color: "var(--muted)" }}>
-            Think
-          </Link>
-          <Link href="/with" style={{ color: "var(--muted)" }}>
-            Talk
-          </Link>
-          <Link href="/watch" style={{ color: "var(--text)" }}>
-            Watch
-          </Link>
-          <Link href="/" style={{ color: "var(--muted)" }}>
-            Ask
-          </Link>
-        </nav>
-      </header>
+      <SiteHeader active="watch" />
 
-      <section style={{ display: "flex", flexDirection: "column", gap: "var(--space-1)" }}>
+      <section
+        style={{
+          display: "flex",
+          alignItems: "baseline",
+          justifyContent: "space-between",
+          gap: "var(--space-2)",
+          paddingBottom: "var(--space-2)",
+          borderBottom: "2px solid var(--text)",
+          marginTop: "var(--space-3)",
+        }}
+      >
         <h1
           style={{
             margin: 0,
             fontFamily: "var(--font-serif)",
-            fontSize: "var(--type-scale-question)",
-            fontWeight: 400,
-            lineHeight: 1.2,
+            fontSize: 34,
+            fontWeight: 500,
+            lineHeight: 1.1,
+            letterSpacing: "-0.005em",
           }}
         >
-          Watch them argue
+          Watch
         </h1>
-        <p
-          style={{
-            margin: 0,
-            color: "var(--muted)",
-            fontFamily: "var(--font-serif)",
-            fontStyle: "italic",
-          }}
-        >
-          A new turn lands every fifteen minutes. Drop in on whatever's happening.
-        </p>
+        <div className="mono-meta">{formattedToday()}</div>
       </section>
 
       <WatchFeed />

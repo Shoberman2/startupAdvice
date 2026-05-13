@@ -8,6 +8,7 @@ import { SourceDrawer, type DrawerRequest } from "@/components/SourceDrawer";
 interface ChatViewProps {
   founderSlug: string;
   founderName: string;
+  founderFirstName: string;
 }
 
 interface ServerResponse {
@@ -26,7 +27,7 @@ function chatIdKey(slug: string): string {
   return `founder-panel:chat:${slug}`;
 }
 
-export function ChatView({ founderSlug, founderName }: ChatViewProps) {
+export function ChatView({ founderSlug, founderName, founderFirstName }: ChatViewProps) {
   const [messages, setMessages] = useState<ChatMessage[]>([]);
   const [streaming, setStreaming] = useState<StreamingMessage | null>(null);
   const [input, setInput] = useState("");
@@ -36,14 +37,12 @@ export function ChatView({ founderSlug, founderName }: ChatViewProps) {
   const [drawer, setDrawer] = useState<DrawerRequest | null>(null);
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
-  // Load existing chat on mount.
   useEffect(() => {
     const storedId = localStorage.getItem(chatIdKey(founderSlug));
     if (!storedId) return;
     fetch(`/api/chat/${founderSlug}?id=${encodeURIComponent(storedId)}`)
       .then(async (r) => {
         if (!r.ok) {
-          // Stale chat id — clear it.
           if (r.status === 404) localStorage.removeItem(chatIdKey(founderSlug));
           return;
         }
@@ -56,7 +55,6 @@ export function ChatView({ founderSlug, founderName }: ChatViewProps) {
       });
   }, [founderSlug]);
 
-  // Scroll to bottom on new messages.
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages.length, streaming?.answer]);
@@ -66,7 +64,6 @@ export function ChatView({ founderSlug, founderName }: ChatViewProps) {
     setSubmitting(true);
     setError(null);
 
-    // Optimistic: show the user message immediately.
     setMessages((prev) => [...prev, { role: "user", content: message }]);
     setInput("");
     setStreaming({ retrieved: [], answer: "" });
@@ -85,14 +82,12 @@ export function ChatView({ founderSlug, founderName }: ChatViewProps) {
         throw new Error(body.error?.user_message ?? `HTTP ${res.status}`);
       }
 
-      // Capture the server-assigned chatId.
       const newChatId = res.headers.get("x-chat-id");
       if (newChatId) {
         setChatId(newChatId);
         localStorage.setItem(chatIdKey(founderSlug), newChatId);
       }
 
-      // Some responses are non-streaming JSON (opted_out from no_relevant_chunks).
       const contentType = res.headers.get("content-type") ?? "";
       if (contentType.includes("application/json")) {
         const data = (await res.json()) as ServerResponse;
@@ -100,7 +95,6 @@ export function ChatView({ founderSlug, founderName }: ChatViewProps) {
         return;
       }
 
-      // Stream the partial JSON from streamObject.
       const reader = res.body?.getReader();
       if (!reader) throw new Error("No response body");
       const decoder = new TextDecoder();
@@ -120,7 +114,6 @@ export function ChatView({ founderSlug, founderName }: ChatViewProps) {
         }
       }
 
-      // Final parse.
       const final = parsePartial(buffer) ?? { answer: "", retrieved: [] };
       finalizeAssistantMessage({
         retrieved: final.retrieved ?? [],
@@ -177,7 +170,7 @@ export function ChatView({ founderSlug, founderName }: ChatViewProps) {
           display: "flex",
           flexDirection: "column",
           gap: "var(--space-3)",
-          padding: "var(--space-3) 0",
+          padding: "var(--space-4) 0 var(--space-3)",
           overflowY: "auto",
         }}
         aria-live="polite"
@@ -191,17 +184,18 @@ export function ChatView({ founderSlug, founderName }: ChatViewProps) {
               fontStyle: "italic",
               padding: "var(--space-4) 0",
               textAlign: "center",
+              fontSize: 17,
             }}
           >
-            Ask {founderName} something hard.
+            Ask {founderFirstName} something hard.
           </div>
         )}
 
         {messages.map((m, i) =>
           m.role === "user" ? (
-            <UserBubble key={i} content={m.content} />
+            <UserQuestion key={i} content={m.content} />
           ) : (
-            <AssistantBubble
+            <FounderReply
               key={i}
               founderName={founderName}
               content={m.content}
@@ -219,7 +213,7 @@ export function ChatView({ founderSlug, founderName }: ChatViewProps) {
         )}
 
         {streaming && (
-          <AssistantBubble
+          <FounderReply
             streaming
             founderName={founderName}
             content={streaming.answer}
@@ -237,7 +231,19 @@ export function ChatView({ founderSlug, founderName }: ChatViewProps) {
         )}
 
         {error && (
-          <div role="alert" style={{ color: "var(--muted)", fontStyle: "italic" }}>
+          <div
+            role="alert"
+            style={{
+              fontFamily: "var(--font-serif)",
+              fontSize: 17,
+              color: "var(--text)",
+              borderLeft: "2px solid var(--accent)",
+              paddingLeft: "var(--space-2)",
+            }}
+          >
+            <div className="smallcaps" style={{ color: "var(--accent)", marginBottom: 4 }}>
+              Error
+            </div>
             {error}
           </div>
         )}
@@ -267,14 +273,20 @@ export function ChatView({ founderSlug, founderName }: ChatViewProps) {
             type="text"
             value={input}
             onChange={(e) => setInput(e.target.value)}
-            placeholder={`Ask ${founderName}…`}
+            placeholder={`Ask ${founderFirstName}…`}
             disabled={submitting}
             maxLength={2000}
             aria-label={`Message ${founderName}`}
-            style={{ flex: 1 }}
+            style={{
+              flex: 1,
+              fontFamily: "var(--font-serif)",
+              fontStyle: input ? "normal" : "italic",
+              fontSize: 17,
+              padding: "10px 14px",
+            }}
           />
           <button type="submit" disabled={submitting || !input.trim()}>
-            {submitting ? "…" : "Send"}
+            {submitting ? "…" : "Ask"}
           </button>
         </div>
         {messages.length > 0 && (
@@ -306,27 +318,41 @@ export function ChatView({ founderSlug, founderName }: ChatViewProps) {
   );
 }
 
-function UserBubble({ content }: { content: string }) {
+function UserQuestion({ content }: { content: string }) {
   return (
-    <div
+    <p
       style={{
-        alignSelf: "flex-end",
-        maxWidth: "85%",
-        padding: "var(--space-2) var(--space-2)",
-        background: "var(--text)",
-        color: "var(--bg)",
-        borderRadius: 2,
         fontFamily: "var(--font-serif)",
-        fontSize: "var(--type-scale-body)",
-        lineHeight: 1.45,
+        fontStyle: "italic",
+        fontSize: 19,
+        lineHeight: 1.5,
+        color: "var(--muted)",
+        margin: 0,
+        paddingLeft: "var(--space-2)",
+        borderLeft: "2px solid var(--hairline)",
       }}
     >
+      <span
+        aria-hidden="true"
+        style={{
+          fontFamily: "var(--font-mono)",
+          fontStyle: "normal",
+          fontSize: 11,
+          letterSpacing: "0.12em",
+          textTransform: "uppercase",
+          color: "var(--accent)",
+          marginRight: 6,
+          verticalAlign: 2,
+        }}
+      >
+        Q ·
+      </span>
       {content}
-    </div>
+    </p>
   );
 }
 
-function AssistantBubble(props: {
+function FounderReply(props: {
   founderName: string;
   content: string;
   citations: ChatCitation[];
@@ -344,66 +370,50 @@ function AssistantBubble(props: {
           ? `${founderName} hasn't written on this.`
           : "Stepped back from this one.";
     return (
-      <div
+      <p
         style={{
-          fontFamily: "var(--font-sans)",
-          fontSize: "var(--type-scale-meta)",
-          color: "var(--muted)",
+          fontFamily: "var(--font-serif)",
           fontStyle: "italic",
-          paddingLeft: 4,
+          fontSize: 17,
+          color: "var(--muted)",
+          margin: 0,
         }}
       >
         {reasonText}
-      </div>
+      </p>
     );
   }
 
   const parts = splitCitations(content);
 
   return (
-    <div style={{ display: "flex", flexDirection: "column", gap: "var(--space-1)" }}>
-      <div
-        style={{
-          fontFamily: "var(--font-sans)",
-          fontSize: 12,
-          letterSpacing: "0.04em",
-          color: "var(--muted)",
-          textTransform: "uppercase",
-        }}
-      >
-        {founderName}
-      </div>
-      <div
-        style={{
-          maxWidth: "85%",
-          padding: "var(--space-2) 0",
-          fontFamily: "var(--font-serif)",
-          fontSize: "var(--type-scale-body)",
-          lineHeight: 1.55,
-          color: "var(--text)",
-          borderLeft: "2px solid var(--accent)",
-          paddingLeft: "var(--space-2)",
-          whiteSpace: "pre-wrap",
-        }}
-      >
-        {parts.map((p, i) =>
-          p.kind === "text" ? (
-            <span key={i}>{p.text}</span>
-          ) : (
-            <CitationMark
-              key={i}
-              num={p.num}
-              streaming={streaming}
-              onClick={() => {
-                const c = citations.find((x) => x.index === p.num);
-                if (c) onCitationClick(c);
-              }}
-            />
-          ),
-        )}
-        {streaming && <span aria-hidden="true">▍</span>}
-      </div>
-    </div>
+    <p
+      style={{
+        fontFamily: "var(--font-serif)",
+        fontSize: 18,
+        lineHeight: 1.65,
+        color: "var(--text)",
+        margin: 0,
+        whiteSpace: "pre-wrap",
+      }}
+    >
+      {parts.map((p, i) =>
+        p.kind === "text" ? (
+          <span key={i}>{p.text}</span>
+        ) : (
+          <CitationMark
+            key={i}
+            num={p.num}
+            streaming={streaming}
+            onClick={() => {
+              const c = citations.find((x) => x.index === p.num);
+              if (c) onCitationClick(c);
+            }}
+          />
+        ),
+      )}
+      {streaming && <span className="stream-caret" aria-hidden="true" />}
+    </p>
   );
 }
 
@@ -413,37 +423,24 @@ function CitationMark(props: {
   onClick: () => void;
 }) {
   return (
-    <sup style={{ fontFamily: "var(--font-mono)", fontSize: "0.7em", margin: "0 1px" }}>
-      <button
-        type="button"
-        onClick={props.onClick}
-        disabled={props.streaming}
-        style={{
-          background: "transparent",
-          color: "var(--accent)",
-          border: "none",
-          padding: 0,
-          font: "inherit",
-          cursor: props.streaming ? "default" : "pointer",
-          opacity: props.streaming ? 0.6 : 1,
-        }}
-        aria-label={`Open source for citation ${props.num + 1}`}
-      >
-        [{props.num + 1}]
-      </button>
-    </sup>
+    <button
+      type="button"
+      onClick={props.onClick}
+      disabled={props.streaming}
+      className="cite-mark"
+      aria-label={`Open source for citation ${props.num + 1}`}
+    >
+      [{props.num + 1}]
+    </button>
   );
 }
 
 function parsePartial(buffer: string): Partial<ServerResponse> | null {
-  // Try as-is.
   try {
     return JSON.parse(buffer) as Partial<ServerResponse>;
   } catch {
     /* fall through */
   }
-  // Walk and synthesize closers (similar to lib/panel/partial-json.ts but
-  // inlined here to keep this file self-contained for the chat surface).
   const stack: string[] = [];
   let inString = false;
   let escape = false;
@@ -474,4 +471,3 @@ function parsePartial(buffer: string): Partial<ServerResponse> | null {
     return null;
   }
 }
-

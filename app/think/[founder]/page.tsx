@@ -3,12 +3,15 @@ import { notFound } from "next/navigation";
 import { panelistMeta, ALL_PANELISTS } from "@/lib/panel/all-panelists";
 import { CATEGORY_LABELS, TOPICS, topicBySlug, type TopicCategory } from "@/data/topics";
 import { listSummariesByFounder } from "@/lib/summaries";
+import { SiteHeader } from "@/components/SiteHeader";
 
 export const dynamic = "force-dynamic";
 
 interface Params {
   founder: string;
 }
+
+const ROMAN = ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x", "xi", "xii", "xiii", "xiv", "xv", "xvi"];
 
 export async function generateStaticParams() {
   return ALL_PANELISTS.map((p) => ({ founder: p.slug }));
@@ -45,182 +48,193 @@ export default async function FounderPage({ params }: { params: Promise<Params> 
     (groupedTopics[t.category] as unknown as Array<typeof TOPICS[number]>).push(t);
   }
 
+  // Flatten in category order — gives stable Roman numerals across the page.
+  const visibleTopics: Array<{ category: TopicCategory; topic: typeof TOPICS[number] }> = [];
+  for (const cat of Object.keys(groupedTopics) as TopicCategory[]) {
+    for (const t of groupedTopics[cat] ?? []) {
+      if (bySlug.has(t.slug)) visibleTopics.push({ category: cat, topic: t });
+    }
+  }
+
   return (
     <main
       style={{
-        minHeight: "100vh",
+        minHeight: "100dvh",
         padding: "var(--space-3)",
-        maxWidth: 900,
+        maxWidth: 820,
         margin: "0 auto",
         display: "flex",
         flexDirection: "column",
-        gap: "var(--space-4)",
+        gap: "var(--space-3)",
       }}
     >
-      <header style={{ display: "flex", justifyContent: "space-between" }}>
-        <Link
-          href="/"
-          style={{
-            fontFamily: "var(--font-serif)",
-            fontSize: 18,
-            color: "var(--accent)",
-          }}
-        >
-          Founder Panel
-        </Link>
-        <Link
-          href="/think"
-          style={{
-            fontFamily: "var(--font-sans)",
-            fontSize: "var(--type-scale-meta)",
-            color: "var(--muted)",
-          }}
-        >
-          All founders →
-        </Link>
-      </header>
-
-      <section
-        style={{
-          display: "flex",
-          alignItems: "center",
-          gap: "var(--space-3)",
-          borderBottom: "1px solid var(--hairline)",
-          paddingBottom: "var(--space-3)",
-        }}
-      >
-        <div
-          style={{
-            width: 96,
-            height: 96,
-            background: "var(--hairline)",
-            backgroundImage: `url(${meta.avatarPath})`,
-            backgroundSize: "cover",
-          }}
-          aria-hidden="true"
-        />
-        <div>
-          <h1
-            style={{
-              margin: 0,
-              fontFamily: "var(--font-serif)",
-              fontSize: "var(--type-scale-question)",
-              fontWeight: 400,
-              lineHeight: 1.2,
-            }}
-          >
-            {meta.name}
-          </h1>
-          <div
+      <SiteHeader
+        active="think"
+        rightSlot={
+          <Link
+            href="/think"
             style={{
               fontFamily: "var(--font-sans)",
               fontSize: "var(--type-scale-meta)",
               color: "var(--muted)",
-              marginTop: 4,
+              textDecoration: "none",
             }}
           >
-            {meta.era}
-          </div>
-          <a
-            href={meta.blogUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            style={{
-              fontFamily: "var(--font-sans)",
-              fontSize: "var(--type-scale-meta)",
-              marginTop: 8,
-              display: "inline-block",
-            }}
-          >
-            {new URL(meta.blogUrl).host} →
-          </a>
+            ← All founders
+          </Link>
+        }
+      />
+
+      <section
+        style={{
+          paddingBottom: "var(--space-2)",
+          borderBottom: "2px solid var(--text)",
+          marginTop: "var(--space-3)",
+        }}
+      >
+        <div className="smallcaps" style={{ color: "var(--accent)", marginBottom: 4 }}>
+          By founder
         </div>
+        <h1
+          style={{
+            margin: 0,
+            fontFamily: "var(--font-serif)",
+            fontSize: 34,
+            fontWeight: 500,
+            lineHeight: 1.1,
+            letterSpacing: "-0.005em",
+          }}
+        >
+          {meta.name}
+        </h1>
+        <div
+          style={{
+            fontFamily: "var(--font-mono)",
+            fontSize: 12,
+            color: "var(--muted)",
+            marginTop: 6,
+          }}
+        >
+          {meta.era}
+        </div>
+        <a
+          href={meta.blogUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{
+            fontFamily: "var(--font-sans)",
+            fontSize: 13,
+            marginTop: 8,
+            display: "inline-block",
+          }}
+        >
+          {new URL(meta.blogUrl).host} →
+        </a>
       </section>
 
-      {summaries.length === 0 && (
-        <div
+      {visibleTopics.length === 0 && (
+        <p
           style={{
             color: "var(--muted)",
             fontFamily: "var(--font-serif)",
             fontStyle: "italic",
+            margin: 0,
+            padding: "var(--space-3) 0",
           }}
         >
           No summaries generated yet. Run{" "}
-          <code style={{ fontFamily: "var(--font-mono)" }}>
+          <code style={{ fontFamily: "var(--font-mono)", fontSize: 14 }}>
             bun run generate-summaries --only {meta.slug}
           </code>{" "}
-          to populate this library.
-        </div>
+          to populate this part.
+        </p>
       )}
 
-      {(Object.keys(groupedTopics) as TopicCategory[]).map((cat) => {
-        const topicsInCat = groupedTopics[cat] ?? [];
-        const visibleTopics = topicsInCat.filter((t) => bySlug.has(t.slug));
-        if (visibleTopics.length === 0) return null;
-        return (
-          <section
-            key={cat}
-            style={{ display: "flex", flexDirection: "column", gap: "var(--space-2)" }}
-          >
-            <h2
-              style={{
-                fontFamily: "var(--font-sans)",
-                fontSize: 13,
-                letterSpacing: "0.08em",
-                textTransform: "uppercase",
-                color: "var(--muted)",
-                margin: 0,
-              }}
-            >
-              {CATEGORY_LABELS[cat]}
-            </h2>
-            <ul style={{ listStyle: "none", padding: 0, margin: 0 }}>
-              {visibleTopics.map((t) => {
-                const topic = topicBySlug(t.slug);
-                return (
-                  <li
-                    key={t.slug}
+      {visibleTopics.length > 0 && (
+        <ul style={{ listStyle: "none", padding: 0, margin: 0 }}>
+          {visibleTopics.map(({ topic }, i) => {
+            const t = topicBySlug(topic.slug);
+            return (
+              <li key={topic.slug}>
+                <Link
+                  href={`/think/${meta.slug}/${topic.slug}`}
+                  style={{
+                    display: "grid",
+                    gridTemplateColumns: "32px 1fr auto",
+                    gap: 12,
+                    alignItems: "baseline",
+                    padding: "var(--space-2) 0",
+                    borderBottom: "1px dotted var(--hairline)",
+                    textDecoration: "none",
+                    color: "var(--text)",
+                    fontFamily: "var(--font-serif)",
+                    fontSize: 18,
+                  }}
+                >
+                  <span
                     style={{
-                      borderTop: "1px solid var(--hairline)",
-                      padding: "var(--space-2) 0",
+                      fontFamily: "var(--font-mono)",
+                      fontSize: 12,
+                      color: "var(--muted)",
                     }}
                   >
-                    <Link
-                      href={`/think/${meta.slug}/${t.slug}`}
-                      style={{
-                        textDecoration: "none",
-                        color: "var(--text)",
-                        display: "flex",
-                        flexDirection: "column",
-                        gap: 4,
-                      }}
-                    >
-                      <span
+                    {ROMAN[i] ?? i + 1}.
+                  </span>
+                  <span>
+                    <span style={{ fontWeight: 500 }}>{topic.label}</span>
+                    {t?.description && (
+                      <em
                         style={{
-                          fontFamily: "var(--font-serif)",
-                          fontSize: "var(--type-scale-body)",
-                        }}
-                      >
-                        {t.label}
-                      </span>
-                      <span
-                        style={{
-                          fontFamily: "var(--font-serif)",
-                          fontSize: 14,
                           color: "var(--muted)",
                           fontStyle: "italic",
+                          fontSize: 15,
+                          display: "block",
+                          marginTop: 3,
                         }}
                       >
-                        {topic?.description}
-                      </span>
-                    </Link>
-                  </li>
-                );
-              })}
-            </ul>
-          </section>
-        );
-      })}
+                        {t.description}
+                      </em>
+                    )}
+                  </span>
+                  <span
+                    aria-hidden="true"
+                    style={{
+                      fontFamily: "var(--font-mono)",
+                      fontSize: 13,
+                      color: "var(--accent)",
+                    }}
+                  >
+                    →
+                  </span>
+                </Link>
+              </li>
+            );
+          })}
+        </ul>
+      )}
+
+      {/* Group lookup by category in a small back-of-book index */}
+      {visibleTopics.length > 0 && (
+        <section
+          style={{
+            marginTop: "var(--space-4)",
+            paddingTop: "var(--space-2)",
+            borderTop: "1px solid var(--hairline)",
+            fontFamily: "var(--font-mono)",
+            fontSize: 12,
+            color: "var(--muted)",
+          }}
+        >
+          {(Object.keys(groupedTopics) as TopicCategory[])
+            .filter((cat) => (groupedTopics[cat] ?? []).some((t) => bySlug.has(t.slug)))
+            .map((cat, idx, arr) => (
+              <span key={cat}>
+                {CATEGORY_LABELS[cat]}: {(groupedTopics[cat] ?? []).filter((t) => bySlug.has(t.slug)).length}
+                {idx < arr.length - 1 && <span style={{ margin: "0 8px" }}>·</span>}
+              </span>
+            ))}
+        </section>
+      )}
     </main>
   );
 }
