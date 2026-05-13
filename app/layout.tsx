@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Founder Panel",
-  description: "Eight founders. Your question. With receipts.",
+  description: "Twelve founders. Your question. With receipts.",
 };
 
 // Runs before paint. Reads localStorage and prefers-color-scheme, sets

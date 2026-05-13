@@ -1,10 +1,10 @@
 /**
- * Static metadata for the 8-founder V1 corpus. Mirrors the slugs in
- * /personas/*.md and the source URLs in DESIGN.md.
+ * Static metadata for the full corpus. Mirrors the slugs in /personas/*.md
+ * and the source URLs in DESIGN.md.
  *
- * Used at runtime by the client to prerender 8 column slots before
- * /api/panel/select returns. The 3 not-chosen slots fade to opacity 0;
- * the 5 chosen brighten to opacity 1. The layout itself is the loading state.
+ * Used at runtime by the client to prerender all panel slots before
+ * /api/panel/select returns. Non-chosen slots fade to opacity 0; the 5
+ * chosen brighten to opacity 1. The layout itself is the loading state.
  */
 
 export interface PanelistMeta {
@@ -80,6 +80,38 @@ export const ALL_PANELISTS: ReadonlyArray<PanelistMeta> = [
     avatarPath: "/avatars/garry-tan.png",
     blogUrl: "https://garrytan.com",
     tier: "B",
+  },
+  {
+    slug: "david-heinemeier-hansson",
+    name: "David Heinemeier Hansson",
+    era: "37signals / Rails, 2003–present",
+    avatarPath: "/avatars/david-heinemeier-hansson.png",
+    blogUrl: "https://world.hey.com/dhh",
+    tier: "A",
+  },
+  {
+    slug: "brian-chesky",
+    name: "Brian Chesky",
+    era: "Airbnb, 2008–present",
+    avatarPath: "/avatars/brian-chesky.png",
+    blogUrl: "https://medium.com/@bchesky",
+    tier: "B",
+  },
+  {
+    slug: "tobi-lutke",
+    name: "Tobi Lütke",
+    era: "Shopify, 2004–present",
+    avatarPath: "/avatars/tobi-lutke.png",
+    blogUrl: "https://tobi.lutke.com",
+    tier: "B",
+  },
+  {
+    slug: "eugene-wei",
+    name: "Eugene Wei",
+    era: "Remains of the Day, 2002–present",
+    avatarPath: "/avatars/eugene-wei.png",
+    blogUrl: "https://www.eugenewei.com",
+    tier: "A",
   },
 ];
 

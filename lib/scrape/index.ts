@@ -1,7 +1,7 @@
 /**
- * Registry of all 8 V1 scrapers. The script runner walks this list to scrape
- * the full corpus. Each scraper is independently switchable so a single
- * failing module doesn't break the whole pipeline.
+ * Registry of all scrapers. The script runner walks this list to scrape the
+ * full corpus. Each scraper is independently switchable so a single failing
+ * module doesn't break the whole pipeline.
  */
 
 import type { BlogScraper } from "./base";
@@ -13,6 +13,10 @@ import { sahilLavingiaScraper } from "./sahil-lavingia";
 import { patrickCollisonScraper } from "./patrick-collison";
 import { samAltmanScraper } from "./sam-altman";
 import { garryTanScraper } from "./garry-tan";
+import { dhhScraper } from "./david-heinemeier-hansson";
+import { brianCheskyScraper } from "./brian-chesky";
+import { tobiLutkeScraper } from "./tobi-lutke";
+import { eugeneWeiScraper } from "./eugene-wei";
 
 export const ALL_SCRAPERS: ReadonlyArray<BlogScraper> = [
   paulGrahamScraper,
@@ -23,6 +27,10 @@ export const ALL_SCRAPERS: ReadonlyArray<BlogScraper> = [
   patrickCollisonScraper,
   samAltmanScraper,
   garryTanScraper,
+  dhhScraper,
+  brianCheskyScraper,
+  tobiLutkeScraper,
+  eugeneWeiScraper,
 ];
 
 export function scraperFor(slug: string): BlogScraper | null {

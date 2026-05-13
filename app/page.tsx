@@ -45,7 +45,7 @@ export default function HomePage() {
             letterSpacing: "-0.005em",
           }}
         >
-          Eight founders. Your question. With receipts.
+          Twelve founders. Your question. With receipts.
         </h1>
 
         <form

@@ -13,9 +13,9 @@ Editorial. Patrick Collison essays. Stripe Press. Naval's almanack. Paul Graham'
 ## Brand
 
 - **Wordmark:** "Founder Panel" set in `--font-serif` at 18px, color `--accent`, top-left.
-- **Product claim:** "Eight founders. Your question. With receipts." Centered above the input on the pre-question page, 32px `--font-serif`, color `--text`.
+- **Product claim:** "Twelve founders. Your question. With receipts." Centered above the input on the pre-question page, 32px `--font-serif`, color `--text`.
 
-The claim is locked. It earns the visitor's first 5 seconds and names the trust unlock (receipts → citations).
+The claim shape is locked: `{count} founders. Your question. With receipts.` — three sentences, escalating from supply to user to trust unlock. The `{count}` updates when the corpus grows; the rest does not.
 
 ## Typography
 
@@ -306,6 +306,7 @@ Flag any of these in code review:
 |---|---|---|
 | 2026-05-12 | Initial editorial system created | Five-column panel, EB Garamond + Inter + JetBrains Mono, warm off-white with deep red accent |
 | 2026-05-13 | Added `/with` letter format, `/watch` front page, `/watch/[id]` transcript, `/think` library + chapter, magazine-spread citation drawer, dark mode tokens, focus + loading + empty + error specs | "Editorial+ sharper" direction. New surfaces shipped after v1 needed explicit composition rules. Memorable thing = receipts → citation drawer promoted to first-class surface. Dark mode redesigned (not inverted) to keep editorial warmth. |
+| 2026-05-13 | Corpus grew from 8 to 12 founders (DHH, Brian Chesky, Tobi Lütke, Eugene Wei). Product claim shape unlocked: `{count} founders. Your question. With receipts.` — the count now reflects the actual pool. | Added voices fill gaps: bootstrapped/anti-VC (DHH), design-led/operator (Chesky), first-principles operator (Tobi), strategy essayist (Wei). |
 
 ## How to extend this document
 

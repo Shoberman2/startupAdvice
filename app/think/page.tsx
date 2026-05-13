@@ -8,7 +8,7 @@ export const dynamic = "force-dynamic";
 
 export const metadata = {
   title: "Think — Founder Panel",
-  description: "How eight founders think about the questions that matter, in their own words.",
+  description: "How twelve founders think about the questions that matter, in their own words.",
 };
 
 const ROMAN = ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x", "xi", "xii", "xiii", "xiv", "xv", "xvi"];
