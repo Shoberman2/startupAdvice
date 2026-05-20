@@ -37,16 +37,23 @@ export async function generateMetadata({ params }: { params: Promise<Params> }) 
 async function loadNotableEssays(slug: string): Promise<NotableEssayRow[]> {
   // Top 6 essays by chunk count (longer essays are usually the canonical ones).
   // Returns empty on any failure — corpus may not be scraped in every env.
+  // Hard 2s cap so the page never blocks on a slow or unreachable database.
+  const NOTABLE_ESSAYS_TIMEOUT_MS = 2000;
   try {
-    return await query<NotableEssayRow>(
-      `SELECT post_url, post_title, post_published, COUNT(*)::text AS chunk_count
-         FROM chunks
-        WHERE author_slug = $1
-        GROUP BY post_url, post_title, post_published
-        ORDER BY COUNT(*) DESC, post_published DESC NULLS LAST
-        LIMIT 6`,
-      [slug],
-    );
+    return await Promise.race([
+      query<NotableEssayRow>(
+        `SELECT post_url, post_title, post_published, COUNT(*)::text AS chunk_count
+           FROM chunks
+          WHERE author_slug = $1
+          GROUP BY post_url, post_title, post_published
+          ORDER BY COUNT(*) DESC, post_published DESC NULLS LAST
+          LIMIT 6`,
+        [slug],
+      ),
+      new Promise<NotableEssayRow[]>((resolve) =>
+        setTimeout(() => resolve([]), NOTABLE_ESSAYS_TIMEOUT_MS),
+      ),
+    ]);
   } catch {
     return [];
   }
