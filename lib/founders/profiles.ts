@@ -466,6 +466,402 @@ const PROFILES: ReadonlyArray<FounderProfile> = [
     ],
     why_listen: "Strategist-essayist with deep operator background; one of the sharpest cultural-product analysts working today.",
   },
+
+  // ───────────────────────────────────────────────────────────────────
+  // Directory-only founders. Book-author founders whose primary source
+  // is a book or lecture series. They do not appear in /panel selection
+  // and /with chat is disabled for them. Inline name/era/blog_url required.
+  // ───────────────────────────────────────────────────────────────────
+
+  {
+    slug: "peter-thiel",
+    directory_only: true,
+    name: "Peter Thiel",
+    era: "PayPal / Palantir / Founders Fund, 1998–present",
+    blog_url: "https://founderfund.com",
+    company: "PayPal / Palantir / Founders Fund",
+    primary_source: "Zero to One (2014) + CS183 Stanford lectures (transcribed)",
+    bio: "Co-founded PayPal in 1998, where he led a team that included Elon Musk, Reid Hoffman, Max Levchin, and Jeremy Stoppelman before eBay acquired the company in 2002 for $1.5B. In 2003 he co-founded Palantir Technologies with Alex Karp and others; Palantir later went public in 2020. Founded Founders Fund in 2005, one of the most influential contrarian VC firms of the 2010s with positions in Facebook (Thiel was the first outside investor, putting $500K in for ~10% in 2004), SpaceX, Stripe, and Airbnb. His 2014 book Zero to One — built from his Stanford CS183 lecture series — became the canonical contrarian text on what makes a startup actually new versus merely competitive. He's also operated Thiel Capital, the Thiel Fellowship (which pays people under 22 to skip or drop out of college), and Mithril Capital.",
+    notable_stories: [
+      {
+        title: "The first $500K into Facebook",
+        body: "In summer 2004, after meeting Mark Zuckerberg through Reid Hoffman, Thiel invested $500,000 in Facebook for ~10% equity — making him the company's first outside investor. The valuation implied was about $5M. When Facebook went public in 2012 at a $104B valuation, that initial stake had become one of the most profitable VC investments in history. Thiel sold most of his Facebook position around the IPO."
+      },
+      {
+        title: "The PayPal Mafia",
+        body: "PayPal's early team became one of the most consequential founding networks in tech. Alumni went on to start or run YouTube (Chad Hurley, Steve Chen, Jawed Karim), LinkedIn (Reid Hoffman), Tesla and SpaceX (Elon Musk), Yelp (Russel Simmons, Jeremy Stoppelman), Palantir (Thiel), Yammer (David Sacks), and many others. Thiel has often pointed to the network density as proof that what matters in a founding team is not just talent — it's that the people stay connected and back each other for decades."
+      },
+      {
+        title: "The contrarian interview question",
+        body: "Thiel is famous for asking job candidates and founders 'What important truth do very few people agree with you on?' The question is designed to surface genuine intellectual independence rather than rehearsed contrarianism. Most answers fail. He's described the question as a filter for the kind of unusual perspective that produces actually new companies rather than incremental ones."
+      },
+      {
+        title: "The Thiel Fellowship",
+        body: "In 2010, Thiel announced a program paying $100,000 to people under 22 to skip or drop out of college and pursue ambitious projects instead. The fellowship was widely criticized at launch as anti-education; over the next decade fellows founded companies including Figma, Loom, Luminar, and others worth tens of billions in aggregate. The premise — that credentialing is a poor filter for ambition and ability — has aged better than its early critics expected."
+      },
+    ],
+    advice: [
+      { headline: "Monopoly is the goal, not the sin", elaboration: "Competition is for losers. The best businesses are ones with no real competitors — markets they invented or expanded so completely that they own them outright." },
+      { headline: "Last mover advantage", elaboration: "The goal isn't being first. It's being last — capturing a market position so durable that everyone after you is playing for second place." },
+      { headline: "Find the secret", elaboration: "Every great business is built on a secret — something true and important that few others believe. If your idea sounds plausible to everyone in your industry, it probably isn't a secret." },
+      { headline: "Start small and monopolize", elaboration: "Dominate a tiny niche entirely before expanding. PayPal started with eBay power-sellers, Facebook with one Ivy League campus. Going broad too soon means being thin everywhere." },
+      { headline: "Sales matters as much as product", elaboration: "Most engineers underestimate distribution. A product that sells itself is rare — usually 'sells itself' means someone built a great sales machine that's invisible to outsiders." },
+      { headline: "Definite optimism beats indefinite optimism", elaboration: "Believing the future will be better is necessary but not sufficient. You need a specific plan for how. Vague optimism produces nothing." },
+      { headline: "Founders are bimodal", elaboration: "The traits that make founders great — intensity, contrarianism, eccentricity — also tend to make them difficult. Don't be surprised when great founders have visible flaws; the same distribution produces both." },
+    ],
+    why_listen: "The canonical contrarian voice on what makes startups actually new versus merely competitive — with the track record to back it.",
+  },
+
+  {
+    slug: "ben-horowitz",
+    directory_only: true,
+    name: "Ben Horowitz",
+    era: "Loudcloud / Opsware / a16z, 1999–present",
+    blog_url: "https://a16z.com/author/ben-horowitz",
+    company: "Loudcloud / Opsware / Andreessen Horowitz",
+    primary_source: "The Hard Thing About Hard Things (2014) + What You Do Is Who You Are (2019)",
+    bio: "Co-founded Loudcloud with Marc Andreessen in 1999 — an early cloud-services company that survived the dot-com crash by pivoting into enterprise software as Opsware, eventually sold to HP for $1.6B in 2007. In 2009, with Marc Andreessen, he co-founded Andreessen Horowitz (a16z), now one of the largest and most influential VC firms in the world. His 2014 book The Hard Thing About Hard Things is widely regarded as one of the few startup books that addresses the actual day-to-day brutality of running a company in crisis — layoffs, near-bankruptcy, executive disputes — rather than the polished mythology. His 2019 book What You Do Is Who You Are extends the framework into organizational culture, drawing examples from samurai code, Toussaint Louverture, and Shaka Senghor.",
+    notable_stories: [
+      {
+        title: "Loudcloud's near-death IPO",
+        body: "In early 2001, Loudcloud was running out of cash with the dot-com bubble collapsing around it. Horowitz and team decided to take the company public anyway in March 2001 as a survival move, against advice from nearly everyone. The IPO priced at $6 (way below the original target), but raised the cash that kept the company alive long enough to pivot into software and eventually become Opsware. The book describes this as the hardest decision of his career."
+      },
+      {
+        title: "The 'I'm CEO, bitch' calling card",
+        body: "Horowitz tells the story of meeting with EDS during the Loudcloud pivot. EDS executives were treating him like an irrelevant startup CEO. He produced a business card that simply read 'Ben Horowitz, CEO' and slid it across the table. The moment is shorthand for the calibrated assertiveness he argues is necessary for CEOs in adversarial situations. The book's title is a riff on the broader theme."
+      },
+      {
+        title: "Founding a16z",
+        body: "When Horowitz and Andreessen launched a16z in 2009, they made several unconventional choices: they targeted technical founders as the primary customer (not LPs), hired operators rather than analysts as partners, and built a large internal services team to help portfolio companies with hiring, PR, and business development. The model was widely copied by other VC firms in the 2010s."
+      },
+      {
+        title: "Layoffs at Opsware",
+        body: "During the Opsware pivot, Horowitz had to lay off about half the company in a single morning. He has written and spoken about the experience — the night before, the speech he wrote, how he told the team, what he said to the people who stayed. The advice has become a touchstone for first-time CEOs facing the same task; he argues the only thing worse than doing layoffs is doing them slowly or dishonestly."
+      },
+    ],
+    advice: [
+      { headline: "The struggle is the job", elaboration: "Running a company isn't success punctuated by setbacks. It's setbacks punctuated by occasional success. The CEOs who survive are the ones who learned to function inside the struggle." },
+      { headline: "Take care of the people, the products, and the profits — in that order", elaboration: "If you don't take care of the people, none of the rest matters. People build products; products generate profits. Inverting this order has killed more companies than bad markets." },
+      { headline: "Tell it like it is", elaboration: "Founders are tempted to soften bad news. Don't. The team can handle the truth and can't handle being lied to. Reputational debt accrues faster than financial debt." },
+      { headline: "Wartime CEO vs peacetime CEO", elaboration: "The skills that win in peacetime — process, delegation, broad consensus — actively lose in wartime. The CEOs who can switch modes are rare and disproportionately valuable." },
+      { headline: "Hire for strength, not lack of weakness", elaboration: "Most hiring processes optimize for 'no obvious flaws.' That produces middling executives. The exceptional ones have spiky strengths and obvious gaps — and a team that compensates." },
+      { headline: "Manage your own psychology", elaboration: "CEOs lose to their own minds more than to the market. Learn to function under conditions where you can't sleep, can't trust anyone, and don't know what to do. That capacity is the real job." },
+      { headline: "Culture is what you do, not what you say", elaboration: "Stated values matter less than which behaviors you reward, tolerate, and punish. Culture is the residue of those repeated decisions across years." },
+    ],
+    why_listen: "The clearest writing on what running a company in actual crisis is like — without the polished mythology.",
+  },
+
+  {
+    slug: "reid-hoffman",
+    directory_only: true,
+    name: "Reid Hoffman",
+    era: "LinkedIn / Greylock, 2002–present",
+    blog_url: "https://www.reidhoffman.org",
+    company: "LinkedIn / Greylock Partners",
+    primary_source: "Blitzscaling (2018) + Masters of Scale podcast + Impromptu (2023)",
+    bio: "Was COO of PayPal in the early 2000s before co-founding LinkedIn in 2002 with Allen Blue, Konstantin Guericke, Eric Ly, and Jean-Luc Vaillant. LinkedIn went public in 2011 and sold to Microsoft in 2016 for $26.2B — making it one of the largest social-media acquisitions in history. Joined Greylock Partners as a partner in 2009 and remains active there, with positions in Airbnb, Convoy, Coda, and many others. Has authored or co-authored several books — The Start-up of You (2012), The Alliance (2014), Blitzscaling (2018), Masters of Scale (2021), and Impromptu (2023, written substantially with GPT-4). His Masters of Scale podcast has interviewed essentially every major modern operator. Also a founding investor and board member at OpenAI.",
+    notable_stories: [
+      {
+        title: "LinkedIn's slow start",
+        body: "LinkedIn launched in May 2003 and grew slowly for years — Hoffman has written that they had about 4,500 members after the first month, well below expectations. The team kept iterating on the value proposition: was it for jobs, networking, or knowledge? It wasn't until invitations-by-email and the 'how you're connected' feature shipped that growth inflected. The story is now Hoffman's canonical example of why early traction is often misread."
+      },
+      {
+        title: "Backing OpenAI early",
+        body: "Hoffman was an early board member and supporter of OpenAI starting around 2015, when most observers regarded AI as a niche research field. He used his platform — speeches, books, and the Masters of Scale podcast — to push the case for AI as a major economic force years before the ChatGPT moment. His 2023 book Impromptu was written largely in dialogue with GPT-4 and was one of the earliest mainstream books about LLMs by a major founder."
+      },
+      {
+        title: "The Microsoft acquisition",
+        body: "In June 2016, Microsoft acquired LinkedIn for $26.2B, one of the largest tech acquisitions ever. The deal kept LinkedIn operating semi-independently under CEO Jeff Weiner. Hoffman has written about why he sold rather than continued as an independent public company: scale was getting harder, and Microsoft offered both capital and distribution that would have taken LinkedIn years to build alone."
+      },
+      {
+        title: "The Stanford 'Blitzscaling' class",
+        body: "Hoffman co-taught a Stanford class on Blitzscaling in 2015 — the rapid-scaling playbook that hyper-growth companies use, with all its tradeoffs. The class became the basis for his 2018 book. The framework has been both widely adopted and criticized — the criticism being that it normalizes burnout and shortcut-taking that don't always pay off. Hoffman has acknowledged the tradeoffs but argues that for winner-take-most markets, the math forces the bet."
+      },
+    ],
+    advice: [
+      { headline: "If you're not embarrassed by your first product, you launched too late", elaboration: "Perfection is the enemy of shipping. The market gives you information you can't get from any amount of internal review." },
+      { headline: "Blitzscale when the market is winner-take-most", elaboration: "Most markets reward speed over efficiency only when network effects compound. Identify which type of market you're in before choosing the playbook." },
+      { headline: "Network is the leverage", elaboration: "Most founder advantage comes from the people they can quickly mobilize — for advice, hiring, customers. Networks compound over decades; treat them as your most important asset." },
+      { headline: "Compete by playing your own game", elaboration: "Beating the incumbent at their game is brutal. Find a wedge where the rules are different — a new platform, a new use case, a new pricing model — and run on that vector." },
+      { headline: "Theory plus action, not theory or action", elaboration: "Pure theorists never ship; pure tacticians never see the whole. The best operators do both — read deeply, then move fast on what they read." },
+      { headline: "Invest in the messy middle", elaboration: "Founders get plenty of advice on starting up and on the exit. The years between — when scale is hard but the company isn't optimized yet — is where most of the actual work happens." },
+    ],
+    why_listen: "Has been at the center of every major social-platform wave from PayPal to LinkedIn to OpenAI, with the writing and podcast to back the pattern-matching.",
+  },
+
+  {
+    slug: "phil-knight",
+    directory_only: true,
+    name: "Phil Knight",
+    era: "Blue Ribbon Sports / Nike, 1964–2004 (Chairman through 2016)",
+    blog_url: "https://about.nike.com",
+    company: "Nike",
+    primary_source: "Shoe Dog (2016) — memoir",
+    bio: "Co-founded Blue Ribbon Sports in 1964 with his University of Oregon track coach Bill Bowerman as a side hustle importing Japanese running shoes (Onitsuka Tigers) to sell out of his car at track meets. Renamed the company Nike in 1971 and built it into one of the most globally recognized brands in history. Nike went public in 1980; Knight served as CEO until 2004 and Chairman until 2016. His 2016 memoir Shoe Dog covers the early years (1962–1980) — the obsessive period of bootstrapping, near-bankruptcies, lawsuits with Onitsuka, and the cultural construction of Nike. The book is unusual for a major-CEO memoir in how raw it is about doubt, failure, and the personal costs of building. He has also been a major philanthropist (Knight Cancer Institute, University of Oregon, Stanford GSB).",
+    notable_stories: [
+      {
+        title: "The Onitsuka lawsuit",
+        body: "Blue Ribbon Sports's business model depended on importing Tiger shoes from Onitsuka in Japan. By 1971, the relationship was deteriorating — Onitsuka was selling to other US distributors despite Knight's exclusive agreement. The breaking point came when Knight discovered Onitsuka representatives plotting to acquire Blue Ribbon. He scrambled to launch the Nike brand with new shoes manufactured in Mexico, then survived a brutal lawsuit. The episode forced Nike into existence."
+      },
+      {
+        title: "The crazy idea",
+        body: "Shoe Dog opens with Knight describing his 'crazy idea' — that Japanese running shoes could be sold in the United States by an American who knew running. The idea came out of a Stanford business school paper he wrote in 1962. He spent years convincing his father to fund the trip to Japan to pitch Onitsuka, and the entire Nike story stems from that single uncertain bet by a 24-year-old runner."
+      },
+      {
+        title: "Going public to survive",
+        body: "By the late 1970s Nike was profitable but starved for capital, and Knight resisted going public for years — partly because he didn't want to lose control. In 1980 he finally took the company public to fund the international expansion. The IPO valued the company at $429M. By 2024 Nike was worth over $100B. He has written about the public-vs-private tradeoff as one of the hardest founder choices he ever made."
+      },
+      {
+        title: "Naming Nike",
+        body: "The original name 'Blue Ribbon Sports' was a placeholder. When the team needed a new name in 1971, Jeff Johnson (Nike's first employee) suggested 'Nike,' the Greek goddess of victory. Knight has admitted he wasn't enthusiastic — he wanted to call it 'Dimension Six.' He went with Nike because they needed to file paperwork the next day. The swoosh logo cost $35 from a Portland State graphic design student."
+      },
+    ],
+    advice: [
+      { headline: "Let it ride", elaboration: "Knight's father's advice to him on starting Blue Ribbon: don't sweat the small reverses; commit to the journey and let it ride. Most founders quit one bad year before the curve inflects." },
+      { headline: "Hire people who love the thing", elaboration: "Nike's early hires were runners. They didn't need to be sold on the mission because they lived it. The depth of conviction in early hires set the standard for everyone who came later." },
+      { headline: "Cash is everything", elaboration: "Nike survived several near-deaths because Knight protected cash flow obsessively. Growth without cash is just slower bankruptcy." },
+      { headline: "Brand is built one decade at a time", elaboration: "The Nike brand wasn't built by a 1988 'Just Do It' campaign. It was built by 25 years of consistent design, consistent storytelling, and consistent product before that campaign could land." },
+      { headline: "Take the meeting", elaboration: "Knight constantly emphasizes that random meetings — with track coaches, with shoe-factory managers, with bankers — created the unexpected breakthroughs Nike needed. Calendar discipline is real; so is staying open to chance." },
+      { headline: "Don't quit", elaboration: "Knight's most-repeated advice. Most founders don't lose to the market; they lose to fatigue. The ones who win are usually the ones who couldn't bring themselves to stop." },
+    ],
+    why_listen: "Built one of the most globally recognized brands in history; the memoir is the most honest account of the early grind by any major CEO.",
+  },
+
+  {
+    slug: "andrew-grove",
+    directory_only: true,
+    name: "Andrew Grove",
+    era: "Intel, 1968–2005",
+    blog_url: "https://en.wikipedia.org/wiki/Andrew_Grove",
+    company: "Intel",
+    primary_source: "High Output Management (1983) + Only the Paranoid Survive (1996) + Swimming Across (2001)",
+    bio: "Born András István Gróf in Budapest in 1936. Survived Nazi occupation as a child, fled Hungary after the 1956 uprising, and made his way to the US, earning a PhD in chemical engineering from Berkeley in 1963. Joined the new Intel Corporation in 1968 as employee #3, behind Robert Noyce and Gordon Moore. Became President in 1979, CEO in 1987, and Chairman in 1998. Steered Intel through the brutal pivot out of memory chips and into microprocessors in the mid-1980s — one of the most consequential strategic moves in business history. Time named him Man of the Year in 1997. His books — High Output Management (1983), Only the Paranoid Survive (1996), and his memoir Swimming Across (2001) — are widely considered among the most useful management writing ever published. Grove died in 2016.",
+    notable_stories: [
+      {
+        title: "Walking through the revolving door",
+        body: "In 1985, Intel's memory chip business was being destroyed by Japanese competitors. Grove asked Gordon Moore: 'If we got kicked out and the board brought in a new CEO, what do you think he would do?' Moore answered: 'He would get us out of memories.' Grove replied: 'Why shouldn't you and I walk out the door, come back in, and do it ourselves?' That conversation — recounted in Only the Paranoid Survive — is now the canonical example of how to recognize and act on a strategic inflection point."
+      },
+      {
+        title: "The Pentium FDIV bug",
+        body: "In 1994, a math professor reported a floating-point division bug in Intel's Pentium chips. Intel's initial response — to argue that the bug was statistically rare and most users wouldn't encounter it — became a public relations disaster. Grove eventually reversed course and offered to replace any affected chip, costing Intel about $475M. He wrote about the episode publicly as one of the worst handled moments of his career and a lesson in crisis management."
+      },
+      {
+        title: "The making of High Output Management",
+        body: "Grove wrote High Output Management in 1983 not because he wanted to be a writer, but because he wanted Intel's middle managers to operate from a shared framework. The book introduces concepts that have become standard — managerial leverage, one-on-ones, task-relevant maturity, the idea that a manager's output is the output of their team and the teams they influence. It remains one of the most-recommended management books in tech."
+      },
+      {
+        title: "OKRs from Intel to Google",
+        body: "John Doerr learned the OKR (Objectives and Key Results) system while working at Intel under Grove in the 1970s. Doerr later brought OKRs to Google as an early investor, and from there they spread to LinkedIn, Twitter, and thousands of other companies. The Grove → Doerr → Page/Brin lineage is now one of the most copied management frameworks in the world."
+      },
+    ],
+    advice: [
+      { headline: "Only the paranoid survive", elaboration: "Successful companies don't get killed by their visible competitors. They get killed by changes they didn't see coming. Active paranoia — scanning for what might break the business — is a defensive practice, not pessimism." },
+      { headline: "Recognize strategic inflection points", elaboration: "Every business goes through moments where the rules quietly change. Most CEOs notice these too late. The ones who survive are the ones who can name them when they're happening." },
+      { headline: "A manager's output is the team's output", elaboration: "Managers should be measured by the leverage they create through others, not by their personal heroics. Most management dysfunction comes from confusing the two." },
+      { headline: "Hold one-on-ones", elaboration: "Regular structured one-on-ones with direct reports are the single highest-leverage activity for a manager. They cost an hour and create dozens of hours of correctly-directed work." },
+      { headline: "Knowledge workers need clarity", elaboration: "You can't supervise knowledge work the way you supervise factory work. The only meaningful management tool is making goals so clear that workers can self-correct." },
+      { headline: "Constructive confrontation", elaboration: "Intel's culture under Grove demanded that disagreements be surfaced explicitly in meetings, not after them. Suppressing disagreement to be polite is more expensive than the discomfort of working it out in real time." },
+    ],
+    why_listen: "The strategist who steered Intel through the most successful pivot in business history, and the most useful operational writing in tech.",
+  },
+
+  {
+    slug: "reed-hastings",
+    directory_only: true,
+    name: "Reed Hastings",
+    era: "Pure Software / Netflix, 1991–2023",
+    blog_url: "https://about.netflix.com/en/leadership/reed-hastings",
+    company: "Pure Software / Netflix",
+    primary_source: "No Rules Rules (2020, with Erin Meyer) + Freedom & Responsibility deck (2009)",
+    bio: "Co-founded Pure Software in 1991, which sold to Rational Software in 1995. Co-founded Netflix in 1997 with Marc Randolph, originally as a DVD-by-mail service. Pivoted Netflix to streaming in 2007 — one of the most consequential strategic pivots in modern media — and then to original content production starting with House of Cards in 2013. Stepped down as CEO in January 2023, taking the Executive Chairman role and handing co-CEO duties to Ted Sarandos and Greg Peters. His 2009 'Freedom & Responsibility' deck (often called the Netflix Culture Deck) was downloaded by millions and reshaped how Silicon Valley talked about culture. His 2020 book No Rules Rules, co-authored with INSEAD professor Erin Meyer, is the definitive articulation of the Netflix management philosophy.",
+    notable_stories: [
+      {
+        title: "The Pure Software lesson",
+        body: "Hastings has written that Pure Software taught him what NOT to do: as the company grew, he watched bureaucracy accumulate — process, sign-offs, approvals — until innovation slowed. He sold Pure in 1995 and resolved that whatever he built next would resist this default. The lesson became the foundation for Netflix's deliberately rule-light culture."
+      },
+      {
+        title: "The $40 late fee that birthed Netflix",
+        body: "Hastings has told the story (which Marc Randolph has gently disputed) of returning Apollo 13 to Blockbuster six weeks late and being charged a $40 late fee. The episode reportedly prompted him to wonder why video rentals couldn't work like a gym membership — subscription-based, no per-rental penalties. The story may be partly apocryphal but the subscription model it inspired was real."
+      },
+      {
+        title: "The 2011 Qwikster catastrophe",
+        body: "In July 2011, Hastings announced that Netflix would split into two services: Netflix for streaming, and 'Qwikster' for DVDs. Customers revolted, the stock dropped ~75%, and Hastings reversed the decision within three weeks. He wrote a public apology and walked the company back. The episode is now his canonical example of a CEO mistake — and of how to recover from one."
+      },
+      {
+        title: "The Freedom & Responsibility deck",
+        body: "In 2009 Hastings and former CHRO Patty McCord published Netflix's internal culture deck — 'Reference Guide on Our Freedom & Responsibility Culture.' It included radical positions like 'adequate performance gets a generous severance package' and 'we hire and reward people for judgment, not following process.' The deck was downloaded over 20 million times and became a foundational document for Silicon Valley's culture wars of the 2010s."
+      },
+      {
+        title: "Cancelling traditional vacation policy",
+        body: "Netflix eliminated formal vacation tracking around 2004. Employees take time off when they need it; managers are expected to model good behavior. Hastings has written that the policy works because it forces alignment around outcomes rather than presence. Many companies have copied the policy with mixed results; Hastings argues those failures come from copying the policy without copying the surrounding culture."
+      },
+    ],
+    advice: [
+      { headline: "Talent density beats process", elaboration: "Most companies add process to compensate for talent gaps. A company of A-players doesn't need most of those processes — and is dramatically more effective without them." },
+      { headline: "Pay top of personal market", elaboration: "Compensate the best people what they're worth on the open market, not at internal-equity bands. Underpaying top talent is more expensive than overpaying it." },
+      { headline: "Keeper test", elaboration: "Periodically ask: if this person were leaving for another job, would I fight to keep them? If not, give them a generous severance and free the seat. Adequate performance gets a package, not a promotion." },
+      { headline: "Context, not control", elaboration: "Managers should provide context (strategy, goals, constraints) and let smart people decide how to execute. Control breeds dependency; context produces judgment." },
+      { headline: "Disagree out loud, then commit", elaboration: "Open disagreement in meetings is healthy. Silent dissent after a decision is corrosive. Netflix's culture demands the former and explicitly rejects the latter." },
+      { headline: "Don't seek to please your boss", elaboration: "Optimize for what's best for the business, not what your boss wants to hear. Bosses are wrong often. The org gets dumber if everyone hides that fact." },
+    ],
+    why_listen: "Built one of the most-copied modern management systems and pivoted Netflix three times across thirty years without losing the company.",
+  },
+
+  {
+    slug: "eric-ries",
+    directory_only: true,
+    name: "Eric Ries",
+    era: "IMVU / Lean Startup, 2004–present",
+    blog_url: "https://leanstartup.co",
+    company: "IMVU / Lean Startup Co.",
+    primary_source: "The Lean Startup (2011) + The Startup Way (2017)",
+    bio: "Co-founded IMVU in 2004 — a 3D avatar-based chat platform that eventually scaled to millions of users. From that experience (and his subsequent work as a startup advisor), he developed and popularized the Lean Startup methodology, which combined customer development (from Steve Blank) with lean manufacturing principles (from Toyota's TPS) to create a framework for early-stage product development under uncertainty. His 2011 book The Lean Startup became one of the best-selling startup books ever — translated into 30+ languages, taught in essentially every business school, and shaping how a generation of founders thought about MVPs, pivot/persevere decisions, and validated learning. His 2017 follow-up The Startup Way extended the framework to large enterprises. He has also pushed for governance reforms (including a Long-Term Stock Exchange he founded in 2019).",
+    notable_stories: [
+      {
+        title: "Failing at IMVU first",
+        body: "IMVU's first product was built in stealth for six months — a serious investment of time and engineering — and the team launched it confident customers would love it. Almost nobody used it as designed. Ries has written that this was the experience that forced him to take customer development seriously. Most of what they had built was discarded; the actually-used version emerged from iterated experiments with real users."
+      },
+      {
+        title: "The minimum viable product",
+        body: "Ries did not invent the term 'minimum viable product' — Frank Robinson coined it earlier — but he popularized it through The Lean Startup. The framing was specific: an MVP is not a small product; it's the smallest experiment that lets you learn something validated about whether the business will work. Many companies confused the term to mean 'small product,' which Ries has spent years correcting."
+      },
+      {
+        title: "Pivot or persevere",
+        body: "The 'pivot' as a startup term originates with Ries. He defined it carefully — a structured course-correction designed to test a new fundamental hypothesis — distinct from random direction-changing. The 'pivot or persevere' framework, decided on a regular cadence, became standard operating practice for early-stage companies post-2011."
+      },
+      {
+        title: "Founding the Long-Term Stock Exchange",
+        body: "In 2019, Ries founded the LTSE — a stock exchange explicitly designed for companies committed to long-term decision-making, with rules that reward long-tenured shareholders and require additional disclosure. The first companies listed in 2020. The premise: public-market pressure forces short-termism that destroys long-term value. The LTSE was an attempt to create a structural alternative."
+      },
+    ],
+    advice: [
+      { headline: "Build–measure–learn", elaboration: "The fastest feedback loop wins. Build the smallest experiment, measure the result, learn, repeat. Most founders spend too long in 'build' and not enough in 'learn.'" },
+      { headline: "Vanity metrics will kill you", elaboration: "Total signups, total visits, total downloads — these feel like progress and aren't. Cohort retention, activation rate, paid conversion — these tell you whether the product is actually working." },
+      { headline: "Validated learning is the unit of progress", elaboration: "Not feature ships, not lines of code — what did you learn that's true about your customers? Every sprint should produce a piece of validated learning." },
+      { headline: "Pivot when the data says to", elaboration: "Persevere when the metrics are moving in the right direction. Pivot when they aren't and you've eliminated execution as the cause. Most founders pivot too late, not too early." },
+      { headline: "Customer development before product development", elaboration: "Talk to customers, watch them use products (yours or competitors'), and validate the problem before building the solution. The expensive mistakes happen when you skip this step." },
+      { headline: "Long-term thinking needs long-term structure", elaboration: "Public companies optimize quarterly because that's what their market structure rewards. Building a long-term company requires deliberately structuring out the short-term incentives — through governance, capital structure, and culture." },
+    ],
+    why_listen: "Synthesized the methodology that shaped how an entire generation of startups built their first products.",
+  },
+
+  {
+    slug: "marc-andreessen",
+    directory_only: true,
+    name: "Marc Andreessen",
+    era: "Netscape / Loudcloud / a16z, 1994–present",
+    blog_url: "https://pmarca.substack.com",
+    company: "Netscape / Andreessen Horowitz",
+    primary_source: "Pmarchive (2007 blog, archived) + 'Why Software Is Eating the World' (2011) + Techno-Optimist Manifesto (2023)",
+    bio: "Co-created the Mosaic web browser at the NCSA at the University of Illinois in 1993 — the first widely-used graphical web browser. Co-founded Netscape Communications with Jim Clark in 1994; the company IPO'd in 1995 in what's often regarded as the symbolic start of the dot-com era. Sold Netscape to AOL in 1999. Co-founded Loudcloud / Opsware with Ben Horowitz (1999), then co-founded Andreessen Horowitz (a16z) with Horowitz in 2009. His 2007 'pmarchive' blog set the early template for VC blogging. His 2011 Wall Street Journal essay 'Why Software Is Eating the World' became the canonical short-form articulation of the software/SaaS investment thesis. His 2023 'Techno-Optimist Manifesto' was a major and divisive statement of his current public positioning.",
+    notable_stories: [
+      {
+        title: "Mosaic and the birth of the consumer web",
+        body: "At 22, working at the National Center for Supercomputing Applications, Andreessen co-led the team that built Mosaic — the first widely-distributed web browser to render images inline with text. Before Mosaic, the web was a text-only academic tool. After Mosaic, it was the consumer internet. Within a year, the team had been recruited by Jim Clark to launch what became Netscape."
+      },
+      {
+        title: "Netscape's IPO",
+        body: "On August 9, 1995, Netscape went public at $28 a share and closed the day at $58, briefly valuing the 16-month-old company at $2.9B with no profits. The IPO is widely cited as the symbolic start of the dot-com era — the moment when the public market began treating internet companies as a category worth more than their fundamentals justified."
+      },
+      {
+        title: "'Why Software Is Eating the World'",
+        body: "In August 2011, Andreessen published a Wall Street Journal op-ed arguing that software companies were taking over economic sectors at an accelerating rate — and that the trend would continue for decades. The essay became one of the most-cited pieces of investment writing of the 2010s and the implicit thesis behind a16z's investment strategy. It also aged well: most of the verticals he named (media, finance, retail, healthcare) have been substantially restructured by software in the decade since."
+      },
+      {
+        title: "Founding a16z",
+        body: "In 2009, Andreessen and Ben Horowitz launched Andreessen Horowitz with a different model than traditional Sand Hill VC: technical founders as the primary customer, hired operators (not analysts) as partners, a large in-house services arm. The firm grew rapidly through the 2010s and became one of the largest VC firms in the world by AUM. Many of its operational moves were widely copied by competitors."
+      },
+      {
+        title: "The Techno-Optimist Manifesto",
+        body: "In October 2023, Andreessen published a roughly 5,000-word 'Techno-Optimist Manifesto' arguing for technology as the unambiguous force for human flourishing. The document was widely read and widely criticized — admirers saw a needed counter to techno-pessimism; critics saw a sweeping defense of unaccountable industry. The piece marked a sharp public turn in his political and rhetorical positioning."
+      },
+    ],
+    advice: [
+      { headline: "Software is eating the world", elaboration: "Almost every industry is being restructured by software, and the timeline is decades, not quarters. The companies that win in any vertical will increasingly look like software companies first." },
+      { headline: "The market is the most important factor", elaboration: "Great teams in bad markets lose to mediocre teams in great markets. The single biggest determinant of startup outcome is the size and trajectory of the market." },
+      { headline: "Strong opinions, strongly held", elaboration: "VCs and founders both win by having clear theses they're willing to defend in public. Vague positioning loses to specific positioning across decades." },
+      { headline: "Distribution is harder than product", elaboration: "Most engineers underestimate the difficulty of getting a great product in front of users. Distribution channels are the actual competitive moat for most businesses." },
+      { headline: "Build the infrastructure layer", elaboration: "The most durable software companies sell to developers, not consumers. Tools and infrastructure compound; consumer products churn." },
+      { headline: "Cycle through fear and greed slowly", elaboration: "Markets oscillate. The best operators are the ones who can act counter-cyclically — invest during fear, harvest during greed — without flipping on every quarterly headline." },
+    ],
+    why_listen: "Has been at the technical and intellectual center of essentially every major internet wave from 1993 to today — with the writing to back the pattern-matching.",
+  },
+
+  {
+    slug: "bill-gurley",
+    directory_only: true,
+    name: "Bill Gurley",
+    era: "Benchmark, 1999–2020 (Partner Emeritus)",
+    blog_url: "https://abovethecrowd.com",
+    company: "Benchmark Capital",
+    primary_source: "Above the Crowd — abovethecrowd.com (1996–present)",
+    bio: "Joined Benchmark Capital as a general partner in 1999 after early career as a sell-side analyst at Hambrecht & Quist and Deutsche Bank. Led Benchmark's investments in OpenTable, Zillow, GrubHub, Uber, NextDoor, and many others. Stepped back to Partner Emeritus role at Benchmark in 2020. Has written 'Above the Crowd' — one of the longest-running active VC blogs on the internet, dating back to 1996 — with deep posts on unit economics, take-rate analysis, marketplace dynamics, public-market pricing, and SaaS metrics. Was at the center of the high-profile Uber boardroom dispute that led to Travis Kalanick's removal as CEO in 2017. Stands 6'9\".",
+    notable_stories: [
+      {
+        title: "The Uber boardroom crisis",
+        body: "In June 2017, after a series of internal crises at Uber (sexual-harassment lawsuit, executive misconduct, criminal probes), a small group of Benchmark partners including Gurley and several other investors pushed for Travis Kalanick's removal as CEO. The standoff played out in extraordinary public detail, ending with Kalanick's resignation and an eventual lawsuit Benchmark filed (and then dropped) over Kalanick's board seats. The episode became a defining moment in VC-founder conflict."
+      },
+      {
+        title: "OpenTable's seventeen-year journey",
+        body: "Gurley invested in OpenTable in 2000. The company struggled through the dot-com crash, survived, slowly built network effects with restaurants and diners, went public in 2009, and was acquired by Booking.com in 2014 for $2.6B. The total time from initial investment to exit was about 14 years — a touchstone in Gurley's writing about how marketplace investments require unusual patience."
+      },
+      {
+        title: "The 'All-Revenue-Is-Not-Created-Equal' essay",
+        body: "In 2011 Gurley published a now-canonical post on his blog dissecting why investors should treat different kinds of revenue with different multiples — recurring subscription revenue vs marketplace take-rate vs one-time hardware sales vs ad revenue. The essay became foundational reading for both founders and public-market analysts. Many similar pieces from later writers cite it directly."
+      },
+      {
+        title: "Calling the unicorn correction",
+        body: "Starting around 2014, Gurley publicly warned that late-stage private valuations were detached from economic fundamentals. He coined or popularized phrases like 'risk free no more' (about Uber) and was widely seen as the most credible bear voice in mainstream tech VC. The 2022–2023 correction in private valuations — exactly the kind he had predicted — vindicated his thesis. He used the moment to write extensively about why."
+      },
+    ],
+    advice: [
+      { headline: "All revenue is not created equal", elaboration: "Recurring subscription revenue trades at a higher multiple than marketplace take, which trades higher than hardware. Founders who don't understand which type they have can't price their business properly." },
+      { headline: "Unit economics or nothing", elaboration: "Every business eventually has to make positive unit economics work. Companies that postpone the question by raising larger rounds are postponing a reckoning, not avoiding it." },
+      { headline: "Marketplaces are slow", elaboration: "Network effects in two-sided marketplaces compound, but they compound over many years. Founders who expect marketplace velocity to match SaaS velocity are setting themselves up for forced exits." },
+      { headline: "Power-law returns require power-law conviction", elaboration: "VCs win by holding through volatility that would force most operators to sell. The discipline is psychological as much as analytical." },
+      { headline: "Public markets eventually win", elaboration: "Late-stage private valuations can deviate from public-market math for years, but eventually the gap closes — usually painfully. Don't mistake a deviation for a new permanent regime." },
+      { headline: "Tell the truth to founders", elaboration: "VCs add value primarily by being honest brokers — by telling founders what they don't want to hear, calibrated to the situation. Most don't. The few who do are sought after." },
+    ],
+    why_listen: "The most analytically rigorous public voice on unit economics, marketplace dynamics, and pricing — with the call record to back it.",
+  },
+
+  {
+    slug: "tony-hsieh",
+    directory_only: true,
+    name: "Tony Hsieh",
+    era: "LinkExchange / Zappos, 1996–2020",
+    blog_url: "https://en.wikipedia.org/wiki/Tony_Hsieh",
+    company: "LinkExchange / Zappos",
+    primary_source: "Delivering Happiness (2010)",
+    bio: "Co-founded LinkExchange in 1996, an ad-network startup that sold to Microsoft in 1998 for $265M when Hsieh was 24. Joined the founding team of Zappos in 1999 (originally called ShoeSite.com) as an investor, then as CEO. Built Zappos into a billion-dollar online shoe retailer with a famously customer-obsessed culture — including 365-day returns, free shipping both ways, and 24/7 customer service that emphasized 'WOW' moments over call efficiency. Amazon acquired Zappos in 2009 for $1.2B in stock. His 2010 book Delivering Happiness articulated his philosophy of company-building as happiness-engineering — for customers, for employees, and for the broader community. He led the Downtown Project — an attempt to revitalize downtown Las Vegas — from 2011 onward. Hsieh died in November 2020 at age 46 from injuries sustained in a fire.",
+    notable_stories: [
+      {
+        title: "Selling LinkExchange while regretting it",
+        body: "Hsieh sold LinkExchange to Microsoft in 1998 for $265M, but he later wrote in Delivering Happiness that he wasn't enjoying the company by the end — culture had eroded, hiring had gotten loose, and going to the office had become a chore. The experience shaped his obsession at Zappos with culture as the central operating system of the company. The Zappos culture infrastructure is essentially the inverse of what LinkExchange became."
+      },
+      {
+        title: "Paying new hires to quit",
+        body: "Zappos famously offered new hires $2,000 to quit at the end of their first week of training. The premise: anyone willing to take the money wasn't committed enough to deliver the kind of customer service Zappos needed. The offer was widely copied. About 2-3% of new hires took it; the rest were demonstrably more committed afterward."
+      },
+      {
+        title: "The Amazon acquisition",
+        body: "In 2009, Amazon acquired Zappos for $1.2B in stock. Hsieh negotiated unusual terms: Zappos would operate independently, retain its culture and leadership, and Hsieh would continue as CEO. He has written that the deal was structured this way because he was convinced Amazon's culture would otherwise overwrite Zappos's. The arrangement largely held until his eventual departure."
+      },
+      {
+        title: "The Downtown Project",
+        body: "In 2011, Hsieh moved Zappos's headquarters to downtown Las Vegas and committed $350M of his own money to revitalizing the surrounding neighborhood through the Downtown Project — funding small businesses, restaurants, tech startups, a music festival, and other civic infrastructure. The effort had mixed results: it brought genuine vitality to the area but suffered from internal management problems and lost significant money. The story is one of the most ambitious modern attempts at founder-led urban renewal."
+      },
+    ],
+    advice: [
+      { headline: "Culture is the product", elaboration: "Customer experience is a function of employee experience. The fastest way to scale customer happiness is to obsess over employee happiness first." },
+      { headline: "Hire for culture fit", elaboration: "Zappos hired primarily for cultural alignment, even when it meant rejecting otherwise-qualified candidates. The math: a mis-hire on culture costs far more than a missed hire on competence." },
+      { headline: "Pay people to quit", elaboration: "The offer-to-quit filter works because it's a credible signal of commitment. People who pass it are demonstrably more invested than people who don't have to make the choice." },
+      { headline: "Be willing to make less in the short term", elaboration: "Zappos's customer service decisions (365-day returns, free shipping, no call-time limits) cost real money in the short term. They paid back in retention and word-of-mouth over years. Don't optimize quarterly metrics that destroy decade returns." },
+      { headline: "WOW is a strategy, not a slogan", elaboration: "Every customer interaction is a chance to do something genuinely surprising — beyond expectations, beyond policy if needed. Most companies say they want this; almost none actually build the org structure that allows it." },
+      { headline: "Happiness is the underlying business", elaboration: "Companies that figure out how to make their customers, employees, and communities happier in measurable ways tend to compound. The framing isn't soft — it's an operational discipline applied to harder-to-measure variables." },
+    ],
+    why_listen: "Built one of the most-cited customer-experience cultures in modern retail, and articulated it more clearly than anyone else has.",
+  },
 ];
 
 export const FOUNDERS_BY_SLUG: ReadonlyMap<string, FounderProfile> = new Map(
