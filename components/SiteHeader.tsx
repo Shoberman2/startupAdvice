@@ -4,17 +4,18 @@ import { ThemeToggle } from "./ThemeToggle";
 interface SiteHeaderProps {
   /** Right-aligned content. If omitted, the standard nav renders. */
   rightSlot?: React.ReactNode;
-  /** Which top-level link is the current section ("ask" | "think" | "with" | "watch"). */
-  active?: "ask" | "think" | "with" | "watch";
+  /** Which top-level link is the current section. */
+  active?: "ask" | "think" | "with" | "watch" | "founders";
 }
 
 export function SiteHeader({ rightSlot, active }: SiteHeaderProps) {
-  const items: Array<{ key: NonNullable<SiteHeaderProps["active"]>; label: string; href: string }> = [
+  const items = [
+    { key: "founders", label: "Founders", href: "/founders" },
     { key: "think", label: "Think", href: "/think" },
     { key: "with", label: "Talk", href: "/with" },
     { key: "watch", label: "Watch", href: "/watch" },
     { key: "ask", label: "Ask", href: "/" },
-  ];
+  ] as const;
 
   return (
     <header

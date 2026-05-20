@@ -71,6 +71,9 @@ app/
 ├── panel/
 │   ├── page.tsx                # Active panel page (server shell)
 │   └── PanelClient.tsx         # Client orchestrator: select → 5 streams
+├── founders/
+│   ├── page.tsx                # Founders index (TOC list of 12)
+│   └── [slug]/page.tsx         # Per-founder profile (bio + ideas + wins/failures + essays)
 ├── api/
 │   ├── panel/
 │   │   ├── select/route.ts     # POST — embed + rank + select 5 authors
@@ -87,8 +90,11 @@ components/
 lib/
 ├── cache/single-flight.ts      # In-memory dedup (try/finally cleanup)
 ├── db/client.ts                # Pooled pg client with pgvector
+├── founders/
+│   ├── index.ts                # Loader: joins personas frontmatter with profiles
+│   └── profiles.ts             # Hand-curated bio/wins/failures per founder
 ├── panel/
-│   ├── all-panelists.ts        # Static metadata for the 8 founders
+│   ├── all-panelists.ts        # Static metadata for the 12 founders
 │   ├── embed.ts                # Embed via AI Gateway, cache by question hash
 │   ├── errors.ts               # Locked API error contract
 │   ├── parse-stream.ts         # Fallback delimited markup parser
