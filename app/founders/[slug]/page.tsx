@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getFounder, listFounderSlugs, type Founder } from "@/lib/founders";
 import { SiteHeader } from "@/components/SiteHeader";
+import { FounderAvatar } from "@/components/FounderAvatar";
 import { query } from "@/lib/db/client";
 
 export const dynamic = "force-dynamic";
@@ -120,57 +121,63 @@ export default async function FounderProfilePage({
           paddingBottom: "var(--space-2)",
           borderBottom: "2px solid var(--text)",
           marginTop: "var(--space-3)",
+          display: "flex",
+          alignItems: "flex-start",
+          gap: "var(--space-3)",
         }}
       >
-        <div className="smallcaps" style={{ color: "var(--accent)", marginBottom: 4 }}>
-          The Panel · Profile
+        <FounderAvatar slug={founder.slug} name={founder.name} size={80} />
+        <div style={{ flex: 1, minWidth: 0 }}>
+          <div className="smallcaps" style={{ color: "var(--accent)", marginBottom: 4 }}>
+            The Panel · Profile
+          </div>
+          <h1
+            style={{
+              margin: 0,
+              fontFamily: "var(--font-serif)",
+              fontSize: 34,
+              fontWeight: 500,
+              lineHeight: 1.1,
+              letterSpacing: "-0.005em",
+            }}
+          >
+            {founder.name}
+          </h1>
+          <div
+            style={{
+              fontFamily: "var(--font-mono)",
+              fontSize: 12,
+              color: "var(--muted)",
+              marginTop: 6,
+            }}
+          >
+            {founder.era}
+          </div>
+          <div
+            style={{
+              fontFamily: "var(--font-mono)",
+              fontSize: 11,
+              color: "var(--muted)",
+              marginTop: 4,
+              letterSpacing: "0.02em",
+            }}
+          >
+            Source: {founder.profile.primary_source}
+          </div>
+          <a
+            href={founder.blogUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{
+              fontFamily: "var(--font-sans)",
+              fontSize: 13,
+              marginTop: 8,
+              display: "inline-block",
+            }}
+          >
+            {blogHost} →
+          </a>
         </div>
-        <h1
-          style={{
-            margin: 0,
-            fontFamily: "var(--font-serif)",
-            fontSize: 34,
-            fontWeight: 500,
-            lineHeight: 1.1,
-            letterSpacing: "-0.005em",
-          }}
-        >
-          {founder.name}
-        </h1>
-        <div
-          style={{
-            fontFamily: "var(--font-mono)",
-            fontSize: 12,
-            color: "var(--muted)",
-            marginTop: 6,
-          }}
-        >
-          {founder.era}
-        </div>
-        <div
-          style={{
-            fontFamily: "var(--font-mono)",
-            fontSize: 11,
-            color: "var(--muted)",
-            marginTop: 4,
-            letterSpacing: "0.02em",
-          }}
-        >
-          Source: {founder.profile.primary_source}
-        </div>
-        <a
-          href={founder.blogUrl}
-          target="_blank"
-          rel="noopener noreferrer"
-          style={{
-            fontFamily: "var(--font-sans)",
-            fontSize: 13,
-            marginTop: 8,
-            display: "inline-block",
-          }}
-        >
-          {blogHost} →
-        </a>
       </section>
 
       {/* Bio — chapter body */}

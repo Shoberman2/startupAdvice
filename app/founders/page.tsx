@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { listFounders } from "@/lib/founders";
 import { SiteHeader } from "@/components/SiteHeader";
+import { FounderAvatar } from "@/components/FounderAvatar";
 
 export const dynamic = "force-dynamic";
 
@@ -73,9 +74,9 @@ export default async function FoundersIndex() {
               href={`/founders/${founder.slug}`}
               style={{
                 display: "grid",
-                gridTemplateColumns: "40px 1fr auto 24px",
+                gridTemplateColumns: "32px 40px 1fr auto 24px",
                 gap: 12,
-                alignItems: "baseline",
+                alignItems: "center",
                 padding: "var(--space-2) 0",
                 borderBottom: "1px dotted var(--hairline)",
                 textDecoration: "none",
@@ -93,6 +94,7 @@ export default async function FoundersIndex() {
               >
                 {String(idx + 1).padStart(2, "0")}.
               </span>
+              <FounderAvatar slug={founder.slug} name={founder.name} size={40} />
               <span style={{ fontWeight: 500 }}>{founder.name}</span>
               <span
                 style={{
