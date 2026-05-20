@@ -5,7 +5,7 @@ interface SiteHeaderProps {
   /** Right-aligned content. If omitted, the standard nav renders. */
   rightSlot?: React.ReactNode;
   /** Which top-level link is the current section. */
-  active?: "ask" | "think" | "with" | "watch" | "founders";
+  active?: "ask" | "think" | "with" | "watch" | "founders" | "pinned";
 }
 
 export function SiteHeader({ rightSlot, active }: SiteHeaderProps) {
@@ -13,8 +13,6 @@ export function SiteHeader({ rightSlot, active }: SiteHeaderProps) {
     { key: "founders", label: "Founders", href: "/founders" },
     { key: "think", label: "Think", href: "/think" },
     { key: "with", label: "Talk", href: "/with" },
-    { key: "watch", label: "Watch", href: "/watch" },
-    { key: "ask", label: "Ask", href: "/" },
   ] as const;
 
   return (

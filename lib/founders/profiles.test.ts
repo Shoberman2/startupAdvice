@@ -1,7 +1,11 @@
 import { describe, expect, it } from "vitest";
 import { readdirSync } from "node:fs";
 import { join } from "node:path";
-import { ALL_PROFILES, FOUNDERS_BY_SLUG } from "./profiles";
+import {
+  ALL_PROFILES,
+  FOUNDERS_BY_SLUG,
+  isDirectoryOnly,
+} from "./profiles";
 import { listFounders, listFounderSlugs } from "./index";
 
 function personaSlugs(): string[] {
@@ -21,13 +25,23 @@ describe("founder profiles", () => {
     }
   });
 
-  it("has a persona file for every profile", () => {
+  it("persona-backed profiles correspond to existing persona files", () => {
     const personas = new Set(personaSlugs());
     for (const profile of ALL_PROFILES) {
+      if (isDirectoryOnly(profile)) continue;
       expect(
         personas.has(profile.slug),
-        `profile '${profile.slug}' has no persona at personas/${profile.slug}.md`,
+        `chat-able profile '${profile.slug}' has no persona at personas/${profile.slug}.md`,
       ).toBe(true);
+    }
+  });
+
+  it("directory-only profiles supply inline name/era/blog_url", () => {
+    for (const profile of ALL_PROFILES) {
+      if (!isDirectoryOnly(profile)) continue;
+      expect(profile.name.length, `${profile.slug}: name`).toBeGreaterThan(0);
+      expect(profile.era.length, `${profile.slug}: era`).toBeGreaterThan(0);
+      expect(profile.blog_url.length, `${profile.slug}: blog_url`).toBeGreaterThan(0);
     }
   });
 
@@ -35,11 +49,38 @@ describe("founder profiles", () => {
     for (const profile of ALL_PROFILES) {
       expect(profile.slug, "slug").toBeTruthy();
       expect(profile.company.length, `${profile.slug}: company`).toBeGreaterThan(0);
-      expect(profile.bio.length, `${profile.slug}: bio`).toBeGreaterThan(40);
+      expect(profile.primary_source.length, `${profile.slug}: primary_source`).toBeGreaterThan(0);
+      expect(profile.bio.length, `${profile.slug}: bio`).toBeGreaterThan(80);
       expect(profile.why_listen.length, `${profile.slug}: why_listen`).toBeGreaterThan(20);
-      expect(profile.signature_ideas.length, `${profile.slug}: signature_ideas`).toBeGreaterThan(0);
-      expect(profile.notable_wins.length, `${profile.slug}: notable_wins`).toBeGreaterThan(0);
-      expect(profile.notable_failures.length, `${profile.slug}: notable_failures`).toBeGreaterThan(0);
+    }
+  });
+
+  it("every profile has at least 3 notable_stories with title + body", () => {
+    for (const profile of ALL_PROFILES) {
+      expect(
+        profile.notable_stories.length,
+        `${profile.slug}: notable_stories count`,
+      ).toBeGreaterThanOrEqual(3);
+      for (const story of profile.notable_stories) {
+        expect(story.title.length, `${profile.slug}: story title`).toBeGreaterThan(0);
+        expect(story.body.length, `${profile.slug}: story body too short`).toBeGreaterThan(60);
+      }
+    }
+  });
+
+  it("every profile has at least 5 advice items with headline + elaboration", () => {
+    for (const profile of ALL_PROFILES) {
+      expect(
+        profile.advice.length,
+        `${profile.slug}: advice count`,
+      ).toBeGreaterThanOrEqual(5);
+      for (const item of profile.advice) {
+        expect(item.headline.length, `${profile.slug}: advice headline`).toBeGreaterThan(0);
+        expect(
+          item.elaboration.length,
+          `${profile.slug}: advice elaboration`,
+        ).toBeGreaterThan(20);
+      }
     }
   });
 
@@ -64,6 +105,13 @@ describe("founder profiles", () => {
       expect(founders[i].era.length).toBeGreaterThan(0);
       expect(founders[i].blogUrl.length).toBeGreaterThan(0);
       expect(founders[i].profile.bio).toBe(ALL_PROFILES[i].bio);
+    }
+  });
+
+  it("directoryOnly flag matches profile shape", async () => {
+    const founders = await listFounders();
+    for (const founder of founders) {
+      expect(founder.directoryOnly).toBe(isDirectoryOnly(founder.profile));
     }
   });
 });

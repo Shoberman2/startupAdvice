@@ -35,9 +35,8 @@ export async function generateMetadata({ params }: { params: Promise<Params> }) 
 }
 
 async function loadNotableEssays(slug: string): Promise<NotableEssayRow[]> {
-  // Top 6 essays by chunk count (longer essays are usually the canonical ones).
-  // Returns empty on any failure — corpus may not be scraped in every env.
-  // Hard 2s cap so the page never blocks on a slow or unreachable database.
+  // Top 6 essays by chunk count. Hard 2s cap so the page never blocks on
+  // a slow or unreachable database. Returns empty silently on any failure.
   const NOTABLE_ESSAYS_TIMEOUT_MS = 2000;
   try {
     return await Promise.race([
@@ -76,7 +75,8 @@ export default async function FounderProfilePage({
     notFound();
   }
 
-  const essays = await loadNotableEssays(founder.slug);
+  // Directory-only founders have no chunks; skip the DB roundtrip entirely.
+  const essays = founder.directoryOnly ? [] : await loadNotableEssays(founder.slug);
   const blogHost = (() => {
     try {
       return new URL(founder.blogUrl).host;
@@ -147,6 +147,17 @@ export default async function FounderProfilePage({
         >
           {founder.era}
         </div>
+        <div
+          style={{
+            fontFamily: "var(--font-mono)",
+            fontSize: 11,
+            color: "var(--muted)",
+            marginTop: 4,
+            letterSpacing: "0.02em",
+          }}
+        >
+          Source: {founder.profile.primary_source}
+        </div>
         <a
           href={founder.blogUrl}
           target="_blank"
@@ -177,8 +188,44 @@ export default async function FounderProfilePage({
         </p>
       </section>
 
-      {/* Signature ideas */}
-      <ProfileSection title="Signature ideas">
+      {/* Notable stories */}
+      <ProfileSection title="Notable stories">
+        <div
+          style={{ display: "flex", flexDirection: "column", gap: "var(--space-3)" }}
+        >
+          {founder.profile.notable_stories.map((story) => (
+            <article key={story.title}>
+              <h3
+                style={{
+                  fontFamily: "var(--font-serif)",
+                  fontSize: 20,
+                  fontWeight: 500,
+                  lineHeight: 1.3,
+                  letterSpacing: "-0.005em",
+                  margin: "0 0 var(--space-1)",
+                  color: "var(--text)",
+                }}
+              >
+                {story.title}
+              </h3>
+              <p
+                style={{
+                  fontFamily: "var(--font-serif)",
+                  fontSize: 17,
+                  lineHeight: 1.6,
+                  color: "var(--text)",
+                  margin: 0,
+                }}
+              >
+                {story.body}
+              </p>
+            </article>
+          ))}
+        </div>
+      </ProfileSection>
+
+      {/* Advice */}
+      <ProfileSection title="Advice">
         <ul
           style={{
             listStyle: "none",
@@ -186,44 +233,29 @@ export default async function FounderProfilePage({
             margin: 0,
             display: "flex",
             flexDirection: "column",
-            gap: 6,
+            gap: "var(--space-2)",
           }}
         >
-          {founder.profile.signature_ideas.map((idea) => (
+          {founder.profile.advice.map((item) => (
             <li
-              key={idea}
+              key={item.headline}
               style={{
                 fontFamily: "var(--font-serif)",
                 fontSize: 17,
+                lineHeight: 1.55,
                 color: "var(--text)",
-                display: "flex",
-                gap: 10,
+                paddingLeft: "var(--space-2)",
+                borderLeft: "2px solid var(--hairline-strong)",
               }}
             >
-              <span style={{ color: "var(--muted)" }}>·</span>
-              <span>{idea}</span>
+              <strong style={{ fontWeight: 600, color: "var(--text)" }}>
+                {item.headline}
+              </strong>
+              <span style={{ color: "var(--muted)" }}> — {item.elaboration}</span>
             </li>
           ))}
         </ul>
       </ProfileSection>
-
-      {/* Wins + failures */}
-      <section
-        style={{
-          display: "grid",
-          gridTemplateColumns: "1fr 1fr",
-          gap: "var(--space-3)",
-        }}
-      >
-        <div>
-          <SectionLabel>Notable wins</SectionLabel>
-          <WinList items={founder.profile.notable_wins} />
-        </div>
-        <div>
-          <SectionLabel>Notable failures</SectionLabel>
-          <WinList items={founder.profile.notable_failures} />
-        </div>
-      </section>
 
       {/* Why listen */}
       <ProfileSection title="Why listen">
@@ -241,7 +273,7 @@ export default async function FounderProfilePage({
         </p>
       </ProfileSection>
 
-      {/* Notable essays — silently omitted if the corpus isn't loaded for this author */}
+      {/* Notable essays — silently omitted if directory-only or the corpus isn't loaded */}
       {essays.length > 0 && (
         <ProfileSection title="Notable essays">
           <ul style={{ listStyle: "none", padding: 0, margin: 0 }}>
@@ -281,32 +313,52 @@ export default async function FounderProfilePage({
         </ProfileSection>
       )}
 
-      {/* CTA pair */}
-      <section
-        style={{
-          marginTop: "var(--space-3)",
-          paddingTop: "var(--space-3)",
-          borderTop: "2px solid var(--text)",
-          display: "flex",
-          gap: "var(--space-4)",
-          flexWrap: "wrap",
-          fontFamily: "var(--font-serif)",
-          fontSize: 18,
-        }}
-      >
-        <Link
-          href={`/with/${founder.slug}`}
-          style={{ color: "var(--accent)", textDecoration: "none" }}
+      {/* CTA pair — hidden for directory-only founders (no chat / no summaries) */}
+      {!founder.directoryOnly && (
+        <section
+          style={{
+            marginTop: "var(--space-3)",
+            paddingTop: "var(--space-3)",
+            borderTop: "2px solid var(--text)",
+            display: "flex",
+            gap: "var(--space-4)",
+            flexWrap: "wrap",
+            fontFamily: "var(--font-serif)",
+            fontSize: 18,
+          }}
         >
-          Chat with {firstName(founder.name)} →
-        </Link>
-        <Link
-          href={`/think/${founder.slug}`}
-          style={{ color: "var(--accent)", textDecoration: "none" }}
+          <Link
+            href={`/with/${founder.slug}`}
+            style={{ color: "var(--accent)", textDecoration: "none" }}
+          >
+            Chat with {firstName(founder.name)} →
+          </Link>
+          <Link
+            href={`/think/${founder.slug}`}
+            style={{ color: "var(--accent)", textDecoration: "none" }}
+          >
+            Read {firstName(founder.name)}&apos;s summaries →
+          </Link>
+        </section>
+      )}
+
+      {/* Directory-only footer note */}
+      {founder.directoryOnly && (
+        <section
+          style={{
+            marginTop: "var(--space-3)",
+            paddingTop: "var(--space-3)",
+            borderTop: "2px solid var(--text)",
+            fontFamily: "var(--font-serif)",
+            fontStyle: "italic",
+            fontSize: 15,
+            color: "var(--muted)",
+          }}
         >
-          Read {firstName(founder.name)}'s summaries →
-        </Link>
-      </section>
+          Directory entry. {firstName(founder.name)} isn&apos;t available for chat —
+          their advice lives in {founder.profile.primary_source}.
+        </section>
+      )}
     </main>
   );
 }
@@ -326,41 +378,11 @@ function SectionLabel({ children }: { children: React.ReactNode }) {
       className="smallcaps"
       style={{
         color: "var(--accent)",
-        marginBottom: "var(--space-1)",
+        marginBottom: "var(--space-2)",
       }}
     >
       {children}
     </div>
-  );
-}
-
-function WinList({ items }: { items: string[] }) {
-  return (
-    <ul
-      style={{
-        listStyle: "none",
-        padding: 0,
-        margin: 0,
-        display: "flex",
-        flexDirection: "column",
-        gap: 4,
-      }}
-    >
-      {items.map((item) => (
-        <li
-          key={item}
-          style={{
-            fontFamily: "var(--font-serif)",
-            fontSize: 16,
-            color: "var(--text)",
-            lineHeight: 1.45,
-          }}
-        >
-          <span style={{ color: "var(--muted)", marginRight: 8 }}>·</span>
-          {item}
-        </li>
-      ))}
-    </ul>
   );
 }
 
