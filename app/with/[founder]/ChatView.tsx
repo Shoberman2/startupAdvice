@@ -4,6 +4,7 @@ import { useEffect, useRef, useState } from "react";
 import type { ChatMessage, ChatCitation } from "@/lib/chats";
 import { splitCitations } from "@/lib/panel/render-citations";
 import { SourceDrawer, type DrawerRequest } from "@/components/SourceDrawer";
+import { PinButton } from "@/components/PinButton";
 
 interface ChatViewProps {
   founderSlug: string;
@@ -191,26 +192,46 @@ export function ChatView({ founderSlug, founderName, founderFirstName }: ChatVie
           </div>
         )}
 
-        {messages.map((m, i) =>
-          m.role === "user" ? (
-            <UserQuestion key={i} content={m.content} />
-          ) : (
-            <FounderReply
-              key={i}
-              founderName={founderName}
-              content={m.content}
-              citations={m.citations}
-              optedOut={m.opted_out}
-              onCitationClick={(c) =>
-                setDrawer({
-                  panelistSlug: founderSlug,
-                  postUrl: c.post_url,
-                  paragraphIndex: c.paragraph_idx,
-                })
-              }
-            />
-          ),
-        )}
+        {messages.map((m, i) => {
+          if (m.role === "user") {
+            return <UserQuestion key={i} content={m.content} />;
+          }
+          // Look back for the most recent user question for the pin context.
+          let questionText = "";
+          for (let j = i - 1; j >= 0; j--) {
+            if (messages[j].role === "user") {
+              questionText = messages[j].content;
+              break;
+            }
+          }
+          const canPin = !m.opted_out && m.content && m.content.trim().length > 0;
+          return (
+            <div key={i} style={{ display: "flex", flexDirection: "column", gap: 6 }}>
+              <FounderReply
+                founderName={founderName}
+                content={m.content}
+                citations={m.citations}
+                optedOut={m.opted_out}
+                onCitationClick={(c) =>
+                  setDrawer({
+                    panelistSlug: founderSlug,
+                    postUrl: c.post_url,
+                    paragraphIndex: c.paragraph_idx,
+                  })
+                }
+              />
+              {canPin && (
+                <PinButton
+                  founderSlug={founderSlug}
+                  founderName={founderName}
+                  questionText={questionText}
+                  answerText={m.content}
+                  source="/with"
+                />
+              )}
+            </div>
+          );
+        })}
 
         {streaming && (
           <FounderReply

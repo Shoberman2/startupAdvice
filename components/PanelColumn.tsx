@@ -4,6 +4,7 @@ import { useEffect, useRef, useState } from "react";
 import type { PanelistMeta } from "@/lib/panel/all-panelists";
 import { consumeObjectStream } from "@/lib/panel/partial-json";
 import { splitCitations } from "@/lib/panel/render-citations";
+import { PinButton } from "@/components/PinButton";
 
 /** Server schema mirror — kept in sync with PanelResponseSchema in the route. */
 interface PanelResponse {
@@ -129,6 +130,18 @@ export function PanelColumn(props: PanelColumnProps) {
         onCitationClick={onCitationClick}
         onRetry={onRetry}
       />
+
+      {streamState.kind === "done" &&
+        !streamState.final.opted_out &&
+        streamState.final.answer && (
+          <PinButton
+            founderSlug={meta.slug}
+            founderName={meta.name}
+            questionText={question}
+            answerText={streamState.final.answer}
+            source="/panel"
+          />
+        )}
     </article>
   );
 }

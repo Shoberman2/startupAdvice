@@ -13,6 +13,7 @@ export function SiteHeader({ rightSlot, active }: SiteHeaderProps) {
     { key: "founders", label: "Founders", href: "/founders" },
     { key: "think", label: "Think", href: "/think" },
     { key: "with", label: "Talk", href: "/with" },
+    { key: "pinned", label: "Pinned", href: "/pinned" },
   ] as const;
 
   return (
