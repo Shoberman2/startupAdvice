@@ -6,10 +6,10 @@
  * to parse the buffer as the longest valid prefix of a JSON object so we can
  * surface fields to the UI as they arrive.
  *
- * Field ordering note (from /plan-eng-review issue 1B): the schema is laid out
- * `retrieved → weighing → answer → opted_out?`. Sonnet generally emits in
- * declared order. If the Saturday spike shows that's unreliable, the fallback
- * is `lib/panel/parse-stream.ts` (delimited markup).
+ * Field ordering note: the panel schema starts with source metadata
+ * (`retrieved`, then `receipts`) before interpretation and the concise answer.
+ * Sonnet generally emits in declared order. If that proves unreliable, the
+ * fallback is `lib/panel/parse-stream.ts` (delimited markup).
  */
 
 import type { z } from "zod";

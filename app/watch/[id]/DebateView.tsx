@@ -21,11 +21,16 @@ export function DebateView({ debateId }: { debateId: string }) {
   useEffect(() => {
     let cancelled = false;
     let pollHandle: ReturnType<typeof setTimeout> | null = null;
+    let scrollHandle: ReturnType<typeof setTimeout> | null = null;
+    let ctrl: AbortController | null = null;
 
     async function load() {
+      ctrl?.abort();
+      ctrl = new AbortController();
       try {
         const r = await fetch(`/api/debates/${encodeURIComponent(debateId)}`, {
           cache: "no-store",
+          signal: ctrl.signal,
         });
         if (!r.ok) {
           if (r.status === 404) {
@@ -41,7 +46,8 @@ export function DebateView({ debateId }: { debateId: string }) {
 
         if (next.messages.length > messageCountRef.current) {
           messageCountRef.current = next.messages.length;
-          setTimeout(() => {
+          if (scrollHandle) clearTimeout(scrollHandle);
+          scrollHandle = setTimeout(() => {
             bottomRef.current?.scrollIntoView({ behavior: "smooth" });
           }, 50);
         }
@@ -50,6 +56,7 @@ export function DebateView({ debateId }: { debateId: string }) {
           pollHandle = setTimeout(load, 20_000);
         }
       } catch (e) {
+        if (e instanceof Error && e.name === "AbortError") return;
         if (cancelled) return;
         setError(e instanceof Error ? e.message : String(e));
         pollHandle = setTimeout(load, 30_000);
@@ -60,7 +67,9 @@ export function DebateView({ debateId }: { debateId: string }) {
 
     return () => {
       cancelled = true;
+      ctrl?.abort();
       if (pollHandle) clearTimeout(pollHandle);
+      if (scrollHandle) clearTimeout(scrollHandle);
     };
   }, [debateId]);
 

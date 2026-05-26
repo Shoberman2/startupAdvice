@@ -24,6 +24,7 @@ import { getPersona } from "@/lib/personas";
 import { validateCitations } from "@/lib/panel/validate-citations";
 import { dollarsForSonnetCall, recordSpend } from "@/lib/panel/spend-cap";
 import { apiError, statusForCode } from "@/lib/panel/errors";
+import { formatAdviceContext, parseAdviceContextJson } from "@/lib/advice-context";
 import { NextResponse } from "next/server";
 
 // AI SDK provider — Anthropic Sonnet via Vercel AI Gateway.
@@ -46,7 +47,18 @@ const PanelResponseSchema = z.object({
       }),
     )
     .max(8),
+  receipts: z
+    .array(
+      z.object({
+        citation_index: z.number(),
+        claim: z.string(),
+      }),
+    )
+    .max(3),
   weighing: z.string(),
+  interpretation: z.string(),
+  recommendation: z.string(),
+  next_steps: z.array(z.string()).max(5),
   answer: z.string(),
   opted_out: z
     .object({
@@ -64,6 +76,9 @@ export async function GET(
   const { author_slug: slug } = await params;
   const url = new URL(req.url);
   const qh = url.searchParams.get("qh");
+  const question = url.searchParams.get("q") ?? "";
+  const adviceContext = parseAdviceContextJson(url.searchParams.get("ctx"));
+  const startupContext = formatAdviceContext(adviceContext);
 
   if (!qh) {
     return NextResponse.json(
@@ -82,7 +97,18 @@ export async function GET(
     );
   }
 
-  const embedding = await getEmbeddingByHash(qh);
+  let embedding;
+  try {
+    embedding = await getEmbeddingByHash(qh);
+  } catch {
+    return NextResponse.json(
+      apiError(
+        "PGVECTOR_UNAVAILABLE",
+        "Our database is taking a breath. Try again in a few seconds.",
+      ),
+      { status: statusForCode("PGVECTOR_UNAVAILABLE") },
+    );
+  }
   if (!embedding) {
     return NextResponse.json(
       apiError("MISSING_QUESTION", "Stale question hash. Refresh and ask again."),
@@ -141,8 +167,28 @@ export async function GET(
     model: gateway.chat(SONNET_MODEL),
     schema: PanelResponseSchema,
     system: persona.systemPrompt,
-    prompt: `Question: ${url.searchParams.get("q") ?? ""}\n\nYou have ${chunks.length} passages. Reference them by [cite:N] using the indices below. Emit the schema fields in order: retrieved → weighing → answer. Include at least one verbatim quote of 10+ words in the answer.\n\n${context}`,
-    maxOutputTokens: 700,
+    prompt: `Question: ${question}
+
+Startup context:
+${startupContext}
+
+You have ${chunks.length} passages. Reference them by [cite:N] using the indices below.
+
+Emit the schema fields in this order:
+1. retrieved: the passages you relied on.
+2. receipts: up to 3 concrete claims from the passages. Each receipt must point to a retrieved citation_index.
+3. weighing: what this founder would notice, doubt, or trade off.
+4. interpretation: how the sourced material applies to the user's specific situation. Mark uncertainty.
+5. recommendation: direct advice in this founder's voice, grounded in the receipts.
+6. next_steps: 3 to 5 specific actions the user could take this week.
+7. answer: a concise bottom line with [cite:N] markers.
+
+Do not pretend the founder addressed facts that are not in the passages. If the passages do not support advice for this situation, set opted_out instead of inventing.
+
+Passages:
+
+${context}`,
+    maxOutputTokens: 1_000,
     onFinish: async (result) => {
       // Citation validation (fail-closed). If the final answer references a
       // missing index or a fabricated verbatim quote, blank out the response.

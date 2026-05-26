@@ -1,10 +1,18 @@
 import { redirect } from "next/navigation";
+import { sanitizeAdviceContext } from "@/lib/advice-context";
 import { PanelClient } from "./PanelClient";
 
 export const dynamic = "force-dynamic";
 
 interface SearchParams {
   q?: string;
+  company?: string;
+  stage?: string;
+  traction?: string;
+  runway?: string;
+  goal?: string;
+  constraints?: string;
+  lens?: string;
 }
 
 export default async function PanelPage({
@@ -19,5 +27,6 @@ export default async function PanelPage({
     // Server-side hard cap. Client also enforces.
     redirect("/?error=question_too_long");
   }
-  return <PanelClient question={question} />;
+  const adviceContext = sanitizeAdviceContext(params);
+  return <PanelClient question={question} adviceContext={adviceContext} />;
 }

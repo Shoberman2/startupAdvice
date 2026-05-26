@@ -25,8 +25,8 @@ export async function generateMetadata({ params }: { params: Promise<Params> }) 
   try {
     const meta = panelistMeta(founder);
     return {
-      title: `Talk with ${meta.name} — Founder Panel`,
-      description: `A one-on-one conversation with the ${meta.name} AI, grounded in his essays.`,
+      title: `Research ${meta.name} — Founder Panel`,
+      description: `An AI research agent grounded in public sources by ${meta.name}.`,
     };
   } catch {
     return { title: "Not found" };
@@ -123,6 +123,19 @@ export default async function WithFounderPage({ params }: { params: Promise<Para
           >
             {meta.era}
           </div>
+          <p
+            style={{
+              margin: "6px 0 0",
+              fontFamily: "var(--font-serif)",
+              fontSize: 15,
+              color: "var(--muted)",
+              fontStyle: "italic",
+              lineHeight: 1.4,
+            }}
+          >
+            AI research view based on public sources. Not a live conversation
+            with {meta.name}.
+          </p>
         </div>
       </section>
 

@@ -13,9 +13,9 @@ Editorial. Patrick Collison essays. Stripe Press. Naval's almanack. Paul Graham'
 ## Brand
 
 - **Wordmark:** "Founder Panel" set in `--font-serif` at 18px, color `--accent`, top-left.
-- **Product claim:** "Twelve founders. Your question. With receipts." Centered above the input on the pre-question page, 32px `--font-serif`, color `--text`.
+- **Product claim:** "An AI research agent for founder advice." Centered above the input on the pre-question page, 32px `--font-serif`, color `--text`.
 
-The claim shape is locked: `{count} founders. Your question. With receipts.` — three sentences, escalating from supply to user to trust unlock. The `{count}` updates when the corpus grows; the rest does not.
+The claim must be explicit that Founder Panel is an AI research agent working from public founder sources. Do not imply the founders are answering live, participating, endorsing the advice, or being impersonated.
 
 ## Typography
 
@@ -306,7 +306,8 @@ Flag any of these in code review:
 |---|---|---|
 | 2026-05-12 | Initial editorial system created | Five-column panel, EB Garamond + Inter + JetBrains Mono, warm off-white with deep red accent |
 | 2026-05-13 | Added `/with` letter format, `/watch` front page, `/watch/[id]` transcript, `/think` library + chapter, magazine-spread citation drawer, dark mode tokens, focus + loading + empty + error specs | "Editorial+ sharper" direction. New surfaces shipped after v1 needed explicit composition rules. Memorable thing = receipts → citation drawer promoted to first-class surface. Dark mode redesigned (not inverted) to keep editorial warmth. |
-| 2026-05-13 | Corpus grew from 8 to 12 founders (DHH, Brian Chesky, Tobi Lütke, Eugene Wei). Product claim shape unlocked: `{count} founders. Your question. With receipts.` — the count now reflects the actual pool. | Added voices fill gaps: bootstrapped/anti-VC (DHH), design-led/operator (Chesky), first-principles operator (Tobi), strategy essayist (Wei). |
+| 2026-05-13 | Corpus grew from 8 to 12 founders (DHH, Brian Chesky, Tobi Lütke, Eugene Wei). The visible corpus count was updated at the time. | Added voices fill gaps: bootstrapped/anti-VC (DHH), design-led/operator (Chesky), first-principles operator (Tobi), strategy essayist (Wei). |
+| 2026-05-26 | Reframed product copy around "AI research agent" and public-source grounding | Users must understand that Founder Panel researches public data about founders and generates source-backed notes. The product should never present outputs as live founder replies. |
 
 ## How to extend this document
 

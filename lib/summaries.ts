@@ -5,7 +5,7 @@
  * Reads always return the most recent prompt_version per (founder, topic).
  */
 
-import { db } from "@/lib/db/client";
+import { queryWithTimeout } from "@/lib/db/client";
 
 export interface SummaryCitation {
   index: number;
@@ -34,6 +34,16 @@ interface Row {
   generated_at: Date;
 }
 
+const SUMMARY_READ_TIMEOUT_MS = 2_000;
+
+async function readSummaryData<T>(load: () => Promise<T>): Promise<T | null> {
+  try {
+    return await load();
+  } catch {
+    return null;
+  }
+}
+
 function rowToSummary(r: Row): Summary {
   return {
     founderSlug: r.founder_slug,
@@ -51,42 +61,57 @@ export async function getSummary(
   founderSlug: string,
   topicSlug: string,
 ): Promise<Summary | null> {
-  const result = await db.query<Row>(
-    `SELECT founder_slug, topic_slug, topic_label, content, citations, prompt_version, generated_at
-     FROM summaries
-     WHERE founder_slug = $1 AND topic_slug = $2
-     ORDER BY generated_at DESC
-     LIMIT 1`,
-    [founderSlug, topicSlug],
+  return readSummaryData(
+    async () => {
+      const rows = await queryWithTimeout<Row>(
+        `SELECT founder_slug, topic_slug, topic_label, content, citations, prompt_version, generated_at
+         FROM summaries
+         WHERE founder_slug = $1 AND topic_slug = $2
+         ORDER BY generated_at DESC
+         LIMIT 1`,
+        [founderSlug, topicSlug],
+        SUMMARY_READ_TIMEOUT_MS,
+      );
+      const row = rows[0];
+      return row ? rowToSummary(row) : null;
+    },
   );
-  const row = result.rows[0];
-  return row ? rowToSummary(row) : null;
 }
 
 /** All summaries for one founder, newest version per topic. */
 export async function listSummariesByFounder(founderSlug: string): Promise<Summary[]> {
-  const result = await db.query<Row>(
-    `SELECT DISTINCT ON (topic_slug)
-       founder_slug, topic_slug, topic_label, content, citations, prompt_version, generated_at
-     FROM summaries
-     WHERE founder_slug = $1
-     ORDER BY topic_slug, generated_at DESC`,
-    [founderSlug],
-  );
-  return result.rows.map(rowToSummary);
+  return (await readSummaryData(
+    async () => {
+      const rows = await queryWithTimeout<Row>(
+        `SELECT DISTINCT ON (topic_slug)
+           founder_slug, topic_slug, topic_label, content, citations, prompt_version, generated_at
+         FROM summaries
+         WHERE founder_slug = $1
+         ORDER BY topic_slug, generated_at DESC`,
+        [founderSlug],
+        SUMMARY_READ_TIMEOUT_MS,
+      );
+      return rows.map(rowToSummary);
+    },
+  )) ?? [];
 }
 
 /** All summaries for one topic across founders, newest version per founder. */
 export async function listSummariesByTopic(topicSlug: string): Promise<Summary[]> {
-  const result = await db.query<Row>(
-    `SELECT DISTINCT ON (founder_slug)
-       founder_slug, topic_slug, topic_label, content, citations, prompt_version, generated_at
-     FROM summaries
-     WHERE topic_slug = $1
-     ORDER BY founder_slug, generated_at DESC`,
-    [topicSlug],
-  );
-  return result.rows.map(rowToSummary);
+  return (await readSummaryData(
+    async () => {
+      const rows = await queryWithTimeout<Row>(
+        `SELECT DISTINCT ON (founder_slug)
+           founder_slug, topic_slug, topic_label, content, citations, prompt_version, generated_at
+         FROM summaries
+         WHERE topic_slug = $1
+         ORDER BY founder_slug, generated_at DESC`,
+        [topicSlug],
+        SUMMARY_READ_TIMEOUT_MS,
+      );
+      return rows.map(rowToSummary);
+    },
+  )) ?? [];
 }
 
 /** Summary stub (founder, topic, exists/not) for grid views. */
@@ -97,11 +122,17 @@ export interface SummaryStub {
 
 /** A grid of which (founder, topic) cells have summaries — used by /think index. */
 export async function listAllSummaryStubs(): Promise<SummaryStub[]> {
-  const result = await db.query<{ founder_slug: string; topic_slug: string }>(
-    `SELECT DISTINCT founder_slug, topic_slug FROM summaries`,
-  );
-  return result.rows.map((r) => ({
-    founderSlug: r.founder_slug,
-    topicSlug: r.topic_slug,
-  }));
+  return (await readSummaryData(
+    async () => {
+      const rows = await queryWithTimeout<{ founder_slug: string; topic_slug: string }>(
+        `SELECT DISTINCT founder_slug, topic_slug FROM summaries`,
+        [],
+        SUMMARY_READ_TIMEOUT_MS,
+      );
+      return rows.map((r) => ({
+        founderSlug: r.founder_slug,
+        topicSlug: r.topic_slug,
+      }));
+    },
+  )) ?? [];
 }

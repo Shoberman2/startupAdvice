@@ -3,8 +3,9 @@ import { ALL_PANELISTS } from "@/lib/panel/all-panelists";
 import { SiteHeader } from "@/components/SiteHeader";
 
 export const metadata = {
-  title: "Talk with a founder — Founder Panel",
-  description: "Pick a founder and have a one-on-one conversation grounded in their essays.",
+  title: "Research a founder — Founder Panel",
+  description:
+    "Pick a founder corpus and ask an AI research agent for source-backed notes.",
 };
 
 function initials(name: string): string {
@@ -41,7 +42,7 @@ export default function WithIndex() {
             letterSpacing: "-0.005em",
           }}
         >
-          Pick a founder to talk with
+          Pick a founder corpus to research
         </h1>
         <p
           style={{
@@ -52,7 +53,8 @@ export default function WithIndex() {
             fontSize: 17,
           }}
         >
-          One-on-one. In their voice. With citations on every claim.
+          Ask an AI agent to research public writing by that founder. It cites
+          the sources it relies on.
         </p>
       </section>
 

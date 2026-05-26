@@ -16,14 +16,21 @@ export function WatchFeed() {
 
   useEffect(() => {
     let cancelled = false;
+    let ctrl: AbortController | null = null;
 
     async function load() {
+      ctrl?.abort();
+      ctrl = new AbortController();
       try {
-        const r = await fetch("/api/debates", { cache: "no-store" });
+        const r = await fetch("/api/debates", {
+          cache: "no-store",
+          signal: ctrl.signal,
+        });
         if (!r.ok) throw new Error(`HTTP ${r.status}`);
         const data = (await r.json()) as FeedResponse;
         if (!cancelled) setFeed(data);
       } catch (e) {
+        if (e instanceof Error && e.name === "AbortError") return;
         if (!cancelled) setError(e instanceof Error ? e.message : String(e));
       }
     }
@@ -32,6 +39,7 @@ export function WatchFeed() {
     const id = setInterval(load, 30_000);
     return () => {
       cancelled = true;
+      ctrl?.abort();
       clearInterval(id);
     };
   }, []);

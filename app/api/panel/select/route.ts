@@ -15,11 +15,13 @@ import { selectPanel } from "@/lib/panel/select";
 import { panelSingleFlight, type SingleFlight } from "@/lib/cache/single-flight";
 import { isOverCap } from "@/lib/panel/spend-cap";
 import { apiError, statusForCode } from "@/lib/panel/errors";
+import { adviceRetrievalText, sanitizeAdviceContext } from "@/lib/advice-context";
 
 const MAX_QUESTION_CHARS = 1000;
 
 interface SelectBody {
   question?: unknown;
+  context?: Partial<Record<string, unknown>>;
 }
 
 export async function POST(req: Request) {
@@ -31,6 +33,10 @@ export async function POST(req: Request) {
   }
 
   const question = typeof body.question === "string" ? body.question.trim() : "";
+  const adviceContext = sanitizeAdviceContext(
+    body.context && typeof body.context === "object" ? body.context : {},
+  );
+  const retrievalText = adviceRetrievalText(question, adviceContext);
 
   if (!question) {
     const err = apiError("MISSING_QUESTION", "Type a question first.");
@@ -63,8 +69,8 @@ export async function POST(req: Request) {
 
   try {
     const flight = panelSingleFlight as SingleFlight<unknown>;
-    const result = (await flight.run(`select:${question.toLowerCase()}`, async () =>
-      selectPanel(question),
+    const result = (await flight.run(`select:${retrievalText.toLowerCase()}`, async () =>
+      selectPanel(retrievalText),
     )) as Awaited<ReturnType<typeof selectPanel>>;
 
     return NextResponse.json({
@@ -74,7 +80,18 @@ export async function POST(req: Request) {
     });
   } catch (e) {
     const message = e instanceof Error ? e.message : String(e);
-    if (/embed|gateway|timeout/i.test(message)) {
+    if (
+      /PGVECTOR_UNAVAILABLE|postgres|database|ECONN|ENOTFOUND|ENETUNREACH|ETIMEDOUT/i.test(
+        message,
+      )
+    ) {
+      const err = apiError(
+        "PGVECTOR_UNAVAILABLE",
+        "Our database is taking a breath. Try again in a few seconds.",
+      );
+      return NextResponse.json(err, { status: statusForCode("PGVECTOR_UNAVAILABLE") });
+    }
+    if (/EMBED_FAILED|embed|gateway/i.test(message)) {
       const err = apiError(
         "EMBED_FAILED",
         "We couldn't read your question. Try again in a moment.",

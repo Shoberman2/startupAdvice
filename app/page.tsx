@@ -8,6 +8,20 @@ const CANONICAL_QUESTIONS = [
   "Should I pivot?",
 ];
 
+const inputStyle = {
+  width: "100%",
+  padding: "var(--space-2)",
+} as const;
+
+const labelStyle = {
+  display: "flex",
+  flexDirection: "column",
+  gap: 6,
+  fontFamily: "var(--font-sans)",
+  fontSize: 13,
+  color: "var(--muted)",
+} as const;
+
 export default function HomePage() {
   return (
     <main
@@ -26,12 +40,12 @@ export default function HomePage() {
           display: "flex",
           flexDirection: "column",
           alignItems: "center",
-          justifyContent: "center",
-          maxWidth: 720,
+          justifyContent: "flex-start",
+          maxWidth: 860,
           margin: "0 auto",
           width: "100%",
-          gap: "var(--space-4)",
-          padding: "var(--space-5) 0",
+          gap: "var(--space-3)",
+          padding: "var(--space-4) 0 var(--space-5)",
         }}
       >
         <h1
@@ -45,8 +59,54 @@ export default function HomePage() {
             letterSpacing: "-0.005em",
           }}
         >
-          Twelve founders. Your question. With receipts.
+          An AI research agent for founder advice.
         </h1>
+
+        <p
+          style={{
+            margin: 0,
+            maxWidth: 620,
+            textAlign: "center",
+            color: "var(--muted)",
+            fontFamily: "var(--font-serif)",
+            fontStyle: "italic",
+            fontSize: 20,
+            lineHeight: 1.45,
+          }}
+        >
+          It researches public founder writing and interviews, then gives
+          source-backed advice with citations. It is not the founders themselves.
+        </p>
+
+        <div
+          role="note"
+          style={{
+            width: "100%",
+            borderTop: "1px solid var(--hairline)",
+            borderBottom: "1px solid var(--hairline)",
+            padding: "var(--space-2) 0",
+            display: "grid",
+            gridTemplateColumns: "minmax(120px, 0.24fr) 1fr",
+            gap: "var(--space-2)",
+          }}
+        >
+          <div className="smallcaps" style={{ color: "var(--accent)" }}>
+            Disclosure
+          </div>
+          <p
+            style={{
+              margin: 0,
+              fontFamily: "var(--font-serif)",
+              fontSize: 16,
+              lineHeight: 1.45,
+              color: "var(--muted)",
+            }}
+          >
+            Founder Panel is an AI agent querying a public-source corpus. It
+            summarizes what the sources support and shows receipts; it does not
+            impersonate or contact the founders.
+          </p>
+        </div>
 
         <form
           action="/panel"
@@ -55,20 +115,142 @@ export default function HomePage() {
             width: "100%",
             display: "flex",
             flexDirection: "column",
-            gap: "var(--space-2)",
+            gap: "var(--space-3)",
+            paddingTop: "var(--space-2)",
           }}
         >
-          <input
-            type="text"
-            name="q"
-            placeholder="Ask something hard"
-            aria-label="Your startup question"
-            required
-            maxLength={1000}
-            style={{ width: "100%", padding: "var(--space-2) var(--space-3)" }}
-          />
+          <label style={labelStyle}>
+            Question
+            <input
+              type="text"
+              name="q"
+              placeholder="Should I raise venture capital now?"
+              aria-label="Your startup question"
+              required
+              maxLength={1000}
+              style={{
+                ...inputStyle,
+                fontSize: 24,
+              }}
+            />
+          </label>
+
+          <fieldset
+            style={{
+              border: "1px solid var(--hairline-strong)",
+              padding: "var(--space-3)",
+              margin: 0,
+              display: "grid",
+              gridTemplateColumns: "repeat(auto-fit, minmax(220px, 1fr))",
+              gap: "var(--space-2)",
+            }}
+          >
+            <legend className="smallcaps" style={{ padding: "0 var(--space-1)" }}>
+              Situation
+            </legend>
+
+            <label style={{ ...labelStyle, gridColumn: "1 / -1" }}>
+              What are you building?
+              <textarea
+                name="company"
+                placeholder="A marketplace for independent therapists, pre-launch"
+                maxLength={280}
+                rows={2}
+                style={inputStyle}
+              />
+            </label>
+
+            <label style={labelStyle}>
+              Stage
+              <select
+                name="stage"
+                defaultValue=""
+                style={{
+                  ...inputStyle,
+                  border: "1px solid var(--hairline-strong)",
+                  background: "var(--bg)",
+                  borderRadius: "var(--radius-input)",
+                  fontFamily: "var(--font-serif)",
+                }}
+              >
+                <option value="">Choose one</option>
+                <option value="Idea / exploring">Idea / exploring</option>
+                <option value="Building MVP">Building MVP</option>
+                <option value="Launched, pre-revenue">Launched, pre-revenue</option>
+                <option value="Early revenue">Early revenue</option>
+                <option value="Growing revenue">Growing revenue</option>
+                <option value="Scaling">Scaling</option>
+              </select>
+            </label>
+
+            <label style={labelStyle}>
+              Traction
+              <input
+                type="text"
+                name="traction"
+                placeholder="$8k MRR, 12% MoM growth"
+                maxLength={180}
+                style={inputStyle}
+              />
+            </label>
+
+            <label style={labelStyle}>
+              Runway
+              <input
+                type="text"
+                name="runway"
+                placeholder="9 months, two founders full-time"
+                maxLength={120}
+                style={inputStyle}
+              />
+            </label>
+
+            <label style={labelStyle}>
+              Goal
+              <input
+                type="text"
+                name="goal"
+                placeholder="Decide whether to raise before hiring"
+                maxLength={180}
+                style={inputStyle}
+              />
+            </label>
+
+            <label style={labelStyle}>
+              Constraint
+              <input
+                type="text"
+                name="constraints"
+                placeholder="Need profitability within a year"
+                maxLength={180}
+                style={inputStyle}
+              />
+            </label>
+
+            <label style={labelStyle}>
+              Advice lens
+              <select
+                name="lens"
+                defaultValue="Balanced"
+                style={{
+                  ...inputStyle,
+                  border: "1px solid var(--hairline-strong)",
+                  background: "var(--bg)",
+                  borderRadius: "var(--radius-input)",
+                  fontFamily: "var(--font-serif)",
+                }}
+              >
+                <option value="Balanced">Balanced</option>
+                <option value="VC-scale">VC-scale</option>
+                <option value="Bootstrapped">Bootstrapped</option>
+                <option value="Product taste">Product taste</option>
+                <option value="Ruthless operator">Ruthless operator</option>
+              </select>
+            </label>
+          </fieldset>
+
           <button type="submit" style={{ alignSelf: "flex-end" }}>
-            Ask the panel →
+            Ask with context →
           </button>
         </form>
 

@@ -3,7 +3,8 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Founder Panel",
-  description: "Twelve founders. Your question. With receipts.",
+  description:
+    "An AI research agent that turns public founder writing into source-backed startup advice.",
 };
 
 // Runs before paint. Reads localStorage and prefers-color-scheme, sets

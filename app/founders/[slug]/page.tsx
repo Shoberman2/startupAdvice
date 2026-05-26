@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import { getFounder, listFounderSlugs, type Founder } from "@/lib/founders";
 import { SiteHeader } from "@/components/SiteHeader";
 import { FounderAvatar } from "@/components/FounderAvatar";
-import { query } from "@/lib/db/client";
+import { queryWithTimeout } from "@/lib/db/client";
 
 export const dynamic = "force-dynamic";
 
@@ -40,20 +40,16 @@ async function loadNotableEssays(slug: string): Promise<NotableEssayRow[]> {
   // a slow or unreachable database. Returns empty silently on any failure.
   const NOTABLE_ESSAYS_TIMEOUT_MS = 2000;
   try {
-    return await Promise.race([
-      query<NotableEssayRow>(
-        `SELECT post_url, post_title, post_published, COUNT(*)::text AS chunk_count
-           FROM chunks
-          WHERE author_slug = $1
-          GROUP BY post_url, post_title, post_published
-          ORDER BY COUNT(*) DESC, post_published DESC NULLS LAST
-          LIMIT 6`,
-        [slug],
-      ),
-      new Promise<NotableEssayRow[]>((resolve) =>
-        setTimeout(() => resolve([]), NOTABLE_ESSAYS_TIMEOUT_MS),
-      ),
-    ]);
+    return await queryWithTimeout<NotableEssayRow>(
+      `SELECT post_url, post_title, post_published, COUNT(*)::text AS chunk_count
+         FROM chunks
+        WHERE author_slug = $1
+        GROUP BY post_url, post_title, post_published
+        ORDER BY COUNT(*) DESC, post_published DESC NULLS LAST
+        LIMIT 6`,
+      [slug],
+      NOTABLE_ESSAYS_TIMEOUT_MS,
+    );
   } catch {
     return [];
   }

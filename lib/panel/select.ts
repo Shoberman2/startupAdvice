@@ -33,21 +33,26 @@ export async function selectPanel(question: string): Promise<SelectResult> {
 
   // Top-K chunks across all authors, grouped to author-level max similarity.
   // We use a CTE to keep this single-roundtrip and HNSW-index-friendly.
-  const rows = (
-    await db.query<AuthorScoreRow>(
-      `WITH ranked AS (
-         SELECT author_slug, 1 - (embedding <=> $1) AS similarity
-         FROM chunks
-         ORDER BY embedding <=> $1
-         LIMIT $2
-       )
-       SELECT author_slug, MAX(similarity) AS max_similarity
-       FROM ranked
-       GROUP BY author_slug
-       ORDER BY max_similarity DESC`,
-      [toSql(embedding), TOP_K_CHUNKS_OVERALL],
-    )
-  ).rows;
+  let rows: AuthorScoreRow[];
+  try {
+    rows = (
+      await db.query<AuthorScoreRow>(
+        `WITH ranked AS (
+           SELECT author_slug, 1 - (embedding <=> $1) AS similarity
+           FROM chunks
+           ORDER BY embedding <=> $1
+           LIMIT $2
+         )
+         SELECT author_slug, MAX(similarity) AS max_similarity
+         FROM ranked
+         GROUP BY author_slug
+         ORDER BY max_similarity DESC`,
+        [toSql(embedding), TOP_K_CHUNKS_OVERALL],
+      )
+    ).rows;
+  } catch (cause) {
+    throw new Error("PGVECTOR_UNAVAILABLE: panel selection failed", { cause });
+  }
 
   const above = rows.filter((r) => r.max_similarity >= SIMILARITY_THRESHOLD);
   const below = rows.filter((r) => r.max_similarity < SIMILARITY_THRESHOLD);

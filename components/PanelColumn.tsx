@@ -7,9 +7,13 @@ import { splitCitations } from "@/lib/panel/render-citations";
 import { PinButton } from "@/components/PinButton";
 
 /** Server schema mirror — kept in sync with PanelResponseSchema in the route. */
-interface PanelResponse {
+export interface PanelResponse {
   retrieved: { index: number; title: string; url: string; paragraph_idx: number }[];
+  receipts?: { citation_index: number; claim: string }[];
   weighing: string;
+  interpretation?: string;
+  recommendation?: string;
+  next_steps?: string[];
   answer: string;
   opted_out?: { reason: string };
 }
@@ -31,16 +35,27 @@ export interface PanelColumnProps {
   state: ColumnState;
   question: string;
   questionHash?: string;
+  adviceContextQuery?: string;
   onCitationClick: (citation: {
     panelistSlug: string;
     postUrl: string;
     paragraphIndex: number;
   }) => void;
   onRetry: () => void;
+  onFinished?: (panelistSlug: string, response: PanelResponse) => void;
 }
 
 export function PanelColumn(props: PanelColumnProps) {
-  const { meta, state, question, questionHash, onCitationClick, onRetry } = props;
+  const {
+    meta,
+    state,
+    question,
+    questionHash,
+    adviceContextQuery,
+    onCitationClick,
+    onRetry,
+    onFinished,
+  } = props;
   const [streamState, setStreamState] = useState<ColumnState>(state);
   const abortRef = useRef<AbortController | null>(null);
 
@@ -55,7 +70,7 @@ export function PanelColumn(props: PanelColumnProps) {
 
     const url = `/api/panel/${meta.slug}?qh=${encodeURIComponent(
       questionHash,
-    )}&q=${encodeURIComponent(question)}`;
+    )}&q=${encodeURIComponent(question)}${adviceContextQuery ? `&ctx=${adviceContextQuery}` : ""}`;
 
     abortRef.current?.abort();
     const ctrl = consumeObjectStream<PanelResponse>(url, {
@@ -65,6 +80,7 @@ export function PanelColumn(props: PanelColumnProps) {
           setStreamState({ kind: "error", message: "Empty response" });
         } else {
           setStreamState({ kind: "done", final });
+          onFinished?.(meta.slug, final);
         }
       },
       onError: (err) =>
@@ -72,7 +88,7 @@ export function PanelColumn(props: PanelColumnProps) {
     });
     abortRef.current = ctrl;
     return () => ctrl.abort();
-  }, [state.kind, questionHash, meta.slug, question]);
+  }, [state.kind, questionHash, meta.slug, question, adviceContextQuery, onFinished]);
 
   // Opacity for the prerender-then-fade loading pattern.
   const opacity =
@@ -222,6 +238,17 @@ function ColumnBody(props: {
   return (
     <>
       <Reasoning retrieved={data.retrieved ?? []} weighing={data.weighing ?? ""} />
+      <Receipts
+        receipts={data.receipts ?? []}
+        retrieved={data.retrieved ?? []}
+        panelistSlug={panelistSlug}
+        onCitationClick={onCitationClick}
+      />
+      <AdviceSections
+        interpretation={data.interpretation ?? ""}
+        recommendation={data.recommendation ?? ""}
+        nextSteps={data.next_steps ?? []}
+      />
       <AnswerBody
         text={data.answer ?? ""}
         retrieved={data.retrieved ?? []}
@@ -229,6 +256,142 @@ function ColumnBody(props: {
         onCitationClick={onCitationClick}
       />
     </>
+  );
+}
+
+function Receipts(props: {
+  receipts: NonNullable<PanelResponse["receipts"]>;
+  retrieved: PanelResponse["retrieved"];
+  panelistSlug: string;
+  onCitationClick: PanelColumnProps["onCitationClick"];
+}) {
+  const { receipts, retrieved, panelistSlug, onCitationClick } = props;
+  if (!receipts.length) return null;
+
+  return (
+    <section
+      style={{
+        display: "flex",
+        flexDirection: "column",
+        gap: 6,
+      }}
+    >
+      <div className="smallcaps">Receipts</div>
+      <ul
+        style={{
+          listStyle: "none",
+          padding: 0,
+          margin: 0,
+          display: "flex",
+          flexDirection: "column",
+          gap: 6,
+          fontFamily: "var(--font-serif)",
+          fontSize: 15,
+          lineHeight: 1.45,
+        }}
+      >
+        {receipts.slice(0, 3).map((receipt, i) => {
+          const citationIndex = Number.isFinite(receipt.citation_index)
+            ? receipt.citation_index
+            : i;
+          const source = retrieved[citationIndex];
+          return (
+            <li key={`${receipt.claim}-${i}`}>
+              <span style={{ color: "var(--muted)", marginRight: 6 }}>·</span>
+              {receipt.claim}
+              {source && (
+                <CitationMark
+                  num={citationIndex}
+                  onClick={() =>
+                    onCitationClick({
+                      panelistSlug,
+                      postUrl: source.url,
+                      paragraphIndex: source.paragraph_idx,
+                    })
+                  }
+                />
+              )}
+            </li>
+          );
+        })}
+      </ul>
+    </section>
+  );
+}
+
+function AdviceSections(props: {
+  interpretation: string;
+  recommendation: string;
+  nextSteps: string[];
+}) {
+  const { interpretation, recommendation, nextSteps } = props;
+  if (!interpretation && !recommendation && !nextSteps.length) return null;
+
+  return (
+    <section
+      style={{
+        display: "flex",
+        flexDirection: "column",
+        gap: "var(--space-1)",
+      }}
+    >
+      {interpretation && (
+        <AdviceBlock label="Interpretation" text={interpretation} />
+      )}
+      {recommendation && (
+        <AdviceBlock label="Advice" text={recommendation} strong />
+      )}
+      {nextSteps.length > 0 && (
+        <div>
+          <div className="smallcaps" style={{ marginBottom: 4 }}>
+            Next moves
+          </div>
+          <ol
+            style={{
+              margin: 0,
+              paddingLeft: "1.2em",
+              fontFamily: "var(--font-serif)",
+              fontSize: 16,
+              lineHeight: 1.45,
+            }}
+          >
+            {nextSteps.slice(0, 4).map((step) => (
+              <li key={step}>{step}</li>
+            ))}
+          </ol>
+        </div>
+      )}
+    </section>
+  );
+}
+
+function AdviceBlock({
+  label,
+  text,
+  strong,
+}: {
+  label: string;
+  text: string;
+  strong?: boolean;
+}) {
+  return (
+    <div>
+      <div className="smallcaps" style={{ marginBottom: 4 }}>
+        {label}
+      </div>
+      <p
+        style={{
+          margin: 0,
+          fontFamily: "var(--font-serif)",
+          fontSize: strong ? 18 : 16,
+          lineHeight: 1.5,
+          color: "var(--text)",
+          fontWeight: strong ? 500 : 400,
+        }}
+      >
+        {text}
+      </p>
+    </div>
   );
 }
 

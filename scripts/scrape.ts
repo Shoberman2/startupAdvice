@@ -18,7 +18,7 @@
  * Requires: DATABASE_URL, AI_GATEWAY_API_KEY (or OPENAI_API_KEY) in env.
  */
 
-import { openai } from "@ai-sdk/openai";
+import { createOpenAI, openai } from "@ai-sdk/openai";
 import { embedMany } from "ai";
 import { toSql } from "pgvector/pg";
 import { db } from "@/lib/db/client";
@@ -30,8 +30,18 @@ import {
   checkRobotsTxt,
 } from "@/lib/scrape/base";
 
-const EMBED_MODEL = "text-embedding-3-small";
+const OPENAI_EMBED_MODEL = "text-embedding-3-small";
+const GATEWAY_EMBED_MODEL = `openai/${OPENAI_EMBED_MODEL}`;
 const EMBED_BATCH = 32;
+
+const gateway = createOpenAI({
+  baseURL: "https://ai-gateway.vercel.sh/v1",
+  apiKey: process.env.AI_GATEWAY_API_KEY ?? "",
+});
+
+const embeddingModel = process.env.AI_GATEWAY_API_KEY
+  ? gateway.embedding(GATEWAY_EMBED_MODEL)
+  : openai.embedding(OPENAI_EMBED_MODEL);
 
 interface Args {
   only?: string;
@@ -110,7 +120,7 @@ async function scrapeAuthor(scraper: BlogScraper, dryRun: boolean): Promise<void
     for (let i = 0; i < toInsert.length; i += EMBED_BATCH) {
       const batch = toInsert.slice(i, i + EMBED_BATCH);
       const { embeddings } = await embedMany({
-        model: openai.embedding(EMBED_MODEL),
+        model: embeddingModel,
         values: batch.map((b) => b.text),
       });
 

@@ -1,8 +1,8 @@
 # Founder Panel
 
-**Eight founders. Your question. With receipts.**
+**An AI research agent for founder advice, grounded in public sources.**
 
-A web app that asks the same startup question to five founders selected from an eight-blog corpus (PG, Naval, Jason Fried, Patrick Collison, Sam Altman, Fred Wilson, Sahil Lavingia, Garry Tan) and streams their answers in parallel — in their actual voices, with citations that link back to the exact paragraph in the source essay.
+A web app that asks an AI agent to research public writing by founders selected from a founder corpus (PG, Naval, Jason Fried, Patrick Collison, Sam Altman, Fred Wilson, Sahil Lavingia, Garry Tan, and others). It returns source-backed advice with citations that link back to the exact paragraph in the source essay. It does not contact, impersonate, or imply endorsement by the founders.
 
 Built with Next.js App Router on Vercel, AI SDK v6, Anthropic Claude Sonnet 4.6 via AI Gateway, Neon Postgres with pgvector.
 

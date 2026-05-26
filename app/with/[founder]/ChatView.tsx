@@ -37,23 +37,45 @@ export function ChatView({ founderSlug, founderName, founderFirstName }: ChatVie
   const [error, setError] = useState<string | null>(null);
   const [drawer, setDrawer] = useState<DrawerRequest | null>(null);
   const messagesEndRef = useRef<HTMLDivElement>(null);
+  const mountedRef = useRef(false);
+  const loadAbortRef = useRef<AbortController | null>(null);
+  const sendAbortRef = useRef<AbortController | null>(null);
+
+  useEffect(() => {
+    mountedRef.current = true;
+    return () => {
+      mountedRef.current = false;
+      loadAbortRef.current?.abort();
+      sendAbortRef.current?.abort();
+    };
+  }, []);
 
   useEffect(() => {
     const storedId = localStorage.getItem(chatIdKey(founderSlug));
     if (!storedId) return;
-    fetch(`/api/chat/${founderSlug}?id=${encodeURIComponent(storedId)}`)
+    const ctrl = new AbortController();
+    loadAbortRef.current?.abort();
+    loadAbortRef.current = ctrl;
+
+    fetch(`/api/chat/${founderSlug}?id=${encodeURIComponent(storedId)}`, {
+      signal: ctrl.signal,
+    })
       .then(async (r) => {
         if (!r.ok) {
           if (r.status === 404) localStorage.removeItem(chatIdKey(founderSlug));
           return;
         }
         const data = (await r.json()) as { id: string; messages: ChatMessage[] };
+        if (!mountedRef.current || ctrl.signal.aborted) return;
         setChatId(data.id);
         setMessages(data.messages);
       })
-      .catch(() => {
+      .catch((e) => {
+        if (e instanceof Error && e.name === "AbortError") return;
         /* network problem — start fresh */
       });
+
+    return () => ctrl.abort();
   }, [founderSlug]);
 
   useEffect(() => {
@@ -68,12 +90,16 @@ export function ChatView({ founderSlug, founderName, founderFirstName }: ChatVie
     setMessages((prev) => [...prev, { role: "user", content: message }]);
     setInput("");
     setStreaming({ retrieved: [], answer: "" });
+    sendAbortRef.current?.abort();
+    const ctrl = new AbortController();
+    sendAbortRef.current = ctrl;
 
     try {
       const res = await fetch(`/api/chat/${founderSlug}`, {
         method: "POST",
         headers: { "content-type": "application/json" },
         body: JSON.stringify({ chatId, message }),
+        signal: ctrl.signal,
       });
 
       if (!res.ok) {
@@ -85,6 +111,7 @@ export function ChatView({ founderSlug, founderName, founderFirstName }: ChatVie
 
       const newChatId = res.headers.get("x-chat-id");
       if (newChatId) {
+        if (!mountedRef.current || ctrl.signal.aborted) return;
         setChatId(newChatId);
         localStorage.setItem(chatIdKey(founderSlug), newChatId);
       }
@@ -92,6 +119,7 @@ export function ChatView({ founderSlug, founderName, founderFirstName }: ChatVie
       const contentType = res.headers.get("content-type") ?? "";
       if (contentType.includes("application/json")) {
         const data = (await res.json()) as ServerResponse;
+        if (!mountedRef.current || ctrl.signal.aborted) return;
         finalizeAssistantMessage(data);
         return;
       }
@@ -106,7 +134,7 @@ export function ChatView({ founderSlug, founderName, founderFirstName }: ChatVie
         if (done) break;
         buffer += decoder.decode(value, { stream: true });
         const partial = parsePartial(buffer);
-        if (partial) {
+        if (partial && mountedRef.current && !ctrl.signal.aborted) {
           setStreaming({
             retrieved: partial.retrieved ?? [],
             answer: partial.answer ?? "",
@@ -116,16 +144,20 @@ export function ChatView({ founderSlug, founderName, founderFirstName }: ChatVie
       }
 
       const final = parsePartial(buffer) ?? { answer: "", retrieved: [] };
+      if (!mountedRef.current || ctrl.signal.aborted) return;
       finalizeAssistantMessage({
         retrieved: final.retrieved ?? [],
         answer: final.answer ?? "",
         opted_out: final.opted_out,
       });
     } catch (e) {
+      if (e instanceof Error && e.name === "AbortError") return;
+      if (!mountedRef.current) return;
       setError(e instanceof Error ? e.message : String(e));
       setStreaming(null);
     } finally {
-      setSubmitting(false);
+      if (sendAbortRef.current === ctrl) sendAbortRef.current = null;
+      if (mountedRef.current) setSubmitting(false);
     }
   }
 
@@ -156,6 +188,7 @@ export function ChatView({ founderSlug, founderName, founderFirstName }: ChatVie
     await fetch(`/api/chat/${founderSlug}?id=${encodeURIComponent(chatId)}`, {
       method: "DELETE",
     });
+    if (!mountedRef.current) return;
     localStorage.removeItem(chatIdKey(founderSlug));
     setChatId(null);
     setMessages([]);
@@ -188,7 +221,7 @@ export function ChatView({ founderSlug, founderName, founderFirstName }: ChatVie
               fontSize: 17,
             }}
           >
-            Ask {founderFirstName} something hard.
+            Ask the AI researcher what public sources by {founderFirstName} suggest.
           </div>
         )}
 
