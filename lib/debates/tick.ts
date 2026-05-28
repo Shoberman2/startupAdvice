@@ -33,7 +33,7 @@ import {
 } from "@/lib/debates";
 import { embedQuestion } from "@/lib/panel/embed";
 import { retrieveForAuthor } from "@/lib/panel/select";
-import { getPersona, type Persona } from "@/lib/personas";
+import { getPersonaForSource, type Persona } from "@/lib/personas";
 import { validateCitations } from "@/lib/panel/validate-citations";
 import { dollarsForSonnetCall, isOverCap, recordSpend } from "@/lib/panel/spend-cap";
 import { panelistMeta } from "@/lib/panel/all-panelists";
@@ -142,7 +142,7 @@ async function advanceOneTurn(session: DebateSession): Promise<TickResult> {
 
   let persona: Persona;
   try {
-    persona = await getPersona(speakerSlug);
+    persona = await getPersonaForSource(speakerSlug);
   } catch {
     return {
       kind: "skipped",
@@ -225,7 +225,7 @@ ${
     : `Prior speakers (most recent last):\n\n${transcriptText}\n\nYour response (100-180 words). Engage with at least one prior point — agree, disagree, build on, push back. Include at least one verbatim quote of 10+ words from a passage below, marked [cite:N]. List which prior turn indices you engaged with in responds_to.`
 }
 
-Speak in your own voice (not generic-AI voice). Don't repeat the topic. Don't say "as I wrote in my essay." Just argue.
+Argue from the speaker's public writing without claiming to be the speaker. Don't repeat the topic. Don't say "as I wrote in my essay." Just argue.
 
 Passages from your essays:
 

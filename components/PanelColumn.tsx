@@ -116,7 +116,7 @@ export function PanelColumn(props: PanelColumnProps) {
       }}
     >
       <header style={{ display: "flex", flexDirection: "column", gap: 4 }}>
-        <Avatar src={meta.avatarPath} alt={meta.name} />
+        <Avatar alt={meta.name} />
         <div
           style={{
             fontFamily: "var(--font-sans)",
@@ -162,24 +162,39 @@ export function PanelColumn(props: PanelColumnProps) {
   );
 }
 
-function Avatar({ src, alt }: { src: string; alt: string }) {
-  // Avatars are committed as PNGs at public/avatars/. Until generated, a
-  // simple geometric placeholder keeps the layout stable.
+function Avatar({ alt }: { alt: string }) {
+  // The panel can run before avatar PNGs have been generated. Render a stable
+  // local placeholder so missing files do not create noisy 404s.
   return (
     <div
       style={{
         width: 72,
         height: 72,
         background: "var(--hairline)",
-        backgroundImage: `url(${src})`,
-        backgroundSize: "cover",
-        backgroundPosition: "center",
         borderRadius: 0,
+        border: "1px solid var(--hairline-strong)",
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
+        fontFamily: "var(--font-serif)",
+        fontSize: 22,
+        color: "var(--accent)",
+        letterSpacing: 0,
       }}
-      aria-hidden="true"
+      role="img"
+      aria-label={alt}
       title={alt}
-    />
+    >
+      {initials(alt)}
+    </div>
   );
+}
+
+function initials(name: string): string {
+  const parts = name.trim().split(/\s+/).filter(Boolean);
+  if (parts.length === 0) return "?";
+  if (parts.length === 1) return parts[0].slice(0, 2).toUpperCase();
+  return `${parts[0][0]}${parts[parts.length - 1][0]}`.toUpperCase();
 }
 
 function ColumnBody(props: {

@@ -61,7 +61,9 @@ async function scrapeAuthor(scraper: BlogScraper, dryRun: boolean): Promise<void
   const slug = scraper.authorSlug;
   console.log(`\n=== ${slug} (${scraper.authorName}) ===`);
 
-  const allowed = await checkRobotsTxt(scraper.sitemapUrl ?? `https://${slug}.com`);
+  const allowed = await checkRobotsTxt(
+    scraper.homeUrl ?? scraper.sitemapUrl ?? `https://${slug}.com`,
+  );
   if (!allowed) {
     console.log(`  SKIP — robots.txt disallows`);
     return;

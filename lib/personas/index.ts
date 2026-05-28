@@ -1,6 +1,7 @@
 import { readdir, readFile } from "node:fs/promises";
 import { join } from "node:path";
 import matter from "gray-matter";
+import { FOUNDER_SOURCE_BY_SLUG } from "@/data/founder-sources";
 
 export type PersonaTier = "A" | "B";
 
@@ -62,6 +63,29 @@ export async function getPersona(slug: string): Promise<Persona> {
     throw new Error(`Unknown persona slug: ${slug}`);
   }
   return persona;
+}
+
+export async function getPersonaForSource(slug: string): Promise<Persona> {
+  try {
+    return await getPersona(slug);
+  } catch {
+    const source = FOUNDER_SOURCE_BY_SLUG.get(slug);
+    if (!source) throw new Error(`Unknown persona slug: ${slug}`);
+
+    return {
+      slug: source.slug,
+      name: source.name,
+      era: source.era,
+      blogUrl: source.sourceUrl,
+      headshotPath: `/avatars/${source.slug}.png`,
+      tier: source.tier ?? "B",
+      systemPrompt: `You are an AI research agent analyzing public writing by ${source.name}.
+
+Do not impersonate ${source.name}, claim to be ${source.name}, or imply live access to them.
+Answer only from retrieved source passages. If the passages do not support a useful answer, opt out.
+Be direct, cite the source indices supplied by the user prompt, and clearly mark uncertainty.`,
+    };
+  }
 }
 
 export async function listPersonas(): Promise<Persona[]> {

@@ -19,13 +19,23 @@ import { createOpenAI } from "@ai-sdk/openai";
 import { streamObject } from "ai";
 import { z } from "zod";
 import { getEmbeddingByHash } from "@/lib/panel/embed";
-import { retrieveForAuthor } from "@/lib/panel/select";
-import { getPersona } from "@/lib/personas";
+import {
+  MIN_SUPPORTING_CHUNKS,
+  STRONG_SINGLE_CHUNK_THRESHOLD,
+  retrieveForAuthor,
+} from "@/lib/panel/select";
+import { getPersonaForSource } from "@/lib/personas";
 import { validateCitations } from "@/lib/panel/validate-citations";
 import { dollarsForSonnetCall, recordSpend } from "@/lib/panel/spend-cap";
 import { apiError, statusForCode } from "@/lib/panel/errors";
 import { formatAdviceContext, parseAdviceContextJson } from "@/lib/advice-context";
 import { NextResponse } from "next/server";
+import {
+  isLocalDemoQuestionHash,
+  localDemoEnabled,
+  localDemoPanelResponse,
+  shouldUseLocalDemoByDefault,
+} from "@/lib/local-demo";
 
 // AI SDK provider — Anthropic Sonnet via Vercel AI Gateway.
 // We use the openai-compatible interface against the gateway URL.
@@ -89,7 +99,7 @@ export async function GET(
 
   let persona;
   try {
-    persona = await getPersona(slug);
+    persona = await getPersonaForSource(slug);
   } catch {
     return NextResponse.json(
       apiError("MISSING_QUESTION", `Unknown panelist: ${slug}`),
@@ -97,10 +107,30 @@ export async function GET(
     );
   }
 
+  if (
+    localDemoEnabled() &&
+    (isLocalDemoQuestionHash(qh) || shouldUseLocalDemoByDefault())
+  ) {
+    return NextResponse.json(localDemoPanelResponse(slug, question, adviceContext), {
+      headers: {
+        "x-local-demo": "1",
+        "x-panelist-slug": slug,
+      },
+    });
+  }
+
   let embedding;
   try {
     embedding = await getEmbeddingByHash(qh);
   } catch {
+    if (localDemoEnabled()) {
+      return NextResponse.json(localDemoPanelResponse(slug, question, adviceContext), {
+        headers: {
+          "x-local-demo": "1",
+          "x-panelist-slug": slug,
+        },
+      });
+    }
     return NextResponse.json(
       apiError(
         "PGVECTOR_UNAVAILABLE",
@@ -134,6 +164,14 @@ export async function GET(
   try {
     chunks = await retrieveForAuthor(slug, embedding);
   } catch {
+    if (localDemoEnabled()) {
+      return NextResponse.json(localDemoPanelResponse(slug, question, adviceContext), {
+        headers: {
+          "x-local-demo": "1",
+          "x-panelist-slug": slug,
+        },
+      });
+    }
     return NextResponse.json(
       apiError(
         "PGVECTOR_UNAVAILABLE",
@@ -143,7 +181,11 @@ export async function GET(
     );
   }
 
-  if (chunks.length === 0) {
+  const hasEnoughSourceSupport =
+    chunks.length >= MIN_SUPPORTING_CHUNKS ||
+    (chunks[0]?.similarity ?? 0) >= STRONG_SINGLE_CHUNK_THRESHOLD;
+
+  if (!hasEnoughSourceSupport) {
     return NextResponse.json({
       retrieved: [],
       weighing: "",
@@ -163,7 +205,9 @@ export async function GET(
 
   const requestId = crypto.randomUUID();
 
-  const stream = await streamObject({
+  let stream;
+  try {
+    stream = await streamObject({
     model: gateway.chat(SONNET_MODEL),
     schema: PanelResponseSchema,
     system: persona.systemPrompt,
@@ -179,7 +223,7 @@ Emit the schema fields in this order:
 2. receipts: up to 3 concrete claims from the passages. Each receipt must point to a retrieved citation_index.
 3. weighing: what this founder would notice, doubt, or trade off.
 4. interpretation: how the sourced material applies to the user's specific situation. Mark uncertainty.
-5. recommendation: direct advice in this founder's voice, grounded in the receipts.
+5. recommendation: direct advice through this founder's public-writing lens, grounded in the receipts.
 6. next_steps: 3 to 5 specific actions the user could take this week.
 7. answer: a concise bottom line with [cite:N] markers.
 
@@ -226,7 +270,21 @@ ${context}`,
         // Spend tracker failure is non-fatal.
       }
     },
-  });
+    });
+  } catch {
+    if (localDemoEnabled()) {
+      return NextResponse.json(localDemoPanelResponse(slug, question, adviceContext), {
+        headers: {
+          "x-local-demo": "1",
+          "x-panelist-slug": slug,
+        },
+      });
+    }
+    return NextResponse.json(
+      apiError("EMBED_FAILED", "We couldn't read your question. Try again in a moment."),
+      { status: statusForCode("EMBED_FAILED") },
+    );
+  }
 
   // Return the partial-object stream to the client. The client uses
   // AI SDK's useObject() or reads NDJSON deltas directly.

@@ -16,6 +16,11 @@ import { panelSingleFlight, type SingleFlight } from "@/lib/cache/single-flight"
 import { isOverCap } from "@/lib/panel/spend-cap";
 import { apiError, statusForCode } from "@/lib/panel/errors";
 import { adviceRetrievalText, sanitizeAdviceContext } from "@/lib/advice-context";
+import {
+  localDemoEnabled,
+  localDemoSelectPanel,
+  shouldUseLocalDemoByDefault,
+} from "@/lib/local-demo";
 
 const MAX_QUESTION_CHARS = 1000;
 
@@ -50,6 +55,18 @@ export async function POST(req: Request) {
     return NextResponse.json(err, { status: statusForCode("QUESTION_TOO_LONG") });
   }
 
+  if (shouldUseLocalDemoByDefault()) {
+    const result = localDemoSelectPanel(retrievalText);
+    return NextResponse.json(
+      {
+        author_slugs: result.authorSlugs,
+        question_hash: result.questionHash,
+        threshold_misses: result.thresholdMisses,
+      },
+      { headers: { "x-local-demo": "1" } },
+    );
+  }
+
   // Spend cap soft-degradation.
   if (process.env.PANEL_LIVE_MODE !== "cache_only") {
     try {
@@ -79,6 +96,15 @@ export async function POST(req: Request) {
       threshold_misses: result.thresholdMisses,
     });
   } catch (e) {
+    if (localDemoEnabled()) {
+      const result = localDemoSelectPanel(retrievalText);
+      return NextResponse.json({
+        author_slugs: result.authorSlugs,
+        question_hash: result.questionHash,
+        threshold_misses: result.thresholdMisses,
+      });
+    }
+
     const message = e instanceof Error ? e.message : String(e);
     if (
       /PGVECTOR_UNAVAILABLE|postgres|database|ECONN|ENOTFOUND|ENETUNREACH|ETIMEDOUT/i.test(

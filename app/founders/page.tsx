@@ -8,7 +8,7 @@ export const dynamic = "force-dynamic";
 export const metadata = {
   title: "Founders — Founder Panel",
   description:
-    "The twelve founders behind the panel. Who they are, what they shipped, and what they got wrong.",
+    "Curated founder profiles from the panel corpus. Who they are, what they shipped, and what they got wrong.",
 };
 
 export default async function FoundersIndex() {
@@ -62,8 +62,8 @@ export default async function FoundersIndex() {
             fontSize: 17,
           }}
         >
-          The twelve voices behind the panel. Stories, wins, failures — in the order
-          their essays land.
+          Curated profiles from the wider panel corpus. Stories, wins, failures — in
+          the order their essays land.
         </p>
       </section>
 

@@ -2,7 +2,7 @@
 
 **An AI research agent for founder advice, grounded in public sources.**
 
-A web app that asks an AI agent to research public writing by founders selected from a founder corpus (PG, Naval, Jason Fried, Patrick Collison, Sam Altman, Fred Wilson, Sahil Lavingia, Garry Tan, and others). It returns source-backed advice with citations that link back to the exact paragraph in the source essay. It does not contact, impersonate, or imply endorsement by the founders.
+A web app that asks an AI agent to research public writing by founders selected from a founder corpus. The source registry covers 100 founder-authored blogs, newsletters, essay archives, and public writing sites. It returns source-backed advice with citations that link back to the exact paragraph in the source essay. It does not contact, impersonate, or imply endorsement by the founders.
 
 Built with Next.js App Router on Vercel, AI SDK v6, Anthropic Claude Sonnet 4.6 via AI Gateway, Neon Postgres with pgvector.
 
@@ -20,7 +20,7 @@ cp .env.example .env.local
 # 3. Run the migration
 psql $DATABASE_URL < db/migrations/0001_initial.sql
 
-# 4. Scrape + embed the corpus (~10-30 minutes depending on rate limits)
+# 4. Scrape + embed the corpus (100 founder sources; time depends on rate limits)
 bun run scrape
 
 # 5. Dev server
@@ -40,7 +40,8 @@ bun run dev
                     │    in question_embeddings)   │
                     │  - pgvector HNSW search      │
                     │  - rank authors by max sim   │
-                    │  - filter < 0.55 threshold   │
+                    │  - require relevant source    │
+                    │    support before selection   │
                     └──────────────┬───────────────┘
                                    │
                   returns {author_slugs[5], question_hash}
@@ -72,7 +73,7 @@ app/
 │   ├── page.tsx                # Active panel page (server shell)
 │   └── PanelClient.tsx         # Client orchestrator: select → 5 streams
 ├── founders/
-│   ├── page.tsx                # Founders index (TOC list of 12)
+│   ├── page.tsx                # Founders index (curated founder profiles)
 │   └── [slug]/page.tsx         # Per-founder profile (bio + ideas + wins/failures + essays)
 ├── api/
 │   ├── panel/
@@ -87,6 +88,9 @@ components/
 ├── PanelColumn.tsx             # One panelist column (avatar → reasoning → answer → citations)
 └── SourceDrawer.tsx            # Faux-page drawer with ±2 paragraph window
 
+data/
+└── founder-sources.ts          # 100 founder-authored public writing sources
+
 lib/
 ├── cache/single-flight.ts      # In-memory dedup (try/finally cleanup)
 ├── db/client.ts                # Pooled pg client with pgvector
@@ -94,7 +98,7 @@ lib/
 │   ├── index.ts                # Loader: joins personas frontmatter with profiles
 │   └── profiles.ts             # Hand-curated bio/wins/failures per founder
 ├── panel/
-│   ├── all-panelists.ts        # Static metadata for the 12 founders
+│   ├── all-panelists.ts        # Static metadata generated from the 100-source registry
 │   ├── embed.ts                # Embed via AI Gateway, cache by question hash
 │   ├── errors.ts               # Locked API error contract
 │   ├── parse-stream.ts         # Fallback delimited markup parser
@@ -105,7 +109,8 @@ lib/
 ├── personas/index.ts           # Persona markdown loader
 └── scrape/
     ├── base.ts                 # Shared scraper utilities
-    ├── index.ts                # Registry of all 8 scrapers
+    ├── generic.ts              # Feed/sitemap/index-page scraper for the source registry
+    ├── index.ts                # Bespoke scrapers + generic scrapers from founder-sources.ts
     ├── paul-graham.ts          # Reference implementation (bespoke HTML)
     ├── naval.ts, jason-fried.ts, fred-wilson.ts, sahil-lavingia.ts,
     ├── patrick-collison.ts, sam-altman.ts, garry-tan.ts
@@ -141,7 +146,7 @@ bun run dev                 # next dev --turbopack
 bun run build               # next build
 bun run start               # next start
 
-bun run scrape              # scrape + embed all 8 blogs (idempotent)
+bun run scrape              # scrape + embed all 100 founder sources (idempotent)
 bun run scrape -- --only paul-graham   # one author
 bun run scrape -- --dry-run            # list URLs, no fetch
 
@@ -155,10 +160,10 @@ bun run eval:voice          # snapshot eval for voice fidelity
 
 ## Adding a new founder (V1.1+)
 
-1. Add a row to `lib/panel/all-panelists.ts`.
+1. Add a row to `data/founder-sources.ts`.
 2. Write `personas/<slug>.md` with YAML frontmatter and a starter system prompt.
-3. Implement `lib/scrape/<slug>.ts` exporting a `BlogScraper`.
-4. Register the scraper in `lib/scrape/index.ts`.
+3. If feed/sitemap discovery is not enough, implement `lib/scrape/<slug>.ts` exporting a `BlogScraper`.
+4. Register that bespoke scraper in `lib/scrape/index.ts`.
 5. Generate an avatar PNG (DALL·E with the locked prompt from DESIGN.md) at `public/avatars/<slug>.png`.
 6. Run `bun run scrape -- --only <slug>` to ingest.
 

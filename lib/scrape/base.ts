@@ -27,6 +27,8 @@ export interface Post {
 export interface BlogScraper {
   authorSlug: string;
   authorName: string;
+  /** Canonical source/home URL for robots.txt and generic discovery. */
+  homeUrl?: string;
   /** Either the canonical sitemap URL or an empty string when listing is bespoke. */
   sitemapUrl?: string;
   listPostUrls(): Promise<string[]>;
@@ -126,21 +128,28 @@ export async function checkRobotsTxt(urlOrDomain: string): Promise<boolean> {
  * sitemap indexes one level deep.
  */
 export async function parseSitemap(sitemapUrl: string): Promise<string[]> {
+  return parseSitemapInner(sitemapUrl, new Set(), 0);
+}
+
+async function parseSitemapInner(
+  sitemapUrl: string,
+  seen: Set<string>,
+  depth: number,
+): Promise<string[]> {
+  if (seen.has(sitemapUrl) || depth > 3) return [];
+  seen.add(sitemapUrl);
+
   const xml = await politeFetch(sitemapUrl);
   const isIndex = /<sitemapindex/i.test(xml);
   const locs = Array.from(xml.matchAll(/<loc>([^<]+)<\/loc>/g)).map((m) => m[1].trim());
 
   if (!isIndex) return locs;
 
-  // Sitemap index → recurse one level.
+  // Sitemap index -> recurse into child sitemaps.
   const all: string[] = [];
   for (const child of locs) {
     try {
-      const xmlChild = await politeFetch(child);
-      const childLocs = Array.from(xmlChild.matchAll(/<loc>([^<]+)<\/loc>/g)).map((m) =>
-        m[1].trim(),
-      );
-      all.push(...childLocs);
+      all.push(...(await parseSitemapInner(child, seen, depth + 1)));
     } catch {
       // Skip unreadable child sitemaps. We'd rather have a partial corpus than crash.
     }

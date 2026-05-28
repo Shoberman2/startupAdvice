@@ -21,10 +21,17 @@ import {
 } from "@/lib/chats";
 import { embedQuestion } from "@/lib/panel/embed";
 import { retrieveForAuthor } from "@/lib/panel/select";
-import { getPersona } from "@/lib/personas";
+import { getPersonaForSource } from "@/lib/personas";
 import { validateCitations } from "@/lib/panel/validate-citations";
 import { dollarsForSonnetCall, isOverCap, recordSpend } from "@/lib/panel/spend-cap";
 import { apiError, statusForCode } from "@/lib/panel/errors";
+import {
+  isLocalDemoChatId,
+  localDemoChatId,
+  localDemoChatResponse,
+  localDemoEnabled,
+  shouldUseLocalDemoByDefault,
+} from "@/lib/local-demo";
 
 const SONNET_MODEL = "anthropic/claude-sonnet-4.6";
 const MAX_MESSAGE_CHARS = 2000;
@@ -67,9 +74,13 @@ export async function GET(
     );
   }
 
+  if (localDemoEnabled() && isLocalDemoChatId(id)) {
+    return localDemoEmptyChatJson(id, founder);
+  }
+
   // Validate the founder exists before looking up the chat.
   try {
-    await getPersona(founder);
+    await getPersonaForSource(founder);
   } catch {
     return NextResponse.json(
       apiError("MISSING_QUESTION", `Unknown panelist: ${founder}`),
@@ -77,7 +88,19 @@ export async function GET(
     );
   }
 
-  const chat = await getChat(id, founder);
+  let chat;
+  try {
+    chat = await getChat(id, founder);
+  } catch {
+    if (localDemoEnabled()) return localDemoEmptyChatJson(id, founder);
+    return NextResponse.json(
+      apiError(
+        "PGVECTOR_UNAVAILABLE",
+        "Our database is taking a breath. Try again in a few seconds.",
+      ),
+      { status: statusForCode("PGVECTOR_UNAVAILABLE") },
+    );
+  }
   if (!chat) {
     return NextResponse.json(
       apiError("MISSING_QUESTION", "Chat not found."),
@@ -97,7 +120,22 @@ export async function DELETE(req: Request) {
       { status: 400 },
     );
   }
-  await deleteChat(id);
+  if (localDemoEnabled() && isLocalDemoChatId(id)) {
+    return NextResponse.json({ ok: true });
+  }
+  try {
+    await deleteChat(id);
+  } catch {
+    if (!localDemoEnabled()) {
+      return NextResponse.json(
+        apiError(
+          "PGVECTOR_UNAVAILABLE",
+          "Our database is taking a breath. Try again in a few seconds.",
+        ),
+        { status: statusForCode("PGVECTOR_UNAVAILABLE") },
+      );
+    }
+  }
   return NextResponse.json({ ok: true });
 }
 
@@ -139,6 +177,23 @@ export async function POST(
     );
   }
 
+  let persona;
+  try {
+    persona = await getPersonaForSource(founder);
+  } catch {
+    return NextResponse.json(
+      apiError("MISSING_QUESTION", `Unknown panelist: ${founder}`),
+      { status: 400 },
+    );
+  }
+
+  if (
+    shouldUseLocalDemoByDefault() ||
+    (incomingChatId !== null && isLocalDemoChatId(incomingChatId))
+  ) {
+    return localDemoChatJson(founder, userMessage);
+  }
+
   // Spend cap soft-degradation.
   if (process.env.PANEL_LIVE_MODE !== "cache_only") {
     try {
@@ -157,40 +212,52 @@ export async function POST(
     }
   }
 
-  let persona;
-  try {
-    persona = await getPersona(founder);
-  } catch {
-    return NextResponse.json(
-      apiError("MISSING_QUESTION", `Unknown panelist: ${founder}`),
-      { status: 400 },
-    );
-  }
-
   // Resolve or create the chat.
   let chatId: string;
   let history: ChatMessage[];
-  if (incomingChatId) {
-    const existing = await getChat(incomingChatId, founder);
-    if (!existing) {
-      // Treat a missing id as starting fresh — the chat may have been deleted
-      // on the server while the client still had the id in localStorage.
+  try {
+    if (incomingChatId) {
+      const existing = await getChat(incomingChatId, founder);
+      if (!existing) {
+        // Treat a missing id as starting fresh — the chat may have been deleted
+        // on the server while the client still had the id in localStorage.
+        const fresh = await createChat(founder);
+        chatId = fresh.id;
+        history = [];
+      } else {
+        chatId = existing.id;
+        history = existing.messages;
+      }
+    } else {
       const fresh = await createChat(founder);
       chatId = fresh.id;
       history = [];
-    } else {
-      chatId = existing.id;
-      history = existing.messages;
     }
-  } else {
-    const fresh = await createChat(founder);
-    chatId = fresh.id;
-    history = [];
+  } catch {
+    if (localDemoEnabled()) return localDemoChatJson(founder, userMessage);
+    return NextResponse.json(
+      apiError(
+        "PGVECTOR_UNAVAILABLE",
+        "Our database is taking a breath. Try again in a few seconds.",
+      ),
+      { status: statusForCode("PGVECTOR_UNAVAILABLE") },
+    );
   }
 
   // Append the user message immediately. If the LLM call fails we still keep
   // it on record so the next attempt has context.
-  await appendMessage(chatId, { role: "user", content: userMessage });
+  try {
+    await appendMessage(chatId, { role: "user", content: userMessage });
+  } catch {
+    if (localDemoEnabled()) return localDemoChatJson(founder, userMessage);
+    return NextResponse.json(
+      apiError(
+        "PGVECTOR_UNAVAILABLE",
+        "Our database is taking a breath. Try again in a few seconds.",
+      ),
+      { status: statusForCode("PGVECTOR_UNAVAILABLE") },
+    );
+  }
   history = [...history, { role: "user", content: userMessage }];
 
   // Embed the latest user message (with a small amount of recent context so
@@ -202,6 +269,7 @@ export async function POST(
     const result = await embedQuestion(retrievalQuery);
     questionEmbedding = result.embedding;
   } catch {
+    if (localDemoEnabled()) return localDemoChatJson(founder, userMessage);
     return NextResponse.json(
       apiError("EMBED_FAILED", "We couldn't read your message. Try again."),
       { status: statusForCode("EMBED_FAILED") },
@@ -212,6 +280,7 @@ export async function POST(
   try {
     chunks = await retrieveForAuthor(founder, questionEmbedding);
   } catch {
+    if (localDemoEnabled()) return localDemoChatJson(founder, userMessage);
     return NextResponse.json(
       apiError(
         "PGVECTOR_UNAVAILABLE",
@@ -256,7 +325,7 @@ export async function POST(
 
   const userPrompt = `${conversationContext ? conversationContext + "\n\n" : ""}User: ${userMessage}
 
-Respond as ${persona.name}, drawing only from the passages below. Include at least one verbatim quote of 10+ words with a [cite:N] marker. If the passages don't cover what's being asked, set opted_out instead of inventing.
+Respond with an AI research view of ${persona.name}'s public writing, drawing only from the passages below. Do not claim to be ${persona.name}. Include at least one verbatim quote of 10+ words with a [cite:N] marker. If the passages don't cover what's being asked, set opted_out instead of inventing.
 
 Passages:
 
@@ -264,7 +333,9 @@ ${context}`;
 
   const requestId = crypto.randomUUID();
 
-  const stream = await streamObject({
+  let stream;
+  try {
+    stream = await streamObject({
     model: gateway.chat(SONNET_MODEL),
     schema: ChatResponseSchema,
     system: persona.systemPrompt,
@@ -336,7 +407,14 @@ ${context}`;
         /* non-fatal */
       }
     },
-  });
+    });
+  } catch {
+    if (localDemoEnabled()) return localDemoChatJson(founder, userMessage);
+    return NextResponse.json(
+      apiError("EMBED_FAILED", "We couldn't read your message. Try again."),
+      { status: statusForCode("EMBED_FAILED") },
+    );
+  }
 
   return stream.toTextStreamResponse({
     headers: {
@@ -362,4 +440,25 @@ function synthesizeRetrievalQuery(messages: ChatMessage[]): string {
   const userPart = lastUser?.content ?? "";
   const assistantTail = lastAssistant?.content.slice(0, 200) ?? "";
   return [userPart, assistantTail].filter(Boolean).join(" ");
+}
+
+function localDemoChatJson(founderSlug: string, message: string): NextResponse {
+  return NextResponse.json(localDemoChatResponse(founderSlug, message), {
+    headers: {
+      "x-chat-id": localDemoChatId(founderSlug),
+      "x-local-demo": "1",
+      "x-panelist-slug": founderSlug,
+    },
+  });
+}
+
+function localDemoEmptyChatJson(id: string, founderSlug: string): NextResponse {
+  const now = new Date().toISOString();
+  return NextResponse.json({
+    id,
+    founderSlug,
+    messages: [],
+    createdAt: now,
+    updatedAt: now,
+  });
 }

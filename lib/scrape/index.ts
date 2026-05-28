@@ -17,8 +17,10 @@ import { dhhScraper } from "./david-heinemeier-hansson";
 import { brianCheskyScraper } from "./brian-chesky";
 import { tobiLutkeScraper } from "./tobi-lutke";
 import { eugeneWeiScraper } from "./eugene-wei";
+import { FOUNDER_SOURCES } from "@/data/founder-sources";
+import { makeGenericScraper } from "./generic";
 
-export const ALL_SCRAPERS: ReadonlyArray<BlogScraper> = [
+const BESPOKE_SCRAPERS: ReadonlyArray<BlogScraper> = [
   paulGrahamScraper,
   navalScraper,
   jasonFriedScraper,
@@ -31,6 +33,17 @@ export const ALL_SCRAPERS: ReadonlyArray<BlogScraper> = [
   brianCheskyScraper,
   tobiLutkeScraper,
   eugeneWeiScraper,
+];
+
+const BESPOKE_SLUGS = new Set(BESPOKE_SCRAPERS.map((scraper) => scraper.authorSlug));
+
+const GENERIC_SCRAPERS: ReadonlyArray<BlogScraper> = FOUNDER_SOURCES
+  .filter((source) => !BESPOKE_SLUGS.has(source.slug))
+  .map(makeGenericScraper);
+
+export const ALL_SCRAPERS: ReadonlyArray<BlogScraper> = [
+  ...BESPOKE_SCRAPERS,
+  ...GENERIC_SCRAPERS,
 ];
 
 export function scraperFor(slug: string): BlogScraper | null {

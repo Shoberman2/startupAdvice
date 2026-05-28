@@ -8,7 +8,7 @@ export const dynamic = "force-dynamic";
 
 export const metadata = {
   title: "Think — Founder Panel",
-  description: "How twelve founders think about the questions that matter, in their own words.",
+  description: "How the founder corpus thinks about the questions that matter.",
 };
 
 const ROMAN = ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x", "xi", "xii", "xiii", "xiv", "xv", "xvi"];
@@ -68,7 +68,7 @@ export default async function ThinkIndex() {
             fontSize: 17,
           }}
         >
-          Topical summaries across the eight-blog corpus. Read what each founder has said
+          Topical summaries across the founder-source corpus. Read what each founder has said
           about the topics that matter to you.
         </p>
       </section>
