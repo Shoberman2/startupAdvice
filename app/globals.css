@@ -982,7 +982,12 @@ a:focus-visible {
   }
 
   .install-section {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .install-copy,
+  .install-block-wrap {
+    min-width: 0;
   }
 
   .install-copy {
