@@ -27,7 +27,7 @@ import { scraperFor } from "../lib/scrape/index";
 import { makeGenericScraper } from "../lib/scrape/generic";
 import { FOUNDER_SOURCE_BY_SLUG } from "../data/founder-sources";
 
-const ROOT = join(import.meta.dir, "..");
+const ROOT = join(import.meta.dirname, "..");
 const OUT_ROOT = join(ROOT, ".claude", "founders-corpus");
 const GARRY_LEGACY = join(ROOT, ".claude", "skills", "garry", "corpus");
 

@@ -18,7 +18,7 @@ import { mkdir, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 import { loadRoster, type RosterMember } from "../lib/roster";
 
-const ROOT = join(import.meta.dir, "..");
+const ROOT = join(import.meta.dirname, "..");
 const OUT_DIR = join(ROOT, "public", "founders", "roster");
 const MANIFEST = join(ROOT, "data", "founder-portraits.json");
 const UA = "FounderPanel/1.0 (https://github.com/Shoberman2/startupAdvice)";
