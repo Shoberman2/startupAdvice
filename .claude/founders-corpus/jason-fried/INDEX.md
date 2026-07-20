@@ -1,7 +1,7 @@
 # Jason Fried corpus index
 
-Source: https://world.hey.com/jason — fetched 2026-07-19
-93 posts, 31191 words. Format: date — [title](canonical url) — `file` — words.
+Source: https://world.hey.com/jason — fetched 2026-07-20
+185 posts, 68838 words. Format: date — [title](canonical url) — `file` — words.
 
 - 2026-03-20 — [The bespoke software revolution? I'm not buying it.](https://world.hey.com/jason/the-bespoke-software-revolution-i-m-not-buying-it-4bfad9ec) — `2026-03-20-jason-the-bespoke-software-revolution-i-m-not-buying-it-4bfad9ec.md` — 320w
 - 2026-01-14 — [Great design was a Cuisinart](https://world.hey.com/jason/great-design-was-a-cuisinart-86a83d1f) — `2026-01-14-jason-great-design-was-a-cuisinart-86a83d1f.md` — 141w
@@ -96,3 +96,95 @@ Source: https://world.hey.com/jason — fetched 2026-07-19
 - 2023-04-14 — [Innovation is overrated](https://world.hey.com/jason/innovation-is-overrated-4994874c) — `2023-04-14-jason-innovation-is-overrated-4994874c.md` — 227w
 - 2023-04-04 — [How we built something useful](https://world.hey.com/jason/how-we-built-something-useful-8ff6a83b) — `2023-04-04-jason-how-we-built-something-useful-8ff6a83b.md` — 882w
 - 2023-03-29 — [The improv instinct](https://world.hey.com/jason/the-improv-instinct-bdf7d930) — `2023-03-29-jason-the-improv-instinct-bdf7d930.md` — 449w
+- 2023-03-21 — [Don't be a knee-jerk](https://world.hey.com/jason/don-t-be-a-knee-jerk-ac7440f4) — `2023-03-21-jason-don-t-be-a-knee-jerk-ac7440f4.md` — 373w
+- 2023-03-20 — [Delegating projects, not tasks](https://world.hey.com/jason/delegating-projects-not-tasks-f36cb8bc) — `2023-03-20-jason-delegating-projects-not-tasks-f36cb8bc.md` — 869w
+- 2023-03-15 — [Just the two of us](https://world.hey.com/jason/just-the-two-of-us-afb2f54e) — `2023-03-15-jason-just-the-two-of-us-afb2f54e.md` — 563w
+- 2023-01-13 — [On Sabbatical](https://world.hey.com/jason/on-sabbatical-833025ad) — `2023-01-13-jason-on-sabbatical-833025ad.md` — 174w
+- 2023-01-06 — [The new normal](https://world.hey.com/jason/the-new-normal-5147c584) — `2023-01-06-jason-the-new-normal-5147c584.md` — 427w
+- 2022-11-16 — [Collaborating away](https://world.hey.com/jason/collaborating-away-653ed7ef) — `2022-11-16-jason-collaborating-away-653ed7ef.md` — 300w
+- 2022-11-07 — [Against Maximization](https://world.hey.com/jason/against-maximization-78a5bee9) — `2022-11-07-jason-against-maximization-78a5bee9.md` — 340w
+- 2022-10-27 — [Do you have to love what you do?](https://world.hey.com/jason/do-you-have-to-love-what-you-do-296f7c43) — `2022-10-27-jason-do-you-have-to-love-what-you-do-296f7c43.md` — 582w
+- 2022-09-20 — [Just get moving](https://world.hey.com/jason/just-get-moving-37503f0e) — `2022-09-20-jason-just-get-moving-37503f0e.md` — 163w
+- 2022-09-14 — [It's not an experience](https://world.hey.com/jason/it-s-not-an-experience-d5ff9ee2) — `2022-09-14-jason-it-s-not-an-experience-d5ff9ee2.md` — 264w
+- 2022-08-30 — [The longer](https://world.hey.com/jason/the-longer-871bb9ed) — `2022-08-30-jason-the-longer-871bb9ed.md` — 162w
+- 2022-08-25 — [Tossing a key](https://world.hey.com/jason/tossing-a-key-87b91f17) — `2022-08-25-jason-tossing-a-key-87b91f17.md` — 334w
+- 2022-07-22 — [Binaries over priorities](https://world.hey.com/jason/binaries-over-priorities-2f703f91) — `2022-07-22-jason-binaries-over-priorities-2f703f91.md` — 177w
+- 2022-07-14 — [Return On Effort](https://world.hey.com/jason/return-on-effort-644acfe8) — `2022-07-14-jason-return-on-effort-644acfe8.md` — 518w
+- 2022-07-08 — [Like a squirrel](https://world.hey.com/jason/like-a-squirrel-bd821787) — `2022-07-08-jason-like-a-squirrel-bd821787.md` — 354w
+- 2022-07-02 — [Working around people](https://world.hey.com/jason/working-around-people-796dd96e) — `2022-07-02-jason-working-around-people-796dd96e.md` — 250w
+- 2022-06-21 — [Heard Something, Read Something, Saw Something [#13]](https://world.hey.com/jason/heard-something-read-something-saw-something-13-2468a3c4) — `2022-06-21-jason-heard-something-read-something-saw-something-13-2468a3c4.md` — 224w
+- 2022-06-06 — [Risk, decisons, and scarcity](https://world.hey.com/jason/risk-decisons-and-scarcity-d4c7636c) — `2022-06-06-jason-risk-decisons-and-scarcity-d4c7636c.md` — 469w
+- 2022-06-02 — [Wait to concentrate](https://world.hey.com/jason/wait-to-concentrate-9e936ef7) — `2022-06-02-jason-wait-to-concentrate-9e936ef7.md` — 307w
+- 2022-05-26 — [Don't defer quality](https://world.hey.com/jason/don-t-defer-quality-aaa105e4) — `2022-05-26-jason-don-t-defer-quality-aaa105e4.md` — 312w
+- 2022-05-03 — [37signals: Hello again](https://world.hey.com/jason/37signals-hello-again-117eae60) — `2022-05-03-jason-37signals-hello-again-117eae60.md` — 506w
+- 2022-04-07 — [Heard Something, Read Something, Saw Something [#12]](https://world.hey.com/jason/heard-something-read-something-saw-something-12-2d58940c) — `2022-04-07-jason-heard-something-read-something-saw-something-12-2d58940c.md` — 174w
+- 2022-03-26 — [Getting together again](https://world.hey.com/jason/getting-together-again-99d068f0) — `2022-03-26-jason-getting-together-again-99d068f0.md` — 704w
+- 2022-03-04 — [Reframing it](https://world.hey.com/jason/reframing-it-0aa9ef7e) — `2022-03-04-jason-reframing-it-0aa9ef7e.md` — 274w
+- 2022-02-22 — [How to land the job you really want](https://world.hey.com/jason/how-to-land-the-job-you-really-want-dcf208ab) — `2022-02-22-jason-how-to-land-the-job-you-really-want-dcf208ab.md` — 186w
+- 2022-02-15 — [Watch out for 12-day weeks](https://world.hey.com/jason/watch-out-for-12-day-weeks-b4441874) — `2022-02-15-jason-watch-out-for-12-day-weeks-b4441874.md` — 349w
+- 2022-02-10 — [Getting better vs. feeling better](https://world.hey.com/jason/getting-better-vs-feeling-better-6b025acb) — `2022-02-10-jason-getting-better-vs-feeling-better-6b025acb.md` — 448w
+- 2022-02-01 — [Heard Something, Read Something, Saw Something [#11]](https://world.hey.com/jason/heard-something-read-something-saw-something-11-b27b098e) — `2022-02-01-jason-heard-something-read-something-saw-something-11-b27b098e.md` — 185w
+- 2022-01-28 — [No big deal or the end of the world?](https://world.hey.com/jason/no-big-deal-or-the-end-of-the-world-0b0d8619) — `2022-01-28-jason-no-big-deal-or-the-end-of-the-world-0b0d8619.md` — 440w
+- 2022-01-25 — [The Presence Prison](https://world.hey.com/jason/the-presence-prison-69608e0f) — `2022-01-25-jason-the-presence-prison-69608e0f.md` — 759w
+- 2022-01-06 — [Deployments: How we announce new features and updates internally at Basecamp](https://world.hey.com/jason/deployments-how-we-announce-new-features-and-updates-internally-at-basecamp-b709544e) — `2022-01-06-jason-deployments-how-we-announce-new-features-and-updates-internally-at-basecam.md` — 630w
+- 2022-01-05 — [Faith in eventually](https://world.hey.com/jason/faith-in-eventually-2d17e90a) — `2022-01-05-jason-faith-in-eventually-2d17e90a.md` — 354w
+- 2022-01-04 — [Why the hell not?](https://world.hey.com/jason/why-the-hell-not-8d2c8fbf) — `2022-01-04-jason-why-the-hell-not-8d2c8fbf.md` — 440w
+- 2021-12-30 — [Does it make you enjoy?](https://world.hey.com/jason/does-it-make-you-enjoy-4ef7072d) — `2021-12-30-jason-does-it-make-you-enjoy-4ef7072d.md` — 185w
+- 2021-12-20 — [What's in a Heartbeat?](https://world.hey.com/jason/what-s-in-a-heartbeat-4fd72d0e) — `2021-12-20-jason-what-s-in-a-heartbeat-4fd72d0e.md` — 484w
+- 2021-11-19 — [Distracting? Is it?](https://world.hey.com/jason/distracting-is-it-3b23e5cf) — `2021-11-19-jason-distracting-is-it-3b23e5cf.md` — 787w
+- 2021-11-10 — [Heard Something, Read Something, Saw Something [#10]](https://world.hey.com/jason/heard-something-read-something-saw-something-10-2972cc25) — `2021-11-10-jason-heard-something-read-something-saw-something-10-2972cc25.md` — 233w
+- 2021-10-30 — [Fewer options can create more optionality](https://world.hey.com/jason/fewer-options-can-create-more-optionality-4ac9b067) — `2021-10-30-jason-fewer-options-can-create-more-optionality-4ac9b067.md` — 582w
+- 2021-10-20 — [How we acquired HEY.com](https://world.hey.com/jason/how-we-acquired-hey-com-2e3e0d5f) — `2021-10-20-jason-how-we-acquired-hey-com-2e3e0d5f.md` — 179w
+- 2021-10-19 — [Introducing Elaine Richards, our new COO](https://world.hey.com/jason/introducing-elaine-richards-our-new-coo-a74122d8) — `2021-10-19-jason-introducing-elaine-richards-our-new-coo-a74122d8.md` — 549w
+- 2021-10-05 — [Idea protectionism](https://world.hey.com/jason/idea-protectionism-01ef4f59) — `2021-10-05-jason-idea-protectionism-01ef4f59.md` — 644w
+- 2021-10-03 — [Heard Something, Read Something, Saw Something [#9]](https://world.hey.com/jason/heard-something-read-something-saw-something-9-5f5b24b6) — `2021-10-03-jason-heard-something-read-something-saw-something-9-5f5b24b6.md` — 245w
+- 2021-09-14 — [Is a business different from a company?](https://world.hey.com/jason/is-a-business-different-from-a-company-e2316769) — `2021-09-14-jason-is-a-business-different-from-a-company-e2316769.md` — 657w
+- 2021-09-04 — [Heard Something, Read Something, Saw Something [#8]](https://world.hey.com/jason/heard-something-read-something-saw-something-8-99e39bac) — `2021-09-04-jason-heard-something-read-something-saw-something-8-99e39bac.md` — 293w
+- 2021-09-03 — [Tricks of the trade](https://world.hey.com/jason/tricks-of-the-trade-36514e4a) — `2021-09-03-jason-tricks-of-the-trade-36514e4a.md` — 394w
+- 2021-09-02 — [How ideas come together for me](https://world.hey.com/jason/how-ideas-come-together-for-me-61bfbb8f) — `2021-09-02-jason-how-ideas-come-together-for-me-61bfbb8f.md` — 193w
+- 2021-08-26 — [Heard Something, Read Something, Saw Something [#7]](https://world.hey.com/jason/heard-something-read-something-saw-something-7-195a4e2b) — `2021-08-26-jason-heard-something-read-something-saw-something-7-195a4e2b.md` — 205w
+- 2021-08-23 — [Questions I ask when checking references](https://world.hey.com/jason/questions-i-ask-when-checking-references-454e5e8d) — `2021-08-23-jason-questions-i-ask-when-checking-references-454e5e8d.md` — 432w
+- 2021-08-18 — [The path to Basecamp 4](https://world.hey.com/jason/the-path-to-basecamp-4-7516ee5b) — `2021-08-18-jason-the-path-to-basecamp-4-7516ee5b.md` — 538w
+- 2021-08-17 — [The difference between time and attention](https://world.hey.com/jason/the-difference-between-time-and-attention-bdd955eb) — `2021-08-17-jason-the-difference-between-time-and-attention-bdd955eb.md` — 470w
+- 2021-07-28 — [Heard Something, Read Something, Saw Something [#6]](https://world.hey.com/jason/heard-something-read-something-saw-something-6-b0f2d38b) — `2021-07-28-jason-heard-something-read-something-saw-something-6-b0f2d38b.md` — 181w
+- 2021-07-25 — [It Doesn't Have to Be Crazy at Work](https://world.hey.com/jason/it-doesn-t-have-to-be-crazy-at-work-66b05283) — `2021-07-25-jason-it-doesn-t-have-to-be-crazy-at-work-66b05283.md` — 582w
+- 2021-07-14 — [It's not remote if you have to go to the office](https://world.hey.com/jason/it-s-not-remote-if-you-have-to-go-to-the-office-f76dce6e) — `2021-07-14-jason-it-s-not-remote-if-you-have-to-go-to-the-office-f76dce6e.md` — 302w
+- 2021-06-28 — [Brands and rental cars](https://world.hey.com/jason/brands-and-rental-cars-843112a6) — `2021-06-28-jason-brands-and-rental-cars-843112a6.md` — 440w
+- 2021-06-25 — [Heard Something, Read Something, Saw Something [#5]](https://world.hey.com/jason/heard-something-read-something-saw-something-5-dca8bb7f) — `2021-06-25-jason-heard-something-read-something-saw-something-5-dca8bb7f.md` — 215w
+- 2021-06-23 — [A static business is a healthy business](https://world.hey.com/jason/a-static-business-is-a-healthy-business-c0c2961b) — `2021-06-23-jason-a-static-business-is-a-healthy-business-c0c2961b.md` — 396w
+- 2021-06-16 — [HEY turns 1, Happy Birthday HEY!](https://world.hey.com/jason/hey-turns-1-happy-birthday-hey-ab6f3d2c) — `2021-06-16-jason-hey-turns-1-happy-birthday-hey-ab6f3d2c.md` — 672w
+- 2021-06-10 — [Heard Something, Read Something, Saw Something [#4]](https://world.hey.com/jason/heard-something-read-something-saw-something-4-abb4e362) — `2021-06-10-jason-heard-something-read-something-saw-something-4-abb4e362.md` — 286w
+- 2021-06-07 — [Listening to last year, at this time](https://world.hey.com/jason/listening-to-last-year-at-this-time-95a2d9fb) — `2021-06-07-jason-listening-to-last-year-at-this-time-95a2d9fb.md` — 362w
+- 2021-06-07 — [Hiring future perfects](https://world.hey.com/jason/hiring-future-perfects-2f4ebff3) — `2021-06-07-jason-hiring-future-perfects-2f4ebff3.md` — 503w
+- 2021-06-02 — [Hiring up! Product designer?](https://world.hey.com/jason/hiring-up-product-designer-d308b4d5) — `2021-06-02-jason-hiring-up-product-designer-d308b4d5.md` — 625w
+- 2021-05-31 — [Heard Something, Read Something, Saw Something [#3]](https://world.hey.com/jason/heard-something-read-something-saw-something-3-f8590cbf) — `2021-05-31-jason-heard-something-read-something-saw-something-3-f8590cbf.md` — 218w
+- 2021-05-25 — [What's modern?](https://world.hey.com/jason/what-s-modern-0b42d561) — `2021-05-25-jason-what-s-modern-0b42d561.md` — 341w
+- 2021-05-23 — [Heard Something, Read Something, Saw Something [#2]](https://world.hey.com/jason/heard-something-read-something-saw-something-2-69599563) — `2021-05-23-jason-heard-something-read-something-saw-something-2-69599563.md` — 226w
+- 2021-05-19 — [Active? Away? How about neither.](https://world.hey.com/jason/active-away-how-about-neither-ed70fd69) — `2021-05-19-jason-active-away-how-about-neither-ed70fd69.md` — 759w
+- 2021-05-09 — [Heard Something, Read Something, Saw Something [#1]](https://world.hey.com/jason/heard-something-read-something-saw-something-1-837a94dd) — `2021-05-09-jason-heard-something-read-something-saw-something-1-837a94dd.md` — 260w
+- 2021-05-04 — [An Update](https://world.hey.com/jason/an-update-303f2f99) — `2021-05-04-jason-an-update-303f2f99.md` — 270w
+- 2021-04-27 — [On making decisions](https://world.hey.com/jason/on-making-decisions-fb7adfbf) — `2021-04-27-jason-on-making-decisions-fb7adfbf.md` — 124w
+- 2021-04-26 — [Changes at Basecamp](https://world.hey.com/jason/changes-at-basecamp-7f32afc5) — `2021-04-26-jason-changes-at-basecamp-7f32afc5.md` — 1385w
+- 2021-04-24 — [I bought a sauna](https://world.hey.com/jason/i-bought-a-sauna-30088f7d) — `2021-04-24-jason-i-bought-a-sauna-30088f7d.md` — 162w
+- 2021-04-17 — [Pale Blue Dot](https://world.hey.com/jason/pale-blue-dot-9afe8e3f) — `2021-04-17-jason-pale-blue-dot-9afe8e3f.md` — 273w
+- 2021-04-12 — [Staying Out of It](https://world.hey.com/jason/staying-out-of-it-c6624e2d) — `2021-04-12-jason-staying-out-of-it-c6624e2d.md` — 286w
+- 2021-04-08 — [Why be an entrepreneur?](https://world.hey.com/jason/why-be-an-entrepreneur-19b4e77c) — `2021-04-08-jason-why-be-an-entrepreneur-19b4e77c.md` — 511w
+- 2021-04-06 — [How much is Basecamp worth? I don’t know and I don’t care.](https://world.hey.com/jason/how-much-is-basecamp-worth-i-don-t-know-and-i-don-t-care-dc5aef21) — `2021-04-06-jason-how-much-is-basecamp-worth-i-don-t-know-and-i-don-t-care-dc5aef21.md` — 570w
+- 2021-03-31 — [Excitement is a fleeting moment, not a steady state](https://world.hey.com/jason/excitement-is-a-fleeting-moment-not-a-steady-state-481e3548) — `2021-03-31-jason-excitement-is-a-fleeting-moment-not-a-steady-state-481e3548.md` — 538w
+- 2021-03-24 — [What I think, not what I thought](https://world.hey.com/jason/what-i-think-not-what-i-thought-99cae1d0) — `2021-03-24-jason-what-i-think-not-what-i-thought-99cae1d0.md` — 392w
+- 2021-03-16 — [Why should I buy yours vs. theirs?](https://world.hey.com/jason/why-should-i-buy-yours-vs-theirs-4ceaacc5) — `2021-03-16-jason-why-should-i-buy-yours-vs-theirs-4ceaacc5.md` — 348w
+- 2021-03-15 — [How Coronavirus kids see the world](https://world.hey.com/jason/how-coronavirus-kids-see-the-world-defd18d5) — `2021-03-15-jason-how-coronavirus-kids-see-the-world-defd18d5.md` — 223w
+- 2021-03-15 — [Giiggle it!](https://world.hey.com/jason/giiggle-it-e150b168) — `2021-03-15-jason-giiggle-it-e150b168.md` — 379w
+- 2021-03-11 — [Validation is a mirage](https://world.hey.com/jason/validation-is-a-mirage-273c0969) — `2021-03-11-jason-validation-is-a-mirage-273c0969.md` — 639w
+- 2021-03-09 — [Nodding heads, not turning heads](https://world.hey.com/jason/nodding-heads-not-turning-heads-ad18d607) — `2021-03-09-jason-nodding-heads-not-turning-heads-ad18d607.md` — 314w
+- 2021-03-05 — [An alternative to competition](https://world.hey.com/jason/an-alternative-to-competition-ff57f4bc) — `2021-03-05-jason-an-alternative-to-competition-ff57f4bc.md` — 330w
+- 2021-03-03 — [Stem cell or organ?](https://world.hey.com/jason/stem-cell-or-organ-4233b10d) — `2021-03-03-jason-stem-cell-or-organ-4233b10d.md` — 425w
+- 2021-03-02 — [Ditch the elevator pitch](https://world.hey.com/jason/ditch-the-elevator-pitch-b66abb6a) — `2021-03-02-jason-ditch-the-elevator-pitch-b66abb6a.md` — 603w
+- 2021-02-26 — [A product's gravity](https://world.hey.com/jason/a-product-s-gravity-b681fda6) — `2021-02-26-jason-a-product-s-gravity-b681fda6.md` — 219w
+- 2021-02-25 — [Remote work is not local work at a distance](https://world.hey.com/jason/remote-work-is-not-local-work-at-a-distance-94602802) — `2021-02-25-jason-remote-work-is-not-local-work-at-a-distance-94602802.md` — 841w
+- 2021-02-24 — [The only metric that matters to me](https://world.hey.com/jason/the-only-metric-that-matters-to-me-ada11073) — `2021-02-24-jason-the-only-metric-that-matters-to-me-ada11073.md` — 241w
+- 2021-02-24 — [Foam, tape, shims, and glue](https://world.hey.com/jason/foam-tape-shims-and-glue-b9ab1f72) — `2021-02-24-jason-foam-tape-shims-and-glue-b9ab1f72.md` — 294w
+- 2021-02-22 — [The Obvious, the Easy, and the Possible](https://world.hey.com/jason/the-obvious-the-easy-and-the-possible-2e11a3fb) — `2021-02-22-jason-the-obvious-the-easy-and-the-possible-2e11a3fb.md` — 528w
+- 2021-02-22 — [I've never had a goal](https://world.hey.com/jason/i-ve-never-had-a-goal-a0c80e44) — `2021-02-22-jason-i-ve-never-had-a-goal-a0c80e44.md` — 369w
+- 2021-02-22 — [Give it 5 minutes](https://world.hey.com/jason/give-it-5-minutes-e065a7c7) — `2021-02-22-jason-give-it-5-minutes-e065a7c7.md` — 652w
+- 2021-02-22 — ["Hey, World!"](https://world.hey.com/jason/hey-world-b02a6f2e) — `2021-02-22-jason-hey-world-b02a6f2e.md` — 682w

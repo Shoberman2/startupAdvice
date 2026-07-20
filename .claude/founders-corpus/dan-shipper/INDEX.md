@@ -1,7 +1,7 @@
 # Dan Shipper corpus index
 
-Source: https://danshipper.com — fetched 2026-07-19
-89 posts, 87039 words. Format: date — [title](canonical url) — `file` — words.
+Source: https://danshipper.com — fetched 2026-07-20
+101 posts, 94174 words. Format: date — [title](canonical url) — `file` — words.
 
 - undated — [“Damn” is a dirty word](https://danshipper.com/damn-is-a-dirty-word) — `undated-damn-is-a-dirty-word.md` — 482w
 - undated — [You’re selling it wrong](https://danshipper.com/youre-selling-it-wrong) — `undated-youre-selling-it-wrong.md` — 923w
@@ -15,6 +15,7 @@ Source: https://danshipper.com — fetched 2026-07-19
 - undated — [Why We Do Startups](https://danshipper.com/92091937) — `undated-92091937.md` — 640w
 - undated — [Why Social Proof Matters To Your Startup](https://danshipper.com/why-social-proof-matters-to-your-startup) — `undated-why-social-proof-matters-to-your-startup.md` — 460w
 - undated — [Why I’m doing it all wrong](https://danshipper.com/why-im-doing-it-all-wrong) — `undated-why-im-doing-it-all-wrong.md` — 1164w
+- undated — [Why I Don’t Develop iPhone Apps Anymore](https://danshipper.com/why-i-dont-develop-iphone-apps-anymore) — `undated-why-i-dont-develop-iphone-apps-anymore.md` — 442w
 - undated — [Why Credibility Matters](https://danshipper.com/45460668) — `undated-45460668.md` — 472w
 - undated — [What do you want to do least today? Do that first.](https://danshipper.com/what-do-you-want-to-do-least-today-do-that-fi) — `undated-what-do-you-want-to-do-least-today-do-that-fi.md` — 280w
 - undated — [What Makes Life Worth Living: A List of Beautiful Things](https://danshipper.com/what-makes-life-worth-living-a-list-of-beauti) — `undated-what-makes-life-worth-living-a-list-of-beauti.md` — 771w
@@ -40,10 +41,14 @@ Source: https://danshipper.com — fetched 2026-07-19
 - undated — [Showing up is not enough](https://danshipper.com/showing-up-is-not-enough) — `undated-showing-up-is-not-enough.md` — 858w
 - undated — [Should I OEM my product?](https://danshipper.com/should-i-oem-my-product) — `undated-should-i-oem-my-product.md` — 2426w
 - undated — [Selling Umbrellas in a Synagogue](https://danshipper.com/selling-umbrellas-in-a-synagogue) — `undated-selling-umbrellas-in-a-synagogue.md` — 1249w
+- undated — [Sebastian Marshall and Public Accountability](https://danshipper.com/sebastian-marshall-and-public-accountability) — `undated-sebastian-marshall-and-public-accountability.md` — 235w
 - undated — [Say Hello To Airtime for Email](https://danshipper.com/say-hello-to-airtime-for-email) — `undated-say-hello-to-airtime-for-email.md` — 488w
 - undated — [Public speaking for introverts](https://danshipper.com/public-speaking-for-introverts) — `undated-public-speaking-for-introverts.md` — 1419w
 - undated — [Programming Is Like Dancing](https://danshipper.com/106071264) — `undated-106071264.md` — 807w
 - undated — [Pricing heuristics](https://danshipper.com/pricing-heuristics) — `undated-pricing-heuristics.md` — 673w
+- undated — [Press & coverage — Dan Shipper](https://danshipper.com/press) — `undated-press.md` — 824w
+- undated — [Pivoting vs. Creating Something New](https://danshipper.com/pivoting-vs-creating-something-new) — `undated-pivoting-vs-creating-something-new.md` — 257w
+- undated — [Our site was Featured on CNN and Mashable this week. Here’s what I learned.](https://danshipper.com/44286486) — `undated-44286486.md` — 467w
 - undated — [One good trick for interviewing candidates at a small startup](https://danshipper.com/one-good-trick-for-interviewing-candidates-at-a-small-startup) — `undated-one-good-trick-for-interviewing-candidates-at-a-small-startup.md` — 133w
 - undated — [One Month Two New Projects](https://danshipper.com/one-month-two-new-projects) — `undated-one-month-two-new-projects.md` — 288w
 - undated — [On negotiating your first few partnerships](https://danshipper.com/on-negotiating-your-first-few-partnerships) — `undated-on-negotiating-your-first-few-partnerships.md` — 2620w
@@ -59,6 +64,7 @@ Source: https://danshipper.com — fetched 2026-07-19
 - undated — [I’m Sure It Will Only Take You A Few Days To Code](https://danshipper.com/non-technical-people-cant-estimate-developmen) — `undated-non-technical-people-cant-estimate-developmen.md` — 884w
 - undated — [Interviewing at Y Combinator Part 2](https://danshipper.com/interviewing-at-y-combinator-part-2) — `undated-interviewing-at-y-combinator-part-2.md` — 680w
 - undated — [Interviewing At Y Combinator Part 1](https://danshipper.com/interviewing-at-y-combinator-part-1) — `undated-interviewing-at-y-combinator-part-1.md` — 511w
+- undated — [If you’re not failing you’re not trying](https://danshipper.com/if-youre-not-failing-youre-not-trying) — `undated-if-youre-not-failing-youre-not-trying.md` — 751w
 - undated — [I am a terrible programmer](https://danshipper.com/i-am-a-terrible-programmer) — `undated-i-am-a-terrible-programmer.md` — 854w
 - undated — [I Accidentally Blogged For A Year](https://danshipper.com/i-accidentally-blogged-for-a-year) — `undated-i-accidentally-blogged-for-a-year.md` — 352w
 - undated — [How to read a lot of books](https://danshipper.com/how-to-read-a-lot-of-books) — `undated-how-to-read-a-lot-of-books.md` — 1076w
@@ -66,6 +72,9 @@ Source: https://danshipper.com — fetched 2026-07-19
 - undated — [How to get your first 10 customers](https://danshipper.com/nothing-happens-until-the-sale-is-made) — `undated-nothing-happens-until-the-sale-is-made.md` — 2322w
 - undated — [How to figure out what you’re good at](https://danshipper.com/how-to-figure-out-what-youre-good-at) — `undated-how-to-figure-out-what-youre-good-at.md` — 1688w
 - undated — [How to build a blog readership](https://danshipper.com/how-to-build-a-blog-readership) — `undated-how-to-build-a-blog-readership.md` — 1695w
+- undated — [How We Went From Being Virtually Unknown to 3k Signups a Day in 5 Weeks Part 3 of 3](https://danshipper.com/how-we-went-from-being-virtually-unknown-to-3-2) — `undated-how-we-went-from-being-virtually-unknown-to-3-2.md` — 1279w
+- undated — [How We Went From Being Virtually Unknown to 3k Signups a Day in 5 Weeks Part 2 of 3](https://danshipper.com/how-we-went-from-being-virtually-unknown-to-3-0) — `undated-how-we-went-from-being-virtually-unknown-to-3-0.md` — 858w
+- undated — [How We Went From Being Virtually Unknown to 3k Signups a Day in 5 Weeks Part 1 of 3](https://danshipper.com/how-we-went-from-being-virtually-unknown-to-3) — `undated-how-we-went-from-being-virtually-unknown-to-3.md` — 760w
 - undated — [How To Tell Someone You Won’t Sign Their NDA](https://danshipper.com/how-to-tell-someone-you-wont-sign-their-nda) — `undated-how-to-tell-someone-you-wont-sign-their-nda.md` — 425w
 - undated — [How To Get Covered In a Major Tech Blog](https://danshipper.com/how-to-get-covered-in-a-major-tech-blog) — `undated-how-to-get-covered-in-a-major-tech-blog.md` — 604w
 - undated — [How To Cross The Street](https://danshipper.com/how-to-cross-the-street) — `undated-how-to-cross-the-street.md` — 130w
@@ -86,7 +95,10 @@ Source: https://danshipper.com — fetched 2026-07-19
 - undated — [Cultivating frugality](https://danshipper.com/cultivating-frugality) — `undated-cultivating-frugality.md` — 602w
 - undated — [Charlie Munger On How To Build A $2 Trillion Startup](https://danshipper.com/charlie-munger-on-how-to-build-a-2-trillion-startup) — `undated-charlie-munger-on-how-to-build-a-2-trillion-startup.md` — 4660w
 - undated — [Building a Better Train to Brooklyn](https://danshipper.com/building-a-better-train-to-brooklyn) — `undated-building-a-better-train-to-brooklyn.md` — 4309w
+- undated — [Books I’ve read recently](https://danshipper.com/books-ive-read-recently) — `undated-books-ive-read-recently.md` — 334w
+- undated — [Blog archive, 2010–2016 — Dan Shipper](https://danshipper.com/archive) — `undated-archive.md` — 576w
 - undated — [Bertrand Russell and Will Durant on Philosophy, Science and Religion](https://danshipper.com/bertrand-russell-and-will-durant-on-philosophy-science-and-religion) — `undated-bertrand-russell-and-will-durant-on-philosophy-science-and-religion.md` — 945w
+- undated — [Be a Blogger Second](https://danshipper.com/be-a-blogger-second) — `undated-be-a-blogger-second.md` — 352w
 - undated — [Battle In The Boardroom: Why Groupon Probably Paid Off Its Early Employees](https://danshipper.com/battle-in-the-boardroom-why-groupon-probably) — `undated-battle-in-the-boardroom-why-groupon-probably.md` — 364w
 - undated — [B2B is unsexy, and I know it](https://danshipper.com/b2b-is-unsexy-and-i-know-it) — `undated-b2b-is-unsexy-and-i-know-it.md` — 638w
 - undated — [B2B Sales Aren’t As Simple As They Seem](https://danshipper.com/b2b-sales-arent-as-simple-as-they-seem) — `undated-b2b-sales-arent-as-simple-as-they-seem.md` — 539w

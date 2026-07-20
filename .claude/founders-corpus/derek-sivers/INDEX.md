@@ -1,47 +1,939 @@
 # Derek Sivers corpus index
 
-Source: https://sive.rs — fetched 2026-07-19
-42 posts, 27657 words. Format: date — [title](canonical url) — `file` — words.
+Source: https://sive.rs — fetched 2026-07-20
+934 posts, 1114048 words. Format: date — [title](canonical url) — `file` — words.
 
 - undated — [Tech Independence](https://sive.rs/ti) — `undated-ti.md` — 3960w
 - undated — [Derek Sivers uses](https://sive.rs/uses) — `undated-uses.md` — 130w
 - undated — [Derek Sivers music](https://sive.rs/music) — `undated-music.md` — 4072w
 - undated — [Derek Sivers /now](https://sive.rs/now) — `undated-now.md` — 663w
 - undated — [Anything You Want](https://sive.rs/a) — `undated-a.md` — 558w
+- 2026-05-22 — [Writing for Emotional Impact - by Karl Iglesias](https://sive.rs/book/WritEmotionImpact) — `2026-05-22-book-WritEmotionImpact.md` — 1810w
 - 2026-05-14 — [Prepare your “no” and keep it handy](https://sive.rs/n0) — `2026-05-14-n0.md` — 313w
 - 2026-05-12 — [My life was changed by four sentences in four books](https://sive.rs/4s4b) — `2026-05-12-4s4b.md` — 541w
 - 2026-05-12 — [Derek Sivers autobiography articles](https://sive.rs/z) — `2026-05-12-z.md` — 121w
 - 2026-05-05 — [Geography is four-dimensional](https://sive.rs/4d) — `2026-05-05-4d.md` — 288w
 - 2026-05-03 — [Netizen](https://sive.rs/netizen) — `2026-05-03-netizen.md` — 445w
+- 2026-04-20 — [Travelling While Black - by Nanjala Nyabola](https://sive.rs/book/TravellingWhileBlack) — `2026-04-20-book-TravellingWhileBlack.md` — 1450w
+- 2026-04-08 — [Nineteen Ways of Looking at Consciousness - by Patrick House](https://sive.rs/book/Conscious19) — `2026-04-08-book-Conscious19.md` — 1423w
+- 2026-03-30 — [Elephant in the Brain - by Kevin Simler and Robin Hanson](https://sive.rs/book/BrainMotives) — `2026-03-30-book-BrainMotives.md` — 2091w
 - 2026-03-29 — [AI use by Derek Sivers](https://sive.rs/ai) — `2026-03-29-ai.md` — 203w
+- 2026-03-12 — [I was inconsiderate but now I’m everywhere](https://sive.rs/socials) — `2026-03-12-socials.md` — 159w
 - 2026-03-06 — [About my book notes](https://sive.rs/bfaq) — `2026-03-06-bfaq.md` — 921w
+- 2026-03-03 — [Offline 23 hours a day](https://sive.rs/off23) — `2026-03-03-off23.md` — 345w
 - 2026-02-10 — [More books on this subject](https://sive.rs/u61) — `2026-02-10-u61.md` — 264w
+- 2026-02-08 — [Reframing death](https://sive.rs/u59) — `2026-02-08-u59.md` — 257w
+- 2026-02-07 — [You are what you pretend to be](https://sive.rs/u58) — `2026-02-07-u58.md` — 195w
+- 2026-02-06 — [Keep tuning and adjusting](https://sive.rs/u57) — `2026-02-06-u57.md` — 139w
 - 2026-02-05 — [Take the first step immediately](https://sive.rs/u56) — `2026-02-05-u56.md` — 290w
+- 2026-02-02 — [Private journal to internalize it](https://sive.rs/u53) — `2026-02-02-u53.md` — 145w
+- 2026-02-01 — [No new instructions for the computer](https://sive.rs/u52) — `2026-02-01-u52.md` — 146w
+- 2026-01-31 — [From explorer to self-leader](https://sive.rs/u51) — `2026-01-31-u51.md` — 268w
+- 2026-01-30 — [How to decide and make the best choice](https://sive.rs/u50) — `2026-01-30-u50.md` — 142w
+- 2026-01-29 — [An awesome collection of great questions](https://sive.rs/u49) — `2026-01-29-u49.md` — 159w
+- 2026-01-28 — [Five tiny tales of reframing](https://sive.rs/u48) — `2026-01-28-u48.md` — 319w
+- 2026-01-27 — [Traits of useful perspectives](https://sive.rs/u47) — `2026-01-27-u47.md` — 467w
+- 2026-01-26 — [Expand your repertoire](https://sive.rs/u46) — `2026-01-26-u46.md` — 206w
+- 2026-01-25 — [Diamond in the trash](https://sive.rs/u45) — `2026-01-25-u45.md` — 223w
+- 2026-01-24 — [Answer great questions](https://sive.rs/u44) — `2026-01-24-u44.md` — 180w
+- 2026-01-23 — [Who chooses your (next) thoughts?](https://sive.rs/u43) — `2026-01-23-u43.md` — 167w
+- 2026-01-21 — [Philosophies are instruments](https://sive.rs/u41) — `2026-01-21-u41.md` — 393w
+- 2026-01-20 — [What is “the truth” really for?](https://sive.rs/u40) — `2026-01-20-u40.md` — 176w
+- 2026-01-19 — [Life is _______](https://sive.rs/u39) — `2026-01-19-u39.md` — 628w
+- 2026-01-18 — [Placebo meanings](https://sive.rs/u38) — `2026-01-18-u38.md` — 218w
+- 2026-01-17 — [Magic mirror shows what you need to believe](https://sive.rs/u37) — `2026-01-17-u37.md` — 178w
+- 2026-01-16 — [Which perspective empowers you?](https://sive.rs/u36) — `2026-01-16-u36.md` — 261w
+- 2026-01-15 — [Judge the contents, not the box](https://sive.rs/u35) — `2026-01-15-u35.md` — 243w
+- 2026-01-14 — [Carpenters’ tools](https://sive.rs/u34) — `2026-01-14-u34.md` — 221w
+- 2026-01-13 — [Religion is action, not belief](https://sive.rs/u33) — `2026-01-13-u33.md` — 376w
+- 2026-01-11 — [Beliefs → emotions → actions](https://sive.rs/u31) — `2026-01-11-u31.md` — 157w
+- 2026-01-10 — [A daily run and imagination](https://sive.rs/u30) — `2026-01-10-u30.md` — 151w
+- 2026-01-09 — [Bowling: curve into the target](https://sive.rs/u29) — `2026-01-09-u29.md` — 250w
+- 2026-01-08 — [Fill your senses with reality](https://sive.rs/u28) — `2026-01-08-u28.md` — 181w
 - 2026-01-07 — [Your first thought is an obstacle](https://sive.rs/u27) — `2026-01-07-u27.md` — 171w
+- 2026-01-06 — [The more emotional the belief, the less likely it’s true](https://sive.rs/u26) — `2026-01-06-u26.md` — 204w
+- 2026-01-05 — [Beliefs are not facts](https://sive.rs/u25) — `2026-01-05-u25.md` — 192w
+- 2026-01-04 — [Make believe](https://sive.rs/u24) — `2026-01-04-u24.md` — 246w
+- 2026-01-03 — [Hanging inherited paintings](https://sive.rs/u23) — `2026-01-03-u23.md` — 177w
+- 2026-01-02 — [Re-edit your mind’s movies](https://sive.rs/u22) — `2026-01-02-u22.md` — 311w
+- 2026-01-01 — [You can’t trust your mind](https://sive.rs/u21) — `2026-01-01-u21.md` — 285w
+- 2025-12-31 — [You are the strange one](https://sive.rs/u20) — `2025-12-31-u20.md` — 168w
+- 2025-12-30 — [That was about you, not them](https://sive.rs/u19) — `2025-12-30-u19.md` — 140w
+- 2025-12-29 — [Bridge guard, revisited](https://sive.rs/u18) — `2025-12-29-u18.md` — 160w
+- 2025-12-28 — [Fake or real? True or false? So what?](https://sive.rs/u17) — `2025-12-28-u17.md` — 213w
+- 2025-12-27 — [Even science isn’t true](https://sive.rs/u16) — `2025-12-27-u16.md` — 192w
+- 2025-12-26 — [Wanna bet?](https://sive.rs/u15) — `2025-12-26-u15.md` — 187w
+- 2025-12-25 — [The past is not true](https://sive.rs/u14) — `2025-12-25-u14.md` — 333w
+- 2025-12-24 — [Memories are not accurate](https://sive.rs/u13) — `2025-12-24-u13.md` — 178w
+- 2025-12-23 — [The brain invents explanations](https://sive.rs/u12) — `2025-12-23-u12.md` — 322w
+- 2025-12-22 — [Try to find their incentives](https://sive.rs/u11) — `2025-12-22-u11.md` — 232w
+- 2025-12-21 — [Cultural meanings](https://sive.rs/u10) — `2025-12-21-u10.md` — 309w
+- 2025-12-20 — [Obligations are not true](https://sive.rs/u09) — `2025-12-20-u09.md` — 250w
+- 2025-12-19 — [Rules are a starting point, not the final answer](https://sive.rs/u08) — `2025-12-19-u08.md` — 430w
+- 2025-12-18 — [Bridge guard](https://sive.rs/u07) — `2025-12-18-u07.md` — 259w
+- 2025-12-17 — [Separate events and interpretation](https://sive.rs/u06) — `2025-12-17-u06.md` — 311w
+- 2025-12-15 — [No picture is the whole picture](https://sive.rs/u04) — `2025-12-15-u04.md` — 126w
+- 2025-12-14 — [Perspectives feel real](https://sive.rs/u03) — `2025-12-14-u03.md` — 177w
+- 2025-12-13 — [What time is it?](https://sive.rs/u02) — `2025-12-13-u02.md` — 154w
+- 2025-12-12 — [What’s this about?](https://sive.rs/u01) — `2025-12-12-u01.md` — 160w
+- 2025-02-25 — [Why did I move to New Zealand?](https://sive.rs/nz0) — `2025-02-25-nz0.md` — 447w
 - 2025-02-24 — [How to listen to Ulysses](https://sive.rs/ulysses) — `2025-02-24-ulysses.md` — 362w
 - 2025-02-24 — [Derek Sivers self](https://sive.rs/sx) — `2025-02-24-sx.md` — 181w
+- 2025-02-23 — [the birth and reverb of friendship](https://sive.rs/brf) — `2025-02-23-brf.md` — 229w
+- 2025-02-22 — [a relationship that ended, not failed](https://sive.rs/anna) — `2025-02-22-anna.md` — 431w
+- 2025-02-20 — [Have I been married?](https://sive.rs/married) — `2025-02-20-married.md` — 535w
+- 2025-01-09 — [The Network State - by Balaji Srinivasan](https://sive.rs/book/NetworkState) — `2025-01-09-book-NetworkState.md` — 911w
+- 2024-12-28 — [All the Ghosts in the Machine - by Elaine Kasket](https://sive.rs/book/AllGhostsMachine) — `2024-12-28-book-AllGhostsMachine.md` — 589w
+- 2024-12-21 — [The Complete Idiot’s Guide to Game Theory - by Edward Rosenthal Ph.D.](https://sive.rs/book/GameTheoryCI) — `2024-12-21-book-GameTheoryCI.md` — 1155w
+- 2024-12-11 — [Why are my best friends Jewish?](https://sive.rs/jf) — `2024-12-11-jf.md` — 462w
+- 2024-12-10 — [One big choice shapes a hundred more](https://sive.rs/ripple) — `2024-12-10-ripple.md` — 342w
+- 2024-12-06 — [Come and get me (both you and AI)](https://sive.rs/getme) — `2024-12-06-getme.md` — 159w
+- 2024-12-05 — [I’m in the final third of my life](https://sive.rs/f3) — `2024-12-05-f3.md` — 140w
+- 2024-11-26 — [I love the contradiction of religions](https://sive.rs/pk) — `2024-11-26-pk.md` — 232w
+- 2024-11-25 — [The first time I met someone who believes in God](https://sive.rs/locust) — `2024-11-25-locust.md` — 281w
+- 2024-11-24 — [Wish Lanterns / China’s New Youth - by Alec Ash](https://sive.rs/book/ChinasNewYouth) — `2024-11-24-book-ChinasNewYouth.md` — 1655w
+- 2024-11-18 — [Dismissed!](https://sive.rs/dis) — `2024-11-18-dis.md` — 223w
+- 2024-11-18 — [Age of Ambition in the new China - by Evan Osnos](https://sive.rs/book/ChinaAgeAmbition) — `2024-11-18-book-ChinaAgeAmbition.md` — 2485w
+- 2024-11-16 — [I hated Dubai until I learned about it](https://sive.rs/dxb) — `2024-11-16-dxb.md` — 1931w
+- 2024-11-15 — [To question is to consider, not refute](https://sive.rs/qcc) — `2024-11-15-qcc.md` — 254w
+- 2024-11-12 — [Rats are surprisingly sweet pets](https://sive.rs/rats) — `2024-11-12-rats.md` — 404w
+- 2024-11-11 — [We don’t need to use what we make](https://sive.rs/salt) — `2024-11-11-salt.md` — 125w
 - 2024-11-11 — [Derek Sivers money and career articles](https://sive.rs/mo) — `2024-11-11-mo.md` — 206w
+- 2024-11-10 — [Other Rivers - by Peter Hessler](https://sive.rs/book/OtherRivers) — `2024-11-10-book-OtherRivers.md` — 2582w
+- 2024-11-06 — [River Town - by Peter Hessler](https://sive.rs/book/RiverTown) — `2024-11-06-book-RiverTown.md` — 2612w
+- 2024-10-18 — [Self-Help Is Like a Vaccine - by Bryan Caplan](https://sive.rs/book/SelfHelpVaccine) — `2024-10-18-book-SelfHelpVaccine.md` — 1613w
+- 2024-10-10 — [The Invention of the Jewish People - by Shlomo Sand](https://sive.rs/book/InventJewish) — `2024-10-10-book-InventJewish.md` — 4554w
+- 2024-09-27 — [Wealth = Have ÷ Want](https://sive.rs/whn) — `2024-09-27-whn.md` — 126w
+- 2024-09-16 — [Hold On to Your Kids - by Gordon Neufeld and Gabor Maté](https://sive.rs/book/HoldKids) — `2024-09-16-book-HoldKids.md` — 1557w
+- 2024-09-05 — [In This Economy? - by Kyla Scanlon](https://sive.rs/book/InThisEconomy) — `2024-09-05-book-InThisEconomy.md` — 658w
+- 2024-08-31 — [How to sync Mac and Linux /home](https://sive.rs/macx) — `2024-08-31-macx.md` — 570w
 - 2024-08-31 — [Derek Sivers programming / tech articles](https://sive.rs/tech) — `2024-08-31-tech.md` — 153w
+- 2024-08-20 — [Unboxing Bengaluru - by Malini Goyal and Prashanth Prakash](https://sive.rs/book/BLRUnbox) — `2024-08-20-book-BLRUnbox.md` — 2120w
+- 2024-08-17 — [SuperBetter - by Jane McGonigal](https://sive.rs/book/SuperBetter) — `2024-08-17-book-SuperBetter.md` — 205w
+- 2024-08-14 — [How to make the best possible translation of a book?](https://sive.rs/bpt) — `2024-08-14-bpt.md` — 425w
+- 2024-08-10 — [Linguistics: A Complete Introduction - by David Hornsby](https://sive.rs/book/LinguisticsCI) — `2024-08-10-book-LinguisticsCI.md` — 604w
+- 2024-07-20 — [The Stoic Challenge - by William B. Irvine](https://sive.rs/book/StoicChallenge) — `2024-07-20-book-StoicChallenge.md` — 985w
+- 2024-06-15 — [The Four Agreements - by Don Miguel Ruiz](https://sive.rs/book/FourAgreements) — `2024-06-15-book-FourAgreements.md` — 199w
+- 2024-06-10 — [Philosophy of Software Design - by John K. Ousterhout](https://sive.rs/book/PoSD) — `2024-06-10-book-PoSD.md` — 2394w
+- 2024-06-02 — [Chile Culture Smart - by Caterina Perrone](https://sive.rs/book/ChileCS) — `2024-06-02-book-ChileCS.md` — 619w
+- 2024-05-25 — [Guru’Guay Guide to Montevideo - by Karen Higgs](https://sive.rs/book/Montevideo) — `2024-05-25-book-Montevideo.md` — 258w
+- 2024-05-22 — [Argentina Culture Smart - by Mary Godward and Robert Hamwee](https://sive.rs/book/ArgentinaCS) — `2024-05-22-book-ArgentinaCS.md` — 1187w
+- 2024-05-19 — [Colombia Culture Smart - by Kate Cathey](https://sive.rs/book/ColombiaCS) — `2024-05-19-book-ColombiaCS.md` — 1596w
+- 2024-05-18 — [How and why to make a /now page on your site](https://sive.rs/now2) — `2024-05-18-now2.md` — 426w
+- 2024-05-17 — [Mexico Culture Smart - by Russell Maddicks](https://sive.rs/book/MexicoCS) — `2024-05-17-book-MexicoCS.md` — 1243w
+- 2024-05-15 — [This Is Mexico - by Carol Merchasin](https://sive.rs/book/ThisIsMexico) — `2024-05-15-book-ThisIsMexico.md` — 1214w
+- 2024-04-23 — [Dawn of Eurasia - by Bruno Maçães](https://sive.rs/book/Eurasia) — `2024-04-23-book-Eurasia.md` — 4429w
+- 2024-04-12 — [the best book ever written](https://sive.rs/htl00) — `2024-04-12-htl00.md` — 208w
+- 2024-04-10 — [From Rebel to Ruler - by Tony Saich](https://sive.rs/book/RebelToRuler) — `2024-04-10-book-RebelToRuler.md` — 691w
+- 2024-04-05 — [Between Us: How Cultures Create Emotions - by Batja Mesquita](https://sive.rs/book/BetweenUs) — `2024-04-05-book-BetweenUs.md` — 4378w
+- 2024-03-28 — [Ben Kihnel](https://sive.rs/ben-kihnel) — `2024-03-28-ben-kihnel.md` — 277w
+- 2024-03-12 — [It shows what you need to believe](https://sive.rs/n2b) — `2024-03-12-n2b.md` — 197w
+- 2024-03-12 — [Dreaming in Chinese - by Deborah Fallows](https://sive.rs/book/DreamingInChinese) — `2024-03-12-book-DreamingInChinese.md` — 1633w
+- 2024-03-11 — [AI gives the news you need](https://sive.rs/ainews) — `2024-03-11-ainews.md` — 304w
+- 2024-03-08 — [How to learn JavaScript](https://sive.rs/learn-js) — `2024-03-08-learn-js.md` — 318w
+- 2024-02-27 — [How I backup](https://sive.rs/backup) — `2024-02-27-backup.md` — 439w
 - 2024-02-26 — [Esperanto, Toki Pona, Swahili, Indonesian](https://sive.rs/esperanto) — `2024-02-26-esperanto.md` — 1413w
+- 2024-02-25 — [The Everything Token - by Steve Kaczynski and Scott Duke Kominers](https://sive.rs/book/EverythingToken) — `2024-02-25-book-EverythingToken.md` — 1276w
+- 2024-02-14 — [Methods of Persuasion - by Nick Kolenda](https://sive.rs/book/PersuasionMethods) — `2024-02-14-book-PersuasionMethods.md` — 612w
+- 2024-02-09 — [Persuasion Story Code - by David Garfinkel](https://sive.rs/book/PersuasionStoryCode) — `2024-02-09-book-PersuasionStoryCode.md` — 947w
+- 2024-02-03 — [Arabs - by Tim Mackintosh-Smith](https://sive.rs/book/Arabs) — `2024-02-03-book-Arabs.md` — 10157w
+- 2024-01-23 — [Islam and the Future of Tolerance - by Sam Harris and Maajid Nawaz](https://sive.rs/book/IslamFuture) — `2024-01-23-book-IslamFuture.md` — 1147w
+- 2024-01-04 — [Questions Are the Answer - by Hal B. Gregersen](https://sive.rs/book/QuestionsATA) — `2024-01-04-book-QuestionsATA.md` — 1805w
+- 2024-01-03 — [Arabian Sands - by Wilfred Thesiger](https://sive.rs/book/ArabianSands) — `2024-01-03-book-ArabianSands.md` — 1717w
+- 2023-12-12 — [walk and talk](https://sive.rs/wt) — `2023-12-12-wt.md` — 534w
+- 2023-11-25 — [The Power of Regret - by Daniel Pink](https://sive.rs/book/PowerOfRegret) — `2023-11-25-book-PowerOfRegret.md` — 1258w
+- 2023-11-15 — [The Vagabond’s Way - by Rolf Potts](https://sive.rs/book/VagabondsWay) — `2023-11-15-book-VagabondsWay.md` — 4462w
+- 2023-11-15 — [Prototype Nation - by Silvia M. Lindtner](https://sive.rs/book/PrototypeNation) — `2023-11-15-book-PrototypeNation.md` — 413w
+- 2023-10-18 — [The Silk Roads - by Peter Frankopan](https://sive.rs/book/SilkRoads) — `2023-10-18-book-SilkRoads.md` — 2299w
+- 2023-10-15 — [The Religious Case Against Belief - by James P. Carse](https://sive.rs/book/AgainstBelief) — `2023-10-15-book-AgainstBelief.md` — 3748w
+- 2023-10-10 — [Finite and Infinite Games - by James P. Carse](https://sive.rs/book/FiniteInfinite) — `2023-10-10-book-FiniteInfinite.md` — 1714w
+- 2023-09-15 — [Cyprus Culture Smart - by Constantine Buhayer](https://sive.rs/book/Cyprus) — `2023-09-15-book-Cyprus.md` — 2760w
+- 2023-09-12 — [Palestine a Four Thousand Year History - by Nur Masalha](https://sive.rs/book/Palestine) — `2023-09-12-book-Palestine.md` — 1472w
+- 2023-09-01 — [The Barbell Prescription - by Jonathon M. Sullivan](https://sive.rs/book/BarbellPrescription) — `2023-09-01-book-BarbellPrescription.md` — 300w
+- 2023-08-14 — [Thus Spoke Zarathustra - by Friedrich Nietzsche](https://sive.rs/book/ThusSpoke) — `2023-08-14-book-ThusSpoke.md` — 251w
+- 2023-08-02 — [You Can Negotiate Anything - by Herb Cohen](https://sive.rs/book/NegotiateAnything) — `2023-08-02-book-NegotiateAnything.md` — 3190w
+- 2023-07-30 — [How Minds Change - by David McRaney](https://sive.rs/book/HowMindsChange) — `2023-07-30-book-HowMindsChange.md` — 4688w
+- 2023-07-20 — [The past is not true](https://sive.rs/pnt) — `2023-07-20-pnt.md` — 372w
+- 2023-07-20 — [How Religion Evolved - by Robin Dunbar](https://sive.rs/book/ReligionHowEvolved) — `2023-07-20-book-ReligionHowEvolved.md` — 3940w
+- 2023-07-18 — [Excellent Advice for Living - by Kevin Kelly](https://sive.rs/book/AdviceLiving) — `2023-07-18-book-AdviceLiving.md` — 1465w
+- 2023-07-16 — [Rebel Talent - by Francesca Gino](https://sive.rs/book/RebelTalent) — `2023-07-16-book-RebelTalent.md` — 496w
+- 2023-07-03 — [Swisstory, History of Switzerland - by Laurie Theurer](https://sive.rs/book/Swisstory) — `2023-07-03-book-Swisstory.md` — 1968w
+- 2023-06-30 — [dashing dog, searching for purpose](https://sive.rs/pdog) — `2023-06-30-pdog.md` — 219w
+- 2023-06-22 — [Nothing & Everything - by Val N. Tine](https://sive.rs/book/NihilismNE) — `2023-06-22-book-NihilismNE.md` — 2812w
+- 2023-06-18 — [You Look Like a Thing and I Love You - by Janelle Shane](https://sive.rs/book/YLLaTaILY) — `2023-06-18-book-YLLaTaILY.md` — 1865w
+- 2023-06-17 — [City of Gold: Dubai - by Jim Krane](https://sive.rs/book/CityOfGold) — `2023-06-17-book-CityOfGold.md` — 3159w
+- 2023-06-10 — [The Toilet Paper Entrepreneur - by Mike Michalowicz](https://sive.rs/book/ToiletPaper) — `2023-06-10-book-ToiletPaper.md` — 568w
+- 2023-06-05 — [Rich Dad Poor Dad - by Robert Kiyosaki](https://sive.rs/book/RichDadPoorDad) — `2023-06-05-book-RichDadPoorDad.md` — 2703w
+- 2023-06-04 — [Useful Delusions - by Shankar Vedantam](https://sive.rs/book/UsefulDelusions) — `2023-06-04-book-UsefulDelusions.md` — 2671w
+- 2023-05-30 — [UAE Culture Shock - by Gina Crocetti Benesh](https://sive.rs/book/UAECS1) — `2023-05-30-book-UAECS1.md` — 2592w
+- 2023-05-28 — [The Righteous Mind - by Jonathan Haidt](https://sive.rs/book/RighteousMind) — `2023-05-28-book-RighteousMind.md` — 5426w
+- 2023-05-20 — [Pragmatism as a Way of Life - by Ruth Anna and Hilary Putnam](https://sive.rs/book/PragmatismWayOfLife) — `2023-05-20-book-PragmatismWayOfLife.md` — 3157w
 - 2023-05-18 — [$575K of books sold. $575K to save lives.](https://sive.rs/575k) — `2023-05-18-575k.md` — 154w
+- 2023-05-10 — [Outlive - by Peter Attia](https://sive.rs/book/Outlive) — `2023-05-10-book-Outlive.md` — 3135w
+- 2023-05-08 — [UAE Culture Smart - by John Walsh](https://sive.rs/book/UAECS2) — `2023-05-08-book-UAECS2.md` — 1889w
+- 2023-04-21 — [The joy and freedom of harmlessly upsetting social norms](https://sive.rs/nor) — `2023-04-21-nor.md` — 621w
+- 2023-04-20 — [Why I let go of my U.S. citizenship](https://sive.rs/xus) — `2023-04-20-xus.md` — 383w
+- 2023-04-15 — [the Michael Browne suits](https://sive.rs/suits) — `2023-04-15-suits.md` — 497w
+- 2023-03-09 — [Curve into the target](https://sive.rs/aim) — `2023-03-09-aim.md` — 206w
+- 2023-03-07 — [Thinking something nice about someone? Tell them.](https://sive.rs/nice) — `2023-03-07-nice.md` — 383w
+- 2023-03-02 — [50 conversations in Bangalore and Chennai](https://sive.rs/meet-chbg) — `2023-03-02-meet-chbg.md` — 561w
+- 2023-02-11 — [What’s in It for Them? - by Joe Polish](https://sive.rs/book/ForThem) — `2023-02-11-book-ForThem.md` — 781w
+- 2023-02-09 — [The Essentials of Hinduism - by Swami Bhaskarananda](https://sive.rs/book/HinduEss) — `2023-02-09-book-HinduEss.md` — 1213w
+- 2023-02-09 — [Explorers are bad leaders](https://sive.rs/exled) — `2023-02-09-exled.md` — 129w
+- 2023-02-06 — [Travelling just for the people](https://sive.rs/travp) — `2023-02-06-travp.md` — 433w
+- 2023-02-04 — [Complete Idiot’s Guide to Hinduism - by Linda Johnsen](https://sive.rs/book/HinduCI) — `2023-02-04-book-HinduCI.md` — 514w
+- 2023-02-02 — [Want anonymity? Make a persona not a mystery.](https://sive.rs/anon) — `2023-02-02-anon.md` — 370w
+- 2023-01-31 — [I want to lose every debate.](https://sive.rs/led) — `2023-01-31-led.md` — 193w
+- 2023-01-29 — [Conversations with Tyler Cowen](https://sive.rs/tyler) — `2023-01-29-tyler.md` — 385w
+- 2023-01-27 — [Reading the Bible start to finish](https://sive.rs/bible) — `2023-01-27-bible.md` — 384w
+- 2023-01-21 — [Delphi Complete Works of William James - by William James](https://sive.rs/book/WilliamJames) — `2023-01-21-book-WilliamJames.md` — 1115w
+- 2022-12-24 — [Pragmatism - by William James](https://sive.rs/book/PragWJames) — `2022-12-24-book-PragWJames.md` — 2961w
+- 2022-12-14 — [Complete Idiot’s Guide to Understanding Judaism - by Rabbi Benjamin Blech](https://sive.rs/book/JudaismCI) — `2022-12-14-book-JudaismCI.md` — 1395w
+- 2022-12-04 — [Mistakes Were Made (But Not by Me) - by Carol Tavris](https://sive.rs/book/MistakesWereMade) — `2022-12-04-book-MistakesWereMade.md` — 247w
+- 2022-12-01 — [Loving What Is - by Byron Katie](https://sive.rs/book/LovingWhatIs) — `2022-12-01-book-LovingWhatIs.md` — 1619w
+- 2022-11-30 — [Useful Belief - by Chris Helder](https://sive.rs/book/UsefulBelief) — `2022-11-30-book-UsefulBelief.md` — 522w
+- 2022-11-11 — [Introducing Pragmatism - by Cornelis de Waal](https://sive.rs/book/PragmatismIntro) — `2022-11-11-book-PragmatismIntro.md` — 5250w
+- 2022-11-06 — [Pragmatism an Introduction - by Michael Bacon](https://sive.rs/book/Pragmatism) — `2022-11-06-book-Pragmatism.md` — 3461w
+- 2022-10-30 — [Make believe](https://sive.rs/mb) — `2022-10-30-mb.md` — 317w
+- 2022-10-28 — [Daily run, part two](https://sive.rs/run2) — `2022-10-28-run2.md` — 438w
+- 2022-10-20 — [Japanese Mind - by Roger Davies and Osamu Ikeno](https://sive.rs/book/JapaneseMind) — `2022-10-20-book-JapaneseMind.md` — 851w
+- 2022-10-15 — [Essays One - by Lydia Davis](https://sive.rs/book/EssaysOne) — `2022-10-15-book-EssaysOne.md` — 646w
+- 2022-10-08 — [Static HTML comments](https://sive.rs/shc) — `2022-10-08-shc.md` — 425w
+- 2022-10-08 — [Everything in Its Place (Work Clean) - by Dan Charnas](https://sive.rs/book/EverythingPlace) — `2022-10-08-book-EverythingPlace.md` — 449w
+- 2022-10-05 — [Everything Is Obvious - by Duncan Watts](https://sive.rs/book/EverythingObvious) — `2022-10-05-book-EverythingObvious.md` — 684w
+- 2022-09-28 — [Daily run, part one](https://sive.rs/run) — `2022-09-28-run.md` — 260w
+- 2022-09-25 — [Write Useful Books - by Rob Fitzpatrick](https://sive.rs/book/WriteUsefulBooks) — `2022-09-25-book-WriteUsefulBooks.md` — 1174w
+- 2022-09-24 — [Code - by Charles Petzold](https://sive.rs/book/Code) — `2022-09-24-book-Code.md` — 516w
+- 2022-09-20 — [Your explanations are not true](https://sive.rs/confab) — `2022-09-20-confab.md` — 245w
+- 2022-09-12 — [Wild Problems - by Russ Roberts](https://sive.rs/book/WildProblems) — `2022-09-12-book-WildProblems.md` — 2156w
+- 2022-09-12 — [Shortest date, and ketchup](https://sive.rs/ketchup) — `2022-09-12-ketchup.md` — 414w
+- 2022-09-10 — [The Biggest Bluff - by Maria Konnikova](https://sive.rs/book/BiggestBluff) — `2022-09-10-book-BiggestBluff.md` — 1362w
+- 2022-09-08 — [full-length videobook for “Your Music and People”](https://sive.rs/ymap) — `2022-09-08-ymap.md` — 134w
+- 2022-09-05 — [How to Know Everything - by Elke Wiss](https://sive.rs/book/KnowEverything) — `2022-09-05-book-KnowEverything.md` — 407w
+- 2022-08-25 — [Anything You Want — third edition for 2022](https://sive.rs/a3) — `2022-08-25-a3.md` — 347w
+- 2022-08-16 — [Relationship Handbook - by George Pransky](https://sive.rs/book/RelationshipHandbook) — `2022-08-16-book-RelationshipHandbook.md` — 1159w
+- 2022-08-07 — [Nietzsche: a complete introduction - by Roy Jackson](https://sive.rs/book/NietzscheCI) — `2022-08-07-book-NietzscheCI.md` — 2087w
+- 2022-08-02 — [The Secrets of Story - by Matt Bird](https://sive.rs/book/SecretsOfStory) — `2022-08-02-book-SecretsOfStory.md` — 3551w
+- 2022-07-26 — [Scuba, panic, empathy](https://sive.rs/dive) — `2022-07-26-dive.md` — 454w
+- 2022-07-26 — [Philosophy: a Complete Introduction - by Sharon Kaye](https://sive.rs/book/PhilosophyCI) — `2022-07-26-book-PhilosophyCI.md` — 3695w
+- 2022-07-13 — [What Everyone Needs to Know about Islam - by John L. Esposito](https://sive.rs/book/IslamWENK) — `2022-07-13-book-IslamWENK.md` — 807w
+- 2022-07-05 — [The Art of Loving - by Erich Fromm](https://sive.rs/book/ArtOfLoving) — `2022-07-05-book-ArtOfLoving.md` — 463w
+- 2022-07-01 — [Almost Perfect - by Erika Lemay](https://sive.rs/book/AlmostPerfect) — `2022-07-01-book-AlmostPerfect.md` — 1919w
+- 2022-06-22 — [Awaken the Giant Within - by Tony Robbins](https://sive.rs/book/AwakenGiant) — `2022-06-22-book-AwakenGiant.md` — 3791w
+- 2022-06-19 — [The joke that changed my life](https://sive.rs/joke) — `2022-06-19-joke.md` — 328w
+- 2022-06-08 — [Find a good available .com domain](https://sive.rs/com) — `2022-06-08-com.md` — 372w
+- 2022-06-02 — [The Socrates Express - by Eric Weiner](https://sive.rs/book/SocratesExpress) — `2022-06-02-book-SocratesExpress.md` — 2193w
+- 2022-06-01 — [The Courage to Be Happy - by Ichiro Kishimi and Fumitake Koga](https://sive.rs/book/Courage2bHappy) — `2022-06-01-book-Courage2bHappy.md` — 1868w
+- 2022-05-09 — [Travel is best with young children](https://sive.rs/tk) — `2022-05-09-tk.md` — 905w
+- 2022-05-08 — [Short URLs: why and how](https://sive.rs/su) — `2022-05-08-su.md` — 296w
+- 2022-05-06 — [Essays and Aphorisms - by Arthur Schopenhauer](https://sive.rs/book/EssaysAphorisms) — `2022-05-06-book-EssaysAphorisms.md` — 2333w
+- 2022-03-24 — [Ancestors, Luck, and Descendants](https://sive.rs/ald) — `2022-03-24-ald.md` — 403w
+- 2022-03-09 — [Why I left America](https://sive.rs/left) — `2022-03-09-left.md` — 400w
+- 2022-03-02 — [Write plain text files](https://sive.rs/plaintext) — `2022-03-02-plaintext.md` — 764w
+- 2022-03-01 — [Generate unique random values directly in the database](https://sive.rs/rand1) — `2022-03-01-rand1.md` — 304w
+- 2022-03-01 — [Database triggers to clean text inputs](https://sive.rs/clean1) — `2022-03-01-clean1.md` — 321w
+- 2022-02-28 — [Database functions to wrap logic and SQL queries](https://sive.rs/api01) — `2022-02-28-api01.md` — 455w
+- 2022-02-27 — [Wanting - by Luke Burgis](https://sive.rs/book/Wanting) — `2022-02-27-book-Wanting.md` — 3974w
 - 2022-02-27 — [Database trigger recalculates totals, for data integrity](https://sive.rs/recalc) — `2022-02-27-recalc.md` — 457w
+- 2022-02-21 — [Four Thousand Weeks - by Oliver Burkeman](https://sive.rs/book/4000Weeks) — `2022-02-21-book-4000Weeks.md` — 2658w
+- 2022-02-18 — [100 Ways to Improve Your Writing - by Gary Provost](https://sive.rs/book/ImproveYourWriting) — `2022-02-18-book-ImproveYourWriting.md` — 236w
+- 2022-02-10 — [Beyond Order - by Jordan Peterson](https://sive.rs/book/BeyondOrder) — `2022-02-10-book-BeyondOrder.md` — 4856w
+- 2022-01-29 — [The Art of Creative Thinking - by Rod Judkins](https://sive.rs/book/CreativeThinking) — `2022-01-29-book-CreativeThinking.md` — 1325w
+- 2022-01-25 — [How to Live on 24 Hours a Day - by Arnold Bennett](https://sive.rs/book/Live24Hrs) — `2022-01-25-book-Live24Hrs.md` — 579w
+- 2022-01-24 — [River Out of Eden - by Richard Dawkins](https://sive.rs/book/RiverOutOfEden) — `2022-01-24-book-RiverOutOfEden.md` — 1399w
+- 2022-01-21 — [The Question Behind the Question - by John Miller](https://sive.rs/book/QBQ) — `2022-01-21-book-QBQ.md` — 375w
+- 2022-01-21 — [How to Think More Effectively - by the School of Life](https://sive.rs/book/ThinkEffectively) — `2022-01-21-book-ThinkEffectively.md` — 1364w
+- 2022-01-21 — [Crush It - by Gary Vaynerchuk](https://sive.rs/book/CrushIt) — `2022-01-21-book-CrushIt.md` — 140w
+- 2022-01-15 — [The Me, Me, Me Epidemic - by Amy McCready](https://sive.rs/book/MeMeMe) — `2022-01-15-book-MeMeMe.md` — 2535w
+- 2022-01-02 — [Musashi - by Eiji Yoshikawa and Charles Terry](https://sive.rs/book/Musashi) — `2022-01-02-book-Musashi.md` — 175w
+- 2021-12-27 — [Balance everything.](https://sive.rs/htl27) — `2021-12-27-htl27.md` — 730w
+- 2021-12-26 — [Story - by Robert McKee](https://sive.rs/book/Story) — `2021-12-26-book-Story.md` — 4337w
+- 2021-12-26 — [Make change.](https://sive.rs/htl26) — `2021-12-26-htl26.md` — 721w
+- 2021-12-25 — [Make a million mistakes.](https://sive.rs/htl25) — `2021-12-25-htl25.md` — 582w
+- 2021-12-24 — [Don’t die.](https://sive.rs/htl24) — `2021-12-24-htl24.md` — 359w
+- 2021-12-23 — [Create.](https://sive.rs/htl23) — `2021-12-23-htl23.md` — 883w
+- 2021-12-22 — [Love.](https://sive.rs/htl22) — `2021-12-22-htl22.md` — 1063w
+- 2021-12-21 — [Reinvent yourself regularly.](https://sive.rs/htl21) — `2021-12-21-htl21.md` — 503w
+- 2021-12-20 — [Get rich.](https://sive.rs/htl20) — `2021-12-20-htl20.md` — 1436w
+- 2021-12-19 — [Live for others.](https://sive.rs/htl19) — `2021-12-19-htl19.md` — 842w
+- 2021-12-18 — [Prepare for the worst.](https://sive.rs/htl18) — `2021-12-18-htl18.md` — 1011w
+- 2021-12-17 — [Laugh at life.](https://sive.rs/htl17) — `2021-12-17-htl17.md` — 460w
+- 2021-12-16 — [Follow the great book.](https://sive.rs/htl16) — `2021-12-16-htl16.md` — 857w
+- 2021-12-15 — [Learn.](https://sive.rs/htl15) — `2021-12-15-htl15.md` — 593w
+- 2021-12-14 — [Value only what has endured.](https://sive.rs/htl14) — `2021-12-14-htl14.md` — 852w
+- 2021-12-13 — [Chase the future.](https://sive.rs/htl13) — `2021-12-13-htl13.md` — 477w
+- 2021-12-12 — [Be a famous pioneer.](https://sive.rs/htl12) — `2021-12-12-htl12.md` — 859w
+- 2021-12-11 — [Do whatever you want now.](https://sive.rs/htl11) — `2021-12-11-htl11.md` — 531w
+- 2021-12-10 — [Pursue pain.](https://sive.rs/htl10) — `2021-12-10-htl10.md` — 843w
+- 2021-12-09 — [Let randomness rule.](https://sive.rs/htl09) — `2021-12-09-htl09.md` — 562w
+- 2021-12-08 — [Master something.](https://sive.rs/htl08) — `2021-12-08-htl08.md` — 1176w
+- 2021-12-07 — [Make memories.](https://sive.rs/htl07) — `2021-12-07-htl07.md` — 611w
+- 2021-12-06 — [Intertwine with the world.](https://sive.rs/htl06) — `2021-12-06-htl06.md` — 786w
+- 2021-12-05 — [Think super-long-term.](https://sive.rs/htl05) — `2021-12-05-htl05.md` — 814w
+- 2021-12-04 — [Do nothing.](https://sive.rs/htl04) — `2021-12-04-htl04.md` — 1065w
+- 2021-12-03 — [Fill your senses.](https://sive.rs/htl03) — `2021-12-03-htl03.md` — 538w
+- 2021-12-02 — [Will - by Will Smith and Mark Manson](https://sive.rs/book/Will) — `2021-12-02-book-Will.md` — 1268w
+- 2021-12-02 — [Commit.](https://sive.rs/htl02) — `2021-12-02-htl02.md` — 963w
+- 2021-12-01 — [Be independent.](https://sive.rs/htl01) — `2021-12-01-htl01.md` — 895w
+- 2021-10-31 — [All I Really Need to Know I Learned in Kindergarten - by Robert Fulghum](https://sive.rs/book/Fulghum1) — `2021-10-31-book-Fulghum1.md` — 1211w
+- 2021-10-27 — [Considerate book pricing](https://sive.rs/bp) — `2021-10-27-bp.md` — 349w
+- 2021-10-25 — [Aesop’s Fables - by Aesop and George Fyler Townsend](https://sive.rs/book/Aesop) — `2021-10-25-book-Aesop.md` — 667w
+- 2021-10-20 — [Nonviolent Communication - by Marshall Rosenberg](https://sive.rs/book/NonviolentCommunication) — `2021-10-20-book-NonviolentCommunication.md` — 2076w
+- 2021-09-04 — [Writing to Learn - by William Zinsser](https://sive.rs/book/WritingToLearn) — `2021-09-04-book-WritingToLearn.md` — 593w
+- 2021-09-03 — [The Listening Book - by W.A. Mathieu](https://sive.rs/book/ListeningBook) — `2021-09-03-book-ListeningBook.md` — 559w
+- 2021-08-30 — [Open Borders - by Bryan Caplan](https://sive.rs/book/OpenBorders) — `2021-08-30-book-OpenBorders.md` — 332w
+- 2021-08-15 — [Grow Rich With Peace of Mind - by Napoleon Hill](https://sive.rs/book/GrowRichPeace) — `2021-08-15-book-GrowRichPeace.md` — 285w
+- 2021-08-13 — [How many pets do you have?](https://sive.rs/pets) — `2021-08-13-pets.md` — 326w
+- 2021-08-02 — [How Buildings Learn - by Stewart Brand](https://sive.rs/book/HowBuildingsLearn) — `2021-08-02-book-HowBuildingsLearn.md` — 1208w
+- 2021-07-13 — [Where Is My Flying Car? - by J Storrs Hall](https://sive.rs/book/FlyingCar) — `2021-07-13-book-FlyingCar.md` — 2752w
+- 2021-06-30 — [Editing Humanity - by Kevin Davies](https://sive.rs/book/EditingHumanity) — `2021-06-30-book-EditingHumanity.md` — 1835w
+- 2021-06-27 — [The Data Detective - by Tim Harford](https://sive.rs/book/DataDetective) — `2021-06-27-book-DataDetective.md` — 898w
+- 2021-06-26 — [The Box - by Marc Levinson](https://sive.rs/book/Box) — `2021-06-26-book-Box.md` — 1850w
+- 2021-06-26 — [Skip the Line - by James Altucher](https://sive.rs/book/SkipTheLine) — `2021-06-26-book-SkipTheLine.md` — 964w
+- 2021-06-19 — [Before We Go - by Dan John](https://sive.rs/book/BeforeWeGo) — `2021-06-19-book-BeforeWeGo.md` — 1761w
+- 2021-06-17 — [Attempts - by Dan John](https://sive.rs/book/Attempts) — `2021-06-17-book-Attempts.md` — 255w
+- 2021-06-15 — [Fallen Leaves - by Will Durant](https://sive.rs/book/FallenLeaves) — `2021-06-15-book-FallenLeaves.md` — 234w
+- 2021-06-10 — [The Beginning of Infinity - by David Deutsch](https://sive.rs/book/BeginningInfinity) — `2021-06-10-book-BeginningInfinity.md` — 2856w
+- 2021-04-30 — [Getting Things Done - by David Allen](https://sive.rs/book/GettingThingsDone) — `2021-04-30-book-GettingThingsDone.md` — 4482w
+- 2021-03-28 — [Several Short Sentences About Writing - by Verlyn Klinkenborg](https://sive.rs/book/ShortSentences) — `2021-03-28-book-ShortSentences.md` — 1477w
+- 2021-01-30 — [The Good Ancestor - by Roman Krznaric](https://sive.rs/book/GoodAncestor) — `2021-01-30-book-GoodAncestor.md` — 1546w
+- 2021-01-15 — [The Practice - by Seth Godin](https://sive.rs/book/Practice) — `2021-01-15-book-Practice.md` — 1998w
+- 2020-11-15 — [The Art of Possibility - by Rosamund and Benjamin Zander](https://sive.rs/book/ArtOfPossibility) — `2020-11-15-book-ArtOfPossibility.md` — 635w
+- 2020-10-03 — [Consider This - by Chuck Palahniuk](https://sive.rs/book/ConsiderThis) — `2020-10-03-book-ConsiderThis.md` — 684w
+- 2020-09-24 — [The Philosophy of Cognitive-Behavioural Therapy - by Donald Robertson](https://sive.rs/book/CBTphilo) — `2020-09-24-book-CBTphilo.md` — 496w
+- 2020-09-22 — [Cognitive Behavioral Therapy for Dummies - by Rob Willson and Rhena Branch](https://sive.rs/book/CBDummies) — `2020-09-22-book-CBDummies.md` — 2280w
+- 2020-09-10 — [The Elements of Style - by William Strunk](https://sive.rs/book/ElementsOfStyle) — `2020-09-10-book-ElementsOfStyle.md` — 311w
+- 2020-08-15 — [Skin in the Game - by Nassim Nicholas Taleb](https://sive.rs/book/SkinInTheGame) — `2020-08-15-book-SkinInTheGame.md` — 2782w
+- 2020-08-06 — [$250K books sold. $250K to save lives.](https://sive.rs/250k) — `2020-08-06-250k.md` — 253w
+- 2020-07-10 — [No More Mr. Nice Guy - by Robert Glover](https://sive.rs/book/NoMoreMrNiceGuy) — `2020-07-10-book-NoMoreMrNiceGuy.md` — 1516w
+- 2020-07-01 — [Scepticism: A Very Short Introduction - by Duncan Pritchard](https://sive.rs/book/Scepticism) — `2020-07-01-book-Scepticism.md` — 1133w
+- 2020-06-25 — [Stillness Is the Key - by Ryan Holiday](https://sive.rs/book/Stillness) — `2020-06-25-book-Stillness.md` — 1328w
+- 2020-04-04 — [True Style - by G. Bruce Boyer](https://sive.rs/book/TrueStyle) — `2020-04-04-book-TrueStyle.md` — 2835w
+- 2019-12-30 — [Time is personal. Your year changes when your life changes.](https://sive.rs/mny) — `2019-12-30-mny.md` — 239w
+- 2019-11-07 — [Experiments in music and life](https://sive.rs/eml) — `2019-11-07-eml.md` — 456w
+- 2019-11-06 — [The Complacent Class - by Tyler Cowen](https://sive.rs/book/Complacent) — `2019-11-06-book-Complacent.md` — 640w
+- 2019-11-01 — [Writing daily, but posting when ready](https://sive.rs/nod) — `2019-11-01-nod.md` — 339w
 - 2019-10-30 — [How I got rich on the other hand](https://sive.rs/richand) — `2019-10-30-richand.md` — 313w
 - 2019-10-28 — [When in doubt, try the difference](https://sive.rs/trd) — `2019-10-28-trd.md` — 262w
 - 2019-10-27 — [Why experts are annoying](https://sive.rs/exan) — `2019-10-27-exan.md` — 223w
 - 2019-10-26 — [What you learn by travelling](https://sive.rs/trav1) — `2019-10-26-trav1.md` — 214w
+- 2019-10-25 — [PostgreSQL example of self-contained stored procedures](https://sive.rs/pg2) — `2019-10-25-pg2.md` — 136w
 - 2019-10-24 — [Mastery school](https://sive.rs/masch) — `2019-10-24-masch.md` — 319w
+- 2019-10-23 — [Monthly self-expansion project](https://sive.rs/exex) — `2019-10-23-exex.md` — 322w
+- 2019-10-22 — [Living according to your hierarchy of values](https://sive.rs/vls1) — `2019-10-22-vls1.md` — 208w
+- 2019-10-22 — [Indistractable - by Nir Eyal](https://sive.rs/book/Indistractable) — `2019-10-22-book-Indistractable.md` — 265w
+- 2019-10-20 — [The New York Nobody Knows - by William Helmreich](https://sive.rs/book/NYNobodyK) — `2019-10-20-book-NYNobodyK.md` — 574w
+- 2019-10-17 — [How to ask your mentors for help](https://sive.rs/ment) — `2019-10-17-ment.md` — 160w
+- 2019-10-15 — [Prisoners of Geography - by Tim Marshall](https://sive.rs/book/PrisonGeo) — `2019-10-15-book-PrisonGeo.md` — 3393w
+- 2019-10-15 — [Digital pollution](https://sive.rs/polut) — `2019-10-15-polut.md` — 295w
+- 2019-10-14 — [Cut out everything that’s not surprising](https://sive.rs/d22) — `2019-10-14-d22.md` — 152w
+- 2019-10-12 — [Daydreaming is my favorite pastime](https://sive.rs/daydream) — `2019-10-12-daydream.md` — 180w
 - 2019-10-11 — [Anti-chameleon](https://sive.rs/antic) — `2019-10-11-antic.md` — 243w
+- 2019-10-10 — [Where we do and don’t want automation](https://sive.rs/autom) — `2019-10-10-autom.md` — 315w
+- 2019-10-09 — [Human nature to focus on the one bad thing](https://sive.rs/negz) — `2019-10-09-negz.md` — 210w
+- 2019-10-08 — [Back and forth between super-hot and super-cold](https://sive.rs/sauna) — `2019-10-08-sauna.md` — 327w
+- 2019-10-07 — [Err on the side of action, to test theories](https://sive.rs/erra) — `2019-10-07-erra.md` — 138w
 - 2019-10-06 — [Blowing off work to play](https://sive.rs/hooky) — `2019-10-06-hooky.md` — 306w
+- 2019-10-05 — [What happens when we ignore plans?](https://sive.rs/ldn) — `2019-10-05-ldn.md` — 321w
+- 2019-10-05 — [Finland Culture Shock - by Deborah Swallow](https://sive.rs/book/FinlandCS) — `2019-10-05-book-FinlandCS.md` — 1989w
+- 2019-10-03 — [Meta-considerate](https://sive.rs/metac) — `2019-10-03-metac.md` — 284w
+- 2019-10-02 — [Daydreaming the downside, for once](https://sive.rs/ddown) — `2019-10-02-ddown.md` — 353w
+- 2019-10-01 — [Where to find the hours to make it happen](https://sive.rs/uncomf) — `2019-10-01-uncomf.md` — 188w
+- 2019-09-30 — [Your heroes show which way you’re facing](https://sive.rs/hf) — `2019-09-30-hf.md` — 213w
+- 2019-09-29 — [Don’t quote. Make it yours and say it yourself.](https://sive.rs/dq) — `2019-09-29-dq.md` — 346w
+- 2019-09-28 — [Have a private email account](https://sive.rs/pe) — `2019-09-28-pe.md` — 230w
+- 2019-09-27 — [Future posthumous autobiography](https://sive.rs/abio) — `2019-09-27-abio.md` — 175w
+- 2019-09-27 — [Cross the world four times](https://sive.rs/4) — `2019-09-27-4.md` — 244w
+- 2019-09-26 — [What I did belies why](https://sive.rs/ww) — `2019-09-26-ww.md` — 516w
+- 2019-09-25 — [Would you make your art if you were the last person on earth?](https://sive.rs/tp3) — `2019-09-25-tp3.md` — 294w
+- 2019-09-24 — [Travel without social praise](https://sive.rs/tp2) — `2019-09-24-tp2.md` — 197w
+- 2019-09-23 — [Travel without a phone](https://sive.rs/tp1) — `2019-09-23-tp1.md` — 297w
+- 2019-08-02 — [This Is Marketing - by Seth Godin](https://sive.rs/book/ThisIsMarketing) — `2019-08-02-book-ThisIsMarketing.md` — 4107w
+- 2019-07-31 — [My old clothes don’t fit](https://sive.rs/clothes) — `2019-07-31-clothes.md` — 490w
+- 2019-07-27 — [Everything Is Fucked - by Mark Manson](https://sive.rs/book/Fucked) — `2019-07-27-book-Fucked.md` — 2172w
+- 2019-07-23 — [Pre-Suasion - by Robert Cialdini](https://sive.rs/book/PreSuasion) — `2019-07-23-book-PreSuasion.md` — 3297w
+- 2019-07-01 — [Doors and windows and what’s real](https://sive.rs/dw) — `2019-07-01-dw.md` — 280w
+- 2019-06-15 — [The Alter Ego Effect - by Todd Herman](https://sive.rs/book/AlterEgoEffect) — `2019-06-15-book-AlterEgoEffect.md` — 853w
+- 2019-04-15 — [Stubborn Attachments - by Tyler Cowen](https://sive.rs/book/StubbornAttachments) — `2019-04-15-book-StubbornAttachments.md` — 1942w
+- 2019-03-15 — [Life 3.0 - by Max Tegmark](https://sive.rs/book/Life30) — `2019-03-15-book-Life30.md` — 5127w
+- 2019-03-08 — [I’ve moved from New Zealand to Oxford England](https://sive.rs/ox1) — `2019-03-08-ox1.md` — 352w
+- 2019-03-05 — [Surviving AI - by Calum Chace](https://sive.rs/book/SurvivingAI) — `2019-03-05-book-SurvivingAI.md` — 1431w
+- 2019-02-01 — [How Not to Be Wrong - by Jordan Ellenberg](https://sive.rs/book/NotBeWrong) — `2019-02-01-book-NotBeWrong.md` — 1438w
+- 2019-01-28 — [Benefits of a daily diary and topic journals](https://sive.rs/dj) — `2019-01-28-dj.md` — 923w
+- 2019-01-05 — [Brain Rules for Aging Well - by John Medina](https://sive.rs/book/BrainRulesAging) — `2019-01-05-book-BrainRulesAging.md` — 1405w
+- 2019-01-03 — [The Tao of George Carlin - by George Carlin](https://sive.rs/book/GeorgeCarlinTao) — `2019-01-03-book-GeorgeCarlinTao.md` — 455w
+- 2019-01-02 — [Poking a Dead Frog - by Mike Sacks](https://sive.rs/book/PokingDeadFrog) — `2019-01-02-book-PokingDeadFrog.md` — 590w
+- 2018-12-29 — [Atomic Habits - by James Clear](https://sive.rs/book/AtomicHabits) — `2018-12-29-book-AtomicHabits.md` — 3183w
+- 2018-12-15 — [21 Lessons for the 21st Century - by Yuval Noah Harari](https://sive.rs/book/21Lessons) — `2018-12-15-book-21Lessons.md` — 1927w
+- 2018-12-05 — [Subtract](https://sive.rs/subtract) — `2018-12-05-subtract.md` — 213w
+- 2018-12-01 — [Die Empty - by Todd Henry](https://sive.rs/book/DieEmpty) — `2018-12-01-book-DieEmpty.md` — 916w
+- 2018-11-18 — [The art of selfishness](https://sive.rs/aos) — `2018-11-18-aos.md` — 264w
+- 2018-10-01 — [Watching the English - by Kate Fox](https://sive.rs/book/WatchingTheEnglish) — `2018-10-01-book-WatchingTheEnglish.md` — 3182w
+- 2018-09-16 — [The Artist’s Journey - by Steven Pressfield](https://sive.rs/book/ArtistsJourney) — `2018-09-16-book-ArtistsJourney.md` — 538w
+- 2018-09-10 — [The Geometry of Wealth - by Brian Portnoy](https://sive.rs/book/GeometryOfWealth) — `2018-09-10-book-GeometryOfWealth.md` — 466w
+- 2018-08-28 — [The Consolations of Philosophy - by Alain De Botton](https://sive.rs/book/ConsolationsOfPhilosophy) — `2018-08-28-book-ConsolationsOfPhilosophy.md` — 1472w
+- 2018-08-25 — [Surely You’re Joking, Mr. Feynman! - by Richard Feynman](https://sive.rs/book/Feynman) — `2018-08-25-book-Feynman.md` — 1378w
+- 2018-08-06 — [You don’t need confidence, just contribution.](https://sive.rs/contrib) — `2018-08-06-contrib.md` — 295w
+- 2018-07-25 — [The Courage to Be Disliked - by Ichiro Kishimi and Fumitake Koga](https://sive.rs/book/Disliked) — `2018-07-25-book-Disliked.md` — 2569w
+- 2018-07-20 — [Story of Philosophy - by Will Durant](https://sive.rs/book/StoryOfPhilosophy) — `2018-07-20-book-StoryOfPhilosophy.md` — 2662w
+- 2018-07-08 — [Swiss Watching - by Diccon Bewes](https://sive.rs/book/SwissWatching) — `2018-07-08-book-SwissWatching.md` — 970w
+- 2018-07-04 — [Never Split the Difference (Negotiating) - by Chris Voss and Tahl Raz](https://sive.rs/book/NeverSplit) — `2018-07-04-book-NeverSplit.md` — 3356w
+- 2018-06-07 — [Unlearning](https://sive.rs/unlearning) — `2018-06-07-unlearning.md` — 274w
+- 2018-06-03 — [If you’re not feeling “hell yeah!” then say no](https://sive.rs/hyn) — `2018-06-03-hyn.md` — 168w
+- 2018-06-02 — [Thinking in Bets - by Annie Duke](https://sive.rs/book/ThinkingInBets) — `2018-06-02-book-ThinkingInBets.md` — 2207w
+- 2018-06-01 — [About this book](https://sive.rs/hy1) — `2018-06-01-hy1.md` — 193w
+- 2018-05-25 — [Mindfulness in Plain English - by Henepola Gunaratana](https://sive.rs/book/Mindfulness) — `2018-05-25-book-Mindfulness.md` — 1698w
+- 2018-04-25 — [The Lessons of History - by Will and Ariel Durant](https://sive.rs/book/LessonsOfHistory) — `2018-04-25-book-LessonsOfHistory.md` — 734w
+- 2018-04-20 — [OpenBSD : why and how](https://sive.rs/openbsd) — `2018-04-20-openbsd.md` — 565w
+- 2018-04-17 — [When - by Daniel Pink](https://sive.rs/book/When) — `2018-04-17-book-When.md` — 1332w
+- 2018-04-10 — [12 Rules for Life - by Jordan Peterson](https://sive.rs/book/12RulesForLife) — `2018-04-10-book-12RulesForLife.md` — 4738w
+- 2018-03-31 — [Moving for good](https://sive.rs/mfg) — `2018-03-31-mfg.md` — 407w
+- 2018-03-18 — [Detailed dreams blind you to new means](https://sive.rs/details) — `2018-03-18-details.md` — 214w
+- 2018-03-17 — [Getting the Love You Want - by Harville Hendrix](https://sive.rs/book/GettingLoveYouWant) — `2018-03-17-book-GettingLoveYouWant.md` — 1149w
+- 2018-03-07 — [Include everyone in your success](https://sive.rs/inclev) — `2018-03-07-inclev.md` — 160w
+- 2018-03-05 — [Keep in touch](https://sive.rs/kit) — `2018-03-05-kit.md` — 246w
+- 2018-02-28 — [Be an extreme character](https://sive.rs/evers) — `2018-02-28-evers.md` — 206w
+- 2018-02-25 — [Get specific!](https://sive.rs/get-specific) — `2018-02-25-get-specific.md` — 333w
+- 2018-02-23 — [What it means to be resourceful](https://sive.rs/res) — `2018-02-23-res.md` — 363w
+- 2018-02-18 — [Rock stars have a boss?](https://sive.rs/noboss) — `2018-02-18-noboss.md` — 310w
+- 2018-02-17 — [Never wait](https://sive.rs/neverwait) — `2018-02-17-neverwait.md` — 133w
+- 2018-02-16 — [The higher the price, the more they value it](https://sive.rs/morepay) — `2018-02-16-morepay.md` — 237w
+- 2018-02-15 — [Creative communication](https://sive.rs/reach) — `2018-02-15-reach.md` — 218w
+- 2018-02-15 — [Considerate communication](https://sive.rs/ccom) — `2018-02-15-ccom.md` — 310w
+- 2018-02-14 — [Get personal](https://sive.rs/gpers) — `2018-02-14-gpers.md` — 294w
 - 2018-02-13 — [Pedestals prevent friendships](https://sive.rs/pedestal) — `2018-02-13-pedestal.md` — 383w
+- 2018-02-12 — [Use the internet, not just companies](https://sive.rs/netskill) — `2018-02-12-netskill.md` — 599w
+- 2018-02-11 — [Move to the big city](https://sive.rs/city) — `2018-02-11-city.md` — 370w
+- 2018-02-10 — [Lying - by Sam Harris](https://sive.rs/book/Lying) — `2018-02-10-book-Lying.md` — 178w
+- 2018-02-09 — [Why you need a database](https://sive.rs/dbt) — `2018-02-09-dbt.md` — 415w
+- 2018-02-05 — [Shed your money taboos](https://sive.rs/mn1) — `2018-02-05-mn1.md` — 238w
+- 2018-01-30 — [How Music Works - by David Byrne](https://sive.rs/book/HowMusicWorks) — `2018-01-30-book-HowMusicWorks.md` — 1458w
+- 2018-01-23 — [Pricing philosophy](https://sive.rs/pp) — `2018-01-23-pp.md` — 206w
+- 2018-01-22 — [Art doesn’t end at the edge of the canvas](https://sive.rs/ext) — `2018-01-22-ext.md` — 231w
+- 2018-01-16 — [It’s hard to get off stage](https://sive.rs/stage) — `2018-01-16-stage.md` — 149w
+- 2018-01-15 — [“Marketing” just means being considerate](https://sive.rs/cons) — `2018-01-15-cons.md` — 141w
+- 2018-01-14 — [Repeatedly follow-up to show you care](https://sive.rs/3in) — `2018-01-14-3in.md` — 290w
+- 2017-12-11 — [Unlikely places and untangled goals](https://sive.rs/unun) — `2017-12-11-unun.md` — 587w
+- 2017-12-06 — [Perennial Seller - by Ryan Holiday](https://sive.rs/book/PerennialSeller) — `2017-12-06-book-PerennialSeller.md` — 1352w
+- 2017-10-22 — [Homo Deus - by Yuval Noah Harari](https://sive.rs/book/HomoDeus) — `2017-10-22-book-HomoDeus.md` — 2467w
+- 2017-10-09 — [Innumeracy - by John Allen Paulos](https://sive.rs/book/Innumeracy) — `2017-10-09-book-Innumeracy.md` — 4088w
+- 2017-10-07 — [Principles - by Ray Dalio](https://sive.rs/book/Principles) — `2017-10-07-book-Principles.md` — 2531w
+- 2017-10-02 — [How to Live - by Sarah Bakewell](https://sive.rs/book/HowToLive) — `2017-10-02-book-HowToLive.md` — 1886w
+- 2017-09-30 — [The Way of the Linguist - by Steve Kaufmann](https://sive.rs/book/WayOfLinguist) — `2017-09-30-book-WayOfLinguist.md` — 835w
+- 2017-09-27 — [Sum: Forty Tales from the Afterlives - by David Eagleman](https://sive.rs/book/Sum) — `2017-09-27-book-Sum.md` — 1494w
+- 2017-09-02 — [Peak Performance - by Brad Stulberg and Steve Magness](https://sive.rs/book/PeakPerformance) — `2017-09-02-book-PeakPerformance.md` — 486w
+- 2017-08-15 — [Sapiens - by Yuval Noah Harari](https://sive.rs/book/Sapiens) — `2017-08-15-book-Sapiens.md` — 3728w
+- 2017-07-03 — [What are the odds of that?](https://sive.rs/odds) — `2017-07-03-odds.md` — 307w
+- 2017-06-26 — [Parenting : Who is it really for?](https://sive.rs/pa) — `2017-06-26-pa.md` — 568w
+- 2017-06-21 — [To hone your writing, hire a translator.](https://sive.rs/tra) — `2017-06-21-tra.md` — 1265w
+- 2017-06-16 — [Ego is the Enemy](https://sive.rs/ego) — `2017-06-16-ego.md` — 130w
+- 2017-06-16 — [Actions, not words, reveal our real values](https://sive.rs/arv) — `2017-06-16-arv.md` — 301w
+- 2017-06-10 — [How to Read a Book - by Charles Van Doren and Mortimer Adler](https://sive.rs/book/HowToReadABook) — `2017-06-10-book-HowToReadABook.md` — 4502w
+- 2017-03-15 — [The Dip - by Seth Godin](https://sive.rs/book/Dip) — `2017-03-15-book-Dip.md` — 1263w
+- 2017-03-13 — [Think like a bronze medalist, not silver](https://sive.rs/bronze) — `2017-03-13-bronze.md` — 370w
+- 2017-03-10 — [Art is useless, and so am I](https://sive.rs/useless) — `2017-03-10-useless.md` — 278w
+- 2017-03-05 — [Happy - by Derren Brown](https://sive.rs/book/Happy) — `2017-03-05-book-Happy.md` — 5962w
+- 2016-12-30 — [Quitting something you love](https://sive.rs/quit) — `2016-12-30-quit.md` — 252w
+- 2016-12-27 — [Solitary socialite](https://sive.rs/soso) — `2016-12-27-soso.md` — 176w
+- 2016-12-22 — [Frequently Asked Questions](https://sive.rs/faq) — `2016-12-22-faq.md` — 788w
+- 2016-12-19 — [How to do what you love and make good money](https://sive.rs/balance) — `2016-12-19-balance.md` — 602w
+- 2016-12-10 — [The Daily Stoic - by Ryan Holiday](https://sive.rs/book/DailyStoic) — `2016-12-10-book-DailyStoic.md` — 4306w
+- 2016-12-05 — [Tilting my mirror (motivation is delicate)](https://sive.rs/tilt) — `2016-12-05-tilt.md` — 362w
+- 2016-10-26 — [The Road Less Traveled - by M. Scott Peck](https://sive.rs/book/RoadLessTraveled) — `2016-10-26-book-RoadLessTraveled.md` — 2079w
+- 2016-10-11 — [Au Contraire: Figuring Out the French - by Gilles Asselin and Ruth Mastron](https://sive.rs/book/AuContraire) — `2016-10-11-book-AuContraire.md` — 5288w
+- 2016-09-26 — [The Subtle Art of Not Giving a Fuck - by Mark Manson](https://sive.rs/book/NotFuck) — `2016-09-26-book-NotFuck.md` — 2195w
+- 2016-09-10 — [Grit - by Angela Duckworth](https://sive.rs/book/Grit) — `2016-09-10-book-Grit.md` — 1502w
+- 2016-09-05 — [Why are you doing?](https://sive.rs/why) — `2016-09-05-why.md` — 514w
+- 2016-08-26 — [I’m a very slow thinker](https://sive.rs/slow) — `2016-08-26-slow.md` — 271w
+- 2016-08-24 — [Leading an Inspired Life - by Jim Rohn](https://sive.rs/book/InspiredLife) — `2016-08-24-book-InspiredLife.md` — 1343w
+- 2016-08-17 — [How to Talk So Kids Will Listen & Listen So Kids Will Talk - by Adele Fabe and Elaine Mazlish](https://sive.rs/book/TalkListenKids) — `2016-08-17-book-TalkListenKids.md` — 734w
+- 2016-08-10 — [The Gardener and the Carpenter - by Alison Gopnik](https://sive.rs/book/GardenerCarpenter) — `2016-08-10-book-GardenerCarpenter.md` — 976w
+- 2016-08-04 — [Money: Master the Game - by Tony Robbins](https://sive.rs/book/MoneyMasterTheGame) — `2016-08-04-book-MoneyMasterTheGame.md` — 1560w
+- 2016-08-04 — [Keep earning your title, or it expires](https://sive.rs/expire) — `2016-08-04-expire.md` — 197w
+- 2016-08-03 — [And Never Stop Dancing - by Gordon Livingston](https://sive.rs/book/NeverStopDancing) — `2016-08-03-book-NeverStopDancing.md` — 675w
+- 2016-08-02 — [When you’re extremely unmotivated](https://sive.rs/unmo) — `2016-08-02-unmo.md` — 198w
+- 2016-08-01 — [Ego Is the Enemy - by Ryan Holiday](https://sive.rs/book/EgoEnemy) — `2016-08-01-book-EgoEnemy.md` — 1550w
+- 2016-07-28 — [Nobody Wants to Read Your Shit - by Steven Pressfield](https://sive.rs/book/NobodyWants) — `2016-07-28-book-NobodyWants.md` — 1212w
+- 2016-07-27 — [Disconnect](https://sive.rs/dc) — `2016-07-27-dc.md` — 319w
+- 2016-07-25 — [Guns, Germs, and Steel - by Jared Diamond](https://sive.rs/book/GunsGermsSteel) — `2016-07-25-book-GunsGermsSteel.md` — 3502w
+- 2016-07-25 — [Don’t add your two cents](https://sive.rs/2c) — `2016-07-25-2c.md` — 271w
+- 2016-06-30 — [The Inevitable - by Kevin Kelly](https://sive.rs/book/Inevitable) — `2016-06-30-book-Inevitable.md` — 3555w
+- 2016-06-05 — [Playful Parenting - by Lawrence Cohen](https://sive.rs/book/PlayfulParenting) — `2016-06-05-book-PlayfulParenting.md` — 2629w
+- 2016-05-20 — [Peak: Secrets from the New Science of Expertise - by Anders Ericsson](https://sive.rs/book/Peak) — `2016-05-20-book-Peak.md` — 3212w
+- 2016-05-10 — [Steal Like an Artist - by Austin Kleon](https://sive.rs/book/StealLikeAnArtist) — `2016-05-10-book-StealLikeAnArtist.md` — 760w
+- 2016-05-05 — [Total Recall - by Arnold Schwarzenegger](https://sive.rs/book/TotalRecall) — `2016-05-05-book-TotalRecall.md` — 4658w
+- 2016-04-27 — [Possible futures](https://sive.rs/futures) — `2016-04-27-futures.md` — 248w
+- 2016-04-21 — [Singing the counter-melody](https://sive.rs/counter) — `2016-04-21-counter.md` — 201w
+- 2016-04-20 — [Living Beautifully with Uncertainty and Change - by Pema Chödrön](https://sive.rs/book/LivingBeautifully) — `2016-04-20-book-LivingBeautifully.md` — 1316w
+- 2016-04-18 — [How to thrive in an unknowable future](https://sive.rs/d1t) — `2016-04-18-d1t.md` — 229w
+- 2016-04-18 — [How to stop being rich and happy](https://sive.rs/d1x) — `2016-04-18-d1x.md` — 213w
+- 2016-04-18 — [How to like people](https://sive.rs/d1p) — `2016-04-18-d1p.md` — 210w
+- 2016-04-18 — [How to get rich](https://sive.rs/d1r) — `2016-04-18-d1r.md` — 291w
 - 2016-04-18 — [How to be useful to others](https://sive.rs/d1u) — `2016-04-18-d1u.md` — 185w
+- 2016-04-13 — [Don’t start a business until people are asking you to](https://sive.rs/asking) — `2016-04-13-asking.md` — 204w
+- 2016-04-12 — [The Drunkard’s Walk: How Randomness Rules Our Lives - by Leonard Mlodinow](https://sive.rs/book/Drunkard) — `2016-04-12-book-Drunkard.md` — 517w
+- 2016-04-10 — [Deep Work - by Cal Newport](https://sive.rs/book/DeepWork) — `2016-04-10-book-DeepWork.md` — 3216w
+- 2016-03-27 — [Interviews at sive.rs/i](https://sive.rs/interviews) — `2016-03-27-interviews.md` — 227w
+- 2016-03-17 — [Why I don’t promote](https://sive.rs/nopr) — `2016-03-17-nopr.md` — 256w
+- 2016-03-10 — [Zero to One - by Peter Thiel and Blake Masters](https://sive.rs/book/ZeroToOne) — `2016-03-10-book-ZeroToOne.md` — 2275w
+- 2016-03-03 — [Happy, Smart, and Useful](https://sive.rs/hsu) — `2016-03-03-hsu.md` — 409w
+- 2016-03-02 — [Quirkology - by Richard Wiseman](https://sive.rs/book/Quirkology) — `2016-03-02-book-Quirkology.md` — 2351w
+- 2016-02-25 — [Beware of advice](https://sive.rs/advice) — `2016-02-25-advice.md` — 336w
+- 2016-02-23 — [Overcompensate to compensate](https://sive.rs/compensate) — `2016-02-23-compensate.md` — 194w
+- 2016-02-19 — [Cows, Pigs, Wars, and Witches - by Marvin Harris](https://sive.rs/book/CowsPigsWarsWitches) — `2016-02-19-book-CowsPigsWarsWitches.md` — 2107w
+- 2016-02-18 — [How to take a compliment](https://sive.rs/thx) — `2016-02-18-thx.md` — 213w
+- 2016-02-16 — [Why I don’t want stuff](https://sive.rs/gifts) — `2016-02-16-gifts.md` — 410w
+- 2016-02-14 — [Should you learn programming? Yes.](https://sive.rs/prog) — `2016-02-14-prog.md` — 367w
+- 2016-02-10 — [Germany: Unraveling an Enigma - by Greg Nees](https://sive.rs/book/GermanyEnigma) — `2016-02-10-book-GermanyEnigma.md` — 2171w
+- 2016-02-07 — [Mindware: Tools for Smart Thinking - by Richard Nisbett](https://sive.rs/book/Mindware) — `2016-02-07-book-Mindware.md` — 1804w
+- 2016-02-02 — [The Geography of Genius - by Eric Weiner](https://sive.rs/book/GeographyOfGenius) — `2016-02-02-book-GeographyOfGenius.md` — 4788w
+- 2016-01-27 — [Switch strategies](https://sive.rs/switch) — `2016-01-27-switch.md` — 185w
+- 2016-01-03 — [How I Found Freedom in an Unfree World - by Harry Browne](https://sive.rs/book/FoundFreedomUnfree) — `2016-01-03-book-FoundFreedomUnfree.md` — 612w
+- 2015-11-22 — [The Truth - by Neil Strauss](https://sive.rs/book/TheTruth) — `2015-11-22-book-TheTruth.md` — 1412w
+- 2015-11-20 — [nownownow.com](https://sive.rs/now3) — `2015-11-20-now3.md` — 349w
+- 2015-11-05 — [Writing Tools - by Roy Peter Clark](https://sive.rs/book/WritingTools) — `2015-11-05-book-WritingTools.md` — 677w
+- 2015-10-21 — [The /now page movement](https://sive.rs/nowff) — `2015-10-21-nowff.md` — 180w
+- 2015-10-10 — [The Future of Almost Everything - by Patrick Dixon](https://sive.rs/book/FutureAlmostEverything) — `2015-10-10-book-FutureAlmostEverything.md` — 296w
+- 2015-10-02 — [Relax for the same result](https://sive.rs/relax) — `2015-10-02-relax.md` — 440w
+- 2015-09-23 — [Saying no to everything else](https://sive.rs/no2) — `2015-09-23-no2.md` — 254w
+- 2015-09-20 — [Wilde in America - by David M. Friedman](https://sive.rs/book/WildeInAmerica) — `2015-09-20-book-WildeInAmerica.md` — 420w
+- 2015-09-01 — [The Sense of Style - by Steven Pinker](https://sive.rs/book/SenseOfStyle) — `2015-09-01-book-SenseOfStyle.md` — 2233w
+- 2015-08-29 — [“Just tell me what to do”: compressing knowledge into directives](https://sive.rs/2do) — `2015-08-29-2do.md` — 563w
+- 2015-08-01 — [The Entrepreneur Roller Coaster - by Darren Hardy](https://sive.rs/book/RollerCoaster) — `2015-08-01-book-RollerCoaster.md` — 2512w
+- 2015-08-01 — [On Writing Well - by William Zinsser](https://sive.rs/book/OnWritingWell) — `2015-08-01-book-OnWritingWell.md` — 1054w
+- 2015-07-07 — [A More Beautiful Question - by Warren Berger](https://sive.rs/book/MoreBeautifulQuestion) — `2015-07-07-book-MoreBeautifulQuestion.md` — 696w
+- 2015-05-07 — [How Adam Smith Can Change Your Life - by Russ Roberts](https://sive.rs/book/AdamSmith) — `2015-05-07-book-AdamSmith.md` — 1502w
+- 2015-05-04 — [Simplify: move code into database functions](https://sive.rs/pg) — `2015-05-04-pg.md` — 914w
+- 2015-05-01 — [Me, Inc. - by Gene Simmons](https://sive.rs/book/MeInc) — `2015-05-01-book-MeInc.md` — 564w
+- 2015-04-16 — [The Wisdom of No Escape - by Pema Chödrön](https://sive.rs/book/WisdomOfNoEscape) — `2015-04-16-book-WisdomOfNoEscape.md` — 2638w
+- 2015-03-03 — [A Mind for Numbers - by Barbara Oakley](https://sive.rs/book/MindForNumbers) — `2015-03-03-book-MindForNumbers.md` — 929w
+- 2015-02-01 — [Getting out of a bad state of mind](https://sive.rs/bad) — `2015-02-01-bad.md` — 588w
+- 2014-12-20 — [Make It Stick - by Peter Brown](https://sive.rs/book/MakeItStick) — `2014-12-20-book-MakeItStick.md` — 1433w
+- 2014-11-30 — [When Things Fall Apart - by Pema Chödrön](https://sive.rs/book/WhenThingsFallApart) — `2014-11-30-book-WhenThingsFallApart.md` — 3498w
+- 2014-11-20 — [Smartcuts - by Shane Snow](https://sive.rs/book/Smartcuts) — `2014-11-20-book-Smartcuts.md` — 2386w
+- 2014-11-01 — [The Power of No - by James and Claudia Altucher](https://sive.rs/book/PowerOfNo) — `2014-11-01-book-PowerOfNo.md` — 1948w
+- 2014-10-10 — [Superhuman by Habit - by Tynan](https://sive.rs/book/SuperhumanByHabit) — `2014-10-10-book-SuperhumanByHabit.md` — 1317w
 - 2014-10-06 — [How to change or build your career](https://sive.rs/career) — `2014-10-06-career.md` — 746w
+- 2014-09-21 — [Fixed mindset vs Growth mindset](https://sive.rs/mindset) — `2014-09-21-mindset.md` — 483w
+- 2014-09-09 — [I love being wrong](https://sive.rs/lw) — `2014-09-09-lw.md` — 275w
+- 2014-09-01 — [Complexity: A Guided Tour - by Melanie Mitchell](https://sive.rs/book/Complexity) — `2014-09-01-book-Complexity.md` — 944w
+- 2014-08-22 — [Never Let Go - by Dan John](https://sive.rs/book/NeverLetGo) — `2014-08-22-book-NeverLetGo.md` — 3145w
+- 2014-08-18 — [Fluent Forever - by Gabriel Wyner](https://sive.rs/book/FluentForever) — `2014-08-18-book-FluentForever.md` — 5299w
+- 2014-08-15 — [Daily Rituals: How Artists Work - by Mason Currey](https://sive.rs/book/DailyRituals) — `2014-08-15-book-DailyRituals.md` — 2106w
+- 2014-08-03 — [Geography of Time - by Robert Levine](https://sive.rs/book/GeographyOfTime) — `2014-08-03-book-GeographyOfTime.md` — 2299w
+- 2014-07-17 — [The Compound Effect - by Darren Hardy](https://sive.rs/book/CompoundEffect) — `2014-07-17-book-CompoundEffect.md` — 2533w
+- 2014-07-16 — [When Cultures Collide - by Richard D. Lewis](https://sive.rs/book/WhenCulturesCollide) — `2014-07-16-book-WhenCulturesCollide.md` — 1494w
+- 2014-07-04 — [You can afford to be generous](https://sive.rs/afford) — `2014-07-04-afford.md` — 267w
+- 2014-07-03 — [Lose every fight](https://sive.rs/cs3) — `2014-07-03-cs3.md` — 253w
+- 2014-07-02 — [Every interaction is your moment to shine](https://sive.rs/cs2) — `2014-07-02-cs2.md` — 281w
+- 2014-07-01 — [Customer service is everything](https://sive.rs/cs1) — `2014-07-01-cs1.md` — 224w
+- 2014-06-30 — [The Obstacle Is the Way - by Ryan Holiday](https://sive.rs/book/ObstacleIsTheWay) — `2014-06-30-book-ObstacleIsTheWay.md` — 1082w
+- 2014-06-29 — [The philosophy of great customer service](https://sive.rs/cs) — `2014-06-29-cs.md` — 2091w
+- 2014-06-27 — [Decisive - by Chip and Dan Heath](https://sive.rs/book/Decisive) — `2014-06-27-book-Decisive.md` — 2198w
+- 2014-06-15 — [Show Your Work - by Austin Kleon](https://sive.rs/book/ShowYourWork) — `2014-06-15-book-ShowYourWork.md` — 884w
+- 2014-06-05 — [How to Learn a Foreign Language - by Paul Pimsleur](https://sive.rs/book/LearnForeignLanguage) — `2014-06-05-book-LearnForeignLanguage.md` — 1869w
+- 2014-05-18 — [Loving what I used to hate](https://sive.rs/hate) — `2014-05-18-hate.md` — 404w
 - 2014-05-05 — [The Meaning of Life](https://sive.rs/ml) — `2014-05-05-ml.md` — 2765w
+- 2014-04-11 — [Your Memory - by Kenneth L. Higbee](https://sive.rs/book/YourMemory) — `2014-04-11-book-YourMemory.md` — 417w
+- 2014-04-10 — [Choose Yourself! - by James Altucher](https://sive.rs/book/ChooseYourself) — `2014-04-10-book-ChooseYourself.md` — 2206w
+- 2014-04-08 — [How to Learn and Memorize French Vocabulary - by Anthony Metivier](https://sive.rs/book/MemorizeFrench) — `2014-04-08-book-MemorizeFrench.md` — 1092w
+- 2014-03-30 — [Change careers like Tarzan](https://sive.rs/tarzan) — `2014-03-30-tarzan.md` — 135w
+- 2014-03-19 — [What if you didn’t need money or attention?](https://sive.rs/full) — `2014-03-19-full.md` — 204w
+- 2014-02-10 — [Give and Take - by Adam M. Grant](https://sive.rs/book/GiveAndTake) — `2014-02-10-book-GiveAndTake.md` — 2606w
+- 2014-02-06 — [How will this game end?](https://sive.rs/game) — `2014-02-06-game.md` — 248w
+- 2014-02-02 — [The Story of French - by Jean-Benoit Nadeau and Julie Barlow](https://sive.rs/book/StoryOfFrench) — `2014-02-02-book-StoryOfFrench.md` — 1276w
+- 2014-02-02 — [Imitate. We are imperfect mirrors.](https://sive.rs/mirror) — `2014-02-02-mirror.md` — 271w
+- 2014-01-21 — [Understanding Vietnam](https://sive.rs/vn14) — `2014-01-21-vn14.md` — 1060w
+- 2014-01-21 — [Understanding Singapore](https://sive.rs/sg14) — `2014-01-21-sg14.md` — 1145w
+- 2014-01-21 — [Understanding Indonesia](https://sive.rs/id14) — `2014-01-21-id14.md` — 1161w
+- 2014-01-19 — [Understanding Japan](https://sive.rs/jp14) — `2014-01-19-jp14.md` — 980w
+- 2014-01-16 — [Same word. Different places? Different meanings.](https://sive.rs/quality) — `2014-01-16-quality.md` — 544w
+- 2014-01-15 — [The Bed of Procrustes - by Nassim Nicholas Taleb](https://sive.rs/book/BedOfProcrustes) — `2014-01-15-book-BedOfProcrustes.md` — 1091w
+- 2014-01-12 — [Wood Egg 2014 books are on sale now](https://sive.rs/we14) — `2014-01-12-we14.md` — 254w
+- 2013-12-24 — [Jac Holzman](https://sive.rs/jac) — `2013-12-24-jac.md` — 1058w
+- 2013-12-20 — [Why am I here?](https://sive.rs/here) — `2013-12-20-here.md` — 251w
+- 2013-12-20 — [Making Ideas Happen - by Scott Belsky](https://sive.rs/book/MakingIdeasHappen) — `2013-12-20-book-MakingIdeasHappen.md` — 336w
+- 2013-12-14 — [Island - by Aldous Huxley](https://sive.rs/book/Island) — `2013-12-14-book-Island.md` — 674w
+- 2013-12-12 — [Why my code and ideas are public](https://sive.rs/ws) — `2013-12-12-ws.md` — 385w
+- 2013-12-09 — [OK Milt, I’ll start writing again](https://sive.rs/milt) — `2013-12-09-milt.md` — 280w
+- 2013-11-28 — [Ready for Anything - by David Allen](https://sive.rs/book/ReadyForAnything) — `2013-11-28-book-ReadyForAnything.md` — 139w
+- 2013-11-21 — [The Philosophical Baby - by Alison Gopnik](https://sive.rs/book/PhilosophicalBaby) — `2013-11-21-book-PhilosophicalBaby.md` — 766w
+- 2013-11-13 — [In Pursuit of Silence - by George Prochnik](https://sive.rs/book/PursuitOfSilence) — `2013-11-13-book-PursuitOfSilence.md` — 811w
+- 2013-11-11 — [Bird by Bird - by Anne Lamott](https://sive.rs/book/BirdByBird) — `2013-11-11-book-BirdByBird.md` — 197w
+- 2013-11-08 — [Self Reliance - by Ralph Waldo Emerson](https://sive.rs/book/SelfReliance) — `2013-11-08-book-SelfReliance.md` — 584w
+- 2013-11-01 — [Starting Strength - by Mark Rippetoe](https://sive.rs/book/StartingStrength) — `2013-11-01-book-StartingStrength.md` — 1678w
+- 2013-10-28 — [How to Fail at Almost Everything and Still Win Big - by Scott Adams](https://sive.rs/book/HowToFail) — `2013-10-28-book-HowToFail.md` — 3406w
+- 2013-08-30 — [5 Elements of Effective Thinking - by Edward B. Burger and Michael Starbird](https://sive.rs/book/EffectiveThinking) — `2013-08-30-book-EffectiveThinking.md` — 1596w
+- 2013-08-25 — [A Short History of Nearly Everything - by Bill Bryson](https://sive.rs/book/ShortHistoryNE) — `2013-08-25-book-ShortHistoryNE.md` — 1089w
+- 2013-07-06 — [Ikigai - by Sebastian Marshall](https://sive.rs/book/Ikigai) — `2013-07-06-book-Ikigai.md` — 1498w
+- 2013-06-15 — [Fragile Plan vs Robust Plan](https://sive.rs/robust) — `2013-06-15-robust.md` — 646w
+- 2013-06-08 — [Wood Egg (my new company)](https://sive.rs/eg) — `2013-06-08-eg.md` — 320w
+- 2013-06-03 — [Some will always say you’re wrong](https://sive.rs/wrong) — `2013-06-03-wrong.md` — 219w
+- 2013-05-20 — [No rules in this game](https://sive.rs/360) — `2013-05-20-360.md` — 351w
+- 2013-05-15 — [Antifragile - by Nassim Nicholas Taleb](https://sive.rs/book/Antifragile) — `2013-05-15-book-Antifragile.md` — 8079w
+- 2013-04-14 — [Seeking inspiration?](https://sive.rs/io) — `2013-04-14-io.md` — 264w
+- 2013-04-06 — [The Great Movies](https://sive.rs/ebert2) — `2013-04-06-ebert2.md` — 368w
+- 2013-04-05 — [The Now Habit - by Neil Fiore](https://sive.rs/book/NowHabit) — `2013-04-05-book-NowHabit.md` — 791w
 - 2013-03-21 — [Human Intervention as a Competitive Advantage](https://sive.rs/hi) — `2013-03-21-hi.md` — 599w
+- 2013-02-11 — [It’s all who you know?](https://sive.rs/xn) — `2013-02-11-xn.md` — 834w
+- 2013-02-05 — [The Willpower Instinct - by Kelly McGonigal](https://sive.rs/book/WillpowerInstinct) — `2013-02-05-book-WillpowerInstinct.md` — 4091w
+- 2013-01-27 — [Focus, entertain, or both?](https://sive.rs/boring) — `2013-01-27-boring.md` — 229w
+- 2013-01-11 — [The Icarus Deception - by Seth Godin](https://sive.rs/book/IcarusDeception) — `2013-01-11-book-IcarusDeception.md` — 4132w
+- 2013-01-09 — [The Laws of Subtraction - by Matthew May](https://sive.rs/book/LawsOfSubtraction) — `2013-01-09-book-LawsOfSubtraction.md` — 411w
+- 2013-01-06 — [Memorizing a programming language using spaced repetition software](https://sive.rs/srs) — `2013-01-06-srs.md` — 1216w
+- 2012-12-09 — [Everything is my fault](https://sive.rs/my-fault) — `2012-12-09-my-fault.md` — 276w
+- 2012-12-06 — [Mastery - by Robert Greene](https://sive.rs/book/Mastery2) — `2012-12-06-book-Mastery2.md` — 3812w
+- 2012-12-02 — [You don’t have to be local](https://sive.rs/local) — `2012-12-02-local.md` — 533w
+- 2012-11-18 — [Wired for Story - by Lisa Cron](https://sive.rs/book/WiredForStory) — `2012-11-18-book-WiredForStory.md` — 1893w
+- 2012-10-25 — [Turning Pro - by Steven Pressfield](https://sive.rs/book/TurningPro) — `2012-10-25-book-TurningPro.md` — 1334w
+- 2012-10-07 — [So Good They Can’t Ignore You - by Cal Newport](https://sive.rs/book/SoGood) — `2012-10-07-book-SoGood.md` — 3085w
+- 2012-10-05 — [No B.S. Time Management for Entrepreneurs - by Dan S. Kennedy](https://sive.rs/book/NoBSTime) — `2012-10-05-book-NoBSTime.md` — 2227w
+- 2012-10-01 — [Mastery - by George Leonard](https://sive.rs/book/Mastery) — `2012-10-01-book-Mastery.md` — 1256w
+- 2012-09-27 — [Pragmatic Programmer - by Andy Hunt and David Thomas](https://sive.rs/book/PragmaticProgrammer) — `2012-09-27-book-PragmaticProgrammer.md` — 2266w
+- 2012-09-22 — [Quiet - by Susan Cain](https://sive.rs/book/Quiet) — `2012-09-22-book-Quiet.md` — 2667w
+- 2012-09-08 — [The Little Book of Talent - by Daniel Coyle](https://sive.rs/book/LittleBookOfTalent) — `2012-09-08-book-LittleBookOfTalent.md` — 2362w
+- 2012-08-13 — [Push, push, push. Expanding your comfort zone.](https://sive.rs/comfort) — `2012-08-13-comfort.md` — 579w
+- 2012-05-22 — [Drop Dead Healthy - by A. J. Jacobs](https://sive.rs/book/DropDeadHealthy) — `2012-05-22-book-DropDeadHealthy.md` — 1224w
+- 2012-05-16 — [Smart people don’t think others are stupid](https://sive.rs/ss) — `2012-05-16-ss.md` — 164w
+- 2012-04-26 — [What Technology Wants - by Kevin Kelly](https://sive.rs/book/WhatTechnologyWants) — `2012-04-26-book-WhatTechnologyWants.md` — 7245w
+- 2012-04-24 — [Advice on moving to Los Angeles](https://sive.rs/la) — `2012-04-24-la.md` — 898w
+- 2012-03-01 — [The Power of Habit - by Charles Duhigg](https://sive.rs/book/PowerOfHabit) — `2012-03-01-book-PowerOfHabit.md` — 2368w
+- 2012-02-04 — [Meditations - by Marcus Aurelius and C Scot Hicks and David V Hicks](https://sive.rs/book/Meditations) — `2012-02-04-book-Meditations.md` — 2115w
+- 2012-01-15 — [The Passionate Programmer - by Chad Fowler](https://sive.rs/book/PassionateProgrammer) — `2012-01-15-book-PassionateProgrammer.md` — 2325w
+- 2012-01-12 — [Meditation for Beginners - by Jack Kornfield](https://sive.rs/book/MeditationForBeginners) — `2012-01-12-book-MeditationForBeginners.md` — 892w
+- 2012-01-05 — [The War of Art - by Steven Pressfield](https://sive.rs/book/WarOfArt) — `2012-01-05-book-WarOfArt.md` — 2386w
+- 2011-12-28 — [The Developing World - by Fredrik Härén](https://sive.rs/book/DevelopingWorld) — `2011-12-28-book-DevelopingWorld.md` — 4069w
+- 2011-12-25 — [The Checklist Manifesto - by Atul Gawande](https://sive.rs/book/ChecklistManifesto) — `2011-12-25-book-ChecklistManifesto.md` — 2403w
+- 2011-12-20 — [Friends from memory](https://sive.rs/friends) — `2011-12-20-friends.md` — 222w
+- 2011-12-08 — [Thinking, Fast and Slow - by Daniel Kahneman](https://sive.rs/book/ThinkingFastAndSlow) — `2011-12-08-book-ThinkingFastAndSlow.md` — 11267w
+- 2011-11-20 — [The co-op business model: share whatever you’ve got](https://sive.rs/sharing) — `2011-11-20-sharing.md` — 436w
+- 2011-11-15 — [You Are Not So Smart - by David McRaney](https://sive.rs/book/NotSoSmart) — `2011-11-15-book-NotSoSmart.md` — 5922w
+- 2011-11-15 — [232 sand dollars](https://sive.rs/232) — `2011-11-15-232.md` — 309w
+- 2011-10-25 — [Do the Work - by Steven Pressfield](https://sive.rs/book/DoTheWork) — `2011-10-25-book-DoTheWork.md` — 1586w
+- 2011-10-23 — [The Lean Startup - by Eric Ries](https://sive.rs/book/LeanStartup) — `2011-10-23-book-LeanStartup.md` — 9952w
+- 2011-10-05 — [Cambodia’s Curse - by Joel Brinkley](https://sive.rs/book/CambodiaCurse) — `2011-10-05-book-CambodiaCurse.md` — 4978w
+- 2011-09-09 — [Willpower - by Roy Baumeister and John Tierney](https://sive.rs/book/Willpower) — `2011-09-09-book-Willpower.md` — 5627w
+- 2011-09-03 — [Power of Full Engagement - by Jim Loehr and Tony Schwartz](https://sive.rs/book/PowerOfFullEngagement) — `2011-09-03-book-PowerOfFullEngagement.md` — 3757w
+- 2011-08-07 — [Hiring Smart - by Pierre Mornell](https://sive.rs/book/HiringSmart) — `2011-08-07-book-HiringSmart.md` — 1880w
+- 2011-07-24 — [You make your perfect world](https://sive.rs/ayw8) — `2011-07-24-ayw8.md` — 209w
+- 2011-07-23 — [Delegate, but don’t abdicate](https://sive.rs/abdicate) — `2011-07-23-abdicate.md` — 440w
+- 2011-07-22 — [Make it anything you want](https://sive.rs/ayw7) — `2011-07-22-ayw7.md` — 456w
+- 2011-07-21 — [It’s about being, not having](https://sive.rs/being) — `2011-07-21-being.md` — 805w
+- 2011-07-20 — [Program or Be Programmed - by Douglas Rushkoff and Leland Purvis](https://sive.rs/book/PgOrBPg) — `2011-07-20-book-PgOrBPg.md` — 524w
+- 2011-07-20 — [Prepare to double](https://sive.rs/double) — `2011-07-20-double.md` — 223w
+- 2011-07-19 — [It’s OK to be casual](https://sive.rs/casual) — `2011-07-19-casual.md` — 200w
 - 2011-07-18 — [Little things make all the difference](https://sive.rs/cdbf) — `2011-07-18-cdbf.md` — 709w
+- 2011-07-17 — [The most successful email I ever wrote](https://sive.rs/cdbe) — `2011-07-17-cdbe.md` — 390w
+- 2011-07-16 — [Like you don’t need the money](https://sive.rs/dontneed) — `2011-07-16-dontneed.md` — 130w
+- 2011-07-15 — [Care about your customers more than about yourself](https://sive.rs/caremore) — `2011-07-15-caremore.md` — 246w
+- 2011-07-15 — [A Gift to My Children - by Jim Rogers](https://sive.rs/book/GiftToMyChildren) — `2011-07-15-book-GiftToMyChildren.md` — 1143w
+- 2011-07-14 — [You don’t need a plan or a vision](https://sive.rs/noplan) — `2011-07-14-noplan.md` — 252w
+- 2011-07-13 — [Why no advertising?](https://sive.rs/noads) — `2011-07-13-noads.md` — 144w
+- 2011-07-12 — [Proudly exclude people](https://sive.rs/exclude2) — `2011-07-12-exclude2.md` — 189w
+- 2011-07-11 — [Formalities play on fear. Bravely refuse.](https://sive.rs/formalities) — `2011-07-11-formalities.md` — 276w
+- 2011-07-10 — [Start now. No funding needed.](https://sive.rs/startnow) — `2011-07-10-startnow.md` — 516w
+- 2011-07-09 — [The advantage of no funding](https://sive.rs/nofund) — `2011-07-09-nofund.md` — 392w
+- 2011-07-08 — [Just like that, my plan completely changed](https://sive.rs/changeplan) — `2011-07-08-changeplan.md` — 220w
+- 2011-07-07 — [If it’s not a hit, switch](https://sive.rs/hitswitch) — `2011-07-07-hitswitch.md` — 267w
+- 2011-07-06 — [This ain’t no revolution](https://sive.rs/ayw6) — `2011-07-06-ayw6.md` — 135w
+- 2011-07-05 — [A business model with only two numbers](https://sive.rs/ayw5) — `2011-07-05-ayw5.md` — 269w
+- 2011-07-04 — [Make a dream come true](https://sive.rs/ayw4) — `2011-07-04-ayw4.md` — 308w
+- 2011-07-03 — [Just selling my CD](https://sive.rs/ayw3) — `2011-07-03-ayw3.md` — 517w
+- 2011-07-02 — [What’s your compass?](https://sive.rs/ayw2) — `2011-07-02-ayw2.md` — 292w
+- 2011-07-01 — [Ten years of experience in one hour](https://sive.rs/ayw1) — `2011-07-01-ayw1.md` — 212w
 - 2011-06-29 — [Anything You Want (my first book)](https://sive.rs/ayw) — `2011-06-29-ayw.md` — 150w
+- 2011-06-23 — [Projecting meaning](https://sive.rs/meaning) — `2011-06-23-meaning.md` — 446w
+- 2011-06-19 — [Fish don’t know they’re in water](https://sive.rs/fish) — `2011-06-19-fish.md` — 396w
+- 2011-06-18 — [Moonwalking with Einstein - by Joshua Foer](https://sive.rs/book/MoonwalkingEinstein) — `2011-06-18-book-MoonwalkingEinstein.md` — 4331w
+- 2011-06-08 — [Don’t be a donkey](https://sive.rs/donkey) — `2011-06-08-donkey.md` — 362w
+- 2011-06-04 — [I moved to Singapore](https://sive.rs/singapore) — `2011-06-04-singapore.md` — 374w
+- 2011-06-04 — [Any questions?](https://sive.rs/aq) — `2011-06-04-aq.md` — 249w
+- 2011-05-27 — [Practicing Mind - by Thomas Sterner](https://sive.rs/book/PracticingMind) — `2011-05-27-book-PracticingMind.md` — 2107w
+- 2011-05-10 — [Little Bets - by Peter Sims](https://sive.rs/book/LittleBets) — `2011-05-10-book-LittleBets.md` — 1537w
+- 2011-04-29 — [One Simple Idea - by Stephen Key](https://sive.rs/book/OneSimpleIdea) — `2011-04-29-book-OneSimpleIdea.md` — 2729w
+- 2011-04-21 — [Fail-Safe Investing - by Harry Browne](https://sive.rs/book/FailSafeInvesting) — `2011-04-21-book-FailSafeInvesting.md` — 3882w
+- 2011-03-23 — [There’s no place like home](https://sive.rs/homeless) — `2011-03-23-homeless.md` — 259w
+- 2011-03-15 — [Poke the Box - by Seth Godin](https://sive.rs/book/PokeTheBox) — `2011-03-15-book-PokeTheBox.md` — 1137w
+- 2011-02-16 — [The Personal MBA - by Josh Kaufman](https://sive.rs/book/PersonalMBA) — `2011-02-16-book-PersonalMBA.md` — 11270w
+- 2011-01-23 — [Delegate or die: the self-employed trap.](https://sive.rs/delegate) — `2011-01-23-delegate.md` — 812w
+- 2011-01-21 — [The Four Filters Invention of Warren Buffett and Charlie Munger - by Bud Labitan](https://sive.rs/book/FourFilters) — `2011-01-21-book-FourFilters.md` — 1356w
+- 2011-01-17 — [Focus - by Leo Babauta](https://sive.rs/book/Focus) — `2011-01-17-book-Focus.md` — 944w
+- 2011-01-03 — [Seeking Wisdom - by Peter Bevelin](https://sive.rs/book/SeekingWisdom) — `2011-01-03-book-SeekingWisdom.md` — 7384w
+- 2010-12-27 — [What I Talk About When I Talk About Running - by Haruki Murakami](https://sive.rs/book/TalkAboutRunning) — `2010-12-27-book-TalkAboutRunning.md` — 1064w
+- 2010-12-24 — [Confessions of a Serial Entrepreneur - by Stuart Skorman](https://sive.rs/book/SerialEntrepreneur) — `2010-12-24-book-SerialEntrepreneur.md` — 1416w
+- 2010-12-18 — [The 4-Hour Body - by Tim Ferriss](https://sive.rs/book/4HourBody) — `2010-12-18-book-4HourBody.md` — 6003w
+- 2010-12-15 — [Hire With Your Head - by Lou Adler](https://sive.rs/book/HireWithYourHead) — `2010-12-15-book-HireWithYourHead.md` — 3117w
+- 2010-12-12 — [The Pleasures and Sorrows of Work - by Alain De Botton](https://sive.rs/book/PleasuresAndSorrowsOfWork) — `2010-12-12-book-PleasuresAndSorrowsOfWork.md` — 1318w
+- 2010-12-11 — [Linchpin - by Seth Godin](https://sive.rs/book/Linchpin) — `2010-12-11-book-Linchpin.md` — 746w
+- 2010-12-10 — [Cognitive Surplus - by Clay Shirky](https://sive.rs/book/CognitiveSurplus) — `2010-12-10-book-CognitiveSurplus.md` — 5134w
+- 2010-11-27 — [Mindset - by Carol Dweck](https://sive.rs/book/Mindset) — `2010-11-27-book-Mindset.md` — 2073w
+- 2010-11-23 — [Art and Fear - by David Bayles and Ted Orland](https://sive.rs/book/ArtAndFear) — `2010-11-23-book-ArtAndFear.md` — 1629w
+- 2010-11-21 — [Obvious to you. Amazing to others.](https://sive.rs/obvious) — `2010-11-21-obvious.md` — 234w
+- 2010-11-18 — [Why wreck a blank canvas?](https://sive.rs/blank) — `2010-11-18-blank.md` — 239w
+- 2010-11-16 — [Start Small, Stay Small - by Rob Walling and Mike Taber](https://sive.rs/book/StartSmallStaySmall) — `2010-11-16-book-StartSmallStaySmall.md` — 2452w
+- 2010-11-11 — [The day Steve Jobs dissed me in a keynote](https://sive.rs/itunes) — `2010-11-11-itunes.md` — 1164w
+- 2010-09-26 — [A Guide to the Good Life: The Ancient Art of Stoic Joy - by William Irvine](https://sive.rs/book/StoicJoy) — `2010-09-26-book-StoicJoy.md` — 4298w
+- 2010-09-18 — [The Selfish Gene - by Richard Dawkins](https://sive.rs/book/SelfishGene) — `2010-09-18-book-SelfishGene.md` — 964w
+- 2010-09-01 — [Drive - by Daniel Pink](https://sive.rs/book/Drive) — `2010-09-01-book-Drive.md` — 3978w
+- 2010-08-20 — [Hackers & Painters - by Paul Graham](https://sive.rs/book/HackersPainters) — `2010-08-20-book-HackersPainters.md` — 2800w
+- 2010-08-15 — [Nudge - by Richard Thaler and Cass Sunstein](https://sive.rs/book/Nudge) — `2010-08-15-book-Nudge.md` — 835w
+- 2010-08-07 — [KarmaList wishlist?](https://sive.rs/kl) — `2010-08-07-kl.md` — 207w
+- 2010-07-28 — [Making a Good Brain Great - by Daniel G. Amen](https://sive.rs/book/GoodBrainGreat) — `2010-07-28-book-GoodBrainGreat.md` — 1730w
+- 2010-07-21 — [Valuable to others, or only you?](https://sive.rs/starv) — `2010-07-21-starv.md` — 488w
+- 2010-07-07 — [Quit quirks when working with others](https://sive.rs/quirks) — `2010-07-07-quirks.md` — 817w
+- 2010-07-05 — [The Upside of Irrationality - by Dan Ariely](https://sive.rs/book/UpsideOfIrrationality) — `2010-07-05-book-UpsideOfIrrationality.md` — 2476w
+- 2010-07-03 — [My loss](https://sive.rs/loss) — `2010-07-03-loss.md` — 285w
+- 2010-07-01 — [I assume I’m below average](https://sive.rs/below-average) — `2010-07-01-below-average.md` — 192w
+- 2010-06-29 — [How to get hired](https://sive.rs/gethired) — `2010-06-29-gethired.md` — 417w
+- 2010-06-28 — [Confessions of a Public Speaker - by Scott Berkun](https://sive.rs/book/ConfessionsPublicSpeaker) — `2010-06-28-book-ConfessionsPublicSpeaker.md` — 4977w
 - 2010-06-19 — [How to hire a programmer to make your ideas happen](https://sive.rs/how2hire) — `2010-06-19-how2hire.md` — 1557w
+- 2010-06-15 — [After fifteen years of practice](https://sive.rs/15-years) — `2010-06-15-15-years.md` — 552w
+- 2010-05-25 — [How I became Ryuichi Sakamoto’s guitarist](https://sive.rs/sakamoto) — `2010-05-25-sakamoto.md` — 734w
+- 2010-05-24 — [Naïve Quitting](https://sive.rs/nq) — `2010-05-24-nq.md` — 366w
+- 2010-05-10 — [Switch - by Chip Heath and Dan Heath](https://sive.rs/book/Switch) — `2010-05-10-book-Switch.md` — 3788w
+- 2010-05-07 — [Thursday = Thor’s day](https://sive.rs/thor) — `2010-05-07-thor.md` — 271w
+- 2010-05-05 — [On Writing - by Stephen King](https://sive.rs/book/OnWriting) — `2010-05-05-book-OnWriting.md` — 1667w
+- 2010-05-01 — [The Happiness Hypothesis - by Jonathan Haidt](https://sive.rs/book/HappinessHypothesis) — `2010-05-01-book-HappinessHypothesis.md` — 6458w
+- 2010-04-24 — [Life Without Lawyers - by Philip K. Howard](https://sive.rs/book/LifeWithoutLawyers) — `2010-04-24-book-LifeWithoutLawyers.md` — 1276w
+- 2010-03-31 — [A real person, a lot like you](https://sive.rs/real) — `2010-03-31-real.md` — 521w
+- 2010-03-29 — [Flip it in your favor](https://sive.rs/flipstick) — `2010-03-29-flipstick.md` — 406w
+- 2010-03-23 — [I Will Teach You To Be Rich - by Ramit Sethi](https://sive.rs/book/IWillTeachYouToBeRich) — `2010-03-23-book-IWillTeachYouToBeRich.md` — 585w
+- 2010-03-15 — [Being Logical - by D.Q. McInerny](https://sive.rs/book/BeingLogical) — `2010-03-15-book-BeingLogical.md` — 2066w
+- 2010-02-17 — [Business Stripped Bare - by Richard Branson](https://sive.rs/book/BusinessStrippedBare) — `2010-02-17-book-BusinessStrippedBare.md` — 3120w
+- 2010-02-14 — [First Follower idea is all yours](https://sive.rs/ff2) — `2010-02-14-ff2.md` — 226w
+- 2010-02-11 — [First Follower: Leadership Lessons from a Dancing Guy](https://sive.rs/ff) — `2010-02-11-ff.md` — 486w
+- 2010-01-30 — [Don’t punish everyone for one person’s mistake](https://sive.rs/punish) — `2010-01-30-punish.md` — 350w
+- 2010-01-27 — [There are always more than two options](https://sive.rs/options) — `2010-01-27-options.md` — 285w
+- 2010-01-26 — [Big catalog = infinite specialty shops](https://sive.rs/prism) — `2010-01-26-prism.md` — 441w
+- 2010-01-20 — [The Geography of Bliss - by Eric Weiner](https://sive.rs/book/GeographyOfBliss) — `2010-01-20-book-GeographyOfBliss.md` — 2935w
+- 2010-01-11 — [Seth Godin on spreading music and selling intimacy](https://sive.rs/seth-godin) — `2010-01-11-seth-godin.md` — 736w
+- 2010-01-11 — [Pomodoro Technique Illustrated - by Staffan Nöteberg](https://sive.rs/book/Pomodoro) — `2010-01-11-book-Pomodoro.md` — 1199w
+- 2010-01-09 — [Born Standing Up - by Steve Martin](https://sive.rs/book/BornStandingUp) — `2010-01-09-book-BornStandingUp.md` — 146w
+- 2010-01-07 — [Committed - by Elizabeth Gilbert](https://sive.rs/book/Committed) — `2010-01-07-book-Committed.md` — 2016w
+- 2009-12-18 — [Papa Bill: I don’t need to worry about you.](https://sive.rs/papabill) — `2009-12-18-papabill.md` — 291w
+- 2009-12-09 — [Put buskers online](https://sive.rs/busk) — `2009-12-09-busk.md` — 234w
+- 2009-12-08 — ["Online" marketing = "Color" TV](https://sive.rs/tv) — `2009-12-08-tv.md` — 130w
+- 2009-12-05 — [What the Dog Saw - by Malcolm Gladwell](https://sive.rs/book/WhatTheDogSaw) — `2009-12-05-book-WhatTheDogSaw.md` — 1144w
+- 2009-12-04 — [Why I gave my company to charity](https://sive.rs/trust) — `2009-12-04-trust.md` — 473w
+- 2009-12-01 — [There’s no speed limit](https://sive.rs/kimo) — `2009-12-01-kimo.md` — 727w
 - 2009-11-27 — [Shine a spotlight on one idea at a time.](https://sive.rs/1idea) — `2009-11-27-1idea.md` — 202w
+- 2009-11-25 — [The challenge: Don’t speak in future tense.](https://sive.rs/futuretense) — `2009-11-25-futuretense.md` — 162w
+- 2009-11-24 — [Trust, but verify](https://sive.rs/trustbut) — `2009-11-24-trustbut.md` — 434w
+- 2009-11-24 — [Conspiracy of the Rich - by Robert Kiyosaki](https://sive.rs/book/ConspiracyOfTheRich) — `2009-11-24-book-ConspiracyOfTheRich.md` — 3352w
+- 2009-11-23 — [Let pedestrians define the walkways](https://sive.rs/walkways) — `2009-11-23-walkways.md` — 217w
+- 2009-11-22 — [Fela Kuti](https://sive.rs/fela-kuti) — `2009-11-22-fela-kuti.md` — 438w
+- 2009-11-21 — [Confidence required](https://sive.rs/confidence) — `2009-11-21-confidence.md` — 556w
+- 2009-11-16 — [Talent Is Overrated - by Geoff Colvin](https://sive.rs/book/TalentIsOverrated) — `2009-11-16-book-TalentIsOverrated.md` — 2086w
+- 2009-11-10 — [How We Decide - by Jonah Lehrer](https://sive.rs/book/HowWeDecide) — `2009-11-10-book-HowWeDecide.md` — 4432w
+- 2009-11-03 — [Pragmatic Thinking and Learning - by Andy Hunt](https://sive.rs/book/PragmaticThinking) — `2009-11-03-book-PragmaticThinking.md` — 3288w
+- 2009-11-01 — [The Productive Programmer - by Neal Ford](https://sive.rs/book/ProductiveProgrammer) — `2009-11-01-book-ProductiveProgrammer.md` — 472w
+- 2009-10-25 — [Crash Proof 2.0 - by Peter Schiff](https://sive.rs/book/CrashProof) — `2009-10-25-book-CrashProof.md` — 3246w
+- 2009-10-19 — [Why Smart People Make Big Money Mistakes - by Gilovich and Belsky](https://sive.rs/book/BigMoneyMistakes) — `2009-10-19-book-BigMoneyMistakes.md` — 3218w
+- 2009-10-19 — [Discover Your Inner Economist - by Tyler Cowen](https://sive.rs/book/InnerEconomist) — `2009-10-19-book-InnerEconomist.md` — 2215w
+- 2009-10-16 — [If you think you haven’t found your passion…](https://sive.rs/passion) — `2009-10-16-passion.md` — 146w
+- 2009-10-15 — [Doesn’t feel like work (or I’ve forgotten)](https://sive.rs/notwork) — `2009-10-15-notwork.md` — 211w
+- 2009-10-14 — [The Profit Zone - by Adrian Slywotzky](https://sive.rs/book/ProfitZone) — `2009-10-14-book-ProfitZone.md` — 3904w
+- 2009-10-14 — [Learning the lesson, not the example.](https://sive.rs/metaphor) — `2009-10-14-metaphor.md` — 231w
+- 2009-10-13 — [How I knew I was done with my company](https://sive.rs/done) — `2009-10-13-done.md` — 608w
+- 2009-10-12 — [You should feel pain when unclear](https://sive.rs/unclear) — `2009-10-12-unclear.md` — 191w
+- 2009-10-09 — [How do you grade yourself?](https://sive.rs/grade) — `2009-10-09-grade.md` — 136w
+- 2009-10-07 — [Not happy with existing venues? Make a new one](https://sive.rs/makenew) — `2009-10-07-makenew.md` — 276w
+- 2009-10-06 — [What’s the difference between like, love, and in-love?](https://sive.rs/inlove) — `2009-10-06-inlove.md` — 189w
+- 2009-09-27 — [And if only 1% of those people…](https://sive.rs/1pct) — `2009-09-27-1pct.md` — 187w
+- 2009-09-24 — [Does your company really want to hang out with me?](https://sive.rs/sms) — `2009-09-24-sms.md` — 179w
+- 2009-09-23 — [Biking](https://sive.rs/biking) — `2009-09-23-biking.md` — 603w
+- 2009-09-22 — [Venue for audience to mix their own audio](https://sive.rs/venuemix) — `2009-09-22-venuemix.md` — 473w
+- 2009-09-21 — [Emphasize meaning over price](https://sive.rs/livecd) — `2009-09-21-livecd.md` — 275w
+- 2009-09-17 — [Is there such a thing as too much freedom?](https://sive.rs/freedom) — `2009-09-17-freedom.md` — 558w
+- 2009-09-16 — [Write? Write. Sleep? Sleep. Read? Read. Don’t fight it.](https://sive.rs/dont-fight-it) — `2009-09-16-dont-fight-it.md` — 304w
+- 2009-09-12 — [Imagining lots of tedious steps? Or one fun step?](https://sive.rs/steps) — `2009-09-12-steps.md` — 248w
+- 2009-09-11 — [Does it help to be desperate? Part 2](https://sive.rs/desperate2) — `2009-09-11-desperate2.md` — 576w
+- 2009-09-10 — [Does it help to be desperate?](https://sive.rs/desperate) — `2009-09-10-desperate.md` — 595w
+- 2009-09-06 — [Climbing ladders](https://sive.rs/ladders) — `2009-09-06-ladders.md` — 194w
+- 2009-09-01 — [Kurt Vonnegut explains drama](https://sive.rs/drama) — `2009-09-01-drama.md` — 464w
 - 2009-08-31 — [How to send personalized emails](https://sive.rs/emailer) — `2009-08-31-emailer.md` — 217w
+- 2009-08-30 — [Sprezzatura](https://sive.rs/sprezzatura) — `2009-08-30-sprezzatura.md` — 446w
+- 2009-08-28 — [Musician’s own website as definitive source of all info](https://sive.rs/mhost) — `2009-08-28-mhost.md` — 549w
+- 2009-08-22 — [The Talent Code - by Daniel Coyle](https://sive.rs/book/TalentCode) — `2009-08-22-book-TalentCode.md` — 2328w
+- 2009-08-15 — [Influence - by Robert Cialdini](https://sive.rs/book/Influence) — `2009-08-15-book-Influence.md` — 2446w
+- 2009-07-26 — [Rapt - by Winifred Gallagher](https://sive.rs/book/Rapt) — `2009-07-26-book-Rapt.md` — 1039w
+- 2009-07-26 — [Never Eat Alone - by Keith Ferrazzi and Tahl Raz](https://sive.rs/book/NeverEatAlone) — `2009-07-26-book-NeverEatAlone.md` — 4266w
+- 2009-07-26 — [A computer that would require kids to be creative to use it](https://sive.rs/kidspc) — `2009-07-26-kidspc.md` — 320w
+- 2009-07-16 — [I miss the mob](https://sive.rs/the-mob) — `2009-07-16-the-mob.md` — 265w
+- 2009-07-14 — [Listen to my music, and let me know what I should do](https://sive.rs/letmeknow2) — `2009-07-14-letmeknow2.md` — 337w
+- 2009-07-11 — [Tom Williams, hired by Apple at 14](https://sive.rs/tom-williams) — `2009-07-11-tom-williams.md` — 5267w
+- 2009-07-11 — [Barking](https://sive.rs/barking) — `2009-07-11-barking.md` — 218w
+- 2009-07-10 — [The power of no reward](https://sive.rs/no-reward) — `2009-07-10-no-reward.md` — 477w
+- 2009-07-07 — [The mirror: It’s about you, not them.](https://sive.rs/you-not-them) — `2009-07-07-you-not-them.md` — 315w
+- 2009-07-04 — [Overachievement - by John Eliot](https://sive.rs/book/Overachievement) — `2009-07-04-book-Overachievement.md` — 2674w
+- 2009-07-01 — [Semi-experts: profit by saving us time](https://sive.rs/semi-expert) — `2009-07-01-semi-expert.md` — 448w
+- 2009-06-29 — [Nothing to waste: The advantage of being under-funded](https://sive.rs/novc) — `2009-06-29-novc.md` — 290w
+- 2009-06-28 — [Version 0.1 = Start lo-fi](https://sive.rs/lofi) — `2009-06-28-lofi.md` — 164w
+- 2009-06-28 — [Ignore Everybody - by Hugh MacLeod](https://sive.rs/book/IgnoreEverybody) — `2009-06-28-book-IgnoreEverybody.md` — 1886w
+- 2009-06-26 — [Early drafts of great work are encouraging](https://sive.rs/early) — `2009-06-26-early.md` — 261w
+- 2009-06-24 — [Doing the opposite of everyone is valuable](https://sive.rs/contrarian) — `2009-06-24-contrarian.md` — 296w
+- 2009-06-22 — [Japanese addresses: No street names. Block numbers.](https://sive.rs/jadr) — `2009-06-22-jadr.md` — 329w
+- 2009-06-21 — [Customers given too many choices are 10x less likely to buy](https://sive.rs/jam) — `2009-06-21-jam.md` — 380w
+- 2009-06-21 — [Born to Run - by Christopher McDougall](https://sive.rs/book/BornToRun) — `2009-06-21-book-BornToRun.md` — 1047w
+- 2009-06-20 — [Radical Honesty - by Brad Blanton](https://sive.rs/book/RadicalHonesty) — `2009-06-20-book-RadicalHonesty.md` — 1088w
+- 2009-06-16 — [Announcing your plans makes you less motivated to accomplish them](https://sive.rs/zipit) — `2009-06-16-zipit.md` — 332w
+- 2009-06-15 — [That’s version infinity. First launch version 0.1.](https://sive.rs/infinity) — `2009-06-15-infinity.md` — 400w
+- 2009-06-11 — [Show success before asking for help](https://sive.rs/success-first) — `2009-06-11-success-first.md` — 281w
+- 2009-06-10 — [Why you need your own company](https://sive.rs/laboratory) — `2009-06-10-laboratory.md` — 126w
+- 2009-06-09 — [MusicThoughts update : inspiring quotes for music-makers](https://sive.rs/musicthoughts2) — `2009-06-09-musicthoughts2.md` — 273w
+- 2009-06-06 — [The Great Formula - by Mark Joyner](https://sive.rs/book/GreatFormula) — `2009-06-06-book-GreatFormula.md` — 1589w
+- 2009-06-06 — [How to make a movement. Lessons learned from dancing guy.](https://sive.rs/dance-lessons) — `2009-06-06-dance-lessons.md` — 467w
+- 2009-06-05 — [You have enough.](https://sive.rs/enough) — `2009-06-05-enough.md` — 144w
+- 2009-06-05 — [Are you present-focused or future-focused?](https://sive.rs/time) — `2009-06-05-time.md` — 470w
+- 2009-06-03 — [Some people like to pay. Let them](https://sive.rs/ppay) — `2009-06-03-ppay.md` — 150w
+- 2009-06-02 — [China Road - by Rob Gifford](https://sive.rs/book/ChinaRoad) — `2009-06-02-book-ChinaRoad.md` — 280w
+- 2009-06-02 — [Are fans telling friends? If not, don’t promote](https://sive.rs/purplecow) — `2009-06-02-purplecow.md` — 157w
+- 2009-06-01 — [The security of no security](https://sive.rs/no9to5) — `2009-06-01-no9to5.md` — 182w
+- 2009-06-01 — [The How of Happiness - by Sonja Lyubomirsky](https://sive.rs/book/HowOfHappiness) — `2009-06-01-book-HowOfHappiness.md` — 3795w
+- 2009-05-29 — [What super-power do you want?](https://sive.rs/super-power) — `2009-05-29-super-power.md` — 234w
+- 2009-05-28 — [You need to be profitable to last](https://sive.rs/sustainable) — `2009-05-28-sustainable.md` — 209w
+- 2009-05-27 — [My $3.3M mistake](https://sive.rs/mistake) — `2009-05-27-mistake.md` — 517w
+- 2009-05-26 — [Have you looked under the chickens?](https://sive.rs/chickens) — `2009-05-26-chickens.md` — 164w
+- 2009-05-22 — [Character predicts your future](https://sive.rs/character) — `2009-05-22-character.md` — 198w
+- 2009-05-21 — [Sammy Cahn said thank you](https://sive.rs/sammy-cahn) — `2009-05-21-sammy-cahn.md` — 968w
+- 2009-05-21 — [Goals shape the present, not the future.](https://sive.rs/goals) — `2009-05-21-goals.md` — 311w
+- 2009-05-12 — [The Think Big Manifesto - by Michael Port and Mina Samuels](https://sive.rs/book/ThinkBigManifesto) — `2009-05-12-book-ThinkBigManifesto.md` — 216w
+- 2009-04-23 — [The China Study - by Campbell and Campbell](https://sive.rs/book/ChinaStudy) — `2009-04-23-book-ChinaStudy.md` — 3008w
+- 2009-04-23 — [Outliers: The Story of Success - by Malcolm Gladwell](https://sive.rs/book/Outliers) — `2009-04-23-book-Outliers.md` — 2027w
+- 2009-04-23 — [Lucky Or Smart? - by Bo Peabody](https://sive.rs/book/LuckyOrSmart) — `2009-04-23-book-LuckyOrSmart.md` — 982w
+- 2009-04-23 — [How to be a Billionaire - by Martin Fridson](https://sive.rs/book/HowToBeABillionaire) — `2009-04-23-book-HowToBeABillionaire.md` — 4070w
+- 2009-04-23 — [Enough - by John Bogle](https://sive.rs/book/Enough) — `2009-04-23-book-Enough.md` — 1436w
+- 2009-04-14 — [Management of the Absurd - by Richard Farson](https://sive.rs/book/ManagementOfTheAbsurd) — `2009-04-14-book-ManagementOfTheAbsurd.md` — 3064w
+- 2009-04-03 — [The Time Paradox - by Philip Zimbardo and John Boyd](https://sive.rs/book/TimeParadox) — `2009-04-03-book-TimeParadox.md` — 4759w
+- 2009-03-08 — [Reality Check - by Guy Kawasaki](https://sive.rs/book/RealityCheck) — `2009-03-08-book-RealityCheck.md` — 299w
+- 2009-03-07 — [Aimee Mullins](https://sive.rs/aimee-mullins) — `2009-03-07-aimee-mullins.md` — 224w
+- 2009-03-05 — [What Would Google Do? - by Jeff Jarvis](https://sive.rs/book/WhatWouldGoogleDo) — `2009-03-05-book-WhatWouldGoogleDo.md` — 2478w
+- 2009-02-28 — [My favorite fable](https://sive.rs/horses) — `2009-02-28-horses.md` — 146w
+- 2009-02-27 — [What do you do for feedback on a new song you’re writing?](https://sive.rs/songfeedback) — `2009-02-27-songfeedback.md` — 188w
+- 2009-02-26 — [Ideas to Reality](https://sive.rs/ideas2) — `2009-02-26-ideas2.md` — 284w
+- 2009-02-19 — [A free, open song contest idea](https://sive.rs/songtesti) — `2009-02-19-songtesti.md` — 373w
+- 2009-01-24 — [MusicThoughts.com](https://sive.rs/see-musicthoughts) — `2009-01-24-see-musicthoughts.md` — 168w
+- 2009-01-21 — [The Power of Less - by Leo Babauta](https://sive.rs/book/PowerOfLess) — `2009-01-21-book-PowerOfLess.md` — 1325w
+- 2009-01-11 — [Amber Rubarth on being a full-time touring musician](https://sive.rs/amber-rubarth) — `2009-01-11-amber-rubarth.md` — 2788w
+- 2009-01-10 — [Advice for a 19-year-old guitarist who wants to be a session musician.](https://sive.rs/session-musician) — `2009-01-10-session-musician.md` — 483w
+- 2009-01-08 — [Complainers](https://sive.rs/complainers) — `2009-01-08-complainers.md` — 143w
+- 2008-12-27 — [Personal Development for Smart People - by Steve Pavlina](https://sive.rs/book/PersonalDevelopmentForSmartPeople) — `2008-12-27-book-PersonalDevelopmentForSmartPeople.md` — 8806w
+- 2008-12-22 — [Getting past it](https://sive.rs/pastit) — `2008-12-22-pastit.md` — 302w
+- 2008-12-18 — [Assume nobody is going to help you](https://sive.rs/up2you) — `2008-12-18-up2you.md` — 202w
+- 2008-12-13 — [Happiness is letting someone make you the villain](https://sive.rs/villain) — `2008-12-13-villain.md` — 219w
+- 2008-12-12 — [How to attend a conference](https://sive.rs/conferences) — `2008-12-12-conferences.md` — 769w
+- 2008-11-22 — [Make mystery : make people wonder](https://sive.rs/mystery) — `2008-11-22-mystery.md` — 278w
+- 2008-11-17 — [Tribes - by Seth Godin](https://sive.rs/book/Tribes) — `2008-11-17-book-Tribes.md` — 3026w
+- 2008-11-01 — [The Culture Code - by Clotaire Rapaille](https://sive.rs/book/CultureCode) — `2008-11-01-book-CultureCode.md` — 4265w
+- 2008-10-23 — [This is just one of many options](https://sive.rs/more-than-one) — `2008-10-23-more-than-one.md` — 397w
+- 2008-10-21 — [Are foreign accents a reflection of identity?](https://sive.rs/accents) — `2008-10-21-accents.md` — 340w
+- 2008-10-17 — [Nobody knows the future, so focus on what doesn’t change](https://sive.rs/no-oracle) — `2008-10-17-no-oracle.md` — 256w
+- 2008-10-16 — [The Grand Pursuit](https://sive.rs/grand-pursuit) — `2008-10-16-grand-pursuit.md` — 139w
+- 2008-10-15 — [Uncomparable: anchor a new mama](https://sive.rs/uncomparable) — `2008-10-15-uncomparable.md` — 456w
+- 2008-09-30 — [Speaking of India - by Craig Sorti](https://sive.rs/book/SpeakingOfIndia) — `2008-09-30-book-SpeakingOfIndia.md` — 1500w
+- 2008-09-13 — [Are you at the starting line or the finish line?](https://sive.rs/lines) — `2008-09-13-lines.md` — 230w
+- 2008-09-12 — [How to Talk to Anyone - by Leil Lowndes](https://sive.rs/book/HowToTalkToAnyone) — `2008-09-12-book-HowToTalkToAnyone.md` — 8725w
+- 2008-09-11 — [Mastering entrepreneurship?](https://sive.rs/mentre) — `2008-09-11-mentre.md` — 275w
+- 2008-09-10 — [Small actions change your self-identity](https://sive.rs/actid) — `2008-09-10-actid.md` — 156w
+- 2008-09-09 — [Iceland](https://sive.rs/iceland) — `2008-09-09-iceland.md` — 1110w
 - 2008-09-05 — [6 things I wish I knew the day I started Berklee](https://sive.rs/berklee) — `2008-09-05-berklee.md` — 1338w
+- 2008-08-27 — [CrowdSourcing - by Jeff Howe](https://sive.rs/book/Crowdsourcing) — `2008-08-27-book-Crowdsourcing.md` — 2757w
+- 2008-08-26 — [Brain Rules - by John Medina](https://sive.rs/book/BrainRules) — `2008-08-26-book-BrainRules.md` — 2937w
+- 2008-08-14 — [I interview Tim Ferriss about the 4-Hour Workweek](https://sive.rs/tim-ferriss) — `2008-08-14-tim-ferriss.md` — 8770w
+- 2008-08-13 — [Reversible business models](https://sive.rs/reversible) — `2008-08-13-reversible.md` — 398w
+- 2008-08-11 — [Predictably Irrational - by Dan Ariely](https://sive.rs/book/PredictablyIrrational) — `2008-08-11-book-PredictablyIrrational.md` — 2938w
+- 2008-08-11 — [Hot Commodities - by Jim Rogers](https://sive.rs/book/HotCommodities) — `2008-08-11-book-HotCommodities.md` — 421w
+- 2008-08-06 — [A Bull in China - by Jim Rogers](https://sive.rs/book/BullInChina) — `2008-08-06-book-BullInChina.md` — 805w
+- 2008-08-04 — [Bye-Bye, Baby!](https://sive.rs/bye-bye-baby) — `2008-08-04-bye-bye-baby.md` — 201w
+- 2008-07-26 — [You, Inc - The Art of Selling Yourself - by Harry Beckwith](https://sive.rs/book/YouInc) — `2008-07-26-book-YouInc.md` — 1092w
+- 2008-07-26 — [The Magic of Thinking Big - by David Schwartz](https://sive.rs/book/MagicOfThinkingBig) — `2008-07-26-book-MagicOfThinkingBig.md` — 1078w
+- 2008-07-26 — [Cut to the Chase - by Stuart Levine](https://sive.rs/book/CutToTheChase) — `2008-07-26-book-CutToTheChase.md` — 976w
+- 2008-07-13 — [Ah, to own nothing!](https://sive.rs/own-nothing) — `2008-07-13-own-nothing.md` — 147w
+- 2008-07-09 — [Songwriters who don’t perform](https://sive.rs/songwriters-only) — `2008-07-09-songwriters-only.md` — 506w
+- 2008-06-18 — [How to Get Rich - by Felix Dennis](https://sive.rs/book/HowToGetRich) — `2008-06-18-book-HowToGetRich.md` — 6390w
+- 2008-06-12 — [The Ultimate Sales Machine - by Chet Holmes](https://sive.rs/book/UltimateSalesMachine) — `2008-06-12-book-UltimateSalesMachine.md` — 3086w
+- 2008-06-09 — [A Musician’s Advice About the College Market](https://sive.rs/college) — `2008-06-09-college.md` — 1415w
+- 2008-06-07 — [The Four Pillars of Investing - by William Bernstein](https://sive.rs/book/FourPillarsOfInvesting) — `2008-06-07-book-FourPillarsOfInvesting.md` — 3956w
+- 2008-06-01 — [Richard Branson - by Losing My Virginity](https://sive.rs/book/RichardBranson) — `2008-06-01-book-RichardBranson.md` — 1664w
+- 2008-05-30 — [The Art of Learning - by Josh Waitzkin](https://sive.rs/book/ArtOfLearning) — `2008-05-30-book-ArtOfLearning.md` — 1295w
 - 2008-05-17 — [How was India?](https://sive.rs/how-was-india) — `2008-05-17-how-was-india.md` — 747w
+- 2008-05-17 — [Don’t promote until people can take action](https://sive.rs/buyable) — `2008-05-17-buyable.md` — 169w
+- 2008-05-15 — [The 4-Hour Work Week - by Tim Ferriss](https://sive.rs/book/4HourWorkWeek) — `2008-05-15-book-4HourWorkWeek.md` — 4067w
+- 2008-05-08 — [two three four ONE, two three four ONE](https://sive.rs/fela) — `2008-05-08-fela.md` — 200w
+- 2008-05-07 — [Aim for the edges](https://sive.rs/no-bullseye) — `2008-05-07-no-bullseye.md` — 302w
+- 2008-04-29 — [Restrictions will set you free](https://sive.rs/restr) — `2008-04-29-restr.md` — 126w
+- 2008-04-24 — [If I had a record label, would you be signed to it?](https://sive.rs/label-list) — `2008-04-24-label-list.md` — 260w
+- 2008-04-23 — [Wikinomics - by Don Tapscott and Anthony Williams](https://sive.rs/book/Wikinomics) — `2008-04-23-book-Wikinomics.md` — 2599w
+- 2008-04-16 — [The Wisdom of Crowds - by James Surowiecki](https://sive.rs/book/WisdomOfCrowds) — `2008-04-16-book-WisdomOfCrowds.md` — 3830w
+- 2008-04-16 — [Circle of influence — Circle of concern](https://sive.rs/circles) — `2008-04-16-circles.md` — 250w
+- 2008-04-15 — [Piracy is not the problem](https://sive.rs/pigs-sharks) — `2008-04-15-pigs-sharks.md` — 184w
+- 2008-04-07 — [What should I do when someone says, “Let me know what you think!” of their music?](https://sive.rs/letmeknow) — `2008-04-07-letmeknow.md` — 232w
+- 2008-04-06 — [Never have a limit on your income](https://sive.rs/nolimit) — `2008-04-06-nolimit.md` — 176w
+- 2008-04-06 — [Here Comes Everybody - by Clay Shirky](https://sive.rs/book/HereComesEverybody) — `2008-04-06-book-HereComesEverybody.md` — 3784w
+- 2008-04-05 — [Fooled by Randomness - by Nassim Nicholas Taleb](https://sive.rs/book/FooledByRandomness) — `2008-04-05-book-FooledByRandomness.md` — 2706w
+- 2008-03-26 — [Whatever scares you, go do it](https://sive.rs/scares) — `2008-03-26-scares.md` — 217w
+- 2008-03-24 — [Happy 10th Birthday to CD Baby — and an announcement](https://sive.rs/bilbo) — `2008-03-24-bilbo.md` — 334w
+- 2008-03-11 — [The strength of many little customers](https://sive.rs/blc) — `2008-03-11-blc.md` — 291w
+- 2008-02-12 — [Founders at Work - by Jessica Livingston](https://sive.rs/book/FoundersAtWork) — `2008-02-12-book-FoundersAtWork.md` — 386w
+- 2008-02-08 — [The Culting of Brands - by Douglas Atkin](https://sive.rs/book/CultingOfBrands) — `2008-02-08-book-CultingOfBrands.md` — 1291w
+- 2007-12-30 — [Meatball Sundae - by Seth Godin](https://sive.rs/book/MeatballSundae) — `2007-12-30-book-MeatballSundae.md` — 1447w
+- 2007-10-01 — [The Obsolete Employee - by Michael Russer](https://sive.rs/book/ObsoleteEmployee) — `2007-10-01-book-ObsoleteEmployee.md` — 1191w
+- 2007-09-25 — [The public you is not you](https://sive.rs/publicu) — `2007-09-25-publicu.md` — 349w
+- 2007-09-23 — [7 reasons I switched back to PHP after 2 years on Rails](https://sive.rs/rails2php) — `2007-09-23-rails2php.md` — 1001w
+- 2007-08-08 — [Don’t Make Me Think - by Steve Krug](https://sive.rs/book/DontMakeMeThink) — `2007-08-08-book-DontMakeMeThink.md` — 431w
+- 2007-07-11 — [The Paradox of Choice - Why More is Less - by Barry Schwartz](https://sive.rs/book/ParadoxOfChoice) — `2007-07-11-book-ParadoxOfChoice.md` — 3767w
+- 2007-07-11 — [Stumbling on Happiness - by Daniel Gilbert](https://sive.rs/book/StumblingOnHappiness) — `2007-07-11-book-StumblingOnHappiness.md` — 3718w
+- 2007-06-12 — [Secrets of the Millionaire Mind - by T. Harv Ecker](https://sive.rs/book/MillionaireMind) — `2007-06-12-book-MillionaireMind.md` — 2551w
+- 2007-03-12 — [Made to Stick - by Chip Heath and Dan Heath](https://sive.rs/book/MadeToStick) — `2007-03-12-book-MadeToStick.md` — 1589w
+- 2007-02-12 — [Know-How - by Ram Charan with Geri Willigan](https://sive.rs/book/KnowHow) — `2007-02-12-book-KnowHow.md` — 4127w
+- 2007-02-12 — [Execution - by Larry Bossidy and Ram Charan](https://sive.rs/book/Execution) — `2007-02-12-book-Execution.md` — 4977w
+- 2006-11-19 — [The Art of Project Management - by Scott Berkun](https://sive.rs/book/ProjectManagement) — `2006-11-19-book-ProjectManagement.md` — 1396w
+- 2006-11-12 — [Maximum Achievement - by Brian Tracy](https://sive.rs/book/MaximumAchievement) — `2006-11-12-book-MaximumAchievement.md` — 4655w
+- 2006-09-08 — [Small is the New Big - by Seth Godin](https://sive.rs/book/SmallIsTheNewBig) — `2006-09-08-book-SmallIsTheNewBig.md` — 4592w
+- 2005-12-02 — [The Art of Profitability - by Adrian Slywotzky](https://sive.rs/book/ArtOfProfitability) — `2005-12-02-book-ArtOfProfitability.md` — 4450w
+- 2004-02-26 — [E-Myth Revisited - by Michael Gerber](https://sive.rs/book/EMythRevisited) — `2004-02-26-book-EMythRevisited.md` — 3597w
+- 2003-05-06 — [The 48 Laws of Power - by Robert Greene and Joost Elffers](https://sive.rs/book/48LawsOfPower) — `2003-05-06-book-48LawsOfPower.md` — 3257w
+- 2000-09-10 — [Compass in your gut](https://sive.rs/compass) — `2000-09-10-compass.md` — 299w
+- 2000-09-07 — [Ignore advice that drains you](https://sive.rs/drain) — `2000-09-07-drain.md` — 246w
+- 2000-08-30 — [You don’t get extreme results without extreme actions](https://sive.rs/extremex) — `2000-08-30-extremex.md` — 146w
+- 2000-08-27 — [Be a competent novice, not an expert](https://sive.rs/novicex) — `2000-08-27-novicex.md` — 170w
+- 2000-08-23 — [Have someone work the inside of the industry](https://sive.rs/insidr) — `2000-08-23-insidr.md` — 195w
+- 2000-08-20 — [Assume the basic sale, and go for quantity](https://sive.rs/quantity) — `2000-08-20-quantity.md` — 375w
+- 2000-08-13 — [Get rejected, get filtered](https://sive.rs/gofilt) — `2000-08-13-gofilt.md` — 251w
+- 2000-08-10 — [Photos of your audience on your website](https://sive.rs/phoaud) — `2000-08-10-phoaud.md` — 269w
+- 2000-08-04 — [Put your fans to work](https://sive.rs/fanwork) — `2000-08-04-fanwork.md` — 224w
+- 2000-08-01 — [Call the destination, and ask for directions](https://sive.rs/destdir) — `2000-08-01-destdir.md` — 205w
+- 2000-07-13 — [Your interactive website](https://sive.rs/intrweb) — `2000-07-13-intrweb.md` — 172w
+- 2000-07-10 — [Promo bits, ready to copy](https://sive.rs/promobox) — `2000-07-10-promobox.md` — 232w
+- 2000-07-01 — [Describe your music like a non-musician](https://sive.rs/nomu) — `2000-07-01-nomu.md` — 178w
+- 2000-06-25 — [Without a good reason, they won’t bother](https://sive.rs/whycare) — `2000-06-25-whycare.md` — 166w
+- 2000-06-23 — [Hillbilly Flamenco](https://sive.rs/hillbf) — `2000-06-23-hillbf.md` — 337w
+- 2000-06-20 — [Don’t know how to describe your music?](https://sive.rs/dym) — `2000-06-20-dym.md` — 134w
+- 2000-06-17 — [Make people curious in one sentence](https://sive.rs/shrtd) — `2000-06-17-shrtd.md` — 175w
+- 2000-06-13 — [When your music can’t speak for itself](https://sive.rs/wordsm) — `2000-06-13-wordsm.md` — 156w
+- 2000-06-04 — [Shining example: Rayko](https://sive.rs/rayko) — `2000-06-04-rayko.md` — 337w
+- 2000-06-01 — [Life is like high school](https://sive.rs/hs) — `2000-06-01-hs.md` — 262w
+- 2000-05-30 — [Small gifts go a long way](https://sive.rs/smgf) — `2000-05-30-smgf.md` — 189w
+- 2000-05-27 — [Don’t be afraid to ask for favors](https://sive.rs/favors) — `2000-05-27-favors.md` — 184w
+- 2000-05-21 — [Always think how you can help someone](https://sive.rs/hych) — `2000-05-21-hych.md` — 129w
+- 2000-05-18 — [Meet three new people every week](https://sive.rs/ppweek) — `2000-05-18-ppweek.md` — 229w
+- 2000-05-10 — [Stay in touch with hundreds of people](https://sive.rs/hundreds) — `2000-05-10-hundreds.md` — 218w
+- 2000-05-07 — [Persistence is polite](https://sive.rs/persistence) — `2000-05-07-persistence.md` — 160w
+- 2000-05-01 — [Every breakthrough comes from someone you know](https://sive.rs/syk) — `2000-05-01-syk.md` — 150w
+- 2000-04-20 — [Captain T](https://sive.rs/capt) — `2000-04-20-capt.md` — 491w
+- 2000-04-17 — [Business is creative](https://sive.rs/bizriff) — `2000-04-17-bizriff.md` — 166w
+- 2000-04-14 — [This is only a test. See what happens](https://sive.rs/tvtest) — `2000-04-14-tvtest.md` — 172w
+- 2000-04-10 — [Direct it yourself](https://sive.rs/diy) — `2000-04-10-diy.md` — 168w
+- 2000-04-07 — [Was 10%, now 90%](https://sive.rs/1090) — `2000-04-07-1090.md` — 171w
+- 2000-04-04 — [A good plan wins no matter what happens](https://sive.rs/gbp) — `2000-04-04-gbp.md` — 139w
+- 2000-04-01 — [Test marketing](https://sive.rs/testm) — `2000-04-01-testm.md` — 201w
+- 2000-03-20 — [Well-rounded doesn’t cut](https://sive.rs/rounded) — `2000-03-20-rounded.md` — 299w
+- 2000-02-27 — [Don’t try to sound big](https://sive.rs/ncorp) — `2000-02-27-ncorp.md` — 159w
+- 2000-02-17 — [People search harder for the obscure](https://sive.rs/prgrk) — `2000-02-17-prgrk.md` — 191w
+- 2000-02-12 — [If you target sharp enough, you will own your niche](https://sive.rs/trshr) — `2000-02-12-trshr.md` — 204w
+- 2000-02-02 — [Proudly exclude most people](https://sive.rs/exclude) — `2000-02-02-exclude.md` — 211w
+- 2000-01-30 — [A curious answer to the most common question](https://sive.rs/wysl) — `2000-01-30-wysl.md` — 250w
+- 2000-01-04 — [How to get through the gates?](https://sive.rs/solicited) — `2000-01-04-solicited.md` — 256w
+- 2000-01-02 — [It’s just people inside the machine!](https://sive.rs/people1) — `2000-01-02-people1.md` — 303w
 - 2000-01-01 — [What’s inside this book](https://sive.rs/m1) — `2000-01-01-m1.md` — 313w
+- 2000-01-01 — [Some quick context for these stories](https://sive.rs/m2) — `2000-01-01-m2.md` — 279w

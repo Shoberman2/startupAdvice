@@ -1,7 +1,7 @@
 # Jeff Atwood corpus index
 
-Source: https://blog.codinghorror.com — fetched 2026-07-19
-99 posts, 105276 words. Format: date — [title](canonical url) — `file` — words.
+Source: https://blog.codinghorror.com — fetched 2026-07-20
+988 posts, 734556 words. Format: date — [title](canonical url) — `file` — words.
 
 - 2026-06-22 — [Every Choice Changes Everything: The Show](https://blog.codinghorror.com/every-choice-changes-everything-the-show/) — `2026-06-22-every-choice-changes-everything-the-show.md` — 1296w
 - 2026-04-20 — [Thank You For Being a Friend](https://blog.codinghorror.com/thank-you-for-being-a-friend/) — `2026-04-20-thank-you-for-being-a-friend.md` — 449w
@@ -11,15 +11,22 @@ Source: https://blog.codinghorror.com — fetched 2026-07-19
 - 2023-11-30 — [I Fight For The Users](https://blog.codinghorror.com/i-fight-for-the-users/) — `2023-11-30-i-fight-for-the-users.md` — 1002w
 - 2022-03-04 — [The 2030 Self](https://blog.codinghorror.com/the-2030-self-driving-car-bet/) — `2022-03-04-the-2030-self-driving-car-bet.md` — 419w
 - 2019-09-12 — [The Rise of the Electric Scooter](https://blog.codinghorror.com/the-rise-of-the-electric-scooter/) — `2019-09-12-the-rise-of-the-electric-scooter.md` — 1679w
+- 2019-08-20 — [Electric Geek Transportation Systems](https://blog.codinghorror.com/electric-geek-transportation-systems/) — `2019-08-20-electric-geek-transportation-systems.md` — 1632w
 - 2019-05-30 — [An Exercise Program for the Fat Web](https://blog.codinghorror.com/an-exercise-program-for-the-fat-web/) — `2019-05-30-an-exercise-program-for-the-fat-web.md` — 1311w
+- 2019-02-17 — [The Cloud Is Just Someone Else’s Computer](https://blog.codinghorror.com/the-cloud-is-just-someone-elses-computer/) — `2019-02-17-the-cloud-is-just-someone-elses-computer.md` — 1064w
 - 2018-10-22 — [What does Stack Overflow want to be when it grows up?](https://blog.codinghorror.com/what-does-stack-overflow-want-to-be-when-it-grows-up/) — `2018-10-22-what-does-stack-overflow-want-to-be-when-it-grows-up.md` — 3347w
+- 2018-09-21 — [There is no longer any such thing as Computer Security](https://blog.codinghorror.com/there-is-no-longer-any-such-thing-as-computer-security/) — `2018-09-21-there-is-no-longer-any-such-thing-as-computer-security.md` — 1723w
+- 2017-12-31 — [To Serve Man, with Software](https://blog.codinghorror.com/to-serve-man-with-software/) — `2017-12-31-to-serve-man-with-software.md` — 1256w
+- 2017-11-05 — [The Existential Terror of Battle Royale](https://blog.codinghorror.com/the-existential-terror-of-battle-royale/) — `2017-11-05-the-existential-terror-of-battle-royale.md` — 1349w
 - 2017-03-24 — [Thunderbolting Your Video Card](https://blog.codinghorror.com/thunderbolting-your-video-card/) — `2017-03-24-thunderbolting-your-video-card.md` — 1705w
 - 2017-03-10 — [Password Rules Are Bullshit](https://blog.codinghorror.com/password-rules-are-bullshit/) — `2017-03-10-password-rules-are-bullshit.md` — 1550w
+- 2016-08-25 — [Can Software Make You Less Racist?](https://blog.codinghorror.com/can-software-make-you-less-racist/) — `2016-08-25-can-software-make-you-less-racist.md` — 1070w
 - 2016-04-29 — [They Have To Be Monsters](https://blog.codinghorror.com/they-have-to-be-monsters/) — `2016-04-29-they-have-to-be-monsters.md` — 2188w
 - 2016-03-04 — [We Hire the Best, Just Like Everyone Else](https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/) — `2016-03-04-we-hire-the-best-just-like-everyone-else.md` — 2349w
 - 2015-12-04 — [The Hugging Will Continue Until Morale Improves](https://blog.codinghorror.com/the-hugging-will-continue-until-morale-improves/) — `2015-12-04-the-hugging-will-continue-until-morale-improves.md` — 1728w
 - 2015-11-19 — [To ECC or Not To ECC](https://blog.codinghorror.com/to-ecc-or-not-to-ecc/) — `2015-11-19-to-ecc-or-not-to-ecc.md` — 2221w
 - 2015-08-08 — [Welcome to The Internet of Compromised Things](https://blog.codinghorror.com/welcome-to-the-internet-of-compromised-things/) — `2015-08-08-welcome-to-the-internet-of-compromised-things.md` — 1848w
+- 2015-08-05 — [I Tried VR and It Was Just OK](https://blog.codinghorror.com/i-tried-vr-and-it-was-just-ok/) — `2015-08-05-i-tried-vr-and-it-was-just-ok.md` — 2561w
 - 2015-07-30 — [Doing Terrible Things To Your Code](https://blog.codinghorror.com/doing-terrible-things-to-your-code/) — `2015-07-30-doing-terrible-things-to-your-code.md` — 1060w
 - 2014-12-15 — [The Evolution of eInk](https://blog.codinghorror.com/the-evolution-of-eink/) — `2014-12-15-the-evolution-of-eink.md` — 1055w
 - 2014-04-25 — [What Can Men Do?](https://blog.codinghorror.com/what-can-men-do/) — `2014-04-25-what-can-men-do.md` — 1859w
@@ -29,76 +36,958 @@ Source: https://blog.codinghorror.com — fetched 2026-07-19
 - 2014-02-24 — [App](https://blog.codinghorror.com/app-pocalypse-now/) — `2014-02-24-app-pocalypse-now.md` — 1719w
 - 2013-10-14 — [Updating Your Utility Belt](https://blog.codinghorror.com/updating-your-utility-belt/) — `2013-10-14-updating-your-utility-belt.md` — 746w
 - 2013-07-18 — [The Rule of Three](https://blog.codinghorror.com/rule-of-three/) — `2013-07-18-rule-of-three.md` — 1338w
+- 2012-12-13 — [Web Discussions: Flat by Design](https://blog.codinghorror.com/web-discussions-flat-by-design/) — `2012-12-13-web-discussions-flat-by-design.md` — 1542w
 - 2012-12-01 — [The Organism Will Do Whatever It Damn Well Pleases](https://blog.codinghorror.com/the-organism-will-do-what-it-damn-well-pleases/) — `2012-12-01-the-organism-will-do-what-it-damn-well-pleases.md` — 1376w
 - 2012-11-26 — [For a Bit of Colored Ribbon](https://blog.codinghorror.com/for-a-bit-of-colored-ribbon/) — `2012-11-26-for-a-bit-of-colored-ribbon.md` — 727w
+- 2012-09-26 — [Somebody is to Blame for This](https://blog.codinghorror.com/somebody-is-to-blame-for-this/) — `2012-09-26-somebody-is-to-blame-for-this.md` — 1694w
 - 2012-09-12 — [Computer Crime, Then and Now](https://blog.codinghorror.com/computer-crime-then-and-now/) — `2012-09-12-computer-crime-then-and-now.md` — 1758w
 - 2012-06-21 — [The Great MP3 Bitrate Experiment](https://blog.codinghorror.com/the-great-mp3-bitrate-experiment/) — `2012-06-21-the-great-mp3-bitrate-experiment.md` — 1397w
 - 2012-06-14 — [How to Talk to Human Beings](https://blog.codinghorror.com/how-to-talk-to-human-beings/) — `2012-06-14-how-to-talk-to-human-beings.md` — 1154w
 - 2012-05-31 — [How to Stop Sucking and Be Awesome Instead](https://blog.codinghorror.com/how-to-stop-sucking-and-be-awesome-instead/) — `2012-05-31-how-to-stop-sucking-and-be-awesome-instead.md` — 551w
 - 2012-05-15 — [Please Don’t Learn to Code](https://blog.codinghorror.com/please-dont-learn-to-code/) — `2012-05-15-please-dont-learn-to-code.md` — 907w
 - 2012-04-17 — [Make Your Email Hacker Proof](https://blog.codinghorror.com/make-your-email-hacker-proof/) — `2012-04-17-make-your-email-hacker-proof.md` — 1227w
+- 2012-03-05 — [How to Hire a Programmer](https://blog.codinghorror.com/how-to-hire-a-programmer/) — `2012-03-05-how-to-hire-a-programmer.md` — 1560w
 - 2012-02-06 — [Farewell Stack Exchange](https://blog.codinghorror.com/farewell-stack-exchange/) — `2012-02-06-farewell-stack-exchange.md` — 1085w
 - 2012-01-18 — [Defeating SOPA and PIPA Isn’t Enough](https://blog.codinghorror.com/defeating-sopa-and-pipa-isnt-enough/) — `2012-01-18-defeating-sopa-and-pipa-isnt-enough.md` — 1013w
 - 2011-10-24 — [On Parenthood](https://blog.codinghorror.com/on-parenthood/) — `2011-10-24-on-parenthood.md` — 1282w
 - 2011-10-15 — [Serving at the Pleasure of the King](https://blog.codinghorror.com/serving-at-the-pleasure-of-the-king/) — `2011-10-15-serving-at-the-pleasure-of-the-king.md` — 1066w
 - 2011-10-12 — [The Gamification](https://blog.codinghorror.com/the-gamification/) — `2011-10-12-the-gamification.md` — 1364w
 - 2011-05-23 — [The Infinite Version](https://blog.codinghorror.com/the-infinite-version/) — `2011-05-23-the-infinite-version.md` — 1036w
+- 2011-05-04 — [Who Needs a Sound Card, Anyway?](https://blog.codinghorror.com/who-needs-a-sound-card-anyway/) — `2011-05-04-who-needs-a-sound-card-anyway.md` — 925w
+- 2011-04-25 — [Working with the Chaos Monkey](https://blog.codinghorror.com/working-with-the-chaos-monkey/) — `2011-04-25-working-with-the-chaos-monkey.md` — 814w
+- 2011-03-28 — [Revisiting the Home Theater PC](https://blog.codinghorror.com/revisiting-the-home-theater-pc/) — `2011-03-28-revisiting-the-home-theater-pc.md` — 826w
+- 2011-02-14 — [The Importance of Net Neutrality](https://blog.codinghorror.com/the-importance-of-net-neutrality/) — `2011-02-14-the-importance-of-net-neutrality.md` — 1109w
 - 2011-02-04 — [How to Write Without Writing](https://blog.codinghorror.com/how-to-write-without-writing/) — `2011-02-04-how-to-write-without-writing.md` — 1057w
+- 2011-01-31 — [Lived Fast, Died Young, Left a Tired Corpse](https://blog.codinghorror.com/lived-fast-died-young-left-a-tired-corpse/) — `2011-01-31-lived-fast-died-young-left-a-tired-corpse.md` — 679w
+- 2011-01-20 — [24 Gigabytes of Memory Ought to be Enough for Anybody](https://blog.codinghorror.com/24-gigabytes-of-memory-ought-to-be-enough-for-anybody/) — `2011-01-20-24-gigabytes-of-memory-ought-to-be-enough-for-anybody.md` — 537w
+- 2011-01-03 — [Trouble In the House of Google](https://blog.codinghorror.com/trouble-in-the-house-of-google/) — `2011-01-03-trouble-in-the-house-of-google.md` — 1263w
+- 2010-12-14 — [The Dirty Truth About Web Passwords](https://blog.codinghorror.com/the-dirty-truth-about-web-passwords/) — `2010-12-14-the-dirty-truth-about-web-passwords.md` — 1078w
+- 2010-11-28 — [My Holiday in Beautiful Panau](https://blog.codinghorror.com/my-holiday-in-beautiful-panau/) — `2010-11-28-my-holiday-in-beautiful-panau.md` — 893w
+- 2010-11-24 — [Your Internet Driver’s License](https://blog.codinghorror.com/your-internet-drivers-license/) — `2010-11-24-your-internet-drivers-license.md` — 846w
 - 2010-11-13 — [Breaking the Web’s Cookie Jar](https://blog.codinghorror.com/breaking-the-webs-cookie-jar/) — `2010-11-13-breaking-the-webs-cookie-jar.md` — 1200w
+- 2010-10-22 — [The Keyboard Cult](https://blog.codinghorror.com/the-keyboard-cult/) — `2010-10-22-the-keyboard-cult.md` — 1287w
+- 2010-09-25 — [Because Everyone Needs a Router](https://blog.codinghorror.com/because-everyone-needs-a-router/) — `2010-09-25-because-everyone-needs-a-router.md` — 1189w
+- 2010-09-17 — [YouTube vs. Fair Use](https://blog.codinghorror.com/youtube-vs-fair-use/) — `2010-09-17-youtube-vs-fair-use.md` — 1542w
+- 2010-09-15 — [Revisiting Solid State Hard Drives](https://blog.codinghorror.com/revisiting-solid-state-hard-drives/) — `2010-09-15-revisiting-solid-state-hard-drives.md` — 1007w
+- 2010-08-27 — [Vampires (Programmers) versus Werewolves (Sysadmins)](https://blog.codinghorror.com/vampires-programmers-versus-werewolves-sysadmins/) — `2010-08-27-vampires-programmers-versus-werewolves-sysadmins.md` — 902w
 - 2010-08-13 — [What’s On Your Utility Belt?](https://blog.codinghorror.com/whats-on-your-utility-belt/) — `2010-08-13-whats-on-your-utility-belt.md` — 742w
 - 2010-07-20 — [Groundhog Day, or, the Problem with A/B Testing](https://blog.codinghorror.com/groundhog-day-or-the-problem-with-ab-testing/) — `2010-07-20-groundhog-day-or-the-problem-with-ab-testing.md` — 979w
+- 2010-06-21 — [Whatever Happened to Voice Recognition?](https://blog.codinghorror.com/whatever-happened-to-voice-recognition/) — `2010-06-21-whatever-happened-to-voice-recognition.md` — 1200w
+- 2010-05-06 — [On Working Remotely](https://blog.codinghorror.com/on-working-remotely/) — `2010-05-06-on-working-remotely.md` — 2058w
+- 2010-04-30 — [What’s Wrong With CSS](https://blog.codinghorror.com/whats-wrong-with-css/) — `2010-04-30-whats-wrong-with-css.md` — 531w
+- 2010-04-04 — [Three Monitors For Every User](https://blog.codinghorror.com/three-monitors-for-every-user/) — `2010-04-04-three-monitors-for-every-user.md` — 948w
 - 2010-03-31 — [Usability On The Cheap and Easy](https://blog.codinghorror.com/usability-on-the-cheap-and-easy/) — `2010-03-31-usability-on-the-cheap-and-easy.md` — 642w
+- 2010-03-24 — [The Opposite of Fitts’ Law](https://blog.codinghorror.com/the-opposite-of-fitts-law/) — `2010-03-24-the-opposite-of-fitts-law.md` — 752w
+- 2010-03-19 — [Compiled or Bust?](https://blog.codinghorror.com/compiled-or-bust/) — `2010-03-19-compiled-or-bust.md` — 1229w
+- 2010-02-22 — [The Non](https://blog.codinghorror.com/the-nonprogramming-programmer/) — `2010-02-22-the-nonprogramming-programmer.md` — 672w
+- 2010-02-12 — [Welcome Back Comments](https://blog.codinghorror.com/welcome-back-comments/) — `2010-02-12-welcome-back-comments.md` — 1430w
+- 2010-01-10 — [A Democracy of Netbooks](https://blog.codinghorror.com/a-democracy-of-netbooks/) — `2010-01-10-a-democracy-of-netbooks.md` — 1148w
+- 2009-12-29 — [Responsible Open Source Code Parenting](https://blog.codinghorror.com/responsible-open-source-code-parenting/) — `2009-12-29-responsible-open-source-code-parenting.md` — 1579w
+- 2009-12-17 — [Building a PC, Part VI: Rebuilding](https://blog.codinghorror.com/building-a-pc-part-vi-rebuilding/) — `2009-12-17-building-a-pc-part-vi-rebuilding.md` — 2046w
 - 2009-12-14 — [International Backup Awareness Day](https://blog.codinghorror.com/international-backup-awareness-day/) — `2009-12-14-international-backup-awareness-day.md` — 1554w
+- 2009-11-19 — [Buy Bad Code Offsets Today!](https://blog.codinghorror.com/buy-bad-code-offsets-today/) — `2009-11-19-buy-bad-code-offsets-today.md` — 464w
 - 2009-11-15 — [Parsing Html The Cthulhu Way](https://blog.codinghorror.com/parsing-html-the-cthulhu-way/) — `2009-11-15-parsing-html-the-cthulhu-way.md` — 1328w
+- 2009-11-09 — [Whitespace: The Silent Killer](https://blog.codinghorror.com/whitespace-the-silent-killer/) — `2009-11-09-whitespace-the-silent-killer.md` — 434w
+- 2009-11-05 — [Preserving Our Digital Pre](https://blog.codinghorror.com/preserving-our-digital-pre-history/) — `2009-11-05-preserving-our-digital-pre-history.md` — 741w
+- 2009-11-03 — [Stack Overflow Careers: Amplifying Your Awesome](https://blog.codinghorror.com/stack-overflow-careers-amplifying-your-awesome/) — `2009-11-03-stack-overflow-careers-amplifying-your-awesome.md` — 935w
+- 2009-10-26 — [Revisiting “The Fold”](https://blog.codinghorror.com/revisiting-the-fold/) — `2009-10-26-revisiting-the-fold.md` — 937w
+- 2009-10-22 — [Treating User Myopia](https://blog.codinghorror.com/treating-user-myopia/) — `2009-10-22-treating-user-myopia.md` — 950w
+- 2009-10-18 — [The Interview With The Programmer](https://blog.codinghorror.com/the-interview-with-the-programmer/) — `2009-10-18-the-interview-with-the-programmer.md` — 659w
+- 2009-10-13 — [The State of Solid State Hard Drives](https://blog.codinghorror.com/the-state-of-solid-state-hard-drives/) — `2009-10-13-the-state-of-solid-state-hard-drives.md` — 991w
+- 2009-10-12 — [The Xanadu Dream](https://blog.codinghorror.com/the-xanadu-dream/) — `2009-10-12-the-xanadu-dream.md` — 1321w
 - 2009-09-28 — [Email: The Variable Reinforcement Machine](https://blog.codinghorror.com/email-the-variable-reinforcement-machine/) — `2009-09-28-email-the-variable-reinforcement-machine.md` — 831w
+- 2009-09-10 — [9 Ways Marketing Weasels Will Try to Manipulate You](https://blog.codinghorror.com/9-ways-marketing-weasels-will-try-to-manipulate-you/) — `2009-09-10-9-ways-marketing-weasels-will-try-to-manipulate-you.md` — 2158w
+- 2009-08-27 — [Have You Met Your Dog, Patches?](https://blog.codinghorror.com/have-you-met-your-dog-patches/) — `2009-08-27-have-you-met-your-dog-patches.md` — 650w
+- 2009-08-24 — [That Means It’s Working](https://blog.codinghorror.com/that-means-its-working/) — `2009-08-24-that-means-its-working.md` — 280w
 - 2009-08-19 — [The Only Truly Failed Project](https://blog.codinghorror.com/the-only-truly-failed-project/) — `2009-08-19-the-only-truly-failed-project.md` — 1232w
 - 2009-08-14 — [All Programming is Web Programming](https://blog.codinghorror.com/all-programming-is-web-programming/) — `2009-08-14-all-programming-is-web-programming.md` — 1112w
+- 2009-08-11 — [Are You a Digital Sharecropper?](https://blog.codinghorror.com/are-you-a-digital-sharecropper/) — `2009-08-11-are-you-a-digital-sharecropper.md` — 949w
+- 2009-07-31 — [The Paper Data Storage Option](https://blog.codinghorror.com/the-paper-data-storage-option/) — `2009-07-31-the-paper-data-storage-option.md` — 874w
+- 2009-07-29 — [Coding Horror: Movable Type Since 2004](https://blog.codinghorror.com/coding-horror-movable-type-since-2004/) — `2009-07-29-coding-horror-movable-type-since-2004.md` — 775w
+- 2009-07-26 — [Windows 7: The Best Vista Service Pack Ever](https://blog.codinghorror.com/windows-7-the-best-vista-service-pack-ever/) — `2009-07-26-windows-7-the-best-vista-service-pack-ever.md` — 667w
 - 2009-07-21 — [Nobody Hates Software More Than Software Developers](https://blog.codinghorror.com/nobody-hates-software-more-than-software-developers/) — `2009-07-21-nobody-hates-software-more-than-software-developers.md` — 971w
+- 2009-07-18 — [Software Engineering: Dead?](https://blog.codinghorror.com/software-engineering-dead/) — `2009-07-18-software-engineering-dead.md` — 652w
 - 2009-07-13 — [Meta Is Murder](https://blog.codinghorror.com/meta-is-murder/) — `2009-07-13-meta-is-murder.md` — 1279w
+- 2009-07-09 — [How Not to Advertise on the Internet](https://blog.codinghorror.com/how-not-to-advertise-on-the-internet/) — `2009-07-09-how-not-to-advertise-on-the-internet.md` — 525w
+- 2009-07-07 — [Testing With “The Force”](https://blog.codinghorror.com/testing-with-the-force/) — `2009-07-07-testing-with-the-force.md` — 776w
+- 2009-07-06 — [Code: It’s Trivial](https://blog.codinghorror.com/code-its-trivial/) — `2009-07-06-code-its-trivial.md` — 1079w
+- 2009-07-01 — [Oh, You Wanted “Awesome” Edition](https://blog.codinghorror.com/oh-you-wanted-awesome-edition/) — `2009-07-01-oh-you-wanted-awesome-edition.md` — 1026w
+- 2009-06-24 — [The iPhone Software Revolution](https://blog.codinghorror.com/the-iphone-software-revolution/) — `2009-06-24-the-iphone-software-revolution.md` — 1333w
+- 2009-06-21 — [Monty Hall, Monty Fall, Monty Crawl](https://blog.codinghorror.com/monty-hall-monty-fall-monty-crawl/) — `2009-06-21-monty-hall-monty-fall-monty-crawl.md` — 971w
+- 2009-06-17 — [We Done Been... Framed!](https://blog.codinghorror.com/we-done-been-framed/) — `2009-06-17-we-done-been-framed.md` — 1225w
+- 2009-06-08 — [Regular Expressions for Regular Programmers](https://blog.codinghorror.com/regular-expressions-for-regular-programmers/) — `2009-06-08-regular-expressions-for-regular-programmers.md` — 561w
+- 2009-06-07 — [Unix is Dead, Long Live Unix](https://blog.codinghorror.com/unix-is-dead-long-live-unix/) — `2009-06-07-unix-is-dead-long-live-unix.md` — 640w
+- 2009-06-03 — [Sharing Files With BitTorrent](https://blog.codinghorror.com/sharing-files-with-bittorrent/) — `2009-06-03-sharing-files-with-bittorrent.md` — 1264w
 - 2009-06-02 — [I Stopped Reading Your Blog Years Ago](https://blog.codinghorror.com/i-stopped-reading-your-blog-years-ago/) — `2009-06-02-i-stopped-reading-your-blog-years-ago.md` — 991w
+- 2009-06-01 — [The Girl Who Proved P = NP](https://blog.codinghorror.com/the-girl-who-proved-p-np/) — `2009-06-01-the-girl-who-proved-p-np.md` — 663w
+- 2009-05-28 — [Server Fault: Calling All Lusers](https://blog.codinghorror.com/server-fault-calling-all-lusers/) — `2009-05-28-server-fault-calling-all-lusers.md` — 448w
+- 2009-05-26 — [Beyond RAID](https://blog.codinghorror.com/beyond-raid/) — `2009-05-26-beyond-raid.md` — 1002w
+- 2009-05-25 — [Penny Auctions: They’re Gambling](https://blog.codinghorror.com/penny-auctions-theyre-gambling/) — `2009-05-25-penny-auctions-theyre-gambling.md` — 978w
+- 2009-05-22 — [How to Motivate Programmers](https://blog.codinghorror.com/how-to-motivate-programmers/) — `2009-05-22-how-to-motivate-programmers.md` — 229w
+- 2009-05-19 — [The Bathroom Wall of Code](https://blog.codinghorror.com/the-bathroom-wall-of-code/) — `2009-05-19-the-bathroom-wall-of-code.md` — 534w
+- 2009-05-13 — [Why Do Computers Suck at Math?](https://blog.codinghorror.com/why-do-computers-suck-at-math/) — `2009-05-13-why-do-computers-suck-at-math.md` — 862w
+- 2009-05-11 — [The Web Browser Address Bar is the New Command Line](https://blog.codinghorror.com/the-web-browser-address-bar-is-the-new-command-line/) — `2009-05-11-the-web-browser-address-bar-is-the-new-command-line.md` — 353w
+- 2009-05-08 — [Pseudocode or Code?](https://blog.codinghorror.com/pseudocode-or-code/) — `2009-05-08-pseudocode-or-code.md` — 787w
+- 2009-04-30 — [Optimizing Your Wallet](https://blog.codinghorror.com/optimizing-your-wallet/) — `2009-04-30-optimizing-your-wallet.md` — 716w
+- 2009-04-26 — [Has The Virtualization Future Arrived?](https://blog.codinghorror.com/has-the-virtualization-future-arrived/) — `2009-04-26-has-the-virtualization-future-arrived.md` — 544w
+- 2009-04-21 — [A Modest Proposal for the Copy and Paste School of Code Reuse](https://blog.codinghorror.com/a-modest-proposal-for-the-copy-and-paste-school-of-code-reuse/) — `2009-04-21-a-modest-proposal-for-the-copy-and-paste-school-of-code-reuse.md` — 1024w
+- 2009-04-20 — [How Not to Conduct an Online Poll](https://blog.codinghorror.com/how-not-to-conduct-an-online-poll/) — `2009-04-20-how-not-to-conduct-an-online-poll.md` — 683w
+- 2009-04-16 — [Exception](https://blog.codinghorror.com/exception-driven-development/) — `2009-04-16-exception-driven-development.md` — 1021w
+- 2009-04-13 — [Death to the Space Infidels!](https://blog.codinghorror.com/death-to-the-space-infidels/) — `2009-04-13-death-to-the-space-infidels.md` — 1190w
+- 2009-04-09 — [Training Your Users](https://blog.codinghorror.com/training-your-users/) — `2009-04-09-training-your-users.md` — 311w
+- 2009-04-08 — [Sex, Lies, and Software Development](https://blog.codinghorror.com/sex-lies-and-software-development/) — `2009-04-08-sex-lies-and-software-development.md` — 1457w
 - 2009-04-05 — [Almost Perfect](https://blog.codinghorror.com/almost-perfect/) — `2009-04-05-almost-perfect.md` — 844w
+- 2009-04-04 — [I Happen to Like Heroic Coding](https://blog.codinghorror.com/i-happen-to-like-heroic-coding/) — `2009-04-04-i-happen-to-like-heroic-coding.md` — 1040w
+- 2009-04-03 — [The Eight Levels of Programmers](https://blog.codinghorror.com/the-eight-levels-of-programmers/) — `2009-04-03-the-eight-levels-of-programmers.md` — 949w
+- 2009-04-01 — [Should Competent Programmers be “Mathematically Inclined”](https://blog.codinghorror.com/should-competent-programmers-be-mathematically-inclined/) — `2009-04-01-should-competent-programmers-be-mathematically-inclined.md` — 1076w
+- 2009-03-29 — [The Ugly American Programmer](https://blog.codinghorror.com/the-ugly-american-programmer/) — `2009-03-29-the-ugly-american-programmer.md` — 831w
+- 2009-03-22 — [Who’s Your Arch](https://blog.codinghorror.com/whos-your-arch-enemy/) — `2009-03-22-whos-your-arch-enemy.md` — 417w
+- 2009-03-21 — [See You at EclipseCon!](https://blog.codinghorror.com/see-you-at-eclipsecon/) — `2009-03-21-see-you-at-eclipsecon.md` — 400w
+- 2009-03-19 — [Five Dollar Programming Words](https://blog.codinghorror.com/five-dollar-programming-words/) — `2009-03-19-five-dollar-programming-words.md` — 1015w
+- 2009-03-16 — [The Hardest Interview Puzzle Question Ever](https://blog.codinghorror.com/the-hardest-interview-puzzle-question-ever/) — `2009-03-16-the-hardest-interview-puzzle-question-ever.md` — 1013w
+- 2009-03-15 — [The World’s Largest MMORPG: You’re Playing it Right Now](https://blog.codinghorror.com/the-worlds-largest-mmorpg-youre-playing-it-right-now/) — `2009-03-15-the-worlds-largest-mmorpg-youre-playing-it-right-now.md` — 933w
 - 2009-03-12 — [Spawned a New Process](https://blog.codinghorror.com/spawned-a-new-process/) — `2009-03-12-spawned-a-new-process.md` — 394w
+- 2009-03-10 — [Why Can’t Error Messages Be Fun?](https://blog.codinghorror.com/why-cant-error-messages-be-fun/) — `2009-03-10-why-cant-error-messages-be-fun.md` — 561w
+- 2009-03-10 — [Sharpening the Saw](https://blog.codinghorror.com/sharpening-the-saw/) — `2009-03-10-sharpening-the-saw.md` — 834w
+- 2009-03-09 — [The Computer Performance Shell Game](https://blog.codinghorror.com/the-computer-performance-shell-game/) — `2009-03-09-the-computer-performance-shell-game.md` — 744w
+- 2009-03-05 — [HTML Validation: Does It Matter?](https://blog.codinghorror.com/html-validation-does-it-matter/) — `2009-03-05-html-validation-does-it-matter.md` — 1146w
+- 2009-03-03 — [Procrastination and the Bikeshed Effect](https://blog.codinghorror.com/procrastination-and-the-bikeshed-effect/) — `2009-03-03-procrastination-and-the-bikeshed-effect.md` — 819w
+- 2009-03-01 — [The Promise and Peril of Jumbo Frames](https://blog.codinghorror.com/the-promise-and-peril-of-jumbo-frames/) — `2009-03-01-the-promise-and-peril-of-jumbo-frames.md` — 899w
+- 2009-02-28 — [File Compression in the Multi](https://blog.codinghorror.com/file-compression-in-the-multi-core-era/) — `2009-02-28-file-compression-in-the-multi-core-era.md` — 606w
+- 2009-02-27 — [Paying Down Your Technical Debt](https://blog.codinghorror.com/paying-down-your-technical-debt/) — `2009-02-27-paying-down-your-technical-debt.md` — 830w
 - 2009-02-25 — [Who’s Your Coding Buddy?](https://blog.codinghorror.com/whos-your-coding-buddy/) — `2009-02-25-whos-your-coding-buddy.md` — 658w
+- 2009-02-23 — [Rate Limiting and Velocity Checking](https://blog.codinghorror.com/rate-limiting-and-velocity-checking/) — `2009-02-23-rate-limiting-and-velocity-checking.md` — 1277w
+- 2009-02-19 — [The Bad Apple: Group Poison](https://blog.codinghorror.com/the-bad-apple-group-poison/) — `2009-02-19-the-bad-apple-group-poison.md` — 850w
+- 2009-02-18 — [Are You An Expert?](https://blog.codinghorror.com/are-you-an-expert/) — `2009-02-18-are-you-an-expert.md` — 1260w
+- 2009-02-11 — [The Ferengi Programmer](https://blog.codinghorror.com/the-ferengi-programmer/) — `2009-02-11-the-ferengi-programmer.md` — 840w
+- 2009-02-09 — [The Elephant in the Room: Google Monoculture](https://blog.codinghorror.com/the-elephant-in-the-room-google-monoculture/) — `2009-02-09-the-elephant-in-the-room-google-monoculture.md` — 704w
+- 2009-02-07 — [Don’t Reinvent The Wheel, Unless You Plan on Learning More About Wheels](https://blog.codinghorror.com/dont-reinvent-the-wheel-unless-you-plan-on-learning-more-about-wheels/) — `2009-02-07-dont-reinvent-the-wheel-unless-you-plan-on-learning-more-about-wheels.md` — 788w
+- 2009-02-04 — [You’re Doing It Wrong](https://blog.codinghorror.com/youre-doing-it-wrong/) — `2009-02-04-youre-doing-it-wrong.md` — 603w
+- 2009-02-02 — [Mixing Oil and Water: Authorship in a Wiki World](https://blog.codinghorror.com/mixing-oil-and-water-authorship-in-a-wiki-world/) — `2009-02-02-mixing-oil-and-water-authorship-in-a-wiki-world.md` — 1351w
+- 2009-02-01 — [Have Keyboard, Will Program](https://blog.codinghorror.com/have-keyboard-will-program/) — `2009-02-01-have-keyboard-will-program.md` — 858w
+- 2009-01-29 — [The Sad Tragedy of Micro](https://blog.codinghorror.com/the-sad-tragedy-of-micro-optimization-theater/) — `2009-01-29-the-sad-tragedy-of-micro-optimization-theater.md` — 935w
+- 2009-01-27 — [The Ultimate Dogfooding Story](https://blog.codinghorror.com/the-ultimate-dogfooding-story/) — `2009-01-27-the-ultimate-dogfooding-story.md` — 676w
+- 2009-01-25 — [A Scripter at Heart](https://blog.codinghorror.com/a-scripter-at-heart/) — `2009-01-25-a-scripter-at-heart.md` — 979w
 - 2009-01-22 — [Open Source Software, Self Service Software](https://blog.codinghorror.com/open-source-software-self-service-software/) — `2009-01-22-open-source-software-self-service-software.md` — 1120w
 - 2009-01-19 — [A Visit With Alan Kay](https://blog.codinghorror.com/a-visit-with-alan-kay/) — `2009-01-19-a-visit-with-alan-kay.md` — 973w
+- 2009-01-16 — [The Two Types of Browser Zoom](https://blog.codinghorror.com/the-two-types-of-browser-zoom/) — `2009-01-16-the-two-types-of-browser-zoom.md` — 513w
+- 2009-01-11 — [If You Don’t Change the UI, Nobody Notices](https://blog.codinghorror.com/if-you-dont-change-the-ui-nobody-notices/) — `2009-01-11-if-you-dont-change-the-ui-nobody-notices.md` — 599w
+- 2009-01-08 — [Overnight Success: It Takes Years](https://blog.codinghorror.com/overnight-success-it-takes-years/) — `2009-01-08-overnight-success-it-takes-years.md` — 1127w
+- 2009-01-07 — [Dictionary Attacks 101](https://blog.codinghorror.com/dictionary-attacks-101/) — `2009-01-07-dictionary-attacks-101.md` — 876w
+- 2009-01-04 — [Are You Creating Micromanagement Zombies?](https://blog.codinghorror.com/are-you-creating-micromanagement-zombies/) — `2009-01-04-are-you-creating-micromanagement-zombies.md` — 721w
+- 2008-12-31 — [Finishing The Game](https://blog.codinghorror.com/finishing-the-game/) — `2008-12-31-finishing-the-game.md` — 830w
+- 2008-12-30 — [The Problem of the Unfinished Game](https://blog.codinghorror.com/the-problem-of-the-unfinished-game/) — `2008-12-30-the-problem-of-the-unfinished-game.md` — 120w
+- 2008-12-29 — [Programming: Love It or Leave It](https://blog.codinghorror.com/programming-love-it-or-leave-it/) — `2008-12-29-programming-love-it-or-leave-it.md` — 901w
+- 2008-12-27 — [My Software Is Being Pirated](https://blog.codinghorror.com/my-software-is-being-pirated/) — `2008-12-27-my-software-is-being-pirated.md` — 1149w
+- 2008-12-24 — [Best (or Worst) Geek Christmas Ever](https://blog.codinghorror.com/best-or-worst-geek-christmas-ever/) — `2008-12-24-best-or-worst-geek-christmas-ever.md` — 529w
+- 2008-12-23 — [Pressing the Software Turbo Button](https://blog.codinghorror.com/pressing-the-software-turbo-button/) — `2008-12-23-pressing-the-software-turbo-button.md` — 1024w
+- 2008-12-21 — [Gifts for Geeks: 2008 Edition, Sort Of](https://blog.codinghorror.com/gifts-for-geeks-2008-edition-sort-of/) — `2008-12-21-gifts-for-geeks-2008-edition-sort-of.md` — 609w
+- 2008-12-18 — [Hardware is Cheap, Programmers are Expensive](https://blog.codinghorror.com/hardware-is-cheap-programmers-are-expensive/) — `2008-12-18-hardware-is-cheap-programmers-are-expensive.md` — 1061w
+- 2008-12-16 — [Avoiding The Uncanny Valley of User Interface](https://blog.codinghorror.com/avoiding-the-uncanny-valley-of-user-interface/) — `2008-12-16-avoiding-the-uncanny-valley-of-user-interface.md` — 785w
+- 2008-12-15 — [Easy, Efficient Hi](https://blog.codinghorror.com/easy-efficient-hi-def-video-playback/) — `2008-12-15-easy-efficient-hi-def-video-playback.md` — 1382w
+- 2008-12-11 — [Profitable Until Deemed Illegal](https://blog.codinghorror.com/profitable-until-deemed-illegal/) — `2008-12-11-profitable-until-deemed-illegal.md` — 910w
+- 2008-12-10 — [My Scaling Hero](https://blog.codinghorror.com/my-scaling-hero/) — `2008-12-10-my-scaling-hero.md` — 899w
+- 2008-12-07 — [Our Hacker Odyssey](https://blog.codinghorror.com/our-hacker-odyssey/) — `2008-12-07-our-hacker-odyssey.md` — 662w
+- 2008-12-04 — [Blu](https://blog.codinghorror.com/blu-ray-is-it-time/) — `2008-12-04-blu-ray-is-it-time.md` — 452w
 - 2008-11-30 — [Tending Your Software Garden](https://blog.codinghorror.com/tending-your-software-garden/) — `2008-11-30-tending-your-software-garden.md` — 1145w
+- 2008-11-25 — [Is Email = Efail?](https://blog.codinghorror.com/is-email-efail/) — `2008-11-25-is-email-efail.md` — 993w
+- 2008-11-23 — [Can You Really Rent a Coder?](https://blog.codinghorror.com/can-you-really-rent-a-coder/) — `2008-11-23-can-you-really-rent-a-coder.md` — 624w
+- 2008-11-19 — [That’s Not a Bug, It’s a Feature Request](https://blog.codinghorror.com/thats-not-a-bug-its-a-feature-request/) — `2008-11-19-thats-not-a-bug-its-a-feature-request.md` — 943w
+- 2008-11-17 — [We Are Typists First, Programmers Second](https://blog.codinghorror.com/we-are-typists-first-programmers-second/) — `2008-11-17-we-are-typists-first-programmers-second.md` — 1001w
+- 2008-11-15 — [Your Favorite NP](https://blog.codinghorror.com/your-favorite-np-complete-cheat/) — `2008-11-15-your-favorite-np-complete-cheat.md` — 776w
+- 2008-11-12 — [Stop Me If You Think You’ve Seen This Word Before](https://blog.codinghorror.com/stop-me-if-you-think-youve-seen-this-word-before/) — `2008-11-12-stop-me-if-you-think-youve-seen-this-word-before.md` — 831w
+- 2008-11-10 — [Feeding My Graphics Card Addiction](https://blog.codinghorror.com/feeding-my-graphics-card-addiction/) — `2008-11-10-feeding-my-graphics-card-addiction.md` — 1723w
+- 2008-11-08 — [Coding: It’s Just Writing](https://blog.codinghorror.com/coding-its-just-writing/) — `2008-11-08-coding-its-just-writing.md` — 810w
+- 2008-11-04 — [Remembering the Dynabook](https://blog.codinghorror.com/remembering-the-dynabook/) — `2008-11-04-remembering-the-dynabook.md` — 1167w
+- 2008-10-30 — [HCI Remixed](https://blog.codinghorror.com/hci-remixed/) — `2008-10-30-hci-remixed.md` — 430w
+- 2008-10-22 — [The One Thing Every Software Engineer Should Know](https://blog.codinghorror.com/the-one-thing-every-software-engineer-should-know/) — `2008-10-22-the-one-thing-every-software-engineer-should-know.md` — 651w
+- 2008-10-20 — [Obscenity Filters: Bad Idea, or Incredibly Intercoursing Bad Idea?](https://blog.codinghorror.com/obscenity-filters-bad-idea-or-incredibly-intercoursing-bad-idea/) — `2008-10-20-obscenity-filters-bad-idea-or-incredibly-intercoursing-bad-idea.md` — 899w
 - 2008-10-16 — [Programming Is Hard, Let’s Go Shopping!](https://blog.codinghorror.com/programming-is-hard-lets-go-shopping/) — `2008-10-16-programming-is-hard-lets-go-shopping.md` — 1246w
+- 2008-10-14 — [Preventing CSRF and XSRF Attacks](https://blog.codinghorror.com/preventing-csrf-and-xsrf-attacks/) — `2008-10-14-preventing-csrf-and-xsrf-attacks.md` — 834w
+- 2008-10-12 — [The Importance of Sitemaps](https://blog.codinghorror.com/the-importance-of-sitemaps/) — `2008-10-12-the-importance-of-sitemaps.md` — 1144w
+- 2008-09-18 — [Bill Gates and Code Complete](https://blog.codinghorror.com/bill-gates-and-code-complete/) — `2008-09-18-bill-gates-and-code-complete.md` — 645w
+- 2008-09-16 — [Stack Overflow: None of Us is as Dumb as All of Us](https://blog.codinghorror.com/stack-overflow-none-of-us-is-as-dumb-as-all-of-us/) — `2008-09-16-stack-overflow-none-of-us-is-as-dumb-as-all-of-us.md` — 736w
+- 2008-09-07 — [Spawning a New Process](https://blog.codinghorror.com/spawning-a-new-process/) — `2008-09-07-spawning-a-new-process.md` — 498w
+- 2008-08-24 — [Deadlocked!](https://blog.codinghorror.com/deadlocked/) — `2008-08-24-deadlocked.md` — 1461w
+- 2008-08-20 — [Check In Early, Check In Often](https://blog.codinghorror.com/check-in-early-check-in-often/) — `2008-08-20-check-in-early-check-in-often.md` — 539w
+- 2008-08-17 — [The Perils of FUI: Fake User Interface](https://blog.codinghorror.com/the-perils-of-fui-fake-user-interface/) — `2008-08-17-the-perils-of-fui-fake-user-interface.md` — 1131w
+- 2008-08-13 — [Secrets of the JavaScript Ninjas](https://blog.codinghorror.com/secrets-of-the-javascript-ninjas/) — `2008-08-13-secrets-of-the-javascript-ninjas.md` — 692w
+- 2008-08-09 — [Music to (Not) Code By](https://blog.codinghorror.com/music-to-not-code-by/) — `2008-08-09-music-to-not-code-by.md` — 892w
+- 2008-08-04 — [On Our Project, We’re Always 90% Done](https://blog.codinghorror.com/on-our-project-were-always-90-done/) — `2008-08-04-on-our-project-were-always-90-done.md` — 1052w
+- 2008-08-02 — [Quantity Always Trumps Quality](https://blog.codinghorror.com/quantity-always-trumps-quality/) — `2008-08-02-quantity-always-trumps-quality.md` — 379w
+- 2008-07-30 — [Alpha, Beta, and Sometimes Gamma](https://blog.codinghorror.com/alpha-beta-and-sometimes-gamma/) — `2008-07-30-alpha-beta-and-sometimes-gamma.md` — 703w
+- 2008-07-28 — [Is Money Useless to Open Source Projects?](https://blog.codinghorror.com/is-money-useless-to-open-source-projects/) — `2008-07-28-is-money-useless-to-open-source-projects.md` — 726w
+- 2008-07-22 — [Building Tiny, Ultra Low Power PCs](https://blog.codinghorror.com/building-tiny-ultra-low-power-pcs/) — `2008-07-22-building-tiny-ultra-low-power-pcs.md` — 648w
+- 2008-07-20 — [Web Development as Tag Soup](https://blog.codinghorror.com/web-development-as-tag-soup/) — `2008-07-20-web-development-as-tag-soup.md` — 438w
+- 2008-07-17 — [Dealing With Bad Apples](https://blog.codinghorror.com/dealing-with-bad-apples/) — `2008-07-17-dealing-with-bad-apples.md` — 1021w
+- 2008-07-15 — [The Ultimate Software Gold Plating](https://blog.codinghorror.com/the-ultimate-software-gold-plating/) — `2008-07-15-the-ultimate-software-gold-plating.md` — 545w
+- 2008-07-14 — [Maybe Normalizing Isn’t Normal](https://blog.codinghorror.com/maybe-normalizing-isnt-normal/) — `2008-07-14-maybe-normalizing-isnt-normal.md` — 1044w
+- 2008-07-12 — [Monkeypatching For Humans](https://blog.codinghorror.com/monkeypatching-for-humans/) — `2008-07-12-monkeypatching-for-humans.md` — 1040w
+- 2008-07-09 — [iTunes is Anti](https://blog.codinghorror.com/itunes-is-anti-web/) — `2008-07-09-itunes-is-anti-web.md` — 546w
+- 2008-07-08 — [Spartan Programming](https://blog.codinghorror.com/spartan-programming/) — `2008-07-08-spartan-programming.md` — 476w
 - 2008-07-06 — [The Problem With Code Folding](https://blog.codinghorror.com/the-problem-with-code-folding/) — `2008-07-06-the-problem-with-code-folding.md` — 879w
+- 2008-07-04 — [Investing in a Quality Programming Chair](https://blog.codinghorror.com/investing-in-a-quality-programming-chair/) — `2008-07-04-investing-in-a-quality-programming-chair.md` — 1224w
+- 2008-07-02 — [Why Can’t Microsoft Ship Open Source Software?](https://blog.codinghorror.com/why-cant-microsoft-ship-open-source-software/) — `2008-07-02-why-cant-microsoft-ship-open-source-software.md` — 1170w
+- 2008-07-01 — [Alan Turing, the Father of Computer Science](https://blog.codinghorror.com/alan-turing-the-father-of-computer-science/) — `2008-07-01-alan-turing-the-father-of-computer-science.md` — 447w
+- 2008-06-29 — [Open Wireless and the Illusion of Security](https://blog.codinghorror.com/open-wireless-and-the-illusion-of-security/) — `2008-06-29-open-wireless-and-the-illusion-of-security.md` — 1021w
+- 2008-06-27 — [Regular Expressions: Now You Have Two Problems](https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/) — `2008-06-27-regular-expressions-now-you-have-two-problems.md` — 1457w
+- 2008-06-23 — [Revisiting the XML Angle Bracket Tax](https://blog.codinghorror.com/revisiting-the-xml-angle-bracket-tax/) — `2008-06-23-revisiting-the-xml-angle-bracket-tax.md` — 1124w
+- 2008-06-19 — [Department of Declaration Redundancy Department](https://blog.codinghorror.com/department-of-declaration-redundancy-department/) — `2008-06-19-department-of-declaration-redundancy-department.md` — 350w
+- 2008-06-17 — [Coding For Violent Psychopaths](https://blog.codinghorror.com/coding-for-violent-psychopaths/) — `2008-06-17-coding-for-violent-psychopaths.md` — 150w
+- 2008-06-16 — [Physics Based Games](https://blog.codinghorror.com/physics-based-games/) — `2008-06-16-physics-based-games.md` — 667w
+- 2008-06-14 — [Don’t Go Dark](https://blog.codinghorror.com/dont-go-dark/) — `2008-06-14-dont-go-dark.md` — 885w
+- 2008-06-11 — [Markov and You](https://blog.codinghorror.com/markov-and-you/) — `2008-06-11-markov-and-you.md` — 1204w
+- 2008-06-09 — [Exploring Wide Finder](https://blog.codinghorror.com/exploring-wide-finder/) — `2008-06-09-exploring-wide-finder.md` — 832w
+- 2008-06-06 — [The Greatest Invention in Computer Science](https://blog.codinghorror.com/the-greatest-invention-in-computer-science/) — `2008-06-06-the-greatest-invention-in-computer-science.md` — 711w
+- 2008-06-04 — [Please Give Us Your Email Password](https://blog.codinghorror.com/please-give-us-your-email-password/) — `2008-06-04-please-give-us-your-email-password.md` — 1181w
+- 2008-06-02 — [Large USB Flash Drive Performance](https://blog.codinghorror.com/large-usb-flash-drive-performance/) — `2008-06-02-large-usb-flash-drive-performance.md` — 853w
+- 2008-06-01 — [Whatever Happened to UI Consistency?](https://blog.codinghorror.com/whatever-happened-to-ui-consistency/) — `2008-06-01-whatever-happened-to-ui-consistency.md` — 875w
+- 2008-05-29 — [Strong Opinions, Weakly Held](https://blog.codinghorror.com/strong-opinions-weakly-held/) — `2008-05-29-strong-opinions-weakly-held.md` — 1624w
+- 2008-05-26 — [It’s Clay Shirky’s Internet, We Just Live In It](https://blog.codinghorror.com/its-clay-shirkys-internet-we-just-live-in-it/) — `2008-05-26-its-clay-shirkys-internet-we-just-live-in-it.md` — 1423w
+- 2008-05-22 — [OpenID: Does The World Really Need Yet Another Username and Password?](https://blog.codinghorror.com/openid-does-the-world-really-need-yet-another-username-and-password/) — `2008-05-22-openid-does-the-world-really-need-yet-another-username-and-password.md` — 1757w
+- 2008-05-20 — [PHP Sucks, But It Doesn’t Matter](https://blog.codinghorror.com/php-sucks-but-it-doesnt-matter/) — `2008-05-20-php-sucks-but-it-doesnt-matter.md` — 917w
+- 2008-05-19 — [Twitter: How Not To Crash Responsibly](https://blog.codinghorror.com/twitter-how-not-to-crash-responsibly/) — `2008-05-19-twitter-how-not-to-crash-responsibly.md` — 594w
+- 2008-05-18 — [Crash Responsibly](https://blog.codinghorror.com/crash-responsibly/) — `2008-05-18-crash-responsibly.md` — 808w
+- 2008-05-15 — [Oh Yeah? Fork You!](https://blog.codinghorror.com/oh-yeah-fork-you/) — `2008-05-15-oh-yeah-fork-you.md` — 724w
+- 2008-05-13 — [Is HTML a Humane Markup Language?](https://blog.codinghorror.com/is-html-a-humane-markup-language/) — `2008-05-13-is-html-a-humane-markup-language.md` — 900w
+- 2008-05-12 — [Cleaning Your Display and Keyboard](https://blog.codinghorror.com/cleaning-your-display-and-keyboard/) — `2008-05-12-cleaning-your-display-and-keyboard.md` — 1035w
+- 2008-05-05 — [Understanding Model-View](https://blog.codinghorror.com/understanding-model-view-controller/) — `2008-05-05-understanding-model-view-controller.md` — 1192w
+- 2008-05-04 — [The Mainstreaming of GPS](https://blog.codinghorror.com/the-mainstreaming-of-gps/) — `2008-05-04-the-mainstreaming-of-gps.md` — 899w
+- 2008-05-01 — [Re](https://blog.codinghorror.com/re-encoding-your-dvds/) — `2008-05-01-re-encoding-your-dvds.md` — 1096w
 - 2008-04-30 — [The Great Dub-Dub](https://blog.codinghorror.com/the-great-dub-dub-dub-debate/) — `2008-04-30-the-great-dub-dub-dub-debate.md` — 834w
+- 2008-04-28 — [Programmers Don’t Read Books – But You Should](https://blog.codinghorror.com/programmers-dont-read-books-but-you-should/) — `2008-04-28-programmers-dont-read-books-but-you-should.md` — 1145w
+- 2008-04-25 — [Building Your Own Home Theater PC](https://blog.codinghorror.com/building-your-own-home-theater-pc/) — `2008-04-25-building-your-own-home-theater-pc.md` — 1239w
+- 2008-04-24 — [The Problem with Software Registration](https://blog.codinghorror.com/the-problem-with-software-registration/) — `2008-04-24-the-problem-with-software-registration.md` — 1064w
+- 2008-04-21 — [Everything I Needed to Know About Programming I Learned from BASIC](https://blog.codinghorror.com/everything-i-needed-to-know-about-programming-i-learned-from-basic/) — `2008-04-21-everything-i-needed-to-know-about-programming-i-learned-from-basic.md` — 915w
+- 2008-04-18 — [Should All Developers Have Manycore CPUs?](https://blog.codinghorror.com/should-all-developers-have-manycore-cpus/) — `2008-04-18-should-all-developers-have-manycore-cpus.md` — 1680w
+- 2008-04-17 — [Building a PC, Part V: Upgrading](https://blog.codinghorror.com/building-a-pc-part-v-upgrading/) — `2008-04-17-building-a-pc-part-v-upgrading.md` — 1047w
+- 2008-04-16 — [Introducing Stackoverflow.com](https://blog.codinghorror.com/introducing-stackoverflow-com/) — `2008-04-16-introducing-stackoverflow-com.md` — 725w
+- 2008-04-13 — [Revisiting “How Much Power Does My Laptop Really Use?”](https://blog.codinghorror.com/revisiting-how-much-power-does-my-laptop-really-use/) — `2008-04-13-revisiting-how-much-power-does-my-laptop-really-use.md` — 792w
+- 2008-04-10 — [Donating $5,000 to .NET Open Source](https://blog.codinghorror.com/donating-5000-to-net-open-source/) — `2008-04-10-donating-5000-to-net-open-source.md` — 845w
+- 2008-04-09 — [We Don’t Use Software That Costs Money Here](https://blog.codinghorror.com/we-dont-use-software-that-costs-money-here/) — `2008-04-09-we-dont-use-software-that-costs-money-here.md` — 1347w
+- 2008-04-07 — [Rediscovering Arcade Nostalgia](https://blog.codinghorror.com/rediscovering-arcade-nostalgia/) — `2008-04-07-rediscovering-arcade-nostalgia.md` — 1217w
+- 2008-04-05 — [Setting up Subversion on Windows](https://blog.codinghorror.com/setting-up-subversion-on-windows/) — `2008-04-05-setting-up-subversion-on-windows.md` — 1346w
+- 2008-04-03 — [Mousing Surface Theory](https://blog.codinghorror.com/mousing-surface-theory/) — `2008-04-03-mousing-surface-theory.md` — 798w
+- 2008-04-02 — [UI](https://blog.codinghorror.com/ui-first-software-development/) — `2008-04-02-ui-first-software-development.md` — 1038w
+- 2008-04-01 — [Core War: Two Programs Enter, One Program Leaves](https://blog.codinghorror.com/core-war-two-programs-enter-one-program-leaves/) — `2008-04-01-core-war-two-programs-enter-one-program-leaves.md` — 776w
+- 2008-03-30 — [Revisiting “Keyboard vs. The Mouse, pt 1”](https://blog.codinghorror.com/revisiting-keyboard-vs-the-mouse-pt-1/) — `2008-03-30-revisiting-keyboard-vs-the-mouse-pt-1.md` — 649w
+- 2008-03-27 — [What Should The Middle Mouse Button Mean?](https://blog.codinghorror.com/what-should-the-middle-mouse-button-mean/) — `2008-03-27-what-should-the-middle-mouse-button-mean.md` — 801w
+- 2008-03-25 — [Revisiting The Facts and Fallacies of Software Engineering](https://blog.codinghorror.com/revisiting-the-facts-and-fallacies-of-software-engineering/) — `2008-03-25-revisiting-the-facts-and-fallacies-of-software-engineering.md` — 1127w
+- 2008-03-23 — [The Sierra Network II](https://blog.codinghorror.com/the-sierra-network-ii/) — `2008-03-23-the-sierra-network-ii.md` — 321w
+- 2008-03-21 — [Paul Graham’s Participatory Narcissism](https://blog.codinghorror.com/paul-grahams-participatory-narcissism/) — `2008-03-21-paul-grahams-participatory-narcissism.md` — 1096w
 - 2008-03-20 — [The First Rule of Programming: It’s Always Your Fault](https://blog.codinghorror.com/the-first-rule-of-programming-its-always-your-fault/) — `2008-03-20-the-first-rule-of-programming-its-always-your-fault.md` — 788w
+- 2008-03-19 — [Adventures in Rechargeable Batteries](https://blog.codinghorror.com/adventures-in-rechargeable-batteries/) — `2008-03-19-adventures-in-rechargeable-batteries.md` — 1131w
+- 2008-03-18 — [The Dark Side of Extensions](https://blog.codinghorror.com/the-dark-side-of-extensions/) — `2008-03-18-the-dark-side-of-extensions.md` — 897w
+- 2008-03-16 — [Does More Than One Monitor Improve Productivity?](https://blog.codinghorror.com/does-more-than-one-monitor-improve-productivity/) — `2008-03-16-does-more-than-one-monitor-improve-productivity.md` — 780w
+- 2008-03-13 — [What’s Wrong With Turkey?](https://blog.codinghorror.com/whats-wrong-with-turkey/) — `2008-03-13-whats-wrong-with-turkey.md` — 853w
 - 2008-03-11 — [Choosing Your Own Adventure](https://blog.codinghorror.com/choosing-your-own-adventure/) — `2008-03-11-choosing-your-own-adventure.md` — 862w
+- 2008-03-10 — [Real](https://blog.codinghorror.com/real-time-raytracing/) — `2008-03-10-real-time-raytracing.md` — 1163w
+- 2008-03-07 — [A Question of Programming Ethics](https://blog.codinghorror.com/a-question-of-programming-ethics/) — `2008-03-07-a-question-of-programming-ethics.md` — 485w
+- 2008-03-06 — [Death Threats, Intimidation, and Blogging](https://blog.codinghorror.com/death-threats-intimidation-and-blogging/) — `2008-03-06-death-threats-intimidation-and-blogging.md` — 1249w
+- 2008-03-05 — [See You at MIX08!](https://blog.codinghorror.com/see-you-at-mix08/) — `2008-03-05-see-you-at-mix08.md` — 372w
+- 2008-03-04 — [CAPTCHA is Dead, Long Live CAPTCHA!](https://blog.codinghorror.com/captcha-is-dead-long-live-captcha/) — `2008-03-04-captcha-is-dead-long-live-captcha.md` — 631w
+- 2008-03-02 — [Actual Performance, Perceived Performance](https://blog.codinghorror.com/actual-performance-perceived-performance/) — `2008-03-02-actual-performance-perceived-performance.md` — 856w
+- 2008-02-26 — [Douchebaggery](https://blog.codinghorror.com/douchebaggery/) — `2008-02-26-douchebaggery.md` — 925w
+- 2008-02-25 — [I Repeat: Do Not Listen to Your Users](https://blog.codinghorror.com/i-repeat-do-not-listen-to-your-users/) — `2008-02-25-i-repeat-do-not-listen-to-your-users.md` — 1136w
+- 2008-02-24 — [On Escalating Communication](https://blog.codinghorror.com/on-escalating-communication/) — `2008-02-24-on-escalating-communication.md` — 710w
+- 2008-02-20 — [Code Isn’t Beautiful](https://blog.codinghorror.com/code-isnt-beautiful/) — `2008-02-20-code-isnt-beautiful.md` — 899w
+- 2008-02-19 — [There Ain’t No Such Thing as the Fastest Code](https://blog.codinghorror.com/there-aint-no-such-thing-as-the-fastest-code/) — `2008-02-19-there-aint-no-such-thing-as-the-fastest-code.md` — 914w
+- 2008-02-18 — [Tivoization and the GPL](https://blog.codinghorror.com/tivoization-and-the-gpl/) — `2008-02-18-tivoization-and-the-gpl.md` — 1412w
+- 2008-02-14 — [The Ultimate Unit Test Failure](https://blog.codinghorror.com/the-ultimate-unit-test-failure/) — `2008-02-14-the-ultimate-unit-test-failure.md` — 508w
+- 2008-02-13 — [Spatial Navigation and Opera](https://blog.codinghorror.com/spatial-navigation-and-opera/) — `2008-02-13-spatial-navigation-and-opera.md` — 1015w
+- 2008-02-11 — [The Dramatic Password Reveal](https://blog.codinghorror.com/the-dramatic-password-reveal/) — `2008-02-11-the-dramatic-password-reveal.md` — 677w
+- 2008-02-10 — [Where the Heck is My Focus?](https://blog.codinghorror.com/where-the-heck-is-my-focus/) — `2008-02-10-where-the-heck-is-my-focus.md` — 777w
+- 2008-02-06 — [Extending Your Wireless Network With Better Antennas](https://blog.codinghorror.com/extending-your-wireless-network-with-better-antennas/) — `2008-02-06-extending-your-wireless-network-with-better-antennas.md` — 1060w
+- 2008-02-04 — [DRM Ignorance is Expensive](https://blog.codinghorror.com/drm-ignorance-is-expensive/) — `2008-02-04-drm-ignorance-is-expensive.md` — 1134w
+- 2008-02-03 — [A Lesson in Apple Economics](https://blog.codinghorror.com/a-lesson-in-apple-economics/) — `2008-02-03-a-lesson-in-apple-economics.md` — 613w
+- 2008-02-02 — [Get Your Database Under Version Control](https://blog.codinghorror.com/get-your-database-under-version-control/) — `2008-02-02-get-your-database-under-version-control.md` — 356w
+- 2008-01-31 — [Every User Lies](https://blog.codinghorror.com/every-user-lies/) — `2008-01-31-every-user-lies.md` — 743w
 - 2008-01-30 — [Is Worse Really Better?](https://blog.codinghorror.com/is-worse-really-better/) — `2008-01-30-is-worse-really-better.md` — 1249w
 - 2008-01-28 — [What’s Your Backup Strategy?](https://blog.codinghorror.com/whats-your-backup-strategy/) — `2008-01-28-whats-your-backup-strategy.md` — 1013w
+- 2008-01-27 — [Why Doesn’t Anyone Give a Crap About Freedom Zero?](https://blog.codinghorror.com/why-doesnt-anyone-give-a-crap-about-freedom-zero/) — `2008-01-27-why-doesnt-anyone-give-a-crap-about-freedom-zero.md` — 1378w
+- 2008-01-24 — [What Can You Build in 600 Lines of Code?](https://blog.codinghorror.com/what-can-you-build-in-600-lines-of-code/) — `2008-01-24-what-can-you-build-in-600-lines-of-code.md` — 397w
+- 2008-01-22 — [Getting the Interview Phone Screen Right](https://blog.codinghorror.com/getting-the-interview-phone-screen-right/) — `2008-01-22-getting-the-interview-phone-screen-right.md` — 1504w
+- 2008-01-21 — [Reinventing the Clipboard](https://blog.codinghorror.com/reinventing-the-clipboard/) — `2008-01-21-reinventing-the-clipboard.md` — 727w
 - 2008-01-19 — [The Sesame Street Presentation Rule](https://blog.codinghorror.com/the-sesame-street-presentation-rule/) — `2008-01-19-the-sesame-street-presentation-rule.md` — 524w
+- 2008-01-17 — [See You at CUSEC 2008](https://blog.codinghorror.com/see-you-at-cusec-2008/) — `2008-01-17-see-you-at-cusec-2008.md` — 482w
+- 2008-01-16 — [Typography: Where Engineers and Designers Meet](https://blog.codinghorror.com/typography-where-engineers-and-designers-meet/) — `2008-01-16-typography-where-engineers-and-designers-meet.md` — 837w
+- 2008-01-15 — [The Five Browser Shortcuts Everyone Should Know](https://blog.codinghorror.com/the-five-browser-shortcuts-everyone-should-know/) — `2008-01-15-the-five-browser-shortcuts-everyone-should-know.md` — 776w
+- 2008-01-13 — [What’s On Your Keychain, 2008 Edition](https://blog.codinghorror.com/whats-on-your-keychain-2008-edition/) — `2008-01-13-whats-on-your-keychain-2008-edition.md` — 790w
 - 2008-01-10 — [The Enduring Art of Computer Programming](https://blog.codinghorror.com/the-enduring-art-of-computer-programming/) — `2008-01-10-the-enduring-art-of-computer-programming.md` — 1175w
+- 2008-01-08 — [Don’t Pollute User Space](https://blog.codinghorror.com/dont-pollute-user-space/) — `2008-01-08-dont-pollute-user-space.md` — 585w
+- 2008-01-06 — [The Magpie Developer](https://blog.codinghorror.com/the-magpie-developer/) — `2008-01-06-the-magpie-developer.md` — 1109w
+- 2008-01-04 — [My Racing Simulation Rig](https://blog.codinghorror.com/my-racing-simulation-rig/) — `2008-01-04-my-racing-simulation-rig.md` — 923w
+- 2008-01-03 — [Understanding User and Kernel Mode](https://blog.codinghorror.com/understanding-user-and-kernel-mode/) — `2008-01-03-understanding-user-and-kernel-mode.md` — 754w
+- 2008-01-01 — [The Trouble with PDFs](https://blog.codinghorror.com/the-trouble-with-pdfs/) — `2008-01-01-the-trouble-with-pdfs.md` — 864w
+- 2007-12-26 — [Modern Logo](https://blog.codinghorror.com/modern-logo/) — `2007-12-26-modern-logo.md` — 741w
+- 2007-12-23 — [Size Is The Enemy](https://blog.codinghorror.com/size-is-the-enemy/) — `2007-12-23-size-is-the-enemy.md` — 1531w
+- 2007-12-20 — [Digital Certificates: Do They Work?](https://blog.codinghorror.com/digital-certificates-do-they-work/) — `2007-12-20-digital-certificates-do-they-work.md` — 871w
+- 2007-12-19 — [The Great Browser JavaScript Showdown](https://blog.codinghorror.com/the-great-browser-javascript-showdown/) — `2007-12-19-the-great-browser-javascript-showdown.md` — 610w
+- 2007-12-18 — [Nobody Cares What Your Code Looks Like](https://blog.codinghorror.com/nobody-cares-what-your-code-looks-like/) — `2007-12-18-nobody-cares-what-your-code-looks-like.md` — 932w
+- 2007-12-17 — [Software Registration Keys](https://blog.codinghorror.com/software-registration-keys/) — `2007-12-17-software-registration-keys.md` — 1380w
+- 2007-12-13 — [Our Fractured Online Identities](https://blog.codinghorror.com/our-fractured-online-identities/) — `2007-12-13-our-fractured-online-identities.md` — 542w
+- 2007-12-12 — [Sorting for Humans : Natural Sort Order](https://blog.codinghorror.com/sorting-for-humans-natural-sort-order/) — `2007-12-12-sorting-for-humans-natural-sort-order.md` — 704w
 - 2007-12-11 — [Blacklists Don’t Work](https://blog.codinghorror.com/blacklists-dont-work/) — `2007-12-11-blacklists-dont-work.md` — 1760w
+- 2007-12-07 — [The Danger of Naïveté](https://blog.codinghorror.com/the-danger-of-naivete/) — `2007-12-07-the-danger-of-naivete.md` — 897w
+- 2007-12-06 — [Hashtables, Pigeonholes, and Birthdays](https://blog.codinghorror.com/hashtables-pigeonholes-and-birthdays/) — `2007-12-06-hashtables-pigeonholes-and-birthdays.md` — 970w
+- 2007-12-03 — [Shuffling](https://blog.codinghorror.com/shuffling/) — `2007-12-03-shuffling.md` — 731w
+- 2007-12-02 — [Presentation: Be Vain](https://blog.codinghorror.com/presentation-be-vain/) — `2007-12-02-presentation-be-vain.md` — 729w
+- 2007-11-29 — [Mort, Elvis, Einstein, and You](https://blog.codinghorror.com/mort-elvis-einstein-and-you/) — `2007-11-29-mort-elvis-einstein-and-you.md` — 1682w
+- 2007-11-26 — [The Big Ball of Mud and Other Architectural Disasters](https://blog.codinghorror.com/the-big-ball-of-mud-and-other-architectural-disasters/) — `2007-11-26-the-big-ball-of-mud-and-other-architectural-disasters.md` — 1900w
+- 2007-11-25 — [The Two Types of Programmers](https://blog.codinghorror.com/the-two-types-of-programmers/) — `2007-11-25-the-two-types-of-programmers.md` — 950w
+- 2007-11-20 — [Has CAPTCHA Been “Broken?”](https://blog.codinghorror.com/has-captcha-been-broken/) — `2007-11-20-has-captcha-been-broken.md` — 794w
+- 2007-11-19 — [Living the Dream: Rock Band](https://blog.codinghorror.com/living-the-dream-rock-band/) — `2007-11-19-living-the-dream-rock-band.md` — 905w
+- 2007-11-18 — [Pair Programming vs. Code Reviews](https://blog.codinghorror.com/pair-programming-vs-code-reviews/) — `2007-11-18-pair-programming-vs-code-reviews.md` — 1084w
+- 2007-11-15 — [You’re Now Competing With The Internet](https://blog.codinghorror.com/youre-now-competing-with-the-internet/) — `2007-11-15-youre-now-competing-with-the-internet.md` — 749w
+- 2007-11-14 — [Don’t Forget To Lock Your Computer](https://blog.codinghorror.com/dont-forget-to-lock-your-computer/) — `2007-11-14-dont-forget-to-lock-your-computer.md` — 466w
+- 2007-11-12 — [What’s in a Project Name?](https://blog.codinghorror.com/whats-in-a-project-name/) — `2007-11-12-whats-in-a-project-name.md` — 556w
+- 2007-11-11 — [The Sad State of Digital Software Distribution](https://blog.codinghorror.com/the-sad-state-of-digital-software-distribution/) — `2007-11-11-the-sad-state-of-digital-software-distribution.md` — 876w
+- 2007-11-09 — [Is It Time for 64](https://blog.codinghorror.com/is-it-time-for-64-bit-on-the-desktop/) — `2007-11-09-is-it-time-for-64-bit-on-the-desktop.md` — 1105w
+- 2007-11-07 — [Making Donations Easy](https://blog.codinghorror.com/making-donations-easy/) — `2007-11-07-making-donations-easy.md` — 715w
+- 2007-11-06 — [Who Wrote This Crap?](https://blog.codinghorror.com/who-wrote-this-crap/) — `2007-11-06-who-wrote-this-crap.md` — 358w
+- 2007-11-04 — [Don’t Click Here: The Art of Hyperlinking](https://blog.codinghorror.com/dont-click-here-the-art-of-hyperlinking/) — `2007-11-04-dont-click-here-the-art-of-hyperlinking.md` — 1407w
+- 2007-11-01 — [Not All LCD Panels Are Created Equal](https://blog.codinghorror.com/not-all-lcd-panels-are-created-equal/) — `2007-11-01-not-all-lcd-panels-are-created-equal.md` — 541w
+- 2007-10-31 — [The F5 Key Is Not a Build Process](https://blog.codinghorror.com/the-f5-key-is-not-a-build-process/) — `2007-10-31-the-f5-key-is-not-a-build-process.md` — 714w
+- 2007-10-26 — [How To Achieve Ultimate Blog Success In One Easy Step](https://blog.codinghorror.com/how-to-achieve-ultimate-blog-success-in-one-easy-step/) — `2007-10-26-how-to-achieve-ultimate-blog-success-in-one-easy-step.md` — 900w
+- 2007-10-25 — [I’d Consider That Harmful, Too](https://blog.codinghorror.com/id-consider-that-harmful-too/) — `2007-10-25-id-consider-that-harmful-too.md` — 921w
+- 2007-10-24 — [Hardware Assisted Brute Force Attacks: Still For Dummies](https://blog.codinghorror.com/hardware-assisted-brute-force-attacks-still-for-dummies/) — `2007-10-24-hardware-assisted-brute-force-attacks-still-for-dummies.md` — 926w
+- 2007-10-23 — [Virtual Machine Server Hosting](https://blog.codinghorror.com/virtual-machine-server-hosting/) — `2007-10-23-virtual-machine-server-hosting.md` — 950w
+- 2007-10-21 — [Let’s Play Planning Poker!](https://blog.codinghorror.com/lets-play-planning-poker/) — `2007-10-21-lets-play-planning-poker.md` — 991w
+- 2007-10-18 — [Are Features The Enemy?](https://blog.codinghorror.com/are-features-the-enemy/) — `2007-10-18-are-features-the-enemy.md` — 967w
+- 2007-10-17 — [Why Does Software Spoil?](https://blog.codinghorror.com/why-does-software-spoil/) — `2007-10-17-why-does-software-spoil.md` — 766w
+- 2007-10-15 — [Remember, This Stuff Is Supposed To Be Fun](https://blog.codinghorror.com/remember-this-stuff-is-supposed-to-be-fun/) — `2007-10-15-remember-this-stuff-is-supposed-to-be-fun.md` — 823w
+- 2007-10-14 — [Torrent Informatics](https://blog.codinghorror.com/torrent-informatics/) — `2007-10-14-torrent-informatics.md` — 988w
+- 2007-10-13 — [Mouse Ballistics](https://blog.codinghorror.com/mouse-ballistics/) — `2007-10-13-mouse-ballistics.md` — 1689w
 - 2007-10-11 — [A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/) — `2007-10-11-a-visual-explanation-of-sql-joins.md` — 408w
+- 2007-10-10 — [A Lesson in Control Simplicity](https://blog.codinghorror.com/a-lesson-in-control-simplicity/) — `2007-10-10-a-lesson-in-control-simplicity.md` — 157w
+- 2007-10-07 — [YouTube: The Big Copyright Lie](https://blog.codinghorror.com/youtube-the-big-copyright-lie/) — `2007-10-07-youtube-the-big-copyright-lie.md` — 1118w
+- 2007-10-04 — [Do Not Buy This Book](https://blog.codinghorror.com/do-not-buy-this-book/) — `2007-10-04-do-not-buy-this-book.md` — 1175w
+- 2007-10-03 — [Revisiting Programming Fonts](https://blog.codinghorror.com/revisiting-programming-fonts/) — `2007-10-03-revisiting-programming-fonts.md` — 245w
+- 2007-10-02 — [Software Branching and Parallel Universes](https://blog.codinghorror.com/software-branching-and-parallel-universes/) — `2007-10-02-software-branching-and-parallel-universes.md` — 1604w
+- 2007-10-01 — [Pushing Operating System Limits](https://blog.codinghorror.com/pushing-operating-system-limits/) — `2007-10-01-pushing-operating-system-limits.md` — 844w
+- 2007-09-28 — [Computer Display Calibration 101](https://blog.codinghorror.com/computer-display-calibration-101/) — `2007-09-28-computer-display-calibration-101.md` — 1221w
+- 2007-09-27 — [Why Are Web Uploads So Painful?](https://blog.codinghorror.com/why-are-web-uploads-so-painful/) — `2007-09-27-why-are-web-uploads-so-painful.md` — 854w
 - 2007-09-26 — [Can Your Team Pass The Elevator Test?](https://blog.codinghorror.com/can-your-team-pass-the-elevator-test/) — `2007-09-26-can-your-team-pass-the-elevator-test.md` — 1070w
+- 2007-09-24 — [Steve McConnell in the Doghouse](https://blog.codinghorror.com/steve-mcconnell-in-the-doghouse/) — `2007-09-24-steve-mcconnell-in-the-doghouse.md` — 943w
+- 2007-09-21 — [LCD Monitor Arms](https://blog.codinghorror.com/lcd-monitor-arms/) — `2007-09-21-lcd-monitor-arms.md` — 753w
+- 2007-09-20 — [On Expose, Flip3D, and Switcher](https://blog.codinghorror.com/on-expos-flip3d-and-switcher/) — `2007-09-20-on-expos-flip3d-and-switcher.md` — 702w
+- 2007-09-19 — [Everything Is Fast For Small n](https://blog.codinghorror.com/everything-is-fast-for-small-n/) — `2007-09-19-everything-is-fast-for-small-n.md` — 804w
+- 2007-09-18 — [Lazyweb Calling](https://blog.codinghorror.com/lazyweb-calling/) — `2007-09-18-lazyweb-calling.md` — 336w
+- 2007-09-17 — [Practicing the Fundamentals: The New Turing Omnibus](https://blog.codinghorror.com/practicing-the-fundamentals-the-new-turing-omnibus/) — `2007-09-17-practicing-the-fundamentals-the-new-turing-omnibus.md` — 716w
+- 2007-09-16 — [You’re Probably Storing Passwords Incorrectly](https://blog.codinghorror.com/youre-probably-storing-passwords-incorrectly/) — `2007-09-16-youre-probably-storing-passwords-incorrectly.md` — 1430w
+- 2007-09-12 — [Classic Computer Science Puzzles](https://blog.codinghorror.com/classic-computer-science-puzzles/) — `2007-09-12-classic-computer-science-puzzles.md` — 324w
+- 2007-09-10 — [Gigabyte: Decimal vs. Binary](https://blog.codinghorror.com/gigabyte-decimal-vs-binary/) — `2007-09-10-gigabyte-decimal-vs-binary.md` — 651w
+- 2007-09-06 — [The Problem With Tabbed Interfaces](https://blog.codinghorror.com/the-problem-with-tabbed-interfaces/) — `2007-09-06-the-problem-with-tabbed-interfaces.md` — 1071w
+- 2007-09-05 — [The Peanut Butter Theory of User Interface Design](https://blog.codinghorror.com/the-peanut-butter-theory-of-user-interface-design/) — `2007-09-05-the-peanut-butter-theory-of-user-interface-design.md` — 292w
+- 2007-09-04 — [Online Newspapers, Offline](https://blog.codinghorror.com/online-newspapers-offline/) — `2007-09-04-online-newspapers-offline.md` — 488w
+- 2007-09-02 — [Keeping The Menu Simple](https://blog.codinghorror.com/keeping-the-menu-simple/) — `2007-09-02-keeping-the-menu-simple.md` — 212w
+- 2007-08-29 — [Falling Into The Pit of Success](https://blog.codinghorror.com/falling-into-the-pit-of-success/) — `2007-08-29-falling-into-the-pit-of-success.md` — 595w
+- 2007-08-28 — [Was The Windows Registry a Good Idea?](https://blog.codinghorror.com/was-the-windows-registry-a-good-idea/) — `2007-08-28-was-the-windows-registry-a-good-idea.md` — 802w
+- 2007-08-26 — [Computer Workstation Ergonomics](https://blog.codinghorror.com/computer-workstation-ergonomics/) — `2007-08-26-computer-workstation-ergonomics.md` — 720w
+- 2007-08-23 — [Widescreen and FOV](https://blog.codinghorror.com/widescreen-and-fov/) — `2007-08-23-widescreen-and-fov.md` — 496w
 - 2007-08-21 — [URL Shortening: Hashes In Practice](https://blog.codinghorror.com/url-shortening-hashes-in-practice/) — `2007-08-21-url-shortening-hashes-in-practice.md` — 1102w
+- 2007-08-20 — [How Not To Write a Technical Book, Epilogue](https://blog.codinghorror.com/how-not-to-write-a-technical-book-epilogue/) — `2007-08-20-how-not-to-write-a-technical-book-epilogue.md` — 183w
+- 2007-08-19 — [Leading by Example](https://blog.codinghorror.com/leading-by-example/) — `2007-08-19-leading-by-example.md` — 1196w
+- 2007-08-16 — [Thirteen Blog Clichés](https://blog.codinghorror.com/thirteen-blog-cliches/) — `2007-08-16-thirteen-blog-cliches.md` — 2756w
+- 2007-08-15 — [YSlow: Yahoo’s Problems Are Not Your Problems](https://blog.codinghorror.com/yslow-yahoos-problems-are-not-your-problems/) — `2007-08-15-yslow-yahoos-problems-are-not-your-problems.md` — 1270w
+- 2007-08-14 — [Discipline Makes Strong Developers](https://blog.codinghorror.com/discipline-makes-strong-developers/) — `2007-08-14-discipline-makes-strong-developers.md` — 884w
+- 2007-08-13 — [Measuring Font Legibility](https://blog.codinghorror.com/measuring-font-legibility/) — `2007-08-13-measuring-font-legibility.md` — 608w
+- 2007-08-10 — [Trojans, Rootkits, and the Culture of Fear](https://blog.codinghorror.com/trojans-rootkits-and-the-culture-of-fear/) — `2007-08-10-trojans-rootkits-and-the-culture-of-fear.md` — 1963w
+- 2007-08-07 — [The Large Display Paradox](https://blog.codinghorror.com/the-large-display-paradox/) — `2007-08-07-the-large-display-paradox.md` — 893w
+- 2007-08-06 — [Catalogs of Data Visualization](https://blog.codinghorror.com/catalogs-of-data-visualization/) — `2007-08-06-catalogs-of-data-visualization.md` — 172w
+- 2007-08-03 — [Configuring The Stack](https://blog.codinghorror.com/configuring-the-stack/) — `2007-08-03-configuring-the-stack.md` — 281w
+- 2007-08-01 — [Speeding Up Your PC’s Boot Time](https://blog.codinghorror.com/speeding-up-your-pcs-boot-time/) — `2007-08-01-speeding-up-your-pcs-boot-time.md` — 1099w
+- 2007-07-30 — [The Software Imprinting Dilemma](https://blog.codinghorror.com/the-software-imprinting-dilemma/) — `2007-07-30-the-software-imprinting-dilemma.md` — 707w
+- 2007-07-27 — [The Coming Software Patent Apocalypse](https://blog.codinghorror.com/the-coming-software-patent-apocalypse/) — `2007-07-27-the-coming-software-patent-apocalypse.md` — 1066w
+- 2007-07-26 — [Google’s Number One UI Mistake](https://blog.codinghorror.com/googles-number-one-ui-mistake/) — `2007-07-26-googles-number-one-ui-mistake.md` — 755w
+- 2007-07-25 — [Whatever Happened to Civility on The Internet?](https://blog.codinghorror.com/whatever-happened-to-civility-on-the-internet/) — `2007-07-25-whatever-happened-to-civility-on-the-internet.md` — 722w
+- 2007-07-24 — [Lessons from Garry’s Mod](https://blog.codinghorror.com/lessons-from-garrys-mod/) — `2007-07-24-lessons-from-garrys-mod.md` — 547w
+- 2007-07-23 — [Building a PC, Part IV: Now It’s Your Turn](https://blog.codinghorror.com/building-a-pc-part-iv-now-its-your-turn/) — `2007-07-23-building-a-pc-part-iv-now-its-your-turn.md` — 605w
+- 2007-07-20 — [Will My Software Project Fail?](https://blog.codinghorror.com/will-my-software-project-fail/) — `2007-07-20-will-my-software-project-fail.md` — 753w
+- 2007-07-19 — [Futurist Programming... in 1994](https://blog.codinghorror.com/futurist-programming-in-1994/) — `2007-07-19-futurist-programming-in-1994.md` — 584w
+- 2007-07-18 — [What’s Wrong With Setup.exe?](https://blog.codinghorror.com/whats-wrong-with-setupexe/) — `2007-07-18-whats-wrong-with-setupexe.md` — 765w
+- 2007-07-17 — [The Principle of Least Power](https://blog.codinghorror.com/the-principle-of-least-power/) — `2007-07-17-the-principle-of-least-power.md` — 334w
+- 2007-07-16 — [The Non](https://blog.codinghorror.com/the-non-maximizing-maximize-button/) — `2007-07-16-the-non-maximizing-maximize-button.md` — 871w
+- 2007-07-13 — [Don’t Be a Commodity Blogger](https://blog.codinghorror.com/dont-be-a-commodity-blogger/) — `2007-07-13-dont-be-a-commodity-blogger.md` — 810w
+- 2007-07-12 — [Steve Mann, Cyborg](https://blog.codinghorror.com/steve-mann-cyborg/) — `2007-07-12-steve-mann-cyborg.md` — 270w
+- 2007-07-11 — [Building a PC, Part III – Overclocking](https://blog.codinghorror.com/building-a-pc-part-iii-overclocking/) — `2007-07-11-building-a-pc-part-iii-overclocking.md` — 901w
+- 2007-07-10 — [Building a PC, Part II](https://blog.codinghorror.com/building-a-pc-part-ii/) — `2007-07-10-building-a-pc-part-ii.md` — 1387w
+- 2007-07-04 — [Game Development Postmortems](https://blog.codinghorror.com/game-development-postmortems/) — `2007-07-04-game-development-postmortems.md` — 640w
+- 2007-07-03 — [The Technology Backlash](https://blog.codinghorror.com/the-technology-backlash/) — `2007-07-03-the-technology-backlash.md` — 1274w
+- 2007-07-02 — [Rethinking Design Patterns](https://blog.codinghorror.com/rethinking-design-patterns/) — `2007-07-02-rethinking-design-patterns.md` — 681w
+- 2007-06-29 — [Avoiding Walled Gardens on the Internet](https://blog.codinghorror.com/avoiding-walled-gardens-on-the-internet/) — `2007-06-29-avoiding-walled-gardens-on-the-internet.md` — 756w
 - 2007-06-28 — [The Three Faces of About Face](https://blog.codinghorror.com/the-three-faces-of-about-face/) — `2007-06-28-the-three-faces-of-about-face.md` — 593w
+- 2007-06-27 — [Why You Don’t Want an iPhone – Yet](https://blog.codinghorror.com/why-you-dont-want-an-iphone-yet/) — `2007-06-27-why-you-dont-want-an-iphone-yet.md` — 1379w
+- 2007-06-26 — [Learning, or, Learning How To Learn](https://blog.codinghorror.com/learning-or-learning-how-to-learn/) — `2007-06-26-learning-or-learning-how-to-learn.md` — 615w
+- 2007-06-21 — [Does Anyone Actually Read Software EULAs?](https://blog.codinghorror.com/does-anyone-actually-read-software-eulas/) — `2007-06-21-does-anyone-actually-read-software-eulas.md` — 1051w
+- 2007-06-20 — [The Windows Security Epidemic: Don’t Run as an Administrator](https://blog.codinghorror.com/the-windows-security-epidemic-dont-run-as-an-administrator/) — `2007-06-20-the-windows-security-epidemic-dont-run-as-an-administrator.md` — 1152w
+- 2007-06-19 — [In Programming, One Is The Loneliest Number](https://blog.codinghorror.com/in-programming-one-is-the-loneliest-number/) — `2007-06-19-in-programming-one-is-the-loneliest-number.md` — 797w
+- 2007-06-18 — [Escaping From Gilligan’s Island](https://blog.codinghorror.com/escaping-from-gilligans-island/) — `2007-06-18-escaping-from-gilligans-island.md` — 607w
+- 2007-06-15 — [How to Clean Up a Windows Spyware Infestation](https://blog.codinghorror.com/how-to-clean-up-a-windows-spyware-infestation/) — `2007-06-15-how-to-clean-up-a-windows-spyware-infestation.md` — 1677w
+- 2007-06-14 — [Incremental Feature Search in Applications](https://blog.codinghorror.com/incremental-feature-search-in-applications/) — `2007-06-14-incremental-feature-search-in-applications.md` — 801w
+- 2007-06-12 — [Font Rendering: Respecting The Pixel Grid](https://blog.codinghorror.com/font-rendering-respecting-the-pixel-grid/) — `2007-06-12-font-rendering-respecting-the-pixel-grid.md` — 695w
+- 2007-06-11 — [What’s Wrong With Apple’s Font Rendering?](https://blog.codinghorror.com/whats-wrong-with-apples-font-rendering/) — `2007-06-11-whats-wrong-with-apples-font-rendering.md` — 371w
+- 2007-06-07 — [Who Killed the Desktop Application?](https://blog.codinghorror.com/who-killed-the-desktop-application/) — `2007-06-07-who-killed-the-desktop-application.md` — 612w
+- 2007-06-06 — [Designing for Informavores, or, Why Users Behave Like Animals Online](https://blog.codinghorror.com/designing-for-informavores-or-why-users-behave-like-animals-online/) — `2007-06-06-designing-for-informavores-or-why-users-behave-like-animals-online.md` — 852w
+- 2007-06-05 — [Don’t Ask – Observe](https://blog.codinghorror.com/dont-ask-observe/) — `2007-06-05-dont-ask-observe.md` — 1328w
+- 2007-06-04 — [Removing The Login Barrier](https://blog.codinghorror.com/removing-the-login-barrier/) — `2007-06-04-removing-the-login-barrier.md` — 867w
+- 2007-06-01 — [Background Compilation and Background Spell Checking](https://blog.codinghorror.com/background-compilation-and-background-spell-checking/) — `2007-06-01-background-compilation-and-background-spell-checking.md` — 1296w
+- 2007-05-31 — [Gates and Jobs, Then and Now](https://blog.codinghorror.com/gates-and-jobs-then-and-now/) — `2007-05-31-gates-and-jobs-then-and-now.md` — 539w
 - 2007-05-30 — [The Best Code is No Code At All](https://blog.codinghorror.com/the-best-code-is-no-code-at-all/) — `2007-05-30-the-best-code-is-no-code-at-all.md` — 766w
+- 2007-05-29 — [Let’s Build a Grid](https://blog.codinghorror.com/lets-build-a-grid/) — `2007-05-29-lets-build-a-grid.md` — 337w
+- 2007-05-28 — [Computer Hardware Pornography](https://blog.codinghorror.com/computer-hardware-pornography/) — `2007-05-28-computer-hardware-pornography.md` — 621w
+- 2007-05-25 — [How to Get Rich Programming](https://blog.codinghorror.com/how-to-get-rich-programming/) — `2007-05-25-how-to-get-rich-programming.md` — 909w
+- 2007-05-23 — [The End of the “Microsoft Tax”](https://blog.codinghorror.com/the-end-of-the-microsoft-tax/) — `2007-05-23-the-end-of-the-microsoft-tax.md` — 301w
+- 2007-05-22 — [When Hardware is Free, Power is Expensive](https://blog.codinghorror.com/when-hardware-is-free-power-is-expensive/) — `2007-05-22-when-hardware-is-free-power-is-expensive.md` — 1409w
+- 2007-05-18 — [Productivity Tip: Upgrade Your Pentium 4](https://blog.codinghorror.com/productivity-tip-upgrade-your-pentium-4/) — `2007-05-18-productivity-tip-upgrade-your-pentium-4.md` — 456w
+- 2007-05-17 — [Reducing User Interface Friction](https://blog.codinghorror.com/reducing-user-interface-friction/) — `2007-05-17-reducing-user-interface-friction.md` — 781w
+- 2007-05-16 — [Meet The Inventor of the Mouse Wheel](https://blog.codinghorror.com/meet-the-inventor-of-the-mouse-wheel/) — `2007-05-16-meet-the-inventor-of-the-mouse-wheel.md` — 778w
+- 2007-05-15 — [Designing Interactions at IDEO](https://blog.codinghorror.com/designing-interactions-at-ideo/) — `2007-05-15-designing-interactions-at-ideo.md` — 391w
+- 2007-05-11 — [C# and the Compilation Tax](https://blog.codinghorror.com/c-and-the-compilation-tax/) — `2007-05-11-c-and-the-compilation-tax.md` — 1038w
+- 2007-05-10 — [This Site May Harm Your Computer](https://blog.codinghorror.com/this-site-may-harm-your-computer/) — `2007-05-10-this-site-may-harm-your-computer.md` — 719w
+- 2007-05-09 — [Zoomable Interfaces](https://blog.codinghorror.com/zoomable-interfaces/) — `2007-05-09-zoomable-interfaces.md` — 522w
+- 2007-05-08 — [Giving Up on Microsoft](https://blog.codinghorror.com/giving-up-on-microsoft/) — `2007-05-08-giving-up-on-microsoft.md` — 1273w
+- 2007-05-04 — [Phishing: The Forever Hack](https://blog.codinghorror.com/phishing-the-forever-hack/) — `2007-05-04-phishing-the-forever-hack.md` — 887w
+- 2007-05-03 — [Maximizing The Value of Your Keystrokes](https://blog.codinghorror.com/maximizing-the-value-of-your-keystrokes/) — `2007-05-03-maximizing-the-value-of-your-keystrokes.md` — 462w
+- 2007-05-02 — [Basic Design Principles for Software Developers](https://blog.codinghorror.com/basic-design-principles-for-software-developers/) — `2007-05-02-basic-design-principles-for-software-developers.md` — 814w
+- 2007-05-01 — [Programming Tip: Learn a Graphics Editor](https://blog.codinghorror.com/programming-tip-learn-a-graphics-editor/) — `2007-05-01-programming-tip-learn-a-graphics-editor.md` — 401w
+- 2007-04-30 — [An Initiate of the Bayesian Conspiracy](https://blog.codinghorror.com/an-initiate-of-the-bayesian-conspiracy/) — `2007-04-30-an-initiate-of-the-bayesian-conspiracy.md` — 794w
+- 2007-04-29 — [See You At MIX07](https://blog.codinghorror.com/see-you-at-mix07/) — `2007-04-29-see-you-at-mix07.md` — 164w
+- 2007-04-26 — [JavaScript and HTML: Forgiveness by Default](https://blog.codinghorror.com/javascript-and-html-forgiveness-by-default/) — `2007-04-26-javascript-and-html-forgiveness-by-default.md` — 982w
 - 2007-04-25 — [Coding Horror on .NET Rocks](https://blog.codinghorror.com/coding-horror-on-net-rocks/) — `2007-04-25-coding-horror-on-net-rocks.md` — 158w
+- 2007-04-24 — [How Not To Write a Technical Book](https://blog.codinghorror.com/how-not-to-write-a-technical-book/) — `2007-04-24-how-not-to-write-a-technical-book.md` — 458w
+- 2007-04-23 — [Where Are All the Open Source Billionaires?](https://blog.codinghorror.com/where-are-all-the-open-source-billionaires/) — `2007-04-23-where-are-all-the-open-source-billionaires.md` — 679w
+- 2007-04-20 — [Welcome to Dot](https://blog.codinghorror.com/welcome-to-dot-com-bubble-20/) — `2007-04-20-welcome-to-dot-com-bubble-20.md` — 748w
+- 2007-04-18 — [Sins of Software Security](https://blog.codinghorror.com/sins-of-software-security/) — `2007-04-18-sins-of-software-security.md` — 369w
+- 2007-04-17 — [When In Doubt, Make It Public](https://blog.codinghorror.com/when-in-doubt-make-it-public/) — `2007-04-17-when-in-doubt-make-it-public.md` — 564w
+- 2007-04-11 — [The Pernicious Issue of Software Patents](https://blog.codinghorror.com/the-pernicious-issue-of-software-patents/) — `2007-04-11-the-pernicious-issue-of-software-patents.md` — 587w
+- 2007-04-10 — [Usability Is Timeless](https://blog.codinghorror.com/usability-is-timeless/) — `2007-04-10-usability-is-timeless.md` — 523w
+- 2007-04-09 — [Is Amazon’s Mechanical Turk a Failure?](https://blog.codinghorror.com/is-amazons-mechanical-turk-a-failure/) — `2007-04-09-is-amazons-mechanical-turk-a-failure.md` — 867w
+- 2007-04-06 — [EA’s Software Artists](https://blog.codinghorror.com/eas-software-artists/) — `2007-04-06-eas-software-artists.md` — 459w
+- 2007-04-04 — [Firefox as an IDE](https://blog.codinghorror.com/firefox-as-an-ide/) — `2007-04-04-firefox-as-an-ide.md` — 297w
+- 2007-04-03 — [Pick a License, Any License](https://blog.codinghorror.com/pick-a-license-any-license/) — `2007-04-03-pick-a-license-any-license.md` — 436w
+- 2007-04-02 — [Software Projects as Rock Climbing](https://blog.codinghorror.com/software-projects-as-rock-climbing/) — `2007-04-02-software-projects-as-rock-climbing.md` — 1208w
+- 2007-04-02 — [Mouse DPI and USB Polling Rate](https://blog.codinghorror.com/mouse-dpi-and-usb-polling-rate/) — `2007-04-02-mouse-dpi-and-usb-polling-rate.md` — 670w
+- 2007-04-01 — [All About My Cats!](https://blog.codinghorror.com/all-about-my-cats/) — `2007-04-01-all-about-my-cats.md` — 758w
+- 2007-03-29 — [Software Development as a Collaborative Game](https://blog.codinghorror.com/software-development-as-a-collaborative-game/) — `2007-03-29-software-development-as-a-collaborative-game.md` — 836w
+- 2007-03-27 — [Going Commando – Put Down The Mouse](https://blog.codinghorror.com/going-commando-put-down-the-mouse/) — `2007-03-27-going-commando-put-down-the-mouse.md` — 498w
+- 2007-03-26 — [What’s Wrong With The Daily WTF](https://blog.codinghorror.com/whats-wrong-with-the-daily-wtf/) — `2007-03-26-whats-wrong-with-the-daily-wtf.md` — 664w
+- 2007-03-23 — [Folding: The Death of the General Purpose CPU](https://blog.codinghorror.com/folding-the-death-of-the-general-purpose-cpu/) — `2007-03-23-folding-the-death-of-the-general-purpose-cpu.md` — 540w
+- 2007-03-22 — [Top 6 List of Programming Top 10 Lists](https://blog.codinghorror.com/top-6-list-of-programming-top-10-lists/) — `2007-03-22-top-6-list-of-programming-top-10-lists.md` — 578w
+- 2007-03-21 — [A Race of Futuristic Supermen!](https://blog.codinghorror.com/a-race-of-futuristic-supermen/) — `2007-03-21-a-race-of-futuristic-supermen.md` — 131w
+- 2007-03-20 — [Code Access Security and Bitfrost](https://blog.codinghorror.com/code-access-security-and-bitfrost/) — `2007-03-20-code-access-security-and-bitfrost.md` — 742w
+- 2007-03-19 — [Primary Keys: IDs versus GUIDs](https://blog.codinghorror.com/primary-keys-ids-versus-guids/) — `2007-03-19-primary-keys-ids-versus-guids.md` — 365w
+- 2007-03-16 — [Creating User Friendly 404 Pages](https://blog.codinghorror.com/creating-user-friendly-404-pages/) — `2007-03-16-creating-user-friendly-404-pages.md` — 923w
+- 2007-03-13 — [My Work PC, or, Taking Your Own Advice](https://blog.codinghorror.com/my-work-pc-or-taking-your-own-advice/) — `2007-03-13-my-work-pc-or-taking-your-own-advice.md` — 794w
+- 2007-03-12 — [Building a Computer the Google Way](https://blog.codinghorror.com/building-a-computer-the-google-way/) — `2007-03-12-building-a-computer-the-google-way.md` — 974w
+- 2007-03-09 — [Software Internationalization, SIMS Style](https://blog.codinghorror.com/software-internationalization-sims-style/) — `2007-03-09-software-internationalization-sims-style.md` — 972w
+- 2007-03-08 — [Dude, Where’s My 4 Gigabytes of RAM?](https://blog.codinghorror.com/dude-wheres-my-4-gigabytes-of-ram/) — `2007-03-08-dude-wheres-my-4-gigabytes-of-ram.md` — 978w
+- 2007-03-07 — [Getting the Most Out of PNG](https://blog.codinghorror.com/getting-the-most-out-of-png/) — `2007-03-07-getting-the-most-out-of-png.md` — 810w
+- 2007-03-06 — [Using Amazon S3 as an Image Hosting Service](https://blog.codinghorror.com/using-amazon-s3-as-an-image-hosting-service/) — `2007-03-06-using-amazon-s3-as-an-image-hosting-service.md` — 775w
+- 2007-03-05 — [Reducing Your Website’s Bandwidth Usage](https://blog.codinghorror.com/reducing-your-websites-bandwidth-usage/) — `2007-03-05-reducing-your-websites-bandwidth-usage.md` — 1749w
+- 2007-03-02 — [Your Code: OOP or POO?](https://blog.codinghorror.com/your-code-oop-or-poo/) — `2007-03-02-your-code-oop-or-poo.md` — 858w
+- 2007-03-01 — [Curly’s Law: Do One Thing](https://blog.codinghorror.com/curlys-law-do-one-thing/) — `2007-03-01-curlys-law-do-one-thing.md` — 724w
+- 2007-02-28 — [Choosing Anti-Anti](https://blog.codinghorror.com/choosing-anti-anti-virus-software/) — `2007-02-28-choosing-anti-anti-virus-software.md` — 1363w
+- 2007-02-27 — [FizzBuzz: the Programmer’s Stairway to Heaven](https://blog.codinghorror.com/fizzbuzz-the-programmers-stairway-to-heaven/) — `2007-02-27-fizzbuzz-the-programmers-stairway-to-heaven.md` — 336w
+- 2007-02-26 — [Why Can’t Programmers... Program?](https://blog.codinghorror.com/why-cant-programmers-program/) — `2007-02-26-why-cant-programmers-program.md` — 803w
+- 2007-02-24 — [You Want a 10,000 RPM Boot Drive](https://blog.codinghorror.com/you-want-a-10000-rpm-boot-drive/) — `2007-02-24-you-want-a-10000-rpm-boot-drive.md` — 908w
+- 2007-02-23 — [Revisiting 7](https://blog.codinghorror.com/revisiting-7-zip/) — `2007-02-23-revisiting-7-zip.md` — 242w
+- 2007-02-22 — [Don’t Use ZIP, Use RAR](https://blog.codinghorror.com/dont-use-zip-use-rar/) — `2007-02-22-dont-use-zip-use-rar.md` — 836w
+- 2007-02-20 — [Because They All Suck](https://blog.codinghorror.com/because-they-all-suck/) — `2007-02-20-because-they-all-suck.md` — 812w
+- 2007-02-19 — [Everybody Loves BitTorrent](https://blog.codinghorror.com/everybody-loves-bittorrent/) — `2007-02-19-everybody-loves-bittorrent.md` — 973w
+- 2007-02-16 — [Beyond JPEG](https://blog.codinghorror.com/beyond-jpeg/) — `2007-02-16-beyond-jpeg.md` — 508w
+- 2007-02-15 — [What’s In a Version Number, Anyway?](https://blog.codinghorror.com/whats-in-a-version-number-anyway/) — `2007-02-15-whats-in-a-version-number-anyway.md` — 862w
+- 2007-02-14 — [Origami Software and Crease Patterns](https://blog.codinghorror.com/origami-software-and-crease-patterns/) — `2007-02-14-origami-software-and-crease-patterns.md` — 421w
+- 2007-02-13 — [Code Smaller](https://blog.codinghorror.com/code-smaller/) — `2007-02-13-code-smaller.md` — 536w
+- 2007-02-12 — [Does Offline Mode Still Matter?](https://blog.codinghorror.com/does-offline-mode-still-matter/) — `2007-02-12-does-offline-mode-still-matter.md` — 459w
+- 2007-02-09 — [Remotely Waking Up Your PC](https://blog.codinghorror.com/remotely-waking-up-your-pc/) — `2007-02-09-remotely-waking-up-your-pc.md` — 578w
+- 2007-02-08 — [Non](https://blog.codinghorror.com/non-native-ui-sucks/) — `2007-02-08-non-native-ui-sucks.md` — 874w
 - 2007-02-07 — [Boyd’s Law of Iteration](https://blog.codinghorror.com/boyds-law-of-iteration/) — `2007-02-07-boyds-law-of-iteration.md` — 615w
+- 2007-02-06 — [The Software “Check Engine” Light](https://blog.codinghorror.com/the-software-check-engine-light/) — `2007-02-06-the-software-check-engine-light.md` — 636w
+- 2007-02-05 — [What You Have, What You Know, What You Are](https://blog.codinghorror.com/what-you-have-what-you-know-what-you-are/) — `2007-02-05-what-you-have-what-you-know-what-you-are.md` — 771w
+- 2007-02-02 — [Windows Vista Media Center](https://blog.codinghorror.com/windows-vista-media-center/) — `2007-02-02-windows-vista-media-center.md` — 600w
+- 2007-02-01 — [The Economics of Bandwidth](https://blog.codinghorror.com/the-economics-of-bandwidth/) — `2007-02-01-the-economics-of-bandwidth.md` — 1079w
+- 2007-01-31 — [Low](https://blog.codinghorror.com/low-fi-usability-testing/) — `2007-01-31-low-fi-usability-testing.md` — 1250w
+- 2007-01-30 — [Stylesheets for Print and Handheld](https://blog.codinghorror.com/stylesheets-for-print-and-handheld/) — `2007-01-30-stylesheets-for-print-and-handheld.md` — 445w
+- 2007-01-29 — [How To Become a Better Programmer by Not Programming](https://blog.codinghorror.com/how-to-become-a-better-programmer-by-not-programming/) — `2007-01-29-how-to-become-a-better-programmer-by-not-programming.md` — 1003w
+- 2007-01-25 — [Dynamic, Lightweight Visualization](https://blog.codinghorror.com/dynamic-lightweight-visualization/) — `2007-01-25-dynamic-lightweight-visualization.md` — 679w
+- 2007-01-24 — [Would you rather be a Navigator or an Explorer?](https://blog.codinghorror.com/would-you-rather-be-a-navigator-or-an-explorer/) — `2007-01-24-would-you-rather-be-a-navigator-or-an-explorer.md` — 274w
+- 2007-01-23 — [If It Isn’t Documented, It Doesn’t Exist](https://blog.codinghorror.com/if-it-isnt-documented-it-doesnt-exist/) — `2007-01-23-if-it-isnt-documented-it-doesnt-exist.md` — 567w
+- 2007-01-22 — [Shipping Isn’t Enough](https://blog.codinghorror.com/shipping-isnt-enough/) — `2007-01-22-shipping-isnt-enough.md` — 771w
 - 2007-01-19 — [Identicons for .NET](https://blog.codinghorror.com/identicons-for-net/) — `2007-01-19-identicons-for-net.md` — 292w
+- 2007-01-18 — [A World of Endless Advertisements](https://blog.codinghorror.com/a-world-of-endless-advertisements/) — `2007-01-18-a-world-of-endless-advertisements.md` — 493w
+- 2007-01-17 — [Do Certifications Matter?](https://blog.codinghorror.com/do-certifications-matter/) — `2007-01-17-do-certifications-matter.md` — 749w
+- 2007-01-16 — [There Are No Design Leaders in the PC World](https://blog.codinghorror.com/there-are-no-design-leaders-in-the-pc-world/) — `2007-01-16-there-are-no-design-leaders-in-the-pc-world.md` — 1112w
+- 2007-01-15 — [Five Things You Didn’t Know About Me (and my office)](https://blog.codinghorror.com/five-things-you-didnt-know-about-me-and-my-office/) — `2007-01-15-five-things-you-didnt-know-about-me-and-my-office.md` — 1969w
+- 2007-01-12 — [The Problem With C++](https://blog.codinghorror.com/the-problem-with-c/) — `2007-01-12-the-problem-with-c.md` — 732w
+- 2007-01-11 — [If It’s Not in Google, Does Your Website Really Exist?](https://blog.codinghorror.com/if-its-not-in-google-does-your-website-really-exist/) — `2007-01-11-if-its-not-in-google-does-your-website-really-exist.md` — 1010w
+- 2007-01-10 — [The Power of Defaults](https://blog.codinghorror.com/the-power-of-defaults/) — `2007-01-10-the-power-of-defaults.md` — 728w
+- 2007-01-09 — [Typing Trumps Pointing](https://blog.codinghorror.com/typing-trumps-pointing/) — `2007-01-09-typing-trumps-pointing.md` — 661w
+- 2007-01-08 — [Test Doubles: A Taxonomy of Pretend Objects](https://blog.codinghorror.com/test-doubles-a-taxonomy-of-pretend-objects/) — `2007-01-08-test-doubles-a-taxonomy-of-pretend-objects.md` — 241w
+- 2007-01-05 — [The Story About PING](https://blog.codinghorror.com/the-story-about-ping/) — `2007-01-05-the-story-about-ping.md` — 774w
+- 2007-01-04 — [The Sugar UI](https://blog.codinghorror.com/the-sugar-ui/) — `2007-01-04-the-sugar-ui.md` — 815w
+- 2007-01-03 — [If Loving Computers is Wrong, I Don’t Want to Be Right](https://blog.codinghorror.com/if-loving-computers-is-wrong-i-dont-want-to-be-right/) — `2007-01-03-if-loving-computers-is-wrong-i-dont-want-to-be-right.md` — 978w
+- 2007-01-02 — [Keeping Time on the PC](https://blog.codinghorror.com/keeping-time-on-the-pc/) — `2007-01-02-keeping-time-on-the-pc.md` — 1259w
+- 2007-01-01 — [On the Use of Clichés](https://blog.codinghorror.com/on-the-use-of-cliches/) — `2007-01-01-on-the-use-of-cliches.md` — 389w
+- 2006-12-29 — [Is your PC capable of Hi](https://blog.codinghorror.com/is-your-pc-capable-of-hi-def/) — `2006-12-29-is-your-pc-capable-of-hi-def.md` — 657w
+- 2006-12-28 — [Will your next computer monitor be a HDTV?](https://blog.codinghorror.com/will-your-next-computer-monitor-be-a-hdtv/) — `2006-12-28-will-your-next-computer-monitor-be-a-hdtv.md` — 581w
+- 2006-12-27 — [Did YouTube Cut the Gordian Knot of Video Codecs?](https://blog.codinghorror.com/did-youtube-cut-the-gordian-knot-of-video-codecs/) — `2006-12-27-did-youtube-cut-the-gordian-knot-of-video-codecs.md` — 606w
+- 2006-12-22 — [Logging in with the Keyboard](https://blog.codinghorror.com/logging-in-with-the-keyboard/) — `2006-12-22-logging-in-with-the-keyboard.md` — 286w
+- 2006-12-21 — [Assertiveness for Software Developers](https://blog.codinghorror.com/assertiveness-for-software-developers/) — `2006-12-21-assertiveness-for-software-developers.md` — 630w
+- 2006-12-20 — [The Day The Trackbacks Died](https://blog.codinghorror.com/the-day-the-trackbacks-died/) — `2006-12-20-the-day-the-trackbacks-died.md` — 903w
+- 2006-12-19 — [Eric Lippert’s Purple Crayon](https://blog.codinghorror.com/eric-lipperts-purple-crayon/) — `2006-12-19-eric-lipperts-purple-crayon.md` — 283w
+- 2006-12-18 — [Code Tells You How, Comments Tell You Why](https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/) — `2006-12-18-code-tells-you-how-comments-tell-you-why.md` — 718w
+- 2006-12-17 — [Hard Drive Temperatures: Be Afraid](https://blog.codinghorror.com/hard-drive-temperatures-be-afraid/) — `2006-12-17-hard-drive-temperatures-be-afraid.md` — 680w
+- 2006-12-16 — [Next-Gen DVD: Are Those Additional Pixels Worth Your Money?](https://blog.codinghorror.com/next-gen-dvd-are-those-additional-pixels-worth-your-money/) — `2006-12-16-next-gen-dvd-are-those-additional-pixels-worth-your-money.md` — 779w
+- 2006-12-15 — [High](https://blog.codinghorror.com/high-definition-video-on-the-pc/) — `2006-12-15-high-definition-video-on-the-pc.md` — 684w
+- 2006-12-13 — [LCD Progress](https://blog.codinghorror.com/lcd-progress/) — `2006-12-13-lcd-progress.md` — 1376w
+- 2006-12-12 — [Is Your Database Under Version Control?](https://blog.codinghorror.com/is-your-database-under-version-control/) — `2006-12-12-is-your-database-under-version-control.md` — 619w
+- 2006-12-11 — [Printer and Screen Resolution](https://blog.codinghorror.com/printer-and-screen-resolution/) — `2006-12-11-printer-and-screen-resolution.md` — 312w
+- 2006-12-10 — [Moore’s Law in Practical Terms](https://blog.codinghorror.com/moores-law-in-practical-terms/) — `2006-12-10-moores-law-in-practical-terms.md` — 427w
+- 2006-12-08 — [Joining The Prestigious Three Monitor Club](https://blog.codinghorror.com/joining-the-prestigious-three-monitor-club/) — `2006-12-08-joining-the-prestigious-three-monitor-club.md` — 821w
+- 2006-12-07 — [Reading with Edward Tufte](https://blog.codinghorror.com/reading-with-edward-tufte/) — `2006-12-07-reading-with-edward-tufte.md` — 1488w
+- 2006-12-04 — [Are You an Evangelist Too?](https://blog.codinghorror.com/are-you-an-evangelist-too/) — `2006-12-04-are-you-an-evangelist-too.md` — 782w
+- 2006-12-03 — [Cool Gifts for Geeks: 2006 Edition](https://blog.codinghorror.com/cool-gifts-for-geeks-2006-edition/) — `2006-12-03-cool-gifts-for-geeks-2006-edition.md` — 295w
+- 2006-12-01 — [Today is Support Your Favorite Small Software Vendor Day](https://blog.codinghorror.com/today-is-support-your-favorite-small-software-vendor-day/) — `2006-12-01-today-is-support-your-favorite-small-software-vendor-day.md` — 648w
+- 2006-11-30 — [The Project Postmortem](https://blog.codinghorror.com/the-project-postmortem/) — `2006-11-30-the-project-postmortem.md` — 539w
+- 2006-11-27 — [This Is What Happens When You Let Developers Create UI](https://blog.codinghorror.com/this-is-what-happens-when-you-let-developers-create-ui/) — `2006-11-27-this-is-what-happens-when-you-let-developers-create-ui.md` — 357w
+- 2006-11-24 — [Discussions: Flat or Threaded?](https://blog.codinghorror.com/discussions-flat-or-threaded/) — `2006-11-24-discussions-flat-or-threaded.md` — 512w
+- 2006-11-23 — [CPU vs. GPU](https://blog.codinghorror.com/cpu-vs-gpu/) — `2006-11-23-cpu-vs-gpu.md` — 953w
+- 2006-11-22 — [Exploring Vista’s Advanced Search](https://blog.codinghorror.com/exploring-vistas-advanced-search/) — `2006-11-22-exploring-vistas-advanced-search.md` — 472w
+- 2006-11-21 — [iPod Alternatives](https://blog.codinghorror.com/ipod-alternatives/) — `2006-11-21-ipod-alternatives.md` — 886w
+- 2006-11-20 — [Filesystem Paths: How Long is Too Long?](https://blog.codinghorror.com/filesystem-paths-how-long-is-too-long/) — `2006-11-20-filesystem-paths-how-long-is-too-long.md` — 1026w
+- 2006-11-17 — [Computers are Lousy Random Number Generators](https://blog.codinghorror.com/computers-are-lousy-random-number-generators/) — `2006-11-17-computers-are-lousy-random-number-generators.md` — 857w
+- 2006-11-16 — [It’s Never Been Built Before](https://blog.codinghorror.com/its-never-been-built-before/) — `2006-11-16-its-never-been-built-before.md` — 692w
+- 2006-11-15 — [Simplicity as a Force](https://blog.codinghorror.com/simplicity-as-a-force/) — `2006-11-15-simplicity-as-a-force.md` — 210w
+- 2006-11-14 — [Microsoft Project and the Gantt Waterfall](https://blog.codinghorror.com/microsoft-project-and-the-gantt-waterfall/) — `2006-11-14-microsoft-project-and-the-gantt-waterfall.md` — 383w
+- 2006-11-13 — [It’s a Malformed World](https://blog.codinghorror.com/its-a-malformed-world/) — `2006-11-13-its-a-malformed-world.md` — 370w
+- 2006-11-08 — [Speed Still Matters](https://blog.codinghorror.com/speed-still-matters/) — `2006-11-08-speed-still-matters.md` — 834w
+- 2006-11-06 — [KeyTraino for Visual Studio 2005](https://blog.codinghorror.com/keytraino-for-visual-studio-2005/) — `2006-11-06-keytraino-for-visual-studio-2005.md` — 209w
+- 2006-11-03 — [Customization: The Software Tar](https://blog.codinghorror.com/customization-the-software-tar-baby/) — `2006-11-03-customization-the-software-tar-baby.md` — 722w
+- 2006-11-02 — [Growing up with the Microcomputer](https://blog.codinghorror.com/growing-up-with-the-microcomputer/) — `2006-11-02-growing-up-with-the-microcomputer.md` — 425w
+- 2006-11-01 — [The High Score Table](https://blog.codinghorror.com/the-high-score-table/) — `2006-11-01-the-high-score-table.md` — 267w
+- 2006-10-31 — [What did you write five years ago?](https://blog.codinghorror.com/what-did-you-write-five-years-ago/) — `2006-10-31-what-did-you-write-five-years-ago.md` — 377w
+- 2006-10-30 — [Whitelist, Blacklist, Greylist](https://blog.codinghorror.com/whitelist-blacklist-greylist/) — `2006-10-30-whitelist-blacklist-greylist.md` — 811w
+- 2006-10-27 — [The Single Most Important Virtual Machine Performance Tip](https://blog.codinghorror.com/the-single-most-important-virtual-machine-performance-tip/) — `2006-10-27-the-single-most-important-virtual-machine-performance-tip.md` — 715w
+- 2006-10-26 — [The Build Server: Your Project’s Heart Monitor](https://blog.codinghorror.com/the-build-server-your-projects-heart-monitor/) — `2006-10-26-the-build-server-your-projects-heart-monitor.md` — 645w
+- 2006-10-25 — [CAPTCHA Effectiveness](https://blog.codinghorror.com/captcha-effectiveness/) — `2006-10-25-captcha-effectiveness.md` — 1105w
+- 2006-10-24 — [Swiss Army Knife or Generalizing Specialist](https://blog.codinghorror.com/swiss-army-knife-or-generalizing-specialist/) — `2006-10-24-swiss-army-knife-or-generalizing-specialist.md` — 814w
+- 2006-10-20 — [The Iron Stool](https://blog.codinghorror.com/the-iron-stool/) — `2006-10-20-the-iron-stool.md` — 407w
+- 2006-10-19 — [My Giant Heatsink Fetish](https://blog.codinghorror.com/my-giant-heatsink-fetish/) — `2006-10-19-my-giant-heatsink-fetish.md` — 175w
 - 2006-10-17 — [The Last Responsible Moment](https://blog.codinghorror.com/the-last-responsible-moment/) — `2006-10-17-the-last-responsible-moment.md` — 562w
+- 2006-10-16 — [Chickens, Pigs, and Really Inappropriate Terminology](https://blog.codinghorror.com/chickens-pigs-and-really-inappropriate-terminology/) — `2006-10-16-chickens-pigs-and-really-inappropriate-terminology.md` — 732w
+- 2006-10-13 — [Opting Out of Linked In](https://blog.codinghorror.com/opting-out-of-linked-in/) — `2006-10-13-opting-out-of-linked-in.md` — 362w
+- 2006-10-11 — [Chess: Computer v. Human](https://blog.codinghorror.com/chess-computer-v-human/) — `2006-10-11-chess-computer-v-human.md` — 1278w
+- 2006-10-10 — [Blog Advertising: Yea or Nay](https://blog.codinghorror.com/blog-advertising-yea-or-nay/) — `2006-10-10-blog-advertising-yea-or-nay.md` — 393w
+- 2006-10-09 — [Software Development: It’s a Religion](https://blog.codinghorror.com/software-development-its-a-religion/) — `2006-10-09-software-development-its-a-religion.md` — 995w
+- 2006-10-05 — [Building and Overclocking a Core 2 Duo System](https://blog.codinghorror.com/building-and-overclocking-a-core-2-duo-system/) — `2006-10-05-building-and-overclocking-a-core-2-duo-system.md` — 1256w
+- 2006-10-02 — [Anything But Waterfall](https://blog.codinghorror.com/anything-but-waterfall/) — `2006-10-02-anything-but-waterfall.md` — 972w
+- 2006-09-28 — [Hard Drives – breaking the Terabyte Barrier](https://blog.codinghorror.com/hard-drives-breaking-the-terabyte-barrier/) — `2006-09-28-hard-drives-breaking-the-terabyte-barrier.md` — 236w
+- 2006-09-27 — [The Multitasking Myth](https://blog.codinghorror.com/the-multi-tasking-myth/) — `2006-09-27-the-multi-tasking-myth.md` — 575w
+- 2006-09-26 — [Making Developers Cry Since 1995](https://blog.codinghorror.com/making-developers-cry-since-1995/) — `2006-09-26-making-developers-cry-since-1995.md` — 604w
+- 2006-09-22 — [Why Does Vista Use All My Memory?](https://blog.codinghorror.com/why-does-vista-use-all-my-memory/) — `2006-09-22-why-does-vista-use-all-my-memory.md` — 1070w
+- 2006-09-21 — [Company of Heroes](https://blog.codinghorror.com/company-of-heroes/) — `2006-09-21-company-of-heroes.md` — 298w
+- 2006-09-20 — [Fifty Years of Software Development](https://blog.codinghorror.com/fifty-years-of-software-development/) — `2006-09-20-fifty-years-of-software-development.md` — 947w
+- 2006-09-19 — [How big is your Lap, Anyway?](https://blog.codinghorror.com/how-big-is-your-lap-anyway/) — `2006-09-19-how-big-is-your-lap-anyway.md` — 234w
+- 2006-09-18 — [When Understanding means Rewriting](https://blog.codinghorror.com/when-understanding-means-rewriting/) — `2006-09-18-when-understanding-means-rewriting.md` — 827w
+- 2006-09-15 — [On Unnecessary Namespacing](https://blog.codinghorror.com/on-unnecessary-namespacing/) — `2006-09-15-on-unnecessary-namespacing.md` — 245w
+- 2006-09-14 — [Is Your IDE Hot or Not?](https://blog.codinghorror.com/is-your-ide-hot-or-not/) — `2006-09-14-is-your-ide-hot-or-not.md` — 389w
+- 2006-09-13 — [A Visit from the Metrics Maid](https://blog.codinghorror.com/a-visit-from-the-metrics-maid/) — `2006-09-13-a-visit-from-the-metrics-maid.md` — 716w
+- 2006-09-12 — [Vista and the Rise of the Flash Drives](https://blog.codinghorror.com/vista-and-the-rise-of-the-flash-drives/) — `2006-09-12-vista-and-the-rise-of-the-flash-drives.md` — 849w
+- 2006-09-11 — [Has Joel Spolsky Jumped the Shark?](https://blog.codinghorror.com/has-joel-spolsky-jumped-the-shark/) — `2006-09-11-has-joel-spolsky-jumped-the-shark.md` — 845w
+- 2006-09-08 — [Technological Racism](https://blog.codinghorror.com/technological-racism/) — `2006-09-08-technological-racism.md` — 665w
+- 2006-09-07 — [Have You Ever Been Windows Experienced?](https://blog.codinghorror.com/have-you-ever-been-windows-experienced/) — `2006-09-07-have-you-ever-been-windows-experienced.md` — 563w
+- 2006-09-05 — [Unnecessary Dialogs: Stopping the Proceedings with Idiocy](https://blog.codinghorror.com/unnecessary-dialogs-stopping-the-proceedings-with-idiocy/) — `2006-09-05-unnecessary-dialogs-stopping-the-proceedings-with-idiocy.md` — 724w
+- 2006-09-04 — [Transfer Mode Downgraded](https://blog.codinghorror.com/transfer-mode-downgraded/) — `2006-09-04-transfer-mode-downgraded.md` — 323w
+- 2006-09-01 — [External Hard Drives](https://blog.codinghorror.com/external-hard-drives/) — `2006-09-01-external-hard-drives.md` — 327w
+- 2006-08-31 — [Computer Languages aren’t Human Languages](https://blog.codinghorror.com/computer-languages-arent-human-languages/) — `2006-08-31-computer-languages-arent-human-languages.md` — 661w
+- 2006-08-30 — [Game Player, Game Programmer](https://blog.codinghorror.com/game-player-game-programmer/) — `2006-08-30-game-player-game-programmer.md` — 829w
+- 2006-08-29 — [Thread Priorities are Evil](https://blog.codinghorror.com/thread-priorities-are-evil/) — `2006-08-29-thread-priorities-are-evil.md` — 640w
+- 2006-08-25 — [How to Write Technical Documentation](https://blog.codinghorror.com/how-to-write-technical-documentation/) — `2006-08-25-how-to-write-technical-documentation.md` — 244w
 - 2006-08-24 — [The Programmer’s Bill of Rights](https://blog.codinghorror.com/the-programmers-bill-of-rights/) — `2006-08-24-the-programmers-bill-of-rights.md` — 653w
+- 2006-08-23 — [Coding Horror Sightings](https://blog.codinghorror.com/coding-horror-sightings/) — `2006-08-23-coding-horror-sightings.md` — 339w
+- 2006-08-22 — [Building a Quiet PC](https://blog.codinghorror.com/building-a-quiet-pc/) — `2006-08-22-building-a-quiet-pc.md` — 1353w
+- 2006-08-21 — [Total Users Does Not Equal Total Usage](https://blog.codinghorror.com/total-users-does-not-equal-total-usage/) — `2006-08-21-total-users-does-not-equal-total-usage.md` — 383w
+- 2006-08-20 — [DirectX Version Number Abuse](https://blog.codinghorror.com/directx-version-number-abuse/) — `2006-08-20-directx-version-number-abuse.md` — 216w
+- 2006-08-18 — [Video Card Power Consumption](https://blog.codinghorror.com/video-card-power-consumption/) — `2006-08-18-video-card-power-consumption.md` — 424w
+- 2006-08-17 — [The Power of “View Source”](https://blog.codinghorror.com/the-power-of-view-source/) — `2006-08-17-the-power-of-view-source.md` — 853w
+- 2006-08-16 — [Source Control: Anything But SourceSafe](https://blog.codinghorror.com/source-control-anything-but-sourcesafe/) — `2006-08-16-source-control-anything-but-sourcesafe.md` — 569w
 - 2006-08-15 — [Coding Horror Stickers](https://blog.codinghorror.com/coding-horror-stickers/) — `2006-08-15-coding-horror-stickers.md` — 213w
+- 2006-08-11 — [Sometimes It’s a Hardware Problem](https://blog.codinghorror.com/sometimes-its-a-hardware-problem/) — `2006-08-11-sometimes-its-a-hardware-problem.md` — 850w
 - 2006-08-10 — [The Last Configuration Section Handler... Revisited](https://blog.codinghorror.com/the-last-configuration-section-handler-revisited/) — `2006-08-10-the-last-configuration-section-handler-revisited.md` — 418w
+- 2006-08-09 — [Fitts’ Law and Infinite Width](https://blog.codinghorror.com/fitts-law-and-infinite-width/) — `2006-08-09-fitts-law-and-infinite-width.md` — 875w
+- 2006-08-08 — [Quad Core Desktops and Diminishing Returns](https://blog.codinghorror.com/quad-core-desktops-and-diminishing-returns/) — `2006-08-08-quad-core-desktops-and-diminishing-returns.md` — 422w
+- 2006-08-06 — [Filesystem Metadata Doesn’t Scale](https://blog.codinghorror.com/filesystem-metadata-doesnt-scale/) — `2006-08-06-filesystem-metadata-doesnt-scale.md` — 1164w
+- 2006-08-04 — [A Spec](https://blog.codinghorror.com/a-spec-tacular-failure/) — `2006-08-04-a-spec-tacular-failure.md` — 959w
+- 2006-08-03 — [My Love/Hate relationship with ClearType](https://blog.codinghorror.com/my-lovehate-relationship-with-cleartype/) — `2006-08-03-my-lovehate-relationship-with-cleartype.md` — 419w
+- 2006-08-02 — [Shortening Long File Paths](https://blog.codinghorror.com/shortening-long-file-paths/) — `2006-08-02-shortening-long-file-paths.md` — 324w
+- 2006-08-01 — [Open Source: Free as in “Free”](https://blog.codinghorror.com/open-source-free-as-in-free/) — `2006-08-01-open-source-free-as-in-free.md` — 532w
+- 2006-07-28 — [Are You an XML Bozo?](https://blog.codinghorror.com/are-you-an-xml-bozo/) — `2006-07-28-are-you-an-xml-bozo.md` — 323w
+- 2006-07-27 — [Windows XP, Our New Favorite Legacy Operating System](https://blog.codinghorror.com/windows-xp-our-new-favorite-legacy-operating-system/) — `2006-07-27-windows-xp-our-new-favorite-legacy-operating-system.md` — 722w
+- 2006-07-25 — [Information Density and Dr. Bronner](https://blog.codinghorror.com/information-density-and-dr-bronner/) — `2006-07-25-information-density-and-dr-bronner.md` — 974w
+- 2006-07-21 — [The problem with “Low Priority”](https://blog.codinghorror.com/the-problem-with-low-priority/) — `2006-07-21-the-problem-with-low-priority.md` — 120w
 - 2006-07-20 — [I Pity The Fool Who Doesn’t Write Unit Tests](https://blog.codinghorror.com/i-pity-the-fool-who-doesnt-write-unit-tests/) — `2006-07-20-i-pity-the-fool-who-doesnt-write-unit-tests.md` — 658w
+- 2006-07-19 — [Creating Smaller Virtual Machines](https://blog.codinghorror.com/creating-smaller-virtual-machines/) — `2006-07-19-creating-smaller-virtual-machines.md` — 1035w
 - 2006-07-15 — [Own a Coding Horror](https://blog.codinghorror.com/own-a-coding-horror/) — `2006-07-15-own-a-coding-horror.md` — 221w
+- 2006-07-12 — [The Visual Studio IDE and Regular Expressions](https://blog.codinghorror.com/the-visual-studio-ide-and-regular-expressions/) — `2006-07-12-the-visual-studio-ide-and-regular-expressions.md` — 491w
+- 2006-07-11 — [Power, Surge Protection, PCs, and You](https://blog.codinghorror.com/power-surge-protection-pcs-and-you/) — `2006-07-11-power-surge-protection-pcs-and-you.md` — 1438w
+- 2006-07-10 — [Brute Force Key Attacks Are for Dummies](https://blog.codinghorror.com/brute-force-key-attacks-are-for-dummies/) — `2006-07-10-brute-force-key-attacks-are-for-dummies.md` — 748w
+- 2006-07-07 — [In Defense of the “Smackdown” Learning Model](https://blog.codinghorror.com/in-defense-of-the-smackdown-learning-model/) — `2006-07-07-in-defense-of-the-smackdown-learning-model.md` — 336w
+- 2006-07-06 — [A Comparison of JPEG Compression Levels and Recompression](https://blog.codinghorror.com/a-comparison-of-jpeg-compression-levels-and-recompression/) — `2006-07-06-a-comparison-of-jpeg-compression-levels-and-recompression.md` — 367w
+- 2006-07-04 — [The Monopoly Interview](https://blog.codinghorror.com/the-monopoly-interview/) — `2006-07-04-the-monopoly-interview.md` — 242w
+- 2006-07-03 — [How Good an Estimator Are You? Part II](https://blog.codinghorror.com/how-good-an-estimator-are-you-part-ii/) — `2006-07-03-how-good-an-estimator-are-you-part-ii.md` — 575w
+- 2006-06-28 — [The Mysterious Cone of Uncertainty](https://blog.codinghorror.com/the-mysterious-cone-of-uncertainty/) — `2006-06-28-the-mysterious-cone-of-uncertainty.md` — 446w
+- 2006-06-26 — [Object-Relational Mapping is the Vietnam of Computer Science](https://blog.codinghorror.com/object-relational-mapping-is-the-vietnam-of-computer-science/) — `2006-06-26-object-relational-mapping-is-the-vietnam-of-computer-science.md` — 1171w
+- 2006-06-25 — [Meet the Arch](https://blog.codinghorror.com/meet-the-arch-nemesis-of-productivity-the-internet/) — `2006-06-25-meet-the-arch-nemesis-of-productivity-the-internet.md` — 185w
+- 2006-06-22 — [Text Columns: How Long is Too Long?](https://blog.codinghorror.com/text-columns-how-long-is-too-long/) — `2006-06-22-text-columns-how-long-is-too-long.md` — 1788w
+- 2006-06-20 — [Is Writing More Important Than Programming?](https://blog.codinghorror.com/is-writing-more-important-than-programming/) — `2006-06-20-is-writing-more-important-than-programming.md` — 633w
 - 2006-06-18 — [PC Pinball Sims](https://blog.codinghorror.com/pc-pinball-sims/) — `2006-06-18-pc-pinball-sims.md` — 640w
+- 2006-06-16 — [Laptop Alternatives](https://blog.codinghorror.com/laptop-alternatives/) — `2006-06-16-laptop-alternatives.md` — 821w
+- 2006-06-15 — [Desktopitis](https://blog.codinghorror.com/desktopitis/) — `2006-06-15-desktopitis.md` — 383w
+- 2006-06-13 — [WWWWWDD?](https://blog.codinghorror.com/wwwwwdd/) — `2006-06-13-wwwwwdd.md` — 284w
+- 2006-06-12 — [The Noble Art of Maintenance Programming](https://blog.codinghorror.com/the-noble-art-of-maintenance-programming/) — `2006-06-12-the-noble-art-of-maintenance-programming.md` — 882w
+- 2006-06-08 — [What’s on Your Keychain... in 2006?](https://blog.codinghorror.com/whats-on-your-keychain-in-2006/) — `2006-06-08-whats-on-your-keychain-in-2006.md` — 422w
+- 2006-06-07 — [Did IE6 Make Web 2.0 Possible?](https://blog.codinghorror.com/did-ie6-make-web-20-possible/) — `2006-06-07-did-ie6-make-web-20-possible.md` — 661w
+- 2006-06-06 — [Programming Your Hands](https://blog.codinghorror.com/programming-your-hands/) — `2006-06-06-programming-your-hands.md` — 765w
+- 2006-06-05 — [Don’t Ask Us Questions. We’ll Just Ignore You.](https://blog.codinghorror.com/dont-ask-us-questions-well-just-ignore-you/) — `2006-06-05-dont-ask-us-questions-well-just-ignore-you.md` — 517w
+- 2006-06-02 — [Road Warrior Revisited](https://blog.codinghorror.com/road-warrior-revisited/) — `2006-06-02-road-warrior-revisited.md` — 391w
+- 2006-06-01 — [Love It, Hate It](https://blog.codinghorror.com/love-it-hate-it/) — `2006-06-01-love-it-hate-it.md` — 714w
+- 2006-05-31 — [Peopleware Revisited](https://blog.codinghorror.com/peopleware-revisited/) — `2006-05-31-peopleware-revisited.md` — 265w
+- 2006-05-30 — [Touchpad vs. Trackpoint](https://blog.codinghorror.com/touchpad-vs-trackpoint/) — `2006-05-30-touchpad-vs-trackpoint.md` — 512w
+- 2006-05-29 — [Do Modems Still Matter?](https://blog.codinghorror.com/do-modems-still-matter/) — `2006-05-29-do-modems-still-matter.md` — 326w
+- 2006-05-26 — [Pixels, Megapixels, and Desktop Resolutions](https://blog.codinghorror.com/pixels-megapixels-and-desktop-resolutions/) — `2006-05-26-pixels-megapixels-and-desktop-resolutions.md` — 368w
+- 2006-05-25 — [Is the Command Prompt the New Desktop?](https://blog.codinghorror.com/is-the-command-prompt-the-new-desktop/) — `2006-05-25-is-the-command-prompt-the-new-desktop.md` — 502w
+- 2006-05-24 — [You may be a victim of software counterfeiting.](https://blog.codinghorror.com/you-may-be-a-victim-of-software-counterfeiting/) — `2006-05-24-you-may-be-a-victim-of-software-counterfeiting.md` — 470w
+- 2006-05-23 — [Apple Laptops: Good, Cheap, Fast – pick three](https://blog.codinghorror.com/apple-laptops-good-cheap-fast-pick-three/) — `2006-05-23-apple-laptops-good-cheap-fast-pick-three.md` — 835w
+- 2006-05-22 — [Are Recipes for Novices?](https://blog.codinghorror.com/are-recipes-for-novices/) — `2006-05-22-are-recipes-for-novices.md` — 394w
+- 2006-05-19 — [Programmers and Chefs](https://blog.codinghorror.com/programmers-and-chefs/) — `2006-05-19-programmers-and-chefs.md` — 689w
+- 2006-05-18 — [Code Smells](https://blog.codinghorror.com/code-smells/) — `2006-05-18-code-smells.md` — 273w
+- 2006-05-17 — [Snappy Answers to Stupid Programming Questions](https://blog.codinghorror.com/snappy-answers-to-stupid-programming-questions/) — `2006-05-17-snappy-answers-to-stupid-programming-questions.md` — 376w
+- 2006-05-16 — [Localhost HTTP Debugging with Fiddler](https://blog.codinghorror.com/localhost-http-debugging-with-fiddler/) — `2006-05-16-localhost-http-debugging-with-fiddler.md` — 267w
+- 2006-05-12 — [Egoless Programming: You Are Not Your Job](https://blog.codinghorror.com/egoless-programming-you-are-not-your-job/) — `2006-05-12-egoless-programming-you-are-not-your-job.md` — 447w
+- 2006-05-11 — [Excess Blog Flair](https://blog.codinghorror.com/excess-blog-flair/) — `2006-05-11-excess-blog-flair.md` — 493w
 - 2006-05-09 — [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/) — `2006-05-09-the-ten-commandments-of-egoless-programming.md` — 492w
+- 2006-05-08 — [Invisible Formatting Tags are Evil](https://blog.codinghorror.com/invisible-formatting-tags-are-evil/) — `2006-05-08-invisible-formatting-tags-are-evil.md` — 298w
+- 2006-05-03 — [Design Matters – but Content is King](https://blog.codinghorror.com/design-matters-but-content-is-king/) — `2006-05-03-design-matters-but-content-is-king.md` — 507w
+- 2006-05-02 — [Following Instructions for Dummies](https://blog.codinghorror.com/following-instructions-for-dummies/) — `2006-05-02-following-instructions-for-dummies.md` — 1181w
+- 2006-04-30 — [Why Do We Have So Many Screwdrivers?](https://blog.codinghorror.com/why-do-we-have-so-many-screwdrivers/) — `2006-04-30-why-do-we-have-so-many-screwdrivers.md` — 905w
+- 2006-04-27 — [Keeping Up and “Just In Time” Learning](https://blog.codinghorror.com/keeping-up-and-just-in-time-learning/) — `2006-04-27-keeping-up-and-just-in-time-learning.md` — 578w
+- 2006-04-26 — [Of Spaces, Underscores and Dashes](https://blog.codinghorror.com/of-spaces-underscores-and-dashes/) — `2006-04-26-of-spaces-underscores-and-dashes.md` — 273w
+- 2006-04-25 — [A Blog Without Comments Is Not a Blog](https://blog.codinghorror.com/a-blog-without-comments-is-not-a-blog/) — `2006-04-25-a-blog-without-comments-is-not-a-blog.md` — 1002w
+- 2006-04-24 — [Web 2.0 and The “Whatever Box” Server](https://blog.codinghorror.com/web-2-0-and-the-whatever-box-server/) — `2006-04-24-web-2-0-and-the-whatever-box-server.md` — 441w
+- 2006-04-21 — [The Cartoon Guide to... Programming?](https://blog.codinghorror.com/the-cartoon-guide-to-programming/) — `2006-04-21-the-cartoon-guide-to-programming.md` — 205w
+- 2006-04-19 — [Windows Vista: Security Through Endless Warning Dialogs](https://blog.codinghorror.com/windows-vista-security-through-endless-warning-dialogs/) — `2006-04-19-windows-vista-security-through-endless-warning-dialogs.md` — 808w
+- 2006-04-18 — [Remote Desktop Tips and Tricks](https://blog.codinghorror.com/remote-desktop-tips-and-tricks/) — `2006-04-18-remote-desktop-tips-and-tricks.md` — 644w
+- 2006-04-17 — [Are You Following the Instructions on the Paint Can?](https://blog.codinghorror.com/are-you-following-the-instructions-on-the-paint-can/) — `2006-04-17-are-you-following-the-instructions-on-the-paint-can.md` — 397w
+- 2006-04-16 — [Your Personal Brand](https://blog.codinghorror.com/your-personal-brand/) — `2006-04-16-your-personal-brand.md` — 421w
+- 2006-04-14 — [UML, Circuit Diagrams, and God’s Rules](https://blog.codinghorror.com/uml-circuit-diagrams-and-gods-rules/) — `2006-04-14-uml-circuit-diagrams-and-gods-rules.md` — 680w
+- 2006-04-12 — [Automatic Login for Virtual Machines](https://blog.codinghorror.com/automatic-login-for-virtual-machines/) — `2006-04-12-automatic-login-for-virtual-machines.md` — 169w
+- 2006-04-11 — [It’s Better Than Nothing](https://blog.codinghorror.com/its-better-than-nothing/) — `2006-04-11-its-better-than-nothing.md` — 309w
 - 2006-04-10 — [(Very) Basic Textbox Keyboard Shortcuts](https://blog.codinghorror.com/very-basic-textbox-keyboard-shortcuts/) — `2006-04-10-very-basic-textbox-keyboard-shortcuts.md` — 270w
+- 2006-04-09 — [How Much Power Does My Laptop Really Use?](https://blog.codinghorror.com/how-much-power-does-my-laptop-really-use/) — `2006-04-09-how-much-power-does-my-laptop-really-use.md` — 424w
+- 2006-04-07 — [Best Practices and Puffer Fish](https://blog.codinghorror.com/best-practices-and-puffer-fish/) — `2006-04-07-best-practices-and-puffer-fish.md` — 514w
+- 2006-04-06 — [Blocking Image Bandwidth Theft with URL Rewriting](https://blog.codinghorror.com/blocking-image-bandwidth-theft-with-url-rewriting/) — `2006-04-06-blocking-image-bandwidth-theft-with-url-rewriting.md` — 596w
+- 2006-04-05 — [Teach Yourself Programming in 23 Hours](https://blog.codinghorror.com/teach-yourself-programming-in-23-hours/) — `2006-04-05-teach-yourself-programming-in-23-hours.md` — 617w
+- 2006-04-04 — [A Fistful of Connectors](https://blog.codinghorror.com/a-fistful-of-connectors/) — `2006-04-04-a-fistful-of-connectors.md` — 541w
+- 2006-04-03 — [Menus and Toolbars Don't Scale](https://blog.codinghorror.com/menus-and-toolbars-dont-scale/) — `2006-04-03-menus-and-toolbars-dont-scale.md` — 259w
+- 2006-04-02 — [Code Elegance, Code Balance](https://blog.codinghorror.com/code-elegance-code-balance/) — `2006-04-02-code-elegance-code-balance.md` — 571w
+- 2006-03-31 — [The 2GB Windows XP Hibernation Problem](https://blog.codinghorror.com/the-2gb-windows-xp-hibernation-problem/) — `2006-03-31-the-2gb-windows-xp-hibernation-problem.md` — 367w
+- 2006-03-30 — [STOP! Having Trouble?](https://blog.codinghorror.com/stop-having-trouble/) — `2006-03-30-stop-having-trouble.md` — 421w
+- 2006-03-29 — [I Shall Call It... SomethingManager](https://blog.codinghorror.com/i-shall-call-it-somethingmanager/) — `2006-03-29-i-shall-call-it-somethingmanager.md` — 585w
+- 2006-03-28 — [How Not To Become a Rockstar Programmer](https://blog.codinghorror.com/how-not-to-become-a-rockstar-programmer/) — `2006-03-28-how-not-to-become-a-rockstar-programmer.md` — 298w
+- 2006-03-27 — [The Ideal Computer Desk](https://blog.codinghorror.com/the-ideal-computer-desk/) — `2006-03-27-the-ideal-computer-desk.md` — 237w
 - 2006-03-26 — [Making Considerate Software](https://blog.codinghorror.com/making-considerate-software/) — `2006-03-26-making-considerate-software.md` — 1388w
+- 2006-03-24 — [The Value of Repetition... Again](https://blog.codinghorror.com/the-value-of-repetition-again/) — `2006-03-24-the-value-of-repetition-again.md` — 791w
+- 2006-03-23 — [But It’s Just One More](https://blog.codinghorror.com/but-its-just-one-more/) — `2006-03-23-but-its-just-one-more.md` — 370w
+- 2006-03-21 — [The Login Explosion](https://blog.codinghorror.com/the-login-explosion/) — `2006-03-21-the-login-explosion.md` — 783w
+- 2006-03-20 — [Everything You Know Will Be Obsolete in Five Years](https://blog.codinghorror.com/everything-you-know-will-be-obsolete-in-five-years/) — `2006-03-20-everything-you-know-will-be-obsolete-in-five-years.md` — 361w
+- 2006-03-17 — [Microsoft Doesn’t Trust .NET](https://blog.codinghorror.com/microsoft-doesnt-trust-net/) — `2006-03-17-microsoft-doesnt-trust-net.md` — 388w
+- 2006-03-16 — [Programmers as Human Beings](https://blog.codinghorror.com/programmers-as-human-beings/) — `2006-03-16-programmers-as-human-beings.md` — 147w
+- 2006-03-14 — [In Praise of Good Design](https://blog.codinghorror.com/in-praise-of-good-design/) — `2006-03-14-in-praise-of-good-design.md` — 192w
+- 2006-03-13 — [Firefox Excessive Memory Usage](https://blog.codinghorror.com/firefox-excessive-memory-usage/) — `2006-03-13-firefox-excessive-memory-usage.md` — 318w
+- 2006-03-12 — [History of the OK Button](https://blog.codinghorror.com/history-of-the-ok-button/) — `2006-03-12-history-of-the-ok-button.md` — 221w
+- 2006-03-09 — [SDWest 2006: My McConnell Moment](https://blog.codinghorror.com/sdwest-2006-my-mcconnell-moment/) — `2006-03-09-sdwest-2006-my-mcconnell-moment.md` — 216w
+- 2006-03-08 — [Doing It Like Everyone Else Does](https://blog.codinghorror.com/doing-it-like-everyone-else-does/) — `2006-03-08-doing-it-like-everyone-else-does.md` — 877w
+- 2006-03-07 — [Web Forms: Death By a Thousand Textboxes](https://blog.codinghorror.com/web-forms-death-by-a-thousand-textboxes/) — `2006-03-07-web-forms-death-by-a-thousand-textboxes.md` — 269w
+- 2006-03-06 — [The Cult of Coleco Adam](https://blog.codinghorror.com/the-cult-of-coleco-adam/) — `2006-03-06-the-cult-of-coleco-adam.md` — 1007w
+- 2006-03-02 — [In Pursuit of Simplicity](https://blog.codinghorror.com/in-pursuit-of-simplicity/) — `2006-03-02-in-pursuit-of-simplicity.md` — 610w
+- 2006-03-01 — [Snippet Enumeration Macro](https://blog.codinghorror.com/snippet-enumeration-macro/) — `2006-03-01-snippet-enumeration-macro.md` — 255w
+- 2006-02-28 — [Making a Video Game out of your code](https://blog.codinghorror.com/making-a-video-game-out-of-your-code/) — `2006-02-28-making-a-video-game-out-of-your-code.md` — 228w
+- 2006-02-27 — [Quick and Dirty Internet Connection Troubleshooting](https://blog.codinghorror.com/quick-and-dirty-internet-connection-troubleshooting/) — `2006-02-27-quick-and-dirty-internet-connection-troubleshooting.md` — 423w
+- 2006-02-24 — [Error Codes Must Die](https://blog.codinghorror.com/error-codes-must-die/) — `2006-02-24-error-codes-must-die.md` — 544w
 - 2006-02-23 — [Levelling Up in the IDE](https://blog.codinghorror.com/levelling-up-in-the-ide/) — `2006-02-23-levelling-up-in-the-ide.md` — 572w
+- 2006-02-22 — [Sometimes a Word is Worth a Thousand Icons](https://blog.codinghorror.com/sometimes-a-word-is-worth-a-thousand-icons/) — `2006-02-22-sometimes-a-word-is-worth-a-thousand-icons.md` — 466w
+- 2006-02-21 — [C# Snippet Parity](https://blog.codinghorror.com/c-snippet-parity/) — `2006-02-21-c-snippet-parity.md` — 420w
+- 2006-02-20 — [Will Mouse Gestures Ever Be Mainstream?](https://blog.codinghorror.com/will-mouse-gestures-ever-be-mainstream/) — `2006-02-20-will-mouse-gestures-ever-be-mainstream.md` — 703w
+- 2006-02-19 — [Darwinia](https://blog.codinghorror.com/darwinia/) — `2006-02-19-darwinia.md` — 325w
+- 2006-02-17 — [Choosing between .NET Pepsi and .NET Coke](https://blog.codinghorror.com/choosing-between-net-pepsi-and-net-coke/) — `2006-02-17-choosing-between-net-pepsi-and-net-coke.md` — 219w
+- 2006-02-16 — [Colorization Required](https://blog.codinghorror.com/colorization-required/) — `2006-02-16-colorization-required.md` — 186w
+- 2006-02-15 — [The Real Cost of Hello World](https://blog.codinghorror.com/the-real-cost-of-hello-world/) — `2006-02-15-the-real-cost-of-hello-world.md` — 334w
+- 2006-02-13 — [Standard Browser Keyboard Shortcuts](https://blog.codinghorror.com/standard-browser-keyboard-shortcuts/) — `2006-02-13-standard-browser-keyboard-shortcuts.md` — 168w
+- 2006-02-12 — [Lotus Notes: Survival of the Unfittest](https://blog.codinghorror.com/lotus-notes-survival-of-the-unfittest/) — `2006-02-12-lotus-notes-survival-of-the-unfittest.md` — 191w
+- 2006-02-10 — [Presentation Zen](https://blog.codinghorror.com/presentation-zen/) — `2006-02-10-presentation-zen.md` — 424w
+- 2006-02-09 — [On Audio Visualization](https://blog.codinghorror.com/on-audio-visualization/) — `2006-02-09-on-audio-visualization.md` — 1066w
+- 2006-02-08 — [Hazmat Placards and Icons](https://blog.codinghorror.com/hazmat-placards-and-icons/) — `2006-02-08-hazmat-placards-and-icons.md` — 157w
+- 2006-02-07 — [The Day Performance Didn’t Matter Any More](https://blog.codinghorror.com/the-day-performance-didnt-matter-any-more/) — `2006-02-07-the-day-performance-didnt-matter-any-more.md` — 540w
+- 2006-02-06 — [.NET Pet Shop 4](https://blog.codinghorror.com/net-pet-shop-4/) — `2006-02-06-net-pet-shop-4.md` — 184w
+- 2006-02-05 — [Revisiting Edit and Continue](https://blog.codinghorror.com/revisiting-edit-and-continue/) — `2006-02-05-revisiting-edit-and-continue.md` — 693w
+- 2006-02-02 — [Smart Tags and Sane Keyboard Shortcuts](https://blog.codinghorror.com/smart-tags-and-sane-keyboard-shortcuts/) — `2006-02-02-smart-tags-and-sane-keyboard-shortcuts.md` — 324w
+- 2006-01-31 — [How Not to Give a Presentation](https://blog.codinghorror.com/how-not-to-give-a-presentation/) — `2006-01-31-how-not-to-give-a-presentation.md` — 451w
+- 2006-01-30 — [Presentation Magnification](https://blog.codinghorror.com/presentation-magnification/) — `2006-01-30-presentation-magnification.md` — 229w
+- 2006-01-29 — [Not All Bugs Are Worth Fixing](https://blog.codinghorror.com/not-all-bugs-are-worth-fixing/) — `2006-01-29-not-all-bugs-are-worth-fixing.md` — 1266w
+- 2006-01-24 — [Dependency Avoidance](https://blog.codinghorror.com/dependency-avoidance/) — `2006-01-24-dependency-avoidance.md` — 966w
+- 2006-01-23 — [... and a Pony!](https://blog.codinghorror.com/and-a-pony/) — `2006-01-23-and-a-pony.md` — 362w
+- 2006-01-20 — [3D positional audio and HRTFs](https://blog.codinghorror.com/3d-positional-audio-and-hrtfs/) — `2006-01-20-3d-positional-audio-and-hrtfs.md` — 1219w
+- 2006-01-19 — [The World’s Slowest Windows XP System](https://blog.codinghorror.com/the-worlds-slowest-windows-xp-system/) — `2006-01-19-the-worlds-slowest-windows-xp-system.md` — 225w
+- 2006-01-18 — [DIVX vs. DivX](https://blog.codinghorror.com/divx-vs-divx/) — `2006-01-18-divx-vs-divx.md` — 425w
+- 2006-01-14 — [Is there an optimal piracy rate?](https://blog.codinghorror.com/is-there-an-optimal-piracy-rate/) — `2006-01-14-is-there-an-optimal-piracy-rate.md` — 774w
+- 2006-01-12 — [Regex Performance](https://blog.codinghorror.com/regex-performance/) — `2006-01-12-regex-performance.md` — 539w
+- 2006-01-11 — [Return to the Planet of Managed Code Bloat](https://blog.codinghorror.com/return-to-the-planet-of-managed-code-bloat/) — `2006-01-11-return-to-the-planet-of-managed-code-bloat.md` — 415w
+- 2006-01-10 — [Flattening Arrow Code](https://blog.codinghorror.com/flattening-arrow-code/) — `2006-01-10-flattening-arrow-code.md` — 340w
+- 2006-01-08 — [Anisotropic Filtering](https://blog.codinghorror.com/anisotropic-filtering/) — `2006-01-08-anisotropic-filtering.md` — 423w
+- 2006-01-06 — [The Zen of Mustard and Pickles](https://blog.codinghorror.com/the-zen-of-mustard-and-pickles/) — `2006-01-06-the-zen-of-mustard-and-pickles.md` — 130w
+- 2006-01-05 — [The Impossibly Small PC: Nano](https://blog.codinghorror.com/the-impossibly-small-pc-nano-itx/) — `2006-01-05-the-impossibly-small-pc-nano-itx.md` — 249w
+- 2006-01-04 — [Getting Back to Web Basics](https://blog.codinghorror.com/getting-back-to-web-basics/) — `2006-01-04-getting-back-to-web-basics.md` — 1013w
+- 2006-01-03 — [I Heart Cheatsheets](https://blog.codinghorror.com/i-heart-cheatsheets/) — `2006-01-03-i-heart-cheatsheets.md` — 249w
+- 2006-01-02 — [Filesystems Aren’t a Feature](https://blog.codinghorror.com/filesystems-arent-a-feature/) — `2006-01-02-filesystems-arent-a-feature.md` — 1269w
+- 2005-12-31 — [New Year’s Resolutions – for Microsoft](https://blog.codinghorror.com/new-years-resolutions-for-microsoft/) — `2005-12-31-new-years-resolutions-for-microsoft.md` — 1118w
+- 2005-12-28 — [Of White Elephants and Gifting](https://blog.codinghorror.com/of-white-elephants-and-gifting/) — `2005-12-28-of-white-elephants-and-gifting.md` — 763w
+- 2005-12-27 — [Seven Habits of Highly Effective Programmers](https://blog.codinghorror.com/seven-habits-of-highly-effective-programmers/) — `2005-12-27-seven-habits-of-highly-effective-programmers.md` — 399w
+- 2005-12-26 — [PC Racing Sims](https://blog.codinghorror.com/pc-racing-sims/) — `2005-12-26-pc-racing-sims.md` — 846w
+- 2005-12-22 — [Web Typography Hack: sIFR](https://blog.codinghorror.com/web-typography-hack-sifr/) — `2005-12-22-web-typography-hack-sifr.md` — 183w
+- 2005-12-21 — [The CSS Zen Garden and ASP.NET](https://blog.codinghorror.com/the-css-zen-garden-and-asp-net/) — `2005-12-21-the-css-zen-garden-and-asp-net.md` — 406w
+- 2005-12-20 — [Automated Hard Drive Defragmentation](https://blog.codinghorror.com/automated-hard-drive-defragmentation/) — `2005-12-20-automated-hard-drive-defragmentation.md` — 286w
+- 2005-12-18 — [The Story of SkiFree](https://blog.codinghorror.com/the-story-of-skifree/) — `2005-12-18-the-story-of-skifree.md` — 463w
+- 2005-12-16 — [Variable Bit Rate: Getting the Best Bang for Your Byte](https://blog.codinghorror.com/variable-bit-rate-getting-the-best-bang-for-your-byte/) — `2005-12-16-variable-bit-rate-getting-the-best-bang-for-your-byte.md` — 766w
+- 2005-12-15 — [This Just In: Internet Makes Books Obsolete](https://blog.codinghorror.com/this-just-in-internet-makes-books-obsolete/) — `2005-12-15-this-just-in-internet-makes-books-obsolete.md` — 744w
+- 2005-12-14 — [Progressive Image Rendering](https://blog.codinghorror.com/progressive-image-rendering/) — `2005-12-14-progressive-image-rendering.md` — 497w
+- 2005-12-13 — [UI Follies, Volume III](https://blog.codinghorror.com/ui-follies-volume-iii/) — `2005-12-13-ui-follies-volume-iii.md` — 153w
+- 2005-12-12 — [Getting Started with Indexing Service](https://blog.codinghorror.com/getting-started-with-indexing-service/) — `2005-12-12-getting-started-with-indexing-service.md` — 930w
 - 2005-12-10 — [Screenshots: JPEG vs. GIF (and PNG)](https://blog.codinghorror.com/screenshots-jpeg-vs-gif/) — `2005-12-10-screenshots-jpeg-vs-gif.md` — 467w
+- 2005-12-08 — [Headphone Snobbery](https://blog.codinghorror.com/headphone-snobbery/) — `2005-12-08-headphone-snobbery.md` — 637w
+- 2005-12-07 — [Animal, Vegetable, or Mineral?](https://blog.codinghorror.com/animal-vegetable-or-mineral/) — `2005-12-07-animal-vegetable-or-mineral.md` — 1274w
+- 2005-12-02 — [The TweakUI Tips](https://blog.codinghorror.com/the-tweakui-tips/) — `2005-12-02-the-tweakui-tips.md` — 1270w
+- 2005-12-01 — [Trespasser Postmortem](https://blog.codinghorror.com/trespasser-postmortem/) — `2005-12-01-trespasser-postmortem.md` — 1019w
+- 2005-11-29 — [In praise of Beyond Compare](https://blog.codinghorror.com/in-praise-of-beyond-compare/) — `2005-11-29-in-praise-of-beyond-compare.md` — 241w
+- 2005-11-28 — [C#, VB.NET, and echoing strings in the VS.NET Immediate Window](https://blog.codinghorror.com/c-vbnet-and-echoing-strings-in-the-vsnet-immediate-window/) — `2005-11-28-c-vbnet-and-echoing-strings-in-the-vsnet-immediate-window.md` — 192w
+- 2005-11-26 — [The Many Faces of (Windows) Death](https://blog.codinghorror.com/the-many-faces-of-windows-death/) — `2005-11-26-the-many-faces-of-windows-death.md` — 598w
+- 2005-11-21 — [Avoiding Undocumentation](https://blog.codinghorror.com/avoiding-undocumentation/) — `2005-11-21-avoiding-undocumentation.md` — 545w
+- 2005-11-18 — [Comparing Font Legibility](https://blog.codinghorror.com/comparing-font-legibility/) — `2005-11-18-comparing-font-legibility.md` — 385w
+- 2005-11-16 — [Software Apprenticeship](https://blog.codinghorror.com/software-apprenticeship/) — `2005-11-16-software-apprenticeship.md` — 487w
+- 2005-11-15 — [Disambiguating Search with Quasi](https://blog.codinghorror.com/disambiguating-search-with-quasi-evil-hierarchies/) — `2005-11-15-disambiguating-search-with-quasi-evil-hierarchies.md` — 304w
+- 2005-11-14 — [The Lost Art of Progressive HTML Rendering](https://blog.codinghorror.com/the-lost-art-of-progressive-html-rendering/) — `2005-11-14-the-lost-art-of-progressive-html-rendering.md` — 454w
+- 2005-11-09 — [The Lesson of HyperTerminal](https://blog.codinghorror.com/the-lesson-of-hyperterminal/) — `2005-11-09-the-lesson-of-hyperterminal.md` — 696w
+- 2005-11-08 — [My Giant Calculator](https://blog.codinghorror.com/my-giant-calculator/) — `2005-11-08-my-giant-calculator.md` — 703w
+- 2005-11-07 — [Road Signs and Icons](https://blog.codinghorror.com/road-signs-and-icons/) — `2005-11-07-road-signs-and-icons.md` — 423w
+- 2005-11-06 — [Guitar Hero: Are You Ready to ROCK?](https://blog.codinghorror.com/guitar-hero-are-you-ready-to-rock/) — `2005-11-06-guitar-hero-are-you-ready-to-rock.md` — 887w
+- 2005-11-04 — [Which Online Discussion Archetype Are You?](https://blog.codinghorror.com/which-online-discussion-archetype-are-you/) — `2005-11-04-which-online-discussion-archetype-are-you.md` — 240w
+- 2005-11-01 — [GotDotNet: still sucking after all these years](https://blog.codinghorror.com/gotdotnet-still-sucking-after-all-these-years/) — `2005-11-01-gotdotnet-still-sucking-after-all-these-years.md` — 316w
+- 2005-10-31 — [Search: If It Isn’t Incremental, It’s Excremental](https://blog.codinghorror.com/search-if-it-isnt-incremental-its-excremental/) — `2005-10-31-search-if-it-isnt-incremental-its-excremental.md` — 587w
+- 2005-10-30 — [Improving the Clipboard](https://blog.codinghorror.com/improving-the-clipboard/) — `2005-10-30-improving-the-clipboard.md` — 363w
+- 2005-10-28 — [Avoiding Booleans](https://blog.codinghorror.com/avoiding-booleans/) — `2005-10-28-avoiding-booleans.md` — 460w
+- 2005-10-27 — [Copying Visual Studio Code Snippets to the Clipboard as HTML](https://blog.codinghorror.com/copying-visual-studio-code-snippets-to-the-clipboard-as-html/) — `2005-10-27-copying-visual-studio-code-snippets-to-the-clipboard-as-html.md` — 388w
+- 2005-10-26 — [Google search VS.NET macro](https://blog.codinghorror.com/google-search-vsnet-macro/) — `2005-10-26-google-search-vsnet-macro.md` — 233w
+- 2005-10-25 — [The Cognitive Style of Visual Studio](https://blog.codinghorror.com/the-cognitive-style-of-visual-studio/) — `2005-10-25-the-cognitive-style-of-visual-studio.md` — 1109w
+- 2005-10-24 — [The Cost of Leaving Your PC On](https://blog.codinghorror.com/the-cost-of-leaving-your-pc-on/) — `2005-10-24-the-cost-of-leaving-your-pc-on.md` — 744w
+- 2005-10-22 — [It looks like you’re writing a for loop!](https://blog.codinghorror.com/it-looks-like-youre-writing-a-for-loop/) — `2005-10-22-it-looks-like-youre-writing-a-for-loop.md` — 387w
+- 2005-10-19 — [Running XP with the pagefile disabled](https://blog.codinghorror.com/running-xp-with-the-pagefile-disabled/) — `2005-10-19-running-xp-with-the-pagefile-disabled.md` — 609w
+- 2005-10-17 — [Unit Testing vs. Beta Testing](https://blog.codinghorror.com/unit-testing-vs-beta-testing/) — `2005-10-17-unit-testing-vs-beta-testing.md` — 567w
+- 2005-10-16 — [Code Snippets in VS.NET 2005](https://blog.codinghorror.com/code-snippets-in-vsnet-2005/) — `2005-10-16-code-snippets-in-vsnet-2005.md` — 312w
+- 2005-10-15 — [Media Center 2005 adds Non](https://blog.codinghorror.com/media-center-2005-adds-non-linear-stretch/) — `2005-10-15-media-center-2005-adds-non-linear-stretch.md` — 299w
+- 2005-10-14 — [Pimp My IDE](https://blog.codinghorror.com/pimp-my-ide/) — `2005-10-14-pimp-my-ide.md` — 427w
+- 2005-10-13 — [Microchip Easter Eggs](https://blog.codinghorror.com/microchip-easter-eggs/) — `2005-10-13-microchip-easter-eggs.md` — 162w
+- 2005-10-11 — [The Best of Creative Computing](https://blog.codinghorror.com/the-best-of-creative-computing/) — `2005-10-11-the-best-of-creative-computing.md` — 391w
+- 2005-10-10 — [Why Do Login Dialogs Have a “User” Field?](https://blog.codinghorror.com/why-do-login-dialogs-have-a-user-field/) — `2005-10-10-why-do-login-dialogs-have-a-user-field.md` — 352w
+- 2005-10-08 — [ALT+TAB Extreme*](https://blog.codinghorror.com/alttab-extreme/) — `2005-10-08-alttab-extreme.md` — 234w
+- 2005-10-07 — [C# implementation of ASCII85](https://blog.codinghorror.com/c-implementation-of-ascii85/) — `2005-10-07-c-implementation-of-ascii85.md` — 191w
+- 2005-10-06 — [Equipping our ASCII Armor](https://blog.codinghorror.com/equipping-our-ascii-armor/) — `2005-10-06-equipping-our-ascii-armor.md` — 376w
+- 2005-10-05 — [Avoiding “Blank Page Syndrome”](https://blog.codinghorror.com/avoiding-blank-page-syndrome/) — `2005-10-05-avoiding-blank-page-syndrome.md` — 384w
+- 2005-10-02 — [Configurability and Voiding Your Warranty](https://blog.codinghorror.com/configurability-and-voiding-your-warranty/) — `2005-10-02-configurability-and-voiding-your-warranty.md` — 490w
+- 2005-10-01 — [Changing the Windows XP Boot Screen](https://blog.codinghorror.com/changing-the-windows-xp-boot-screen/) — `2005-10-01-changing-the-windows-xp-boot-screen.md` — 292w
+- 2005-09-30 — [Wind, Angle, and Power](https://blog.codinghorror.com/wind-angle-and-power/) — `2005-09-30-wind-angle-and-power.md` — 598w
+- 2005-09-29 — [Revenge of Codename: Snowball](https://blog.codinghorror.com/revenge-of-codename-snowball/) — `2005-09-29-revenge-of-codename-snowball.md` — 329w
+- 2005-09-28 — [Keyboarding: Microsoft Natural Ergonomic 4000](https://blog.codinghorror.com/keyboarding-microsoft-natural-ergonomic-4000/) — `2005-09-28-keyboarding-microsoft-natural-ergonomic-4000.md` — 669w
+- 2005-09-27 — [Mastering GUIDs with Occam's Razor](https://blog.codinghorror.com/mastering-guids-with-occams-razor/) — `2005-09-27-mastering-guids-with-occams-razor.md` — 547w
+- 2005-09-26 — [Microsoft naming: who stole the soul?](https://blog.codinghorror.com/microsoft-naming-who-stole-the-soul/) — `2005-09-26-microsoft-naming-who-stole-the-soul.md` — 541w
+- 2005-09-25 — [Programming 4 Fun](https://blog.codinghorror.com/programming-4-fun/) — `2005-09-25-programming-4-fun.md` — 728w
+- 2005-09-23 — [On the Death of the Main Menu](https://blog.codinghorror.com/on-the-death-of-the-main-menu/) — `2005-09-23-on-the-death-of-the-main-menu.md` — 397w
+- 2005-09-22 — [In Defense of Verbosity](https://blog.codinghorror.com/in-defense-of-verbosity/) — `2005-09-22-in-defense-of-verbosity.md` — 656w
+- 2005-09-21 — [Everything you always wanted to know about Task Manager but were afraid to ask](https://blog.codinghorror.com/everything-you-always-wanted-to-know-about-task-manager-but-were-afraid-to-ask/) — `2005-09-21-everything-you-always-wanted-to-know-about-task-manager-but-were-afraid-to-ask.md` — 1379w
+- 2005-09-19 — [Moire Screensaver Source](https://blog.codinghorror.com/moire-screensaver-source/) — `2005-09-19-moire-screensaver-source.md` — 270w
+- 2005-09-12 — [PDC05: I’m only there for the chicks.](https://blog.codinghorror.com/pdc05-im-only-there-for-the-chicks/) — `2005-09-12-pdc05-im-only-there-for-the-chicks.md` — 290w
+- 2005-09-11 — [Stupid Registry Tricks](https://blog.codinghorror.com/stupid-registry-tricks/) — `2005-09-11-stupid-registry-tricks.md` — 657w
+- 2005-09-09 — [Speeding up web browsing](https://blog.codinghorror.com/speeding-up-web-browsing/) — `2005-09-09-speeding-up-web-browsing.md` — 566w
+- 2005-09-08 — [The Spolsky](https://blog.codinghorror.com/the-spolsky-babbitt-connection/) — `2005-09-08-the-spolsky-babbitt-connection.md` — 233w
+- 2005-09-06 — [Managed Code Analysis Tools](https://blog.codinghorror.com/managed-code-analysis-tools/) — `2005-09-06-managed-code-analysis-tools.md` — 451w
+- 2005-09-05 — [Head First Design Patterns](https://blog.codinghorror.com/head-first-design-patterns/) — `2005-09-05-head-first-design-patterns.md` — 572w
+- 2005-09-01 — [A Celebration of The Windows Key](https://blog.codinghorror.com/a-celebration-of-the-windows-key/) — `2005-09-01-a-celebration-of-the-windows-key.md` — 512w
 - 2005-08-31 — [Don’t Make Me Think, Second Edition](https://blog.codinghorror.com/dont-make-me-think-second-edition/) — `2005-08-31-dont-make-me-think-second-edition.md` — 212w
+- 2005-08-28 — [Variable “foo” and Other Programming Oddities](https://blog.codinghorror.com/variable-foo-and-other-programming-oddities/) — `2005-08-28-variable-foo-and-other-programming-oddities.md` — 641w
+- 2005-08-27 — [The Rise of the PokerBots](https://blog.codinghorror.com/the-rise-of-the-pokerbots/) — `2005-08-27-the-rise-of-the-pokerbots.md` — 979w
+- 2005-08-26 — [How to be Lazy, Dumb, and Successful](https://blog.codinghorror.com/how-to-be-lazy-dumb-and-successful/) — `2005-08-26-how-to-be-lazy-dumb-and-successful.md` — 465w
+- 2005-08-25 — [Mavis Beacon Ate My Brain!](https://blog.codinghorror.com/mavis-beacon-ate-my-brain/) — `2005-08-25-mavis-beacon-ate-my-brain.md` — 255w
+- 2005-08-23 — [Microsoft LogParser](https://blog.codinghorror.com/microsoft-logparser/) — `2005-08-23-microsoft-logparser.md` — 364w
+- 2005-08-21 — [Clean Sources Plus](https://blog.codinghorror.com/clean-sources-plus/) — `2005-08-21-clean-sources-plus.md` — 366w
+- 2005-08-18 — [The myth of infinite detail: Bilinear vs. Bicubic](https://blog.codinghorror.com/the-myth-of-infinite-detail-bilinear-vs-bicubic/) — `2005-08-18-the-myth-of-infinite-detail-bilinear-vs-bicubic.md` — 400w
+- 2005-08-16 — [Nasty Software Hacks and Intel’s CPUID](https://blog.codinghorror.com/nasty-software-hacks-and-intels-cpuid/) — `2005-08-16-nasty-software-hacks-and-intels-cpuid.md` — 618w
+- 2005-08-15 — [Microsoft 1978](https://blog.codinghorror.com/microsoft-1978/) — `2005-08-15-microsoft-1978.md` — 262w
+- 2005-08-12 — [UI Follies: Windows Media Player Edition](https://blog.codinghorror.com/ui-follies-windows-media-player-edition/) — `2005-08-12-ui-follies-windows-media-player-edition.md` — 473w
+- 2005-08-11 — [Passphrase Evangelism](https://blog.codinghorror.com/passphrase-evangelism/) — `2005-08-11-passphrase-evangelism.md` — 702w
 - 2005-08-10 — [Perfmon Gone Wild](https://blog.codinghorror.com/perfmon-gone-wild/) — `2005-08-10-perfmon-gone-wild.md` — 680w
+- 2005-08-09 — [TryParse and the Exception Tax](https://blog.codinghorror.com/tryparse-and-the-exception-tax/) — `2005-08-09-tryparse-and-the-exception-tax.md` — 563w
+- 2005-08-08 — [How to fit three bugs in 512 bytes of security code](https://blog.codinghorror.com/how-to-fit-three-bugs-in-512-bytes-of-security-code/) — `2005-08-08-how-to-fit-three-bugs-in-512-bytes-of-security-code.md` — 571w
+- 2005-08-07 — [Consolas and ClearType](https://blog.codinghorror.com/consolas-and-cleartype/) — `2005-08-07-consolas-and-cleartype.md` — 403w
+- 2005-08-04 — [Option Strict and Option Explicit in VB.NET 2005](https://blog.codinghorror.com/option-strict-and-option-explicit-in-vbnet-2005/) — `2005-08-04-option-strict-and-option-explicit-in-vbnet-2005.md` — 630w
+- 2005-08-02 — [Why Estimate When You Can Measure?](https://blog.codinghorror.com/why-estimate-when-you-can-measure/) — `2005-08-02-why-estimate-when-you-can-measure.md` — 541w
+- 2005-08-01 — [Vision Quest](https://blog.codinghorror.com/vision-quest/) — `2005-08-01-vision-quest.md` — 345w
+- 2005-07-28 — [Athlon X2: Dual Core Present](https://blog.codinghorror.com/athlon-x2-dual-core-present/) — `2005-07-28-athlon-x2-dual-core-present.md` — 181w
+- 2005-07-27 — [Steve Ballmer: Sweatiest Billionaire Ever](https://blog.codinghorror.com/steve-ballmer-sweatiest-billionaire-ever/) — `2005-07-27-steve-ballmer-sweatiest-billionaire-ever.md` — 323w
+- 2005-07-26 — [What if it was infinitely fast?](https://blog.codinghorror.com/what-if-it-was-infinitely-fast/) — `2005-07-26-what-if-it-was-infinitely-fast.md` — 486w
+- 2005-07-24 — [The D.I.Y. PC](https://blog.codinghorror.com/the-diy-pc/) — `2005-07-24-the-diy-pc.md` — 513w
+- 2005-07-22 — [The Dancing Bunnies Problem](https://blog.codinghorror.com/the-dancing-bunnies-problem/) — `2005-07-22-the-dancing-bunnies-problem.md` — 384w
+- 2005-07-21 — [Show, Don’t Tell](https://blog.codinghorror.com/show-dont-tell/) — `2005-07-21-show-dont-tell.md` — 1093w
+- 2005-07-14 — [A Tribute to the Windows 3.1 “Hot Dog Stand” Color Scheme](https://blog.codinghorror.com/a-tribute-to-the-windows-31-hot-dog-stand-color-scheme/) — `2005-07-14-a-tribute-to-the-windows-31-hot-dog-stand-color-scheme.md` — 156w
+- 2005-07-13 — [Code Colorizing and Readability](https://blog.codinghorror.com/code-colorizing-and-readability/) — `2005-07-13-code-colorizing-and-readability.md` — 490w
+- 2005-07-12 — [Gigabit Ethernet and Back of the Envelope Calculations](https://blog.codinghorror.com/gigabit-ethernet-and-back-of-the-envelope-calculations/) — `2005-07-12-gigabit-ethernet-and-back-of-the-envelope-calculations.md` — 955w
+- 2005-07-07 — [Desktop RAID: Oversold?](https://blog.codinghorror.com/desktop-raid-oversold/) — `2005-07-07-desktop-raid-oversold.md` — 723w
+- 2005-07-06 — [Stupid Command Prompt Tricks](https://blog.codinghorror.com/stupid-command-prompt-tricks/) — `2005-07-06-stupid-command-prompt-tricks.md` — 441w
+- 2005-06-30 — [Bayesian Kryptonite – spoofed email](https://blog.codinghorror.com/bayesian-kryptonite-spoofed-email/) — `2005-06-30-bayesian-kryptonite-spoofed-email.md` — 445w
+- 2005-06-29 — [For Best Results, Forget the Bonus](https://blog.codinghorror.com/for-best-results-forget-the-bonus/) — `2005-06-29-for-best-results-forget-the-bonus.md` — 562w
+- 2005-06-27 — [Comic Sans, the Font Of The Gods](https://blog.codinghorror.com/comic-sans-the-font-of-the-gods/) — `2005-06-27-comic-sans-the-font-of-the-gods.md` — 410w
+- 2005-06-23 — [The Broken Window Theory](https://blog.codinghorror.com/the-broken-window-theory/) — `2005-06-23-the-broken-window-theory.md` — 986w
+- 2005-06-21 — [High Dynamic Range Lighting](https://blog.codinghorror.com/high-dynamic-range-lighting/) — `2005-06-21-high-dynamic-range-lighting.md` — 641w
+- 2005-06-20 — [World Zone Pricing](https://blog.codinghorror.com/world-zone-pricing/) — `2005-06-20-world-zone-pricing.md` — 517w
 - 2005-06-16 — [The Pontiac Aztek and the Perils of Design by Committee](https://blog.codinghorror.com/the-pontiac-aztek-and-the-perils-of-design-by-committee/) — `2005-06-16-the-pontiac-aztek-and-the-perils-of-design-by-committee.md` — 868w
+- 2005-06-13 — [Phantom DOS files in my root](https://blog.codinghorror.com/phantom-dos-files-in-my-root/) — `2005-06-13-phantom-dos-files-in-my-root.md` — 137w
+- 2005-06-09 — [Visual Studio .NET 2003 and 2005 Keyboard Shortcuts](https://blog.codinghorror.com/visual-studio-net-2003-and-2005-keyboard-shortcuts/) — `2005-06-09-visual-studio-net-2003-and-2005-keyboard-shortcuts.md` — 285w
+- 2005-06-08 — [Flickr Hacks](https://blog.codinghorror.com/flickr-hacks/) — `2005-06-08-flickr-hacks.md` — 472w
+- 2005-06-07 — [Compression and Cliffs](https://blog.codinghorror.com/compression-and-cliffs/) — `2005-06-07-compression-and-cliffs.md` — 702w
+- 2005-06-04 — [The Game Controller Family Tree](https://blog.codinghorror.com/the-game-controller-family-tree/) — `2005-06-04-the-game-controller-family-tree.md` — 199w
+- 2005-06-03 — [Alternative Keyboarding](https://blog.codinghorror.com/alternative-keyboarding/) — `2005-06-03-alternative-keyboarding.md` — 338w
+- 2005-05-23 — [On Managed Code Performance, Again](https://blog.codinghorror.com/on-managed-code-performance-again/) — `2005-05-23-on-managed-code-performance-again.md` — 299w
+- 2005-05-22 — [Bridges, Software Engineering, and God](https://blog.codinghorror.com/bridges-software-engineering-and-god/) — `2005-05-22-bridges-software-engineering-and-god.md` — 1002w
+- 2005-05-19 — [Google](https://blog.codinghorror.com/google-fu/) — `2005-05-19-google-fu.md` — 458w
+- 2005-05-18 — [A Group Is Its Own Worst Enemy](https://blog.codinghorror.com/a-group-is-its-own-worst-enemy/) — `2005-05-18-a-group-is-its-own-worst-enemy.md` — 1047w
+- 2005-05-15 — [Obfuscating Code](https://blog.codinghorror.com/obfuscating-code/) — `2005-05-15-obfuscating-code.md` — 695w
+- 2005-05-14 — [Conventions and Usability](https://blog.codinghorror.com/conventions-and-usability/) — `2005-05-14-conventions-and-usability.md` — 322w
+- 2005-05-13 — [XP Automatic Update Nagging](https://blog.codinghorror.com/xp-automatic-update-nagging/) — `2005-05-13-xp-automatic-update-nagging.md` — 348w
+- 2005-05-11 — [The Difficulty of Dogfooding](https://blog.codinghorror.com/the-difficulty-of-dogfooding/) — `2005-05-11-the-difficulty-of-dogfooding.md` — 854w
+- 2005-05-10 — [My Mouse Fetish](https://blog.codinghorror.com/my-mouse-fetish/) — `2005-05-10-my-mouse-fetish.md` — 675w
+- 2005-05-08 — [Multiple Core CPU Futures](https://blog.codinghorror.com/multiple-core-cpu-futures/) — `2005-05-08-multiple-core-cpu-futures.md` — 629w
+- 2005-05-07 — [Defeating Optimism](https://blog.codinghorror.com/defeating-optimism/) — `2005-05-07-defeating-optimism.md` — 947w
+- 2005-05-06 — [Following the Instructions on the Paint Can](https://blog.codinghorror.com/following-the-instructions-on-the-paint-can/) — `2005-05-06-following-the-instructions-on-the-paint-can.md` — 849w
+- 2005-05-02 — [New Job at Vertigo Software](https://blog.codinghorror.com/new-job-at-vertigo-software/) — `2005-05-02-new-job-at-vertigo-software.md` — 154w
+- 2005-05-01 — [Unwanted Modeling Language](https://blog.codinghorror.com/unwanted-modeling-language/) — `2005-05-01-unwanted-modeling-language.md` — 509w
+- 2005-04-30 — [Barcodes and QR Codes](https://blog.codinghorror.com/barcodes-and-qr-codes/) — `2005-04-30-barcodes-and-qr-codes.md` — 349w
+- 2005-04-29 — [Respecting Abstraction](https://blog.codinghorror.com/respecting-abstraction/) — `2005-04-29-respecting-abstraction.md` — 650w
+- 2005-04-24 — [The Start Menu must be stopped](https://blog.codinghorror.com/the-start-menu-must-be-stopped/) — `2005-04-24-the-start-menu-must-be-stopped.md` — 710w
+- 2005-04-22 — [You Can Write FORTRAN in any Language](https://blog.codinghorror.com/you-can-write-fortran-in-any-language/) — `2005-04-22-you-can-write-fortran-in-any-language.md` — 781w
+- 2005-04-20 — [Because Information is Beautiful](https://blog.codinghorror.com/because-information-is-beautiful/) — `2005-04-20-because-information-is-beautiful.md` — 477w
+- 2005-04-19 — [What Would Blanka Do?](https://blog.codinghorror.com/what-would-blanka-do/) — `2005-04-19-what-would-blanka-do.md` — 120w
+- 2005-04-16 — [Improved craigslist.org all city search](https://blog.codinghorror.com/improved-craigslistorg-all-city-search/) — `2005-04-16-improved-craigslistorg-all-city-search.md` — 134w
+- 2005-04-13 — [ASP.NET NTLM Authentication](https://blog.codinghorror.com/aspnet-ntlm-authentication-is-it-worth-it/) — `2005-04-13-aspnet-ntlm-authentication-is-it-worth-it.md` — 613w
+- 2005-04-12 — [Tabbed Browsing and MDI-SDI](https://blog.codinghorror.com/tabbed-browsing-and-mdi-sdi-wtf/) — `2005-04-12-tabbed-browsing-and-mdi-sdi-wtf.md` — 350w
+- 2005-04-04 — [Rube Goldberg Software Devices](https://blog.codinghorror.com/rube-goldberg-software-devices/) — `2005-04-04-rube-goldberg-software-devices.md` — 163w
+- 2005-03-30 — [What’s on your keychain?](https://blog.codinghorror.com/whats-on-your-keychain/) — `2005-03-30-whats-on-your-keychain.md` — 502w
+- 2005-03-28 — [Building Mht Files from URLs revisited](https://blog.codinghorror.com/building-mht-files-from-urls-revisited/) — `2005-03-28-building-mht-files-from-urls-revisited.md` — 272w
+- 2005-03-27 — [On Necessity](https://blog.codinghorror.com/on-necessity/) — `2005-03-27-on-necessity.md` — 543w
+- 2005-03-24 — [Are You There, God? It’s Me, Microsoft.](https://blog.codinghorror.com/are-you-there-god-its-me-microsoft/) — `2005-03-24-are-you-there-god-its-me-microsoft.md` — 413w
+- 2005-03-23 — [Trees, TreeViews, and UI](https://blog.codinghorror.com/trees-treeviews-and-ui/) — `2005-03-23-trees-treeviews-and-ui.md` — 613w
+- 2005-03-17 — [Captchas Compared and Critiqued](https://blog.codinghorror.com/captchas-compared-and-critiqued/) — `2005-03-17-captchas-compared-and-critiqued.md` — 157w
+- 2005-03-16 — [A Developer’s Second Most Important Asset](https://blog.codinghorror.com/a-developers-second-most-important-asset/) — `2005-03-16-a-developers-second-most-important-asset.md` — 702w
+- 2005-03-14 — [Developers Are Users Too](https://blog.codinghorror.com/developers-are-users-too/) — `2005-03-14-developers-are-users-too.md` — 760w
+- 2005-03-13 — [Automated Continuous Integration and the BetaBrite LED Sign](https://blog.codinghorror.com/automated-continuous-integration-and-the-betabrite-led-sign/) — `2005-03-13-automated-continuous-integration-and-the-betabrite-led-sign.md` — 826w
+- 2005-03-12 — [Get Me The Laziest People Money Can Buy](https://blog.codinghorror.com/get-me-the-laziest-people-money-can-buy/) — `2005-03-12-get-me-the-laziest-people-money-can-buy.md` — 560w
+- 2005-03-10 — [The Slow Brain Death of VB.NET](https://blog.codinghorror.com/the-slow-brain-death-of-vb-net/) — `2005-03-10-the-slow-brain-death-of-vb-net.md` — 740w
+- 2005-03-08 — [On Managed Code Performance](https://blog.codinghorror.com/on-managed-code-performance/) — `2005-03-08-on-managed-code-performance.md` — 901w
+- 2005-03-05 — [On Software “Engineering”](https://blog.codinghorror.com/on-software-engineering/) — `2005-03-05-on-software-engineering.md` — 553w
+- 2005-03-04 — [Notepad Strikes Back](https://blog.codinghorror.com/notepad-strikes-back/) — `2005-03-04-notepad-strikes-back.md` — 614w
+- 2005-03-03 — [To Compile or Not To Compile](https://blog.codinghorror.com/to-compile-or-not-to-compile/) — `2005-03-03-to-compile-or-not-to-compile.md` — 510w
+- 2005-03-02 — [The Great Enterprise Software Swindle](https://blog.codinghorror.com/the-great-enterprise-software-swindle/) — `2005-03-02-the-great-enterprise-software-swindle.md` — 328w
+- 2005-03-01 — [On Interviewing Programmers](https://blog.codinghorror.com/on-interviewing-programmers/) — `2005-03-01-on-interviewing-programmers.md` — 555w
+- 2005-02-28 — [The One Trillion Dollar Development Pyramid](https://blog.codinghorror.com/the-one-trillion-dollar-development-pyramid/) — `2005-02-28-the-one-trillion-dollar-development-pyramid.md` — 951w
+- 2005-02-26 — [iPod Hacking via Modem](https://blog.codinghorror.com/ipod-hacking-via-modem/) — `2005-02-26-ipod-hacking-via-modem.md` — 590w
+- 2005-02-23 — [Pentium](https://blog.codinghorror.com/pentium-m-home-theater-pc/) — `2005-02-23-pentium-m-home-theater-pc.md` — 593w
+- 2005-02-20 — [Is your PC boring?](https://blog.codinghorror.com/is-your-pc-boring/) — `2005-02-20-is-your-pc-boring.md` — 211w
+- 2005-02-19 — [Multiple LCDs](https://blog.codinghorror.com/multiple-lcds/) — `2005-02-19-multiple-lcds.md` — 605w
+- 2005-02-16 — [Regex use vs. Regex abuse](https://blog.codinghorror.com/regex-use-vs-regex-abuse/) — `2005-02-16-regex-use-vs-regex-abuse.md` — 371w
+- 2005-02-13 — [A need for speed – and silence](https://blog.codinghorror.com/a-need-for-speed-and-silence/) — `2005-02-13-a-need-for-speed-and-silence.md` — 640w
+- 2005-02-11 — [Gettin’ Greppy Wit It](https://blog.codinghorror.com/gettin-greppy-wit-it/) — `2005-02-11-gettin-greppy-wit-it.md` — 574w
+- 2005-02-10 — [Keyboarding](https://blog.codinghorror.com/keyboarding/) — `2005-02-10-keyboarding.md` — 483w
+- 2005-02-09 — [ASP.NET About Box (Page)](https://blog.codinghorror.com/aspnet-about-box-page/) — `2005-02-09-aspnet-about-box-page.md` — 219w
+- 2005-02-08 — [Virtual PC 2004 tips](https://blog.codinghorror.com/virtual-pc-2004-tips/) — `2005-02-08-virtual-pc-2004-tips.md` — 453w
+- 2005-02-07 — [Ivory Tower Development](https://blog.codinghorror.com/ivory-tower-development/) — `2005-02-07-ivory-tower-development.md` — 832w
+- 2005-02-02 — [Resharper for VB.NET](https://blog.codinghorror.com/resharper-for-vbnet/) — `2005-02-02-resharper-for-vbnet.md` — 234w
+- 2005-01-31 — [The He](https://blog.codinghorror.com/the-he-man-pattern-haters-club/) — `2005-01-31-the-he-man-pattern-haters-club.md` — 588w
+- 2005-01-29 — [Video Codecs are the next DLL Hell](https://blog.codinghorror.com/video-codecs-are-the-next-dll-hell/) — `2005-01-29-video-codecs-are-the-next-dll-hell.md` — 1140w
+- 2005-01-26 — [It’s the IDE, dummy!](https://blog.codinghorror.com/its-the-ide-dummy/) — `2005-01-26-its-the-ide-dummy.md` — 393w
+- 2005-01-24 — [Universally Annoying Remotes, Revisited](https://blog.codinghorror.com/universally-annoying-remotes-revisited/) — `2005-01-24-universally-annoying-remotes-revisited.md` — 620w
+- 2005-01-23 — [Disk Space](https://blog.codinghorror.com/disk-space/) — `2005-01-23-disk-space.md` — 161w
+- 2005-01-18 — [Who Needs Talent When You Have Intensity?](https://blog.codinghorror.com/who-needs-talent-when-you-have-intensity/) — `2005-01-18-who-needs-talent-when-you-have-intensity.md` — 522w
+- 2005-01-15 — [Micro](https://blog.codinghorror.com/micro-optimization-and-meatballs/) — `2005-01-15-micro-optimization-and-meatballs.md` — 254w
+- 2005-01-12 — [Net.WebClient and Deflate](https://blog.codinghorror.com/net-webclient-and-deflate/) — `2005-01-12-net-webclient-and-deflate.md` — 277w
+- 2005-01-10 — [WebFileManager updated](https://blog.codinghorror.com/webfilemanager-updated/) — `2005-01-10-webfilemanager-updated.md` — 169w
+- 2005-01-09 — [MAME Cocktail Arcade](https://blog.codinghorror.com/mame-cocktail-arcade/) — `2005-01-09-mame-cocktail-arcade.md` — 340w
+- 2005-01-07 — [Perceived Performance and Form.Paint](https://blog.codinghorror.com/perceived-performance-and-formpaint/) — `2005-01-07-perceived-performance-and-formpaint.md` — 186w
 - 2005-01-06 — [Moving the Block](https://blog.codinghorror.com/moving-the-block/) — `2005-01-06-moving-the-block.md` — 800w
+- 2005-01-05 — [If an Exception happens in Form.Paint, does anyone catch it?](https://blog.codinghorror.com/if-an-exception-happens-in-formpaint-does-anyone-catch-it/) — `2005-01-05-if-an-exception-happens-in-formpaint-does-anyone-catch-it.md` — 407w
+- 2005-01-03 — [On mistakes](https://blog.codinghorror.com/on-mistakes/) — `2005-01-03-on-mistakes.md` — 177w
+- 2004-12-27 — [It Came From Planet Architecture](https://blog.codinghorror.com/it-came-from-planet-architecture/) — `2004-12-27-it-came-from-planet-architecture.md` — 517w
+- 2004-12-26 — [Reducing Useless Clutter on Websites](https://blog.codinghorror.com/reducing-useless-clutter-on-websites/) — `2004-12-26-reducing-useless-clutter-on-websites.md` — 138w
+- 2004-12-23 — [Happy Talk Must Die](https://blog.codinghorror.com/happy-talk-must-die/) — `2004-12-23-happy-talk-must-die.md` — 436w
+- 2004-12-22 — [Task Manager Extreme](https://blog.codinghorror.com/task-manager-extreme/) — `2004-12-22-task-manager-extreme.md` — 181w
+- 2004-12-16 — [Programming Fonts](https://blog.codinghorror.com/progamming-fonts/) — `2004-12-16-progamming-fonts.md` — 315w
+- 2004-12-15 — [My Database is a Web Service](https://blog.codinghorror.com/my-database-is-a-web-service/) — `2004-12-15-my-database-is-a-web-service.md` — 1293w
+- 2004-12-14 — [Road Warrior, come out to play](https://blog.codinghorror.com/road-warrior-come-out-to-play/) — `2004-12-14-road-warrior-come-out-to-play.md` — 534w
+- 2004-12-09 — [Never design what you can steal](https://blog.codinghorror.com/never-design-what-you-can-steal/) — `2004-12-09-never-design-what-you-can-steal.md` — 318w
+- 2004-12-06 — [The Magical Build Machine](https://blog.codinghorror.com/the-magical-build-machine/) — `2004-12-06-the-magical-build-machine.md` — 617w
+- 2004-12-05 — [Universally Annoying Remotes](https://blog.codinghorror.com/universally-annoying-remotes/) — `2004-12-05-universally-annoying-remotes.md` — 673w
+- 2004-12-01 — [UI Follies, Volume II](https://blog.codinghorror.com/ui-follies-volume-ii/) — `2004-12-01-ui-follies-volume-ii.md` — 175w
+- 2004-11-30 — [Classic ASP](https://blog.codinghorror.com/classic-asp/) — `2004-11-30-classic-asp.md` — 383w
+- 2004-11-29 — [Because I love the smell of compilation in the morning](https://blog.codinghorror.com/because-i-love-the-smell-of-compilation-in-the-morning/) — `2004-11-29-because-i-love-the-smell-of-compilation-in-the-morning.md` — 250w
+- 2004-11-23 — [Trapped in a Bitmapped World](https://blog.codinghorror.com/trapped-in-a-bitmapped-world/) — `2004-11-23-trapped-in-a-bitmapped-world.md` — 535w
+- 2004-11-21 — [Good Programmers Get Off Their Butts](https://blog.codinghorror.com/good-programmers-get-off-their-butts/) — `2004-11-21-good-programmers-get-off-their-butts.md` — 669w
+- 2004-11-18 — [Process.Start and Impersonation](https://blog.codinghorror.com/processstart-and-impersonation/) — `2004-11-18-processstart-and-impersonation.md` — 571w
+- 2004-11-16 — [Web Farms and ASP.NET ViewState](https://blog.codinghorror.com/web-farms-and-aspnet-viewstate/) — `2004-11-16-web-farms-and-aspnet-viewstate.md` — 355w
+- 2004-11-15 — [Multiple /bin folders in ASP.NET](https://blog.codinghorror.com/multiple-bin-folders-in-aspnet/) — `2004-11-15-multiple-bin-folders-in-aspnet.md` — 225w
+- 2004-11-10 — [VB.NET vs C#, round two](https://blog.codinghorror.com/vbnet-vs-c-round-two/) — `2004-11-10-vbnet-vs-c-round-two.md` — 719w
 - 2004-11-09 — [You’ll Never Have Enough Cheese](https://blog.codinghorror.com/youll-never-have-enough-cheese/) — `2004-11-09-youll-never-have-enough-cheese.md` — 416w
+- 2004-11-04 — [Don’t Be Afraid to Break Stuff](https://blog.codinghorror.com/dont-be-afraid-to-break-stuff/) — `2004-11-04-dont-be-afraid-to-break-stuff.md` — 363w
+- 2004-11-03 — [HTTP Compression via HttpModule](https://blog.codinghorror.com/http-compression-via-httpmodule/) — `2004-11-03-http-compression-via-httpmodule.md` — 301w
+- 2004-11-01 — [Free as in Beer](https://blog.codinghorror.com/free-as-in-beer/) — `2004-11-01-free-as-in-beer.md` — 129w
+- 2004-10-30 — [UI Follies, Volume I](https://blog.codinghorror.com/ui-follies-volume-i/) — `2004-10-30-ui-follies-volume-i.md` — 214w
+- 2004-10-28 — [Who Needs Stored Procedures, Anyways?](https://blog.codinghorror.com/who-needs-stored-procedures-anyways/) — `2004-10-28-who-needs-stored-procedures-anyways.md` — 952w
+- 2004-10-25 — [Teaching Users to Read](https://blog.codinghorror.com/teaching-users-to-read/) — `2004-10-25-teaching-users-to-read.md` — 571w
+- 2004-10-20 — [10 Foot Interface Showdown](https://blog.codinghorror.com/10-foot-interface-showdown/) — `2004-10-20-10-foot-interface-showdown.md` — 587w
+- 2004-10-18 — [Just Say No](https://blog.codinghorror.com/just-say-no/) — `2004-10-18-just-say-no.md` — 349w
+- 2004-10-13 — [Stuck in a VB.NET Ghetto](https://blog.codinghorror.com/stuck-in-a-vbnet-ghetto/) — `2004-10-13-stuck-in-a-vbnet-ghetto.md` — 1224w
+- 2004-10-11 — [A Pragmatic Quick Reference](https://blog.codinghorror.com/a-pragmatic-quick-reference/) — `2004-10-11-a-pragmatic-quick-reference.md` — 1817w
+- 2004-10-10 — [Are your exceptions silent?](https://blog.codinghorror.com/are-your-exceptions-silent/) — `2004-10-10-are-your-exceptions-silent.md` — 715w
+- 2004-10-01 — [An ASP.NET CAPTCHA Server Control](https://blog.codinghorror.com/an-aspnet-captcha-server-control/) — `2004-10-01-an-aspnet-captcha-server-control.md` — 219w
+- 2004-09-12 — [Being technologically savvy isn’t enough](https://blog.codinghorror.com/being-technologically-savvy-isnt-enough/) — `2004-09-12-being-technologically-savvy-isnt-enough.md` — 395w
+- 2004-09-10 — [Get your Hex on](https://blog.codinghorror.com/get-your-hex-on/) — `2004-09-10-get-your-hex-on.md` — 190w
+- 2004-09-09 — [A tale of two UIs](https://blog.codinghorror.com/a-tale-of-two-uis/) — `2004-09-09-a-tale-of-two-uis.md` — 204w
+- 2004-09-07 — [Do You Want to Save?](https://blog.codinghorror.com/do-you-want-to-save/) — `2004-09-07-do-you-want-to-save.md` — 232w
+- 2004-09-02 — [Development is Inherently Wicked](https://blog.codinghorror.com/development-is-inherently-wicked/) — `2004-09-02-development-is-inherently-wicked.md` — 593w
+- 2004-08-29 — [The Incredible LinkTron 5000(tm)!](https://blog.codinghorror.com/the-incredible-linktron-5000tm/) — `2004-08-29-the-incredible-linktron-5000tm.md` — 197w
+- 2004-08-26 — [Sniff this!](https://blog.codinghorror.com/sniff-this/) — `2004-08-26-sniff-this.md` — 188w
 - 2004-08-23 — [Showstopper!](https://blog.codinghorror.com/showstopper/) — `2004-08-23-showstopper.md` — 1183w
+- 2004-08-15 — [Pragmatic Programming](https://blog.codinghorror.com/pragmatic-programming/) — `2004-08-15-pragmatic-programming.md` — 604w
+- 2004-08-14 — [Task Manager Extension](https://blog.codinghorror.com/task-manager-extension/) — `2004-08-14-task-manager-extension.md` — 237w
+- 2004-07-11 — [Virtual PC 2004](https://blog.codinghorror.com/virtual-pc-2004/) — `2004-07-11-virtual-pc-2004.md` — 729w
+- 2004-07-03 — [Putting the Science Back Into Computer Science](https://blog.codinghorror.com/putting-the-science-back-into-computer-science/) — `2004-07-03-putting-the-science-back-into-computer-science.md` — 713w
+- 2004-07-03 — [Athlon 64: Developer’s Choice](https://blog.codinghorror.com/athlon-64-developers-choice/) — `2004-07-03-athlon-64-developers-choice.md` — 417w
+- 2004-07-02 — [My Buddy, Regex](https://blog.codinghorror.com/my-buddy-regex/) — `2004-07-02-my-buddy-regex.md` — 663w
+- 2004-06-30 — [Edit and Continue](https://blog.codinghorror.com/edit-and-continue/) — `2004-06-30-edit-and-continue.md` — 964w
+- 2004-06-29 — [Commandos, Infantry, and Police](https://blog.codinghorror.com/commandos-infantry-and-police/) — `2004-06-29-commandos-infantry-and-police.md` — 2260w
+- 2004-06-28 — [Visual Diff Tools](https://blog.codinghorror.com/visual-diff-tools/) — `2004-06-28-visual-diff-tools.md` — 315w
+- 2004-06-28 — [Hungarian Wars](https://blog.codinghorror.com/hungarian-wars/) — `2004-06-28-hungarian-wars.md` — 712w
+- 2004-06-27 — [Death to the Dialog Box](https://blog.codinghorror.com/death-to-the-dialog-box/) — `2004-06-27-death-to-the-dialog-box.md` — 545w
 - 2004-06-27 — [Code Complete 2: The Revenge](https://blog.codinghorror.com/code-complete-2-the-revenge/) — `2004-06-27-code-complete-2-the-revenge.md` — 417w
 - 2004-06-24 — [What’s worse than a Bad Error Message?](https://blog.codinghorror.com/whats-worse-than-a-bad-error-message/) — `2004-06-24-whats-worse-than-a-bad-error-message.md` — 405w
+- 2004-06-22 — [User](https://blog.codinghorror.com/user-friendly-exception-handling/) — `2004-06-22-user-friendly-exception-handling.md` — 277w
+- 2004-06-15 — [Multiple Monitors and Productivity](https://blog.codinghorror.com/multiple-monitors-and-productivity/) — `2004-06-15-multiple-monitors-and-productivity.md` — 629w
 - 2004-06-12 — [Revenge of Notepad](https://blog.codinghorror.com/revenge-of-notepad/) — `2004-06-12-revenge-of-notepad.md` — 210w
+- 2004-02-17 — [.NET Compiler Performance](https://blog.codinghorror.com/net-compiler-performance/) — `2004-02-17-net-compiler-performance.md` — 302w
+- 2004-02-10 — [In the beginning, there was Movable Type](https://blog.codinghorror.com/in-the-beginning-there-was-movable-type/) — `2004-02-10-in-the-beginning-there-was-movable-type.md` — 373w
 - 2004-02-02 — [Recommended Reading for Developers](https://blog.codinghorror.com/recommended-reading-for-developers/) — `2004-02-02-recommended-reading-for-developers.md` — 2130w

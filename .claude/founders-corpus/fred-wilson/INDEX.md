@@ -1,7 +1,7 @@
 # Fred Wilson corpus index
 
-Source: https://avc.com — fetched 2026-07-19
-92 posts, 40045 words. Format: date — [title](canonical url) — `file` — words.
+Source: https://avc.com — fetched 2026-07-20
+737 posts, 244278 words. Format: date — [title](canonical url) — `file` — words.
 
 - 2024-05-02 — [I’ve Moved Onchain](https://avc.com/2024/05/ive-moved-onchain/) — `2024-05-02-2024-05-ive-moved-onchain.md` — 730w
 - 2024-01-10 — [Transit Tech Lab](https://avc.com/2024/01/transit-tech-lab/) — `2024-01-10-2024-01-transit-tech-lab.md` — 236w
@@ -95,3 +95,648 @@ Source: https://avc.com — fetched 2026-07-19
 - 2022-02-07 — [NFPs](https://avc.com/2022/02/nfps/) — `2022-02-07-2022-02-nfps.md` — 473w
 - 2022-02-01 — [Get Paid In Crypto](https://avc.com/2022/02/get-paid-in-crypto/) — `2022-02-01-2022-02-get-paid-in-crypto.md` — 155w
 - 2022-01-24 — [On Covid](https://avc.com/2022/01/on-covid/) — `2022-01-24-2022-01-on-covid.md` — 873w
+- 2022-01-19 — [New Leadership At Tech:NYC](https://avc.com/2022/01/new-leadership-at-technyc/) — `2022-01-19-2022-01-new-leadership-at-technyc.md` — 502w
+- 2022-01-12 — [Exciting Protocol Lead Opportunity](https://avc.com/2022/01/exciting-protocol-lead-opportunity/) — `2022-01-12-2022-01-exciting-protocol-lead-opportunity.md` — 137w
+- 2022-01-06 — [The Selloff](https://avc.com/2022/01/the-selloff-2/) — `2022-01-06-2022-01-the-selloff-2.md` — 407w
+- 2022-01-01 — [What Is Going To Happen In 2022](https://avc.com/2022/01/what-is-going-to-happen-in-2022/) — `2022-01-01-2022-01-what-is-going-to-happen-in-2022.md` — 465w
+- 2021-12-31 — [What Happened In 2021](https://avc.com/2021/12/what-happened-in-2021/) — `2021-12-31-2021-12-what-happened-in-2021.md` — 554w
+- 2021-12-29 — [Why Web3?](https://avc.com/2021/12/why-web3/) — `2021-12-29-2021-12-why-web3.md` — 535w
+- 2021-12-20 — [The Pull Forward](https://avc.com/2021/12/the-pull-forward/) — `2021-12-20-2021-12-the-pull-forward.md` — 267w
+- 2021-12-14 — [Getting Together In Person](https://avc.com/2021/12/getting-together-in-person/) — `2021-12-14-2021-12-getting-together-in-person.md` — 268w
+- 2021-12-10 — [Computer Science Education Week](https://avc.com/2021/12/computer-science-education-week/) — `2021-12-10-2021-12-computer-science-education-week.md` — 519w
+- 2021-12-06 — [The Great Formation](https://avc.com/2021/12/the-great-formation/) — `2021-12-06-2021-12-the-great-formation.md` — 173w
+- 2021-11-29 — [Partnerships](https://avc.com/2021/11/partnerships/) — `2021-11-29-2021-11-partnerships.md` — 257w
+- 2021-11-25 — [Giving Thanks](https://avc.com/2021/11/giving-thanks-4/) — `2021-11-25-2021-11-giving-thanks-4.md` — 539w
+- 2021-11-24 — [Founder Led Companies](https://avc.com/2021/11/founder-led-companies/) — `2021-11-24-2021-11-founder-led-companies.md` — 236w
+- 2021-11-22 — [Swapping NFTs](https://avc.com/2021/11/swapping-nfts/) — `2021-11-22-2021-11-swapping-nfts.md` — 259w
+- 2021-11-17 — [The David Prize](https://avc.com/2021/11/the-david-prize-2/) — `2021-11-17-2021-11-the-david-prize-2.md` — 177w
+- 2021-11-15 — [Seed Rounds At $100mm Post Money](https://avc.com/2021/11/seed-rounds-at-100mm-post-money/) — `2021-11-15-2021-11-seed-rounds-at-100mm-post-money.md` — 672w
+- 2021-11-10 — [Buying Crypto Assets](https://avc.com/2021/11/buying-crypto-assets/) — `2021-11-10-2021-11-buying-crypto-assets.md` — 456w
+- 2021-11-08 — [Biking In Paris](https://avc.com/2021/11/biking-in-paris/) — `2021-11-08-2021-11-biking-in-paris.md` — 262w
+- 2021-11-04 — [Traveling Again](https://avc.com/2021/11/traveling-again/) — `2021-11-04-2021-11-traveling-again.md` — 173w
+- 2021-11-01 — [The Metaverse](https://avc.com/2021/11/the-metaverse/) — `2021-11-01-2021-11-the-metaverse.md` — 212w
+- 2021-10-27 — [Web3 vs Web2](https://avc.com/2021/10/web3-vs-web2/) — `2021-10-27-2021-10-web3-vs-web2.md` — 290w
+- 2021-10-25 — [Startups Galore](https://avc.com/2021/10/startups-galore/) — `2021-10-25-2021-10-startups-galore.md` — 129w
+- 2021-10-18 — [Working Multiple Jobs](https://avc.com/2021/10/working-multiple-jobs/) — `2021-10-18-2021-10-working-multiple-jobs.md` — 601w
+- 2021-10-13 — [Tracking Crypto For Taxes](https://avc.com/2021/10/tracking-crypto-for-taxes/) — `2021-10-13-2021-10-tracking-crypto-for-taxes.md` — 197w
+- 2021-10-12 — [NYC’s Tech Resurgence (continued)](https://avc.com/2021/10/nycs-tech-resurgence-continued/) — `2021-10-12-2021-10-nycs-tech-resurgence-continued.md` — 121w
+- 2021-10-06 — [IRAs and Wealth Creation](https://avc.com/2021/10/iras-and-wealth-creation/) — `2021-10-06-2021-10-iras-and-wealth-creation.md` — 331w
+- 2021-10-04 — [Dapper Collectives](https://avc.com/2021/10/dapper-collectives/) — `2021-10-04-2021-10-dapper-collectives.md` — 196w
+- 2021-09-30 — [NYC’s Tech Resurgence](https://avc.com/2021/09/nycs-tech-resurgence/) — `2021-09-30-2021-09-nycs-tech-resurgence.md` — 548w
+- 2021-09-28 — [The Token Race](https://avc.com/2021/09/the-token-race/) — `2021-09-28-2021-09-the-token-race.md` — 347w
+- 2021-09-27 — [E-Bikes](https://avc.com/2021/09/e-bikes/) — `2021-09-27-2021-09-e-bikes.md` — 279w
+- 2021-09-22 — [Citibiking (Continued)](https://avc.com/2021/09/citibiking-continued-2/) — `2021-09-22-2021-09-citibiking-continued-2.md` — 213w
+- 2021-09-21 — [Citibiking (Continued)](https://avc.com/2021/09/citibiking-continued/) — `2021-09-21-2021-09-citibiking-continued.md` — 482w
+- 2021-09-20 — [Blinking](https://avc.com/2021/09/blinking/) — `2021-09-20-2021-09-blinking.md` — 250w
+- 2021-09-15 — [Large Group In-Person Meetings](https://avc.com/2021/09/large-group-in-person-meetings/) — `2021-09-15-2021-09-large-group-in-person-meetings.md` — 216w
+- 2021-09-09 — [Generalist vs Specialist](https://avc.com/2021/09/generalist-vs-specialist/) — `2021-09-09-2021-09-generalist-vs-specialist.md` — 172w
+- 2021-09-07 — [Staying Plugged In](https://avc.com/2021/09/staying-plugged-in/) — `2021-09-07-2021-09-staying-plugged-in.md` — 235w
+- 2021-08-31 — [Diversification](https://avc.com/2021/08/diversification-2/) — `2021-08-31-2021-08-diversification-2.md` — 295w
+- 2021-08-24 — [Office Utilization](https://avc.com/2021/08/office-utilization/) — `2021-08-24-2021-08-office-utilization.md` — 569w
+- 2021-08-23 — [VC Investor Relations](https://avc.com/2021/08/vc-investor-relations/) — `2021-08-23-2021-08-vc-investor-relations.md` — 398w
+- 2021-08-20 — [Sixty Years](https://avc.com/2021/08/sixty-years/) — `2021-08-20-2021-08-sixty-years.md` — 289w
+- 2021-08-18 — [Splitting Ownership and Display/Consumption](https://avc.com/2021/08/splitting-ownership-and-display-consumption/) — `2021-08-18-2021-08-splitting-ownership-and-display-consumption.md` — 339w
+- 2021-08-17 — [Telegraphing](https://avc.com/2021/08/telegraphing/) — `2021-08-17-2021-08-telegraphing.md` — 220w
+- 2021-08-12 — [Dune.xyz](https://avc.com/2021/08/dune-xyz/) — `2021-08-12-2021-08-dune-xyz.md` — 204w
+- 2021-08-11 — [The Opening](https://avc.com/2021/08/the-opening/) — `2021-08-11-2021-08-the-opening.md` — 531w
+- 2021-08-09 — [Science To The Rescue](https://avc.com/2021/08/science-to-the-rescue/) — `2021-08-09-2021-08-science-to-the-rescue.md` — 171w
+- 2021-08-05 — [Sticking With The Plan](https://avc.com/2021/08/sticking-with-the-plan/) — `2021-08-05-2021-08-sticking-with-the-plan.md` — 351w
+- 2021-08-03 — [Crypto and the Infrastructure Bill](https://avc.com/2021/08/crypto-and-the-infrastructure-bill/) — `2021-08-03-2021-08-crypto-and-the-infrastructure-bill.md` — 396w
+- 2021-08-02 — [Leaving Well](https://avc.com/2021/08/leaving-well/) — `2021-08-02-2021-08-leaving-well.md` — 378w
+- 2021-07-29 — [The Lost Art Of Compromise](https://avc.com/2021/07/the-lost-art-of-compromise/) — `2021-07-29-2021-07-the-lost-art-of-compromise.md` — 215w
+- 2021-07-27 — [Cash on Cash vs IRR](https://avc.com/2021/07/cash-on-cash-vs-irr/) — `2021-07-27-2021-07-cash-on-cash-vs-irr.md` — 463w
+- 2021-07-26 — [100% Solar Match](https://avc.com/2021/07/100-solar-match/) — `2021-07-26-2021-07-100-solar-match.md` — 174w
+- 2021-07-22 — [Stablecoins vs CBDCs](https://avc.com/2021/07/stablecoins-vs-cbdcs/) — `2021-07-22-2021-07-stablecoins-vs-cbdcs.md` — 279w
+- 2021-07-20 — [News Items](https://avc.com/2021/07/news-items/) — `2021-07-20-2021-07-news-items.md` — 310w
+- 2021-07-19 — [The Bad Marriage Problem](https://avc.com/2021/07/the-bad-marriage-problem/) — `2021-07-19-2021-07-the-bad-marriage-problem.md` — 379w
+- 2021-07-16 — [Funding Friday: Ethereum: The Infinite Garden](https://avc.com/2021/07/funding-friday-ethereum-the-infinite-garden/) — `2021-07-16-2021-07-funding-friday-ethereum-the-infinite-garden.md` — 123w
+- 2021-07-13 — [From The Lab To Your Home](https://avc.com/2021/07/from-the-lab-to-your-home/) — `2021-07-13-2021-07-from-the-lab-to-your-home.md` — 410w
+- 2021-07-12 — [The Walk Away Move](https://avc.com/2021/07/the-walk-away-move/) — `2021-07-12-2021-07-the-walk-away-move.md` — 239w
+- 2021-07-07 — [Betting On The Price Of Carbon](https://avc.com/2021/07/betting-on-the-price-of-carbon/) — `2021-07-07-2021-07-betting-on-the-price-of-carbon.md` — 281w
+- 2021-07-06 — [First Friends](https://avc.com/2021/07/first-friends/) — `2021-07-06-2021-07-first-friends.md` — 124w
+- 2021-06-30 — [Anti-fragile Systems](https://avc.com/2021/06/anti-fragile-systems/) — `2021-06-30-2021-06-anti-fragile-systems.md` — 262w
+- 2021-06-28 — [AVC Infrastructure](https://avc.com/2021/06/avc-infrastructure/) — `2021-06-28-2021-06-avc-infrastructure.md` — 177w
+- 2021-06-24 — [Regulating Software](https://avc.com/2021/06/regulating-software/) — `2021-06-24-2021-06-regulating-software.md` — 382w
+- 2021-06-21 — [Analog Summer](https://avc.com/2021/06/analog-summer/) — `2021-06-21-2021-06-analog-summer.md` — 284w
+- 2021-06-17 — [Pier 76](https://avc.com/2021/06/pier-76/) — `2021-06-17-2021-06-pier-76.md` — 189w
+- 2021-06-16 — [ENS](https://avc.com/2021/06/ens/) — `2021-06-16-2021-06-ens.md` — 238w
+- 2021-06-15 — [Early Voting](https://avc.com/2021/06/early-voting/) — `2021-06-15-2021-06-early-voting.md` — 239w
+- 2021-06-14 — [Meme Investing](https://avc.com/2021/06/meme-investing/) — `2021-06-14-2021-06-meme-investing.md` — 399w
+- 2021-06-09 — [Startup CXO](https://avc.com/2021/06/startup-cxo/) — `2021-06-09-2021-06-startup-cxo.md` — 195w
+- 2021-06-08 — [Digital Asset Mining In New York State](https://avc.com/2021/06/digital-asset-mining-in-new-york-state/) — `2021-06-08-2021-06-digital-asset-mining-in-new-york-state.md` — 571w
+- 2021-06-07 — [Community Solar](https://avc.com/2021/06/community-solar/) — `2021-06-07-2021-06-community-solar.md` — 196w
+- 2021-06-03 — [Scaling Ethereum](https://avc.com/2021/06/scaling-ethereum/) — `2021-06-03-2021-06-scaling-ethereum.md` — 228w
+- 2021-06-01 — [The Globalization Of Venture Capital Investing](https://avc.com/2021/06/the-globalization-of-venture-capital-investing/) — `2021-06-01-2021-06-the-globalization-of-venture-capital-investing.md` — 313w
+- 2021-05-27 — [Grit, Resilience and Determination](https://avc.com/2021/05/grit-resilience-and-determination/) — `2021-05-27-2021-05-grit-resilience-and-determination.md` — 373w
+- 2021-05-26 — [Changing Things Up](https://avc.com/2021/05/changing-things-up/) — `2021-05-26-2021-05-changing-things-up.md` — 146w
+- 2021-05-24 — [Winning at Fifty](https://avc.com/2021/05/winning-at-fifty/) — `2021-05-24-2021-05-winning-at-fifty.md` — 273w
+- 2021-05-20 — [Decentralized Media](https://avc.com/2021/05/decentralized-media/) — `2021-05-20-2021-05-decentralized-media.md` — 287w
+- 2021-05-19 — [Putting Carbon Back In The Ground](https://avc.com/2021/05/putting-carbon-back-in-the-ground/) — `2021-05-19-2021-05-putting-carbon-back-in-the-ground.md` — 128w
+- 2021-05-18 — [The Coinbase Wallet Browser Extension](https://avc.com/2021/05/the-coinbase-wallet-browser-extension/) — `2021-05-18-2021-05-the-coinbase-wallet-browser-extension.md` — 154w
+- 2021-05-17 — [Optimizing Health Care](https://avc.com/2021/05/optimizing-health-care/) — `2021-05-17-2021-05-optimizing-health-care.md` — 393w
+- 2021-05-13 — [Golden Handcuffs](https://avc.com/2021/05/golden-handcuffs-2/) — `2021-05-13-2021-05-golden-handcuffs-2.md` — 190w
+- 2021-05-11 — [In-Person vs On-Screen](https://avc.com/2021/05/in-person-vs-on-screen/) — `2021-05-11-2021-05-in-person-vs-on-screen.md` — 732w
+- 2021-05-10 — [Extra Life](https://avc.com/2021/05/extra-life/) — `2021-05-10-2021-05-extra-life.md` — 256w
+- 2021-05-05 — [Half Of All VCs Beat The Stock Market](https://avc.com/2021/05/half-of-all-vcs-beat-the-stock-market/) — `2021-05-05-2021-05-half-of-all-vcs-beat-the-stock-market.md` — 436w
+- 2021-05-04 — [The New Builders](https://avc.com/2021/05/the-new-builders/) — `2021-05-04-2021-05-the-new-builders.md` — 243w
+- 2021-05-03 — [The Demand Side Of A Crypto-Network](https://avc.com/2021/05/the-demand-side-of-a-crypto-network/) — `2021-05-03-2021-05-the-demand-side-of-a-crypto-network.md` — 214w
+- 2021-04-30 — [Funding Friday: Beach Lovers: A NYC Summer Love Story](https://avc.com/2021/04/funding-friday-beach-lovers-a-nyc-summer-love-story/) — `2021-04-30-2021-04-funding-friday-beach-lovers-a-nyc-summer-love-story.md` — 120w
+- 2021-04-29 — [Nuclear Energy](https://avc.com/2021/04/nuclear-energy/) — `2021-04-29-2021-04-nuclear-energy.md` — 557w
+- 2021-04-28 — [Solar For Outdoor Devices](https://avc.com/2021/04/solar-for-outdoor-devices/) — `2021-04-28-2021-04-solar-for-outdoor-devices.md` — 180w
+- 2021-04-27 — [Paternalism In The Office](https://avc.com/2021/04/paternalism-in-the-office/) — `2021-04-27-2021-04-paternalism-in-the-office.md` — 416w
+- 2021-04-22 — [The Bolster Board Diversity Survey](https://avc.com/2021/04/the-bolster-board-diversity-survey/) — `2021-04-22-2021-04-the-bolster-board-diversity-survey.md` — 316w
+- 2021-04-21 — [The Vision Thing](https://avc.com/2021/04/the-vision-thing/) — `2021-04-21-2021-04-the-vision-thing.md` — 486w
+- 2021-04-20 — [Citibiking](https://avc.com/2021/04/citibiking/) — `2021-04-20-2021-04-citibiking.md` — 238w
+- 2021-04-19 — [Commercial Real Estate](https://avc.com/2021/04/commercial-real-estate/) — `2021-04-19-2021-04-commercial-real-estate.md` — 632w
+- 2021-04-15 — [Leadership Matters](https://avc.com/2021/04/leadership-matters/) — `2021-04-15-2021-04-leadership-matters.md` — 246w
+- 2021-04-13 — [Entrepreneurship In Latin America](https://avc.com/2021/04/entrepreneurship-in-latin-america/) — `2021-04-13-2021-04-entrepreneurship-in-latin-america.md` — 435w
+- 2021-04-12 — [My New Metrocard](https://avc.com/2021/04/my-new-metrocard/) — `2021-04-12-2021-04-my-new-metrocard.md` — 201w
+- 2021-04-08 — [Vaccinations At Scale](https://avc.com/2021/04/vaccinations-at-scale/) — `2021-04-08-2021-04-vaccinations-at-scale.md` — 290w
+- 2021-04-07 — [Tech:NYC’s Mayoral Forum](https://avc.com/2021/04/technycs-mayoral-forum/) — `2021-04-07-2021-04-technycs-mayoral-forum.md` — 253w
+- 2021-04-06 — [Geothermal](https://avc.com/2021/04/geothermal/) — `2021-04-06-2021-04-geothermal.md` — 313w
+- 2021-04-05 — [Hubspot](https://avc.com/2021/04/hubspot/) — `2021-04-05-2021-04-hubspot.md` — 247w
+- 2021-04-01 — [Recycling](https://avc.com/2021/04/recycling/) — `2021-04-01-2021-04-recycling.md` — 459w
+- 2021-03-31 — [Volunteer At TEALS NYC](https://avc.com/2021/03/volunteer-at-teals-nyc/) — `2021-03-31-2021-03-volunteer-at-teals-nyc.md` — 122w
+- 2021-03-30 — [Dapper Labs, Flow, and NBA Top Shot](https://avc.com/2021/03/dapper-labs-flow-and-nba-top-shot/) — `2021-03-30-2021-03-dapper-labs-flow-and-nba-top-shot.md` — 437w
+- 2021-03-29 — [Staying Positive](https://avc.com/2021/03/staying-positive/) — `2021-03-29-2021-03-staying-positive.md` — 289w
+- 2021-03-25 — [Digital Art Frames](https://avc.com/2021/03/digital-art-frames/) — `2021-03-25-2021-03-digital-art-frames.md` — 236w
+- 2021-03-24 — [Resilience](https://avc.com/2021/03/resilience-2/) — `2021-03-24-2021-03-resilience-2.md` — 273w
+- 2021-03-23 — [Crypto and Climate Continued](https://avc.com/2021/03/crypto-and-climate-continued/) — `2021-03-23-2021-03-crypto-and-climate-continued.md` — 365w
+- 2021-03-22 — [Stack Overflow For Teams Goes Freemium](https://avc.com/2021/03/stack-overflow-for-teams-goes-freemium/) — `2021-03-22-2021-03-stack-overflow-for-teams-goes-freemium.md` — 213w
+- 2021-03-18 — [Mirror](https://avc.com/2021/03/mirror/) — `2021-03-18-2021-03-mirror.md` — 228w
+- 2021-03-17 — [News Moments](https://avc.com/2021/03/news-moments/) — `2021-03-17-2021-03-news-moments.md` — 327w
+- 2021-03-16 — [Taxing Airbnb Stays In NYS and NYC](https://avc.com/2021/03/taxing-airbnb-stays-in-nys-and-nyc/) — `2021-03-16-2021-03-taxing-airbnb-stays-in-nys-and-nyc.md` — 246w
+- 2021-03-15 — [Capital Gains, Carried Interest, and Ordinary Income](https://avc.com/2021/03/capital-gains-carried-interest-and-ordinary-income/) — `2021-03-15-2021-03-capital-gains-carried-interest-and-ordinary-income.md` — 331w
+- 2021-03-10 — [Stockton’s Basic Income Experiment](https://avc.com/2021/03/stocktons-basic-income-experiment/) — `2021-03-10-2021-03-stocktons-basic-income-experiment.md` — 311w
+- 2021-03-09 — [Crypto and Climate](https://avc.com/2021/03/crypto-and-climate/) — `2021-03-09-2021-03-crypto-and-climate.md` — 237w
+- 2021-03-08 — [Return/Hybrid/Remote](https://avc.com/2021/03/return-hybrid-remote/) — `2021-03-08-2021-03-return-hybrid-remote.md` — 933w
+- 2021-03-03 — [Fan Powered Royalties](https://avc.com/2021/03/fan-powered-royalties/) — `2021-03-03-2021-03-fan-powered-royalties.md` — 378w
+- 2021-03-02 — [Digital Birth Control](https://avc.com/2021/03/digital-birth-control/) — `2021-03-02-2021-03-digital-birth-control.md` — 324w
+- 2021-03-01 — [Decompressing](https://avc.com/2021/03/decompressing/) — `2021-03-01-2021-03-decompressing.md` — 211w
+- 2021-02-26 — [Funding Friday: The NYC Mayoral Race](https://avc.com/2021/02/funding-friday-the-nyc-mayoral-race/) — `2021-02-26-2021-02-funding-friday-the-nyc-mayoral-race.md` — 145w
+- 2021-02-25 — [Ten Years And Just Getting Started](https://avc.com/2021/02/ten-years-and-just-getting-started/) — `2021-02-25-2021-02-ten-years-and-just-getting-started.md` — 289w
+- 2021-02-24 — [QR Codes](https://avc.com/2021/02/qr-codes/) — `2021-02-24-2021-02-qr-codes.md` — 221w
+- 2021-02-23 — [Remote Learning](https://avc.com/2021/02/remote-learning/) — `2021-02-23-2021-02-remote-learning.md` — 207w
+- 2021-02-22 — [The Light At The End Of The Tunnel](https://avc.com/2021/02/the-light-at-the-end-of-the-tunnel/) — `2021-02-22-2021-02-the-light-at-the-end-of-the-tunnel.md` — 614w
+- 2021-02-18 — [Going Off Grid](https://avc.com/2021/02/going-off-grid/) — `2021-02-18-2021-02-going-off-grid.md` — 262w
+- 2021-02-17 — [Secondary Markets](https://avc.com/2021/02/secondary-markets/) — `2021-02-17-2021-02-secondary-markets.md` — 405w
+- 2021-02-16 — [How This Ends](https://avc.com/2021/02/how-this-ends/) — `2021-02-16-2021-02-how-this-ends.md` — 300w
+- 2021-02-11 — [Digital Art](https://avc.com/2021/02/digital-art/) — `2021-02-11-2021-02-digital-art.md` — 324w
+- 2021-02-10 — [What Problem Are We Trying To Solve?](https://avc.com/2021/02/what-problem-are-we-trying-to-solve/) — `2021-02-10-2021-02-what-problem-are-we-trying-to-solve.md` — 401w
+- 2021-02-09 — [Most Read Blog Posts On AVC](https://avc.com/2021/02/most-read-blog-posts-on-avc/) — `2021-02-09-2021-02-most-read-blog-posts-on-avc.md` — 177w
+- 2021-02-08 — [Computer Science Is For Everyone](https://avc.com/2021/02/computer-science-is-for-everyone/) — `2021-02-08-2021-02-computer-science-is-for-everyone.md` — 173w
+- 2021-02-04 — [A Nice Zoom Hack – Take Two](https://avc.com/2021/02/a-nice-zoom-hack-take-two/) — `2021-02-04-2021-02-a-nice-zoom-hack-take-two.md` — 239w
+- 2021-02-02 — [Learning From Your Mistakes](https://avc.com/2021/02/learning-from-your-mistakes/) — `2021-02-02-2021-02-learning-from-your-mistakes.md` — 167w
+- 2021-02-01 — [Rooftop Solar](https://avc.com/2021/02/rooftop-solar/) — `2021-02-01-2021-02-rooftop-solar.md` — 277w
+- 2021-01-28 — [The Revenge Of Retail](https://avc.com/2021/01/the-revenge-of-retail/) — `2021-01-28-2021-01-the-revenge-of-retail.md` — 454w
+- 2021-01-26 — [The + Email Hack](https://avc.com/2021/01/the-email-hack/) — `2021-01-26-2021-01-the-email-hack.md` — 190w
+- 2021-01-25 — [Controlling Your Destiny](https://avc.com/2021/01/controlling-your-destiny/) — `2021-01-25-2021-01-controlling-your-destiny.md` — 125w
+- 2021-01-21 — [Trading Cards, NFTs, and Crypto](https://avc.com/2021/01/trading-cards-nfts-and-crypto/) — `2021-01-21-2021-01-trading-cards-nfts-and-crypto.md` — 229w
+- 2021-01-20 — [Introducing The New CEO](https://avc.com/2021/01/introducing-the-new-ceo/) — `2021-01-20-2021-01-introducing-the-new-ceo.md` — 316w
+- 2021-01-18 — [Six Months Later](https://avc.com/2021/01/six-months-later/) — `2021-01-18-2021-01-six-months-later.md` — 293w
+- 2021-01-14 — [Smart Contracts On Bitcoin](https://avc.com/2021/01/smart-contracts-on-bitcoin/) — `2021-01-14-2021-01-smart-contracts-on-bitcoin.md` — 164w
+- 2021-01-13 — [The Work-Life Balance Revolution](https://avc.com/2021/01/the-work-life-balance-revolution/) — `2021-01-13-2021-01-the-work-life-balance-revolution.md` — 748w
+- 2021-01-12 — [Mentors](https://avc.com/2021/01/mentors/) — `2021-01-12-2021-01-mentors.md` — 482w
+- 2021-01-11 — [Twitter and Trump](https://avc.com/2021/01/twitter-and-trump/) — `2021-01-11-2021-01-twitter-and-trump.md` — 331w
+- 2021-01-08 — [USV Climate Fund](https://avc.com/2021/01/usv-climate-fund/) — `2021-01-08-2021-01-usv-climate-fund.md` — 242w
+- 2021-01-07 — [Temper Tantrum](https://avc.com/2021/01/temper-tantrum/) — `2021-01-07-2021-01-temper-tantrum.md` — 148w
+- 2021-01-06 — [Current Events and Math](https://avc.com/2021/01/current-events-and-math/) — `2021-01-06-2021-01-current-events-and-math.md` — 365w
+- 2021-01-05 — [How Not To Regulate Innovation](https://avc.com/2021/01/how-not-to-regulate-innovation/) — `2021-01-05-2021-01-how-not-to-regulate-innovation.md` — 643w
+- 2021-01-04 — [Back To Work](https://avc.com/2021/01/back-to-work-2/) — `2021-01-04-2021-01-back-to-work-2.md` — 218w
+- 2021-01-01 — [What Is Going To Happen In 2021](https://avc.com/2021/01/what-is-going-to-happen-in-2021/) — `2021-01-01-2021-01-what-is-going-to-happen-in-2021.md` — 1026w
+- 2020-12-31 — [What Happened In 2020](https://avc.com/2020/12/what-happened-in-2020/) — `2020-12-31-2020-12-what-happened-in-2020.md` — 758w
+- 2020-12-30 — [The Strangest Year Of My Life](https://avc.com/2020/12/the-strangest-year-of-my-life/) — `2020-12-30-2020-12-the-strangest-year-of-my-life.md` — 212w
+- 2020-12-28 — [NBA, NBA Top Shot, and Intangible Market](https://avc.com/2020/12/nba-nba-top-shot-and-intangible-market/) — `2020-12-28-2020-12-nba-nba-top-shot-and-intangible-market.md` — 254w
+- 2020-12-25 — [Christmas Presents](https://avc.com/2020/12/christmas-presents/) — `2020-12-25-2020-12-christmas-presents.md` — 300w
+- 2020-12-24 — [Thank You Everyone](https://avc.com/2020/12/thank-you-everyone/) — `2020-12-24-2020-12-thank-you-everyone.md` — 154w
+- 2020-12-23 — [General Robert Maris Wilson](https://avc.com/2020/12/general-robert-maris-wilson/) — `2020-12-23-2020-12-general-robert-maris-wilson.md` — 486w
+- 2020-12-21 — [Marketing in 2021](https://avc.com/2020/12/marketing-in-2021/) — `2020-12-21-2020-12-marketing-in-2021.md` — 375w
+- 2020-12-16 — [Electrifying Heating And Cooling](https://avc.com/2020/12/electrifying-heating-and-cooling/) — `2020-12-16-2020-12-electrifying-heating-and-cooling.md` — 431w
+- 2020-12-15 — [The Rise Of Everywhere](https://avc.com/2020/12/the-rise-of-everywhere/) — `2020-12-15-2020-12-the-rise-of-everywhere.md` — 444w
+- 2020-12-14 — [Innovation In Capital Markets](https://avc.com/2020/12/innovation-in-capital-markets/) — `2020-12-14-2020-12-innovation-in-capital-markets.md` — 607w
+- 2020-12-10 — [Open Up Instead Of Break Up](https://avc.com/2020/12/open-up-instead-break-up/) — `2020-12-10-2020-12-open-up-instead-break-up.md` — 381w
+- 2020-12-08 — [Rapid Innovation](https://avc.com/2020/12/rapid-innovation/) — `2020-12-08-2020-12-rapid-innovation.md` — 405w
+- 2020-12-07 — [Expand E-Rate To Low Income Households](https://avc.com/2020/12/expand-e-rate-to-low-income-households/) — `2020-12-07-2020-12-expand-e-rate-to-low-income-households.md` — 240w
+- 2020-12-03 — [Digital Dollars](https://avc.com/2020/12/digital-dollars/) — `2020-12-03-2020-12-digital-dollars.md` — 455w
+- 2020-12-02 — [Cliff Vesting](https://avc.com/2020/12/cliff-vesting/) — `2020-12-02-2020-12-cliff-vesting.md` — 333w
+- 2020-12-01 — [Giving Tuesday](https://avc.com/2020/12/giving-tuesday-2/) — `2020-12-01-2020-12-giving-tuesday-2.md` — 276w
+- 2020-11-30 — [Crypto Wallets Are Not Bank Accounts](https://avc.com/2020/11/crypto-wallets-are-not-bank-accounts/) — `2020-11-30-2020-11-crypto-wallets-are-not-bank-accounts.md` — 282w
+- 2020-11-29 — [We Will Miss You Arnold](https://avc.com/2020/11/we-will-miss-you-arnold/) — `2020-11-29-2020-11-we-will-miss-you-arnold.md` — 156w
+- 2020-11-26 — [Thanksgiving 2020](https://avc.com/2020/11/thanksgiving-2020/) — `2020-11-26-2020-11-thanksgiving-2020.md` — 224w
+- 2020-11-25 — [Exposure Notification Express](https://avc.com/2020/11/exposure-notification-express/) — `2020-11-25-2020-11-exposure-notification-express.md` — 323w
+- 2020-11-24 — [Thoughts On Charles Duhigg’s New Yorker Piece](https://avc.com/2020/11/thoughts-on-charles-duhiggs-new-yorker-piece/) — `2020-11-24-2020-11-thoughts-on-charles-duhiggs-new-yorker-piece.md` — 233w
+- 2020-11-23 — [Knowing What You Are Looking For](https://avc.com/2020/11/knowing-what-you-are-looking-for-2/) — `2020-11-23-2020-11-knowing-what-you-are-looking-for-2.md` — 271w
+- 2020-11-19 — [Link 230 Protections To Opening Up](https://avc.com/2020/11/link-230-protections-to-opening-up/) — `2020-11-19-2020-11-link-230-protections-to-opening-up.md` — 205w
+- 2020-11-18 — [Some Thoughts On The Pandemic](https://avc.com/2020/11/some-thoughts-on-the-pandemic/) — `2020-11-18-2020-11-some-thoughts-on-the-pandemic.md` — 546w
+- 2020-11-16 — [Bitcoin – The Gateway Drug](https://avc.com/2020/11/bitcoin-the-gateway-drug/) — `2020-11-16-2020-11-bitcoin-the-gateway-drug.md` — 189w
+- 2020-11-12 — [Educating Electeds](https://avc.com/2020/11/educating-electeds/) — `2020-11-12-2020-11-educating-electeds.md` — 322w
+- 2020-11-11 — [The Star Pupils](https://avc.com/2020/11/the-star-pupils/) — `2020-11-11-2020-11-the-star-pupils.md` — 232w
+- 2020-11-10 — [The Covid Rotation](https://avc.com/2020/11/the-covid-rotation/) — `2020-11-10-2020-11-the-covid-rotation.md` — 359w
+- 2020-11-03 — [Vote](https://avc.com/2020/11/vote-2/) — `2020-11-03-2020-11-vote-2.md` — 149w
+- 2020-11-02 — [Going Direct To Learners With Software](https://avc.com/2020/11/going-direct-to-learners-with-software/) — `2020-11-02-2020-11-going-direct-to-learners-with-software.md` — 224w
+- 2020-10-26 — [Removing The CEO](https://avc.com/2020/10/removing-the-ceo/) — `2020-10-26-2020-10-removing-the-ceo.md` — 217w
+- 2020-10-22 — [Extending And Improving Bluetooth On A Mac Mini](https://avc.com/2020/10/extending-and-improving-bluetooth-on-a-mac-mini/) — `2020-10-22-2020-10-extending-and-improving-bluetooth-on-a-mac-mini.md` — 314w
+- 2020-10-21 — [Offsetting Your Flights](https://avc.com/2020/10/offsetting-your-flights/) — `2020-10-21-2020-10-offsetting-your-flights.md` — 212w
+- 2020-10-20 — [Spreading Jam](https://avc.com/2020/10/spreading-jam/) — `2020-10-20-2020-10-spreading-jam.md` — 165w
+- 2020-10-19 — [Setting Off On Your Own](https://avc.com/2020/10/setting-off-on-your-own/) — `2020-10-19-2020-10-setting-off-on-your-own.md` — 171w
+- 2020-10-15 — [A Failing Grade](https://avc.com/2020/10/a-failing-grade/) — `2020-10-15-2020-10-a-failing-grade.md` — 281w
+- 2020-10-12 — [The De-Carbonization Of The Economy](https://avc.com/2020/10/the-de-carbonization-of-the-economy/) — `2020-10-12-2020-10-the-de-carbonization-of-the-economy.md` — 325w
+- 2020-10-09 — [Funding Friday: Getting Through The Winter](https://avc.com/2020/10/funding-friday-getting-through-the-winter/) — `2020-10-09-2020-10-funding-friday-getting-through-the-winter.md` — 128w
+- 2020-10-08 — [E-Commerce and Retail](https://avc.com/2020/10/e-commerce-and-retail/) — `2020-10-08-2020-10-e-commerce-and-retail.md` — 261w
+- 2020-10-07 — [Business Books and Podcasts](https://avc.com/2020/10/business-books-and-podcasts/) — `2020-10-07-2020-10-business-books-and-podcasts.md` — 197w
+- 2020-10-06 — [AirPod Alternatives?](https://avc.com/2020/10/airpod-alternatives/) — `2020-10-06-2020-10-airpod-alternatives.md` — 223w
+- 2020-10-05 — [Negative Social Proof](https://avc.com/2020/10/negative-social-proof/) — `2020-10-05-2020-10-negative-social-proof.md` — 248w
+- 2020-10-03 — [NBA Top Shot Public Launch](https://avc.com/2020/10/nba-top-shot-public-launch/) — `2020-10-03-2020-10-nba-top-shot-public-launch.md` — 278w
+- 2020-10-02 — [Covid Alert NY](https://avc.com/2020/10/covid-alert-ny/) — `2020-10-02-2020-10-covid-alert-ny.md` — 415w
+- 2020-10-01 — [Sora](https://avc.com/2020/10/sora/) — `2020-10-01-2020-10-sora.md` — 328w
+- 2020-09-29 — [Tabs](https://avc.com/2020/09/tabs/) — `2020-09-29-2020-09-tabs.md` — 180w
+- 2020-09-24 — [Universal Access and Choice](https://avc.com/2020/09/universal-access-and-choice/) — `2020-09-24-2020-09-universal-access-and-choice.md` — 432w
+- 2020-09-23 — [Priorities](https://avc.com/2020/09/priorities-2/) — `2020-09-23-2020-09-priorities-2.md` — 269w
+- 2020-09-22 — [Stablecoin Adoption Revisited](https://avc.com/2020/09/stablecoin-adoption-revisited/) — `2020-09-22-2020-09-stablecoin-adoption-revisited.md` — 157w
+- 2020-09-21 — [Rebuilding NYC](https://avc.com/2020/09/rebuilding-nyc/) — `2020-09-21-2020-09-rebuilding-nyc.md` — 202w
+- 2020-09-17 — [Mobile App Stores and Crypto](https://avc.com/2020/09/mobile-app-stores-and-crypto/) — `2020-09-17-2020-09-mobile-app-stores-and-crypto.md` — 261w
+- 2020-09-15 — [Circulate Networking Events](https://avc.com/2020/09/circulate-networking-events/) — `2020-09-15-2020-09-circulate-networking-events.md` — 126w
+- 2020-09-14 — [Home Sweet Home](https://avc.com/2020/09/home-sweet-home/) — `2020-09-14-2020-09-home-sweet-home.md` — 400w
+- 2020-09-10 — [My “Zoom Room” Keyboard and Trackpad Setup](https://avc.com/2020/09/my-zoom-room-keyboard-and-trackpad-setup/) — `2020-09-10-2020-09-my-zoom-room-keyboard-and-trackpad-setup.md` — 143w
+- 2020-09-09 — [Bolster Your Management Team And Board](https://avc.com/2020/09/bolster-your-management-team-and-board/) — `2020-09-09-2020-09-bolster-your-management-team-and-board.md` — 468w
+- 2020-09-07 — [Honoring Labor](https://avc.com/2020/09/honoring-labor/) — `2020-09-07-2020-09-honoring-labor.md` — 168w
+- 2020-09-03 — [Some Thoughts On SPACs](https://avc.com/2020/09/some-thoughts-on-spacs/) — `2020-09-03-2020-09-some-thoughts-on-spacs.md` — 587w
+- 2020-08-31 — [Some Email Stats](https://avc.com/2020/08/some-email-stats/) — `2020-08-31-2020-08-some-email-stats.md` — 136w
+- 2020-08-27 — [I’m No Good At Numbers](https://avc.com/2020/08/im-no-good-at-numbers/) — `2020-08-27-2020-08-im-no-good-at-numbers.md` — 158w
+- 2020-08-26 — [The Trifecta](https://avc.com/2020/08/the-trifecta/) — `2020-08-26-2020-08-the-trifecta.md` — 277w
+- 2020-08-25 — [Pay and Precedent](https://avc.com/2020/08/pay-and-precedent/) — `2020-08-25-2020-08-pay-and-precedent.md` — 394w
+- 2020-08-24 — [Some Thoughts On New Tax Revenues](https://avc.com/2020/08/some-thoughts-on-new-tax-revenues/) — `2020-08-24-2020-08-some-thoughts-on-new-tax-revenues.md` — 410w
+- 2020-08-19 — [Sunpower Dashboard](https://avc.com/2020/08/sunpower-dashboard/) — `2020-08-19-2020-08-sunpower-dashboard.md` — 150w
+- 2020-08-18 — [NYC Is Dead, Long Live NYC](https://avc.com/2020/08/nyc-is-dead-long-live-nyc/) — `2020-08-18-2020-08-nyc-is-dead-long-live-nyc.md` — 328w
+- 2020-08-17 — [Investments That Don’t Work](https://avc.com/2020/08/investments-that-dont-work/) — `2020-08-17-2020-08-investments-that-dont-work.md` — 369w
+- 2020-08-13 — [Quizlet’s State of Remote Learning Report 2020](https://avc.com/2020/08/quizlets-state-of-remote-learning-report-2020/) — `2020-08-13-2020-08-quizlets-state-of-remote-learning-report-2020.md` — 285w
+- 2020-08-12 — [Subscription Agreements](https://avc.com/2020/08/subscription-agreements/) — `2020-08-12-2020-08-subscription-agreements.md` — 223w
+- 2020-08-11 — [Nurx: Reimagining Healthcare](https://avc.com/2020/08/nurx-reimagining-healthcare/) — `2020-08-11-2020-08-nurx-reimagining-healthcare.md` — 336w
+- 2020-08-10 — [Financing Document Forms](https://avc.com/2020/08/financing-document-forms/) — `2020-08-10-2020-08-financing-document-forms.md` — 256w
+- 2020-08-06 — [NBA Top Shot](https://avc.com/2020/08/nba-top-shot-2/) — `2020-08-06-2020-08-nba-top-shot-2.md` — 454w
+- 2020-08-05 — [Independent Director Compensation](https://avc.com/2020/08/independent-director-compensation/) — `2020-08-05-2020-08-independent-director-compensation.md` — 471w
+- 2020-08-04 — [Instant Covid Tests](https://avc.com/2020/08/instant-covid-tests/) — `2020-08-04-2020-08-instant-covid-tests.md` — 270w
+- 2020-08-03 — [The Dog Days Of Summer](https://avc.com/2020/08/the-dog-days-of-summer/) — `2020-08-03-2020-08-the-dog-days-of-summer.md` — 158w
+- 2020-07-30 — [Repost: Open Up Vs Break Up](https://avc.com/2020/07/repost-open-up-vs-break-up/) — `2020-07-30-2020-07-repost-open-up-vs-break-up.md` — 369w
+- 2020-07-29 — [Is This One For Real?](https://avc.com/2020/07/is-this-one-for-real/) — `2020-07-29-2020-07-is-this-one-for-real.md` — 336w
+- 2020-07-28 — [Entrepreneurship And The Climate Crisis](https://avc.com/2020/07/entrepreneurship-and-the-climate-crisis/) — `2020-07-28-2020-07-entrepreneurship-and-the-climate-crisis.md` — 120w
+- 2020-07-24 — [Funding Friday: The Steamchasers](https://avc.com/2020/07/funding-friday-the-steamchasers/) — `2020-07-24-2020-07-funding-friday-the-steamchasers.md` — 156w
+- 2020-07-23 — [Headgum and Gumball](https://avc.com/2020/07/headgum-and-gumball/) — `2020-07-23-2020-07-headgum-and-gumball.md` — 394w
+- 2020-07-21 — [Open Source Exposure Alerting Apps](https://avc.com/2020/07/open-source-exposure-alerting-apps/) — `2020-07-21-2020-07-open-source-exposure-alerting-apps.md` — 228w
+- 2020-07-20 — [Landline Phones](https://avc.com/2020/07/landline-phones/) — `2020-07-20-2020-07-landline-phones.md` — 253w
+- 2020-07-16 — [When Do I Create A Board?](https://avc.com/2020/07/when-do-i-create-a-board/) — `2020-07-16-2020-07-when-do-i-create-a-board.md` — 195w
+- 2020-07-15 — [Not So Hyperactive](https://avc.com/2020/07/not-so-hyperactive/) — `2020-07-15-2020-07-not-so-hyperactive.md` — 427w
+- 2020-07-14 — [Reading On Paper](https://avc.com/2020/07/reading-on-paper/) — `2020-07-14-2020-07-reading-on-paper.md` — 207w
+- 2020-07-13 — [Haggling](https://avc.com/2020/07/haggling/) — `2020-07-13-2020-07-haggling.md` — 391w
+- 2020-07-09 — [Reviewing The CEO’S Performance](https://avc.com/2020/07/reviewing-the-ceos-performance/) — `2020-07-09-2020-07-reviewing-the-ceos-performance.md` — 500w
+- 2020-07-08 — [Hyperactive?](https://avc.com/2020/07/hyperactive/) — `2020-07-08-2020-07-hyperactive.md` — 313w
+- 2020-07-07 — [Doubling Up](https://avc.com/2020/07/doubling-up/) — `2020-07-07-2020-07-doubling-up.md` — 213w
+- 2020-07-06 — [Short and Sweet](https://avc.com/2020/07/short-and-sweet/) — `2020-07-06-2020-07-short-and-sweet.md` — 125w
+- 2020-07-06 — [NYC Tech Companies: Please Consider Participating in Summer Bridge](https://avc.com/2020/07/nyc-tech-companies-please-consider-participating-in-summer-bridge/) — `2020-07-06-2020-07-nyc-tech-companies-please-consider-participating-in-summer-bridge.md` — 273w
+- 2020-07-02 — [Crawl, Walk, Run](https://avc.com/2020/07/crawl-walk-run/) — `2020-07-02-2020-07-crawl-walk-run.md` — 182w
+- 2020-07-01 — [Masks](https://avc.com/2020/07/masks/) — `2020-07-01-2020-07-masks.md` — 177w
+- 2020-06-30 — [Mail Hosts](https://avc.com/2020/06/mail-hosts/) — `2020-06-30-2020-06-mail-hosts.md` — 208w
+- 2020-06-29 — [Working Virtually](https://avc.com/2020/06/working-virtually/) — `2020-06-29-2020-06-working-virtually.md` — 375w
+- 2020-06-25 — [Board Diversity](https://avc.com/2020/06/board-diversity/) — `2020-06-25-2020-06-board-diversity.md` — 551w
+- 2020-06-23 — [Stablecoin Adoption](https://avc.com/2020/06/stablecoin-adoption/) — `2020-06-23-2020-06-stablecoin-adoption.md` — 267w
+- 2020-06-18 — [Rosetta](https://avc.com/2020/06/rosetta/) — `2020-06-18-2020-06-rosetta.md` — 215w
+- 2020-06-17 — [Real-Time Recount](https://avc.com/2020/06/real-time-recount/) — `2020-06-17-2020-06-real-time-recount.md` — 374w
+- 2020-06-16 — [Enemy Of All Mankind](https://avc.com/2020/06/enemy-of-all-mankind/) — `2020-06-16-2020-06-enemy-of-all-mankind.md` — 229w
+- 2020-06-15 — [Leading Virtually](https://avc.com/2020/06/leading-virtually/) — `2020-06-15-2020-06-leading-virtually.md` — 343w
+- 2020-06-12 — [Funding Friday: Bail Funds](https://avc.com/2020/06/funding-friday-bail-funds/) — `2020-06-12-2020-06-funding-friday-bail-funds.md` — 137w
+- 2020-06-10 — [Two Screens](https://avc.com/2020/06/two-screens/) — `2020-06-10-2020-06-two-screens.md` — 205w
+- 2020-06-09 — [Behavior Change](https://avc.com/2020/06/behavior-change-2/) — `2020-06-09-2020-06-behavior-change-2.md` — 391w
+- 2020-06-08 — [Reopening](https://avc.com/2020/06/reopening/) — `2020-06-08-2020-06-reopening.md` — 423w
+- 2020-06-05 — [Funding Friday: The George Floyd Memorial Fund](https://avc.com/2020/06/funding-friday-the-george-floyd-memorial-fund/) — `2020-06-05-2020-06-funding-friday-the-george-floyd-memorial-fund.md` — 153w
+- 2020-06-04 — [Black Lives Matter](https://avc.com/2020/06/black-lives-matter-2/) — `2020-06-04-2020-06-black-lives-matter-2.md` — 304w
+- 2020-06-03 — [Talking About It](https://avc.com/2020/06/talking-about-it/) — `2020-06-03-2020-06-talking-about-it.md` — 164w
+- 2020-06-01 — [A New Month](https://avc.com/2020/06/a-new-month/) — `2020-06-01-2020-06-a-new-month.md` — 166w
+- 2020-05-29 — [Funding Friday: Tesla Powerwall Clone Guide](https://avc.com/2020/05/funding-friday-tesla-powerwall-clone-guide/) — `2020-05-29-2020-05-funding-friday-tesla-powerwall-clone-guide.md` — 188w
+- 2020-05-28 — [Contact Tracing and Technology Conference](https://avc.com/2020/05/contact-tracing-and-technology-conference/) — `2020-05-28-2020-05-contact-tracing-and-technology-conference.md` — 282w
+- 2020-05-27 — [Coinbase + Tagomi](https://avc.com/2020/05/coinbase-tagomi/) — `2020-05-27-2020-05-coinbase-tagomi.md` — 179w
+- 2020-05-26 — [Streaming Vs Torrenting](https://avc.com/2020/05/streaming-vs-torrenting/) — `2020-05-26-2020-05-streaming-vs-torrenting.md` — 221w
+- 2020-05-22 — [Funding Friday: In Time of Plague](https://avc.com/2020/05/funding-friday-in-time-of-plague/) — `2020-05-22-2020-05-funding-friday-in-time-of-plague.md` — 120w
+- 2020-05-21 — [The Startup Job Market](https://avc.com/2020/05/the-startup-job-market/) — `2020-05-21-2020-05-the-startup-job-market.md` — 184w
+- 2020-05-20 — [Fiber To Home](https://avc.com/2020/05/fiber-to-home/) — `2020-05-20-2020-05-fiber-to-home.md` — 267w
+- 2020-05-19 — [American Kingpin](https://avc.com/2020/05/american-kingpin/) — `2020-05-19-2020-05-american-kingpin.md` — 317w
+- 2020-05-18 — [Kickstarter Lights On](https://avc.com/2020/05/kickstarter-lights-on/) — `2020-05-18-2020-05-kickstarter-lights-on.md` — 187w
+- 2020-05-14 — [r/CryptoCurrency Moons](https://avc.com/2020/05/r-cryptocurrency-moons/) — `2020-05-14-2020-05-r-cryptocurrency-moons.md` — 319w
+- 2020-05-13 — [Location and Work](https://avc.com/2020/05/location-and-work/) — `2020-05-13-2020-05-location-and-work.md` — 592w
+- 2020-05-12 — [Investing In Learning](https://avc.com/2020/05/investing-in-learning/) — `2020-05-12-2020-05-investing-in-learning.md` — 290w
+- 2020-05-11 — [Leadership Has A Price](https://avc.com/2020/05/leadership-has-a-price/) — `2020-05-11-2020-05-leadership-has-a-price.md` — 233w
+- 2020-05-08 — [Funding Friday: The Arbus Box](https://avc.com/2020/05/funding-friday-the-arbus-box/) — `2020-05-08-2020-05-funding-friday-the-arbus-box.md` — 168w
+- 2020-05-07 — [Growth](https://avc.com/2020/05/growth-2/) — `2020-05-07-2020-05-growth-2.md` — 462w
+- 2020-05-06 — [AVC Comments Migration Complete](https://avc.com/2020/05/avc-comments-migration-complete/) — `2020-05-06-2020-05-avc-comments-migration-complete.md` — 670w
+- 2020-05-05 — [Learn To Code If You’ve Lost Your Job](https://avc.com/2020/05/learn-to-code-if-youve-lost-your-job/) — `2020-05-05-2020-05-learn-to-code-if-youve-lost-your-job.md` — 230w
+- 2020-05-04 — [Quantitative Tightening](https://avc.com/2020/05/quantitative-tightening/) — `2020-05-04-2020-05-quantitative-tightening.md` — 207w
+- 2020-04-30 — [Do People Care About Privacy?](https://avc.com/2020/04/do-people-care-about-privacy/) — `2020-04-30-2020-04-do-people-care-about-privacy.md` — 210w
+- 2020-04-29 — [Exposure Alerting](https://avc.com/2020/04/exposure-alerting/) — `2020-04-29-2020-04-exposure-alerting.md` — 226w
+- 2020-04-28 — [Timing, Luck, and Surviving](https://avc.com/2020/04/timing-luck-and-surviving/) — `2020-04-28-2020-04-timing-luck-and-surviving.md` — 196w
+- 2020-04-27 — [Not All Gross Margin Is The Same](https://avc.com/2020/04/not-all-gross-margin-is-the-same/) — `2020-04-27-2020-04-not-all-gross-margin-is-the-same.md` — 431w
+- 2020-04-24 — [Funding Friday: ROAR](https://avc.com/2020/04/funding-friday-roar/) — `2020-04-24-2020-04-funding-friday-roar.md` — 190w
+- 2020-04-23 — [Event Driven Growth](https://avc.com/2020/04/event-driven-growth/) — `2020-04-23-2020-04-event-driven-growth.md` — 231w
+- 2020-04-22 — [The Duolingo English Test](https://avc.com/2020/04/the-duolingo-english-test/) — `2020-04-22-2020-04-the-duolingo-english-test.md` — 352w
+- 2020-04-21 — [The AVC Cap Table Template](https://avc.com/2020/04/the-avc-cap-table-template/) — `2020-04-21-2020-04-the-avc-cap-table-template.md` — 159w
+- 2020-04-20 — [Still Open For Business](https://avc.com/2020/04/still-open-for-business/) — `2020-04-20-2020-04-still-open-for-business.md` — 349w
+- 2020-04-16 — [In Real Life](https://avc.com/2020/04/in-real-life/) — `2020-04-16-2020-04-in-real-life.md` — 259w
+- 2020-04-14 — [Marketing During A Crisis](https://avc.com/2020/04/marketing-during-a-crisis/) — `2020-04-14-2020-04-marketing-during-a-crisis.md` — 297w
+- 2020-04-13 — [Accelerating Working Capital](https://avc.com/2020/04/accelerating-working-capital/) — `2020-04-13-2020-04-accelerating-working-capital.md` — 257w
+- 2020-04-10 — [Funding Friday: The $1k project](https://avc.com/2020/04/funding-friday-the-1k-project/) — `2020-04-10-2020-04-funding-friday-the-1k-project.md` — 181w
+- 2020-04-09 — [The Internet](https://avc.com/2020/04/the-internet/) — `2020-04-09-2020-04-the-internet.md` — 276w
+- 2020-04-08 — [Masks4All](https://avc.com/2020/04/masks4all/) — `2020-04-08-2020-04-masks4all.md` — 489w
+- 2020-04-07 — [Slowing Down](https://avc.com/2020/04/slowing-down/) — `2020-04-07-2020-04-slowing-down.md` — 218w
+- 2020-04-06 — [Summer Internships](https://avc.com/2020/04/summer-internships/) — `2020-04-06-2020-04-summer-internships.md` — 236w
+- 2020-04-03 — [Funding Friday: Americas Food Fund](https://avc.com/2020/04/funding-friday-americas-food-fund/) — `2020-04-03-2020-04-funding-friday-americas-food-fund.md` — 135w
+- 2020-04-02 — [The SoundCloud Stimulus Plan](https://avc.com/2020/04/the-soundcloud-stimulus-plan/) — `2020-04-02-2020-04-the-soundcloud-stimulus-plan.md` — 183w
+- 2020-04-01 — [An Emergency Response Startup Story](https://avc.com/2020/04/an-emergency-response-startup-story/) — `2020-04-01-2020-04-an-emergency-response-startup-story.md` — 197w
+- 2020-03-31 — [Drones – A Socially Distant Way To Get Work Done](https://avc.com/2020/03/drones-a-socially-distant-way-to-get-work-done/) — `2020-03-31-2020-03-drones-a-socially-distant-way-to-get-work-done.md` — 195w
+- 2020-03-30 — [Startups and SBA Loans](https://avc.com/2020/03/startups-and-sba-loans/) — `2020-03-30-2020-03-startups-and-sba-loans.md` — 696w
+- 2020-03-28 — [Video Of The Week: The Bill Gates TED Interview](https://avc.com/2020/03/video-of-the-week-the-bill-gates-ted-interview/) — `2020-03-28-2020-03-video-of-the-week-the-bill-gates-ted-interview.md` — 137w
+- 2020-03-27 — [Funding Friday: Helping Healthcare Workers](https://avc.com/2020/03/funding-friday-helping-healthcare-workers/) — `2020-03-27-2020-03-funding-friday-helping-healthcare-workers.md` — 159w
+- 2020-03-26 — [Buying Bitcoin In Your IRA – The Alto IRA](https://avc.com/2020/03/buying-bitcoin-in-your-ira-the-alto-ira/) — `2020-03-26-2020-03-buying-bitcoin-in-your-ira-the-alto-ira.md` — 120w
+- 2020-03-25 — [OnCoins](https://avc.com/2020/03/oncoins/) — `2020-03-25-2020-03-oncoins.md` — 203w
+- 2020-03-24 — [Firefox Better Web (with Scroll)](https://avc.com/2020/03/firefox-better-web-with-scroll/) — `2020-03-24-2020-03-firefox-better-web-with-scroll.md` — 289w
+- 2020-03-23 — [Teaching Online](https://avc.com/2020/03/teaching-online/) — `2020-03-23-2020-03-teaching-online.md` — 400w
+- 2020-03-20 — [Funding Friday: The Restaurant Workers’ Community Foundation Relief Fund](https://avc.com/2020/03/funding-friday-the-restaurant-workers-community-foundation-relief-fund/) — `2020-03-20-2020-03-funding-friday-the-restaurant-workers-community-foundation-relief-fund.md` — 208w
+- 2020-03-19 — [Correlation and Market Meltdowns](https://avc.com/2020/03/correlation-and-market-meltdowns/) — `2020-03-19-2020-03-correlation-and-market-meltdowns.md` — 708w
+- 2020-03-18 — [New Faces At USV](https://avc.com/2020/03/new-faces-at-usv/) — `2020-03-18-2020-03-new-faces-at-usv.md` — 134w
+- 2020-03-16 — [Outschool needs 5,000 teachers to start offering online classes in the next 2 weeks](https://avc.com/2020/03/outschool-needs-5000-teachers-to-start-offering-online-classes-in-the-next-2-weeks/) — `2020-03-16-2020-03-outschool-needs-5000-teachers-to-start-offering-online-classes-in-the-ne.md` — 225w
+- 2020-03-15 — [Spring Break At Home](https://avc.com/2020/03/spring-break-at-home/) — `2020-03-15-2020-03-spring-break-at-home.md` — 256w
+- 2020-03-12 — [Open For Business](https://avc.com/2020/03/open-for-business/) — `2020-03-12-2020-03-open-for-business.md` — 154w
+- 2020-03-10 — [The Tech:NYC COVID-19 Digest Email](https://avc.com/2020/03/the-technyc-covid-19-digest-email/) — `2020-03-10-2020-03-the-technyc-covid-19-digest-email.md` — 140w
+- 2020-03-09 — [Market Meltdowns](https://avc.com/2020/03/market-meltdowns/) — `2020-03-09-2020-03-market-meltdowns.md` — 532w
+- 2020-03-05 — [Flow Playground](https://avc.com/2020/03/flow-playground/) — `2020-03-05-2020-03-flow-playground.md` — 168w
+- 2020-03-04 — [Fan Shares](https://avc.com/2020/03/fan-shares/) — `2020-03-04-2020-03-fan-shares.md` — 257w
+- 2020-03-03 — [Outschool can help your school prepare for unexpected closures](https://avc.com/2020/03/outschool-can-help-your-school-prepare-for-unexpected-closures/) — `2020-03-03-2020-03-outschool-can-help-your-school-prepare-for-unexpected-closures.md` — 373w
+- 2020-02-27 — [The Venture Capital Math Problem Revisited (aka How Could You Be So Wrong?)](https://avc.com/2020/02/the-venture-capital-math-problem-revisited-aka-how-could-you-be-so-wrong/) — `2020-02-27-2020-02-the-venture-capital-math-problem-revisited-aka-how-could-you-be-so-wrong.md` — 602w
+- 2020-02-26 — [From Start-up To Stand-out: What Distinguishes High Growth Potential](https://avc.com/2020/02/from-start-up-to-stand-out-what-distinguishes-high-growth-potential/) — `2020-02-26-2020-02-from-start-up-to-stand-out-what-distinguishes-high-growth-potential.md` — 146w
+- 2020-02-25 — [Some Thoughts On Coronavirus](https://avc.com/2020/02/some-thoughts-on-coronavirus/) — `2020-02-25-2020-02-some-thoughts-on-coronavirus.md` — 229w
+- 2020-02-20 — [My 1985 Nike Air Jordan Investment](https://avc.com/2020/02/my-1985-nike-air-jordan-investment/) — `2020-02-20-2020-02-my-1985-nike-air-jordan-investment.md` — 305w
+- 2020-02-18 — [Being In The Flow](https://avc.com/2020/02/being-in-the-flow/) — `2020-02-18-2020-02-being-in-the-flow.md` — 294w
+- 2020-02-13 — [Tech Jobs For All Who Want Them](https://avc.com/2020/02/tech-jobs-for-all-who-want-them/) — `2020-02-13-2020-02-tech-jobs-for-all-who-want-them.md` — 519w
+- 2020-02-11 — [USDC](https://avc.com/2020/02/usdc/) — `2020-02-11-2020-02-usdc.md` — 443w
+- 2020-02-06 — [A SEC Safe Harbor For Crypto](https://avc.com/2020/02/a-sec-safe-harbor-for-crypto/) — `2020-02-06-2020-02-a-sec-safe-harbor-for-crypto.md` — 198w
+- 2020-02-05 — [The Zoom Room](https://avc.com/2020/02/the-zoom-room/) — `2020-02-05-2020-02-the-zoom-room.md` — 187w
+- 2020-02-04 — [Creating A Competitive Shaving Market](https://avc.com/2020/02/creating-a-competitive-shaving-market-2/) — `2020-02-04-2020-02-creating-a-competitive-shaving-market-2.md` — 327w
+- 2020-02-02 — [The Long Buy](https://avc.com/2020/02/the-long-buy/) — `2020-02-02-2020-02-the-long-buy.md` — 408w
+- 2020-01-30 — [You Can’t Fire Your Investor](https://avc.com/2020/01/you-cant-fire-your-investor/) — `2020-01-30-2020-01-you-cant-fire-your-investor.md` — 120w
+- 2020-01-29 — [Site Reliability Issues](https://avc.com/2020/01/site-reliability-issues/) — `2020-01-29-2020-01-site-reliability-issues.md` — 204w
+- 2020-01-27 — [Billie Eilish](https://avc.com/2020/01/billie-eilish/) — `2020-01-27-2020-01-billie-eilish.md` — 192w
+- 2020-01-23 — [Tech:NYC at the NYSE](https://avc.com/2020/01/technyc-at-the-nyse/) — `2020-01-23-2020-01-technyc-at-the-nyse.md` — 145w
+- 2020-01-22 — [Stack Today, Stack Tomorrow](https://avc.com/2020/01/stack-today-stack-tomorrow/) — `2020-01-22-2020-01-stack-today-stack-tomorrow.md` — 562w
+- 2020-01-21 — [The Management Rights Letter](https://avc.com/2020/01/the-management-rights-letter/) — `2020-01-21-2020-01-the-management-rights-letter.md` — 411w
+- 2020-01-20 — [Peak Decade](https://avc.com/2020/01/peak-decade/) — `2020-01-20-2020-01-peak-decade.md` — 145w
+- 2020-01-16 — [USV’s Climate Thesis](https://avc.com/2020/01/usvs-climate-thesis/) — `2020-01-16-2020-01-usvs-climate-thesis.md` — 184w
+- 2020-01-15 — [The Crucible Of Leadership](https://avc.com/2020/01/the-crucible-of-leadership/) — `2020-01-15-2020-01-the-crucible-of-leadership.md` — 1751w
+- 2020-01-14 — [The AVC Daily Email](https://avc.com/2020/01/the-avc-daily-email/) — `2020-01-14-2020-01-the-avc-daily-email.md` — 138w
+- 2020-01-13 — [Marketing](https://avc.com/2020/01/marketing-2/) — `2020-01-13-2020-01-marketing-2.md` — 253w
+- 2020-01-09 — [AVC 3.0](https://avc.com/2020/01/avc-3-0/) — `2020-01-09-2020-01-avc-3-0.md` — 890w
+- 2020-01-08 — [What Is Going On With AVC? (continued)](https://avc.com/2020/01/what-is-going-on-with-avc-continued/) — `2020-01-08-2020-01-what-is-going-on-with-avc-continued.md` — 122w
+- 2020-01-07 — [Mass Transit In LA](https://avc.com/2020/01/mass-transit-in-la/) — `2020-01-07-2020-01-mass-transit-in-la.md` — 252w
+- 2020-01-06 — [Turning It Off Vs Dialing It Down](https://avc.com/2020/01/turning-it-off-vs-dialing-it-down/) — `2020-01-06-2020-01-turning-it-off-vs-dialing-it-down.md` — 287w
+- 2020-01-05 — [What To Work On](https://avc.com/2020/01/what-to-work-on/) — `2020-01-05-2020-01-what-to-work-on.md` — 550w
+- 2020-01-02 — [Managing Multiple Twitter Handles](https://avc.com/2020/01/managing-multiple-twitter-handles/) — `2020-01-02-2020-01-managing-multiple-twitter-handles.md` — 241w
+- 2020-01-01 — [What Will Happen In The 2020s](https://avc.com/2020/01/what-will-happen-in-the-2020s/) — `2020-01-01-2020-01-what-will-happen-in-the-2020s.md` — 878w
+- 2019-12-31 — [What Happened In The 2010s](https://avc.com/2019/12/what-happened-in-the-2010s/) — `2019-12-31-2019-12-what-happened-in-the-2010s.md` — 1337w
+- 2019-12-28 — [Video Of The Week: The Game Changers](https://avc.com/2019/12/video-of-the-week-the-game-changers/) — `2019-12-28-2019-12-video-of-the-week-the-game-changers.md` — 164w
+- 2019-12-26 — [Annual Year End Predictions](https://avc.com/2019/12/annual-year-end-predictions/) — `2019-12-26-2019-12-annual-year-end-predictions.md` — 214w
+- 2019-12-25 — [What Christmas Means To Me](https://avc.com/2019/12/what-christmas-means-to-me/) — `2019-12-25-2019-12-what-christmas-means-to-me.md` — 211w
+- 2019-12-22 — [Subscription Tracking](https://avc.com/2019/12/a-subscription-tracker/) — `2019-12-22-2019-12-a-subscription-tracker.md` — 401w
+- 2019-12-19 — [Smart Home Standards](https://avc.com/2019/12/smart-home-standards/) — `2019-12-19-2019-12-smart-home-standards.md` — 239w
+- 2019-12-18 — [Meet Cute](https://avc.com/2019/12/meet-cute/) — `2019-12-18-2019-12-meet-cute.md` — 252w
+- 2019-12-16 — [Gateways](https://avc.com/2019/12/gateways/) — `2019-12-16-2019-12-gateways.md` — 338w
+- 2019-12-15 — [Having Kids](https://avc.com/2019/12/having-kids/) — `2019-12-15-2019-12-having-kids.md` — 406w
+- 2019-12-12 — [The Filecoin Testnet Is Live](https://avc.com/2019/12/the-filecoin-testnet-is-live/) — `2019-12-12-2019-12-the-filecoin-testnet-is-live.md` — 208w
+- 2019-12-11 — [Butter](https://avc.com/2019/12/butter/) — `2019-12-11-2019-12-butter.md` — 246w
+- 2019-12-10 — [CS Education Week](https://avc.com/2019/12/cs-education-week/) — `2019-12-10-2019-12-cs-education-week.md` — 312w
+- 2019-12-09 — [Algolia](https://avc.com/2019/12/algolia/) — `2019-12-09-2019-12-algolia.md` — 136w
+- 2019-12-08 — [Getting Tech Into The Boroughs](https://avc.com/2019/12/getting-tech-into-the-boroughs/) — `2019-12-08-2019-12-getting-tech-into-the-boroughs.md` — 443w
+- 2019-12-05 — [Bigger Isn’t Necessarily Better](https://avc.com/2019/12/bigger-isnt-necessarily-better/) — `2019-12-05-2019-12-bigger-isnt-necessarily-better.md` — 178w
+- 2019-12-03 — [Digital Money](https://avc.com/2019/12/digital-money/) — `2019-12-03-2019-12-digital-money.md` — 138w
+- 2019-12-02 — [Practicing Patience](https://avc.com/2019/12/practicing-patience/) — `2019-12-02-2019-12-practicing-patience.md` — 169w
+- 2019-12-01 — [Grinding](https://avc.com/2019/12/grinding/) — `2019-12-01-2019-12-grinding.md` — 392w
+- 2019-11-28 — [Thankfully, ….](https://avc.com/2019/11/thankfully-2/) — `2019-11-28-2019-11-thankfully-2.md` — 196w
+- 2019-11-27 — [Cash Management In Startups](https://avc.com/2019/11/cash-management-in-startups/) — `2019-11-27-2019-11-cash-management-in-startups.md` — 442w
+- 2019-11-24 — [History Doesn’t Repeat Itself, But It Does Rhyme](https://avc.com/2019/11/history-doesnt-repeat-itself-but-it-does-rhyme/) — `2019-11-24-2019-11-history-doesnt-repeat-itself-but-it-does-rhyme.md` — 290w
+- 2019-11-23 — [Video Of The Week: The Recount Recap](https://avc.com/2019/11/video-of-the-week-the-recount-recap/) — `2019-11-23-2019-11-video-of-the-week-the-recount-recap.md` — 121w
+- 2019-11-21 — [The NYC Helium Network](https://avc.com/2019/11/the-nyc-helium-network/) — `2019-11-21-2019-11-the-nyc-helium-network.md` — 184w
+- 2019-11-19 — [Preventative Medicine](https://avc.com/2019/11/preventative-medicine/) — `2019-11-19-2019-11-preventative-medicine.md` — 249w
+- 2019-11-18 — [The Education Transformation](https://avc.com/2019/11/the-education-transformation/) — `2019-11-18-2019-11-the-education-transformation.md` — 304w
+- 2019-11-17 — [Airpods vs Airpods Pro](https://avc.com/2019/11/airpods-vs-airpods-pro/) — `2019-11-17-2019-11-airpods-vs-airpods-pro.md` — 250w
+- 2019-11-14 — [Shadowstalker](https://avc.com/2019/11/shadowstalker/) — `2019-11-14-2019-11-shadowstalker.md` — 150w
+- 2019-11-13 — [Philanthropy](https://avc.com/2019/11/philanthropy/) — `2019-11-13-2019-11-philanthropy.md` — 302w
+- 2019-11-12 — [No Shenanigans](https://avc.com/2019/11/no-shenanigans/) — `2019-11-12-2019-11-no-shenanigans.md` — 215w
+- 2019-11-11 — [Pixel 4XL](https://avc.com/2019/11/pixel-4xl/) — `2019-11-11-2019-11-pixel-4xl.md` — 245w
+- 2019-11-10 — [Priorities](https://avc.com/2019/11/priorities/) — `2019-11-10-2019-11-priorities.md` — 279w
+- 2019-11-07 — [How To Beat A Patent Troll](https://avc.com/2019/11/how-to-beat-a-patent-troll/) — `2019-11-07-2019-11-how-to-beat-a-patent-troll.md` — 253w
+- 2019-11-06 — [A Decentralized Archive](https://avc.com/2019/11/a-decentralized-archive/) — `2019-11-06-2019-11-a-decentralized-archive.md` — 314w
+- 2019-11-04 — [Calling All Founders](https://avc.com/2019/11/calling-all-founders/) — `2019-11-04-2019-11-calling-all-founders.md` — 169w
+- 2019-11-03 — [Upgrading To A New Phone](https://avc.com/2019/11/upgrading-to-a-new-phone/) — `2019-11-03-2019-11-upgrading-to-a-new-phone.md` — 241w
+- 2019-11-01 — [Funding Friday: The Electronic Frontier Foundation](https://avc.com/2019/11/funding-friday-the-electronic-frontier-foundation/) — `2019-11-01-2019-11-funding-friday-the-electronic-frontier-foundation.md` — 149w
+- 2019-10-30 — [Pacing](https://avc.com/2019/10/pacing/) — `2019-10-30-2019-10-pacing.md` — 121w
+- 2019-10-29 — [Recount Media](https://avc.com/2019/10/recount-media/) — `2019-10-29-2019-10-recount-media.md` — 311w
+- 2019-10-28 — [What You Do Is Who You Are](https://avc.com/2019/10/what-you-do-is-who-you-are/) — `2019-10-28-2019-10-what-you-do-is-who-you-are.md` — 419w
+- 2019-10-27 — [Bringing It All Back Together](https://avc.com/2019/10/bringing-it-all-back-together/) — `2019-10-27-2019-10-bringing-it-all-back-together.md` — 430w
+- 2019-10-24 — [Carbon Offsets](https://avc.com/2019/10/carbon-offsets/) — `2019-10-24-2019-10-carbon-offsets.md` — 300w
+- 2019-10-23 — [The Access Act](https://avc.com/2019/10/the-access-act/) — `2019-10-23-2019-10-the-access-act.md` — 767w
+- 2019-10-22 — [Franz Liszt](https://avc.com/2019/10/franz-liszt/) — `2019-10-22-2019-10-franz-liszt.md` — 364w
+- 2019-10-21 — [Being There](https://avc.com/2019/10/being-there/) — `2019-10-21-2019-10-being-there.md` — 212w
+- 2019-10-20 — [The Fifth Estate](https://avc.com/2019/10/the-fifth-estate/) — `2019-10-20-2019-10-the-fifth-estate.md` — 549w
+- 2019-10-17 — [Sensible Regulations Versus No Regulations](https://avc.com/2019/10/sensible-regulations-versus-no-regulations/) — `2019-10-17-2019-10-sensible-regulations-versus-no-regulations.md` — 257w
+- 2019-10-16 — [Bearing Witness](https://avc.com/2019/10/bearing-witness-2/) — `2019-10-16-2019-10-bearing-witness-2.md` — 183w
+- 2019-10-15 — [The Libra Association](https://avc.com/2019/10/the-libra-association/) — `2019-10-15-2019-10-the-libra-association.md` — 304w
+- 2019-10-14 — [The USB Standard](https://avc.com/2019/10/the-usb-standard/) — `2019-10-14-2019-10-the-usb-standard.md` — 120w
+- 2019-10-13 — [The USV Blog Search Engine](https://avc.com/2019/10/the-usv-blog-search-engine/) — `2019-10-13-2019-10-the-usv-blog-search-engine.md` — 197w
+- 2019-10-09 — [Principles Over Profit](https://avc.com/2019/10/principles-over-profit/) — `2019-10-09-2019-10-principles-over-profit.md` — 219w
+- 2019-10-08 — [Cards](https://avc.com/2019/10/cards/) — `2019-10-08-2019-10-cards.md` — 280w
+- 2019-10-07 — [Cross Laminated Timber](https://avc.com/2019/10/cross-laminated-timber/) — `2019-10-07-2019-10-cross-laminated-timber.md` — 205w
+- 2019-10-06 — [Unclogging Manhattan](https://avc.com/2019/10/unclogging-manhattan/) — `2019-10-06-2019-10-unclogging-manhattan.md` — 242w
+- 2019-10-03 — [Smart Home Data Aggregator?](https://avc.com/2019/10/smart-home-data-aggregator/) — `2019-10-03-2019-10-smart-home-data-aggregator.md` — 209w
+- 2019-09-30 — [Reckoning Reflections](https://avc.com/2019/09/reckoning-reflections/) — `2019-09-30-2019-09-reckoning-reflections.md` — 356w
+- 2019-09-29 — [The Great Public Market Reckoning](https://avc.com/2019/09/the-great-public-market-reckoning/) — `2019-09-29-2019-09-the-great-public-market-reckoning.md` — 883w
+- 2019-09-26 — [Founder Control](https://avc.com/2019/09/founder-control-2/) — `2019-09-26-2019-09-founder-control-2.md` — 275w
+- 2019-09-25 — [Staying Focused](https://avc.com/2019/09/staying-focused/) — `2019-09-25-2019-09-staying-focused.md` — 183w
+- 2019-09-24 — [Hard Decisions](https://avc.com/2019/09/hard-decisions/) — `2019-09-24-2019-09-hard-decisions.md` — 299w
+- 2019-09-23 — [You Can’t Please Everyone](https://avc.com/2019/09/you-cant-please-everyone/) — `2019-09-23-2019-09-you-cant-please-everyone.md` — 194w
+- 2019-09-22 — [Breaking Up Big Tech](https://avc.com/2019/09/breaking-up-big-tech/) — `2019-09-22-2019-09-breaking-up-big-tech.md` — 413w
+- 2019-09-19 — [The Self Driving Bus](https://avc.com/2019/09/the-self-driving-bus/) — `2019-09-19-2019-09-the-self-driving-bus.md` — 209w
+- 2019-09-18 — [Self Confidence](https://avc.com/2019/09/self-confidence/) — `2019-09-18-2019-09-self-confidence.md` — 370w
+- 2019-09-17 — [Hair On A Deal](https://avc.com/2019/09/hair-on-a-deal/) — `2019-09-17-2019-09-hair-on-a-deal.md` — 259w
+- 2019-09-16 — [The Flow Blockchain](https://avc.com/2019/09/the-flow-blockchain/) — `2019-09-16-2019-09-the-flow-blockchain.md` — 282w
+- 2019-09-15 — [The Hit Rate](https://avc.com/2019/09/the-hit-rate/) — `2019-09-15-2019-09-the-hit-rate.md` — 467w
+- 2019-09-12 — [Fractionalizing Home Equity](https://avc.com/2019/09/fractionalizing-home-equity/) — `2019-09-12-2019-09-fractionalizing-home-equity.md` — 393w
+- 2019-09-11 — [September 11th](https://avc.com/2019/09/september-11th-4/) — `2019-09-11-2019-09-september-11th-4.md` — 242w
+- 2019-09-10 — [Bring Back The SE](https://avc.com/2019/09/bring-back-the-se/) — `2019-09-10-2019-09-bring-back-the-se.md` — 204w
+- 2019-09-09 — [Why Positive Cashflow Matters](https://avc.com/2019/09/why-positive-cashflow-matters/) — `2019-09-09-2019-09-why-positive-cashflow-matters.md` — 239w
+- 2019-09-08 — [Foreshadowing Facetime](https://avc.com/2019/09/foreshadowing-facetime/) — `2019-09-08-2019-09-foreshadowing-facetime.md` — 122w
+- 2019-09-04 — [Some Thoughts On Crypto](https://avc.com/2019/09/some-thoughts-on-crypto/) — `2019-09-04-2019-09-some-thoughts-on-crypto.md` — 515w
+- 2019-09-02 — [Labor Shortages](https://avc.com/2019/09/labor-shortages/) — `2019-09-02-2019-09-labor-shortages.md` — 229w
+- 2019-09-01 — [Scaling In Lower Cost Locations](https://avc.com/2019/09/scaling-in-lower-cost-locations/) — `2019-09-01-2019-09-scaling-in-lower-cost-locations.md` — 295w
+- 2019-08-29 — [AVC Stats](https://avc.com/2019/08/avc-stats/) — `2019-08-29-2019-08-avc-stats.md` — 212w
+- 2019-08-28 — [The Erasure Protocol](https://avc.com/2019/08/the-erasure-protocol/) — `2019-08-28-2019-08-the-erasure-protocol.md` — 366w
+- 2019-08-26 — [Time For A New Look](https://avc.com/2019/08/time-for-a-new-look/) — `2019-08-26-2019-08-time-for-a-new-look.md` — 161w
+- 2019-08-25 — [Hypothetical Value To Real Value](https://avc.com/2019/08/hypothetical-value-to-real-value/) — `2019-08-25-2019-08-hypothetical-value-to-real-value.md` — 566w
+- 2019-08-22 — [The Virtue Of Patience](https://avc.com/2019/08/the-virtue-of-patience/) — `2019-08-22-2019-08-the-virtue-of-patience.md` — 341w
+- 2019-08-21 — [Unlimited Capital](https://avc.com/2019/08/unlimited-capital/) — `2019-08-21-2019-08-unlimited-capital.md` — 281w
+- 2019-08-18 — [The Long Engagement](https://avc.com/2019/08/the-long-engagement/) — `2019-08-18-2019-08-the-long-engagement.md` — 454w
+- 2019-08-15 — [Zooming](https://avc.com/2019/08/zooming/) — `2019-08-15-2019-08-zooming.md` — 239w
+- 2019-08-14 — [Tumblr](https://avc.com/2019/08/tumblr-2/) — `2019-08-14-2019-08-tumblr-2.md` — 361w
+- 2019-08-13 — [Open Finance First, Open Data Second](https://avc.com/2019/08/open-finance-first-open-data-second/) — `2019-08-13-2019-08-open-finance-first-open-data-second.md` — 144w
+- 2019-08-12 — [Awesome Features That I Did Not Know About: Version Management In Google Sheets](https://avc.com/2019/08/awesome-features-that-i-did-not-know-about-version-management-in-google-sheets/) — `2019-08-12-2019-08-awesome-features-that-i-did-not-know-about-version-management-in-google-.md` — 167w
+- 2019-08-11 — [Risk Tolerance](https://avc.com/2019/08/risk-tolerance/) — `2019-08-11-2019-08-risk-tolerance.md` — 256w
+- 2019-08-08 — [Streaks](https://avc.com/2019/08/streaks-2/) — `2019-08-08-2019-08-streaks-2.md` — 143w
+- 2019-08-06 — [Ignoring vs Not Replying](https://avc.com/2019/08/ignoring-vs-not-replying/) — `2019-08-06-2019-08-ignoring-vs-not-replying.md` — 253w
+- 2019-08-05 — [Reserves](https://avc.com/2019/08/reserves-2/) — `2019-08-05-2019-08-reserves-2.md` — 286w
+- 2019-08-04 — [Striking The Right Balance](https://avc.com/2019/08/striking-the-right-balance/) — `2019-08-04-2019-08-striking-the-right-balance.md` — 424w
+- 2019-08-01 — [Employee Equity: How Much?](https://avc.com/2019/08/employee-equity-how-much-2/) — `2019-08-01-2019-08-employee-equity-how-much-2.md` — 270w
+- 2019-07-31 — [NBA Top Shot](https://avc.com/2019/07/nba-top-shot/) — `2019-07-31-2019-07-nba-top-shot.md` — 226w
+- 2019-07-30 — [Turning A Loss Into A Win](https://avc.com/2019/07/turning-a-loss-into-a-win/) — `2019-07-30-2019-07-turning-a-loss-into-a-win.md` — 240w
+- 2019-07-29 — [Haven](https://avc.com/2019/07/haven/) — `2019-07-29-2019-07-haven.md` — 196w
+- 2019-07-28 — [Certainty Of Close](https://avc.com/2019/07/certainty-of-close/) — `2019-07-28-2019-07-certainty-of-close.md` — 342w
+- 2019-07-25 — [Extensible Games](https://avc.com/2019/07/extensible-games/) — `2019-07-25-2019-07-extensible-games.md` — 239w
+- 2019-07-24 — [A Resilient Grid](https://avc.com/2019/07/a-resilient-grid/) — `2019-07-24-2019-07-a-resilient-grid.md` — 382w
+- 2019-07-23 — [When Things Just Start Working Again](https://avc.com/2019/07/when-things-just-start-working-again/) — `2019-07-23-2019-07-when-things-just-start-working-again.md` — 186w
+- 2019-07-22 — [Smart Thermostats](https://avc.com/2019/07/smart-thermostats/) — `2019-07-22-2019-07-smart-thermostats.md` — 182w
+- 2019-07-21 — [Parenting](https://avc.com/2019/07/parenting-2/) — `2019-07-21-2019-07-parenting-2.md` — 401w
+- 2019-07-18 — [Climate Adaptation?](https://avc.com/2019/07/climate-adaptation/) — `2019-07-18-2019-07-climate-adaptation.md` — 203w
+- 2019-07-17 — [Abridge](https://avc.com/2019/07/abridge/) — `2019-07-17-2019-07-abridge.md` — 278w
+- 2019-07-16 — [Dronebase Insights](https://avc.com/2019/07/dronebase-insights/) — `2019-07-16-2019-07-dronebase-insights.md` — 264w
+- 2019-07-15 — [Immigration Makes Us Stronger](https://avc.com/2019/07/immigration-makes-us-stronger/) — `2019-07-15-2019-07-immigration-makes-us-stronger.md` — 156w
+- 2019-07-14 — [Whales Not Unicorns](https://avc.com/2019/07/whales-not-unicorns/) — `2019-07-14-2019-07-whales-not-unicorns.md` — 248w
+- 2019-07-11 — [A Doctor For Sensitive Issues](https://avc.com/2019/07/a-doctor-for-sensitive-issues/) — `2019-07-11-2019-07-a-doctor-for-sensitive-issues.md` — 356w
+- 2019-07-10 — [Otis](https://avc.com/2019/07/otis/) — `2019-07-10-2019-07-otis.md` — 248w
+- 2019-07-09 — [The Heretic](https://avc.com/2019/07/the-heretic/) — `2019-07-09-2019-07-the-heretic.md` — 210w
+- 2019-07-08 — [Business Model Innovation](https://avc.com/2019/07/business-model-innovation/) — `2019-07-08-2019-07-business-model-innovation.md` — 518w
+- 2019-07-07 — [Price Stability](https://avc.com/2019/07/price-stability/) — `2019-07-07-2019-07-price-stability.md` — 287w
+- 2019-07-05 — [Practice](https://avc.com/2019/07/practice/) — `2019-07-05-2019-07-practice.md` — 294w
+- 2019-07-04 — [The American Dream](https://avc.com/2019/07/the-american-dream/) — `2019-07-04-2019-07-the-american-dream.md` — 397w
+- 2019-07-02 — [Oculus Quest](https://avc.com/2019/07/oculus-quest/) — `2019-07-02-2019-07-oculus-quest.md` — 241w
+- 2019-07-01 — [Disappointment](https://avc.com/2019/07/disappointment/) — `2019-07-01-2019-07-disappointment.md` — 288w
+- 2019-06-30 — [The 5G Conundrum](https://avc.com/2019/06/the-5g-conundrum/) — `2019-06-30-2019-06-the-5g-conundrum.md` — 206w
+- 2019-06-26 — [Graduation Season](https://avc.com/2019/06/graduation-season/) — `2019-06-26-2019-06-graduation-season.md` — 177w
+- 2019-06-25 — [New York’s Climate and Community Protection Act](https://avc.com/2019/06/new-yorks-climate-and-community-protection-act/) — `2019-06-25-2019-06-new-yorks-climate-and-community-protection-act.md` — 300w
+- 2019-06-24 — [Understanding Gender Bias In Venture Funding](https://avc.com/2019/06/understanding-gender-bias-in-venture-funding/) — `2019-06-24-2019-06-understanding-gender-bias-in-venture-funding.md` — 276w
+- 2019-06-23 — [Pixel Slate RIP](https://avc.com/2019/06/pixel-slate-rip/) — `2019-06-23-2019-06-pixel-slate-rip.md` — 187w
+- 2019-06-21 — [Reboot: Leadership and the Art of Growing Up](https://avc.com/2019/06/reboot-leadership-and-the-art-of-growing-up/) — `2019-06-21-2019-06-reboot-leadership-and-the-art-of-growing-up.md` — 674w
+- 2019-06-19 — [The Cloudflare Ethereum Gateway](https://avc.com/2019/06/the-cloudflare-ethereum-gateway/) — `2019-06-19-2019-06-the-cloudflare-ethereum-gateway.md` — 129w
+- 2019-06-18 — [Why USV is Joining the Libra Association](https://avc.com/2019/06/why-usv-is-joining-the-libra-association/) — `2019-06-18-2019-06-why-usv-is-joining-the-libra-association.md` — 785w
+- 2019-06-17 — [Secrets Of Sand Hill Road](https://avc.com/2019/06/secrets-of-sand-hill-road/) — `2019-06-17-2019-06-secrets-of-sand-hill-road.md` — 311w
+- 2019-06-16 — [Mobile Ticketing](https://avc.com/2019/06/mobile-ticketing/) — `2019-06-16-2019-06-mobile-ticketing.md` — 271w
+- 2019-06-13 — [Cloudflare’s Galileo Project Turns Five](https://avc.com/2019/06/cloudflares-galileo-project-turns-five/) — `2019-06-13-2019-06-cloudflares-galileo-project-turns-five.md` — 146w
+- 2019-06-12 — [Helium](https://avc.com/2019/06/helium/) — `2019-06-12-2019-06-helium.md` — 276w
+- 2019-06-11 — [Turning Streetlights Into EV Charging Stations](https://avc.com/2019/06/turning-streetlights-into-ev-charging-stations/) — `2019-06-11-2019-06-turning-streetlights-into-ev-charging-stations.md` — 329w
+- 2019-06-10 — [Seven to Ten Years](https://avc.com/2019/06/seven-to-ten-years/) — `2019-06-10-2019-06-seven-to-ten-years.md` — 329w
+- 2019-06-09 — [Low (No) Barriers To Entry](https://avc.com/2019/06/low-no-barriers-to-entry/) — `2019-06-09-2019-06-low-no-barriers-to-entry.md` — 464w
+- 2019-06-07 — [Funding Friday: DefendCrypto.org](https://avc.com/2019/06/funding-friday-defendcrypto-org/) — `2019-06-07-2019-06-funding-friday-defendcrypto-org.md` — 217w
+- 2019-06-06 — [Fly Like A Bird](https://avc.com/2019/06/fly-like-a-bird/) — `2019-06-06-2019-06-fly-like-a-bird.md` — 169w
+- 2019-06-03 — [Open Up Vs Break Up](https://avc.com/2019/06/open-up-vs-break-up/) — `2019-06-03-2019-06-open-up-vs-break-up.md` — 319w
+- 2019-06-02 — [Universal Biometric Identity](https://avc.com/2019/06/universal-biometric-identity/) — `2019-06-02-2019-06-universal-biometric-identity.md` — 355w
+- 2019-06-01 — [Audio Of The Week: How About Howey?](https://avc.com/2019/06/audio-of-the-week-how-about-howey/) — `2019-06-01-2019-06-audio-of-the-week-how-about-howey.md` — 160w
+- 2019-05-30 — [Unsafe Notes](https://avc.com/2019/05/unsafe-notes/) — `2019-05-30-2019-05-unsafe-notes.md` — 746w
+- 2019-05-29 — [Outschooling](https://avc.com/2019/05/outschooling/) — `2019-05-29-2019-05-outschooling.md` — 501w
+- 2019-05-28 — [DefendCrypto.org](https://avc.com/2019/05/defendcrypto-org/) — `2019-05-28-2019-05-defendcrypto-org.md` — 655w
+- 2019-05-23 — [Sick Day](https://avc.com/2019/05/sick-day/) — `2019-05-23-2019-05-sick-day.md` — 133w
+- 2019-05-22 — [Sofar](https://avc.com/2019/05/sofar/) — `2019-05-22-2019-05-sofar.md` — 514w
+- 2019-05-21 — [Citibike](https://avc.com/2019/05/citibike-2/) — `2019-05-21-2019-05-citibike-2.md` — 229w
+- 2019-05-20 — [Custody, Trading, Staking](https://avc.com/2019/05/custody-trading-staking/) — `2019-05-20-2019-05-custody-trading-staking.md` — 274w
+- 2019-05-19 — [Cheeze Wizards](https://avc.com/2019/05/cheeze-wizards/) — `2019-05-19-2019-05-cheeze-wizards.md` — 268w
+- 2019-05-16 — [Public Speaking](https://avc.com/2019/05/public-speaking/) — `2019-05-16-2019-05-public-speaking.md` — 358w
+- 2019-05-15 — [Crypto Spring?](https://avc.com/2019/05/crypto-spring/) — `2019-05-15-2019-05-crypto-spring.md` — 243w
+- 2019-05-14 — [Exploring An Investment Thesis](https://avc.com/2019/05/exploring-an-investment-thesis/) — `2019-05-14-2019-05-exploring-an-investment-thesis.md` — 268w
+- 2019-05-13 — [Blockchain Week NYC](https://avc.com/2019/05/blockchain-week-nyc/) — `2019-05-13-2019-05-blockchain-week-nyc.md` — 221w
+- 2019-05-12 — [Repost: The Maternal Instinct](https://avc.com/2019/05/repost-the-maternal-instinct/) — `2019-05-12-2019-05-repost-the-maternal-instinct.md` — 354w
+- 2019-05-09 — [Teaching Geometry With Javascript](https://avc.com/2019/05/teaching-geometry-with-javascript/) — `2019-05-09-2019-05-teaching-geometry-with-javascript.md` — 286w
+- 2019-05-08 — [Crypto Fashion](https://avc.com/2019/05/crypto-fashion/) — `2019-05-08-2019-05-crypto-fashion.md` — 209w
+- 2019-05-07 — [Coinbase Custody](https://avc.com/2019/05/coinbase-custody/) — `2019-05-07-2019-05-coinbase-custody.md` — 164w
+- 2019-05-06 — [More Sellers Than Buyers](https://avc.com/2019/05/more-sellers-than-buyers/) — `2019-05-06-2019-05-more-sellers-than-buyers.md` — 243w
+- 2019-05-05 — [YouTube TV](https://avc.com/2019/05/youtube-tv/) — `2019-05-05-2019-05-youtube-tv.md` — 559w
+- 2019-05-02 — [The Long Game](https://avc.com/2019/05/the-long-game/) — `2019-05-02-2019-05-the-long-game.md` — 488w
+- 2019-05-01 — [The Mobile Phone Generation](https://avc.com/2019/05/the-mobile-phone-generation/) — `2019-05-01-2019-05-the-mobile-phone-generation.md` — 338w
+- 2019-04-30 — [Kickstarter Turns Ten](https://avc.com/2019/04/kickstarter-turns-ten/) — `2019-04-30-2019-04-kickstarter-turns-ten.md` — 220w
+- 2019-04-29 — [Paid Posts, Guest Posts, Etc, Etc](https://avc.com/2019/04/paid-posts-guest-posts-etc-etc/) — `2019-04-29-2019-04-paid-posts-guest-posts-etc-etc.md` — 235w
+- 2019-04-28 — [Followership](https://avc.com/2019/04/followership/) — `2019-04-28-2019-04-followership.md` — 378w
+- 2019-04-25 — [Do The Right Thing](https://avc.com/2019/04/do-the-right-thing/) — `2019-04-25-2019-04-do-the-right-thing.md` — 362w
+- 2019-04-24 — [Concrete Vs Wood](https://avc.com/2019/04/concrete-vs-wood/) — `2019-04-24-2019-04-concrete-vs-wood.md` — 227w
+- 2019-04-23 — [Opting Out Of The Legacy Model](https://avc.com/2019/04/opting-out-of-the-legacy-model/) — `2019-04-23-2019-04-opting-out-of-the-legacy-model.md` — 257w
+- 2019-04-22 — [The Upside And The Downside](https://avc.com/2019/04/the-upside-and-the-downside/) — `2019-04-22-2019-04-the-upside-and-the-downside.md` — 217w
+- 2019-04-21 — [Facial Recognition](https://avc.com/2019/04/facial-recognition/) — `2019-04-21-2019-04-facial-recognition.md` — 488w
+- 2019-04-18 — [A Hackathon At NYC’s City Hall](https://avc.com/2019/04/a-hackathon-at-nycs-city-hall/) — `2019-04-18-2019-04-a-hackathon-at-nycs-city-hall.md` — 425w
+- 2019-04-17 — [Healthcare At USV](https://avc.com/2019/04/healthcare-at-usv/) — `2019-04-17-2019-04-healthcare-at-usv.md` — 243w
+- 2019-04-16 — [Underground Infrastructure](https://avc.com/2019/04/underground-infrastructure/) — `2019-04-16-2019-04-underground-infrastructure.md` — 380w
+- 2019-04-15 — [More S1 Fun](https://avc.com/2019/04/more-s1-fun-2/) — `2019-04-15-2019-04-more-s1-fun-2.md` — 324w
+- 2019-04-14 — [Functionality Vs Content](https://avc.com/2019/04/functionality-vs-content/) — `2019-04-14-2019-04-functionality-vs-content.md` — 268w
+- 2019-04-10 — [Dronebase Goes Thermal](https://avc.com/2019/04/dronebase-goes-thermal/) — `2019-04-10-2019-04-dronebase-goes-thermal.md` — 272w
+- 2019-04-08 — [Scaling A Company While Controlling Costs](https://avc.com/2019/04/scaling-a-company-while-controlling-costs/) — `2019-04-08-2019-04-scaling-a-company-while-controlling-costs.md` — 205w
+- 2019-04-07 — [The Heartbeat (Continued)](https://avc.com/2019/04/the-heartbeat-continued/) — `2019-04-07-2019-04-the-heartbeat-continued.md` — 350w
+- 2019-04-04 — [Orthodoxy](https://avc.com/2019/04/orthodoxy/) — `2019-04-04-2019-04-orthodoxy.md` — 318w
+- 2019-04-03 — [The Annual Computer Science Fair](https://avc.com/2019/04/the-annual-computer-science-fair/) — `2019-04-03-2019-04-the-annual-computer-science-fair.md` — 202w
+- 2019-04-02 — [The Shed](https://avc.com/2019/04/the-shed/) — `2019-04-02-2019-04-the-shed.md` — 302w
+- 2019-04-01 — [The IPO Bonanza](https://avc.com/2019/04/the-ipo-bonanza/) — `2019-04-01-2019-04-the-ipo-bonanza.md` — 470w
+- 2019-03-31 — [Portable TV and Music](https://avc.com/2019/03/portable-tv-and-music/) — `2019-03-31-2019-03-portable-tv-and-music.md` — 402w
+- 2019-03-28 — [More S1 Fun](https://avc.com/2019/03/more-s1-fun/) — `2019-03-28-2019-03-more-s1-fun.md` — 254w
+- 2019-03-27 — [Fewer Cars More Mass Transit](https://avc.com/2019/03/fewer-cars-more-mass-transit/) — `2019-03-27-2019-03-fewer-cars-more-mass-transit.md` — 315w
+- 2019-03-26 — [Equity Via Inclusion](https://avc.com/2019/03/equity-via-inclusion/) — `2019-03-26-2019-03-equity-via-inclusion.md` — 325w
+- 2019-03-25 — [Life In A Constant Stream Of Emails And Meetings](https://avc.com/2019/03/life-in-a-constant-stream-of-emails-and-meetings/) — `2019-03-25-2019-03-life-in-a-constant-stream-of-emails-and-meetings.md` — 386w
+- 2019-03-24 — [The Finance Function: Looking Back And Looking Forward](https://avc.com/2019/03/the-finance-function-looking-back-and-looking-forward/) — `2019-03-24-2019-03-the-finance-function-looking-back-and-looking-forward.md` — 489w
+- 2019-03-22 — [Funding Friday: Salvage Swings](https://avc.com/2019/03/funding-friday-salvage-swings/) — `2019-03-22-2019-03-funding-friday-salvage-swings.md` — 125w
+- 2019-03-20 — [Respecting The Pro-Rata Right](https://avc.com/2019/03/respecting-the-pro-rata-right/) — `2019-03-20-2019-03-respecting-the-pro-rata-right.md` — 682w
+- 2019-03-19 — [Scam Likely](https://avc.com/2019/03/scam-likely/) — `2019-03-19-2019-03-scam-likely.md` — 409w
+- 2019-03-18 — [The IPO Price and the S1](https://avc.com/2019/03/the-ipo-price-and-the-s1/) — `2019-03-18-2019-03-the-ipo-price-and-the-s1.md` — 774w
+- 2019-03-17 — [The Spotify Apple Issue](https://avc.com/2019/03/the-spotify-apple-issue/) — `2019-03-17-2019-03-the-spotify-apple-issue.md` — 444w
+- 2019-03-14 — [Decentralized Finance](https://avc.com/2019/03/decentralized-finance/) — `2019-03-14-2019-03-decentralized-finance.md` — 366w
+- 2019-03-13 — [The Diverse Syndicate](https://avc.com/2019/03/the-diverse-syndicate/) — `2019-03-13-2019-03-the-diverse-syndicate.md` — 212w
+- 2019-03-12 — [Market, Team, Product](https://avc.com/2019/03/market-team-product/) — `2019-03-12-2019-03-market-team-product.md` — 234w
+- 2019-03-11 — [The Hidden Cost Of Extending Option Exercise Periods](https://avc.com/2019/03/the-hidden-cost-of-extending-option-exercise-periods/) — `2019-03-11-2019-03-the-hidden-cost-of-extending-option-exercise-periods.md` — 628w
+- 2019-03-10 — [The Warren Breakup Plan](https://avc.com/2019/03/the-warren-breakup-plan/) — `2019-03-10-2019-03-the-warren-breakup-plan.md` — 280w
+- 2019-03-07 — [The Business Model Pivot](https://avc.com/2019/03/the-business-model-pivot/) — `2019-03-07-2019-03-the-business-model-pivot.md` — 320w
+- 2019-03-06 — [Golden Handcuffs](https://avc.com/2019/03/golden-handcuffs/) — `2019-03-06-2019-03-golden-handcuffs.md` — 510w
+- 2019-03-05 — [Being Wrong](https://avc.com/2019/03/being-wrong/) — `2019-03-05-2019-03-being-wrong.md` — 162w
+- 2019-03-04 — [Getting Credit](https://avc.com/2019/03/getting-credit/) — `2019-03-04-2019-03-getting-credit.md` — 454w
+- 2019-03-03 — [Karma](https://avc.com/2019/03/karma/) — `2019-03-03-2019-03-karma.md` — 336w
+- 2019-03-02 — [Audio Of The Week: Chris, Joel, Jesse, and Denis on Crypto](https://avc.com/2019/03/audio-of-the-week-chris-joel-jesse-and-denis-on-crypto/) — `2019-03-02-2019-03-audio-of-the-week-chris-joel-jesse-and-denis-on-crypto.md` — 129w
+- 2019-02-28 — [Token Summit IV](https://avc.com/2019/02/token-summit-iv/) — `2019-02-28-2019-02-token-summit-iv.md` — 409w
+- 2019-02-27 — [Carbon-Offset Shipping On Etsy](https://avc.com/2019/02/carbon-offset-shipping-on-etsy/) — `2019-02-27-2019-02-carbon-offset-shipping-on-etsy.md` — 317w
+- 2019-02-26 — [Progress Is Ugly](https://avc.com/2019/02/progress-is-ugly/) — `2019-02-26-2019-02-progress-is-ugly.md` — 425w
+- 2019-02-25 — [How To Be A Good Board Member](https://avc.com/2019/02/how-to-be-a-good-board-member/) — `2019-02-25-2019-02-how-to-be-a-good-board-member.md` — 216w
+- 2019-02-24 — [The “Doubling Model” For Fundraising](https://avc.com/2019/02/the-doubling-model-for-fundraising/) — `2019-02-24-2019-02-the-doubling-model-for-fundraising.md` — 433w
+- 2019-02-21 — [NYC Is Savills’ Top Tech City](https://avc.com/2019/02/nyc-is-savills-top-tech-city/) — `2019-02-21-2019-02-nyc-is-savills-top-tech-city.md` — 305w
+- 2019-02-20 — [SoundCloud Premier Distribution](https://avc.com/2019/02/soundcloud-premier-distribution/) — `2019-02-20-2019-02-soundcloud-premier-distribution.md` — 241w
+- 2019-02-19 — [The Weekly Email](https://avc.com/2019/02/the-weekly-email/) — `2019-02-19-2019-02-the-weekly-email.md` — 271w
+- 2019-02-18 — [A Small Change To The Comments](https://avc.com/2019/02/a-small-change-to-the-comments/) — `2019-02-18-2019-02-a-small-change-to-the-comments.md` — 273w
+- 2019-02-17 — [The Convergence Of The Phone And Laptop](https://avc.com/2019/02/the-convergence-of-the-phone-and-laptop/) — `2019-02-17-2019-02-the-convergence-of-the-phone-and-laptop.md` — 364w
+- 2019-02-15 — [Funding Friday: Young Women Teaching Coding To Others](https://avc.com/2019/02/funding-friday-young-women-teaching-coding-to-others/) — `2019-02-15-2019-02-funding-friday-young-women-teaching-coding-to-others.md` — 209w
+- 2019-02-14 — [The Amazon Backlash](https://avc.com/2019/02/the-amazon-backlash/) — `2019-02-14-2019-02-the-amazon-backlash.md` — 364w
+- 2019-02-13 — [The Seed Slump](https://avc.com/2019/02/the-seed-slump/) — `2019-02-13-2019-02-the-seed-slump.md` — 261w
+- 2019-02-12 — [Feedback](https://avc.com/2019/02/feedback/) — `2019-02-12-2019-02-feedback.md` — 211w
+- 2019-02-11 — [Rethinking AVC](https://avc.com/2019/02/rethinking-avc/) — `2019-02-11-2019-02-rethinking-avc.md` — 464w
+- 2019-02-10 — [The Free And Open Internet](https://avc.com/2019/02/the-free-and-open-internet/) — `2019-02-10-2019-02-the-free-and-open-internet.md` — 381w
+- 2019-02-07 — [Optimism](https://avc.com/2019/02/optimism/) — `2019-02-07-2019-02-optimism.md` — 220w
+- 2019-02-06 — [Routines](https://avc.com/2019/02/routines/) — `2019-02-06-2019-02-routines.md` — 215w
+- 2019-02-05 — [Early Liquidity](https://avc.com/2019/02/early-liquidity/) — `2019-02-05-2019-02-early-liquidity.md` — 160w
+- 2019-02-04 — [Raising A SAFE Or Convertible Note In Between Rounds](https://avc.com/2019/02/raising-a-safe-or-convertible-note-in-between-rounds/) — `2019-02-04-2019-02-raising-a-safe-or-convertible-note-in-between-rounds.md` — 644w
+- 2019-02-03 — [Understanding Your Investors](https://avc.com/2019/02/understanding-your-investors/) — `2019-02-03-2019-02-understanding-your-investors.md` — 621w
+- 2019-01-30 — [Funding Female Founders](https://avc.com/2019/01/funding-female-founders/) — `2019-01-30-2019-01-funding-female-founders.md` — 160w
+- 2019-01-29 — [Changes In VC and Startups Take Time](https://avc.com/2019/01/changes-in-vc-and-startups-take-time/) — `2019-01-29-2019-01-changes-in-vc-and-startups-take-time.md` — 281w
+- 2019-01-28 — [The Send To All Mistake](https://avc.com/2019/01/the-send-to-all-mistake/) — `2019-01-28-2019-01-the-send-to-all-mistake.md` — 221w
+- 2019-01-27 — [Funding Films, Continued](https://avc.com/2019/01/funding-films-continued/) — `2019-01-27-2019-01-funding-films-continued.md` — 231w
+- 2019-01-26 — [Video Of The Week: From Agile To Immutable](https://avc.com/2019/01/video-of-the-week-from-agile-to-immutable/) — `2019-01-26-2019-01-video-of-the-week-from-agile-to-immutable.md` — 189w
+- 2019-01-24 — [The Founder’s Commitment](https://avc.com/2019/01/the-founders-commitment/) — `2019-01-24-2019-01-the-founders-commitment.md` — 320w
+- 2019-01-23 — [Capitalism and Inequality](https://avc.com/2019/01/capitalism-and-inequality/) — `2019-01-23-2019-01-capitalism-and-inequality.md` — 948w
+- 2019-01-22 — [What Kind Of Coach Do You Want?](https://avc.com/2019/01/what-kind-of-coach-do-you-want/) — `2019-01-22-2019-01-what-kind-of-coach-do-you-want.md` — 291w
+- 2019-01-21 — [MLK Day Quote](https://avc.com/2019/01/mlk-day-quote/) — `2019-01-21-2019-01-mlk-day-quote.md` — 155w
+- 2019-01-20 — [Screen Time Tracking/Management](https://avc.com/2019/01/screen-time-tracking-management/) — `2019-01-20-2019-01-screen-time-tracking-management.md` — 290w
+- 2019-01-17 — [Executive Sessions and Continuous Feedback](https://avc.com/2019/01/executive-sessions-and-continuous-feedback/) — `2019-01-17-2019-01-executive-sessions-and-continuous-feedback.md` — 397w
+- 2019-01-16 — [“If The Train Is Delayed, Find Another Way Home”](https://avc.com/2019/01/if-the-train-is-delayed-find-another-way-home/) — `2019-01-16-2019-01-if-the-train-is-delayed-find-another-way-home.md` — 486w
+- 2019-01-15 — [The Daily Dose](https://avc.com/2019/01/the-daily-dose/) — `2019-01-15-2019-01-the-daily-dose.md` — 180w
+- 2019-01-13 — [Cause Or Effect?](https://avc.com/2019/01/cause-or-effect/) — `2019-01-13-2019-01-cause-or-effect.md` — 386w
+- 2019-01-10 — [The Hinman Test](https://avc.com/2019/01/the-hinman-test/) — `2019-01-10-2019-01-the-hinman-test.md` — 410w
+- 2019-01-09 — [Fewer And Larger](https://avc.com/2019/01/fewer-and-larger/) — `2019-01-09-2019-01-fewer-and-larger.md` — 178w
+- 2019-01-08 — [The Tortoise And The Hare](https://avc.com/2019/01/the-tortoise-and-the-hare-2/) — `2019-01-08-2019-01-the-tortoise-and-the-hare-2.md` — 164w
+- 2019-01-07 — [Take Your Lumps](https://avc.com/2019/01/take-your-lumps/) — `2019-01-07-2019-01-take-your-lumps.md` — 370w
+- 2019-01-06 — [Stakeholders In A Cryptonetwork](https://avc.com/2019/01/stakeholders-in-a-cryptonetwork/) — `2019-01-06-2019-01-stakeholders-in-a-cryptonetwork.md` — 314w
+- 2019-01-03 — [Scratch 3](https://avc.com/2019/01/scratch-3/) — `2019-01-03-2019-01-scratch-3.md` — 387w
+- 2019-01-02 — [Taking A Stance](https://avc.com/2019/01/taking-a-stance/) — `2019-01-02-2019-01-taking-a-stance.md` — 158w
+- 2019-01-01 — [What Is Going To Happen In 2019](https://avc.com/2019/01/what-is-going-to-happen-in-2019/) — `2019-01-01-2019-01-what-is-going-to-happen-in-2019.md` — 1582w
+- 2018-12-31 — [What Happened In 2018](https://avc.com/2018/12/what-happened-in-2018/) — `2018-12-31-2018-12-what-happened-in-2018.md` — 761w
+- 2018-12-30 — [Songs That Stayed With Me In 2018](https://avc.com/2018/12/songs-that-stayed-with-me-in-2018/) — `2018-12-30-2018-12-songs-that-stayed-with-me-in-2018.md` — 163w
+- 2018-12-28 — [Missing The Forest Through The Trees](https://avc.com/2018/12/missing-the-forest-through-the-trees/) — `2018-12-28-2018-12-missing-the-forest-through-the-trees.md` — 394w
+- 2018-12-27 — [Guest Commenting Has Been Suspended](https://avc.com/2018/12/guest-commenting-has-been-suspended/) — `2018-12-27-2018-12-guest-commenting-has-been-suspended.md` — 177w
+- 2018-12-26 — [The Profit Motive](https://avc.com/2018/12/the-profit-motive/) — `2018-12-26-2018-12-the-profit-motive.md` — 653w
+- 2018-12-24 — [Pocket](https://avc.com/2018/12/pocket/) — `2018-12-24-2018-12-pocket.md` — 416w
+- 2018-12-20 — [The NYC Transit Mess](https://avc.com/2018/12/the-nyc-transit-mess/) — `2018-12-20-2018-12-the-nyc-transit-mess.md` — 501w
+- 2018-12-18 — [A Trip Down Memory Lane](https://avc.com/2018/12/a-trip-down-memory-lane/) — `2018-12-18-2018-12-a-trip-down-memory-lane.md` — 284w
+- 2018-12-16 — [Negotiating: Drawing A Hard Line or Building A Negotiating Cushion?](https://avc.com/2018/12/negotiating-drawing-a-hard-line-or-building-a-negotiating-cushion/) — `2018-12-16-2018-12-negotiating-drawing-a-hard-line-or-building-a-negotiating-cushion.md` — 564w
+- 2018-12-14 — [Feature Friday: Plan A Trip](https://avc.com/2018/12/feature-friday-plan-a-trip/) — `2018-12-14-2018-12-feature-friday-plan-a-trip.md` — 267w
+- 2018-12-13 — [Down Time](https://avc.com/2018/12/down-time-2/) — `2018-12-13-2018-12-down-time-2.md` — 218w
+- 2018-12-12 — [Pixel Slate](https://avc.com/2018/12/pixel-slate/) — `2018-12-12-2018-12-pixel-slate.md` — 454w
+- 2018-12-11 — [When Markets Overcorrect](https://avc.com/2018/12/when-markets-overcorrect/) — `2018-12-11-2018-12-when-markets-overcorrect.md` — 477w
+- 2018-12-10 — [Leadership and Self Care](https://avc.com/2018/12/leadership-and-self-care/) — `2018-12-10-2018-12-leadership-and-self-care.md` — 812w
+- 2018-12-09 — [Thinking Ahead To 2019](https://avc.com/2018/12/thinking-ahead-to-2019/) — `2018-12-09-2018-12-thinking-ahead-to-2019.md` — 636w
+- 2018-12-07 — [Funding Friday: Signal Problems](https://avc.com/2018/12/funding-friday-signal-problems/) — `2018-12-07-2018-12-funding-friday-signal-problems.md` — 193w
+- 2018-12-06 — [Google Photos Feature Request](https://avc.com/2018/12/google-photos-feature-request/) — `2018-12-06-2018-12-google-photos-feature-request.md` — 148w
+- 2018-12-05 — [Quizlet Premium Content](https://avc.com/2018/12/quizlet-premium-content/) — `2018-12-05-2018-12-quizlet-premium-content.md` — 363w
+- 2018-12-04 — [La Hora del Código](https://avc.com/2018/12/la-hora-del-codigo/) — `2018-12-04-2018-12-la-hora-del-codigo.md` — 426w
+- 2018-12-03 — [Litigation](https://avc.com/2018/12/litigation/) — `2018-12-03-2018-12-litigation.md` — 782w
+- 2018-12-02 — [Centralization vs Decentralization](https://avc.com/2018/12/centralization-vs-decentralization/) — `2018-12-02-2018-12-centralization-vs-decentralization.md` — 849w
+- 2018-12-01 — [Video Of The Week: The Sorkin-Clayton Interview](https://avc.com/2018/12/video-of-the-week-the-sorkin-clayton-interview/) — `2018-12-01-2018-12-video-of-the-week-the-sorkin-clayton-interview.md` — 158w
+- 2018-11-29 — [The Pitch Meeting Setup](https://avc.com/2018/11/the-pitch-meeting-setup/) — `2018-11-29-2018-11-the-pitch-meeting-setup.md` — 249w
+- 2018-11-28 — [Track Record](https://avc.com/2018/11/track-record/) — `2018-11-28-2018-11-track-record.md` — 299w
+- 2018-11-27 — [Giving Tuesday](https://avc.com/2018/11/giving-tuesday/) — `2018-11-27-2018-11-giving-tuesday.md` — 196w
+- 2018-11-26 — [My Amicus Brief](https://avc.com/2018/11/my-amicus-brief/) — `2018-11-26-2018-11-my-amicus-brief.md` — 382w
+- 2018-11-25 — [What Bear Markets Look Like](https://avc.com/2018/11/what-bear-markets-look-like/) — `2018-11-25-2018-11-what-bear-markets-look-like.md` — 480w
+- 2018-11-22 — [Giving Thanks](https://avc.com/2018/11/giving-thanks-3/) — `2018-11-22-2018-11-giving-thanks-3.md` — 299w
+- 2018-11-21 — [Bleeding](https://avc.com/2018/11/bleeding/) — `2018-11-21-2018-11-bleeding.md` — 354w
+- 2018-11-20 — [The Kickstarter 2017 Public Benefit Statement](https://avc.com/2018/11/the-kickstarter-2017-public-benefit-statement/) — `2018-11-20-2018-11-the-kickstarter-2017-public-benefit-statement.md` — 143w
+- 2018-11-19 — [The Overpay Critique](https://avc.com/2018/11/the-overpay-critique/) — `2018-11-19-2018-11-the-overpay-critique.md` — 239w
+- 2018-11-18 — [Pivot or Fail?](https://avc.com/2018/11/pivot-or-fail/) — `2018-11-18-2018-11-pivot-or-fail.md` — 799w
+- 2018-11-16 — [Feature Friday: Wireless Charging](https://avc.com/2018/11/feature-friday-wireless-charging/) — `2018-11-16-2018-11-feature-friday-wireless-charging.md` — 135w
+- 2018-11-15 — [Crypto Explorers Goes On The Road](https://avc.com/2018/11/crypto-explorers-goes-on-the-road/) — `2018-11-15-2018-11-crypto-explorers-goes-on-the-road.md` — 130w
+- 2018-11-14 — [Economic Development](https://avc.com/2018/11/economic-development/) — `2018-11-14-2018-11-economic-development.md` — 655w
+- 2018-11-13 — [Welcome Amazon](https://avc.com/2018/11/welcome-amazon/) — `2018-11-13-2018-11-welcome-amazon.md` — 129w
+- 2018-11-12 — [Mementos](https://avc.com/2018/11/mementos/) — `2018-11-12-2018-11-mementos.md` — 441w
+- 2018-11-11 — [What Happens When A Founder Is Fully Vested?](https://avc.com/2018/11/what-happens-when-a-founder-is-fully-vested/) — `2018-11-11-2018-11-what-happens-when-a-founder-is-fully-vested.md` — 1179w
+- 2018-11-08 — [The Anchor Tenant](https://avc.com/2018/11/the-anchor-tenant/) — `2018-11-08-2018-11-the-anchor-tenant.md` — 393w
+- 2018-11-07 — [TYWLS Digital Dance](https://avc.com/2018/11/tywls-digital-dance/) — `2018-11-07-2018-11-tywls-digital-dance.md` — 151w
+- 2018-11-06 — [If You Do Just One Thing Today, Vote](https://avc.com/2018/11/if-you-do-just-one-thing-today-vote/) — `2018-11-06-2018-11-if-you-do-just-one-thing-today-vote.md` — 157w
+- 2018-11-05 — [Pixel 3 XL](https://avc.com/2018/11/pixel-3-xl/) — `2018-11-05-2018-11-pixel-3-xl.md` — 420w
+- 2018-11-04 — [Broken Syndicates](https://avc.com/2018/11/broken-syndicates/) — `2018-11-04-2018-11-broken-syndicates.md` — 1028w
+- 2018-11-02 — [Funding Friday: Misen Non Stick Pan](https://avc.com/2018/11/funding-friday-misen-non-stick-pan/) — `2018-11-02-2018-11-funding-friday-misen-non-stick-pan.md` — 139w
+- 2018-11-01 — [Dapper](https://avc.com/2018/11/dapper/) — `2018-11-01-2018-11-dapper.md` — 264w
+- 2018-10-31 — [D2CX](https://avc.com/2018/10/d2cx/) — `2018-10-31-2018-10-d2cx.md` — 244w
+- 2018-10-29 — [Creating Surplus](https://avc.com/2018/10/creating-surplus/) — `2018-10-29-2018-10-creating-surplus.md` — 330w
+- 2018-10-25 — [Engaging In Cryptonetworks](https://avc.com/2018/10/engaging-in-cryptonetworks/) — `2018-10-25-2018-10-engaging-in-cryptonetworks.md` — 388w
+- 2018-10-24 — [Jet Lag](https://avc.com/2018/10/jet-lag-2/) — `2018-10-24-2018-10-jet-lag-2.md` — 187w
+- 2018-10-23 — [Business Model Innovation in Healthcare](https://avc.com/2018/10/business-model-innovation-in-healthcare/) — `2018-10-23-2018-10-business-model-innovation-in-healthcare.md` — 171w
+- 2018-10-22 — [Navigating Blogging Across Time Zones](https://avc.com/2018/10/navigating-blogging-across-time-zones/) — `2018-10-22-2018-10-navigating-blogging-across-time-zones.md` — 314w
+- 2018-10-21 — [Who Are My Investors?](https://avc.com/2018/10/who-are-my-investors/) — `2018-10-21-2018-10-who-are-my-investors.md` — 468w
+- 2018-10-18 — [Winternships](https://avc.com/2018/10/winternships/) — `2018-10-18-2018-10-winternships.md` — 301w
+- 2018-10-17 — [Motion Photos](https://avc.com/2018/10/motion-photos/) — `2018-10-17-2018-10-motion-photos.md` — 248w
+- 2018-10-16 — [When Software Just Gets Smarter](https://avc.com/2018/10/when-software-just-gets-smarter/) — `2018-10-16-2018-10-when-software-just-gets-smarter.md` — 257w
+- 2018-10-15 — [Kills Zones And Venture Funding](https://avc.com/2018/10/kills-zones-and-venture-funding/) — `2018-10-15-2018-10-kills-zones-and-venture-funding.md` — 322w
+- 2018-10-14 — [Bluetooth Everywhere](https://avc.com/2018/10/bluetooth-everywhere/) — `2018-10-14-2018-10-bluetooth-everywhere.md` — 168w
+- 2018-10-11 — [TxTenna Is Live](https://avc.com/2018/10/txtenna-is-live/) — `2018-10-11-2018-10-txtenna-is-live.md` — 128w
+- 2018-10-10 — [Pixelated](https://avc.com/2018/10/pixelated/) — `2018-10-10-2018-10-pixelated.md` — 140w
+- 2018-10-09 — [CSforAll Summit](https://avc.com/2018/10/csforall-summit/) — `2018-10-09-2018-10-csforall-summit.md` — 255w
+- 2018-10-08 — [Retail Space Available](https://avc.com/2018/10/retail-space-available/) — `2018-10-08-2018-10-retail-space-available.md` — 367w
+- 2018-10-07 — [Fully Diluted Market Value](https://avc.com/2018/10/fully-diluted-market-value/) — `2018-10-07-2018-10-fully-diluted-market-value.md` — 348w
+- 2018-10-05 — [Feature Friday: Gmail Predictive Typing](https://avc.com/2018/10/feature-friday-gmail-predictive-typing/) — `2018-10-05-2018-10-feature-friday-gmail-predictive-typing.md` — 183w

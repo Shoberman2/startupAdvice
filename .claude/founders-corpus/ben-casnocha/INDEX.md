@@ -1,7 +1,7 @@
 # Ben Casnocha corpus index
 
 Source: https://casnocha.com — fetched 2026-07-20
-90 posts, 115292 words. Format: date — [title](canonical url) — `file` — words.
+843 posts, 573971 words. Format: date — [title](canonical url) — `file` — words.
 
 - 2026-07-12 — [The Three Ways to Express Disagreement with a Colleague](https://casnocha.com/2026/07/the-three-ways-to-express-disagreement-with-a-colleague.html) — `2026-07-12-2026-07-the-three-ways-to-express-disagreement-with-a-colleague-html.md` — 260w
 - 2026-01-05 — [Remembering Steve Armstrong and His Dhamma Wisdom](https://casnocha.com/2026/01/remembering-steve-armstrong-and-his-dhamma-wisdom.html) — `2026-01-05-2026-01-remembering-steve-armstrong-and-his-dhamma-wisdom-html.md` — 1345w
@@ -93,3 +93,756 @@ Source: https://casnocha.com — fetched 2026-07-20
 - 2019-02-28 — [Book Notes: The Point Is by Lee Eisenberg](https://casnocha.com/2019/02/notes-point-eisenberg.html) — `2019-02-28-2019-02-notes-point-eisenberg-html.md` — 1079w
 - 2019-02-13 — [Book Review: 11/22/63 by Stephen King](https://casnocha.com/2019/02/book-review-11-22-63.html) — `2019-02-13-2019-02-book-review-11-22-63-html.md` — 280w
 - 2019-01-06 — [Impressions of Vietnam and Taiwan](https://casnocha.com/2019/01/impressions-vietnam-taiwan.html) — `2019-01-06-2019-01-impressions-vietnam-taiwan-html.md` — 2003w
+- 2019-01-01 — [Book Review: My Struggle – Book 6](https://casnocha.com/2019/01/book-review-struggle.html) — `2019-01-01-2019-01-book-review-struggle-html.md` — 1042w
+- 2018-12-28 — [What I’ve Been Reading](https://casnocha.com/2018/12/what-ive-been-reading-25.html) — `2018-12-28-2018-12-what-ive-been-reading-25-html.md` — 766w
+- 2018-11-24 — [Friendships: Frequent Quick Hits vs. Infrequent Deep Dives](https://casnocha.com/2018/11/friendships-frequent-infrequent.html) — `2018-11-24-2018-11-friendships-frequent-infrequent-html.md` — 1028w
+- 2018-10-31 — [The Wisdom of Bob Iger](https://casnocha.com/2018/10/wisdom-bob-iger.html) — `2018-10-31-2018-10-wisdom-bob-iger-html.md` — 219w
+- 2018-10-28 — [Remaining on Nodding Terms with Chile](https://casnocha.com/2018/10/remaining-nodding-chile.html) — `2018-10-28-2018-10-remaining-nodding-chile-html.md` — 824w
+- 2018-10-05 — [Book Review: Exit West by Mohsin Hamid](https://casnocha.com/2018/10/review-mohsin-hamid.html) — `2018-10-05-2018-10-review-mohsin-hamid-html.md` — 1557w
+- 2018-09-16 — [10 Day Samadhi (Concentration) Retreat at Spirit Rock](https://casnocha.com/2018/09/samadhi-concentration-retreat.html) — `2018-09-16-2018-09-samadhi-concentration-retreat-html.md` — 6465w
+- 2018-07-26 — [Book Review: The Marriage Plot by Jeffrey Eugenides](https://casnocha.com/2018/07/marriage-jeffrey-eugenides.html) — `2018-07-26-2018-07-marriage-jeffrey-eugenides-html.md` — 1848w
+- 2018-07-22 — [What I’ve Been Reading](https://casnocha.com/2018/07/what-ive-been-reading-24.html) — `2018-07-22-2018-07-what-ive-been-reading-24-html.md` — 1005w
+- 2018-07-11 — [“Happiness Is Just Like This”](https://casnocha.com/2018/07/happiness-like-this.html) — `2018-07-11-2018-07-happiness-like-this-html.md` — 213w
+- 2018-07-01 — [Book Notes: Motherhood: A Novel](https://casnocha.com/2018/07/notes-motherhood-novel.html) — `2018-07-01-2018-07-notes-motherhood-novel-html.md` — 1451w
+- 2018-06-24 — [Trying a Gut Cleanse Diet](https://casnocha.com/2018/06/trying-cleanse-diet.html) — `2018-06-24-2018-06-trying-cleanse-diet-html.md` — 372w
+- 2018-06-02 — [The Americans TV Show](https://casnocha.com/2018/06/the-americans-show.html) — `2018-06-02-2018-06-the-americans-show-html.md` — 330w
+- 2018-05-16 — [The Perils of Having an EA Schedule All Your Meetings](https://casnocha.com/2018/05/having-schedule-meetings.html) — `2018-05-16-2018-05-having-schedule-meetings-html.md` — 570w
+- 2018-05-01 — [What I’ve Been Reading](https://casnocha.com/2018/05/what-ive-been-reading-23.html) — `2018-05-01-2018-05-what-ive-been-reading-23-html.md` — 805w
+- 2018-03-25 — [The School of Life Conference](https://casnocha.com/2018/03/school-life-conference.html) — `2018-03-25-2018-03-school-life-conference-html.md` — 1045w
+- 2018-03-11 — [“That Doesn’t Surprise Me”](https://casnocha.com/2018/03/that-doesnt-surprise.html) — `2018-03-11-2018-03-that-doesnt-surprise-html.md` — 227w
+- 2018-02-25 — [What’s the Reward for Uncovering Truth?](https://casnocha.com/2018/02/whats-reward-uncovering.html) — `2018-02-25-2018-02-whats-reward-uncovering-html.md` — 338w
+- 2018-02-22 — [Hiring a Head of Content](https://casnocha.com/2018/02/hiring-head-content.html) — `2018-02-22-2018-02-hiring-head-content-html.md` — 538w
+- 2018-01-21 — [What I’ve Been Reading](https://casnocha.com/2018/01/what-ive-been-reading-22.html) — `2018-01-21-2018-01-what-ive-been-reading-22-html.md` — 642w
+- 2018-01-20 — [Musings on Philanthropy After Hosting Refugees](https://casnocha.com/2018/01/musings-philanthropy-refugees.html) — `2018-01-20-2018-01-musings-philanthropy-refugees-html.md` — 586w
+- 2017-12-23 — [Do You Love Making Connections and Thinking About Networks?](https://casnocha.com/2017/12/connections-thinking-networks.html) — `2017-12-23-2017-12-connections-thinking-networks-html.md` — 309w
+- 2017-11-26 — [Learning to Scuba Dive](https://casnocha.com/2017/11/learning-scuba-dive.html) — `2017-11-26-2017-11-learning-scuba-dive-html.md` — 1225w
+- 2017-11-24 — [Book Notes: Shantaram](https://casnocha.com/2017/11/book-notes-shantaram.html) — `2017-11-24-2017-11-book-notes-shantaram-html.md` — 590w
+- 2017-10-21 — [My Struggle: Book 2 by Karl Knausgaard](https://casnocha.com/2017/10/mystrugglebook2-knausgaard.html) — `2017-10-21-2017-10-mystrugglebook2-knausgaard-html.md` — 5271w
+- 2017-09-30 — [Small Example of Cultivating Awe](https://casnocha.com/2017/09/small-example-cultivating.html) — `2017-09-30-2017-09-small-example-cultivating-html.md` — 248w
+- 2017-09-11 — [Bob Wright’s Why Buddhism is True](https://casnocha.com/2017/09/wrights-buddhism-true.html) — `2017-09-11-2017-09-wrights-buddhism-true-html.md` — 292w
+- 2017-08-20 — [Emergent Order](https://casnocha.com/2017/08/emergent-order.html) — `2017-08-20-2017-08-emergent-order-html.md` — 375w
+- 2017-07-23 — [Samatha Meditation Practice](https://casnocha.com/2017/07/samatha-meditation-practice.html) — `2017-07-23-2017-07-samatha-meditation-practice-html.md` — 701w
+- 2017-07-15 — [Time Simply Slipped Away Without Any Meaning](https://casnocha.com/2017/07/slipped-without-meaning.html) — `2017-07-15-2017-07-slipped-without-meaning-html.md` — 148w
+- 2017-07-01 — [Book Notes: The Undoing Project](https://casnocha.com/2017/07/notes-undoing-project.html) — `2017-07-01-2017-07-notes-undoing-project-html.md` — 2908w
+- 2017-06-26 — [Stop Asking Busy People to “Catch Up” With You](https://casnocha.com/2017/06/asking-people-catch.html) — `2017-06-26-2017-06-asking-people-catch-html.md` — 568w
+- 2017-06-18 — [Book Notes: My Struggle by Karl Knausgaard](https://casnocha.com/2017/06/notes-struggle-knausgaard.html) — `2017-06-18-2017-06-notes-struggle-knausgaard-html.md` — 2500w
+- 2017-05-31 — [Leap When You’re Almost Ready](https://casnocha.com/2017/05/youre-almost-ready.html) — `2017-05-31-2017-05-youre-almost-ready-html.md` — 433w
+- 2017-05-19 — [“The Stale Tenement Air of Married Life”](https://casnocha.com/2017/05/stale-tenement-married.html) — `2017-05-19-2017-05-stale-tenement-married-html.md` — 277w
+- 2017-05-13 — [Book Review: The Intel Trinity](https://casnocha.com/2017/05/review-intel-trinity.html) — `2017-05-13-2017-05-review-intel-trinity-html.md` — 483w
+- 2017-04-21 — [Book Short: The Complacent Class by Tyler Cowen](https://casnocha.com/2017/04/complacent-tyler-cowen.html) — `2017-04-21-2017-04-complacent-tyler-cowen-html.md` — 513w
+- 2017-03-19 — [What I’ve Been Reading](https://casnocha.com/2017/03/what-ive-been-reading-21.html) — `2017-03-19-2017-03-what-ive-been-reading-21-html.md` — 379w
+- 2017-03-11 — [How Romeo Stevens Improved His Life](https://casnocha.com/2017/03/romeo-stevens-improved.html) — `2017-03-11-2017-03-romeo-stevens-improved-html.md` — 940w
+- 2017-02-25 — [Asking Acquaintances About Mutual Friends](https://casnocha.com/2017/02/acquaintances-mutual-friends.html) — `2017-02-25-2017-02-acquaintances-mutual-friends-html.md` — 360w
+- 2017-02-11 — [Knowledge Accumulates Over Generations](https://casnocha.com/2017/02/knowledge-accumulates-generations.html) — `2017-02-11-2017-02-knowledge-accumulates-generations-html.md` — 260w
+- 2017-01-17 — [Which Health Advice Is Actually True?](https://casnocha.com/2017/01/health-advice-actually.html) — `2017-01-17-2017-01-health-advice-actually-html.md` — 2127w
+- 2017-01-08 — [Impressions of Morocco](https://casnocha.com/2017/01/impressions-of-morocco.html) — `2017-01-08-2017-01-impressions-of-morocco-html.md` — 614w
+- 2016-12-27 — [Book Review: But What If We’re Wrong?](https://casnocha.com/2016/12/review-were-wrong.html) — `2016-12-27-2016-12-review-were-wrong-html.md` — 5169w
+- 2016-11-27 — [Impressions of Malaysia](https://casnocha.com/2016/11/impressions-of-malaysia.html) — `2016-11-27-2016-11-impressions-of-malaysia-html.md` — 401w
+- 2016-11-17 — [The Factor That Colors Happiness and Unhappiness the Most](https://casnocha.com/2016/11/colors-happiness-unhappiness.html) — `2016-11-17-2016-11-colors-happiness-unhappiness-html.md` — 170w
+- 2016-11-13 — [What I’ve Been Reading](https://casnocha.com/2016/11/what-ive-been-reading-20.html) — `2016-11-13-2016-11-what-ive-been-reading-20-html.md` — 242w
+- 2016-10-29 — [Visiting Prison Again — With Defy Ventures](https://casnocha.com/2016/10/visiting-prison-ventures.html) — `2016-10-29-2016-10-visiting-prison-ventures-html.md` — 1154w
+- 2016-10-23 — [Book Review: Sapiens: A Brief History of Humankind](https://casnocha.com/2016/10/sapiens-history-humankind.html) — `2016-10-23-2016-10-sapiens-history-humankind-html.md` — 7691w
+- 2016-09-17 — [Book Notes: Tribe by Sebastian Junger](https://casnocha.com/2016/09/tribe-sebastian-junger.html) — `2016-09-17-2016-09-tribe-sebastian-junger-html.md` — 2100w
+- 2016-08-21 — [When Giving Advice to Peers…](https://casnocha.com/2016/08/giving-advice-peers.html) — `2016-08-21-2016-08-giving-advice-peers-html.md` — 606w
+- 2016-08-18 — [Book Notes: The Road to Character](https://casnocha.com/2016/08/notes-road-character.html) — `2016-08-18-2016-08-notes-road-character-html.md` — 3165w
+- 2016-07-30 — [Book Notes: Happiness from n+1](https://casnocha.com/2016/07/notes-happiness-from.html) — `2016-07-30-2016-07-notes-happiness-from-html.md` — 2178w
+- 2016-07-17 — [Book Review: Colorless Tsukuru Tazaki](https://casnocha.com/2016/07/review-colorless-tsukuru.html) — `2016-07-17-2016-07-review-colorless-tsukuru-html.md` — 389w
+- 2016-06-25 — [10 Day Awareness+Wisdom Meditation Retreat](https://casnocha.com/2016/06/awarenesswisdom-meditation-retreat.html) — `2016-06-25-2016-06-awarenesswisdom-meditation-retreat-html.md` — 7026w
+- 2016-04-27 — [What It Means to Lead a Global Life (For Me, Anyway)](https://casnocha.com/2016/04/means-global-anyway.html) — `2016-04-27-2016-04-means-global-anyway-html.md` — 2195w
+- 2016-04-16 — [What We Actually Say in “The Alliance”](https://casnocha.com/2016/04/what-actually-alliance.html) — `2016-04-16-2016-04-what-actually-alliance-html.md` — 405w
+- 2016-04-14 — [Impressions of Japan, Spring 2016](https://casnocha.com/2016/04/impressions-japan-spring.html) — `2016-04-14-2016-04-impressions-japan-spring-html.md` — 1128w
+- 2016-04-10 — [Book Review: Purity by Franzen](https://casnocha.com/2016/04/review-purity-franzen.html) — `2016-04-10-2016-04-review-purity-franzen-html.md` — 2406w
+- 2016-03-29 — [Lessons and Impressions from Colombia (2016)](https://casnocha.com/2016/03/lessons-impressions-colombia.html) — `2016-03-29-2016-03-lessons-impressions-colombia-html.md` — 1179w
+- 2016-03-27 — [A Little-Things Agenda](https://casnocha.com/2016/03/little-things-agenda.html) — `2016-03-27-2016-03-little-things-agenda-html.md` — 580w
+- 2016-03-13 — [“Close Friends” Who You Don’t Talk To Often](https://casnocha.com/2016/03/close-friends-often.html) — `2016-03-13-2016-03-close-friends-often-html.md` — 853w
+- 2016-02-24 — [The Wisdom of Jonathan Haidt](https://casnocha.com/2016/02/wisdom-jonathan-haidt.html) — `2016-02-24-2016-02-wisdom-jonathan-haidt-html.md` — 422w
+- 2016-02-21 — [Situationally Competitive vs. Always Competitive](https://casnocha.com/2016/02/situationally-competitive-always.html) — `2016-02-21-2016-02-situationally-competitive-always-html.md` — 584w
+- 2016-01-18 — [Travels in 2015](https://casnocha.com/2016/01/travels-in-2015.html) — `2016-01-18-2016-01-travels-in-2015-html.md` — 296w
+- 2016-01-09 — [Lessons and Impressions from Cuba](https://casnocha.com/2016/01/lessons-impressions-cuba.html) — `2016-01-09-2016-01-lessons-impressions-cuba-html.md` — 999w
+- 2015-12-27 — [Book Review: Deep Work by Cal Newport](https://casnocha.com/2015/12/book-review-newport.html) — `2015-12-27-2015-12-book-review-newport-html.md` — 517w
+- 2015-12-26 — [What I’ve Been Reading](https://casnocha.com/2015/12/what-ive-been-reading-19.html) — `2015-12-26-2015-12-what-ive-been-reading-19-html.md` — 872w
+- 2015-12-25 — [Book Notes: Drive by Dan Pink](https://casnocha.com/2015/12/notes-drive-pink.html) — `2015-12-25-2015-12-notes-drive-pink-html.md` — 1295w
+- 2015-12-16 — [Lessons and Impressions of Egypt](https://casnocha.com/2015/12/lessons-impressions-egypt.html) — `2015-12-16-2015-12-lessons-impressions-egypt-html.md` — 1292w
+- 2015-12-15 — [Relationship Building vs. Networking via Reid](https://casnocha.com/2015/12/relationship-building-networking.html) — `2015-12-15-2015-12-relationship-building-networking-html.md` — 136w
+- 2015-11-28 — [Book Notes: Selfish, Shallow, and Self-Absorbed](https://casnocha.com/2015/11/selfish-shallow-absorbed.html) — `2015-11-28-2015-11-selfish-shallow-absorbed-html.md` — 745w
+- 2015-11-13 — [The Hidden Chambers in the Heart](https://casnocha.com/2015/11/hidden-chambers-heart.html) — `2015-11-13-2015-11-hidden-chambers-heart-html.md` — 433w
+- 2015-11-09 — [Using Your Mind to Watch Your Mind](https://casnocha.com/2015/11/using-mind-watch.html) — `2015-11-09-2015-11-using-mind-watch-html.md` — 206w
+- 2015-11-07 — [How Much Does Passion Matter When Founding vs. Joining Something?](https://casnocha.com/2015/11/passion-founding-something.html) — `2015-11-07-2015-11-passion-founding-something-html.md` — 254w
+- 2015-11-01 — [Lessons and Impressions from Israel](https://casnocha.com/2015/11/lessons-impressions-israel.html) — `2015-11-01-2015-11-lessons-impressions-israel-html.md` — 2023w
+- 2015-10-07 — [Adam Davidson on the Hollywood Model of Work](https://casnocha.com/2015/10/davidson-hollywood-model.html) — `2015-10-07-2015-10-davidson-hollywood-model-html.md` — 298w
+- 2015-10-04 — [Book Notes: Master of the Senate](https://casnocha.com/2015/10/notes-master-senate.html) — `2015-10-04-2015-10-notes-master-senate-html.md` — 4194w
+- 2015-09-21 — [The Pros and Cons of Being an Insider vs. Outsider](https://casnocha.com/2015/09/being-insider-outsider.html) — `2015-09-21-2015-09-being-insider-outsider-html.md` — 213w
+- 2015-09-05 — [Burning Man 2015: Impressions and Lessons](https://casnocha.com/2015/09/burning-impressions-lessons.html) — `2015-09-05-2015-09-burning-impressions-lessons-html.md` — 952w
+- 2015-09-04 — [From Communal to Individual. From Future to Present.](https://casnocha.com/2015/09/communal-individual-present.html) — `2015-09-04-2015-09-communal-individual-present-html.md` — 389w
+- 2015-08-25 — [Book Review: Dark Star Safari by Paul Theroux](https://casnocha.com/2015/08/review-safari-theroux.html) — `2015-08-25-2015-08-review-safari-theroux-html.md` — 795w
+- 2015-08-17 — [Visiting the Balkan Ghosts](https://casnocha.com/2015/08/visiting-balkan-ghosts.html) — `2015-08-17-2015-08-visiting-balkan-ghosts-html.md` — 4969w
+- 2015-08-02 — [Poem of the Day by Billy Collins](https://casnocha.com/2015/08/poem-billy-collins.html) — `2015-08-02-2015-08-poem-billy-collins-html.md` — 245w
+- 2015-07-31 — [Impressions from an African Safari](https://casnocha.com/2015/07/impressions-african-safari.html) — `2015-07-31-2015-07-impressions-african-safari-html.md` — 1092w
+- 2015-07-20 — [Examining the U.S.-Germany Relationship](https://casnocha.com/2015/07/examining-germany-relationship.html) — `2015-07-20-2015-07-examining-germany-relationship-html.md` — 1369w
+- 2015-07-16 — [Returning to Zurich](https://casnocha.com/2015/07/returning-to-zurich.html) — `2015-07-16-2015-07-returning-to-zurich-html.md` — 389w
+- 2015-07-05 — [What I’ve Been Reading](https://casnocha.com/2015/07/what-ive-been-reading-18.html) — `2015-07-05-2015-07-what-ive-been-reading-18-html.md` — 248w
+- 2015-06-30 — [Attending Alcoholics Anonymous as a Guest](https://casnocha.com/2015/06/attending-alcoholics-anonymous.html) — `2015-06-30-2015-06-attending-alcoholics-anonymous-html.md` — 869w
+- 2015-06-29 — [Book Short: From Beirut to Jerusalem](https://casnocha.com/2015/06/short-beirut-jerusalem.html) — `2015-06-29-2015-06-short-beirut-jerusalem-html.md` — 302w
+- 2015-06-18 — [Is Tyler Cowen the New Charlie Rose?](https://casnocha.com/2015/06/tyler-cowen-charlie.html) — `2015-06-18-2015-06-tyler-cowen-charlie-html.md` — 581w
+- 2015-05-09 — [Millennials in the Workplace](https://casnocha.com/2015/05/millennials-the-workplace.html) — `2015-05-09-2015-05-millennials-the-workplace-html.md` — 302w
+- 2015-05-03 — [Turkey: Impressions and Lessons](https://casnocha.com/2015/05/turkey-impressions-lessons.html) — `2015-05-03-2015-05-turkey-impressions-lessons-html.md` — 1552w
+- 2015-04-18 — [Blurring the Professional and Personal Lines at Work](https://casnocha.com/2015/04/blurring-professional-personal.html) — `2015-04-18-2015-04-blurring-professional-personal-html.md` — 777w
+- 2015-04-17 — [What Possessors of Maxims and Scriptures Can Teach Us](https://casnocha.com/2015/04/possessors-maxims-scriptures.html) — `2015-04-17-2015-04-possessors-maxims-scriptures-html.md` — 315w
+- 2015-04-12 — [Strengths and Weaknesses Are Connected](https://casnocha.com/2015/04/strengths-weaknesses-connected.html) — `2015-04-12-2015-04-strengths-weaknesses-connected-html.md` — 403w
+- 2015-03-28 — [The Dangers of Empathy](https://casnocha.com/2015/03/the-dangers-empathy.html) — `2015-03-28-2015-03-the-dangers-empathy-html.md` — 672w
+- 2015-03-15 — [Book Review: The David Foster Wallace Reader](https://casnocha.com/2015/03/review-wallace-reader.html) — `2015-03-15-2015-03-review-wallace-reader-html.md` — 468w
+- 2015-03-14 — [Book Review: The Unspeakable](https://casnocha.com/2015/03/book-review-unspeakable.html) — `2015-03-14-2015-03-book-review-unspeakable-html.md` — 698w
+- 2015-03-09 — [Markets vs. Central Planners, An On-Going Series](https://casnocha.com/2015/03/markets-central-planners.html) — `2015-03-09-2015-03-markets-central-planners-html.md` — 270w
+- 2015-02-16 — [Book Review: The Path to Power by Robert Caro](https://casnocha.com/2015/02/notes-power-robert.html) — `2015-02-16-2015-02-notes-power-robert-html.md` — 4588w
+- 2015-02-08 — [“Life Will Take Care of the Rest”](https://casnocha.com/2015/02/life-care-rest.html) — `2015-02-08-2015-02-life-care-rest-html.md` — 232w
+- 2015-02-04 — [Travel Reminds You: “This is Just One of Many Possible Worlds”](https://casnocha.com/2015/02/reminds-possible-worlds.html) — `2015-02-04-2015-02-reminds-possible-worlds-html.md` — 428w
+- 2015-01-17 — [Fortune Magazine: Treat Your Career Like a Start-up](https://casnocha.com/2015/01/fortune-magazine-career.html) — `2015-01-17-2015-01-fortune-magazine-career-html.md` — 148w
+- 2015-01-04 — [Experiencing Hawaii for the First Time](https://casnocha.com/2015/01/experiencing-hawaii-first.html) — `2015-01-04-2015-01-experiencing-hawaii-first-html.md` — 191w
+- 2014-12-27 — [Grammar Wars](https://casnocha.com/2014/12/grammar-wars.html) — `2014-12-27-2014-12-grammar-wars-html.md` — 144w
+- 2014-12-25 — [How Michael Lewis Slows Down Time](https://casnocha.com/2014/12/michael-lewis-slows.html) — `2014-12-25-2014-12-michael-lewis-slows-html.md` — 182w
+- 2014-12-17 — [Claims About Childhood](https://casnocha.com/2014/12/claims-about-childhood.html) — `2014-12-17-2014-12-claims-about-childhood-html.md` — 261w
+- 2014-12-07 — [What I’ve Been Reading](https://casnocha.com/2014/12/what-been-reading.html) — `2014-12-07-2014-12-what-been-reading-html.md` — 2045w
+- 2014-12-03 — [The Dead-End Road of Self-Pity](https://casnocha.com/2014/12/road-self-pity.html) — `2014-12-03-2014-12-road-self-pity-html.md` — 144w
+- 2014-11-15 — [The Writing Ability of James Wolcott](https://casnocha.com/2014/11/writing-ability-wolcott.html) — `2014-11-15-2014-11-writing-ability-wolcott-html.md` — 1324w
+- 2014-11-06 — [Questions About Life from Jonathan Safran Foer](https://casnocha.com/2014/11/questions-jonathan-safran.html) — `2014-11-06-2014-11-questions-jonathan-safran-html.md` — 347w
+- 2014-10-29 — [Lessons and Impressions from Korea](https://casnocha.com/2014/10/lessons-impressions-korea.html) — `2014-10-29-2014-10-lessons-impressions-korea-html.md` — 3107w
+- 2014-10-20 — [“Waking Up” and My On-Going Meditation and Buddhism Explorations](https://casnocha.com/2014/10/waking-up-and-my-on-going-meditation-and-buddhism-explorations.html) — `2014-10-20-2014-10-waking-up-and-my-on-going-meditation-and-buddhism-explorations-html.md` — 3277w
+- 2014-10-05 — [What I’ve Been Reading](https://casnocha.com/2014/10/what-ive-been-reading-17.html) — `2014-10-05-2014-10-what-ive-been-reading-17-html.md` — 950w
+- 2014-10-01 — [“Don’t Compare Yourself to Others” – The Envy Problem](https://casnocha.com/2014/10/dont-compare-yourself-to-others-the-envy-problem.html) — `2014-10-01-2014-10-dont-compare-yourself-to-others-the-envy-problem-html.md` — 890w
+- 2014-09-21 — [The Global Talent Crunch](https://casnocha.com/2014/09/the-global-talent-crunch.html) — `2014-09-21-2014-09-the-global-talent-crunch-html.md` — 213w
+- 2014-09-08 — [When Someone Believes in You](https://casnocha.com/2014/09/when-someone-believes-in-you.html) — `2014-09-08-2014-09-when-someone-believes-in-you-html.md` — 1151w
+- 2014-09-06 — [Book Review: Eleven Rings by Phil Jackson](https://casnocha.com/2014/09/book-review-eleven-rings-by-phil-jackson.html) — `2014-09-06-2014-09-book-review-eleven-rings-by-phil-jackson-html.md` — 514w
+- 2014-08-26 — [Unintended Consequences of Messing with Complex Systems](https://casnocha.com/2014/08/unintended-consequences-of-messing-with-complex-systems.html) — `2014-08-26-2014-08-unintended-consequences-of-messing-with-complex-systems-html.md` — 127w
+- 2014-08-20 — [What I’ve Been Reading](https://casnocha.com/2014/08/what-ive-been-reading-16.html) — `2014-08-20-2014-08-what-ive-been-reading-16-html.md` — 422w
+- 2014-08-20 — [Book Review: Stoner by John Williams](https://casnocha.com/2014/08/book-review-stoner-by-john-williams.html) — `2014-08-20-2014-08-book-review-stoner-by-john-williams-html.md` — 1850w
+- 2014-08-08 — [Econtalk on The Alliance and Future of Work](https://casnocha.com/2014/08/econtalk-on-the-alliance-and-future-of-work.html) — `2014-08-08-2014-08-econtalk-on-the-alliance-and-future-of-work-html.md` — 141w
+- 2014-08-07 — [Book Review: Our Story Begins by Tobias Wolff](https://casnocha.com/2014/08/book-review-our-story-begins-by-tobias-wolff.html) — `2014-08-07-2014-08-book-review-our-story-begins-by-tobias-wolff-html.md` — 381w
+- 2014-08-02 — [Movie Review: Boyhood](https://casnocha.com/2014/08/movie-review-boyhood.html) — `2014-08-02-2014-08-movie-review-boyhood-html.md` — 394w
+- 2014-07-21 — [“The Must-Read Book of the Summer”](https://casnocha.com/2014/07/the-must-read-book-of-the-summer.html) — `2014-07-21-2014-07-the-must-read-book-of-the-summer-html.md` — 249w
+- 2014-07-05 — [Your Company is Not a Family](https://casnocha.com/2014/07/your-company-is-not-a-family.html) — `2014-07-05-2014-07-your-company-is-not-a-family-html.md` — 199w
+- 2014-07-05 — [How Do You Get Employees to Open Up?](https://casnocha.com/2014/07/how-do-you-get-employees-to-open-up.html) — `2014-07-05-2014-07-how-do-you-get-employees-to-open-up-html.md` — 458w
+- 2014-06-28 — [Impressions of Italy, 2014 Edition](https://casnocha.com/2014/06/impressions-of-italy-2014-edition.html) — `2014-06-28-2014-06-impressions-of-italy-2014-edition-html.md` — 430w
+- 2014-06-15 — [Network Literacy in the Networked Age](https://casnocha.com/2014/06/network-literacy-in-the-networked-age.html) — `2014-06-15-2014-06-network-literacy-in-the-networked-age-html.md` — 1648w
+- 2014-06-01 — [He Was Himself. And He Knew What He Had Been.](https://casnocha.com/2014/06/he-was-himself-and-he-knew-what-he-had-been.html) — `2014-06-01-2014-06-he-was-himself-and-he-knew-what-he-had-been-html.md` — 459w
+- 2014-05-20 — [My New Book — The Alliance: Managing Talent in the Networked Age](https://casnocha.com/2014/05/my-new-book-the-alliance-managing-talent-in-the-networked-age.html) — `2014-05-20-2014-05-my-new-book-the-alliance-managing-talent-in-the-networked-age-html.md` — 360w
+- 2014-05-13 — [The College Premium](https://casnocha.com/2014/05/the-college-premium.html) — `2014-05-13-2014-05-the-college-premium-html.md` — 312w
+- 2014-04-28 — [RIP Seth Roberts](https://casnocha.com/2014/04/rip-seth-roberts.html) — `2014-04-28-2014-04-rip-seth-roberts-html.md` — 223w
+- 2014-04-21 — [Book Review: Floating City by Sudhir Venkatesh](https://casnocha.com/2014/04/book-review-floating-city-by-sudhir-venkatesh.html) — `2014-04-21-2014-04-book-review-floating-city-by-sudhir-venkatesh-html.md` — 783w
+- 2014-04-18 — [Is Employee Job Tenure Really Shortening? (Yes, It Is)](https://casnocha.com/2014/04/is-employee-job-tenure-really-shortening-yes-it-is.html) — `2014-04-18-2014-04-is-employee-job-tenure-really-shortening-yes-it-is-html.md` — 392w
+- 2014-04-14 — [My Favorite Podcast: The Always-Enlightening EconTalk](https://casnocha.com/2014/04/my-favorite-podcast-the-always-enlightening-econtalk.html) — `2014-04-14-2014-04-my-favorite-podcast-the-always-enlightening-econtalk-html.md` — 1731w
+- 2014-03-24 — [2 AM Friends](https://casnocha.com/2014/03/2-am-friends.html) — `2014-03-24-2014-03-2-am-friends-html.md` — 581w
+- 2014-03-18 — [Happiness vs. Meaning, Continued](https://casnocha.com/2014/03/happiness-vs-meaning-continued.html) — `2014-03-18-2014-03-happiness-vs-meaning-continued-html.md` — 595w
+- 2014-03-09 — [Felix Salmon on the Economics of Online Content](https://casnocha.com/2014/03/felix-salmon-on-the-economics-of-online-content.html) — `2014-03-09-2014-03-felix-salmon-on-the-economics-of-online-content-html.md` — 1863w
+- 2014-03-03 — [Pursuing Happiness or Meaning in a Career](https://casnocha.com/2014/03/pursuing-happiness-or-meaning-in-a-career.html) — `2014-03-03-2014-03-pursuing-happiness-or-meaning-in-a-career-html.md` — 527w
+- 2014-02-17 — [Impressions of Dubai](https://casnocha.com/2014/02/impressions-of-dubai.html) — `2014-02-17-2014-02-impressions-of-dubai-html.md` — 317w
+- 2014-02-10 — [What To Do If You Worry Too Much](https://casnocha.com/2014/02/what-to-do-if-you-worry-too-much.html) — `2014-02-10-2014-02-what-to-do-if-you-worry-too-much-html.md` — 274w
+- 2014-02-06 — [Teamwork Wins in Real World, But School Teaches the Opposite](https://casnocha.com/2014/02/teamwork-wins-in-real-world-but-school-teaches-the-opposite.html) — `2014-02-06-2014-02-teamwork-wins-in-real-world-but-school-teaches-the-opposite-html.md` — 708w
+- 2014-02-02 — [What I’ve Been Reading](https://casnocha.com/2014/02/what-ive-been-reading-15.html) — `2014-02-02-2014-02-what-ive-been-reading-15-html.md` — 1651w
+- 2014-01-29 — [Studying One’s Own Work for Imperfections](https://casnocha.com/2014/01/studying-ones-own-work-for-imperfections.html) — `2014-01-29-2014-01-studying-ones-own-work-for-imperfections-html.md` — 216w
+- 2014-01-24 — [Ben Franklin Didn’t Like the Choice of Bald Eagle](https://casnocha.com/2014/01/ben-franklin-didnt-like-the-choice-of-bald-eagle.html) — `2014-01-24-2014-01-ben-franklin-didnt-like-the-choice-of-bald-eagle-html.md` — 123w
+- 2014-01-13 — [Book Review: How to Get Filthy Rich in Rising Asia](https://casnocha.com/2014/01/book-review-how-to-get-filthy-rich-in-rising-asia.html) — `2014-01-13-2014-01-book-review-how-to-get-filthy-rich-in-rising-asia-html.md` — 953w
+- 2014-01-10 — [Life is Not a Highlight Reel](https://casnocha.com/2014/01/life-is-not-a-highlight-reel.html) — `2014-01-10-2014-01-life-is-not-a-highlight-reel-html.md` — 568w
+- 2014-01-07 — [The Secret Life of Walter Mitty](https://casnocha.com/2014/01/the-secret-life-of-walter-mitty.html) — `2014-01-07-2014-01-the-secret-life-of-walter-mitty-html.md` — 336w
+- 2014-01-05 — [Books: “Average is Over” and “The Second Machine Age”](https://casnocha.com/2014/01/books-average-is-over-and-the-second-machine-age.html) — `2014-01-05-2014-01-books-average-is-over-and-the-second-machine-age-html.md` — 210w
+- 2013-12-18 — [If You’re Hot and Smart You Can’t Be…](https://casnocha.com/2013/12/if-youre-hot-and-smart-you-cant-be.html) — `2013-12-18-2013-12-if-youre-hot-and-smart-you-cant-be-html.md` — 135w
+- 2013-12-02 — [Visiting the Panama Canal](https://casnocha.com/2013/12/visiting-the-panama-canal.html) — `2013-12-02-2013-12-visiting-the-panama-canal-html.md` — 4010w
+- 2013-11-25 — [Book Review: Antifragile: Things That Gain from Disorder](https://casnocha.com/2013/11/book-review-antifragile-things-that-gain-from-disorder.html) — `2013-11-25-2013-11-book-review-antifragile-things-that-gain-from-disorder-html.md` — 5893w
+- 2013-11-10 — [Reciprocity and Lust, Built Into Our Brains](https://casnocha.com/2013/11/reciprocity-and-lust-built-into-our-brains.html) — `2013-11-10-2013-11-reciprocity-and-lust-built-into-our-brains-html.md` — 222w
+- 2013-11-09 — [How One of Twitter’s Largest Shareholders Launched His Career](https://casnocha.com/2013/11/how-one-of-twitters-largest-shareholders-launched-his-career.html) — `2013-11-09-2013-11-how-one-of-twitters-largest-shareholders-launched-his-career-html.md` — 466w
+- 2013-10-31 — [Practice vs. Practice That Leads to Refinement](https://casnocha.com/2013/10/practice-vs-practice-that-leads-to-refinement.html) — `2013-10-31-2013-10-practice-vs-practice-that-leads-to-refinement-html.md` — 545w
+- 2013-10-22 — [Nassim Taleb on Living in the City vs. Country/Nature](https://casnocha.com/2013/10/nassim-taleb-on-living-in-the-city-vs-countrynature.html) — `2013-10-22-2013-10-nassim-taleb-on-living-in-the-city-vs-countrynature-html.md` — 325w
+- 2013-10-20 — [Who Today is Driving a Herd of Symbolic Bulls Through the Gardens of Convention?](https://casnocha.com/2013/10/who-today-is-driving-a-herd-of-symbolic-bulls-through-the-gardens-of-convention.html) — `2013-10-20-2013-10-who-today-is-driving-a-herd-of-symbolic-bulls-through-the-gardens-of-con.md` — 192w
+- 2013-10-13 — [Book Review: In the Plex by Steven Levy](https://casnocha.com/2013/10/book-review-in-the-plex-by-steven-levy.html) — `2013-10-13-2013-10-book-review-in-the-plex-by-steven-levy-html.md` — 1363w
+- 2013-10-08 — [The Materialism Trap](https://casnocha.com/2013/10/the-materialism-trap.html) — `2013-10-08-2013-10-the-materialism-trap-html.md` — 200w
+- 2013-10-01 — [Why Older People Fire Friends More Aggressively](https://casnocha.com/2013/10/why-older-people-fire-friends-more-aggressively.html) — `2013-10-01-2013-10-why-older-people-fire-friends-more-aggressively-html.md` — 418w
+- 2013-09-22 — [India for a Second Time](https://casnocha.com/2013/09/india-for-a-second-time.html) — `2013-09-22-2013-09-india-for-a-second-time-html.md` — 1496w
+- 2013-09-16 — [Disrupting the Diploma](https://casnocha.com/2013/09/disrupting-the-diploma.html) — `2013-09-16-2013-09-disrupting-the-diploma-html.md` — 474w
+- 2013-09-09 — [Number of Job Openings Go Up; Actual Hiring Not So Much](https://casnocha.com/2013/09/number-of-job-openings-go-up-actual-hiring-not-so-much.html) — `2013-09-09-2013-09-number-of-job-openings-go-up-actual-hiring-not-so-much-html.md` — 358w
+- 2013-09-04 — [Left-Handedness With a Touch of Righty](https://casnocha.com/2013/09/left-handedness-with-a-touch-of-righty.html) — `2013-09-04-2013-09-left-handedness-with-a-touch-of-righty-html.md` — 943w
+- 2013-08-28 — [Book Review: Breath by Breath](https://casnocha.com/2013/08/book-review-breath-by-breath.html) — `2013-08-28-2013-08-book-review-breath-by-breath-html.md` — 335w
+- 2013-08-23 — [The Beautiful vs. Sublime, Instagram Edition](https://casnocha.com/2013/08/the-beautiful-vs-sublime-instagram-edition.html) — `2013-08-23-2013-08-the-beautiful-vs-sublime-instagram-edition-html.md` — 262w
+- 2013-08-20 — [The Problem With Walking Meetings](https://casnocha.com/2013/08/the-problem-with-walking-meetings.html) — `2013-08-20-2013-08-the-problem-with-walking-meetings-html.md` — 761w
+- 2013-08-14 — [Quiet Celebrations](https://casnocha.com/2013/08/quiet-celebrations.html) — `2013-08-14-2013-08-quiet-celebrations-html.md` — 442w
+- 2013-08-09 — [Book Review: Help! by Oliver Burkeman](https://casnocha.com/2013/08/book-review-help-by-oliver-burkeman.html) — `2013-08-09-2013-08-book-review-help-by-oliver-burkeman-html.md` — 923w
+- 2013-08-06 — [Would You Rather Enjoy Today, or Have Great Memories Tomorrow and Forever?](https://casnocha.com/2013/08/would-you-rather-enjoy-today-or-have-great-memories-tomorrow-and-forever.html) — `2013-08-06-2013-08-would-you-rather-enjoy-today-or-have-great-memories-tomorrow-and-forever.md` — 1173w
+- 2013-08-02 — [What Questions Are You Thinking About?](https://casnocha.com/2013/08/what-questions-are-you-thinking-about.html) — `2013-08-02-2013-08-what-questions-are-you-thinking-about-html.md` — 246w
+- 2013-07-27 — [What I’ve Been Reading](https://casnocha.com/2013/07/what-ive-been-reading-14.html) — `2013-07-27-2013-07-what-ive-been-reading-14-html.md` — 941w
+- 2013-07-22 — [The Power of the Word “Yet”](https://casnocha.com/2013/07/the-power-of-the-word-yet.html) — `2013-07-22-2013-07-the-power-of-the-word-yet-html.md` — 301w
+- 2013-07-20 — [We Flit About Joyfully in the Light](https://casnocha.com/2013/07/we-flit-about-joyfully-in-the-light.html) — `2013-07-20-2013-07-we-flit-about-joyfully-in-the-light-html.md` — 173w
+- 2013-07-15 — [Knowledge & Networks Enabling More Youth Entrepreneurship](https://casnocha.com/2013/07/knowledge-networks-enabling-more-youth-entrepreneurship.html) — `2013-07-15-2013-07-knowledge-networks-enabling-more-youth-entrepreneurship-html.md` — 996w
+- 2013-07-10 — [Book Review: Sum by David Eagleman](https://casnocha.com/2013/07/book-review-sum-by-david-eagleman.html) — `2013-07-10-2013-07-book-review-sum-by-david-eagleman-html.md` — 240w
+- 2013-07-03 — [Experts Take Notes.](https://casnocha.com/2013/07/experts-take-notes.html) — `2013-07-03-2013-07-experts-take-notes-html.md` — 656w
+- 2013-06-29 — [“Self-Absorption is Actually the Most Boring Game in Town”](https://casnocha.com/2013/06/self-absorption-is-actually-the-most-boring-game-in-town.html) — `2013-06-29-2013-06-self-absorption-is-actually-the-most-boring-game-in-town-html.md` — 1418w
+- 2013-06-24 — [Immigration and Tech Leadership](https://casnocha.com/2013/06/immigration-and-tech-leadership.html) — `2013-06-24-2013-06-immigration-and-tech-leadership-html.md` — 176w
+- 2013-06-19 — [Simple Yet Hard, Public Market Investing Edition](https://casnocha.com/2013/06/simple-yet-hard-public-market-investing-edition.html) — `2013-06-19-2013-06-simple-yet-hard-public-market-investing-edition-html.md` — 337w
+- 2013-06-15 — [Learning to Own the Room](https://casnocha.com/2013/06/learning-to-own-the-room.html) — `2013-06-15-2013-06-learning-to-own-the-room-html.md` — 606w
+- 2013-06-12 — [Book Review: The 5 Elements of Effective Thinking](https://casnocha.com/2013/06/book-review-the-5-elements-of-effective-thinking.html) — `2013-06-12-2013-06-book-review-the-5-elements-of-effective-thinking-html.md` — 1597w
+- 2013-05-31 — [Invest in Yourself at the Low End and High End](https://casnocha.com/2013/05/invest-in-yourself-at-the-low-end-and-high-end.html) — `2013-05-31-2013-05-invest-in-yourself-at-the-low-end-and-high-end-html.md` — 661w
+- 2013-05-26 — [You Never Truly Leave High School](https://casnocha.com/2013/05/you-never-truly-leave-high-school.html) — `2013-05-26-2013-05-you-never-truly-leave-high-school-html.md` — 764w
+- 2013-05-23 — [The New Employer-Employee Compact](https://casnocha.com/2013/05/the-new-employer-employee-compact.html) — `2013-05-23-2013-05-the-new-employer-employee-compact-html.md` — 253w
+- 2013-05-20 — [Status and Power Drive Social Dynamics in Business](https://casnocha.com/2013/05/status-and-power-drive-social-dynamics-in-business.html) — `2013-05-20-2013-05-status-and-power-drive-social-dynamics-in-business-html.md` — 1274w
+- 2013-05-11 — [Awe, An On-Going Series](https://casnocha.com/2013/05/awe-an-on-going-series.html) — `2013-05-11-2013-05-awe-an-on-going-series-html.md` — 293w
+- 2013-05-09 — [3 Day Silent Meditation Course](https://casnocha.com/2013/05/3-day-silent-meditation-course.html) — `2013-05-09-2013-05-3-day-silent-meditation-course-html.md` — 904w
+- 2013-04-28 — [“Sadness is a Lucky Thing to Feel”](https://casnocha.com/2013/04/sadness-is-a-lucky-thing-to-feel.html) — `2013-04-28-2013-04-sadness-is-a-lucky-thing-to-feel-html.md` — 313w
+- 2013-04-25 — [How to Improve E-Books](https://casnocha.com/2013/04/how-to-improve-e-books.html) — `2013-04-25-2013-04-how-to-improve-e-books-html.md` — 628w
+- 2013-04-18 — [Book Review: The Antidote by Oliver Burkeman](https://casnocha.com/2013/04/book-review-the-antidote-by-oliver-burkeman.html) — `2013-04-18-2013-04-book-review-the-antidote-by-oliver-burkeman-html.md` — 591w
+- 2013-04-11 — [Book Review: The Expats](https://casnocha.com/2013/04/book-review-the-expats.html) — `2013-04-11-2013-04-book-review-the-expats-html.md` — 361w
+- 2013-04-07 — [Subtle Inaccuracies and Reader Trust](https://casnocha.com/2013/04/subtle-inaccuracies-and-reader-trust.html) — `2013-04-07-2013-04-subtle-inaccuracies-and-reader-trust-html.md` — 303w
+- 2013-04-05 — [Quick Impressions of Paris, 2013 Edition](https://casnocha.com/2013/04/quick-impressions-of-paris-2013-edition.html) — `2013-04-05-2013-04-quick-impressions-of-paris-2013-edition-html.md` — 248w
+- 2013-03-21 — [The Skill Developed in Meditation](https://casnocha.com/2013/03/the-skill-developed-in-meditation.html) — `2013-03-21-2013-03-the-skill-developed-in-meditation-html.md` — 499w
+- 2013-03-18 — [Audiobook Review: This is How You Lose Her](https://casnocha.com/2013/03/audiobook-review-this-is-how-you-lose-her.html) — `2013-03-18-2013-03-audiobook-review-this-is-how-you-lose-her-html.md` — 228w
+- 2013-03-14 — [How Busy People Find Time to Think Deeply](https://casnocha.com/2013/03/how-busy-people-find-time-to-think-deeply.html) — `2013-03-14-2013-03-how-busy-people-find-time-to-think-deeply-html.md` — 544w
+- 2013-03-10 — [What I’ve Been Reading](https://casnocha.com/2013/03/what-ive-been-reading-13.html) — `2013-03-10-2013-03-what-ive-been-reading-13-html.md` — 728w
+- 2013-03-07 — [Growth by Learning: Does Progress Accelerate with Mastery?](https://casnocha.com/2013/03/growth-by-learning-does-progress-accelerate-with-mastery.html) — `2013-03-07-2013-03-growth-by-learning-does-progress-accelerate-with-mastery-html.md` — 373w
+- 2013-02-26 — [“What Would I Need to Believe For This to Be the Right Decision?”](https://casnocha.com/2013/02/what-would-i-need-to-believe-for-this-to-be-the-right-decision.html) — `2013-02-26-2013-02-what-would-i-need-to-believe-for-this-to-be-the-right-decision-html.md` — 184w
+- 2013-02-19 — [Book Review: The Best American Essays of 2012](https://casnocha.com/2013/02/book-review-the-best-american-essays-of-2012.html) — `2013-02-19-2013-02-book-review-the-best-american-essays-of-2012-html.md` — 409w
+- 2013-02-13 — [The Order of the Paragraphs](https://casnocha.com/2013/02/the-order-of-the-paragraphs.html) — `2013-02-13-2013-02-the-order-of-the-paragraphs-html.md` — 173w
+- 2013-02-07 — [Meditation, Six Months Later](https://casnocha.com/2013/02/meditation-six-months-later.html) — `2013-02-07-2013-02-meditation-six-months-later-html.md` — 1396w
+- 2013-02-02 — [Regrets Caused by Action vs. Inaction](https://casnocha.com/2013/02/regrets-caused-by-action-vs-inaction.html) — `2013-02-02-2013-02-regrets-caused-by-action-vs-inaction-html.md` — 347w
+- 2013-01-30 — [The Writer For Our Time?](https://casnocha.com/2013/01/the-writer-for-our-time.html) — `2013-01-30-2013-01-the-writer-for-our-time-html.md` — 442w
+- 2013-01-22 — [Founders Hiring “Professional” CEOs to Run Their Company](https://casnocha.com/2013/01/founders-hiring-professional-ceos-to-run-their-company.html) — `2013-01-22-2013-01-founders-hiring-professional-ceos-to-run-their-company-html.md` — 270w
+- 2013-01-20 — [With Whom Are You Comfortable Sharing Your Shitty First Draft?](https://casnocha.com/2013/01/with-whom-are-you-comfortable-sharing-your-shitty-first-draft.html) — `2013-01-20-2013-01-with-whom-are-you-comfortable-sharing-your-shitty-first-draft-html.md` — 361w
+- 2013-01-12 — [Book Notes: Religion for Atheists](https://casnocha.com/2013/01/book-notes-religion-for-atheists.html) — `2013-01-12-2013-01-book-notes-religion-for-atheists-html.md` — 1315w
+- 2013-01-12 — [Aaron Swartz: He Inspired Me to Think in Public](https://casnocha.com/2013/01/aaron-swartz-he-inspired-me-to-think-in-public.html) — `2013-01-12-2013-01-aaron-swartz-he-inspired-me-to-think-in-public-html.md` — 324w
+- 2013-01-10 — [Being Behind, Effort, and Comparing Yourself](https://casnocha.com/2013/01/being-behind-effort-and-comparing-yourself.html) — `2013-01-10-2013-01-being-behind-effort-and-comparing-yourself-html.md` — 520w
+- 2012-12-28 — [Book Notes: What Technology Wants](https://casnocha.com/2012/12/book-notes-what-technology-wants.html) — `2012-12-28-2012-12-book-notes-what-technology-wants-html.md` — 5295w
+- 2012-12-17 — [Book Review: Freedom by Jonathan Franzen](https://casnocha.com/2012/12/book-review-freedom-by-jonathan-franzen.html) — `2012-12-17-2012-12-book-review-freedom-by-jonathan-franzen-html.md` — 952w
+- 2012-12-10 — [How Large Is Your Network? What Does Dunbar’s Number Really Mean?](https://casnocha.com/2012/12/how-large-is-your-network-what-does-dunbars-number-really-mean.html) — `2012-12-10-2012-12-how-large-is-your-network-what-does-dunbars-number-really-mean-html.md` — 751w
+- 2012-12-03 — [You Don’t Need to Be Nomadic to Be Focused](https://casnocha.com/2012/12/you-dont-need-to-be-nomadic-to-be-focused.html) — `2012-12-03-2012-12-you-dont-need-to-be-nomadic-to-be-focused-html.md` — 602w
+- 2012-11-26 — [Bezos’s Insistence on Full Narrative Prose](https://casnocha.com/2012/11/bezoss-insistence-on-full-narrative-prose.html) — `2012-11-26-2012-11-bezoss-insistence-on-full-narrative-prose-html.md` — 307w
+- 2012-11-21 — [Writing = Thinking, Jeff Bezos Edition](https://casnocha.com/2012/11/writing-thinking-jeff-bezos-edition.html) — `2012-11-21-2012-11-writing-thinking-jeff-bezos-edition-html.md` — 249w
+- 2012-11-19 — [Colin Marshall and Ben In Conversation](https://casnocha.com/2012/11/colin-marshall-and-ben-in-conversation.html) — `2012-11-19-2012-11-colin-marshall-and-ben-in-conversation-html.md` — 340w
+- 2012-11-12 — [Why Are We Kind to Strangers?](https://casnocha.com/2012/11/why-are-we-kind-to-strangers.html) — `2012-11-12-2012-11-why-are-we-kind-to-strangers-html.md` — 271w
+- 2012-11-10 — [Relationships Matter, A Never-Ending Series](https://casnocha.com/2012/11/relationships-matter-a-never-ending-series.html) — `2012-11-10-2012-11-relationships-matter-a-never-ending-series-html.md` — 258w
+- 2012-11-05 — [How to Get Useful Feedback on Your Projects: Avoid Like/Dislike](https://casnocha.com/2012/11/how-to-get-useful-feedback-on-your-projects-avoid-likedislike.html) — `2012-11-05-2012-11-how-to-get-useful-feedback-on-your-projects-avoid-likedislike-html.md` — 437w
+- 2012-10-29 — [When People Remind You of Your Younger Self…](https://casnocha.com/2012/10/when-people-remind-you-of-your-younger-self.html) — `2012-10-29-2012-10-when-people-remind-you-of-your-younger-self-html.md` — 145w
+- 2012-10-21 — [You Learn From People Who Mostly Agree With You](https://casnocha.com/2012/10/you-learn-from-people-who-mostly-agree-with-you.html) — `2012-10-21-2012-10-you-learn-from-people-who-mostly-agree-with-you-html.md` — 464w
+- 2012-10-15 — [So Much Better Than Yours That You Hug Criticisms of It In Self-Defense](https://casnocha.com/2012/10/so-much-better-than-yours-that-you-hug-criticisms-of-it-in-self-defense.html) — `2012-10-15-2012-10-so-much-better-than-yours-that-you-hug-criticisms-of-it-in-self-defense-.md` — 246w
+- 2012-10-09 — [When to Obsessively Focus and When to Court Serendipity](https://casnocha.com/2012/10/when-to-obsessively-focus-and-when-to-court-serendipity.html) — `2012-10-09-2012-10-when-to-obsessively-focus-and-when-to-court-serendipity-html.md` — 438w
+- 2012-10-02 — [Faith, Community, and Friendship](https://casnocha.com/2012/10/faith-community-and-friendship.html) — `2012-10-02-2012-10-faith-community-and-friendship-html.md` — 662w
+- 2012-09-27 — [Book Review: Startup Communities](https://casnocha.com/2012/09/book-review-startup-communities.html) — `2012-09-27-2012-09-book-review-startup-communities-html.md` — 351w
+- 2012-09-23 — [Book Review: Why We Get Fat](https://casnocha.com/2012/09/book-review-why-we-get-fat.html) — `2012-09-23-2012-09-book-review-why-we-get-fat-html.md` — 564w
+- 2012-09-18 — [Book Review: So Good They Can’t Ignore You](https://casnocha.com/2012/09/book-review-so-good-they-cant-ignore-you.html) — `2012-09-18-2012-09-book-review-so-good-they-cant-ignore-you-html.md` — 488w
+- 2012-09-13 — [Getting Feedback: Diagnosis and Remedy Are Different Things](https://casnocha.com/2012/09/getting-feedback-diagnosis-and-remedy-are-different-things.html) — `2012-09-13-2012-09-getting-feedback-diagnosis-and-remedy-are-different-things-html.md` — 282w
+- 2012-09-09 — [Admiring Excellence, An Ongoing Series](https://casnocha.com/2012/09/admiring-excellence-an-on-going-series.html) — `2012-09-09-2012-09-admiring-excellence-an-on-going-series-html.md` — 528w
+- 2012-08-27 — [Bootcamp Model of Learning](https://casnocha.com/2012/08/bootcamp-model-of-learning.html) — `2012-08-27-2012-08-bootcamp-model-of-learning-html.md` — 499w
+- 2012-08-21 — [The Wisdom in India](https://casnocha.com/2012/08/the-wisdom-in-india.html) — `2012-08-21-2012-08-the-wisdom-in-india-html.md` — 124w
+- 2012-08-11 — [Political IQ is Like “Overall Athleticism” and “Court Vision”](https://casnocha.com/2012/08/political-iq-is-like-overall-athleticism-and-court-vision.html) — `2012-08-11-2012-08-political-iq-is-like-overall-athleticism-and-court-vision-html.md` — 347w
+- 2012-08-04 — [What I’ve Been Reading](https://casnocha.com/2012/08/what-ive-been-reading-12.html) — `2012-08-04-2012-08-what-ive-been-reading-12-html.md` — 519w
+- 2012-08-01 — [Reflections and Impressions from a 10-Day Meditation Course](https://casnocha.com/2012/08/reflections-and-impressions-from-a-10-day-meditation-course.html) — `2012-08-01-2012-08-reflections-and-impressions-from-a-10-day-meditation-course-html.md` — 2897w
+- 2012-07-18 — [Something I Think I Could Fail At: 10 Day Silent Meditation Program](https://casnocha.com/2012/07/something-i-think-i-could-fail-at-10-day-silent-meditation-program.html) — `2012-07-18-2012-07-something-i-think-i-could-fail-at-10-day-silent-meditation-program-html.md` — 448w
+- 2012-07-16 — [Passive Gentleness vs. The Goodness of Being Able to Act in the World](https://casnocha.com/2012/07/passive-gentleness-vs-the-goodness-of-being-able-to-act-in-the-world.html) — `2012-07-16-2012-07-passive-gentleness-vs-the-goodness-of-being-able-to-act-in-the-world-htm.md` — 253w
+- 2012-07-12 — [Start-Up of You Student Fellowship](https://casnocha.com/2012/07/start-up-of-you-student-fellowship.html) — `2012-07-12-2012-07-start-up-of-you-student-fellowship-html.md` — 161w
+- 2012-07-09 — [Mexico’s New President and the War on Drugs](https://casnocha.com/2012/07/mexicos-new-president-and-the-war-on-drugs.html) — `2012-07-09-2012-07-mexicos-new-president-and-the-war-on-drugs-html.md` — 419w
+- 2012-07-05 — [The Fragility of Health](https://casnocha.com/2012/07/the-fragility-of-health.html) — `2012-07-05-2012-07-the-fragility-of-health-html.md` — 188w
+- 2012-06-30 — [Book Notes: An Economist Gets Lunch](https://casnocha.com/2012/06/book-notes-an-economist-gets-lunch.html) — `2012-06-30-2012-06-book-notes-an-economist-gets-lunch-html.md` — 2912w
+- 2012-06-26 — [What I’ve Been Reading](https://casnocha.com/2012/06/what-ive-been-reading-11.html) — `2012-06-26-2012-06-what-ive-been-reading-11-html.md` — 391w
+- 2012-06-18 — [What’s Driving Class Bifurcation?](https://casnocha.com/2012/06/whats-driving-class-bifurcation.html) — `2012-06-18-2012-06-whats-driving-class-bifurcation-html.md` — 316w
+- 2012-06-15 — [How to Take Intelligent Risk and Become Resilient to Anything](https://casnocha.com/2012/06/how-to-take-intelligent-risk-and-become-resilient-to-anything.html) — `2012-06-15-2012-06-how-to-take-intelligent-risk-and-become-resilient-to-anything-html.md` — 202w
+- 2012-06-12 — [Book Review: Willpower: Rediscovering the Greatest Human Strength](https://casnocha.com/2012/06/book-review-willpower-rediscovering-the-greatest-human-strength.html) — `2012-06-12-2012-06-book-review-willpower-rediscovering-the-greatest-human-strength-html.md` — 374w
+- 2012-06-08 — [The Privilege of Standing in an Airport Security Line](https://casnocha.com/2012/06/the-privilege-of-standing-in-an-airport-security-line.html) — `2012-06-08-2012-06-the-privilege-of-standing-in-an-airport-security-line-html.md` — 503w
+- 2012-06-04 — [How to Make Past Experiences Meaningful](https://casnocha.com/2012/06/how-to-make-past-experiences-meaningful.html) — `2012-06-04-2012-06-how-to-make-past-experiences-meaningful-html.md` — 387w
+- 2012-05-30 — [“I Want Some Nasty”](https://casnocha.com/2012/05/i-want-some-nasty.html) — `2012-05-30-2012-05-i-want-some-nasty-html.md` — 226w
+- 2012-05-21 — [Mike Moritz is Chasing Daylight — The Adjustments He’s Making As a Result](https://casnocha.com/2012/05/mike-moritz-is-chasing-daylight-the-adjustments-hes-making-as-a-result.html) — `2012-05-21-2012-05-mike-moritz-is-chasing-daylight-the-adjustments-hes-making-as-a-result-h.md` — 268w
+- 2012-05-17 — [Quick Impressions of Italy, 2012 Edition](https://casnocha.com/2012/05/quick-impressions-of-italy-2012-edition.html) — `2012-05-17-2012-05-quick-impressions-of-italy-2012-edition-html.md` — 358w
+- 2012-05-15 — [If You Could Be Brutally Honest With Your SO, What Would You Say?](https://casnocha.com/2012/05/if-you-could-be-brutally-honest-with-your-so-what-would-you-say.html) — `2012-05-15-2012-05-if-you-could-be-brutally-honest-with-your-so-what-would-you-say-html.md` — 495w
+- 2012-05-11 — [The Loneliness That Should Worry Us](https://casnocha.com/2012/05/the-loneliness-that-should-worry-us.html) — `2012-05-11-2012-05-the-loneliness-that-should-worry-us-html.md` — 173w
+- 2012-05-06 — [Start-Up of You: Odds and Ends](https://casnocha.com/2012/05/start-up-of-you-odds-and-ends.html) — `2012-05-06-2012-05-start-up-of-you-odds-and-ends-html.md` — 307w
+- 2012-05-01 — [People Don’t Want to Be Blamed for Giving Bad Advice](https://casnocha.com/2012/05/people-dont-want-to-be-blamed-for-giving-bad-advice.html) — `2012-05-01-2012-05-people-dont-want-to-be-blamed-for-giving-bad-advice-html.md` — 496w
+- 2012-04-26 — [Clear Eyes, Full Hearts, Can’t Lose](https://casnocha.com/2012/04/clear-eyes-full-hearts-cant-lose.html) — `2012-04-26-2012-04-clear-eyes-full-hearts-cant-lose-html.md` — 615w
+- 2012-04-20 — [The Sweep of Nostalgia](https://casnocha.com/2012/04/the-sweep-of-nostalgia.html) — `2012-04-20-2012-04-the-sweep-of-nostalgia-html.md` — 599w
+- 2012-04-16 — [The Upside of Taking a Chance](https://casnocha.com/2012/04/the-upside-of-taking-a-chance.html) — `2012-04-16-2012-04-the-upside-of-taking-a-chance-html.md` — 183w
+- 2012-04-10 — [Book Short: Creative Capitalism by Michael Kinsley](https://casnocha.com/2012/04/book-short-creative-capitalism-by-michael-kinsley.html) — `2012-04-10-2012-04-book-short-creative-capitalism-by-michael-kinsley-html.md` — 218w
+- 2012-04-06 — [Quick Impressions of Qatar](https://casnocha.com/2012/04/quick-impressions-of-qatar.html) — `2012-04-06-2012-04-quick-impressions-of-qatar-html.md` — 613w
+- 2012-04-01 — [Rahm Emanuel’s Ideas for Improving Higher Ed](https://casnocha.com/2012/04/rahm-emanuels-ideas-for-improving-higher-ed.html) — `2012-04-01-2012-04-rahm-emanuels-ideas-for-improving-higher-ed-html.md` — 359w
+- 2012-03-30 — [Steve Jobs Focused on Network Intelligence](https://casnocha.com/2012/03/steve-jobs-focused-on-network-intelligence.html) — `2012-03-30-2012-03-steve-jobs-focused-on-network-intelligence-html.md` — 430w
+- 2012-03-27 — [Free Webcast Thursday Night](https://casnocha.com/2012/03/free-webcast-thursday-night.html) — `2012-03-27-2012-03-free-webcast-thursday-night-html.md` — 137w
+- 2012-03-23 — [Build On Your *Underlying* Strengths When Adapting](https://casnocha.com/2012/03/build-on-your-underlying-strengths-when-adapting.html) — `2012-03-23-2012-03-build-on-your-underlying-strengths-when-adapting-html.md` — 352w
+- 2012-03-20 — [To Live Unseduced by Media Sirens and the Gleam of Envy in Others’ Eyes](https://casnocha.com/2012/03/to-live-unseduced-by-media-sirens-and-the-gleam-of-envy-in-others-eyes.html) — `2012-03-20-2012-03-to-live-unseduced-by-media-sirens-and-the-gleam-of-envy-in-others-eyes-h.md` — 287w
+- 2012-03-18 — [Oprah and Charlie Rose Are in Permanent Beta](https://casnocha.com/2012/03/oprah-and-charlie-rose-are-in-permanent-beta.html) — `2012-03-18-2012-03-oprah-and-charlie-rose-are-in-permanent-beta-html.md` — 202w
+- 2012-03-14 — [Appearing on Charlie Rose](https://casnocha.com/2012/03/appearing-on-charlie-rose.html) — `2012-03-14-2012-03-appearing-on-charlie-rose-html.md` — 168w
+- 2012-03-05 — [A Couple Weeks After Liftoff…](https://casnocha.com/2012/03/a-couple-weeks-after-liftoff.html) — `2012-03-05-2012-03-a-couple-weeks-after-liftoff-html.md` — 365w
+- 2012-03-02 — [Have Heroes Outside Your Industry](https://casnocha.com/2012/03/have-heroes-outside-your-industry.html) — `2012-03-02-2012-03-have-heroes-outside-your-industry-html.md` — 138w
+- 2012-02-25 — [Individual Competitiveness –> National Competitiveness](https://casnocha.com/2012/02/individual-competitiveness-national-competitiveness.html) — `2012-02-25-2012-02-individual-competitiveness-national-competitiveness-html.md` — 405w
+- 2012-02-20 — [Reading in Print vs. Electronic](https://casnocha.com/2012/02/reading-in-print-vs-electronic.html) — `2012-02-20-2012-02-reading-in-print-vs-electronic-html.md` — 146w
+- 2012-02-13 — [Book Reviews From Our Book Giveaway](https://casnocha.com/2012/02/book-reviews-from-our-book-giveaway.html) — `2012-02-13-2012-02-book-reviews-from-our-book-giveaway-html.md` — 439w
+- 2012-02-05 — [Notes from Books About Jobs and Work](https://casnocha.com/2012/02/notes-from-books-about-jobs-and-work.html) — `2012-02-05-2012-02-notes-from-books-about-jobs-and-work-html.md` — 479w
+- 2012-01-31 — [May the Muses Embrace You](https://casnocha.com/2012/01/may-the-muses-embrace-you.html) — `2012-01-31-2012-01-may-the-muses-embrace-you-html.md` — 273w
+- 2012-01-28 — [Fortune Excerpt on Networks and Relationships](https://casnocha.com/2012/01/fortune-excerpt-on-networks-and-relationships.html) — `2012-01-28-2012-01-fortune-excerpt-on-networks-and-relationships-html.md` — 449w
+- 2012-01-24 — [The Jammed Career Escalator: Old Premises, New Realities](https://casnocha.com/2012/01/the-jammed-career-escalator-old-premises-new-realities.html) — `2012-01-24-2012-01-the-jammed-career-escalator-old-premises-new-realities-html.md` — 1751w
+- 2012-01-21 — [When Talent Can Easily Find New Opportunity, How Do You Retain Talent?](https://casnocha.com/2012/01/when-talent-can-easily-find-new-opportunity-how-do-you-retain-talent.html) — `2012-01-21-2012-01-when-talent-can-easily-find-new-opportunity-how-do-you-retain-talent-htm.md` — 928w
+- 2012-01-17 — [Pre-Order The Start-Up of You](https://casnocha.com/2012/01/pre-order-the-start-up-of-you.html) — `2012-01-17-2012-01-pre-order-the-start-up-of-you-html.md` — 368w
+- 2012-01-16 — [One Earth](https://casnocha.com/2012/01/one-earth.html) — `2012-01-16-2012-01-one-earth-html.md` — 170w
+- 2012-01-14 — [U.S. Foreign Policy in the Middle East and China](https://casnocha.com/2012/01/foreign-policy-middle-east-and-china.html) — `2012-01-14-2012-01-foreign-policy-middle-east-and-china-html.md` — 571w
+- 2012-01-10 — [“I’m Not as Smart as I Thought I Was”](https://casnocha.com/2012/01/im-not-as-smart-as-i-thought-i-was.html) — `2012-01-10-2012-01-im-not-as-smart-as-i-thought-i-was-html.md` — 393w
+- 2012-01-07 — [NCAA Student-Athlete Commits to Alabama](https://casnocha.com/2012/01/ncaa-student-athlete-commits-to-alabama.html) — `2012-01-07-2012-01-ncaa-student-athlete-commits-to-alabama-html.md` — 209w
+- 2012-01-05 — [Book Notes: Launching the Innovation Renaissance](https://casnocha.com/2012/01/book-notes-launching-the-innovation-renaissance.html) — `2012-01-05-2012-01-book-notes-launching-the-innovation-renaissance-html.md` — 479w
+- 2012-01-02 — [Book Review: The Art of Fielding](https://casnocha.com/2012/01/book-review-the-art-of-fielding.html) — `2012-01-02-2012-01-book-review-the-art-of-fielding-html.md` — 526w
+- 2011-12-31 — [Book Review: The Rational Optimist](https://casnocha.com/2011/12/book-review-the-rational-optimist.html) — `2011-12-31-2011-12-book-review-the-rational-optimist-html.md` — 1431w
+- 2011-12-28 — [Eat Global, Not Local](https://casnocha.com/2011/12/eat-global-not-local.html) — `2011-12-28-2011-12-eat-global-not-local-html.md` — 283w
+- 2011-12-22 — [When We Tell Ourselves Stories](https://casnocha.com/2011/12/when-we-tell-ourselves-stories.html) — `2011-12-22-2011-12-when-we-tell-ourselves-stories-html.md` — 556w
+- 2011-12-17 — [Selective Excerpting to Reach the Masses](https://casnocha.com/2011/12/selective-excerpting-to-reach-the-masses.html) — `2011-12-17-2011-12-selective-excerpting-to-reach-the-masses-html.md` — 604w
+- 2011-12-12 — [What Doesn’t Kill You Makes You Stronger?](https://casnocha.com/2011/12/what-doesnt-kill-you-makes-you-stronger.html) — `2011-12-12-2011-12-what-doesnt-kill-you-makes-you-stronger-html.md` — 359w
+- 2011-11-26 — [Things Men Will Never Understand About Women](https://casnocha.com/2011/11/things-men-will-never-understand-about-women.html) — `2011-11-26-2011-11-things-men-will-never-understand-about-women-html.md` — 337w
+- 2011-11-12 — [Insiders, Outsiders, and the Invisible Wink](https://casnocha.com/2011/11/insiders-outsiders-and-the-invisible-wink.html) — `2011-11-12-2011-11-insiders-outsiders-and-the-invisible-wink-html.md` — 882w
+- 2011-10-31 — [Everything is on Fire…Slow Fire](https://casnocha.com/2011/10/everything-is-on-fireslow-fire.html) — `2011-10-31-2011-10-everything-is-on-fireslow-fire-html.md` — 453w
+- 2011-10-27 — [What Finance is About](https://casnocha.com/2011/10/what-finance-is-about.html) — `2011-10-27-2011-10-what-finance-is-about-html.md` — 227w
+- 2011-10-24 — [The Effects of Going Off the Grid and Exploring Nature](https://casnocha.com/2011/10/the-effects-of-going-off-the-grid-and-exploring-nature.html) — `2011-10-24-2011-10-the-effects-of-going-off-the-grid-and-exploring-nature-html.md` — 410w
+- 2011-10-17 — [Impressions and Lessons from Greece](https://casnocha.com/2011/10/impressions-and-lessons-from-greece.html) — `2011-10-17-2011-10-impressions-and-lessons-from-greece-html.md` — 1159w
+- 2011-10-14 — [Remembering Steve Jobs](https://casnocha.com/2011/10/remembering-steve-jobs.html) — `2011-10-14-2011-10-remembering-steve-jobs-html.md` — 343w
+- 2011-10-04 — [Book Review: Loyalty by Eric Felten](https://casnocha.com/2011/10/book-review-loyalty-by-eric-felten.html) — `2011-10-04-2011-10-book-review-loyalty-by-eric-felten-html.md` — 809w
+- 2011-09-29 — [Admiring Excellence](https://casnocha.com/2011/09/admiring-excellence.html) — `2011-09-29-2011-09-admiring-excellence-html.md` — 432w
+- 2011-09-22 — [Are Online Reviews Making Brands Irrelevant?](https://casnocha.com/2011/09/are-online-reviews-making-brands-irrelevant.html) — `2011-09-22-2011-09-are-online-reviews-making-brands-irrelevant-html.md` — 492w
+- 2011-09-15 — [Hard-to-Define Jobs Are More Secure](https://casnocha.com/2011/09/hard-to-define-jobs-are-more-secure.html) — `2011-09-15-2011-09-hard-to-define-jobs-are-more-secure-html.md` — 133w
+- 2011-09-12 — [No Such Thing as Different Learning Styles?](https://casnocha.com/2011/09/no-such-thing-as-different-learning-styles.html) — `2011-09-12-2011-09-no-such-thing-as-different-learning-styles-html.md` — 364w
+- 2011-09-03 — [Culture Matters, An On-Going Series](https://casnocha.com/2011/09/culture-matters-an-on-going-series.html) — `2011-09-03-2011-09-culture-matters-an-on-going-series-html.md` — 139w
+- 2011-08-19 — [Continuous, Real-Time, Semi-Structured Feedback Instead of Annual Reviews](https://casnocha.com/2011/08/continuous-real-time-semi-structured-feedback-instead-of-annual-reviews.html) — `2011-08-19-2011-08-continuous-real-time-semi-structured-feedback-instead-of-annual-reviews-.md` — 368w
+- 2011-08-10 — [Unbundling Education: Separate Out the Grading Process](https://casnocha.com/2011/08/unbundling-education-separate-out-the-grading-process.html) — `2011-08-10-2011-08-unbundling-education-separate-out-the-grading-process-html.md` — 889w
+- 2011-08-05 — [Why Might Jobs Not Come Back This Time?](https://casnocha.com/2011/08/why-might-jobs-not-come-back-this-time.html) — `2011-08-05-2011-08-why-might-jobs-not-come-back-this-time-html.md` — 485w
+- 2011-07-13 — [“A New Mindset and Skillset to Compete”](https://casnocha.com/2011/07/an-entirely-new-mindset-and-skillset-to-compete.html) — `2011-07-13-2011-07-an-entirely-new-mindset-and-skillset-to-compete-html.md` — 944w
+- 2011-07-10 — [Serving the Audience vs. Doing Your Thing (and Other Links)](https://casnocha.com/2011/07/serving-the-audience-vs-doing-your-thing-and-other-links.html) — `2011-07-10-2011-07-serving-the-audience-vs-doing-your-thing-and-other-links-html.md` — 309w
+- 2011-06-18 — [Assorted Paragraphs and Links](https://casnocha.com/2011/06/assorted-paragraphs-and-links.html) — `2011-06-18-2011-06-assorted-paragraphs-and-links-html.md` — 525w
+- 2011-06-12 — [The Risk of Working Hard](https://casnocha.com/2011/06/the-risk-of-working-hard.html) — `2011-06-12-2011-06-the-risk-of-working-hard-html.md` — 204w
+- 2011-06-05 — [Randomness and Serendipity on the Internet](https://casnocha.com/2011/06/the-randomness-of-the-web-meta-edition.html) — `2011-06-05-2011-06-the-randomness-of-the-web-meta-edition-html.md` — 575w
+- 2011-05-21 — [Why to Move to a New Place: It Slows Down Time](https://casnocha.com/2011/05/why-to-move-to-a-new-place-it-slows-down-time.html) — `2011-05-21-2011-05-why-to-move-to-a-new-place-it-slows-down-time-html.md` — 253w
+- 2011-05-17 — [Knowing Your Audience in the YouTube Era](https://casnocha.com/2011/05/knowing-your-audience-in-the-youtube-era.html) — `2011-05-17-2011-05-knowing-your-audience-in-the-youtube-era-html.md` — 398w
+- 2011-05-06 — [I Loved You, I Loved You, I Loved You](https://casnocha.com/2011/05/i-loved-you-i-loved-you-i-loved-you.html) — `2011-05-06-2011-05-i-loved-you-i-loved-you-i-loved-you-html.md` — 251w
+- 2011-05-04 — [The Situation Room Photo](https://casnocha.com/2011/05/the-situation-room-photo.html) — `2011-05-04-2011-05-the-situation-room-photo-html.md` — 575w
+- 2011-04-21 — [A Pithy Sum-Up of the Structural Ailment of U.S. Government](https://casnocha.com/2011/04/a-pithy-sum-up-of-the-structural-ailment-of-us-government.html) — `2011-04-21-2011-04-a-pithy-sum-up-of-the-structural-ailment-of-us-government-html.md` — 163w
+- 2011-04-03 — [The Difference Between Politeness and Tact](https://casnocha.com/2011/04/the-difference-between-politeness-and-tact.html) — `2011-04-03-2011-04-the-difference-between-politeness-and-tact-html.md` — 122w
+- 2011-03-17 — [Editor of Modern Love Column: “Hard Stuff” More Interesting than Romance](https://casnocha.com/2011/03/editor-of-modern-love-column-hard-stuff-more-interesting-than-romance.html) — `2011-03-17-2011-03-editor-of-modern-love-column-hard-stuff-more-interesting-than-romance-ht.md` — 322w
+- 2011-03-16 — [Las Vegas: Authentically Unauthentic](https://casnocha.com/2011/03/las-vegas-authentically-unauthentic.html) — `2011-03-16-2011-03-las-vegas-authentically-unauthentic-html.md` — 188w
+- 2011-03-07 — [Imagine No Self-Censorship](https://casnocha.com/2011/03/imagine-no-self-censorship.html) — `2011-03-07-2011-03-imagine-no-self-censorship-html.md` — 177w
+- 2011-03-02 — [Friends: People Who Have the Same Flaws as Us](https://casnocha.com/2011/03/friends-people-who-have-the-same-flaws-as-us.html) — `2011-03-02-2011-03-friends-people-who-have-the-same-flaws-as-us-html.md` — 243w
+- 2011-02-27 — [27 de Febrero](https://casnocha.com/2011/02/27-de-febrero.html) — `2011-02-27-2011-02-27-de-febrero-html.md` — 147w
+- 2011-02-25 — [Good Marketing is Good. Bad Marketing is Bad.](https://casnocha.com/2011/02/good-marketing-is-good-bad-marketing-is-bad.html) — `2011-02-25-2011-02-good-marketing-is-good-bad-marketing-is-bad-html.md` — 313w
+- 2011-02-23 — [Understanding Your Customers, Brazil and Senior Citizen Edition](https://casnocha.com/2011/02/understanding-your-customers-brazil-and-senior-citizen-edition.html) — `2011-02-23-2011-02-understanding-your-customers-brazil-and-senior-citizen-edition-html.md` — 365w
+- 2011-02-20 — [Kicking the Kid Down the Road](https://casnocha.com/2011/02/kicking-the-kid-down-the-road.html) — `2011-02-20-2011-02-kicking-the-kid-down-the-road-html.md` — 214w
+- 2011-02-17 — [The Four Types of Entrepreneurship](https://casnocha.com/2011/02/the-four-types-of-entrepreneurship.html) — `2011-02-17-2011-02-the-four-types-of-entrepreneurship-html.md` — 411w
+- 2011-02-14 — [Tom Friedman from Cairo](https://casnocha.com/2011/02/tom-friedman-from-cairo.html) — `2011-02-14-2011-02-tom-friedman-from-cairo-html.md` — 160w
+- 2011-02-12 — [The Opposite of Love is Indifference](https://casnocha.com/2011/02/the-opposite-of-love-is-indifference.html) — `2011-02-12-2011-02-the-opposite-of-love-is-indifference-html.md` — 282w
+- 2011-02-09 — [The Best Books on Start-Ups for General Reader](https://casnocha.com/2011/02/the-best-books-on-start-ups-for-general-reader.html) — `2011-02-09-2011-02-the-best-books-on-start-ups-for-general-reader-html.md` — 272w
+- 2011-02-06 — [Guilt-Free, Pain-Free Solitude When Abroad](https://casnocha.com/2011/02/guilt-free-pain-free-solitude-when-abroad.html) — `2011-02-06-2011-02-guilt-free-pain-free-solitude-when-abroad-html.md` — 414w
+- 2011-02-03 — [How to Identify Empty Rhetoric](https://casnocha.com/2011/02/how-to-identify-empty-rhetoric.html) — `2011-02-03-2011-02-how-to-identify-empty-rhetoric-html.md` — 178w
+- 2011-01-31 — [The Fantasy That There’s Always Someone Better Just Around the Corner](https://casnocha.com/2011/01/the-fantasy-that-theres-always-someone-better-just-around-the-corner.html) — `2011-01-31-2011-01-the-fantasy-that-theres-always-someone-better-just-around-the-corner-htm.md` — 162w
+- 2011-01-29 — [Why “Sputnik” Doesn’t Fire Up Americans](https://casnocha.com/2011/01/why-sputnik-doesnt-fire-up-americans.html) — `2011-01-29-2011-01-why-sputnik-doesnt-fire-up-americans-html.md` — 406w
+- 2011-01-24 — [Skeptoid’s Skeptical Take on Myers-Briggs](https://casnocha.com/2011/01/skeptoids-skeptical-take-on-myers-briggs.html) — `2011-01-24-2011-01-skeptoids-skeptical-take-on-myers-briggs-html.md` — 235w
+- 2011-01-21 — [Iconoclasts](https://casnocha.com/2011/01/iconoclasts.html) — `2011-01-21-2011-01-iconoclasts-html.md` — 237w
+- 2011-01-16 — [Links from Around the Web](https://casnocha.com/2011/01/links-from-around-the-web.html) — `2011-01-16-2011-01-links-from-around-the-web-html.md` — 522w
+- 2011-01-14 — [Top Performers Maniacally Prepare for Job Interviews](https://casnocha.com/2011/01/how-top-performers-prepare-for-job-interviews.html) — `2011-01-14-2011-01-how-top-performers-prepare-for-job-interviews-html.md` — 573w
+- 2011-01-11 — [James Franco and Matt Taibbi: Leading Full Lives](https://casnocha.com/2011/01/james-franco-and-matt-taibbi-leading-full-lives.html) — `2011-01-11-2011-01-james-franco-and-matt-taibbi-leading-full-lives-html.md` — 500w
+- 2011-01-07 — [Cities Built Around Airports (and China Fact of the Day)](https://casnocha.com/2011/01/cities-built-around-airports-and-china-fact-of-the-day.html) — `2011-01-07-2011-01-cities-built-around-airports-and-china-fact-of-the-day-html.md` — 310w
+- 2011-01-06 — [Twitter, Transience, and Tempo](https://casnocha.com/2011/01/twitter-transience-and-tempo.html) — `2011-01-06-2011-01-twitter-transience-and-tempo-html.md` — 423w
+- 2011-01-05 — [Book Reviews: The Personal MBA and What They Don’t Teach You at HBS](https://casnocha.com/2011/01/book-reviews-the-personal-mba-and-what-they-dont-teach-you-at-hbs.html) — `2011-01-05-2011-01-book-reviews-the-personal-mba-and-what-they-dont-teach-you-at-hbs-html.md` — 611w
+- 2011-01-01 — [The Sloppy Casualness of American Men](https://casnocha.com/2011/01/the-sloppy-casualness-of-american-men.html) — `2011-01-01-2011-01-the-sloppy-casualness-of-american-men-html.md` — 326w
+- 2010-12-28 — [The Quotations-in-Stories Litmus Test](https://casnocha.com/2010/12/the-quotations-in-stories-litmus-test.html) — `2010-12-28-2010-12-the-quotations-in-stories-litmus-test-html.md` — 388w
+- 2010-12-25 — [Asking About a Person’s Weaknesses](https://casnocha.com/2010/12/asking-about-a-persons-weaknesses.html) — `2010-12-25-2010-12-asking-about-a-persons-weaknesses-html.md` — 135w
+- 2010-12-22 — [The Mindset of the Ambitious Educational Elite](https://casnocha.com/2010/12/the-mindset-of-the-ambitious-educational-elite.html) — `2010-12-22-2010-12-the-mindset-of-the-ambitious-educational-elite-html.md` — 283w
+- 2010-12-17 — [The “I’m Proud of You” Litmus Test](https://casnocha.com/2010/12/the-im-proud-of-you-litmus-test.html) — `2010-12-17-2010-12-the-im-proud-of-you-litmus-test-html.md` — 276w
+- 2010-12-14 — [Fear: Using the Word Matters](https://casnocha.com/2010/12/fear-using-the-word-matters.html) — `2010-12-14-2010-12-fear-using-the-word-matters-html.md` — 538w
+- 2010-12-10 — [The (Charity) Work of Diplomats](https://casnocha.com/2010/12/the-charity-work-of-diplomats.html) — `2010-12-10-2010-12-the-charity-work-of-diplomats-html.md` — 1013w
+- 2010-12-03 — [Quotes from The Elegance of the Hedgehog](https://casnocha.com/2010/12/quotes-from-the-elegance-of-the-hedgehog.html) — `2010-12-03-2010-12-quotes-from-the-elegance-of-the-hedgehog-html.md` — 285w
+- 2010-11-30 — [Personal Identity and Decisionmaking](https://casnocha.com/2010/11/personal-identity-and-decisionmaking.html) — `2010-11-30-2010-11-personal-identity-and-decisionmaking-html.md` — 125w
+- 2010-11-29 — [The 30 Steps to Mastery](https://casnocha.com/2010/11/the-30-steps-to-mastery.html) — `2010-11-29-2010-11-the-30-steps-to-mastery-html.md` — 205w
+- 2010-11-27 — [TSA Bumper Stickers](https://casnocha.com/2010/11/tsa-bumper-stickers.html) — `2010-11-27-2010-11-tsa-bumper-stickers-html.md` — 164w
+- 2010-11-22 — [FedEx Truth-in-Tracking (China Edition)](https://casnocha.com/2010/11/fedex-truth-in-tracking-china-edition.html) — `2010-11-22-2010-11-fedex-truth-in-tracking-china-edition-html.md` — 216w
+- 2010-11-19 — [Live Together, Die Alone](https://casnocha.com/2010/11/live-together-die-alone.html) — `2010-11-19-2010-11-live-together-die-alone-html.md` — 443w
+- 2010-11-17 — [Regrets of the Dying](https://casnocha.com/2010/11/regrets-of-the-dying.html) — `2010-11-17-2010-11-regrets-of-the-dying-html.md` — 706w
+- 2010-11-16 — [How to Draw An Owl](https://casnocha.com/2010/11/how-to-draw-an-owl.html) — `2010-11-16-2010-11-how-to-draw-an-owl-html.md` — 122w
+- 2010-11-11 — [Seeing What Everyday Writing Looks Like](https://casnocha.com/2010/11/seeing-what-everyday-writing-looks-like.html) — `2010-11-11-2010-11-seeing-what-everyday-writing-looks-like-html.md` — 593w
+- 2010-11-07 — [Zadie Smith on Technology and Philosophy](https://casnocha.com/2010/11/zadie-smith-on-technology-and-philosophy.html) — `2010-11-07-2010-11-zadie-smith-on-technology-and-philosophy-html.md` — 292w
+- 2010-11-04 — [Best Sign at the Rally for Sanity](https://casnocha.com/2010/11/best-sign-at-the-rally-for-sanity.html) — `2010-11-04-2010-11-best-sign-at-the-rally-for-sanity-html.md` — 284w
+- 2010-11-02 — [Art: Mirror or Prism?](https://casnocha.com/2010/11/art-mirror-or-prism.html) — `2010-11-02-2010-11-art-mirror-or-prism-html.md` — 157w
+- 2010-10-28 — [Nike’s New Ad: The Hymn of Individualism](https://casnocha.com/2010/10/nikes-new-ad-the-hymn-of-individualism.html) — `2010-10-28-2010-10-nikes-new-ad-the-hymn-of-individualism-html.md` — 278w
+- 2010-10-25 — [Airport Departure Boards and Imagination](https://casnocha.com/2010/10/airport-departure-boards-and-imagination.html) — `2010-10-25-2010-10-airport-departure-boards-and-imagination-html.md` — 160w
+- 2010-10-22 — [What 17 Million Americans Got from a College Degree](https://casnocha.com/2010/10/what-17-million-americans-got-from-a-college-degree.html) — `2010-10-22-2010-10-what-17-million-americans-got-from-a-college-degree-html.md` — 191w
+- 2010-10-21 — [China Fact of the Day](https://casnocha.com/2010/10/china-fact-of-the-day.html) — `2010-10-21-2010-10-china-fact-of-the-day-html.md` — 164w
+- 2010-10-19 — [Opportunities in Old, Stodgy Industries](https://casnocha.com/2010/10/opportunities-in-old-stodgy-industries.html) — `2010-10-19-2010-10-opportunities-in-old-stodgy-industries-html.md` — 184w
+- 2010-10-18 — [I’m Hiring — Internship Opportunity](https://casnocha.com/2010/10/internship-opportunity-hiring.html) — `2010-10-18-2010-10-internship-opportunity-hiring-html.md` — 255w
+- 2010-10-16 — [Hiring and Business](https://casnocha.com/2010/10/hiring-and-business.html) — `2010-10-16-2010-10-hiring-and-business-html.md` — 605w
+- 2010-10-14 — [Steven Johnson’s Invention of Air](https://casnocha.com/2010/10/steven-johnsons-invention-of-air.html) — `2010-10-14-2010-10-steven-johnsons-invention-of-air-html.md` — 1683w
+- 2010-10-11 — [The Wisdom of Your Former Self](https://casnocha.com/2010/10/the-wisdom-of-your-former-self.html) — `2010-10-11-2010-10-the-wisdom-of-your-former-self-html.md` — 264w
+- 2010-10-08 — [Why Did Malia Obama Take Photos of Inaugration?](https://casnocha.com/2010/10/photos-power-malia-obama-perspective.html) — `2010-10-08-2010-10-photos-power-malia-obama-perspective-html.md` — 260w
+- 2010-10-06 — [Rolling the Dice When Young and In Love](https://casnocha.com/2010/10/young-and-in-love.html) — `2010-10-06-2010-10-young-and-in-love-html.md` — 339w
+- 2010-10-04 — [Book Review: Do More Faster: TechStars Lessons to Accelerate Your Start-Up](https://casnocha.com/2010/10/book-review-do-more-faster.html) — `2010-10-04-2010-10-book-review-do-more-faster-html.md` — 399w
+- 2010-09-30 — [Last Words of the Day](https://casnocha.com/2010/09/last-words-of-the-day.html) — `2010-09-30-2010-09-last-words-of-the-day-html.md` — 304w
+- 2010-09-26 — [Book Review: The Element](https://casnocha.com/2010/09/book-review-the-element.html) — `2010-09-26-2010-09-book-review-the-element-html.md` — 954w
+- 2010-09-19 — [Three More Litmus Tests](https://casnocha.com/2010/09/three-more-litmus-tests.html) — `2010-09-19-2010-09-three-more-litmus-tests-html.md` — 478w
+- 2010-09-17 — [Feeling More Awake Than You Have Ever Felt](https://casnocha.com/2010/09/feeling-more-awake-than-you-have-ever-felt.html) — `2010-09-17-2010-09-feeling-more-awake-than-you-have-ever-felt-html.md` — 523w
+- 2010-09-14 — [Assorted Musings](https://casnocha.com/2010/09/assorted-musings.html) — `2010-09-14-2010-09-assorted-musings-html.md` — 976w
+- 2010-09-11 — [Book Review: Charlie Wilson’s War by George Crile](https://casnocha.com/2010/09/book-review-charlie-wilsons-war-by-george-crile.html) — `2010-09-11-2010-09-book-review-charlie-wilsons-war-by-george-crile-html.md` — 467w
+- 2010-09-09 — [Graciousness Here and Viciousness There: The Cordoba Mosque](https://casnocha.com/2010/09/graciousness-here-and-viciousness-there-the-cordoba-mosque.html) — `2010-09-09-2010-09-graciousness-here-and-viciousness-there-the-cordoba-mosque-html.md` — 288w
+- 2010-09-05 — [What’s Remained Constant?](https://casnocha.com/2010/09/whats-remained-constant.html) — `2010-09-05-2010-09-whats-remained-constant-html.md` — 215w
+- 2010-09-03 — [Is Being in a Relationship a Time Sink?](https://casnocha.com/2010/09/is-being-in-a-relationship-a-time-sink.html) — `2010-09-03-2010-09-is-being-in-a-relationship-a-time-sink-html.md` — 487w
+- 2010-08-31 — [Lessons and Impressions from Indonesia](https://casnocha.com/2010/08/lessons-and-impressions-from-indonesia.html) — `2010-08-31-2010-08-lessons-and-impressions-from-indonesia-html.md` — 1504w
+- 2010-08-28 — [The Origins of “Think Different”](https://casnocha.com/2010/08/the-origins-of-think-different.html) — `2010-08-28-2010-08-the-origins-of-think-different-html.md` — 399w
+- 2010-08-25 — [Cultural Values, Power, and Event Protocol](https://casnocha.com/2010/08/cultural-values-power-and-event-protocol.html) — `2010-08-25-2010-08-cultural-values-power-and-event-protocol-html.md` — 487w
+- 2010-08-23 — [Lectures at Home, Homework at School](https://casnocha.com/2010/08/lectures-at-home-homework-at-school.html) — `2010-08-23-2010-08-lectures-at-home-homework-at-school-html.md` — 225w
+- 2010-08-21 — [“I Suck”](https://casnocha.com/2010/08/i-suck.html) — `2010-08-21-2010-08-i-suck-html.md` — 365w
+- 2010-08-19 — [Against Occupational Licensing](https://casnocha.com/2010/08/against-occupational-licensing.html) — `2010-08-19-2010-08-against-occupational-licensing-html.md` — 575w
+- 2010-08-17 — [Instructions for Life](https://casnocha.com/2010/08/instructions-for-life.html) — `2010-08-17-2010-08-instructions-for-life-html.md` — 147w
+- 2010-08-14 — [Start-Up Chile: $40k to Live There and Start a Company](https://casnocha.com/2010/08/start-up-chile-40k-to-live-there-and-start-a-company.html) — `2010-08-14-2010-08-start-up-chile-40k-to-live-there-and-start-a-company-html.md` — 753w
+- 2010-08-09 — [The Wisdom of Mike Tyson](https://casnocha.com/2010/08/the-wisdom-of-mike-tyson.html) — `2010-08-09-2010-08-the-wisdom-of-mike-tyson-html.md` — 466w
+- 2010-08-07 — [Clayton Christensen’s Purpose-Driven Life](https://casnocha.com/2010/08/clayton-christensens-purposedriven-life.html) — `2010-08-07-2010-08-clayton-christensens-purposedriven-life-html.md` — 399w
+- 2010-08-06 — [Book Notes: Lords of Strategy](https://casnocha.com/2010/08/book-notes-lords-of-strategy.html) — `2010-08-06-2010-08-book-notes-lords-of-strategy-html.md` — 2096w
+- 2010-08-03 — [Impressions of Brazil](https://casnocha.com/2010/08/impressions-of-brazil.html) — `2010-08-03-2010-08-impressions-of-brazil-html.md` — 717w
+- 2010-07-29 — [I Know That You Know That I Know](https://casnocha.com/2010/07/i-know-that-you-know-that-i-know.html) — `2010-07-29-2010-07-i-know-that-you-know-that-i-know-html.md` — 347w
+- 2010-07-28 — [A Question Men Ask Themselves](https://casnocha.com/2010/07/a-question-men-ask-themselves.html) — `2010-07-28-2010-07-a-question-men-ask-themselves-html.md` — 185w
+- 2010-07-27 — [Book Review: How to Be a High School Superstar](https://casnocha.com/2010/07/book-review-how-to-be-a-high-school-superstar.html) — `2010-07-27-2010-07-book-review-how-to-be-a-high-school-superstar-html.md` — 429w
+- 2010-07-22 — [The Feel-Bad Effect from Not-So-Close Facebook Friends](https://casnocha.com/2010/07/the-feelbad-effect-from-notsoclose-facebook-friends.html) — `2010-07-22-2010-07-the-feelbad-effect-from-notsoclose-facebook-friends-html.md` — 611w
+- 2010-07-21 — [Five Nights in Rio de Janeiro, Brazil](https://casnocha.com/2010/07/five-nights-in-rio-de-janeiro-brazil.html) — `2010-07-21-2010-07-five-nights-in-rio-de-janeiro-brazil-html.md` — 450w
+- 2010-07-20 — [Chris Sacca on How International Travel Informs Entrepreneurship](https://casnocha.com/2010/07/chris-sacca-on-how-international-travel-informs-entrepreneurship.html) — `2010-07-20-2010-07-chris-sacca-on-how-international-travel-informs-entrepreneurship-html.md` — 215w
+- 2010-07-19 — [The Secular Church, Continued](https://casnocha.com/2010/07/the-secular-church-continued.html) — `2010-07-19-2010-07-the-secular-church-continued-html.md` — 338w
+- 2010-07-18 — [Tim O’Reilly: A Splendid Life](https://casnocha.com/2010/07/tim-oreilly-a-splendid-life.html) — `2010-07-18-2010-07-tim-oreilly-a-splendid-life-html.md` — 121w
+- 2010-07-15 — [A Jr. MacArthur Foundation and Colin Marshall](https://casnocha.com/2010/07/a-jr-macarthur-foundation-and-colin-marshall.html) — `2010-07-15-2010-07-a-jr-macarthur-foundation-and-colin-marshall-html.md` — 775w
+- 2010-07-13 — [How to Cook Restaurant-Quality Food](https://casnocha.com/2010/07/how-to-cook-restaurantquality-food.html) — `2010-07-13-2010-07-how-to-cook-restaurantquality-food-html.md` — 224w
+- 2010-07-12 — [Tacit Liberal Support of Afghanistan War](https://casnocha.com/2010/07/tacit-liberal-support-of-afghanistan-war.html) — `2010-07-12-2010-07-tacit-liberal-support-of-afghanistan-war-html.md` — 451w
+- 2010-07-10 — [Andreessen: Smart = Curiosity + Drive](https://casnocha.com/2010/07/andreessen-smart-curiosity-drive.html) — `2010-07-10-2010-07-andreessen-smart-curiosity-drive-html.md` — 285w
+- 2010-07-08 — [Cached Thoughts in Conversation](https://casnocha.com/2010/07/cached-thoughts-in-conversation.html) — `2010-07-08-2010-07-cached-thoughts-in-conversation-html.md` — 307w
+- 2010-07-06 — [What I’ve Been Reading](https://casnocha.com/2010/07/what-ive-been-reading.html) — `2010-07-06-2010-07-what-ive-been-reading-html.md` — 487w
+- 2010-07-05 — [Living Out the “Do One Thing That Scares You” Advice](https://casnocha.com/2010/07/living-out-the-do-one-thing-that-scares-you-advice.html) — `2010-07-05-2010-07-living-out-the-do-one-thing-that-scares-you-advice-html.md` — 776w
+- 2010-07-01 — [How to Get Hired](https://casnocha.com/2010/07/how-to-get-hired.html) — `2010-07-01-2010-07-how-to-get-hired-html.md` — 325w
+- 2010-06-30 — [The Procrastination Risk in the Maker’s Schedule](https://casnocha.com/2010/06/makers-schedule-procrastination-obligations.html) — `2010-06-30-2010-06-makers-schedule-procrastination-obligations-html.md` — 445w
+- 2010-06-28 — [Do Love and Sex Naturally Go Together?](https://casnocha.com/2010/06/do-love-and-sex-naturally-go-together.html) — `2010-06-28-2010-06-do-love-and-sex-naturally-go-together-html.md` — 638w
+- 2010-06-27 — [Russian Ballet Comes to Santiago; Theatrics Ensue](https://casnocha.com/2010/06/russian-ballet-comes-to-santiago-theatrics-ensue.html) — `2010-06-27-2010-06-russian-ballet-comes-to-santiago-theatrics-ensue-html.md` — 375w
+- 2010-06-25 — [The Effect of the “Like” Button](https://casnocha.com/2010/06/the-effect-of-the-like-button.html) — `2010-06-25-2010-06-the-effect-of-the-like-button-html.md` — 479w
+- 2010-06-24 — [It Was a Mistake to Play a Flawless Game](https://casnocha.com/2010/06/it-was-a-mistake-to-play-a-flawless-game.html) — `2010-06-24-2010-06-it-was-a-mistake-to-play-a-flawless-game-html.md` — 422w
+- 2010-06-23 — [Time Allocation Goals vs. Output Goals](https://casnocha.com/2010/06/time-allocation-goals-vs-output-goals.html) — `2010-06-23-2010-06-time-allocation-goals-vs-output-goals-html.md` — 319w
+- 2010-06-21 — [Assorted Paragraphs](https://casnocha.com/2010/06/assorted-paragraphs.html) — `2010-06-21-2010-06-assorted-paragraphs-html.md` — 497w
+- 2010-06-18 — [If You Want to Know How Things Are in Reality](https://casnocha.com/2010/06/if-you-want-to-know-how-things-are-in-reality.html) — `2010-06-18-2010-06-if-you-want-to-know-how-things-are-in-reality-html.md` — 507w
+- 2010-06-17 — [Movie Review: 500 Days of Summer](https://casnocha.com/2010/06/movie-review-500-days-of-summer.html) — `2010-06-17-2010-06-movie-review-500-days-of-summer-html.md` — 506w
+- 2010-06-16 — [Singular Competence = Passion = Happiness](https://casnocha.com/2010/06/singular-competence-passion-happiness.html) — `2010-06-16-2010-06-singular-competence-passion-happiness-html.md` — 534w
+- 2010-06-11 — [Age Matters to Multitasking and Information Diets](https://casnocha.com/2010/06/age-matters-multitasking-info-diets.html) — `2010-06-11-2010-06-age-matters-multitasking-info-diets-html.md` — 351w
+- 2010-06-09 — [What Happened in California Yesterday](https://casnocha.com/2010/06/what-happened-in-california-yesterday.html) — `2010-06-09-2010-06-what-happened-in-california-yesterday-html.md` — 431w
+- 2010-06-08 — [Disintermediation in Education: The Kahn Edition](https://casnocha.com/2010/06/disintermediation-in-education.html) — `2010-06-08-2010-06-disintermediation-in-education-html.md` — 257w
+- 2010-06-07 — [What the Net is Doing to Our Brains](https://casnocha.com/2010/06/what-the-net-is-doing-to-our-brains.html) — `2010-06-07-2010-06-what-the-net-is-doing-to-our-brains-html.md` — 308w
+- 2010-06-06 — [La Serena and Valle de Elqui](https://casnocha.com/2010/06/la-serena-and-valle-de-elqui.html) — `2010-06-06-2010-06-la-serena-and-valle-de-elqui-html.md` — 270w
+- 2010-06-06 — [Cool, Calm, and Collected](https://casnocha.com/2010/06/cool-calm-and-collected.html) — `2010-06-06-2010-06-cool-calm-and-collected-html.md` — 465w
+- 2010-06-04 — [The Chessmaster and the Computer](https://casnocha.com/2010/06/the-chessmaster-and-the-computer.html) — `2010-06-04-2010-06-the-chessmaster-and-the-computer-html.md` — 395w
+- 2010-06-02 — [The Narcissism and Idealism of Millennials](https://casnocha.com/2010/06/the-narcissism-and-idealism-of-millennials.html) — `2010-06-02-2010-06-the-narcissism-and-idealism-of-millennials-html.md` — 371w
+- 2010-05-30 — [Slowing Rate of Change and Tech Innovation](https://casnocha.com/2010/05/slowing-rate-of-change-and-tech-innovation.html) — `2010-05-30-2010-05-slowing-rate-of-change-and-tech-innovation-html.md` — 915w
+- 2010-05-29 — [The Values at Your Funeral](https://casnocha.com/2010/05/the-values-at-your-funeral.html) — `2010-05-29-2010-05-the-values-at-your-funeral-html.md` — 334w
+- 2010-05-27 — [Fall Becomes Winter in Chile](https://casnocha.com/2010/05/fall-becomes-winter-in-chile.html) — `2010-05-27-2010-05-fall-becomes-winter-in-chile-html.md` — 635w
+- 2010-05-26 — [Man and Movement Overturn the Natural Order of Things](https://casnocha.com/2010/05/man-and-movement-overturn-the-natural-order-of-things.html) — `2010-05-26-2010-05-man-and-movement-overturn-the-natural-order-of-things-html.md` — 273w
+- 2010-05-25 — [Seven Thoughts on the Airline Industry](https://casnocha.com/2010/05/seven-thoughts-on-the-airline-industry.html) — `2010-05-25-2010-05-seven-thoughts-on-the-airline-industry-html.md` — 1019w
+- 2010-05-23 — [Mark Mobius on the State of Emerging Markets](https://casnocha.com/2010/05/mark-mobius-on-the-state-of-emerging-markets.html) — `2010-05-23-2010-05-mark-mobius-on-the-state-of-emerging-markets-html.md` — 371w
+- 2010-05-21 — [Targeted Clothes and Footwear Purchases](https://casnocha.com/2010/05/targeted-clothes-and-footwear-purchases.html) — `2010-05-21-2010-05-targeted-clothes-and-footwear-purchases-html.md` — 510w
+- 2010-05-19 — [The Age of Early Self-Conception](https://casnocha.com/2010/05/the-age-of-early-selfconception.html) — `2010-05-19-2010-05-the-age-of-early-selfconception-html.md` — 462w
+- 2010-05-18 — [The Two Schools of Strategy](https://casnocha.com/2010/05/the-two-schools-of-strategy.html) — `2010-05-18-2010-05-the-two-schools-of-strategy-html.md` — 163w
+- 2010-05-16 — [50 Ways to Expose Yourself to Randomness](https://casnocha.com/2010/05/50-ways-to-expose-yourself-to-randomness.html) — `2010-05-16-2010-05-50-ways-to-expose-yourself-to-randomness-html.md` — 1523w
+- 2010-05-14 — [What MJ Had That LeBron Does Not](https://casnocha.com/2010/05/what-mj-had-that-lebron-does-not.html) — `2010-05-14-2010-05-what-mj-had-that-lebron-does-not-html.md` — 346w
+- 2010-05-13 — [Career Lessons from Elena Kagan vs. Richard Posner](https://casnocha.com/2010/05/career-lessons-from-elena-kagan-vs-richard-posner.html) — `2010-05-13-2010-05-career-lessons-from-elena-kagan-vs-richard-posner-html.md` — 508w
+- 2010-05-11 — [Who Are the Masters in Your Field and How Do You Learn from Them?](https://casnocha.com/2010/05/who-are-the-masters-in-your-field-and-how-do-you-learn-from-them.html) — `2010-05-11-2010-05-who-are-the-masters-in-your-field-and-how-do-you-learn-from-them-html.md` — 230w
+- 2010-05-10 — [Grumpily Subdued Emotional State Sparks Creativity](https://casnocha.com/2010/05/grumpily-subdued-emotional-state-sparks-creativity.html) — `2010-05-10-2010-05-grumpily-subdued-emotional-state-sparks-creativity-html.md` — 391w
+- 2010-05-09 — [Effectual Reasoning: What Makes Entrepreneurs Entrepreneurial](https://casnocha.com/2010/05/effectual-reasoning-what-makes-entrepreneurs-entrepreneurial.html) — `2010-05-09-2010-05-effectual-reasoning-what-makes-entrepreneurs-entrepreneurial-html.md` — 287w
+- 2010-05-07 — [Assorted Musings](https://casnocha.com/2010/05/assorted-musings-2.html) — `2010-05-07-2010-05-assorted-musings-2-html.md` — 688w
+- 2010-05-04 — [Disturbing Chart of the Day: Public Sector Pay](https://casnocha.com/2010/05/disturbing-chart-of-the-day-public-sector-pay.html) — `2010-05-04-2010-05-disturbing-chart-of-the-day-public-sector-pay-html.md` — 420w
+- 2010-05-03 — [“If I Were Able to Live My Life Anew”](https://casnocha.com/2010/05/if-i-were-able-to-live-my-life-anew.html) — `2010-05-03-2010-05-if-i-were-able-to-live-my-life-anew-html.md` — 243w
+- 2010-05-02 — [Book Review: The Monk and the Riddle](https://casnocha.com/2010/05/book-review-the-monk-and-the-riddle.html) — `2010-05-02-2010-05-book-review-the-monk-and-the-riddle-html.md` — 230w
+- 2010-04-29 — [8 Steps to Starting a Start-Up](https://casnocha.com/2010/04/8-steps-to-starting-a-startup.html) — `2010-04-29-2010-04-8-steps-to-starting-a-startup-html.md` — 217w
+- 2010-04-28 — [Know Yourself: Principal or Lieutenant?](https://casnocha.com/2010/04/know-yourself-principal-or-lieutenant.html) — `2010-04-28-2010-04-know-yourself-principal-or-lieutenant-html.md` — 533w
+- 2010-04-27 — [The Mind as a River](https://casnocha.com/2010/04/the-mind-as-a-river.html) — `2010-04-27-2010-04-the-mind-as-a-river-html.md` — 275w
+- 2010-04-25 — [So Good It’s Bad](https://casnocha.com/2010/04/so-good-its-bad.html) — `2010-04-25-2010-04-so-good-its-bad-html.md` — 162w
+- 2010-04-20 — [Optimal Number of Embarrassing Shock Experiences](https://casnocha.com/2010/04/optimal-embarrassing-shock-experiences.html) — `2010-04-20-2010-04-optimal-embarrassing-shock-experiences-html.md` — 434w
+- 2010-04-19 — [“How Are Your Relationships?”](https://casnocha.com/2010/04/how-are-your-relationships.html) — `2010-04-19-2010-04-how-are-your-relationships-html.md` — 159w
+- 2010-04-15 — [What Makes Something Interesting?](https://casnocha.com/2010/04/what-makes-something-interesting.html) — `2010-04-15-2010-04-what-makes-something-interesting-html.md` — 308w
+- 2010-04-14 — [The Atacama Desert](https://casnocha.com/2010/04/the-atacama-desert.html) — `2010-04-14-2010-04-the-atacama-desert-html.md` — 459w
+- 2010-04-12 — [Robert Solow on Markets and Their Limitations](https://casnocha.com/2010/04/robert-solow-on-markets-and-their-limitations.html) — `2010-04-12-2010-04-robert-solow-on-markets-and-their-limitations-html.md` — 346w
+- 2010-04-09 — [Self-Centric vs. Reader-Centric Uses of Social Media](https://casnocha.com/2010/04/self-centric-vs-reader-centric-uses-of-social-media.html) — `2010-04-09-2010-04-self-centric-vs-reader-centric-uses-of-social-media-html.md` — 353w
+- 2010-04-08 — [Norman Mailer on a Vagina](https://casnocha.com/2010/04/norman-mailer-on-a-vagina.html) — `2010-04-08-2010-04-norman-mailer-on-a-vagina-html.md` — 158w
+- 2010-04-07 — [Who Should and Should Not Be Going to College?](https://casnocha.com/2010/04/who-should-and-should-not-be-going-to-college.html) — `2010-04-07-2010-04-who-should-and-should-not-be-going-to-college-html.md` — 390w
+- 2010-04-07 — [Luna de Vieja, Atacama](https://casnocha.com/2010/04/luna-de-vieja-atacama.html) — `2010-04-07-2010-04-luna-de-vieja-atacama-html.md` — 314w
+- 2010-04-06 — [Atacama Day 1](https://casnocha.com/2010/04/atacama-day-1.html) — `2010-04-06-2010-04-atacama-day-1-html.md` — 365w
+- 2010-04-05 — [Approaching Love with Utter Openness and Reasonable Caution](https://casnocha.com/2010/04/approaching-love-with-utter-openness-and-reasonable-caution.html) — `2010-04-05-2010-04-approaching-love-with-utter-openness-and-reasonable-caution-html.md` — 227w
+- 2010-04-04 — [Free Riding on the Innovation That Emerges from America](https://casnocha.com/2010/04/free-riding-on-the-innovation-that-emerges-from-america.html) — `2010-04-04-2010-04-free-riding-on-the-innovation-that-emerges-from-america-html.md` — 537w
+- 2010-04-02 — [The Unreliability of Self-Knowledge](https://casnocha.com/2010/04/distrusting-selfanalyses.html) — `2010-04-02-2010-04-distrusting-selfanalyses-html.md` — 246w
+- 2010-03-31 — [Sonia Sotomayor Has Pursued Her Calling](https://casnocha.com/2010/03/sonia-sotomayor-has-pursued-her-calling.html) — `2010-03-31-2010-03-sonia-sotomayor-has-pursued-her-calling-html.md` — 407w
+- 2010-03-30 — [Do You Want a Family or a Calling?](https://casnocha.com/2010/03/do-you-want-a-family-or-a-calling.html) — `2010-03-30-2010-03-do-you-want-a-family-or-a-calling-html.md` — 705w
+- 2010-03-29 — [Make a Trivial Concession That Allows Other Person to Feel Like the Winner](https://casnocha.com/2010/03/make-a-trivial-concession-that-allows-other-person-to-feel-like-the-winner.html) — `2010-03-29-2010-03-make-a-trivial-concession-that-allows-other-person-to-feel-like-the-winn.md` — 327w
+- 2010-03-28 — [The Murky, Complicated Reality of China](https://casnocha.com/2010/03/the-murky-complicated-reality-of-china.html) — `2010-03-28-2010-03-the-murky-complicated-reality-of-china-html.md` — 528w
+- 2010-03-25 — [The Difference Between Banality and Profundity](https://casnocha.com/2010/03/the-difference-between-banality-and-profundity.html) — `2010-03-25-2010-03-the-difference-between-banality-and-profundity-html.md` — 205w
+- 2010-03-24 — [The Wisdom of Magnus Carlsen](https://casnocha.com/2010/03/the-wisdom-of-magnus-carlsen.html) — `2010-03-24-2010-03-the-wisdom-of-magnus-carlsen-html.md` — 408w
+- 2010-03-23 — [The Rice Cooker](https://casnocha.com/2010/03/the-rice-cooker.html) — `2010-03-23-2010-03-the-rice-cooker-html.md` — 226w
+- 2010-03-22 — [The “It” Quality](https://casnocha.com/2010/03/the-it-quality.html) — `2010-03-22-2010-03-the-it-quality-html.md` — 408w
+- 2010-03-19 — [Spirituality Fuzziness and The God Within](https://casnocha.com/2010/03/spirituality-fuzziness-and-the-god-within.html) — `2010-03-19-2010-03-spirituality-fuzziness-and-the-god-within-html.md` — 332w
+- 2010-03-17 — [The “Easy Out” Email Technique](https://casnocha.com/2010/03/the-easy-out-email-technique.html) — `2010-03-17-2010-03-the-easy-out-email-technique-html.md` — 374w
+- 2010-03-15 — [Retiring Old Friends to Make Room for Better-Fit New Ones](https://casnocha.com/2010/03/retiring-old-friends-to-make-room-for-better-fit-new-ones.html) — `2010-03-15-2010-03-retiring-old-friends-to-make-room-for-better-fit-new-ones-html.md` — 432w
+- 2010-03-13 — [The 10 Dollar Rule](https://casnocha.com/2010/03/the-10-dollar-rule.html) — `2010-03-13-2010-03-the-10-dollar-rule-html.md` — 307w
+- 2010-03-11 — [All Entrepreneurship is Social](https://casnocha.com/2010/03/all-entrepreneurship-is-social.html) — `2010-03-11-2010-03-all-entrepreneurship-is-social-html.md` — 205w
+- 2010-03-09 — [The Torturous Inner Life of the Man Who Seems to Have it All](https://casnocha.com/2010/03/the-torturous-inner-life-of-the-man-who-seems-to-have-it-all.html) — `2010-03-09-2010-03-the-torturous-inner-life-of-the-man-who-seems-to-have-it-all-html.md` — 277w
+- 2010-03-08 — [The Impact of the New Tech: Use, Then Judge](https://casnocha.com/2010/03/the-impact-of-the-new-tech-use-then-judge.html) — `2010-03-08-2010-03-the-impact-of-the-new-tech-use-then-judge-html.md` — 519w
+- 2010-03-07 — [This Week’s Newsweek](https://casnocha.com/2010/03/this-weeks-newsweek.html) — `2010-03-07-2010-03-this-weeks-newsweek-html.md` — 389w
+- 2010-03-05 — [The Power of the Phrase “It Turns Out…”](https://casnocha.com/2010/03/the-power-of-the-phrase-it-turns-out.html) — `2010-03-05-2010-03-the-power-of-the-phrase-it-turns-out-html.md` — 225w
+- 2010-03-04 — [Colleges Work to Maintain an Information Deficit About Their Effectiveness](https://casnocha.com/2010/03/colleges-work-to-maintain-an-information-deficit-about-their-effectiveness.html) — `2010-03-04-2010-03-colleges-work-to-maintain-an-information-deficit-about-their-effectivene.md` — 818w
+- 2010-03-03 — [Quote of the Day](https://casnocha.com/2010/03/quote-of-the-day-2.html) — `2010-03-03-2010-03-quote-of-the-day-2-html.md` — 141w
+- 2010-03-02 — [Update from Chile](https://casnocha.com/2010/03/update-from-chile.html) — `2010-03-02-2010-03-update-from-chile-html.md` — 520w
+- 2010-02-28 — [Experiencing the 8.8 Earthquake in Chile](https://casnocha.com/2010/02/experiencing-the-88-earthquake-in-chile.html) — `2010-02-28-2010-02-experiencing-the-88-earthquake-in-chile-html.md` — 1001w
+- 2010-02-25 — [Culture Matters to Entrepreneurship](https://casnocha.com/2010/02/culture-matters-to-entrepreneurship.html) — `2010-02-25-2010-02-culture-matters-to-entrepreneurship-html.md` — 1088w
+- 2010-02-24 — [Men Are From Mars…](https://casnocha.com/2010/02/men-are-from-mars.html) — `2010-02-24-2010-02-men-are-from-mars-html.md` — 148w
+- 2010-02-23 — [On Describing a Human Being](https://casnocha.com/2010/02/on-describing-in-a-human-being.html) — `2010-02-23-2010-02-on-describing-in-a-human-being-html.md` — 854w
+- 2010-02-21 — [The Myth of Efficiency](https://casnocha.com/2010/02/the-myth-of-efficiency.html) — `2010-02-21-2010-02-the-myth-of-efficiency-html.md` — 474w
+- 2010-02-20 — [Epic Beard Man: Another Day in Oakland](https://casnocha.com/2010/02/epic-beard-man-another-day-in-oakland.html) — `2010-02-20-2010-02-epic-beard-man-another-day-in-oakland-html.md` — 281w
+- 2010-02-18 — [Kant’s Moral Maxim of Universality Applied to Buying Drugs](https://casnocha.com/2010/02/kants-moral-maxim-of-universality-applied-to-buying-drugs.html) — `2010-02-18-2010-02-kants-moral-maxim-of-universality-applied-to-buying-drugs-html.md` — 600w
+- 2010-02-16 — [Why Have I Not Done Drugs? And Should I?](https://casnocha.com/2010/02/why-have-i-not-done-drugs-and-should-i.html) — `2010-02-16-2010-02-why-have-i-not-done-drugs-and-should-i-html.md` — 585w
+- 2010-02-15 — [A Human Platitude Who Radiates Blandness](https://casnocha.com/2010/02/a-human-platitude-who-radiates-blandness.html) — `2010-02-15-2010-02-a-human-platitude-who-radiates-blandness-html.md` — 305w
+- 2010-02-13 — [Social Inequality Between Elites and Non-Elites](https://casnocha.com/2010/02/social-inequality-elites-nonelites.html) — `2010-02-13-2010-02-social-inequality-elites-nonelites-html.md` — 419w
+- 2010-02-11 — [In Praise of Memorization](https://casnocha.com/2010/02/in-praise-of-memorization.html) — `2010-02-11-2010-02-in-praise-of-memorization-html.md` — 477w
+- 2010-02-10 — [Psychology Paragraphs of the Day](https://casnocha.com/2010/02/psychology-paragraphs-of-the-day.html) — `2010-02-10-2010-02-psychology-paragraphs-of-the-day-html.md` — 120w
+- 2010-02-09 — [RIP Privacy and Identity Synthesis on the Web](https://casnocha.com/2010/02/rip-privacy-and-identity-synthesis-on-the-web.html) — `2010-02-09-2010-02-rip-privacy-and-identity-synthesis-on-the-web-html.md` — 627w
+- 2010-02-08 — [The Condom and Other Links](https://casnocha.com/2010/02/the-condom-and-other-links.html) — `2010-02-08-2010-02-the-condom-and-other-links-html.md` — 237w
+- 2010-02-05 — [The Paradox of Attitudinal Self-Help Books](https://casnocha.com/2010/02/the-paradox-of-attitudinal-self-help-books.html) — `2010-02-05-2010-02-the-paradox-of-attitudinal-self-help-books-html.md` — 515w
+- 2010-02-04 — [The Unbearable Lightness of Travel](https://casnocha.com/2010/02/the-unbearable-lightness-of-travel.html) — `2010-02-04-2010-02-the-unbearable-lightness-of-travel-html.md` — 600w
+- 2010-02-02 — [How to Write Funny](https://casnocha.com/2010/02/how-to-write-funny.html) — `2010-02-02-2010-02-how-to-write-funny-html.md` — 567w
+- 2010-02-01 — [Is Amazon Evil?](https://casnocha.com/2010/02/is-amazon-evil.html) — `2010-02-01-2010-02-is-amazon-evil-html.md` — 452w
+- 2010-01-31 — [The Contradiction in Steve Jobs’ Famous Commencement Speech](https://casnocha.com/2010/01/the-contradiction-in-steve-jobs-famous-commencement-speech.html) — `2010-01-31-2010-01-the-contradiction-in-steve-jobs-famous-commencement-speech-html.md` — 372w
+- 2010-01-29 — [A Smattering of Impressions from Chile](https://casnocha.com/2010/01/a-smattering-of-impressions-from-chile.html) — `2010-01-29-2010-01-a-smattering-of-impressions-from-chile-html.md` — 1174w
+- 2010-01-28 — [Book Review: The PayPal Wars](https://casnocha.com/2010/01/book-review-the-paypal-wars.html) — `2010-01-28-2010-01-book-review-the-paypal-wars-html.md` — 204w
+- 2010-01-26 — [Book Review: Boomsday by Buckley](https://casnocha.com/2010/01/book-review-boomsday-by-buckley.html) — `2010-01-26-2010-01-book-review-boomsday-by-buckley-html.md` — 375w
+- 2010-01-25 — [The Case Against Credentialism](https://casnocha.com/2010/01/the-case-against-credentialism.html) — `2010-01-25-2010-01-the-case-against-credentialism-html.md` — 602w
+- 2010-01-22 — [Fathoming People’s Emotions and Motives from Afar](https://casnocha.com/2010/01/fathoming-peoples-emotions-and-motives-from-afar.html) — `2010-01-22-2010-01-fathoming-peoples-emotions-and-motives-from-afar-html.md` — 325w
+- 2010-01-22 — [Driving from Puerto Montt to Santiago](https://casnocha.com/2010/01/driving-from-puerto-montt-to-santiago.html) — `2010-01-22-2010-01-driving-from-puerto-montt-to-santiago-html.md` — 288w
+- 2010-01-22 — [Chilean Patagonia](https://casnocha.com/2010/01/chilean-patagonia.html) — `2010-01-22-2010-01-chilean-patagonia-html.md` — 366w
+- 2010-01-21 — [Assorted Musings](https://casnocha.com/2010/01/assorted-musings-3.html) — `2010-01-21-2010-01-assorted-musings-3-html.md` — 638w
+- 2010-01-19 — [Women’s Pornography](https://casnocha.com/2010/01/womens-pornography.html) — `2010-01-19-2010-01-womens-pornography-html.md` — 150w
+- 2010-01-18 — [Exploring Patagonia](https://casnocha.com/2010/01/exploring-patagonia.html) — `2010-01-18-2010-01-exploring-patagonia-html.md` — 140w
+- 2010-01-17 — [Why Nassim Taleb Walks](https://casnocha.com/2010/01/why-nassim-taleb-walks-1.html) — `2010-01-17-2010-01-why-nassim-taleb-walks-1-html.md` — 375w
+- 2010-01-16 — [Quote of the Day](https://casnocha.com/2010/01/quote-of-the-day-3.html) — `2010-01-16-2010-01-quote-of-the-day-3-html.md` — 167w
+- 2010-01-15 — [McKinsey, the World’s Epicenter of Risk Aversion, Still Produces Entrepreneurs](https://casnocha.com/2010/01/mckinsey-the-worlds-epicenter-of-risk-aversion-still-produces-entrepreneurs.html) — `2010-01-15-2010-01-mckinsey-the-worlds-epicenter-of-risk-aversion-still-produces-entreprene.md` — 251w
+- 2010-01-14 — [If Economists Were to Write the News Stories About Trade](https://casnocha.com/2010/01/if-economists-were-to-write-the-news-stories-about-trade.html) — `2010-01-14-2010-01-if-economists-were-to-write-the-news-stories-about-trade-html.md` — 412w
+- 2010-01-12 — [When Personal Brands Become More Important than Media Brands](https://casnocha.com/2010/01/when-personal-brands-become-more-important-than-media-brands.html) — `2010-01-12-2010-01-when-personal-brands-become-more-important-than-media-brands-html.md` — 459w
+- 2010-01-11 — [Does Travel Make You Smarter?](https://casnocha.com/2010/01/does-travel-make-you-smarter.html) — `2010-01-11-2010-01-does-travel-make-you-smarter-html.md` — 483w
+- 2010-01-10 — [Short Story of the Day by Deb Unferth](https://casnocha.com/2010/01/short-story-of-the-day-by-deb-unferth.html) — `2010-01-10-2010-01-short-story-of-the-day-by-deb-unferth-html.md` — 222w
+- 2010-01-07 — [California’s Governor Race: Idealism, Cynicism, and Tom Campbell](https://casnocha.com/2010/01/californias-governor-race-idealism-cynicism-tomcampbell.html) — `2010-01-07-2010-01-californias-governor-race-idealism-cynicism-tomcampbell-html.md` — 1014w
+- 2010-01-06 — [How Much Are Cheap Chinese Toys Worth to You?](https://casnocha.com/2010/01/how-much-are-cheap-chinese-toys-worth-to-you.html) — `2010-01-06-2010-01-how-much-are-cheap-chinese-toys-worth-to-you-html.md` — 550w
+- 2010-01-05 — [14 Thoughts on Advice Giving and Receiving](https://casnocha.com/2010/01/15-thoughts-on-advice-giving-and-receiving.html) — `2010-01-05-2010-01-15-thoughts-on-advice-giving-and-receiving-html.md` — 741w
+- 2010-01-04 — [Book Review: Chief Culture Officer](https://casnocha.com/2010/01/book-review-chief-culture-officer.html) — `2010-01-04-2010-01-book-review-chief-culture-officer-html.md` — 167w
+- 2010-01-02 — [What I’ve Been Reading](https://casnocha.com/2010/01/what-ive-been-reading-2.html) — `2010-01-02-2010-01-what-ive-been-reading-2-html.md` — 619w
+- 2009-12-30 — [Links From Around the Web](https://casnocha.com/2009/12/links-from-around-the-web-2.html) — `2009-12-30-2009-12-links-from-around-the-web-2-html.md` — 131w
+- 2009-12-23 — [Loyalty: An Overrated and Dangerous Virtue](https://casnocha.com/2009/12/loyalty-an-overrated-and-dangerous-virtue.html) — `2009-12-23-2009-12-loyalty-an-overrated-and-dangerous-virtue-html.md` — 243w
+- 2009-12-21 — [Book Review: Norwegian Wood by Murakami](https://casnocha.com/2009/12/book-review-norwegian-wood-by-murakami.html) — `2009-12-21-2009-12-book-review-norwegian-wood-by-murakami-html.md` — 442w
+- 2009-12-19 — [What You’re Really Trying to Say…](https://casnocha.com/2009/12/what-youre-really-trying-to-say.html) — `2009-12-19-2009-12-what-youre-really-trying-to-say-html.md` — 142w
+- 2009-12-16 — [Inequality and Perceived Social Mobility](https://casnocha.com/2009/12/inequality-and-perceived-social-mobility.html) — `2009-12-16-2009-12-inequality-and-perceived-social-mobility-html.md` — 511w
+- 2009-12-15 — [Peter Thiel on Baby Boomers and Bailouts](https://casnocha.com/2009/12/peter-thiel-on-baby-boomers-and-bailouts.html) — `2009-12-15-2009-12-peter-thiel-on-baby-boomers-and-bailouts-html.md` — 564w
+- 2009-12-13 — [The Perils of Youthful Fame (Tiger Woods Edition)](https://casnocha.com/2009/12/the-perils-of-youthful-fame-tiger-woods-edition.html) — `2009-12-13-2009-12-the-perils-of-youthful-fame-tiger-woods-edition-html.md` — 285w
+- 2009-12-12 — [Keepers of Private Notebooks](https://casnocha.com/2009/12/keepers-of-private-notebooks.html) — `2009-12-12-2009-12-keepers-of-private-notebooks-html.md` — 271w
+- 2009-12-11 — [The Ideal Mix of a Start-Up Advisory Board](https://casnocha.com/2009/12/the-ideal-mix-of-a-start-up-advisory-board.html) — `2009-12-11-2009-12-the-ideal-mix-of-a-start-up-advisory-board-html.md` — 271w
+- 2009-12-10 — [10 Easily Implementable Life Problem-Solving Strategies](https://casnocha.com/2009/12/10-easily-implementable-life-problemsolving-strategies.html) — `2009-12-10-2009-12-10-easily-implementable-life-problemsolving-strategies-html.md` — 1230w
+- 2009-12-08 — [The Selfishness of Public School Teacher Unions](https://casnocha.com/2009/12/the-selfishness-of-public-school-teacher-unions.html) — `2009-12-08-2009-12-the-selfishness-of-public-school-teacher-unions-html.md` — 604w
+- 2009-12-07 — [Reason is the Steering Wheel. Emotion is the Gas Pedal.](https://casnocha.com/2009/12/reason-is-the-steering-wheel-emotion-is-the-gas-pedal.html) — `2009-12-07-2009-12-reason-is-the-steering-wheel-emotion-is-the-gas-pedal-html.md` — 286w
+- 2009-12-04 — [Things I See in Chile](https://casnocha.com/2009/12/things-i-see-in-chile.html) — `2009-12-04-2009-12-things-i-see-in-chile-html.md` — 1261w
+- 2009-12-01 — [“Let’s Just Add Some Virality”](https://casnocha.com/2009/12/lets-just-add-some-virality.html) — `2009-12-01-2009-12-lets-just-add-some-virality-html.md` — 323w
+- 2009-11-29 — [Elitism vs. Populism in Politics](https://casnocha.com/2009/11/elitism-vs-populism-in-politics.html) — `2009-11-29-2009-11-elitism-vs-populism-in-politics-html.md` — 640w
+- 2009-11-28 — [The Intrapreneur’s 10 Commandments](https://casnocha.com/2009/11/the-intrapreneurs-10-commandments.html) — `2009-11-28-2009-11-the-intrapreneurs-10-commandments-html.md` — 201w
+- 2009-11-24 — [Blogs As Filters for Interestingness](https://casnocha.com/2009/11/blogs-as-filters-for-interestingness.html) — `2009-11-24-2009-11-blogs-as-filters-for-interestingness-html.md` — 300w
+- 2009-11-23 — [One of the Best Anti-Poverty Solutions: Immigration](https://casnocha.com/2009/11/one-of-the-best-antipoverty-solutions-immigration.html) — `2009-11-23-2009-11-one-of-the-best-antipoverty-solutions-immigration-html.md` — 624w
+- 2009-11-20 — [Book Notes: From Poverty to Prosperity](https://casnocha.com/2009/11/book-notes-from-poverty-to-prosperity.html) — `2009-11-20-2009-11-book-notes-from-poverty-to-prosperity-html.md` — 597w
+- 2009-11-19 — [Experts Who Predict the Future](https://casnocha.com/2009/11/experts-who-predict-the-future.html) — `2009-11-19-2009-11-experts-who-predict-the-future-html.md` — 685w
+- 2009-11-16 — [Book Review: The Glass Castle by Jeannette Walls](https://casnocha.com/2009/11/book-review-the-glass-castle-by-jeannette-walls.html) — `2009-11-16-2009-11-book-review-the-glass-castle-by-jeannette-walls-html.md` — 467w
+- 2009-11-15 — [Reasons to Follow Sports (and Bill Simmons)](https://casnocha.com/2009/11/reasons-to-follow-sports-and-bill-simmons.html) — `2009-11-15-2009-11-reasons-to-follow-sports-and-bill-simmons-html.md` — 432w
+- 2009-11-13 — [The Very Best Are Obsessed](https://casnocha.com/2009/11/the-very-best-are-obsessed.html) — `2009-11-13-2009-11-the-very-best-are-obsessed-html.md` — 220w
+- 2009-11-13 — [Forgetting My Briefcase in a Taxi in Cyprus](https://casnocha.com/2009/11/forgetting-my-briefcase-in-a-taxi-in-cyprus.html) — `2009-11-13-2009-11-forgetting-my-briefcase-in-a-taxi-in-cyprus-html.md` — 1221w
+- 2009-11-12 — [The Ethos of Casualness](https://casnocha.com/2009/11/the-ethos-of-casualness.html) — `2009-11-12-2009-11-the-ethos-of-casualness-html.md` — 700w
+- 2009-11-11 — [Nobody Wants to Read Your Shit](https://casnocha.com/2009/11/nobody-wants-to-read-your-shit.html) — `2009-11-11-2009-11-nobody-wants-to-read-your-shit-html.md` — 304w
+- 2009-11-10 — [Contrasts in How Google Suggests Searches](https://casnocha.com/2009/11/contrasts-in-how-google-suggets-searches.html) — `2009-11-10-2009-11-contrasts-in-how-google-suggets-searches-html.md` — 179w
+- 2009-11-09 — [Cultural Attitudes Toward Language (and Learning Spanish)](https://casnocha.com/2009/11/cultural-attitudes-toward-language-and-learning-spanish.html) — `2009-11-09-2009-11-cultural-attitudes-toward-language-and-learning-spanish-html.md` — 691w
+- 2009-11-08 — [Goal: More At-Bats Per Unit of Time and Money](https://casnocha.com/2009/11/goal-more-at-bats-per-unit-of-time-and-money.html) — `2009-11-08-2009-11-goal-more-at-bats-per-unit-of-time-and-money-html.md` — 157w
+- 2009-11-06 — [Religion for Atheists: A Secular Church](https://casnocha.com/2009/11/religion-for-atheists-a-secular-church.html) — `2009-11-06-2009-11-religion-for-atheists-a-secular-church-html.md` — 400w
+- 2009-11-05 — [How to Dodge a Difficult Question](https://casnocha.com/2009/11/how-to-dodge-a-difficult-question.html) — `2009-11-05-2009-11-how-to-dodge-a-difficult-question-html.md` — 368w
+- 2009-11-04 — [Budgeting Time to Think](https://casnocha.com/2009/11/budgeting-time-to-think.html) — `2009-11-04-2009-11-budgeting-time-to-think-html.md` — 315w
+- 2009-11-03 — [Working Out With Nothing but a Floor](https://casnocha.com/2009/11/working-out-traveling-nothing-but-a-floor.html) — `2009-11-03-2009-11-working-out-traveling-nothing-but-a-floor-html.md` — 363w
+- 2009-11-01 — [Your Customers Lie to You](https://casnocha.com/2009/11/your-customers-lie-to-you.html) — `2009-11-01-2009-11-your-customers-lie-to-you-html.md` — 290w
+- 2009-10-30 — [Book Review: Truman by David McCullough](https://casnocha.com/2009/10/book-review-truman-by-david-mccullough.html) — `2009-10-30-2009-10-book-review-truman-by-david-mccullough-html.md` — 706w
+- 2009-10-28 — [The Best Time to Have Sex (and Do Other Things)](https://casnocha.com/2009/10/the-best-time-to-have-sex-and-do-other-things.html) — `2009-10-28-2009-10-the-best-time-to-have-sex-and-do-other-things-html.md` — 178w
+- 2009-10-26 — [Impressions and Lessons from Cyprus](https://casnocha.com/2009/10/impressions-and-lessons-from-cyprus.html) — `2009-10-26-2009-10-impressions-and-lessons-from-cyprus-html.md` — 1280w
+- 2009-10-23 — [Creativity: Loving, Knowing, Doing](https://casnocha.com/2009/10/creativity-loving-knowing-doing.html) — `2009-10-23-2009-10-creativity-loving-knowing-doing-html.md` — 216w
+- 2009-10-22 — [Obtaining Honest Feedback](https://casnocha.com/2009/10/obtaining-honest-feedback.html) — `2009-10-22-2009-10-obtaining-honest-feedback-html.md` — 765w
+- 2009-10-21 — [We Like to be Shocked Because It Means We’re Innocent](https://casnocha.com/2009/10/we-like-to-be-shocked-because-it-means-were-innocent.html) — `2009-10-21-2009-10-we-like-to-be-shocked-because-it-means-were-innocent-html.md` — 286w
+- 2009-10-20 — [What I’ve Been Reading](https://casnocha.com/2009/10/what-ive-been-reading-3.html) — `2009-10-20-2009-10-what-ive-been-reading-3-html.md` — 457w
+- 2009-10-20 — [Agia Napa, Cyprus](https://casnocha.com/2009/10/agia-napa-cyprus.html) — `2009-10-20-2009-10-agia-napa-cyprus-html.md` — 274w
+- 2009-10-19 — [My Commonplace Book – Words and Phrases](https://casnocha.com/2009/10/my-commonplace-book-words-and-phrases.html) — `2009-10-19-2009-10-my-commonplace-book-words-and-phrases-html.md` — 261w
+- 2009-10-14 — [The Evolving Uses of Twitter](https://casnocha.com/2009/10/the-evolving-uses-of-twitter.html) — `2009-10-14-2009-10-the-evolving-uses-of-twitter-html.md` — 755w
+- 2009-10-13 — [Tragic vs. Utopian View of Human Nature](https://casnocha.com/2009/10/tragic-vs-utopian-view-of-human-nature.html) — `2009-10-13-2009-10-tragic-vs-utopian-view-of-human-nature-html.md` — 694w
+- 2009-10-12 — [Feeling Known and Noticed](https://casnocha.com/2009/10/feeling-known-and-noticed.html) — `2009-10-12-2009-10-feeling-known-and-noticed-html.md` — 211w
+- 2009-10-10 — [A Mind Capable of Not Thinking](https://casnocha.com/2009/10/a-mind-capable-of-not-thinking.html) — `2009-10-10-2009-10-a-mind-capable-of-not-thinking-html.md` — 232w
+- 2009-10-09 — [Book Review: Cosmopolitanism: Ethics in a World of Strangers](https://casnocha.com/2009/10/book-review-cosmopolitanism-ethics-in-a-world-of-strangers.html) — `2009-10-09-2009-10-book-review-cosmopolitanism-ethics-in-a-world-of-strangers-html.md` — 1119w
+- 2009-10-08 — [Say to Critics: Watch and See](https://casnocha.com/2009/10/say-to-critics-watch-and-see.html) — `2009-10-08-2009-10-say-to-critics-watch-and-see-html.md` — 123w
+- 2009-10-06 — [Can Incremental Reform Hurt Your Chances at Comprehensive Reform?](https://casnocha.com/2009/10/can-incremental-reform-hurt-your-chances-at-comprehensive-reform.html) — `2009-10-06-2009-10-can-incremental-reform-hurt-your-chances-at-comprehensive-reform-html.md` — 901w
+- 2009-10-04 — [The Five Discovery Skills of Innovators](https://casnocha.com/2009/10/the-five-discovery-skills-of-innovation.html) — `2009-10-04-2009-10-the-five-discovery-skills-of-innovation-html.md` — 233w
+- 2009-10-03 — [Assorted Musings](https://casnocha.com/2009/10/assorted-musings-4.html) — `2009-10-03-2009-10-assorted-musings-4-html.md` — 922w
+- 2009-09-30 — [Parenting Line of the Day](https://casnocha.com/2009/09/parenting-line-of-the-day.html) — `2009-09-30-2009-09-parenting-line-of-the-day-html.md` — 268w
+- 2009-09-29 — [Life: Your Adventure in Entrepreneurship](https://casnocha.com/2009/09/life-your-adventure-in-entrepreneurship.html) — `2009-09-29-2009-09-life-your-adventure-in-entrepreneurship-html.md` — 281w
+- 2009-09-28 — [Being Individuals in an Increasingly Individualistic Culture](https://casnocha.com/2009/09/being-individuals-in-an-increasingly-individualistic-culture.html) — `2009-09-28-2009-09-being-individuals-in-an-increasingly-individualistic-culture-html.md` — 844w
+- 2009-09-25 — [The Contrarian Heroes](https://casnocha.com/2009/09/the-contrarian-heroes.html) — `2009-09-25-2009-09-the-contrarian-heroes-html.md` — 225w
+- 2009-09-24 — [The Meta-Data That Comes from Certain Interview Questions](https://casnocha.com/2009/09/the-metadata-that-comes-from-certain-interview-questions.html) — `2009-09-24-2009-09-the-metadata-that-comes-from-certain-interview-questions-html.md` — 127w
+- 2009-09-23 — [Happy Days: The Pursuit of What Matters in Troubled Times](https://casnocha.com/2009/09/happy-days-the-pursuit-of-what-matters-in-troubled-times.html) — `2009-09-23-2009-09-happy-days-the-pursuit-of-what-matters-in-troubled-times-html.md` — 248w
+- 2009-09-21 — [“Minor” Word Choices That Are Revealing](https://casnocha.com/2009/09/minor-word-choices-that-are-revealing.html) — `2009-09-21-2009-09-minor-word-choices-that-are-revealing-html.md` — 375w
+- 2009-09-20 — [The Nationalism of Liberals vs. Conservatives](https://casnocha.com/2009/09/the-nationalism-of-liberals-vs-conservatives.html) — `2009-09-20-2009-09-the-nationalism-of-liberals-vs-conservatives-html.md` — 279w
+- 2009-09-19 — [Links from Around the Web](https://casnocha.com/2009/09/links-from-around-the-web-3.html) — `2009-09-19-2009-09-links-from-around-the-web-3-html.md` — 514w
+- 2009-09-17 — [My Icons](https://casnocha.com/2009/09/my-icons.html) — `2009-09-17-2009-09-my-icons-html.md` — 543w
+- 2009-09-16 — [Scanning the Horizon for Greener Grass on the Other Side](https://casnocha.com/2009/09/scanning-the-horizon-for-greener-grass-on-the-other-side.html) — `2009-09-16-2009-09-scanning-the-horizon-for-greener-grass-on-the-other-side-html.md` — 403w
+- 2009-09-15 — [Book Notes: The Time Paradox by Zimbardo](https://casnocha.com/2009/09/book-notes-the-time-paradox-by-zimbardo-and-boyd.html) — `2009-09-15-2009-09-book-notes-the-time-paradox-by-zimbardo-and-boyd-html.md` — 1601w
+- 2009-09-11 — [What I’ve Been Reading](https://casnocha.com/2009/09/what-ive-been-reading-4.html) — `2009-09-11-2009-09-what-ive-been-reading-4-html.md` — 591w
+- 2009-09-10 — [Simple To-Do List Systems](https://casnocha.com/2009/09/simple-todo-list-systems.html) — `2009-09-10-2009-09-simple-todo-list-systems-html.md` — 494w
+- 2009-09-09 — [Short. Bursts. Of Advice. To Do Something.](https://casnocha.com/2009/09/short-bursts-of-advice-to-do-something.html) — `2009-09-09-2009-09-short-bursts-of-advice-to-do-something-html.md` — 602w
+- 2009-09-08 — [Why I Travel](https://casnocha.com/2009/09/why-i-travel.html) — `2009-09-08-2009-09-why-i-travel-html.md` — 599w
+- 2009-09-07 — [A Chat with Penelope Trunk: IM Transcript](https://casnocha.com/2009/09/a-chat-with-penelope-trunk-im-transcript.html) — `2009-09-07-2009-09-a-chat-with-penelope-trunk-im-transcript-html.md` — 3916w
+- 2009-09-04 — [The Substantive Bottom Line](https://casnocha.com/2009/09/the-substantive-bottom-line.html) — `2009-09-04-2009-09-the-substantive-bottom-line-html.md` — 298w
+- 2009-09-03 — [Quote of the Day](https://casnocha.com/2009/09/quotes-of-the-day-2.html) — `2009-09-03-2009-09-quotes-of-the-day-2-html.md` — 173w
+- 2009-09-02 — [Why is it Interesting to Write About Sex?](https://casnocha.com/2009/09/why-is-it-interesting-to-write-about-sex.html) — `2009-09-02-2009-09-why-is-it-interesting-to-write-about-sex-html.md` — 896w
+- 2009-08-31 — [Lessons and Impressions from China](https://casnocha.com/2009/08/lessons-and-impressions-from-china.html) — `2009-08-31-2009-08-lessons-and-impressions-from-china-html.md` — 2369w
+- 2009-08-29 — [The Great American Roadtrip](https://casnocha.com/2009/08/the-great-american-roadtrip.html) — `2009-08-29-2009-08-the-great-american-roadtrip-html.md` — 330w
+- 2009-08-28 — [Village Outside Beijing and Spending Two Hours in a Police Station](https://casnocha.com/2009/08/village-outside-beijing-and-spending-two-hours-in-a-police-station.html) — `2009-08-28-2009-08-village-outside-beijing-and-spending-two-hours-in-a-police-station-html.md` — 1519w
+- 2009-08-28 — [Is Writing Advice Around “Voice” Like Career Advice Around “Passion”?](https://casnocha.com/2009/08/is-writing-advice-around-voice-like-career-advice-around-passion.html) — `2009-08-28-2009-08-is-writing-advice-around-voice-like-career-advice-around-passion-html.md` — 968w
+- 2009-08-27 — [Six Strategies for Overcoming “Chicken and Egg” Problems](https://casnocha.com/2009/08/six-strategies-for-overcoming-chicken-and-egg-problems.html) — `2009-08-27-2009-08-six-strategies-for-overcoming-chicken-and-egg-problems-html.md` — 1040w
+- 2009-08-26 — [Book Notes: Walden by Thoreau](https://casnocha.com/2009/08/book-notes-walden-by-thoreau.html) — `2009-08-26-2009-08-book-notes-walden-by-thoreau-html.md` — 881w
+- 2009-08-25 — [The Secular Church](https://casnocha.com/2009/08/the-secular-church.html) — `2009-08-25-2009-08-the-secular-church-html.md` — 121w
+- 2009-08-23 — [Unconventional, Entrepreneurial Lives and the Challenge of Loneliness](https://casnocha.com/2009/08/unconventional-lives-and-the-challenge-of-loneliness.html) — `2009-08-23-2009-08-unconventional-lives-and-the-challenge-of-loneliness-html.md` — 1764w
+- 2009-08-20 — [Chinese Masseuse Plays Shuffleboard on My Ass](https://casnocha.com/2009/08/chinese-masseuse-plays-shuffleboard-on-my-ass.html) — `2009-08-20-2009-08-chinese-masseuse-plays-shuffleboard-on-my-ass-html.md` — 828w
+- 2009-08-19 — [The Complicatedness of Los Angeles](https://casnocha.com/2009/08/the-complicatedness-of-los-angeles.html) — `2009-08-19-2009-08-the-complicatedness-of-los-angeles-html.md` — 788w
+- 2009-08-18 — [“The Rules Have All Changed”](https://casnocha.com/2009/08/the-rules-have-all-changed.html) — `2009-08-18-2009-08-the-rules-have-all-changed-html.md` — 220w
+- 2009-08-17 — [The Wisdom of Alain de Botton](https://casnocha.com/2009/08/the-wisdom-of-alain-de-botton.html) — `2009-08-17-2009-08-the-wisdom-of-alain-de-botton-html.md` — 407w
+- 2009-08-16 — [I’ve Decided Not to Follow the Healthcare Debate](https://casnocha.com/2009/08/ive-decided-not-to-follow-the-healthcare-debate.html) — `2009-08-16-2009-08-ive-decided-not-to-follow-the-healthcare-debate-html.md` — 151w
+- 2009-08-14 — [Book Notes: Essays by Ralph Waldo Emerson](https://casnocha.com/2009/08/book-notes-essays-by-ralph-waldo-emerson.html) — `2009-08-14-2009-08-book-notes-essays-by-ralph-waldo-emerson-html.md` — 1429w
+- 2009-08-13 — [Eating in China](https://casnocha.com/2009/08/eating-in-china.html) — `2009-08-13-2009-08-eating-in-china-html.md` — 235w
+- 2009-08-13 — [Beware of Advice from Meta Careerists](https://casnocha.com/2009/08/beware-of-advice-from-meta-careerists.html) — `2009-08-13-2009-08-beware-of-advice-from-meta-careerists-html.md` — 130w
+- 2009-08-13 — [A Rural Village Outside Beijing](https://casnocha.com/2009/08/a-rural-village-outside-beijing.html) — `2009-08-13-2009-08-a-rural-village-outside-beijing-html.md` — 362w
+- 2009-08-12 — [The Business of Self-Help](https://casnocha.com/2009/08/the-business-of-selfhelp.html) — `2009-08-12-2009-08-the-business-of-selfhelp-html.md` — 245w
+- 2009-08-11 — [What I’ve Been Reading](https://casnocha.com/2009/08/what-ive-been-reading-5.html) — `2009-08-11-2009-08-what-ive-been-reading-5-html.md` — 504w
+- 2009-08-11 — [Back in China](https://casnocha.com/2009/08/back-in-china.html) — `2009-08-11-2009-08-back-in-china-html.md` — 435w
+- 2009-08-10 — [If I Told You I Were Leaving, How Hard Would You Work to Keep Me?](https://casnocha.com/2009/08/if-i-told-you-i-were-leaving-how-hard-would-you-work-to-keep-me.html) — `2009-08-10-2009-08-if-i-told-you-i-were-leaving-how-hard-would-you-work-to-keep-me-html.md` — 129w
+- 2009-08-09 — [Impressions and Lessons from Uruguay and Chile](https://casnocha.com/2009/08/impressions-and-lessons-from-uruguay-and-chile.html) — `2009-08-09-2009-08-impressions-and-lessons-from-uruguay-and-chile-html.md` — 1030w
+- 2009-08-05 — [Valparaiso, Chile](https://casnocha.com/2009/08/valparaiso-chile.html) — `2009-08-05-2009-08-valparaiso-chile-html.md` — 169w
+- 2009-08-05 — [Myths About Chile](https://casnocha.com/2009/08/myths-about-chile.html) — `2009-08-05-2009-08-myths-about-chile-html.md` — 304w
+- 2009-08-01 — [Getting Robbed in Buenos Aires](https://casnocha.com/2009/08/getting-robbed-in-buenos-aires.html) — `2009-08-01-2009-08-getting-robbed-in-buenos-aires-html.md` — 1096w
+- 2009-07-30 — [Vigilance on the Travel Trails](https://casnocha.com/2009/07/vigilance-on-the-travel-trails.html) — `2009-07-30-2009-07-vigilance-on-the-travel-trails-html.md` — 127w
+- 2009-07-30 — [Santiago, Chile](https://casnocha.com/2009/07/santiago-chile.html) — `2009-07-30-2009-07-santiago-chile-html.md` — 649w
+- 2009-07-30 — [Most Important Revenue Number in the B-Plan](https://casnocha.com/2009/07/most-important-revenue-number-in-the-bplan.html) — `2009-07-30-2009-07-most-important-revenue-number-in-the-bplan-html.md` — 338w
+- 2009-07-29 — [Environmentalist Follies: The Spiritually Rich Global Poor Must Be Protected](https://casnocha.com/2009/07/environmentalist-follies-the-spiritually-rich-global-poor-must-be-protected.html) — `2009-07-29-2009-07-environmentalist-follies-the-spiritually-rich-global-poor-must-be-protec.md` — 217w
+- 2009-07-28 — [Assorted Musings](https://casnocha.com/2009/07/assorted-musings-5.html) — `2009-07-28-2009-07-assorted-musings-5-html.md` — 660w
+- 2009-07-27 — [Rising Tide Lifts All (Nation-State) Boats](https://casnocha.com/2009/07/rising-tide-lifts-all-nationstate-boats.html) — `2009-07-27-2009-07-rising-tide-lifts-all-nationstate-boats-html.md` — 531w
+- 2009-07-24 — [Overcoming Adversity and Facing Reality](https://casnocha.com/2009/07/overcoming-adversity-and-facing-reality.html) — `2009-07-24-2009-07-overcoming-adversity-and-facing-reality-html.md` — 529w
+- 2009-07-22 — [The East Coast of Uruguay](https://casnocha.com/2009/07/the-east-coast-of-uruguay.html) — `2009-07-22-2009-07-the-east-coast-of-uruguay-html.md` — 162w
+- 2009-07-22 — [Almost Missing My Flight from Montevideo to Santiago](https://casnocha.com/2009/07/almost-missing-my-flight-from-montevideo-to-santiago.html) — `2009-07-22-2009-07-almost-missing-my-flight-from-montevideo-to-santiago-html.md` — 1173w
+- 2009-07-21 — [Montevideo, Uruguay](https://casnocha.com/2009/07/montevideo-uruguay.html) — `2009-07-21-2009-07-montevideo-uruguay-html.md` — 422w
+- 2009-07-20 — [“Best” over “Better.” Gifted vs. Special Needs Children.](https://casnocha.com/2009/07/best-over-better-gifted-vs-special-needs-children.html) — `2009-07-20-2009-07-best-over-better-gifted-vs-special-needs-children-html.md` — 488w
+- 2009-07-19 — [Impressions and Lessons from Argentina](https://casnocha.com/2009/07/impressions-and-lessons-from-argentina.html) — `2009-07-19-2009-07-impressions-and-lessons-from-argentina-html.md` — 887w
+- 2009-07-18 — [Cordoba, Argentina](https://casnocha.com/2009/07/cordoba-argentina.html) — `2009-07-18-2009-07-cordoba-argentina-html.md` — 140w
+- 2009-07-17 — [Comparing Modern Education to a Placebo](https://casnocha.com/2009/07/comparing-modern-education-to-a-placebo.html) — `2009-07-17-2009-07-comparing-modern-education-to-a-placebo-html.md` — 388w
+- 2009-07-15 — [Shrinking the “Stuff I Really Care About” Box](https://casnocha.com/2009/07/shrinking-the-stuff-i-really-care-about-box.html) — `2009-07-15-2009-07-shrinking-the-stuff-i-really-care-about-box-html.md` — 294w
+- 2009-07-13 — [Intellectual Stimulation in Life and Romance](https://casnocha.com/2009/07/intellectual-stimulation-romantic-partners-and-life.html) — `2009-07-13-2009-07-intellectual-stimulation-romantic-partners-and-life-html.md` — 306w
+- 2009-07-13 — [Iguazu Falls](https://casnocha.com/2009/07/iguazu-falls.html) — `2009-07-13-2009-07-iguazu-falls-html.md` — 200w
+- 2009-07-10 — [Quote of the Day](https://casnocha.com/2009/07/quote-of-the-day-4.html) — `2009-07-10-2009-07-quote-of-the-day-4-html.md` — 371w
+- 2009-07-09 — [Buenos Aires](https://casnocha.com/2009/07/buenos-aires.html) — `2009-07-09-2009-07-buenos-aires-html.md` — 499w
+- 2009-07-09 — [Back Pain Made Simple: Just the Facts](https://casnocha.com/2009/07/back-pain-made-simple-just-the-facts.html) — `2009-07-09-2009-07-back-pain-made-simple-just-the-facts-html.md` — 309w
+- 2009-07-08 — [Systematically Cultivate Bonding in Orientation Sessions or Retreats](https://casnocha.com/2009/07/systematically-cultivate-bonding-in-orientation-sessions-or-retreats.html) — `2009-07-08-2009-07-systematically-cultivate-bonding-in-orientation-sessions-or-retreats-htm.md` — 263w
+- 2009-07-07 — [Are Big Picture Thinkers Neglected by Our School System?](https://casnocha.com/2009/07/are-big-picture-thinkers-neglected-by-our-school-system.html) — `2009-07-07-2009-07-are-big-picture-thinkers-neglected-by-our-school-system-html.md` — 311w
+- 2009-07-06 — [Urban Nomadicism: The Sources of Unhappiness for Serial Travelers](https://casnocha.com/2009/07/urban-nomadicism-the-sources-of-unhappiness-for-serial-travelers.html) — `2009-07-06-2009-07-urban-nomadicism-the-sources-of-unhappiness-for-serial-travelers-html.md` — 517w
+- 2009-07-03 — [The First Discovery of Personal Agency](https://casnocha.com/2009/07/the-first-discovery-of-personal-agency.html) — `2009-07-03-2009-07-the-first-discovery-of-personal-agency-html.md` — 357w
+- 2009-07-01 — [Book Review and Essay: Create Your Own Economy and Internet Info Culture](https://casnocha.com/2009/07/book-review-and-essay-create-your-own-economy-and-internet-info-culture.html) — `2009-07-01-2009-07-book-review-and-essay-create-your-own-economy-and-internet-info-culture-.md` — 918w
+- 2009-06-30 — [Cater to Your Inner-Completionist](https://casnocha.com/2009/06/cater-to-your-inner-completionist.html) — `2009-06-30-2009-06-cater-to-your-inner-completionist-html.md` — 216w
+- 2009-06-29 — [Priestly Believed in Randomness and Side Projects](https://casnocha.com/2009/06/priestly-believed-in-randomness-and-side-projects.html) — `2009-06-29-2009-06-priestly-believed-in-randomness-and-side-projects-html.md` — 252w
+- 2009-06-26 — [Links from Around the Web](https://casnocha.com/2009/06/links-from-around-the-web-4.html) — `2009-06-26-2009-06-links-from-around-the-web-4-html.md` — 442w
+- 2009-06-23 — [Four Personality Types and Romance](https://casnocha.com/2009/06/four-personality-types-and-romance.html) — `2009-06-23-2009-06-four-personality-types-and-romance-html.md` — 527w
+- 2009-06-22 — [Appealing to the Classiness Aspiration of Young Men and Women](https://casnocha.com/2009/06/appealing-to-the-classiness-aspiration-of-young-men-and-women.html) — `2009-06-22-2009-06-appealing-to-the-classiness-aspiration-of-young-men-and-women-html.md` — 607w
+- 2009-06-21 — [Best Reference Check Strategy Ever](https://casnocha.com/2009/06/best-reference-check-strategy-ever.html) — `2009-06-21-2009-06-best-reference-check-strategy-ever-html.md` — 339w
+- 2009-06-20 — [What I’ve Been Reading](https://casnocha.com/2009/06/what-ive-been-reading-6.html) — `2009-06-20-2009-06-what-ive-been-reading-6-html.md` — 899w
+- 2009-06-19 — [How To Be Interesting](https://casnocha.com/2009/06/how-to-be-interesting.html) — `2009-06-19-2009-06-how-to-be-interesting-html.md` — 287w
+- 2009-06-16 — [I’m Scared to Death. But Supremely Confident.](https://casnocha.com/2009/06/im-scared-to-death-but-supremely-confident.html) — `2009-06-16-2009-06-im-scared-to-death-but-supremely-confident-html.md` — 564w
+- 2009-06-14 — [Think Different TV: Colin Marshall and Me](https://casnocha.com/2009/06/think-different-tv-colin-marshall-and-me.html) — `2009-06-14-2009-06-think-different-tv-colin-marshall-and-me-html.md` — 260w
+- 2009-06-13 — [Book Notes: Why Beautiful People Have More Daughters](https://casnocha.com/2009/06/book-notes-why-beautiful-people.html) — `2009-06-13-2009-06-book-notes-why-beautiful-people-html.md` — 3084w
+- 2009-06-12 — [Teaching Entrepreneurship via Business Plans](https://casnocha.com/2009/06/teaching-entrepreneurship-via-business-plans.html) — `2009-06-12-2009-06-teaching-entrepreneurship-via-business-plans-html.md` — 335w
+- 2009-06-10 — [Upcoming Travel: Latin America and Asia](https://casnocha.com/2009/06/upcoming-travel-latin-america-and-asia.html) — `2009-06-10-2009-06-upcoming-travel-latin-america-and-asia-html.md` — 209w
+- 2009-06-09 — [A 30 Year-Old’s Colorful Advice to 20-Somethings](https://casnocha.com/2009/06/a-30-yearolds-colorful-advice-to-20somethings.html) — `2009-06-09-2009-06-a-30-yearolds-colorful-advice-to-20somethings-html.md` — 120w
+- 2009-06-08 — [An Appreciative Approach to People](https://casnocha.com/2009/06/an-appreciative-approach-to-people.html) — `2009-06-08-2009-06-an-appreciative-approach-to-people-html.md` — 354w
+- 2009-06-07 — [Store Thoughts in the Appropriate Place as Soon as You Have Them](https://casnocha.com/2009/06/store-thoughts-in-the-appropriate-place-as-soon-as-you-have-them.html) — `2009-06-07-2009-06-store-thoughts-in-the-appropriate-place-as-soon-as-you-have-them-html.md` — 192w
+- 2009-06-05 — [The Days Are Long, But The Years Are Short](https://casnocha.com/2009/06/the-days-are-long-but-the-years-are-short.html) — `2009-06-05-2009-06-the-days-are-long-but-the-years-are-short-html.md` — 254w
+- 2009-06-04 — [Assorted Musings](https://casnocha.com/2009/06/assorted-musings-6.html) — `2009-06-04-2009-06-assorted-musings-6-html.md` — 1175w
+- 2009-06-03 — [Understanding What Keeps a Person Up at Night](https://casnocha.com/2009/06/understanding-what-keeps-a-person-up-at-night.html) — `2009-06-03-2009-06-understanding-what-keeps-a-person-up-at-night-html.md` — 348w
+- 2009-06-02 — [The Wisdom of Colin Marshall](https://casnocha.com/2009/06/the-wisdom-of-colin-marshall.html) — `2009-06-02-2009-06-the-wisdom-of-colin-marshall-html.md` — 425w
+- 2009-05-30 — [Book Notes: Telling True Stories: A Nonfiction Writer’s Guide](https://casnocha.com/2009/05/book-notes-telling-true-stories-a-nonfiction-writers-guide.html) — `2009-05-30-2009-05-book-notes-telling-true-stories-a-nonfiction-writers-guide-html.md` — 979w
+- 2009-05-28 — [On Criticism](https://casnocha.com/2009/05/on-criticism.html) — `2009-05-28-2009-05-on-criticism-html.md` — 729w
+- 2009-05-27 — [What Did You Learn at the Meta-Level?](https://casnocha.com/2009/05/what-did-you-learn-at-the-metalevel.html) — `2009-05-27-2009-05-what-did-you-learn-at-the-metalevel-html.md` — 151w
+- 2009-05-26 — [Farmers Didn’t Invent Tractors. They Were Busy Farming.](https://casnocha.com/2009/05/farmers-didnt-invent-tractors-they-were-busy-farming.html) — `2009-05-26-2009-05-farmers-didnt-invent-tractors-they-were-busy-farming-html.md` — 317w
+- 2009-05-24 — [When to Trust Your Gut](https://casnocha.com/2009/05/when-to-trust-your-gut.html) — `2009-05-24-2009-05-when-to-trust-your-gut-html.md` — 200w
+- 2009-05-22 — [Lessons from the Tropicana Rebranding Disaster](https://casnocha.com/2009/05/lessons-from-the-tropicana-rebranding-disaster.html) — `2009-05-22-2009-05-lessons-from-the-tropicana-rebranding-disaster-html.md` — 491w
+- 2009-05-21 — [Does Travel Narrow the Mind?](https://casnocha.com/2009/05/does-travel-narrow-the-mind.html) — `2009-05-21-2009-05-does-travel-narrow-the-mind-html.md` — 335w
+- 2009-05-20 — [The Quarter Life Crisis](https://casnocha.com/2009/05/the-quarter-life-crisis.html) — `2009-05-20-2009-05-the-quarter-life-crisis-html.md` — 871w
+- 2009-05-18 — [Quote of the Day](https://casnocha.com/2009/05/quote-of-the-day-5.html) — `2009-05-18-2009-05-quote-of-the-day-5-html.md` — 175w
+- 2009-05-16 — [What I Learned at St. Gallen](https://casnocha.com/2009/05/what-i-learned-at-st-gallen.html) — `2009-05-16-2009-05-what-i-learned-at-st-gallen-html.md` — 1056w
+- 2009-05-15 — [Underground World of Neuroenhancing Drugs](https://casnocha.com/2009/05/the-underground-world-of-neuroenhancing-drugs.html) — `2009-05-15-2009-05-the-underground-world-of-neuroenhancing-drugs-html.md` — 259w
+- 2009-05-13 — [Links from Around the Web](https://casnocha.com/2009/05/links-from-around-the-web-5.html) — `2009-05-13-2009-05-links-from-around-the-web-5-html.md` — 311w
+- 2009-05-12 — [Why Setting Goals Can Backfire](https://casnocha.com/2009/05/why-setting-goals-can-backfire.html) — `2009-05-12-2009-05-why-setting-goals-can-backfire-html.md` — 229w
+- 2009-05-12 — [Can “Generic” Critical Thinking Be Taught?](https://casnocha.com/2009/05/can-generic-critical-thinking-be-taught.html) — `2009-05-12-2009-05-can-generic-critical-thinking-be-taught-html.md` — 459w
+- 2009-05-11 — [Language Thoughts](https://casnocha.com/2009/05/language-thoughts.html) — `2009-05-11-2009-05-language-thoughts-html.md` — 152w
+- 2009-05-11 — [Impressions from Switzerland ’09](https://casnocha.com/2009/05/impressions-from-switzerland-09.html) — `2009-05-11-2009-05-impressions-from-switzerland-09-html.md` — 169w
+- 2009-05-07 — [My Information Diet](https://casnocha.com/2009/05/my-information-diet.html) — `2009-05-07-2009-05-my-information-diet-html.md` — 944w
+- 2009-05-06 — [What I’ve Been Reading](https://casnocha.com/2009/05/what-ive-been-reading-7.html) — `2009-05-06-2009-05-what-ive-been-reading-7-html.md` — 525w
+- 2009-05-05 — [Enhancing Our Truth Orientation](https://casnocha.com/2009/05/why-people-hold-an-opinion.html) — `2009-05-05-2009-05-why-people-hold-an-opinion-html.md` — 306w
+- 2009-05-04 — [Book Notes: Due Considerations by John Updike](https://casnocha.com/2009/05/book-notes-due-considerations-by-john-updike.html) — `2009-05-04-2009-05-book-notes-due-considerations-by-john-updike-html.md` — 1651w
+- 2009-05-01 — [We Think We Know the Ones We Love](https://casnocha.com/2009/05/we-think-we-know-the-ones-we-love.html) — `2009-05-01-2009-05-we-think-we-know-the-ones-we-love-html.md` — 358w
+- 2009-04-29 — [I Believe in Overcommunication](https://casnocha.com/2009/04/i-believe-in-overcommunication.html) — `2009-04-29-2009-04-i-believe-in-overcommunication-html.md` — 261w
+- 2009-04-28 — [Symbolic Lip Service in the Form of Small, Ineffective Actions](https://casnocha.com/2009/04/symbolic-lip-service-in-the-form-of-small-ineffective-actions.html) — `2009-04-28-2009-04-symbolic-lip-service-in-the-form-of-small-ineffective-actions-html.md` — 233w
+- 2009-04-27 — [Book Review: To Hell With All That: Loving and Loathing Our Inner Housewife](https://casnocha.com/2009/04/book-review-to-hell-with-all-that-by-caitlin-flanagan.html) — `2009-04-27-2009-04-book-review-to-hell-with-all-that-by-caitlin-flanagan-html.md` — 1017w
+- 2009-04-26 — [Procrastiflation: Procrastination + Inflation](https://casnocha.com/2009/04/procrastiflation-procrastination-inflation.html) — `2009-04-26-2009-04-procrastiflation-procrastination-inflation-html.md` — 212w
+- 2009-04-24 — [Role of Side Projects in Innovation](https://casnocha.com/2009/04/success-on-the-side.html) — `2009-04-24-2009-04-success-on-the-side-html.md` — 311w
+- 2009-04-23 — [The Capacity to Surprise](https://casnocha.com/2009/04/the-capacity-to-surprise.html) — `2009-04-23-2009-04-the-capacity-to-surprise-html.md` — 212w
+- 2009-04-21 — [When the Blinders Come Off…](https://casnocha.com/2009/04/when-the-blinders-come-off.html) — `2009-04-21-2009-04-when-the-blinders-come-off-html.md` — 321w
+- 2009-04-20 — [The Best Jokes are Hardest to Recall](https://casnocha.com/2009/04/the-best-jokes-are-hardest-to-recall.html) — `2009-04-20-2009-04-the-best-jokes-are-hardest-to-recall-html.md` — 486w
+- 2009-04-18 — [The Many Sides of Friendship](https://casnocha.com/2009/04/the-many-sides-of-friendship.html) — `2009-04-18-2009-04-the-many-sides-of-friendship-html.md` — 679w
+- 2009-04-14 — [Spiritual But Not Religious](https://casnocha.com/2009/04/spiritual-but-not-religious.html) — `2009-04-14-2009-04-spiritual-but-not-religious-html.md` — 506w
+- 2009-04-12 — [Assorted Musings](https://casnocha.com/2009/04/assorte.html) — `2009-04-12-2009-04-assorte-html.md` — 554w
+- 2009-04-10 — [What I Learned from 1.5 Weeks in Colombia](https://casnocha.com/2009/04/what-i-learned-from-15-weeks-in-colombia.html) — `2009-04-10-2009-04-what-i-learned-from-15-weeks-in-colombia-html.md` — 1790w
+- 2009-04-09 — [Every Group Needs an Outcast](https://casnocha.com/2009/04/every-group-needs-an-outcast.html) — `2009-04-09-2009-04-every-group-needs-an-outcast-html.md` — 140w
+- 2009-04-08 — [The -isms Are Running the Academy](https://casnocha.com/2009/04/the-high-culture-wars.html) — `2009-04-08-2009-04-the-high-culture-wars-html.md` — 361w
+- 2009-04-08 — [Fashion Sense of the Job-Hunting Student](https://casnocha.com/2009/04/fashion-sense-of-the-jobhunting-student.html) — `2009-04-08-2009-04-fashion-sense-of-the-jobhunting-student-html.md` — 125w
+- 2009-04-06 — [Damn It Feels Good to Be a Lefty](https://casnocha.com/2009/04/damn-it-feels-good-to-be-a-lefty.html) — `2009-04-06-2009-04-damn-it-feels-good-to-be-a-lefty-html.md` — 595w
+- 2009-04-04 — [Why Are Women Always Complimenting Each Other on Their Looks?](https://casnocha.com/2009/04/why-are-women-always-complimenting-each-other-on-their-looks.html) — `2009-04-04-2009-04-why-are-women-always-complimenting-each-other-on-their-looks-html.md` — 167w
+- 2009-04-03 — [Book Review: The Reluctant Fundamentalist](https://casnocha.com/2009/04/book-review-the-reluctant-fundamentalist.html) — `2009-04-03-2009-04-book-review-the-reluctant-fundamentalist-html.md` — 689w
+- 2009-04-02 — [Universally Loved vs. Loved and Hated to a Greater Degree](https://casnocha.com/2009/04/universally-loved-vs-loved-and-hated-to-a-greater-degree.html) — `2009-04-02-2009-04-universally-loved-vs-loved-and-hated-to-a-greater-degree-html.md` — 128w
+- 2009-04-02 — [Random Thoughts from Colombia](https://casnocha.com/2009/04/random-thoughts-from-colombia.html) — `2009-04-02-2009-04-random-thoughts-from-colombia-html.md` — 336w
+- 2009-04-02 — [Bogotá Meetings Day 1](https://casnocha.com/2009/04/bogot-meetings-day-1.html) — `2009-04-02-2009-04-bogot-meetings-day-1-html.md` — 505w
+- 2009-04-02 — [Bogota Day 2](https://casnocha.com/2009/04/bogota-day-2.html) — `2009-04-02-2009-04-bogota-day-2-html.md` — 350w
+- 2009-03-31 — [The Right Mix of Independence and Interdependence for Group Decision Making](https://casnocha.com/2009/03/the-right-mix-of-independence-and-interdependence-for-group-decision-making.html) — `2009-03-31-2009-03-the-right-mix-of-independence-and-interdependence-for-group-decision-mak.md` — 196w
+- 2009-03-31 — [Email of the Day, Youth Sports Edition](https://casnocha.com/2009/03/email-of-the-day-youth-sports-edition.html) — `2009-03-31-2009-03-email-of-the-day-youth-sports-edition-html.md` — 613w
+- 2009-03-30 — [What I’ve Been Reading](https://casnocha.com/2009/03/what-ive-been-reading-8.html) — `2009-03-30-2009-03-what-ive-been-reading-8-html.md` — 342w
+- 2009-03-30 — [Horseback Riding in the Countryside](https://casnocha.com/2009/03/horseback-riding-in-the-countryside.html) — `2009-03-30-2009-03-horseback-riding-in-the-countryside-html.md` — 229w
+- 2009-03-29 — [Colombia: Uribe, Clinton, Barrett, Reid, and Others](https://casnocha.com/2009/03/colombia-uribe-clinton-barrett-reid-and-others.html) — `2009-03-29-2009-03-colombia-uribe-clinton-barrett-reid-and-others-html.md` — 757w
+- 2009-03-28 — [Length of Meals in Latin America](https://casnocha.com/2009/03/length-of-meals-in-latin-america.html) — `2009-03-28-2009-03-length-of-meals-in-latin-america-html.md` — 124w
+- 2009-03-27 — [Better to Start a B2B Company in a Recession](https://casnocha.com/2009/03/better-to-start-a-b2b-company-in-a-recession.html) — `2009-03-27-2009-03-better-to-start-a-b2b-company-in-a-recession-html.md` — 149w
+- 2009-03-26 — [In Defense of Downtime](https://casnocha.com/2009/03/in-defense-of-downtime.html) — `2009-03-26-2009-03-in-defense-of-downtime-html.md` — 141w
+- 2009-03-25 — [Most Natural “You” Emerges When Masks Collapse](https://casnocha.com/2009/03/most-natural-you-emerges-when-masks-collapse.html) — `2009-03-25-2009-03-most-natural-you-emerges-when-masks-collapse-html.md` — 287w
+- 2009-03-25 — [Colombia, Day 1](https://casnocha.com/2009/03/colombia-day-1.html) — `2009-03-25-2009-03-colombia-day-1-html.md` — 410w
+- 2009-03-24 — [Infidelity and Trust: Boardroom vs. Basketball Court](https://casnocha.com/2009/03/infidelity-and-trust-boardroom-vs-basketball-court.html) — `2009-03-24-2009-03-infidelity-and-trust-boardroom-vs-basketball-court-html.md` — 242w
+- 2009-03-23 — [Book Review: I Will Teach You To Be Rich](https://casnocha.com/2009/03/book-review-i-will-teach-you-to-be-rich.html) — `2009-03-23-2009-03-book-review-i-will-teach-you-to-be-rich-html.md` — 409w
+- 2009-03-23 — [An Egg vs. Hard, High Wall](https://casnocha.com/2009/03/an-egg-vs-hard-high-wall.html) — `2009-03-23-2009-03-an-egg-vs-hard-high-wall-html.md` — 162w
+- 2009-03-21 — [Highbrow Personal Praise and Description](https://casnocha.com/2009/03/highbrow-personal-praise-and-description.html) — `2009-03-21-2009-03-highbrow-personal-praise-and-description-html.md` — 623w
+- 2009-03-19 — [Assorted Musings](https://casnocha.com/2009/03/assorted-musings-1.html) — `2009-03-19-2009-03-assorted-musings-1-html.md` — 913w
+- 2009-03-18 — [In Defense of Those Peculiar and Freaky](https://casnocha.com/2009/03/in-defense-of-those-peculiar-and-freaky.html) — `2009-03-18-2009-03-in-defense-of-those-peculiar-and-freaky-html.md` — 174w
+- 2009-03-18 — [Being Behind by a Little Yields the Greatest Possible Effort](https://casnocha.com/2009/03/being-behind-by-a-little-yields-the-greatest-possible-effort.html) — `2009-03-18-2009-03-being-behind-by-a-little-yields-the-greatest-possible-effort-html.md` — 123w
+- 2009-03-16 — [When Looking for Smart, Attractive Adult Women…](https://casnocha.com/2009/03/when-looking-for-smart-attractive-adult-women.html) — `2009-03-16-2009-03-when-looking-for-smart-attractive-adult-women-html.md` — 123w
+- 2009-03-14 — [Quotes of the Day](https://casnocha.com/2009/03/quotes-of-the-day-3.html) — `2009-03-14-2009-03-quotes-of-the-day-3-html.md` — 201w
+- 2009-03-12 — [Clinging to the Wreckage](https://casnocha.com/2009/03/clinging-to-the-wreckage.html) — `2009-03-12-2009-03-clinging-to-the-wreckage-html.md` — 408w
+- 2009-03-11 — [Focusing on the Fundamentals](https://casnocha.com/2009/03/focusing-on-the-fundamentals.html) — `2009-03-11-2009-03-focusing-on-the-fundamentals-html.md` — 314w
+- 2009-03-09 — [Oldies But Goodies From the Archives](https://casnocha.com/2009/03/50-posts-from-the-archives-1.html) — `2009-03-09-2009-03-50-posts-from-the-archives-1-html.md` — 588w
+- 2009-03-08 — [The Deadly Earnest Hunt for Identity](https://casnocha.com/2009/03/the-deadly-earnest-hunt-for-identity.html) — `2009-03-08-2009-03-the-deadly-earnest-hunt-for-identity-html.md` — 464w
+- 2009-03-06 — [Predicative Index Behavioral Assessment](https://casnocha.com/2009/03/predicative-index-behavioral-assessment.html) — `2009-03-06-2009-03-predicative-index-behavioral-assessment-html.md` — 1085w
+- 2009-03-04 — [Love Is Something You Do](https://casnocha.com/2009/03/love-is-something-you-do.html) — `2009-03-04-2009-03-love-is-something-you-do-html.md` — 367w
+- 2009-03-03 — [Scalable vs. Non-Scalable Careers](https://casnocha.com/2009/03/scalable-vs-non-scalable-careers.html) — `2009-03-03-2009-03-scalable-vs-non-scalable-careers-html.md` — 501w
+- 2009-03-02 — [Observations on Restaurants, Tips, and Bread Baskets](https://casnocha.com/2009/03/observations-on-restaurants-tips-and-bread-baskets.html) — `2009-03-02-2009-03-observations-on-restaurants-tips-and-bread-baskets-html.md` — 774w
+- 2009-03-02 — [Capacity of Spirit > Any Special Talents](https://casnocha.com/2009/03/capacity-of-spirit-any-special-talents.html) — `2009-03-02-2009-03-capacity-of-spirit-any-special-talents-html.md` — 143w
+- 2009-02-28 — [Book Review: On Beauty by Zadie Smith](https://casnocha.com/2009/02/book-review-on-beauty-by-zadie-smith.html) — `2009-02-28-2009-02-book-review-on-beauty-by-zadie-smith-html.md` — 675w
+- 2009-02-26 — [Think Different TV: Marty Nemko and Me](https://casnocha.com/2009/02/think-different-tv-marty-nemko-and-me.html) — `2009-02-26-2009-02-think-different-tv-marty-nemko-and-me-html.md` — 535w
+- 2009-02-26 — [Book Notes: Ambition by Joseph Epstein](https://casnocha.com/2009/02/book-notes-ambition-by-joseph-epstein.html) — `2009-02-26-2009-02-book-notes-ambition-by-joseph-epstein-html.md` — 2408w
+- 2009-02-24 — [“Someday I’ll Pursue Higher Things. First, I Make Money.”](https://casnocha.com/2009/02/someday-ill-pursue-higher-things-first-i-make-money.html) — `2009-02-24-2009-02-someday-ill-pursue-higher-things-first-i-make-money-html.md` — 463w
+- 2009-02-23 — [In-Person Conversation Skills](https://casnocha.com/2009/02/in-person-conversation-skills.html) — `2009-02-23-2009-02-in-person-conversation-skills-html.md` — 937w
+- 2009-02-22 — [Grand Unified Theory of Economics of Free](https://casnocha.com/2009/02/grand-unified-theory-of-economics-of-free.html) — `2009-02-22-2009-02-grand-unified-theory-of-economics-of-free-html.md` — 299w
+- 2009-02-19 — [The “Soundtrack of Your Life” Delusion](https://casnocha.com/2009/02/the-soundtrack-of-your-life-delusion.html) — `2009-02-19-2009-02-the-soundtrack-of-your-life-delusion-html.md` — 130w
+- 2009-02-18 — [A New Status Anxiety is Infecting Affluent Hipdom](https://casnocha.com/2009/02/a-new-status-anxiety-is-infecting-affluent-hipdom.html) — `2009-02-18-2009-02-a-new-status-anxiety-is-infecting-affluent-hipdom-html.md` — 437w
+- 2009-02-16 — [Three Things I’m Doing to Become Healthier and Smarter](https://casnocha.com/2009/02/three-things-im-doing-to-become-healthier-and-smarter.html) — `2009-02-16-2009-02-three-things-im-doing-to-become-healthier-and-smarter-html.md` — 295w
+- 2009-02-16 — [Rep. Peter Stark: An Exemplary Public Servant](https://casnocha.com/2009/02/rep-peter-stark-an-exemplary-public-servant.html) — `2009-02-16-2009-02-rep-peter-stark-an-exemplary-public-servant-html.md` — 260w
+- 2009-02-15 — [The Underrated, No-Stats All-Star](https://casnocha.com/2009/02/the-underrated-nostats-allstar.html) — `2009-02-15-2009-02-the-underrated-nostats-allstar-html.md` — 250w
+- 2009-02-15 — [Four Types of Value a Product Offers to a Customer](https://casnocha.com/2009/02/four-types-of-value-a-product-offers-to-a-customer.html) — `2009-02-15-2009-02-four-types-of-value-a-product-offers-to-a-customer-html.md` — 510w
+- 2009-02-13 — [Steven Korman’s Open Letter to CEOs](https://casnocha.com/2009/02/steven-kormans-open-letter-to-ceos.html) — `2009-02-13-2009-02-steven-kormans-open-letter-to-ceos-html.md` — 473w
+- 2009-02-11 — [Intellectual Honesty Includes Things Like…](https://casnocha.com/2009/02/intellectual-honesty-includes-things-like.html) — `2009-02-11-2009-02-intellectual-honesty-includes-things-like-html.md` — 154w
+- 2009-02-10 — [Sub-Conscious Synthesis of Experiences](https://casnocha.com/2009/02/sub-conscious-synthesis-of-experiences.html) — `2009-02-10-2009-02-sub-conscious-synthesis-of-experiences-html.md` — 449w
+- 2009-02-10 — [Manifestos on Management and Happiness](https://casnocha.com/2009/02/manifestos-on-management-and-happiness.html) — `2009-02-10-2009-02-manifestos-on-management-and-happiness-html.md` — 513w

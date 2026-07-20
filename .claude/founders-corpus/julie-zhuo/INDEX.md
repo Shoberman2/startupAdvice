@@ -1,11 +1,10 @@
 # Julie Zhuo corpus index
 
-Source: https://lg.substack.com — fetched 2026-07-19
-77 posts, 109036 words. Format: date — [title](canonical url) — `file` — words.
+Source: https://lg.substack.com — fetched 2026-07-20
+75 posts, 105414 words. Format: date — [title](canonical url) — `file` — words.
 
 - undated — [You're definitely going to be a manager now](https://lg.substack.com/p/managing-ai-is-like-managing-humans) — `undated-p-managing-ai-is-like-managing-humans.md` — 999w
 - undated — [When AI Has Better Taste Than You](https://lg.substack.com/p/when-ai-has-better-taste-than-you) — `undated-p-when-ai-has-better-taste-than-you.md` — 1497w
-- undated — [What It Actually Takes to Trust AI With Your Data](https://lg.substack.com/p/what-it-actually-takes-to-trust-ai) — `undated-p-what-it-actually-takes-to-trust-ai.md` — 1859w
 - undated — [Truth, Context, and Social Media](https://lg.substack.com/p/the-looking-glass-truth-context-and) — `undated-p-the-looking-glass-truth-context-and.md` — 1604w
 - undated — [To All the Folks Who Are About to Be Rich](https://lg.substack.com/p/to-all-the-folks-who-are-about-to) — `undated-p-to-all-the-folks-who-are-about-to.md` — 1688w
 - undated — [The gifts of 40](https://lg.substack.com/p/the-gifts-of-40) — `undated-p-the-gifts-of-40.md` — 1211w
@@ -23,7 +22,6 @@ Source: https://lg.substack.com — fetched 2026-07-19
 - undated — [The Looking Glass: What Aladdin Should have Wished For](https://lg.substack.com/p/the-looking-glass-what-aladdin-should) — `undated-p-the-looking-glass-what-aladdin-should.md` — 1426w
 - undated — [The Looking Glass: What AI Won't Change](https://lg.substack.com/p/the-looking-glass-what-ai-wont-change) — `undated-p-the-looking-glass-what-ai-wont-change.md` — 1158w
 - undated — [The Looking Glass: Unintuitive, lying truths](https://lg.substack.com/p/the-looking-glass-those-unintuitive) — `undated-p-the-looking-glass-those-unintuitive.md` — 648w
-- undated — [The Looking Glass: The craft of creating](https://lg.substack.com/p/the-looking-glass-the-craft-of-creating) — `undated-p-the-looking-glass-the-craft-of-creating.md` — 1763w
 - undated — [The Looking Glass: The Year of Everyday Risks](https://lg.substack.com/p/the-looking-glass-the-year-of-everyday) — `undated-p-the-looking-glass-the-year-of-everyday.md` — 1694w
 - undated — [The Looking Glass: The Stories That Become History](https://lg.substack.com/p/the-looking-glass-the-stories-that) — `undated-p-the-looking-glass-the-stories-that.md` — 2086w
 - undated — [The Looking Glass: The Power of the Mindmeld](https://lg.substack.com/p/the-looking-glass-the-power-of-the) — `undated-p-the-looking-glass-the-power-of-the.md` — 1743w

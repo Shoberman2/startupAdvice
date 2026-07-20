@@ -1,89 +1,380 @@
 # Nathan Barry corpus index
 
-Source: https://nathanbarry.com/blog — fetched 2026-07-19
-84 posts, 64781 words. Format: date — [title](canonical url) — `file` — words.
+Source: https://nathanbarry.com/blog — fetched 2026-07-20
+375 posts, 1666759 words. Format: date — [title](canonical url) — `file` — words.
 
-- 2013-07-22 — [Naive Design](https://nathanbarry.com/naive-design/) — `2013-07-22-naive-design.md` — 718w
-- 2013-04-02 — [The Hidden Costs of Contract Work](https://nathanbarry.com/hidden-costs-contract-work/) — `2013-04-02-hidden-costs-contract-work.md` — 577w
-- 2013-01-28 — [Helping People Who Help Themselves](https://nathanbarry.com/helping-people/) — `2013-01-28-helping-people.md` — 417w
-- 2013-01-15 — [Finding a Developer](https://nathanbarry.com/finding-developer/) — `2013-01-15-finding-developer.md` — 1425w
-- 2013-01-10 — [An Unstoppable Combination](https://nathanbarry.com/unstoppable-combination/) — `2013-01-10-unstoppable-combination.md` — 651w
-- 2013-01-08 — [Finding Ideas For Your Next Project](https://nathanbarry.com/finding-ideas-project/) — `2013-01-08-finding-ideas-project.md` — 1729w
-- 2012-12-31 — [Starting The Web App Challenge: From Zero to $5,000/month In 6 Months](https://nathanbarry.com/starting-web-app-challenge/) — `2012-12-31-starting-web-app-challenge.md` — 1177w
-- 2012-12-29 — [One Year After Quitting My Job](https://nathanbarry.com/2012-year-quitting-job/) — `2012-12-29-2012-year-quitting-job.md` — 1603w
-- 2012-12-21 — [$26,679 in 24 hours: Stats from my latest book launch](https://nathanbarry.com/behind-the-scenes/) — `2012-12-21-behind-the-scenes.md` — 1947w
-- 2012-12-12 — [Is your web application painful to use?](https://nathanbarry.com/web-application-painful-use/) — `2012-12-12-web-application-painful-use.md` — 665w
-- 2012-12-06 — [A Preview of Designing Web Applications](https://nathanbarry.com/preview-designing-web-applications/) — `2012-12-06-preview-designing-web-applications.md` — 241w
-- 2012-11-28 — [Ryan Singer from 37signals on software design, workflow, and “Judo”](https://nathanbarry.com/ryan-singer-interview/) — `2012-11-28-ryan-singer-interview.md` — 7015w
-- 2012-11-12 — [How to generate more revenue from your web application today](https://nathanbarry.com/generate-revenue-web-application-today/) — `2012-11-12-generate-revenue-web-application-today.md` — 2272w
-- 2012-10-31 — [My Experience Selling With Gumroad](https://nathanbarry.com/experience-selling-gumroad/) — `2012-10-31-experience-selling-gumroad.md` — 1093w
-- 2012-10-24 — [The commitment that changed my career + my next project.](https://nathanbarry.com/commitment-changed-career/) — `2012-10-24-commitment-changed-career.md` — 794w
-- 2012-10-08 — [$39k in eBook Sales Part 2: Design, Testimonials, and Traffic](https://nathanbarry.com/39k-ebook-sales-part-2/) — `2012-10-08-39k-ebook-sales-part-2.md` — 8087w
-- 2012-10-03 — [How Nathan Barry and Sacha Greif Sold $39k Worth of eBooks](https://nathanbarry.com/nathan-barry-sacha-greif-sold-39k-worth-ebooks/) — `2012-10-03-nathan-barry-sacha-greif-sold-39k-worth-ebooks.md` — 5746w
-- 2012-09-19 — [Design Lessons From The New Twitter iPad App](https://nathanbarry.com/new-twitter-for-ipad/) — `2012-09-19-new-twitter-for-ipad.md` — 1273w
-- 2012-09-18 — [Don’t Repeat My Product Launch Mistakes](https://nathanbarry.com/product-launch-mistakes/) — `2012-09-18-product-launch-mistakes.md` — 1010w
-- 2012-09-13 — [I’m addicted to vanity metrics](https://nathanbarry.com/addicted-vanity-metrics/) — `2012-09-13-addicted-vanity-metrics.md` — 520w
-- 2012-09-04 — [What I learned selling $6,000+ of my ebook today.](https://nathanbarry.com/learned-selling-6000-ebook-today/) — `2012-09-04-learned-selling-6000-ebook-today.md` — 1057w
-- 2012-08-29 — [A Look Inside The App Design Handbook](https://nathanbarry.com/inside-app-design-handbook/) — `2012-08-29-inside-app-design-handbook.md` — 305w
-- 2012-08-24 — [User Experience Lessons From the New Facebook iOS App](https://nathanbarry.com/ux-lessons-from-facebook-ios/) — `2012-08-24-ux-lessons-from-facebook-ios.md` — 925w
-- 2012-08-07 — [Learn iOS Design and Photoshop Tricks with These 1](https://nathanbarry.com/learn-ios-design-photoshop-tricks-1-3-minute-videos/) — `2012-08-07-learn-ios-design-photoshop-tricks-1-3-minute-videos.md` — 148w
-- 2012-07-31 — [Learn To Design a Book Landing Page In Photoshop (Video)](https://nathanbarry.com/designing-book-landing-page-photoshop/) — `2012-07-31-designing-book-landing-page-photoshop.md` — 135w
-- 2012-07-25 — [My new book: The App Design Handbook](https://nathanbarry.com/book-app-design-handbook/) — `2012-07-25-book-app-design-handbook.md` — 171w
-- 2012-07-20 — [89,697 Reasons to Teach Everything You Know](https://nathanbarry.com/89697-reasons-to-teach/) — `2012-07-20-89697-reasons-to-teach.md` — 266w
-- 2012-07-16 — [The World Domination Summit (2012)](https://nathanbarry.com/world-domination-summit-2012/) — `2012-07-16-world-domination-summit-2012.md` — 525w
-- 2012-07-02 — [Giving Yourself Advice](https://nathanbarry.com/giving-yourself-advice/) — `2012-07-02-giving-yourself-advice.md` — 274w
-- 2012-06-26 — [300 or $60,000? How to talk about numbers.](https://nathanbarry.com/300-60000-talk-numbers/) — `2012-06-26-300-60000-talk-numbers.md` — 295w
-- 2012-06-07 — [Bragging About the Wrong Metrics](https://nathanbarry.com/wrong-metrics/) — `2012-06-07-wrong-metrics.md` — 300w
-- 2012-06-02 — [Traveling with a Baby](https://nathanbarry.com/traveling-baby/) — `2012-06-02-traveling-baby.md` — 1307w
+- 2026-07-09 — [#1 Speaking Coach Explains How to Master Speaking (In Just 58 Minutes) | 136](https://nathanbarry.com/1-speaking-coach-explains-how-to-master-speaking-in-just-58-minutes-136/) — `2026-07-09-1-speaking-coach-explains-how-to-master-speaking-in-just-58-minutes-136.md` — 13780w
+- 2026-06-18 — [Million Dollar Founder Explains How To Avoid Burnout In 2026 | 133](https://nathanbarry.com/million-dollar-founder-explains-how-to-avoid-burnout-in-2026-133/) — `2026-06-18-million-dollar-founder-explains-how-to-avoid-burnout-in-2026-133.md` — 14443w
+- 2026-06-11 — [Business Expert: The Secret Power of IP To Grow Your Business | 132](https://nathanbarry.com/business-expert-the-secret-power-of-ip-to-grow-your-business-132/) — `2026-06-11-business-expert-the-secret-power-of-ip-to-grow-your-business-132.md` — 14989w
+- 2026-05-28 — [How To Actually Break Free From Your Limiting Beliefs (Nir Eyal) | 130](https://nathanbarry.com/how-to-actually-break-free-from-your-limiting-beliefs-nir-eyal-130/) — `2026-05-28-how-to-actually-break-free-from-your-limiting-beliefs-nir-eyal-130.md` — 11060w
+- 2026-05-21 — [James Clear: How To Actually Make It As An Author In 2026 | 129](https://nathanbarry.com/james-clear-how-to-actually-make-it-as-an-author-in-2026-129/) — `2026-05-21-james-clear-how-to-actually-make-it-as-an-author-in-2026-129.md` — 14254w
+- 2026-04-30 — [Inside a 1M+ Subscriber Newsletter (My Exact Strategy) | 126](https://nathanbarry.com/inside-a-1m-subscriber-newsletter-my-exact-strategy-126/) — `2026-04-30-inside-a-1m-subscriber-newsletter-my-exact-strategy-126.md` — 13454w
+- 2026-04-28 — [$9.8M Paid in Profit Sharing: How Kit’s Compensation Model Works](https://nathanbarry.com/kits-compensation-model/) — `2026-04-28-kits-compensation-model.md` — 1180w
+- 2026-04-16 — [I built a $100K Newsletter Business (Here’s How) | 124](https://nathanbarry.com/i-built-a-100k-newsletter-business-heres-how-123/) — `2026-04-16-i-built-a-100k-newsletter-business-heres-how-123.md` — 11193w
+- 2026-02-19 — [Become a Bestseller With This Book Launch Formula | 116](https://nathanbarry.com/become-a-bestseller-with-this-book-launch-formula-116/) — `2026-02-19-become-a-bestseller-with-this-book-launch-formula-116.md` — 12092w
+- 2026-02-12 — [How To Train Your Mind Like The World’s Best Athletes | 115](https://nathanbarry.com/how-to-train-your-mind-like-the-worlds-best-athletes-115/) — `2026-02-12-how-to-train-your-mind-like-the-worlds-best-athletes-115.md` — 14588w
+- 2026-01-29 — [How To Partner With Anyone In 2026 (Proven Framework) | 113](https://nathanbarry.com/how-to-partner-with-anyone-in-2026-proven-framework-113/) — `2026-01-29-how-to-partner-with-anyone-in-2026-proven-framework-113.md` — 13160w
+- 2026-01-15 — [The Secret To Scaling a $10M+ Business Broken Into 3 Stages | 111](https://nathanbarry.com/the-secret-to-scaling-a-10m-business-broken-into-3-stages-111/) — `2026-01-15-the-secret-to-scaling-a-10m-business-broken-into-3-stages-111.md` — 14222w
+- 2026-01-08 — [Million Dollar Coach: How To Be A Great Leader | 110](https://nathanbarry.com/million-dollar-coach-how-to-be-a-great-leader-110/) — `2026-01-08-million-dollar-coach-how-to-be-a-great-leader-110.md` — 14343w
+- 2026-01-01 — [34 Minutes of Top Creator Advice For 2026 | 109](https://nathanbarry.com/34-minutes-of-top-creator-advice-for-2026-109/) — `2026-01-01-34-minutes-of-top-creator-advice-for-2026-109.md` — 7410w
+- 2025-12-18 — [The Only Short-Form Strategy You Need In 2026 | 108](https://nathanbarry.com/the-only-short-form-strategy-you-need-in-2026-108/) — `2025-12-18-the-only-short-form-strategy-you-need-in-2026-108.md` — 14152w
+- 2025-12-04 — [How I Built a 50M/Year Company: Frameworks & Reflections | 106](https://nathanbarry.com/how-i-built-a-50m-year-company-frameworks-reflections-106/) — `2025-12-04-how-i-built-a-50m-year-company-frameworks-reflections-106.md` — 11593w
+- 2025-11-27 — [How To Build a Content Engine & Grow Your Business For Impact | 105](https://nathanbarry.com/how-to-build-a-content-engine-grow-your-business-for-impact-105/) — `2025-11-27-how-to-build-a-content-engine-grow-your-business-for-impact-105.md` — 14241w
+- 2025-11-06 — [How To Build a Million Dollar Business From Your Audience | 102](https://nathanbarry.com/how-to-build-a-million-dollar-business-from-your-audience-102/) — `2025-11-06-how-to-build-a-million-dollar-business-from-your-audience-102.md` — 14775w
+- 2025-10-30 — [How Creators Can Use AI Voice Agents To Grow Their Business In 2026 | 101](https://nathanbarry.com/how-creators-can-use-ai-voice-agents-to-grow-their-business-in-2026-101/) — `2025-10-30-how-creators-can-use-ai-voice-agents-to-grow-their-business-in-2026-101.md` — 13535w
+- 2025-10-02 — [How We’re Growing An Agency To $1M (Use These Systems) | 097](https://nathanbarry.com/how-were-growing-an-agency-to-1m-use-these-systems-097/) — `2025-10-02-how-were-growing-an-agency-to-1m-use-these-systems-097.md` — 14765w
+- 2025-09-25 — [Inside the $10M Strategy Every Creator Business Needs | 096](https://nathanbarry.com/inside-the-10m-strategy-every-creator-business-needs-096/) — `2025-09-25-inside-the-10m-strategy-every-creator-business-needs-096.md` — 14146w
+- 2025-09-23 — [Single-Axis Fallacy](https://nathanbarry.com/single-axis-fallacy/) — `2025-09-23-single-axis-fallacy.md` — 596w
+- 2025-09-18 — [The Flywheel Concept That Will Change Your Business – In Just 24 Minutes | 095](https://nathanbarry.com/the-flywheel-concept-that-will-change-your-business-in-just-24-minutes-095/) — `2025-09-18-the-flywheel-concept-that-will-change-your-business-in-just-24-minutes-095.md` — 5361w
+- 2025-09-04 — [The Most Important Advice For Creators in 2025 (Nathan Barry Q&A) | 093](https://nathanbarry.com/the-most-important-advice-for-creators-in-2025-nathan-barry-qa-093/) — `2025-09-04-the-most-important-advice-for-creators-in-2025-nathan-barry-qa-093.md` — 14386w
+- 2025-08-28 — [From Jail to $30M: How I Rebuilt My Life and Career | 092](https://nathanbarry.com/from-jail-to-30m-how-i-rebuilt-my-life-and-career-092/) — `2025-08-28-from-jail-to-30m-how-i-rebuilt-my-life-and-career-092.md` — 12580w
+- 2025-08-21 — [From Stuck Revenue to Scalable $5M Growth in One Year | 091](https://nathanbarry.com/from-stuck-revenue-to-scalable-5m-growth-in-one-year-091/) — `2025-08-21-from-stuck-revenue-to-scalable-5m-growth-in-one-year-091.md` — 13758w
+- 2025-08-07 — [Expert Coaching: How To Grow A $1M Membership Business In 2025 | 089](https://nathanbarry.com/expert-coaching-how-to-grow-a-1m-membership-business-in-2025-089/) — `2025-08-07-expert-coaching-how-to-grow-a-1m-membership-business-in-2025-089.md` — 13695w
+- 2025-07-24 — [Forget Courses, Launch This In 2025 To Survive AI | 087](https://nathanbarry.com/forget-courses-launch-this-in-2025-to-survive-ai-087/) — `2025-07-24-forget-courses-launch-this-in-2025-to-survive-ai-087.md` — 13633w
+- 2025-07-10 — [This Mindset Shift Took Me From $700K to $2M | 085](https://nathanbarry.com/this-mindset-shift-took-me-from-700k-to-2m/) — `2025-07-10-this-mindset-shift-took-me-from-700k-to-2m.md` — 14539w
+- 2025-07-03 — [Stop Setting Goals! Do This Instead | Anne-Laure Le Cunff | 084](https://nathanbarry.com/stop-setting-goals-do-this-instead-anne-laure-le-cunff-084/) — `2025-07-03-stop-setting-goals-do-this-instead-anne-laure-le-cunff-084.md` — 13199w
+- 2025-07-01 — [The Audience Shortcut: How the Right People Paying Attention Changes Everything](https://nathanbarry.com/audience-shortcut/) — `2025-07-01-audience-shortcut.md` — 3477w
+- 2025-06-26 — [How Jefferson Fisher Built 6M+ Followers In 40 Minutes a Day | 083](https://nathanbarry.com/how-jefferson-fisher-built-6m-followers-in-40-minutes-a-day-083/) — `2025-06-26-how-jefferson-fisher-built-6m-followers-in-40-minutes-a-day-083.md` — 13974w
+- 2025-06-19 — [$100M CEO Explains How to Build a Personal Brand in 2025 | 082](https://nathanbarry.com/100m-ceo-explains-how-to-build-a-personal-brand-in-2025-082/) — `2025-06-19-100m-ceo-explains-how-to-build-a-personal-brand-in-2025-082.md` — 13308w
+- 2025-06-05 — [Meet The Founder Behind Ambitious Kitchen’s Online Empire|080](https://nathanbarry.com/meet-the-founder-behind-ambitious-kitchens-online-empire-080/) — `2025-06-05-meet-the-founder-behind-ambitious-kitchens-online-empire-080.md` — 10596w
+- 2025-05-29 — [Coaching Session: Raising $10M With A Small Audience | 079](https://nathanbarry.com/coaching-session-raising-10m-with-a-small-audience-079/) — `2025-05-29-coaching-session-raising-10m-with-a-small-audience-079.md` — 10635w
+- 2025-05-22 — [How To Turn Podcast Guesting Into a $1M Business | 078](https://nathanbarry.com/how-to-turn-podcast-guesting-into-a-1m-business-078/) — `2025-05-22-how-to-turn-podcast-guesting-into-a-1m-business-078.md` — 13273w
+- 2025-05-08 — [How To Scale From 500K To $2M (Coaching Session) | 076](https://nathanbarry.com/how-to-scale-from-500k-to-2m-coaching-session-076/) — `2025-05-08-how-to-scale-from-500k-to-2m-coaching-session-076.md` — 11720w
+- 2025-04-24 — [From Brain Surgery to $1.6M: How I Built My Dream Business | 074](https://nathanbarry.com/from-brain-surgery-to-1-6m-how-i-built-my-dream-business-074/) — `2025-04-24-from-brain-surgery-to-1-6m-how-i-built-my-dream-business-074.md` — 13782w
+- 2025-04-17 — [How AI Can Grow Your Business in 2025 (Expert Advice) | 073](https://nathanbarry.com/how-ai-can-grow-your-business-in-2025-expert-advice-073/) — `2025-04-17-how-ai-can-grow-your-business-in-2025-expert-advice-073.md` — 272w
+- 2025-04-10 — [How This Musician Makes $500K/year Working 2 Hours A Week | 072](https://nathanbarry.com/how-musician-makes-500k-year-working-2-hours-a-week-072/) — `2025-04-10-how-musician-makes-500k-year-working-2-hours-a-week-072.md` — 14085w
+- 2025-04-03 — [Success Story: How to Scale a Coaching Business to $1M+ | 071](https://nathanbarry.com/success-story-how-to-scale-a-coaching-business-to-1m-071/) — `2025-04-03-success-story-how-to-scale-a-coaching-business-to-1m-071.md` — 12976w
+- 2025-03-27 — [The 5-Step Strategy That Lets You Work From Anywhere | 070](https://nathanbarry.com/the-5-step-strategy-that-lets-you-work-from-anywhere-070/) — `2025-03-27-the-5-step-strategy-that-lets-you-work-from-anywhere-070.md` — 10964w
+- 2025-03-20 — [$100K Passive Income Strategy for 2025 (Full Guide) | 069](https://nathanbarry.com/100k-passive-income-strategy-for-2025-full-guide-069/) — `2025-03-20-100k-passive-income-strategy-for-2025-full-guide-069.md` — 2050w
+- 2025-03-13 — [The Branding Advice That No One Tells You | 068](https://nathanbarry.com/the-branding-advice-that-no-one-tells-you-068/) — `2025-03-13-the-branding-advice-that-no-one-tells-you-068.md` — 13230w
+- 2025-03-06 — [Build a $25K/Month Software Business (Full Strategy) | 067](https://nathanbarry.com/build-a-25k-month-software-business-full-strategy-067/) — `2025-03-06-build-a-25k-month-software-business-full-strategy-067.md` — 11725w
+- 2025-02-27 — [My Advice for Creators & Entrepreneurs in 2025 (Q&A) | 066](https://nathanbarry.com/my-advice-for-creators-entrepreneurs-in-2025-qa/) — `2025-02-27-my-advice-for-creators-entrepreneurs-in-2025-qa.md` — 14098w
+- 2025-02-20 — [How to Pick a Business You ACTUALLY Enjoy (In 64 Mins) | 065](https://nathanbarry.com/how-to-pick-a-business-you-actually-enjoy-in-64-mins-065/) — `2025-02-20-how-to-pick-a-business-you-actually-enjoy-in-64-mins-065.md` — 14224w
+- 2025-02-13 — [How Your Business Can Make $1,000,000 From Partnerships (in 60 Days) | 064](https://nathanbarry.com/how-your-business-can-make-1000000-from-partnerships-in-60-days-064/) — `2025-02-13-how-your-business-can-make-1000000-from-partnerships-in-60-days-064.md` — 11827w
+- 2025-01-30 — [How to Build a $100,000 Online Community in 3 Easy Steps – Mighty Networks Founder | 062](https://nathanbarry.com/how-to-build-a-100000-online-community-in-3-easy-steps-mighty-networks-founder-062/) — `2025-01-30-how-to-build-a-100000-online-community-in-3-easy-steps-mighty-networks-founder-0.md` — 12578w
+- 2025-01-23 — [Building a $2,000,000 Business Plan for a Creator in 62 Mins | 061](https://nathanbarry.com/building-a-2000000-business-plan-for-a-creator-in-62-mins-061/) — `2025-01-23-building-a-2000000-business-plan-for-a-creator-in-62-mins-061.md` — 13624w
+- 2025-01-16 — [The NEW Way to Become a Full-Time Creator in 12 Months (or less) | 060](https://nathanbarry.com/the-new-way-to-become-a-full-time-creator-in-12-months-or-less-060/) — `2025-01-16-the-new-way-to-become-a-full-time-creator-in-12-months-or-less-060.md` — 11001w
+- 2025-01-14 — [2024 Review — The year my dreams came true](https://nathanbarry.com/2024-review/) — `2025-01-14-2024-review.md` — 7199w
+- 2025-01-02 — [My Advice for Creator Businesses in 2025 (Q&A) | 058](https://nathanbarry.com/my-advice-for-creator-businesses-in-2025-qa-058/) — `2025-01-02-my-advice-for-creator-businesses-in-2025-qa-058.md` — 11297w
+- 2024-12-12 — [How to Turn Your Passion Into a Creator Business ($1Million+) | 056](https://nathanbarry.com/how-to-turn-your-passion-into-a-creator-business-1million-056/) — `2024-12-12-how-to-turn-your-passion-into-a-creator-business-1million-056.md` — 11006w
+- 2024-12-05 — [Inside Mark Manson’s $2,500,000 Creator Business – Full Breakdown | 055](https://nathanbarry.com/inside-mark-mansons-2-500-000-creator-business-full-breakdown-055/) — `2024-12-05-inside-mark-mansons-2-500-000-creator-business-full-breakdown-055.md` — 14199w
+- 2024-11-21 — [The Best Way to Answer “So What Do You Do?” (2025) – Clay Hebert | 054](https://nathanbarry.com/the-best-way-to-answer-so-what-do-you-do-2025-clay-hebert-054/) — `2024-11-21-the-best-way-to-answer-so-what-do-you-do-2025-clay-hebert-054.md` — 12177w
+- 2024-11-14 — [Turn Your Writing Into A $1.7 Million Business In 2025 | 053](https://nathanbarry.com/turn-your-writing-into-a-1-7-million-business-in-2025-053/) — `2024-11-14-turn-your-writing-into-a-1-7-million-business-in-2025-053.md` — 12581w
+- 2024-11-07 — [How To Make $100,000+ With 0 Employees (Full Guide) | 052](https://nathanbarry.com/how-to-make-100000-with-0-employees-full-guide-052/) — `2024-11-07-how-to-make-100000-with-0-employees-full-guide-052.md` — 10133w
+- 2024-10-31 — [How I’m Launching My $5,000 Course in 4 Steps (Coaching Session) | 051](https://nathanbarry.com/4-steps-launching-5000-beginners-guide-darrell-vesterfelt/) — `2024-10-31-4-steps-launching-5000-beginners-guide-darrell-vesterfelt.md` — 13462w
+- 2024-01-16 — [2023 Review — The year I learned to fly](https://nathanbarry.com/2023-review/) — `2024-01-16-2023-review.md` — 5108w
+- 2023-07-31 — [078: Sahil Bloom – Using Flywheels to Build Longevity in the Creator Economy](https://nathanbarry.com/078-sahil-bloom-using-flywheels-to-build-longevity-in-the-creator-economy/) — `2023-07-31-078-sahil-bloom-using-flywheels-to-build-longevity-in-the-creator-economy.md` — 11894w
+- 2023-05-22 — [077: Darrell Vesterfelt – Running a 101,000-Person Online Summit](https://nathanbarry.com/077-darrell-vesterfelt-running-a-101000-person-online-summit/) — `2023-05-22-077-darrell-vesterfelt-running-a-101000-person-online-summit.md` — 12057w
+- 2023-05-15 — [076: PJ Taei – Video Monetization & Handling Competition as a Bootstrapped SaaS Company](https://nathanbarry.com/076-pj-taei-video-monetization-handling-competition-as-a-bootstrapped-saas-company/) — `2023-05-15-076-pj-taei-video-monetization-handling-competition-as-a-bootstrapped-saas-compa.md` — 10730w
+- 2023-05-09 — [Creator Flywheels – The Operating System for Your Business](https://nathanbarry.com/creator-flywheels/) — `2023-05-09-creator-flywheels.md` — 3311w
+- 2023-05-08 — [075: Susie Bulloch – Transitioning From Digital to Physical Products With Purpose](https://nathanbarry.com/075-susie-bulloch-transitioning-from-digital-to-physical-products-with-purpose/) — `2023-05-08-075-susie-bulloch-transitioning-from-digital-to-physical-products-with-purpose.md` — 12908w
+- 2023-05-02 — [How to Host a Mastermind Retreat](https://nathanbarry.com/how-to-host-a-mastermind-retreat/) — `2023-05-02-how-to-host-a-mastermind-retreat.md` — 2069w
+- 2023-05-01 — [074: Alyssa Dulin – Secrets of Email Deliverability](https://nathanbarry.com/074-alyssa-dulin-secrets-of-email-deliverability/) — `2023-05-01-074-alyssa-dulin-secrets-of-email-deliverability.md` — 12042w
+- 2023-01-30 — [2022 Review — A year of growth and managing stress](https://nathanbarry.com/2022-review/) — `2023-01-30-2022-review.md` — 3785w
+- 2023-01-09 — [073: Thomas Frank – How I Make Six Figures per Month as a Creator](https://nathanbarry.com/073-thomas-frank-six-figures-month-creator/) — `2023-01-09-073-thomas-frank-six-figures-month-creator.md` — 14466w
+- 2022-11-14 — [072: Brian Feroldi – How to Skyrocket Your Twitter Growth](https://nathanbarry.com/072-brian-feroldi-skyrocket-twitter-growth/) — `2022-11-14-072-brian-feroldi-skyrocket-twitter-growth.md` — 10930w
+- 2022-09-05 — [071: Turner Novak – Easy Ways to Ignite Your Audience Growth](https://nathanbarry.com/071-turner-novak-easy-ways-ignite-audience-growth/) — `2022-09-05-071-turner-novak-easy-ways-ignite-audience-growth.md` — 11459w
+- 2022-05-09 — [070: Katelyn Bourgoin – Stop Selling Courses & Start Selling These](https://nathanbarry.com/070-katelyn-bourgoin-stop-selling-courses-start-selling/) — `2022-05-09-070-katelyn-bourgoin-stop-selling-courses-start-selling.md` — 12340w
+- 2022-05-02 — [069: Laura Roeder – Building the Best Brand in Your Niche](https://nathanbarry.com/069-laura-roeder-building-brand-niche/) — `2022-05-02-069-laura-roeder-building-brand-niche.md` — 12809w
+- 2022-04-04 — [067: Kaya Yurieff – Finding Your Niche in the Creator Economy](https://nathanbarry.com/067-kaya-yurieff-finding-niche-creator-economy/) — `2022-04-04-067-kaya-yurieff-finding-niche-creator-economy.md` — 12478w
+- 2022-03-28 — [066: Wes Kao – Creating High-Dollar Online Courses That Sell](https://nathanbarry.com/066-wes-kao-creating-high-dollar-online-courses-sell/) — `2022-03-28-066-wes-kao-creating-high-dollar-online-courses-sell.md` — 11165w
+- 2022-03-23 — [065: Brennan Dunn – Leveraging Automation To Get More Engagement and Sales](https://nathanbarry.com/065-brennan-dunn-leveraging-automation-engagement-sales/) — `2022-03-23-065-brennan-dunn-leveraging-automation-engagement-sales.md` — 12511w
+- 2022-03-22 — [How we grew a local newsletter to 10,000 subscribers](https://nathanbarry.com/local/) — `2022-03-22-local.md` — 1813w
+- 2022-03-14 — [064: Sahil Bloom – How To Unlock Growth as a Creator](https://nathanbarry.com/064-sahil-bloom-unlock-growth-creator/) — `2022-03-14-064-sahil-bloom-unlock-growth-creator.md` — 13209w
+- 2022-03-07 — [063: Isa Adney – Free Up Creative Time Using Systems and Processes](https://nathanbarry.com/063-isa-adney-free-creative-time-systems-processes/) — `2022-03-07-063-isa-adney-free-creative-time-systems-processes.md` — 13123w
+- 2022-02-28 — [062: Ellen Hyslop – Turn Your Pain Points Into a 400K Subscriber Newsletter](https://nathanbarry.com/062-ellen-hyslop-turn-pain-points-400k-subscriber-newsletter/) — `2022-02-28-062-ellen-hyslop-turn-pain-points-400k-subscriber-newsletter.md` — 11657w
+- 2022-02-21 — [061: Rachel Rodgers – Simple & Consistent: How To Build an 8-Figure Business](https://nathanbarry.com/061-rachel-rodgers-simple-consistent-build-8-figure-business/) — `2022-02-21-061-rachel-rodgers-simple-consistent-build-8-figure-business.md` — 13768w
+- 2022-02-14 — [060: Reid DeRamus – Marketing Tips From HBO Max’s Former VP of Growth](https://nathanbarry.com/060-reid-deramus-marketing-tips-hbo-maxs-vp-growth/) — `2022-02-14-060-reid-deramus-marketing-tips-hbo-maxs-vp-growth.md` — 12838w
+- 2022-02-07 — [2021 Review](https://nathanbarry.com/2021-review/) — `2022-02-07-2021-review.md` — 4416w
+- 2022-02-07 — [059: Samir Chaudry – Using YouTube To Launch Your Creator Enterprise](https://nathanbarry.com/059-samir-chaudry-youtube-launch-creator-enterprise/) — `2022-02-07-059-samir-chaudry-youtube-launch-creator-enterprise.md` — 12788w
+- 2022-01-10 — [058: Andrew Gazdecki – How To Supercharge Your Audience Growth](https://nathanbarry.com/058-andrew-gazdecki-supercharge-audience-growth/) — `2022-01-10-058-andrew-gazdecki-supercharge-audience-growth.md` — 11157w
+- 2021-12-13 — [057: Sherrell Dorsey – Getting Your Newsletter Open Rate Near 50%](https://nathanbarry.com/057-sherrell-dorsey-newsletter-open-rate-50/) — `2021-12-13-057-sherrell-dorsey-newsletter-open-rate-50.md` — 11277w
+- 2021-11-15 — [056: Matthew Kepnes – Making Your Competition Irrelevant as an Influencer](https://nathanbarry.com/056-matthew-kepnes-making-competition-irrelevant-influencer/) — `2021-11-15-056-matthew-kepnes-making-competition-irrelevant-influencer.md` — 12633w
+- 2021-11-01 — [054: Nick deWilde – Growing Your Audience While Working Full-Time](https://nathanbarry.com/054-nick-dewilde-growing-audience-working-full-time/) — `2021-11-01-054-nick-dewilde-growing-audience-working-full-time.md` — 11797w
+- 2021-10-25 — [053: Kimberly Brooks – Taking Intentional Breaks To Reignite Creativity](https://nathanbarry.com/053-kimberly-brooks-intentional-breaks-reignite-creativity/) — `2021-10-25-053-kimberly-brooks-intentional-breaks-reignite-creativity.md` — 12436w
+- 2021-10-18 — [052: Jay Gilbert – Newsletter Insights From an Entertainment Industry Veteran](https://nathanbarry.com/052-jay-gilbert-newsletter-insights-entertainment-industry-veteran/) — `2021-10-18-052-jay-gilbert-newsletter-insights-entertainment-industry-veteran.md` — 10983w
+- 2021-10-11 — [051: Sean McCabe – Launch a Successful Business by Starting With Writing](https://nathanbarry.com/051-sean-mccabe-building-successful-creator-business-starts-writing/) — `2021-10-11-051-sean-mccabe-building-successful-creator-business-starts-writing.md` — 13660w
+- 2021-10-04 — [050: Dave Pell – What I’ve Learned From Two Decades of Publishing Online](https://nathanbarry.com/050-dave-pell-ive-learned-decades-publishing-online/) — `2021-10-04-050-dave-pell-ive-learned-decades-publishing-online.md` — 11841w
+- 2021-09-27 — [049: Jessica DeFino – Using Musicality and Rhythm To Dramatically Improve Your Writing](https://nathanbarry.com/049-jessica-defino-musicality-rhythm-dramatically-improve-writing/) — `2021-09-27-049-jessica-defino-musicality-rhythm-dramatically-improve-writing.md` — 10502w
+- 2021-08-16 — [047: Matt Ragland – How to Go Full-Time as a Content Creator](https://nathanbarry.com/047-matt-ragland-full-time-content-creator/) — `2021-08-16-047-matt-ragland-full-time-content-creator.md` — 13971w
+- 2021-08-09 — [046: Sahil Bloom – Why Writing Makes You a Better Investor](https://nathanbarry.com/046-sahil-bloom-why-writing-makes-you-a-better-investor/) — `2021-08-09-046-sahil-bloom-why-writing-makes-you-a-better-investor.md` — 12845w
+- 2021-08-02 — [045: Charli Prangley – Running a Successful Newsletter, Podcast, and YouTube Channel](https://nathanbarry.com/045-charli-prangley-running-successful-newsletter-podcast-youtube-channel/) — `2021-08-02-045-charli-prangley-running-successful-newsletter-podcast-youtube-channel.md` — 13637w
+- 2021-07-26 — [044: Robert Glazer – Run Your Newsletter Like a Boss: Tips From a Top-Level Corporate CEO](https://nathanbarry.com/044-robert-glazer-run-newsletter-boss-tips-top-level-corporate-ceo/) — `2021-07-26-044-robert-glazer-run-newsletter-boss-tips-top-level-corporate-ceo.md` — 12813w
+- 2021-07-19 — [043: Ryan Sneddon – Lessons On Writing Local Newsletters](https://nathanbarry.com/043-ryan-sneddon-lessons-on-writing-local-newsletters/) — `2021-07-19-043-ryan-sneddon-lessons-on-writing-local-newsletters.md` — 12773w
+- 2021-07-12 — [042: Cherie Hu – The Math Behind Water & Music, and a Successful Newsletter](https://nathanbarry.com/042-cherie-hu-math-water-music-successful-newsletter/) — `2021-07-12-042-cherie-hu-math-water-music-successful-newsletter.md` — 11222w
+- 2021-07-05 — [041: Jack Butcher – Build Once, Sell Twice: Earn $1M a Year Selling Digital Products](https://nathanbarry.com/041-jack-butcher-build-once-sell-twice-earn-1m-year-selling-digital-products/) — `2021-07-05-041-jack-butcher-build-once-sell-twice-earn-1m-year-selling-digital-products.md` — 11081w
+- 2021-06-28 — [040: Alex Lieberman – Building a 3M Subscriber Media Empire](https://nathanbarry.com/040-alex-lieberman-grow-newsletter-business-3m-subscriber-media-empire/) — `2021-06-28-040-alex-lieberman-grow-newsletter-business-3m-subscriber-media-empire.md` — 11070w
+- 2021-06-07 — [How Apple’s email privacy protection hurts creators](https://nathanbarry.com/how-apples-email-privacy-protection-hurts-creators/) — `2021-06-07-how-apples-email-privacy-protection-hurts-creators.md` — 839w
+- 2021-06-07 — [039: Eric Jorgenson – How to Increase Profits Exponentially by Using Leverage](https://nathanbarry.com/039-eric-jorgenson-power-leverage-increase-profits-exponentially/) — `2021-06-07-039-eric-jorgenson-power-leverage-increase-profits-exponentially.md` — 11342w
+- 2021-05-31 — [038: Steph Smith – Turn Your Newsletter Into a Seven-Figure Business](https://nathanbarry.com/038-steph-smith-turn-newsletter-seven-figure-business/) — `2021-05-31-038-steph-smith-turn-newsletter-seven-figure-business.md` — 13023w
+- 2021-05-24 — [037: Nat Eliason – Making Money From Your Course Before You Launch](https://nathanbarry.com/037-nat-eliason-making-money-launch/) — `2021-05-24-037-nat-eliason-making-money-launch.md` — 13219w
+- 2021-05-17 — [036: Ann Handley – How Expert Marketers Get More Subscribers](https://nathanbarry.com/036-ann-handley-expert-marketers-subscribers/) — `2021-05-17-036-ann-handley-expert-marketers-subscribers.md` — 9464w
+- 2021-05-10 — [035: Dickie Bush – How to Leverage Twitter to Build an Audience and a Business](https://nathanbarry.com/035-dickie-bush-100000-writing-twitter/) — `2021-05-10-035-dickie-bush-100000-writing-twitter.md` — 10647w
+- 2021-05-03 — [034: Jason Feifer – How To Balance Creativity With Your Career](https://nathanbarry.com/034-jason-feifer-balance-creativity-career/) — `2021-05-03-034-jason-feifer-balance-creativity-career.md` — 13518w
+- 2021-04-26 — [033: Veni Kunche – 3 Years of Growth: 29x Subscribers & 34x Revenue](https://nathanbarry.com/033-veni-kunche-3-years-growth-29x-subscribers-34x-revenue/) — `2021-04-26-033-veni-kunche-3-years-growth-29x-subscribers-34x-revenue.md` — 10831w
+- 2021-04-14 — [Behind-the-scenes of our first acquisition](https://nathanbarry.com/behind-the-scenes-of-our-first-acquisition/) — `2021-04-14-behind-the-scenes-of-our-first-acquisition.md` — 1751w
+- 2021-04-05 — [032: Li Jin – Explode Your Reach and Make More Money](https://nathanbarry.com/032-li-jin-explode-reach-money/) — `2021-04-05-032-li-jin-explode-reach-money.md` — 9746w
+- 2021-03-29 — [031: Mario Gabriele – From Lifelong Obsession to Thriving Business](https://nathanbarry.com/031-mario-gabriele-lifelong-obsession-thriving-business/) — `2021-03-29-031-mario-gabriele-lifelong-obsession-thriving-business.md` — 9873w
+- 2021-03-15 — [029: Codie Sanchez – The Key to Becoming a Future Billionaire](https://nathanbarry.com/029-codie-sanchez-key-future-billionaire/) — `2021-03-15-029-codie-sanchez-key-future-billionaire.md` — 11939w
+- 2021-03-08 — [028: Packy McCormick – How Much Are 30,000 Subscribers Worth?](https://nathanbarry.com/028-packy-mccormick-30000-subscribers-worth/) — `2021-03-08-028-packy-mccormick-30000-subscribers-worth.md` — 13232w
+- 2021-03-01 — [027: Nathan Baschez – Find Your Best Ideas With a Newsletter Mastermind](https://nathanbarry.com/027-nathan-baschez-find-ideas-newsletter-mastermind/) — `2021-03-01-027-nathan-baschez-find-ideas-newsletter-mastermind.md` — 14202w
+- 2021-02-23 — [What we get wrong about the Mexican Fisherman Parable](https://nathanbarry.com/journey/) — `2021-02-23-journey.md` — 1097w
+- 2021-02-15 — [025: Louis Nicholls – Explode Your List Growth: Use a Referral Program](https://nathanbarry.com/025-louis-nicholls-explode-list-growth-referral-program/) — `2021-02-15-025-louis-nicholls-explode-list-growth-referral-program.md` — 11335w
+- 2021-02-08 — [024: Dan Frommer – Be Interesting, Every Day, Forever – Secrets to Media Success](https://nathanbarry.com/024-dan-frommer-interesting-day-secrets-media-success/) — `2021-02-08-024-dan-frommer-interesting-day-secrets-media-success.md` — 11517w
+- 2021-01-26 — [Tell stories](https://nathanbarry.com/tell-stories/) — `2021-01-26-tell-stories.md` — 439w
+- 2021-01-18 — [022: Lenny Rachitsky – The Dark Side of Paid Newsletters Nobody Talks About](https://nathanbarry.com/022-lenny-rachitsky-dark-side-paid-newsletters-talks/) — `2021-01-18-022-lenny-rachitsky-dark-side-paid-newsletters-talks.md` — 12271w
+- 2021-01-12 — [Be like Fred](https://nathanbarry.com/be-like-fred/) — `2021-01-12-be-like-fred.md` — 831w
+- 2021-01-11 — [021: Byrne Hobart – Build Recurring Revenue With Your Newsletter](https://nathanbarry.com/021-byrne-hobart-build-recurring-revenue-newsletter/) — `2021-01-11-021-byrne-hobart-build-recurring-revenue-newsletter.md` — 13485w
+- 2021-01-05 — [2020 in review: the year nothing went according to plan](https://nathanbarry.com/2020-review/) — `2021-01-05-2020-review.md` — 4432w
+- 2021-01-04 — [020: Dan Runcie – From Sending Newsletters to High-Paid Consulting](https://nathanbarry.com/020-dan-runcie-sending-newsletters-high-paid-consulting/) — `2021-01-04-020-dan-runcie-sending-newsletters-high-paid-consulting.md` — 10565w
+- 2020-12-28 — [019: Dan Oshinsky – Turn Your Newsletter Into a Business (Lessons from Buzzfeed)](https://nathanbarry.com/019-dan-oshinsky-turn-newsletter-business-lessons-buzzfeed/) — `2020-12-28-019-dan-oshinsky-turn-newsletter-business-lessons-buzzfeed.md` — 11599w
+- 2020-12-21 — [018: Anne-Laure Le Cunff – Building a Loyal Audience & Growing Your Newsletter](https://nathanbarry.com/018-anne-laure-le-cunff-building-loyal-audience-growing-newsletter/) — `2020-12-21-018-anne-laure-le-cunff-building-loyal-audience-growing-newsletter.md` — 11010w
+- 2020-12-14 — [017: David Perell – Mastering Twitter to Grow Your Newsletter and Make Money](https://nathanbarry.com/017-david-perell-mastering-twitter-grow-newsletter-money/) — `2020-12-14-017-david-perell-mastering-twitter-grow-newsletter-money.md` — 10621w
+- 2020-11-17 — [ConvertKit launches paid newsletters](https://nathanbarry.com/convertkit-paid-newsletters/) — `2020-11-17-convertkit-paid-newsletters.md` — 1493w
+- 2020-10-21 — [How 1+1=4 — Your job as an entrepreneur](https://nathanbarry.com/positive-sum/) — `2020-10-21-positive-sum.md` — 796w
+- 2020-09-08 — [The Billion Dollar Creator](https://nathanbarry.com/billion/) — `2020-09-08-billion.md` — 3752w
+- 2020-08-04 — [There and back again: the story of renaming ConvertKit](https://nathanbarry.com/rename/) — `2020-08-04-rename.md` — 4895w
+- 2020-06-15 — [How homeschooling played a key role in building a $100 million business](https://nathanbarry.com/homeschool/) — `2020-06-15-homeschool.md` — 2177w
+- 2020-03-26 — [Fear, uncertainty, and preparation: my message to the ConvertKit team](https://nathanbarry.com/uncertainty/) — `2020-03-26-uncertainty.md` — 1473w
+- 2020-02-03 — [The magical combination of teaching and storytelling](https://nathanbarry.com/teaching-storytelling/) — `2020-02-03-teaching-storytelling.md` — 139w
+- 2020-01-13 — [2019 in review – A year of balance](https://nathanbarry.com/2019-review/) — `2020-01-13-2019-review.md` — 2885w
+- 2019-12-30 — [ConvertKit goes freemium](https://nathanbarry.com/convertkit-free/) — `2019-12-30-convertkit-free.md` — 1282w
+- 2019-12-10 — [I built a tiny house!](https://nathanbarry.com/tiny-house/) — `2019-12-10-tiny-house.md` — 121w
+- 2019-12-03 — [The ladders of wealth creation: a step-by-step roadmap to building wealth](https://nathanbarry.com/wealth-creation/) — `2019-12-03-wealth-creation.md` — 6065w
+- 2019-11-20 — [The magic of creating](https://nathanbarry.com/magic/) — `2019-11-20-magic.md` — 162w
+- 2019-09-17 — [When should you trade time for money?](https://nathanbarry.com/trade-time/) — `2019-09-17-trade-time.md` — 446w
+- 2019-09-07 — [Another trip to Cerro Gordo, this time in a plane](https://nathanbarry.com/flying-to-cerro-gordo/) — `2019-09-07-flying-to-cerro-gordo.md` — 221w
+- 2019-08-19 — [An update on life and work](https://nathanbarry.com/update/) — `2019-08-19-update.md` — 471w
+- 2019-08-16 — [I took a week off to learn to sail in San Francisco Bay](https://nathanbarry.com/sailing/) — `2019-08-16-sailing.md` — 134w
+- 2019-08-05 — [Stay in your lane and outlast your competition](https://nathanbarry.com/outlast/) — `2019-08-05-outlast.md` — 337w
+- 2019-07-31 — [Stop underestimating willpower](https://nathanbarry.com/willpower/) — `2019-07-31-willpower.md` — 450w
+- 2019-05-17 — [What I learned hosting a conference for 350 creators](https://nathanbarry.com/conference/) — `2019-05-17-conference.md` — 2570w
+- 2019-05-06 — [Inside Ahrefs: one of the world’s most efficient companies](https://nathanbarry.com/ahrefs/) — `2019-05-06-ahrefs.md` — 640w
+- 2019-04-29 — [Hamilton’s 4 secrets for creators](https://nathanbarry.com/hamilton/) — `2019-04-29-hamilton.md` — 1034w
+- 2019-04-22 — [7 unconventional ways we run ConvertKit](https://nathanbarry.com/unconventional/) — `2019-04-22-unconventional.md` — 829w
+- 2019-04-15 — [What’s your system for establishing principles?](https://nathanbarry.com/principles/) — `2019-04-15-principles.md` — 987w
+- 2019-04-08 — [What iMessage can teach us about product experience](https://nathanbarry.com/what-imessage-can-teach-us-about-product-experience/) — `2019-04-08-what-imessage-can-teach-us-about-product-experience.md` — 911w
+- 2019-04-01 — [How to start your own newsletter in 15 minutes](https://nathanbarry.com/start-newsletter-15-minutes/) — `2019-04-01-start-newsletter-15-minutes.md` — 1314w
+- 2019-03-25 — [Start growing your audience and enter to win $5,000](https://nathanbarry.com/landing-page-challenge/) — `2019-03-25-landing-page-challenge.md` — 387w
+- 2019-03-18 — [Waking up](https://nathanbarry.com/waking-up/) — `2019-03-18-waking-up.md` — 1058w
+- 2019-03-11 — [Good things come to those who write](https://nathanbarry.com/good-things/) — `2019-03-11-good-things.md` — 872w
+- 2019-03-04 — [15 lessons from our first $15 million](https://nathanbarry.com/15-lessons-15-million/) — `2019-03-04-15-lessons-15-million.md` — 2341w
+- 2019-02-25 — [3 secrets to a great product](https://nathanbarry.com/product-secrets/) — `2019-02-25-product-secrets.md` — 1049w
+- 2019-02-18 — [Endure long enough to get noticed](https://nathanbarry.com/endure/) — `2019-02-18-endure.md` — 350w
+- 2019-02-11 — [Why I changed my mind on team stock options](https://nathanbarry.com/equity/) — `2019-02-11-equity.md` — 1294w
+- 2019-02-04 — [How the gap between value and price affects goodwill](https://nathanbarry.com/value/) — `2019-02-04-value.md` — 905w
+- 2019-01-28 — [13 tips for making the switch from a consumer to a creator](https://nathanbarry.com/consumer-to-creator/) — `2019-01-28-consumer-to-creator.md` — 1211w
+- 2019-01-21 — [Profit is leverage](https://nathanbarry.com/leverage/) — `2019-01-21-leverage.md` — 350w
+- 2019-01-14 — [Understanding ConvertKit’s open metrics](https://nathanbarry.com/metrics/) — `2019-01-14-metrics.md` — 1537w
+- 2019-01-07 — [Gratitude is a distraction](https://nathanbarry.com/gratitude/) — `2019-01-07-gratitude.md` — 487w
+- 2018-12-31 — [2018 in review — A year of big risks](https://nathanbarry.com/2018-review/) — `2018-12-31-2018-review.md` — 2470w
+- 2018-12-17 — [The design of ConvertKit over the years](https://nathanbarry.com/convertkit-design/) — `2018-12-17-convertkit-design.md` — 1150w
+- 2018-12-10 — [Can you build a successful startup in 40 hours per week?](https://nathanbarry.com/40-hours/) — `2018-12-10-40-hours.md` — 1132w
+- 2018-12-03 — [How to grow an audience through curating content](https://nathanbarry.com/curate/) — `2018-12-03-curate.md` — 2211w
+- 2018-11-26 — [We bought a ghost town](https://nathanbarry.com/cerro-gordo/) — `2018-11-26-cerro-gordo.md` — 1312w
+- 2018-11-19 — [2018 Gift Guide for Creators](https://nathanbarry.com/2018-gift-guide/) — `2018-11-19-2018-gift-guide.md` — 1061w
+- 2018-11-12 — [How a decision making process substantially increased trust](https://nathanbarry.com/decisions/) — `2018-11-12-decisions.md` — 652w
+- 2018-11-05 — [My secrets to a productive week](https://nathanbarry.com/secrets-productive-week/) — `2018-11-05-secrets-productive-week.md` — 827w
+- 2018-10-29 — [4 ideas that changed my life](https://nathanbarry.com/4-ideas/) — `2018-10-29-4-ideas.md` — 1199w
+- 2018-10-22 — [How to fix podcasting’s critical flaw](https://nathanbarry.com/podcasting/) — `2018-10-22-podcasting.md` — 2797w
+- 2018-10-15 — [Be a creator, not a critic](https://nathanbarry.com/critic/) — `2018-10-15-critic.md` — 393w
+- 2018-09-17 — [5 things I was surprised to love about my Tesla](https://nathanbarry.com/tesla/) — `2018-09-17-tesla.md` — 685w
+- 2018-05-30 — [Profit sharing for bootstrapped startups](https://nathanbarry.com/profit-sharing/) — `2018-05-30-profit-sharing.md` — 1719w
+- 2018-02-22 — [What company culture means to me](https://nathanbarry.com/culture/) — `2018-02-22-culture.md` — 224w
+- 2018-01-09 — [2017 in Review — The Year We Redesigned The Company](https://nathanbarry.com/2017-review/) — `2018-01-09-2017-review.md` — 3038w
+- 2017-09-10 — [Generating a side income through Airbnb](https://nathanbarry.com/generating-side-income-airbnb/) — `2017-09-10-generating-side-income-airbnb.md` — 1266w
+- 2017-08-01 — [The one question great designers ask](https://nathanbarry.com/design-question/) — `2017-08-01-design-question.md` — 515w
+- 2017-07-06 — [Direct Sales for Bootstrapped SaaS Startups: from $1,300 to $725,000 MRR](https://nathanbarry.com/sales/) — `2017-07-06-sales.md` — 3048w
+- 2017-05-02 — [Why I started a conference](https://nathanbarry.com/started-conference/) — `2017-05-02-started-conference.md` — 529w
+- 2017-04-12 — [I started a vlog!](https://nathanbarry.com/started-vlog/) — `2017-04-12-started-vlog.md` — 544w
+- 2017-02-15 — [Mental frameworks for making decisions](https://nathanbarry.com/mental-frameworks/) — `2017-02-15-mental-frameworks.md` — 942w
+- 2017-01-06 — [2016 in Review — The year I became a CEO](https://nathanbarry.com/2016-review/) — `2017-01-06-2016-review.md` — 2337w
+- 2016-07-21 — [Why I ignore great advice from my smartest friends](https://nathanbarry.com/ignore/) — `2016-07-21-ignore.md` — 900w
+- 2016-07-07 — [Email marketing startup ConvertKit raises $1.8m from large group of angel investors](https://nathanbarry.com/investment/) — `2016-07-07-investment.md` — 410w
+- 2016-06-28 — [From losing money to a 51% profit margin in 5 months](https://nathanbarry.com/profit/) — `2016-06-28-profit.md` — 2129w
+- 2016-05-25 — [Join the product team at ConvertKit](https://nathanbarry.com/join-product-team-convertkit/) — `2016-05-25-join-product-team-convertkit.md` — 374w
+- 2016-05-20 — [It doesn’t get easier](https://nathanbarry.com/easier/) — `2016-05-20-easier.md` — 252w
+- 2016-04-01 — [Solving the cash problems from self-funding rapid growth](https://nathanbarry.com/cash/) — `2016-04-01-cash.md` — 1813w
+- 2016-02-01 — [Knowing when to quit](https://nathanbarry.com/quit/) — `2016-02-01-quit.md` — 1007w
+- 2015-12-30 — [2015 in review — 1 year after I quit blogging](https://nathanbarry.com/2015-review/) — `2015-12-30-2015-review.md` — 2362w
+- 2015-11-26 — [NB015: Let Your Brand Take Center Stage with Ruben Gamez](https://nathanbarry.com/episode15/) — `2015-11-26-episode15.md` — 271w
+- 2015-11-19 — [NB014: Consistently Deliver Value to your Audience with Brennan Dunn](https://nathanbarry.com/episode14/) — `2015-11-19-episode14.md` — 415w
+- 2015-11-17 — [Free marketing tools](https://nathanbarry.com/free-marketing-tools/) — `2015-11-17-free-marketing-tools.md` — 535w
+- 2015-11-12 — [NB013: Why You Should Build a Personal Brand with Paul Jarvis](https://nathanbarry.com/episode13/) — `2015-11-12-episode13.md` — 367w
+- 2015-11-12 — [NB012 – Building a Loyal Audience with Jason Zook](https://nathanbarry.com/episode12/) — `2015-11-12-episode12.md` — 346w
+- 2015-10-15 — [Growing ConvertKit to $30,000 in Monthly Recurring Revenue](https://nathanbarry.com/30k/) — `2015-10-15-30k.md` — 2714w
+- 2015-09-02 — [How to create t-shirts for your startup](https://nathanbarry.com/shirts/) — `2015-09-02-shirts.md` — 1463w
+- 2015-08-25 — [Unsolicited Advice](https://nathanbarry.com/unsolicited-advice/) — `2015-08-25-unsolicited-advice.md` — 892w
+- 2015-06-23 — [Designing a SaaS app create account screen](https://nathanbarry.com/designing-saas-app-create-account-screen/) — `2015-06-23-designing-saas-app-create-account-screen.md` — 863w
+- 2015-06-03 — [Making $12,500 in 3 months with a book on ember.js](https://nathanbarry.com/ember-authority/) — `2015-06-03-ember-authority.md` — 1058w
+- 2015-06-02 — [How a music teacher used Authority to make $34,500](https://nathanbarry.com/music-teacher-authority/) — `2015-06-02-music-teacher-authority.md` — 1494w
+- 2015-05-26 — [Authority launches tomorrow morning](https://nathanbarry.com/authority-launches-tomorrow-morning/) — `2015-05-26-authority-launches-tomorrow-morning.md` — 742w
+- 2015-05-21 — [Why do you want to become an Authority?](https://nathanbarry.com/why-authority/) — `2015-05-21-why-authority.md` — 736w
+- 2015-05-08 — [The only app you need to become a better writer](https://nathanbarry.com/app-writer/) — `2015-05-08-app-writer.md` — 526w
+- 2015-04-16 — [Email marketing systems for professional bloggers](https://nathanbarry.com/email-systems/) — `2015-04-16-email-systems.md` — 2074w
+- 2015-04-08 — [9 email marketing wins that take less than an hour](https://nathanbarry.com/email-marketing-hacks/) — `2015-04-08-email-marketing-hacks.md` — 2193w
+- 2015-03-25 — [Don’t start from scratch](https://nathanbarry.com/scratch/) — `2015-03-25-scratch.md` — 737w
+- 2015-03-11 — [Growing ConvertKit to $5,020 in Monthly Recurring Revenue](https://nathanbarry.com/5k/) — `2015-03-11-5k.md` — 2708w
+- 2015-02-11 — [Designing Web Applications — 2nd edition](https://nathanbarry.com/designing-web-applications-2nd-edition/) — `2015-02-11-designing-web-applications-2nd-edition.md` — 467w
+- 2015-02-04 — [Simplify your web app workflow in 1 step](https://nathanbarry.com/simple-workflow/) — `2015-02-04-simple-workflow.md` — 329w
+- 2015-02-04 — [3 Critical Web App Design Mistakes](https://nathanbarry.com/3-web-app-design-mistakes/) — `2015-02-04-3-web-app-design-mistakes.md` — 1824w
+- 2014-12-19 — [2014 in review — 3 years after quitting my job](https://nathanbarry.com/2014-review/) — `2014-12-19-2014-review.md` — 2610w
+- 2014-12-15 — [Stop sending email broadcasts](https://nathanbarry.com/stop-sending-email-broadcasts/) — `2014-12-15-stop-sending-email-broadcasts.md` — 1560w
+- 2014-12-01 — [Join me as I create & launch a product in 24 hours — Sponsored by Creative Market](https://nathanbarry.com/24hours/) — `2014-12-01-24hours.md` — 2517w
+- 2014-11-28 — [Black Friday](https://nathanbarry.com/black-friday/) — `2014-11-28-black-friday.md` — 300w
+- 2014-11-04 — [Seasons](https://nathanbarry.com/seasons/) — `2014-11-04-seasons.md` — 1112w
+- 2014-09-25 — [NB 011 – Eleven insights that changed my life](https://nathanbarry.com/episode11/) — `2014-09-25-episode11.md` — 393w
+- 2014-09-18 — [NB 010 – Authority success stories (part 2)](https://nathanbarry.com/episode10/) — `2014-09-18-episode10.md` — 240w
+- 2014-09-15 — [Work faster in Photoshop with these keyboard shortcuts](https://nathanbarry.com/faster-photoshop/) — `2014-09-15-faster-photoshop.md` — 1353w
+- 2014-09-11 — [NB 009 – Authority success stories (part 1)](https://nathanbarry.com/episode9/) — `2014-09-11-episode9.md` — 263w
+- 2014-09-10 — [7 techniques to design killer graphics for your blog posts](https://nathanbarry.com/design-graphics-blog-posts/) — `2014-09-10-design-graphics-blog-posts.md` — 1476w
+- 2014-09-04 — [NB 008 – Financial transparency](https://nathanbarry.com/episode8/) — `2014-09-04-episode8.md` — 146w
+- 2014-08-28 — [NB 007 – DIY video with Caleb Wojcik](https://nathanbarry.com/episode7/) — `2014-08-28-episode7.md` — 284w
+- 2014-08-21 — [NB 006 – Three habits for building a profitable audience](https://nathanbarry.com/episode6/) — `2014-08-21-episode6.md` — 236w
+- 2014-08-19 — [Creating a promo video for your product](https://nathanbarry.com/product-video/) — `2014-08-19-product-video.md` — 1504w
+- 2014-08-06 — [The complete guide to making a full-time salary from one book](https://nathanbarry.com/full-time-salary-book/) — `2014-08-06-full-time-salary-book.md` — 2391w
+- 2014-08-01 — [How too many products can hurt your business](https://nathanbarry.com/too-many-products/) — `2014-08-01-too-many-products.md` — 1211w
+- 2014-07-18 — [Hiring: Marketing & Customer Success](https://nathanbarry.com/hiring/) — `2014-07-18-hiring.md` — 712w
+- 2014-07-16 — [What happens when you break a 600+ day chain?](https://nathanbarry.com/breaking/) — `2014-07-16-breaking.md` — 770w
+- 2014-07-12 — [NB 003 — Profiting from teaching with Sean McCabe](https://nathanbarry.com/episode3/) — `2014-07-12-episode3.md` — 120w
+- 2014-07-11 — [NB 002 — Email Marketing With Guests James Clear, Brennan Dunn, And Corbett Barr](https://nathanbarry.com/episode2/) — `2014-07-11-episode2.md` — 126w
+- 2014-07-10 — [NB 001 — On Productivity](https://nathanbarry.com/session1/) — `2014-07-10-session1.md` — 150w
+- 2014-06-30 — [Feeling accomplished](https://nathanbarry.com/feeling-accomplished/) — `2014-06-30-feeling-accomplished.md` — 806w
+- 2014-06-26 — [How selling a SaaS app like an info-product doubled revenue](https://nathanbarry.com/saas-info/) — `2014-06-26-saas-info.md` — 2782w
+- 2014-06-09 — [How Samuel Hulick made over $37,000 with his self-published book](https://nathanbarry.com/samuel-hulick-37000-self-published-book/) — `2014-06-09-samuel-hulick-37000-self-published-book.md` — 3054w
+- 2014-04-25 — [This moment](https://nathanbarry.com/moment/) — `2014-04-25-moment.md` — 539w
+- 2014-04-08 — [Enough](https://nathanbarry.com/enough/) — `2014-04-08-enough.md` — 486w
+- 2014-03-26 — [How to double your launch revenue](https://nathanbarry.com/double-launch-revenue/) — `2014-03-26-double-launch-revenue.md` — 955w
+- 2014-03-18 — [Three reasons product launches fail](https://nathanbarry.com/launchfail/) — `2014-03-18-launchfail.md` — 1724w
+- 2014-03-13 — [Using urgency to increase sales](https://nathanbarry.com/urgency/) — `2014-03-13-urgency.md` — 2170w
+- 2014-02-28 — [Should you launch more than once? I’ve got $58,332 as evidence.](https://nathanbarry.com/multiple-launches/) — `2014-02-28-multiple-launches.md` — 2269w
+- 2014-02-19 — [Part 2: Redesigning the United Flight Search in Photoshop](https://nathanbarry.com/part-2-redesigning-united-flight-search-photoshop/) — `2014-02-19-part-2-redesigning-united-flight-search-photoshop.md` — 199w
+- 2014-02-13 — [Redesigning the United Flight Search Interface in Photoshop](https://nathanbarry.com/redesigning-united-flight-search-ui-photoshop/) — `2014-02-13-redesigning-united-flight-search-ui-photoshop.md` — 255w
+- 2014-01-28 — [Why you can’t sign up for my SaaS app](https://nathanbarry.com/convertkit-academy/) — `2014-01-28-convertkit-academy.md` — 1663w
+- 2014-01-09 — [Using Shapes & Paths in Photoshop](https://nathanbarry.com/shapes-paths-photoshop/) — `2014-01-09-shapes-paths-photoshop.md` — 337w
+- 2014-01-02 — [How to use Photoshop to design interfaces](https://nathanbarry.com/how-to-use-photoshop-to-design-interfaces/) — `2014-01-02-how-to-use-photoshop-to-design-interfaces.md` — 2121w
+- 2013-12-30 — [Two years after quitting my job: 2013 in review](https://nathanbarry.com/2013-review/) — `2013-12-30-2013-review.md` — 2858w
+- 2013-12-12 — [An update on The Audience Building Challenge](https://nathanbarry.com/update-audience-building-challenge/) — `2013-12-12-update-audience-building-challenge.md` — 1563w
+- 2013-12-07 — [How Content Marketing and Marketing Automation Led to a $5,000 Retainer Client](https://nathanbarry.com/trent-marketing-automation/) — `2013-12-07-trent-marketing-automation.md` — 1320w
+- 2013-11-21 — [Success made me afraid to experiment](https://nathanbarry.com/experiment/) — `2013-11-21-experiment.md` — 766w
+- 2013-11-11 — [$36,297 in 24 hours: behind the scenes of The App Design Handbook launch](https://nathanbarry.com/app-design-stats/) — `2013-11-11-app-design-stats.md` — 2361w
+- 2013-11-04 — [An Interview With App Designer Michael Flarup](https://nathanbarry.com/interview-app-designer-michael-flarup/) — `2013-11-04-interview-app-designer-michael-flarup.md` — 217w
+- 2013-11-01 — [The Audience Building Challenge: 10,000 subscribers in 30 days](https://nathanbarry.com/audience-building-challenge/) — `2013-11-01-audience-building-challenge.md` — 1435w
+- 2013-10-31 — [Reactions to iOS 7](https://nathanbarry.com/reactions-ios-7/) — `2013-10-31-reactions-ios-7.md` — 1214w
+- 2013-10-23 — [Authority Case Studies: $30,000+ in sales from first time authors](https://nathanbarry.com/authority-case-studies/) — `2013-10-23-authority-case-studies.md` — 5318w
+- 2013-10-14 — [Building Profitable Audiences — Live in London](https://nathanbarry.com/london-workshop/) — `2013-10-14-london-workshop.md` — 316w
+- 2013-10-10 — [Case Study: Redesigning Commit for iOS 7](https://nathanbarry.com/redesigning-commit-ios-7/) — `2013-10-10-redesigning-commit-ios-7.md` — 1598w
+- 2013-09-25 — [Driving ongoing book sales with a sample chapter](https://nathanbarry.com/ongoing-sales/) — `2013-09-25-ongoing-sales.md` — 1816w
+- 2013-09-03 — [How teaching and storytelling can build a profitable business](https://nathanbarry.com/teaching/) — `2013-09-03-teaching.md` — 1386w
+- 2013-08-30 — [Finish one thing today](https://nathanbarry.com/onething/) — `2013-08-30-onething.md` — 241w
+- 2013-08-19 — [Lessons from building a blog to 10,000 subscribers in a year (video course)](https://nathanbarry.com/lessons/) — `2013-08-19-lessons.md` — 703w
+- 2013-08-13 — [Three Hundred Sixty Five](https://nathanbarry.com/365/) — `2013-08-13-365.md` — 904w
+- 2013-08-06 — [How to cheat at online business](https://nathanbarry.com/building-an-audience/) — `2013-08-06-building-an-audience.md` — 3005w
+- 2013-07-31 — [How Adii Piennar used Authority to publish his own book](https://nathanbarry.com/using-authority/) — `2013-07-31-using-authority.md` — 1442w
+- 2013-07-22 — [Naive Design](https://nathanbarry.com/naive-design/) — `2013-07-22-naive-design.md` — 719w
+- 2013-07-01 — [What can you do in six months? Concluding The Web App Challenge](https://nathanbarry.com/concluding-web-app-challenge/) — `2013-07-01-concluding-web-app-challenge.md` — 1824w
+- 2013-06-28 — [How I use email for marketing](https://nathanbarry.com/email-marketing/) — `2013-06-28-email-marketing.md` — 1985w
+- 2013-06-04 — [Web App Challenge Update: The Final Stretch](https://nathanbarry.com/web-app-challenge-update-final-stretch/) — `2013-06-04-web-app-challenge-update-final-stretch.md` — 1243w
+- 2013-05-28 — [Self-doubt and launch stats](https://nathanbarry.com/self-doubt-launch-stats/) — `2013-05-28-self-doubt-launch-stats.md` — 1680w
+- 2013-05-21 — [Authority is live](https://nathanbarry.com/authority-live/) — `2013-05-21-authority-live.md` — 349w
+- 2013-05-20 — [A first look at Authority](https://nathanbarry.com/authority-first-look/) — `2013-05-20-authority-first-look.md` — 506w
+- 2013-05-14 — [What Marco Polo and a web designer have in common](https://nathanbarry.com/marco-polo/) — `2013-05-14-marco-polo.md` — 780w
+- 2013-05-08 — [The Productivity Manifesto](https://nathanbarry.com/productivity-manifesto/) — `2013-05-08-productivity-manifesto.md` — 156w
+- 2013-05-06 — [Why beautiful email templates hurt your business](https://nathanbarry.com/email-templates-hurt-business/) — `2013-05-06-email-templates-hurt-business.md` — 564w
+- 2013-05-01 — [Denim and lifelong friends](https://nathanbarry.com/denim-lifelong-friends/) — `2013-05-01-denim-lifelong-friends.md` — 1597w
+- 2013-04-29 — [How to radically simplify your user interface](https://nathanbarry.com/judo-application-design/) — `2013-04-29-judo-application-design.md` — 1066w
+- 2013-04-18 — [Three exciting words](https://nathanbarry.com/three-words/) — `2013-04-18-three-words.md` — 361w
+- 2013-04-12 — [How to write marketing emails that don’t suck](https://nathanbarry.com/write-marketing-emails-dont-suck/) — `2013-04-12-write-marketing-emails-dont-suck.md` — 658w
+- 2013-04-02 — [The Hidden Costs of Contract Work](https://nathanbarry.com/hidden-costs-contract-work/) — `2013-04-02-hidden-costs-contract-work.md` — 578w
+- 2013-03-25 — [All Bugs Have Software](https://nathanbarry.com/bugs-software/) — `2013-03-25-bugs-software.md` — 436w
+- 2013-03-22 — [Workshop Design Video (Part 2) + Workshop Tickets Available](https://nathanbarry.com/design-workshop/) — `2013-03-22-design-workshop.md` — 207w
+- 2013-03-18 — [Wireframing your web application](https://nathanbarry.com/wireframing-web-application/) — `2013-03-18-wireframing-web-application.md` — 1316w
+- 2013-02-26 — [The first 8 weeks of The Web App Challenge](https://nathanbarry.com/8-weeks-web-app-challenge/) — `2013-02-26-8-weeks-web-app-challenge.md` — 894w
+- 2013-02-25 — [Can preorders work for software-as-a-service companies?](https://nathanbarry.com/saas-preorders/) — `2013-02-25-saas-preorders.md` — 922w
+- 2013-02-21 — [A sneak peek of ConvertKit](https://nathanbarry.com/convertkit-sneak-peak/) — `2013-02-21-convertkit-sneak-peak.md` — 474w
+- 2013-02-19 — [Step-By-Step Landing Page Copywriting](https://nathanbarry.com/step-by-step-landing-page-copywriting/) — `2013-02-19-step-by-step-landing-page-copywriting.md` — 4420w
+- 2013-02-12 — [On Design Approval and Intentional Flaws](https://nathanbarry.com/design-approval/) — `2013-02-12-design-approval.md` — 1197w
+- 2013-02-04 — [Naming your product](https://nathanbarry.com/naming-your-product/) — `2013-02-04-naming-your-product.md` — 804w
+- 2013-02-01 — [The Best Marketing Method I Know](https://nathanbarry.com/best-marketing-method/) — `2013-02-01-best-marketing-method.md` — 797w
+- 2013-01-28 — [Helping People Who Help Themselves](https://nathanbarry.com/helping-people/) — `2013-01-28-helping-people.md` — 409w
+- 2013-01-23 — [Don’t throw away your competitive advantage](https://nathanbarry.com/competitive-advantage/) — `2013-01-23-competitive-advantage.md` — 823w
+- 2013-01-15 — [Finding a Developer](https://nathanbarry.com/finding-developer/) — `2013-01-15-finding-developer.md` — 1453w
+- 2013-01-10 — [An Unstoppable Combination](https://nathanbarry.com/unstoppable-combination/) — `2013-01-10-unstoppable-combination.md` — 652w
+- 2013-01-08 — [Finding Ideas For Your Next Project](https://nathanbarry.com/finding-ideas-project/) — `2013-01-08-finding-ideas-project.md` — 1757w
+- 2012-12-31 — [Starting The Web App Challenge: From Zero to $5,000/month In 6 Months](https://nathanbarry.com/starting-web-app-challenge/) — `2012-12-31-starting-web-app-challenge.md` — 1202w
+- 2012-12-29 — [One Year After Quitting My Job](https://nathanbarry.com/2012-year-quitting-job/) — `2012-12-29-2012-year-quitting-job.md` — 1609w
+- 2012-12-21 — [$26,679 in 24 hours: Stats from my latest book launch](https://nathanbarry.com/behind-the-scenes/) — `2012-12-21-behind-the-scenes.md` — 2230w
+- 2012-12-12 — [Is your web application painful to use?](https://nathanbarry.com/web-application-painful-use/) — `2012-12-12-web-application-painful-use.md` — 737w
+- 2012-12-06 — [A Preview of Designing Web Applications](https://nathanbarry.com/preview-designing-web-applications/) — `2012-12-06-preview-designing-web-applications.md` — 245w
+- 2012-11-28 — [Ryan Singer from 37signals on software design, workflow, and “Judo”](https://nathanbarry.com/ryan-singer-interview/) — `2012-11-28-ryan-singer-interview.md` — 7094w
+- 2012-11-12 — [How to generate more revenue from your web application today](https://nathanbarry.com/generate-revenue-web-application-today/) — `2012-11-12-generate-revenue-web-application-today.md` — 2323w
+- 2012-10-31 — [My Experience Selling With Gumroad](https://nathanbarry.com/experience-selling-gumroad/) — `2012-10-31-experience-selling-gumroad.md` — 1102w
+- 2012-10-24 — [The commitment that changed my career + my next project.](https://nathanbarry.com/commitment-changed-career/) — `2012-10-24-commitment-changed-career.md` — 813w
+- 2012-10-08 — [$39k in eBook Sales Part 2: Design, Testimonials, and Traffic](https://nathanbarry.com/39k-ebook-sales-part-2/) — `2012-10-08-39k-ebook-sales-part-2.md` — 8202w
+- 2012-10-03 — [How Nathan Barry and Sacha Greif Sold $39k Worth of eBooks](https://nathanbarry.com/nathan-barry-sacha-greif-sold-39k-worth-ebooks/) — `2012-10-03-nathan-barry-sacha-greif-sold-39k-worth-ebooks.md` — 5846w
+- 2012-09-19 — [Design Lessons From The New Twitter iPad App](https://nathanbarry.com/new-twitter-for-ipad/) — `2012-09-19-new-twitter-for-ipad.md` — 1288w
+- 2012-09-18 — [Don’t Repeat My Product Launch Mistakes](https://nathanbarry.com/product-launch-mistakes/) — `2012-09-18-product-launch-mistakes.md` — 1091w
+- 2012-09-13 — [I’m addicted to vanity metrics](https://nathanbarry.com/addicted-vanity-metrics/) — `2012-09-13-addicted-vanity-metrics.md` — 516w
+- 2012-09-04 — [What I learned selling $6,000+ of my ebook today.](https://nathanbarry.com/learned-selling-6000-ebook-today/) — `2012-09-04-learned-selling-6000-ebook-today.md` — 1079w
+- 2012-08-29 — [A Look Inside The App Design Handbook](https://nathanbarry.com/inside-app-design-handbook/) — `2012-08-29-inside-app-design-handbook.md` — 309w
+- 2012-08-24 — [User Experience Lessons From the New Facebook iOS App](https://nathanbarry.com/ux-lessons-from-facebook-ios/) — `2012-08-24-ux-lessons-from-facebook-ios.md` — 953w
+- 2012-08-07 — [Learn iOS Design and Photoshop Tricks with These 1-3 Minute Videos](https://nathanbarry.com/learn-ios-design-photoshop-tricks-1-3-minute-videos/) — `2012-08-07-learn-ios-design-photoshop-tricks-1-3-minute-videos.md` — 138w
+- 2012-07-31 — [Learn To Design a Book Landing Page In Photoshop (Video)](https://nathanbarry.com/designing-book-landing-page-photoshop/) — `2012-07-31-designing-book-landing-page-photoshop.md` — 120w
+- 2012-07-25 — [My new book: The App Design Handbook](https://nathanbarry.com/book-app-design-handbook/) — `2012-07-25-book-app-design-handbook.md` — 170w
+- 2012-07-20 — [89,697 Reasons to Teach Everything You Know](https://nathanbarry.com/89697-reasons-to-teach/) — `2012-07-20-89697-reasons-to-teach.md` — 251w
+- 2012-07-16 — [The World Domination Summit (2012)](https://nathanbarry.com/world-domination-summit-2012/) — `2012-07-16-world-domination-summit-2012.md` — 514w
+- 2012-07-02 — [Giving Yourself Advice](https://nathanbarry.com/giving-yourself-advice/) — `2012-07-02-giving-yourself-advice.md` — 263w
+- 2012-06-26 — [300 or $60,000? How to talk about numbers.](https://nathanbarry.com/300-60000-talk-numbers/) — `2012-06-26-300-60000-talk-numbers.md` — 283w
+- 2012-06-07 — [Bragging About the Wrong Metrics](https://nathanbarry.com/wrong-metrics/) — `2012-06-07-wrong-metrics.md` — 285w
+- 2012-06-02 — [Traveling with a Baby](https://nathanbarry.com/traveling-baby/) — `2012-06-02-traveling-baby.md` — 1315w
 - 2012-05-22 — [The Trip of a Lifetime](https://nathanbarry.com/trip-lifetime/) — `2012-05-22-trip-lifetime.md` — 316w
-- 2012-05-15 — [Minimize Efficiency](https://nathanbarry.com/minimize-efficiency/) — `2012-05-15-minimize-efficiency.md` — 368w
-- 2012-05-08 — [A Todo List for Life](https://nathanbarry.com/life-todo-list/) — `2012-05-08-life-todo-list.md` — 203w
-- 2012-04-24 — [Don’t be a dick. Just be nice.](https://nathanbarry.com/dont-be-a-dick/) — `2012-04-24-dont-be-a-dick.md` — 298w
-- 2012-04-17 — [Focus on Finishing](https://nathanbarry.com/focus-finishing/) — `2012-04-17-focus-finishing.md` — 277w
-- 2012-03-27 — [Boise Code Camp 2012: Links and Notes](https://nathanbarry.com/boise-code-camp-2012-notes-links/) — `2012-03-27-boise-code-camp-2012-notes-links.md` — 126w
-- 2012-03-20 — [25 Free iOS Design Resources](https://nathanbarry.com/25-free-ios-design-resources/) — `2012-03-20-25-free-ios-design-resources.md` — 157w
-- 2012-03-13 — [Why Everyone Else is More Popular Than You Are](https://nathanbarry.com/why-everyone-else-is-more-popular/) — `2012-03-13-why-everyone-else-is-more-popular.md` — 270w
-- 2012-03-06 — [What I’m working on is more important than what you have to say.](https://nathanbarry.com/passive-collaboration/) — `2012-03-06-passive-collaboration.md` — 376w
-- 2012-02-28 — [My Early Design Work](https://nathanbarry.com/my-early-design-work/) — `2012-02-28-my-early-design-work.md` — 122w
-- 2012-02-21 — [3 Tips to Help Your Commitments Succeed](https://nathanbarry.com/3-tips-help-commitments-succeed/) — `2012-02-21-3-tips-help-commitments-succeed.md` — 336w
-- 2012-02-14 — [Productivity Tip: Create and Consume on Different Devices](https://nathanbarry.com/create-consume-different-devices/) — `2012-02-14-create-consume-different-devices.md` — 248w
-- 2012-02-07 — [Designing Buttons in iOS 5](https://nathanbarry.com/designing-buttons-ios5/) — `2012-02-07-designing-buttons-ios5.md` — 334w
-- 2012-01-31 — [The Perfect Tool](https://nathanbarry.com/perfect-tool/) — `2012-01-31-perfect-tool.md` — 302w
+- 2012-05-15 — [Minimize Efficiency](https://nathanbarry.com/minimize-efficiency/) — `2012-05-15-minimize-efficiency.md` — 353w
+- 2012-05-08 — [A Todo List for Life](https://nathanbarry.com/life-todo-list/) — `2012-05-08-life-todo-list.md` — 364w
+- 2012-04-24 — [Don’t be a dick. Just be nice.](https://nathanbarry.com/dont-be-a-dick/) — `2012-04-24-dont-be-a-dick.md` — 283w
+- 2012-04-17 — [Focus on Finishing](https://nathanbarry.com/focus-finishing/) — `2012-04-17-focus-finishing.md` — 262w
+- 2012-03-27 — [Boise Code Camp 2012: Links and Notes](https://nathanbarry.com/boise-code-camp-2012-notes-links/) — `2012-03-27-boise-code-camp-2012-notes-links.md` — 142w
+- 2012-03-20 — [25 Free iOS Design Resources](https://nathanbarry.com/25-free-ios-design-resources/) — `2012-03-20-25-free-ios-design-resources.md` — 239w
+- 2012-03-13 — [Why Everyone Else is More Popular Than You Are](https://nathanbarry.com/why-everyone-else-is-more-popular/) — `2012-03-13-why-everyone-else-is-more-popular.md` — 263w
+- 2012-03-06 — [What I’m working on is more important than what you have to say.](https://nathanbarry.com/passive-collaboration/) — `2012-03-06-passive-collaboration.md` — 368w
+- 2012-02-21 — [3 Tips to Help Your Commitments Succeed](https://nathanbarry.com/3-tips-help-commitments-succeed/) — `2012-02-21-3-tips-help-commitments-succeed.md` — 314w
+- 2012-02-14 — [Productivity Tip: Create and Consume on Different Devices](https://nathanbarry.com/create-consume-different-devices/) — `2012-02-14-create-consume-different-devices.md` — 227w
+- 2012-02-07 — [Designing Buttons in iOS 5](https://nathanbarry.com/designing-buttons-ios5/) — `2012-02-07-designing-buttons-ios5.md` — 333w
+- 2012-01-31 — [The Perfect Tool](https://nathanbarry.com/perfect-tool/) — `2012-01-31-perfect-tool.md` — 293w
+- 2012-01-24 — [Live Different](https://nathanbarry.com/live/) — `2012-01-24-live.md` — 641w
 - 2012-01-11 — [Looking forward to 2012](https://nathanbarry.com/looking-forward-2012/) — `2012-01-11-looking-forward-2012.md` — 579w
-- 2012-01-11 — [How my behavior changing iPhone app made $1,673 in the first 3 weeks.](https://nathanbarry.com/commit-iphone-sales-data/) — `2012-01-11-commit-iphone-sales-data.md` — 932w
-- 2012-01-03 — [2011 in Review](https://nathanbarry.com/2011-review/) — `2012-01-03-2011-review.md` — 985w
-- 2011-12-27 — [Commit to Learn and Improve Every Day in 2012](https://nathanbarry.com/commit-learn-improve-day-2012/) — `2011-12-27-commit-learn-improve-day-2012.md` — 222w
-- 2011-12-20 — [A Little Bit Each Day](https://nathanbarry.com/a-little-bit-each-day/) — `2011-12-20-a-little-bit-each-day.md` — 295w
-- 2011-12-13 — [Skill Doesn’t Matter If You Lack Taste](https://nathanbarry.com/skill-doesnt-matter-if-you-lack-taste/) — `2011-12-13-skill-doesnt-matter-if-you-lack-taste.md` — 268w
-- 2011-12-06 — [What Does the #1 Spot on Hacker News Get You?](https://nathanbarry.com/hacker-news-follow-up/) — `2011-12-06-hacker-news-follow-up.md` — 405w
-- 2011-11-29 — [10 Things I’ve Learned in 21 Years](https://nathanbarry.com/10-things-ive-learned-in-21-years/) — `2011-11-29-10-things-ive-learned-in-21-years.md` — 634w
-- 2011-11-22 — [How I am Learning to Program](https://nathanbarry.com/how-i-am-learning-to-program/) — `2011-11-22-how-i-am-learning-to-program.md` — 613w
-- 2011-11-15 — [How I Made $19,000 on the App Store While Learning to Code](https://nathanbarry.com/how-i-made-19000-on-the-app-store-while-learning-to-code/) — `2011-11-15-how-i-made-19000-on-the-app-store-while-learning-to-code.md` — 600w
-- 2011-11-08 — [Designing Fluent](https://nathanbarry.com/designing-fluent/) — `2011-11-08-designing-fluent.md` — 836w
-- 2011-11-01 — [Someone’s Dream](https://nathanbarry.com/someones-dream/) — `2011-11-01-someones-dream.md` — 241w
-- 2011-10-25 — [Managing Ideas](https://nathanbarry.com/managing-ideas/) — `2011-10-25-managing-ideas.md` — 307w
-- 2011-10-18 — [I Quit My Job](https://nathanbarry.com/i-quit-my-job/) — `2011-10-18-i-quit-my-job.md` — 234w
-- 2011-10-11 — [Spending Purposefully](https://nathanbarry.com/spending-purposefully/) — `2011-10-11-spending-purposefully.md` — 423w
-- 2011-10-04 — [OneVoice in the Idaho Business Review](https://nathanbarry.com/onevoice-in-the-idaho-business-review/) — `2011-10-04-onevoice-in-the-idaho-business-review.md` — 162w
-- 2011-09-20 — [Planning Features](https://nathanbarry.com/planning-features/) — `2011-09-20-planning-features.md` — 272w
-- 2011-09-13 — [Learn by Creating](https://nathanbarry.com/learn-by-creating/) — `2011-09-13-learn-by-creating.md` — 287w
-- 2011-09-06 — [Apple, Pricing, and 17+](https://nathanbarry.com/apple-pricing-and-17/) — `2011-09-06-apple-pricing-and-17.md` — 672w
-- 2011-08-23 — [How to Never Miss a Blog Post](https://nathanbarry.com/how-to-never-miss-a-blog-post/) — `2011-08-23-how-to-never-miss-a-blog-post.md` — 191w
-- 2011-08-16 — [iOS Design Weekly: Launch Story and Statistics](https://nathanbarry.com/ios-design-weekly-stats/) — `2011-08-16-ios-design-weekly-stats.md` — 635w
-- 2011-08-09 — [The Story Behind OneVoice](https://nathanbarry.com/the-story-behind-onevoice/) — `2011-08-09-the-story-behind-onevoice.md` — 693w
-- 2011-08-02 — [Designers Who Inspire Me](https://nathanbarry.com/designers-who-inspire-me/) — `2011-08-02-designers-who-inspire-me.md` — 156w
-- 2011-07-26 — [My favorite kind of people](https://nathanbarry.com/my-favorite-kind-of-people/) — `2011-07-26-my-favorite-kind-of-people.md` — 175w
-- 2011-07-19 — [The Downsides of selling in the App Store](https://nathanbarry.com/downsides-of-selling-in-the-app-store/) — `2011-07-19-downsides-of-selling-in-the-app-store.md` — 572w
-- 2011-06-30 — [One Year with iOS](https://nathanbarry.com/one-year-with-ios/) — `2011-06-30-one-year-with-ios.md` — 670w
-- 2011-04-04 — [Designing a Signature](https://nathanbarry.com/designing-a-signature/) — `2011-04-04-designing-a-signature.md` — 575w
-- 2011-03-17 — [The Perfect Presentation: Changing Education Paradigms](https://nathanbarry.com/the-perfect-presentation/) — `2011-03-17-the-perfect-presentation.md` — 290w
-- 2011-01-20 — [A Voice for Congresswoman Giffords.](https://nathanbarry.com/a-voice-for-congresswoman-giffords/) — `2011-01-20-a-voice-for-congresswoman-giffords.md` — 316w
-- 2010-12-07 — [How to By-Pass the TSA No](https://nathanbarry.com/no-fly-list/) — `2010-12-07-no-fly-list.md` — 722w
-- 2010-12-03 — [Being Present](https://nathanbarry.com/being-present/) — `2010-12-03-being-present.md` — 416w
-- 2010-08-16 — [jQuery Mobile](https://nathanbarry.com/jquery-mobile/) — `2010-08-16-jquery-mobile.md` — 120w
-- 2010-03-23 — [The Right Way to Break Design Conventions](https://nathanbarry.com/right-way-break-design-conventions/) — `2010-03-23-right-way-break-design-conventions.md` — 220w
-- 2010-02-04 — [“Right Now” Design for WordPress](https://nathanbarry.com/at-a-glance-design-for-wordpress/) — `2010-02-04-at-a-glance-design-for-wordpress.md` — 170w
-- 2009-12-12 — [Ideas are Worthless…](https://nathanbarry.com/ideas-are-worthless/) — `2009-12-12-ideas-are-worthless.md` — 213w
-- 2009-11-30 — [Emphasis: A Free WordPress Theme](https://nathanbarry.com/emphasis-a-free-wordpress-theme/) — `2009-11-30-emphasis-a-free-wordpress-theme.md` — 246w
-- 2009-07-20 — [An Avatar for a Password: A Lesson in Social Media Security](https://nathanbarry.com/social-media-security/) — `2009-07-20-social-media-security.md` — 653w
-- 2009-07-07 — [4 Tips for Ignite Boise Presenters](https://nathanbarry.com/4-tips-for-ignite-boise-presenters/) — `2009-07-07-4-tips-for-ignite-boise-presenters.md` — 380w
+- 2012-01-11 — [How my behavior changing iPhone app made $1,673 in the first 3 weeks.](https://nathanbarry.com/commit-iphone-sales-data/) — `2012-01-11-commit-iphone-sales-data.md` — 941w
+- 2012-01-03 — [2011 in Review](https://nathanbarry.com/2011-review/) — `2012-01-03-2011-review.md` — 1020w
+- 2011-12-27 — [Commit to Learn and Improve Every Day in 2012](https://nathanbarry.com/commit-learn-improve-day-2012/) — `2011-12-27-commit-learn-improve-day-2012.md` — 231w
+- 2011-12-20 — [A Little Bit Each Day](https://nathanbarry.com/a-little-bit-each-day/) — `2011-12-20-a-little-bit-each-day.md` — 281w
+- 2011-12-13 — [Skill Doesn’t Matter If You Lack Taste](https://nathanbarry.com/skill-doesnt-matter-if-you-lack-taste/) — `2011-12-13-skill-doesnt-matter-if-you-lack-taste.md` — 254w
+- 2011-12-06 — [What Does the #1 Spot on Hacker News Get You?](https://nathanbarry.com/hacker-news-follow-up/) — `2011-12-06-hacker-news-follow-up.md` — 424w
+- 2011-11-29 — [10 Things I’ve Learned in 21 Years](https://nathanbarry.com/10-things-ive-learned-in-21-years/) — `2011-11-29-10-things-ive-learned-in-21-years.md` — 626w
+- 2011-11-22 — [How I am Learning to Program](https://nathanbarry.com/how-i-am-learning-to-program/) — `2011-11-22-how-i-am-learning-to-program.md` — 626w
+- 2011-11-15 — [How I Made $19,000 on the App Store While Learning to Code](https://nathanbarry.com/how-i-made-19000-on-the-app-store-while-learning-to-code/) — `2011-11-15-how-i-made-19000-on-the-app-store-while-learning-to-code.md` — 593w
+- 2011-11-08 — [Designing Fluent](https://nathanbarry.com/designing-fluent/) — `2011-11-08-designing-fluent.md` — 835w
+- 2011-11-01 — [Someone’s Dream](https://nathanbarry.com/someones-dream/) — `2011-11-01-someones-dream.md` — 217w
+- 2011-10-25 — [Managing Ideas](https://nathanbarry.com/managing-ideas/) — `2011-10-25-managing-ideas.md` — 292w
+- 2011-10-18 — [I Quit My Job](https://nathanbarry.com/i-quit-my-job/) — `2011-10-18-i-quit-my-job.md` — 237w
+- 2011-10-11 — [Spending Purposefully](https://nathanbarry.com/spending-purposefully/) — `2011-10-11-spending-purposefully.md` — 408w
+- 2011-10-04 — [OneVoice in the Idaho Business Review](https://nathanbarry.com/onevoice-in-the-idaho-business-review/) — `2011-10-04-onevoice-in-the-idaho-business-review.md` — 140w
+- 2011-09-20 — [Planning Features](https://nathanbarry.com/planning-features/) — `2011-09-20-planning-features.md` — 257w
+- 2011-09-13 — [Learn by Creating](https://nathanbarry.com/learn-by-creating/) — `2011-09-13-learn-by-creating.md` — 265w
+- 2011-09-06 — [Apple, Pricing, and 17+](https://nathanbarry.com/apple-pricing-and-17/) — `2011-09-06-apple-pricing-and-17.md` — 657w
+- 2011-08-23 — [How to Never Miss a Blog Post](https://nathanbarry.com/how-to-never-miss-a-blog-post/) — `2011-08-23-how-to-never-miss-a-blog-post.md` — 180w
+- 2011-08-16 — [iOS Design Weekly: Launch Story and Statistics](https://nathanbarry.com/ios-design-weekly-stats/) — `2011-08-16-ios-design-weekly-stats.md` — 666w
+- 2011-08-09 — [The Story Behind OneVoice](https://nathanbarry.com/the-story-behind-onevoice/) — `2011-08-09-the-story-behind-onevoice.md` — 698w
+- 2011-08-02 — [Designers Who Inspire Me](https://nathanbarry.com/designers-who-inspire-me/) — `2011-08-02-designers-who-inspire-me.md` — 177w
+- 2011-07-26 — [My favorite kind of people](https://nathanbarry.com/my-favorite-kind-of-people/) — `2011-07-26-my-favorite-kind-of-people.md` — 160w
+- 2011-07-19 — [The Downsides of selling in the App Store](https://nathanbarry.com/downsides-of-selling-in-the-app-store/) — `2011-07-19-downsides-of-selling-in-the-app-store.md` — 571w
+- 2011-06-30 — [One Year with iOS](https://nathanbarry.com/one-year-with-ios/) — `2011-06-30-one-year-with-ios.md` — 656w
+- 2011-04-04 — [Designing a Signature](https://nathanbarry.com/designing-a-signature/) — `2011-04-04-designing-a-signature.md` — 560w
+- 2011-03-17 — [The Perfect Presentation: Changing Education Paradigms](https://nathanbarry.com/the-perfect-presentation/) — `2011-03-17-the-perfect-presentation.md` — 286w
+- 2011-01-20 — [A Voice for Congresswoman Giffords.](https://nathanbarry.com/a-voice-for-congresswoman-giffords/) — `2011-01-20-a-voice-for-congresswoman-giffords.md` — 303w
+- 2010-12-07 — [How to By-Pass the TSA No-Fly List](https://nathanbarry.com/no-fly-list/) — `2010-12-07-no-fly-list.md` — 726w
+- 2010-12-03 — [Being Present](https://nathanbarry.com/being-present/) — `2010-12-03-being-present.md` — 401w
+- 2010-03-23 — [The Right Way to Break Design Conventions](https://nathanbarry.com/right-way-break-design-conventions/) — `2010-03-23-right-way-break-design-conventions.md` — 205w
+- 2010-02-04 — [“Right Now” Design for WordPress](https://nathanbarry.com/at-a-glance-design-for-wordpress/) — `2010-02-04-at-a-glance-design-for-wordpress.md` — 157w
+- 2009-12-12 — [Ideas are Worthless…](https://nathanbarry.com/ideas-are-worthless/) — `2009-12-12-ideas-are-worthless.md` — 215w
+- 2009-11-30 — [Emphasis: A Free WordPress Theme](https://nathanbarry.com/emphasis-a-free-wordpress-theme/) — `2009-11-30-emphasis-a-free-wordpress-theme.md` — 258w
+- 2009-07-20 — [An Avatar for a Password: A Lesson in Social Media Security](https://nathanbarry.com/social-media-security/) — `2009-07-20-social-media-security.md` — 686w
+- 2009-07-07 — [4 Tips for Ignite Boise Presenters](https://nathanbarry.com/4-tips-for-ignite-boise-presenters/) — `2009-07-07-4-tips-for-ignite-boise-presenters.md` — 399w

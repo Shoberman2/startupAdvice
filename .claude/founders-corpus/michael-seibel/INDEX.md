@@ -1,6 +1,6 @@
 # Michael Seibel corpus index
 
-Source: https://www.michaelseibel.com — fetched 2026-07-19
+Source: https://www.michaelseibel.com — fetched 2026-07-20
 21 posts, 17601 words. Format: date — [title](canonical url) — `file` — words.
 
 - undated — [YC’s Essential Startup Advice](https://www.michaelseibel.com/blog/yc-s-essential-startup-advice) — `undated-blog-yc-s-essential-startup-advice.md` — 1862w
@@ -8,7 +8,7 @@ Source: https://www.michaelseibel.com — fetched 2026-07-19
 - undated — [Why Should I Start a Startup?](https://www.michaelseibel.com/blog/why-should-i-start-a-startup) — `undated-blog-why-should-i-start-a-startup.md` — 587w
 - undated — [Why Does Your Company Deserve More Money?](https://www.michaelseibel.com/blog/why-does-your-company-deserve-more-money) — `undated-blog-why-does-your-company-deserve-more-money.md` — 639w
 - undated — [Users You Don’t Want](https://www.michaelseibel.com/blog/users-you-don-t-want) — `undated-blog-users-you-don-t-want.md` — 576w
-- undated — [Turning a Best Friend into a Co](https://www.michaelseibel.com/blog/turning-a-best-friend-into-a-co-founder) — `undated-blog-turning-a-best-friend-into-a-co-founder.md` — 391w
+- undated — [Turning a Best Friend into a&nbsp;Co](https://www.michaelseibel.com/blog/turning-a-best-friend-into-a-co-founder) — `undated-blog-turning-a-best-friend-into-a-co-founder.md` — 391w
 - undated — [Three Paths in the Tech Industry](https://www.michaelseibel.com/blog/three-paths-in-the-tech-industry) — `undated-blog-three-paths-in-the-tech-industry.md` — 1265w
 - undated — [The Scientific Method for Startups](https://www.michaelseibel.com/blog/the-scientific-method-for-startups) — `undated-blog-the-scientific-method-for-startups.md` — 563w
 - undated — [The Real Product Market Fit](https://www.michaelseibel.com/blog/the-real-product-market-fit) — `undated-blog-the-real-product-market-fit.md` — 625w

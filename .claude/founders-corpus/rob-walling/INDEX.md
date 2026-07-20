@@ -1,6 +1,6 @@
 # Rob Walling corpus index
 
-Source: https://robwalling.com — fetched 2026-07-19
+Source: https://robwalling.com — fetched 2026-07-20
 92 posts, 104779 words. Format: date — [title](canonical url) — `file` — words.
 
 - undated — [Rob Walling’s SaaS Community](https://robwalling.com/community) — `undated-community.md` — 198w

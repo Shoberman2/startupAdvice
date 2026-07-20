@@ -1,11 +1,12 @@
 # Eugene Wei corpus index
 
-Source: https://www.eugenewei.com — fetched 2026-07-19
-93 posts, 166881 words. Format: date — [title](canonical url) — `file` — words.
+Source: https://www.eugenewei.com — fetched 2026-07-20
+866 posts, 605334 words. Format: date — [title](canonical url) — `file` — words.
 
 - 2023-07-07 — [How to Blow Up a Timeline](https://www.eugenewei.com/blog/2023/7/6/how-to-blow-up-a-timeline) — `2023-07-07-blog-2023-7-6-how-to-blow-up-a-timeline.md` — 6989w
 - 2022-02-28 — [My Favorite Movies of 2021](https://www.eugenewei.com/blog/2022/2/23/my-favorite-movies-of-2021) — `2022-02-28-blog-2022-2-23-my-favorite-movies-of-2021.md` — 8796w
 - 2021-10-10 — [And You Will Know Us by the Company We Keep](https://www.eugenewei.com/blog/2021/9/29/and-you-will-know-us-by-the-company-we-keep) — `2021-10-10-blog-2021-9-29-and-you-will-know-us-by-the-company-we-keep.md` — 5903w
+- 2021-02-21 — [American Idle](https://www.eugenewei.com/blog/2021/2/15/american-idle) — `2021-02-21-blog-2021-2-15-american-idle.md` — 12433w
 - 2020-09-20 — [Seeing Like an Algorithm](https://www.eugenewei.com/blog/2020/9/18/seeing-like-an-algorithm) — `2020-09-20-blog-2020-9-18-seeing-like-an-algorithm.md` — 5462w
 - 2020-08-04 — [TikTok and the Sorting Hat](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat) — `2020-08-04-blog-2020-8-3-tiktok-and-the-sorting-hat.md` — 6958w
 - 2020-03-26 — [My Pandemic Zoom Setup](https://www.eugenewei.com/blog/2020/3/26/my-pandemic-zoom-setup) — `2020-03-26-blog-2020-3-26-my-pandemic-zoom-setup.md` — 695w
@@ -15,6 +16,7 @@ Source: https://www.eugenewei.com — fetched 2026-07-19
 - 2019-12-12 — [Narrative debt](https://www.eugenewei.com/blog/2020/3/11/narrative-debt) — `2019-12-12-blog-2020-3-11-narrative-debt.md` — 1121w
 - 2019-11-14 — [Smoke and Mirrors](https://www.eugenewei.com/blog/2019/11/14/smoke-and-mirrors) — `2019-11-14-blog-2019-11-14-smoke-and-mirrors.md` — 4893w
 - 2019-11-13 — [Status Update, and How Everyone IPO'd in the 21st Century](https://www.eugenewei.com/blog/2019/11/4/status-update) — `2019-11-13-blog-2019-11-4-status-update.md` — 3840w
+- 2018-05-22 — [Invisible asymptotes](https://www.eugenewei.com/blog/2018/5/21/invisible-asymptotes) — `2018-05-22-blog-2018-5-21-invisible-asymptotes.md` — 11615w
 - 2018-05-15 — [What I learned from a Taipei alley](https://www.eugenewei.com/blog/2018/5/11/taipei-alley) — `2018-05-15-blog-2018-5-11-taipei-alley.md` — 1926w
 - 2018-04-14 — [The inefficiency of large, infrequent transactions](https://www.eugenewei.com/blog/2018/4/6/the-inefficiency-of-infrequent-transactions) — `2018-04-14-blog-2018-4-6-the-inefficiency-of-infrequent-transactions.md` — 1970w
 - 2018-03-19 — [Catch up](https://www.eugenewei.com/blog/2018/3/19/catch-up) — `2018-03-19-blog-2018-3-19-catch-up.md` — 5968w
@@ -96,3 +98,774 @@ Source: https://www.eugenewei.com — fetched 2026-07-19
 - 2016-01-05 — [Through the eyes of a burglar](https://www.eugenewei.com/blog/2016/1/5/through-the-eyes-of-a-burglar) — `2016-01-05-blog-2016-1-5-through-the-eyes-of-a-burglar.md` — 254w
 - 2016-01-04 — [Gonna make you sweat](https://www.eugenewei.com/blog/2016/1/4/gonna-make-you-sweat) — `2016-01-04-blog-2016-1-4-gonna-make-you-sweat.md` — 478w
 - 2015-12-26 — [Santa Claus converts Scrooge with new economics](https://www.eugenewei.com/blog/2015/12/26/santa-claus-converts-scrooge-with-new-economics) — `2015-12-26-blog-2015-12-26-santa-claus-converts-scrooge-with-new-economics.md` — 223w
+- 2015-12-24 — [War for the roads](https://www.eugenewei.com/blog/2015/12/24/war-of-the-roads) — `2015-12-24-blog-2015-12-24-war-of-the-roads.md` — 461w
+- 2015-12-24 — [The false dichotomy of U.S. politics](https://www.eugenewei.com/blog/2015/12/24/the-false-dichotomy-of-us-politics) — `2015-12-24-blog-2015-12-24-the-false-dichotomy-of-us-politics.md` — 1824w
+- 2015-12-24 — [Carol](https://www.eugenewei.com/blog/2015/12/24/carol) — `2015-12-24-blog-2015-12-24-carol.md` — 519w
+- 2015-12-24 — [Bret Easton Ellis interviews Tarantino (unedited)](https://www.eugenewei.com/blog/2015/12/24/bret-easton-ellis-interviews-tarantino-unedited) — `2015-12-24-blog-2015-12-24-bret-easton-ellis-interviews-tarantino-unedited.md` — 569w
+- 2015-12-12 — [Stephen Curry](https://www.eugenewei.com/blog/2015/12/10/curry) — `2015-12-12-blog-2015-12-10-curry.md` — 952w
+- 2015-11-29 — [Hannibal Lecter and Will Graham, a love story](https://www.eugenewei.com/blog/2015/11/29/hannibal-lecter-and-will-graham-a-love-story) — `2015-11-29-blog-2015-11-29-hannibal-lecter-and-will-graham-a-love-story.md` — 300w
+- 2015-11-28 — [Stock and flow of civil wars](https://www.eugenewei.com/blog/2015/11/24/stock-and-flow-of-civil-wars) — `2015-11-28-blog-2015-11-24-stock-and-flow-of-civil-wars.md` — 595w
+- 2015-11-28 — [Clustered regularly interspaced short palindromic repeats](https://www.eugenewei.com/blog/2015/11/28/clustered-regularly-interspaced-short-palindromic-repeats) — `2015-11-28-blog-2015-11-28-clustered-regularly-interspaced-short-palindromic-repeats.md` — 949w
+- 2015-11-28 — ["Show me a hero, and I'll write you a tragedy"](https://www.eugenewei.com/blog/2015/11/23/show-me-a-hero-and-ill-write-you-a-tragedy) — `2015-11-28-blog-2015-11-23-show-me-a-hero-and-ill-write-you-a-tragedy.md` — 438w
+- 2015-11-19 — [Fan theories](https://www.eugenewei.com/blog/2015/11/1/fan-theories) — `2015-11-19-blog-2015-11-1-fan-theories.md` — 628w
+- 2015-11-19 — [Eye tracking](https://www.eugenewei.com/blog/2015/11/8/eye-tracking) — `2015-11-19-blog-2015-11-8-eye-tracking.md` — 480w
+- 2015-11-19 — [Could ISIS exist without Islam?](https://www.eugenewei.com/blog/2015/11/19/could-isis-exist-without-islam) — `2015-11-19-blog-2015-11-19-could-isis-exist-without-islam.md` — 176w
+- 2015-11-19 — [China's birth rate problem](https://www.eugenewei.com/blog/2015/11/1/chinas-birth-rate-problem) — `2015-11-19-blog-2015-11-1-chinas-birth-rate-problem.md` — 282w
+- 2015-11-17 — [The cold hard facts](https://www.eugenewei.com/blog/2015/11/15/the-cold-hard-facts) — `2015-11-17-blog-2015-11-15-the-cold-hard-facts.md` — 480w
+- 2015-11-08 — [Why weren't they grateful?](https://www.eugenewei.com/blog/2015/11/8/why-werent-they-grateful) — `2015-11-08-blog-2015-11-8-why-werent-they-grateful.md` — 515w
+- 2015-11-04 — [The New Yorker Story](https://www.eugenewei.com/blog/2015/11/3/the-new-yorker-story) — `2015-11-04-blog-2015-11-3-the-new-yorker-story.md` — 146w
+- 2015-11-01 — [RankBrain](https://www.eugenewei.com/blog/2015/11/1/rankbrain) — `2015-11-01-blog-2015-11-1-rankbrain.md` — 316w
+- 2015-11-01 — [Obama and Marilynne Robinson chat](https://www.eugenewei.com/blog/2015/10/31/obama-and-marilynne-robinson-chat) — `2015-11-01-blog-2015-10-31-obama-and-marilynne-robinson-chat.md` — 552w
+- 2015-10-31 — [Que sera sera](https://www.eugenewei.com/blog/2015/10/26/que-sera-sera) — `2015-10-31-blog-2015-10-26-que-sera-sera.md` — 209w
+- 2015-10-30 — [TIFF 2015](https://www.eugenewei.com/blog/2015/9/21/tiff-2015) — `2015-10-30-blog-2015-9-21-tiff-2015.md` — 4151w
+- 2015-10-26 — [Rich in ideas, poor in prose](https://www.eugenewei.com/blog/2015/10/25/rich-in-ideas-poor-in-prose) — `2015-10-26-blog-2015-10-25-rich-in-ideas-poor-in-prose.md` — 431w
+- 2015-10-26 — [George Saunders: an education](https://www.eugenewei.com/blog/2015/10/26/george-saunders-an-education) — `2015-10-26-blog-2015-10-26-george-saunders-an-education.md` — 1232w
+- 2015-10-26 — [Crime and punishment](https://www.eugenewei.com/blog/2015/10/26/crime-and-punishment) — `2015-10-26-blog-2015-10-26-crime-and-punishment.md` — 627w
+- 2015-10-26 — [Are we more than our ideology?](https://www.eugenewei.com/blog/2015/10/26/are-we-more-than-our-ideology) — `2015-10-26-blog-2015-10-26-are-we-more-than-our-ideology.md` — 325w
+- 2015-10-25 — [Dear Airbnb](https://www.eugenewei.com/blog/2015/10/25/dear-airbnb) — `2015-10-25-blog-2015-10-25-dear-airbnb.md` — 297w
+- 2015-10-17 — [An engineering theory of the Volkswagen scandal](https://www.eugenewei.com/blog/2015/10/17/an-engineering-theory-of-the-volkswagen-scandal) — `2015-10-17-blog-2015-10-17-an-engineering-theory-of-the-volkswagen-scandal.md` — 476w
+- 2015-10-13 — [The case for opening borders](https://www.eugenewei.com/blog/2015/10/13/the-case-for-opening-borders) — `2015-10-13-blog-2015-10-13-the-case-for-opening-borders.md` — 642w
+- 2015-10-13 — [The Good Dinosaur](https://www.eugenewei.com/blog/2015/10/13/the-good-dinosaur) — `2015-10-13-blog-2015-10-13-the-good-dinosaur.md` — 327w
+- 2015-10-08 — [Warriors, come out to play](https://www.eugenewei.com/blog/2015/10/8/warriors-come-out-to-play) — `2015-10-08-blog-2015-10-8-warriors-come-out-to-play.md` — 220w
+- 2015-10-08 — [Star Wars Battlefront](https://www.eugenewei.com/blog/2015/10/8/star-wars-battlefront) — `2015-10-08-blog-2015-10-8-star-wars-battlefront.md` — 166w
+- 2015-10-06 — [How to allocate subsidies most effectively](https://www.eugenewei.com/blog/2015/9/5/how-to-allocate-subsidies-most-effectively) — `2015-10-06-blog-2015-9-5-how-to-allocate-subsidies-most-effectively.md` — 1244w
+- 2015-10-06 — [Chinese robber fallacy](https://www.eugenewei.com/blog/2015/9/20/chinese-robber-fallacy) — `2015-10-06-blog-2015-9-20-chinese-robber-fallacy.md` — 1039w
+- 2015-09-29 — [Lip reading as a service](https://www.eugenewei.com/blog/2015/9/28/lip-reading-as-a-service) — `2015-09-29-blog-2015-9-28-lip-reading-as-a-service.md` — 578w
+- 2015-09-28 — [Why?](https://www.eugenewei.com/blog/2015/9/28/why) — `2015-09-28-blog-2015-9-28-why.md` — 224w
+- 2015-09-27 — [When your nature is not nature](https://www.eugenewei.com/blog/2015/9/27/when-your-nature-is-not-nature) — `2015-09-27-blog-2015-9-27-when-your-nature-is-not-nature.md` — 643w
+- 2015-09-27 — [How NY's Chinatown has survived](https://www.eugenewei.com/blog/2015/9/27/how-nys-chinatown-has-survived) — `2015-09-27-blog-2015-9-27-how-nys-chinatown-has-survived.md` — 349w
+- 2015-09-23 — [My favorite photography tip](https://www.eugenewei.com/blog/2015/9/23/my-favorite-photography-tip) — `2015-09-23-blog-2015-9-23-my-favorite-photography-tip.md` — 684w
+- 2015-09-22 — [What's the long German word for shame?](https://www.eugenewei.com/blog/2015/9/22/whats-the-long-german-word-for-shame) — `2015-09-22-blog-2015-9-22-whats-the-long-german-word-for-shame.md` — 499w
+- 2015-09-22 — [There is no #nofilter](https://www.eugenewei.com/blog/2015/9/22/there-is-no-nofilter) — `2015-09-22-blog-2015-9-22-there-is-no-nofilter.md` — 229w
+- 2015-09-21 — [The Hottest Restaurant of 2081](https://www.eugenewei.com/blog/2015/9/20/the-hottest-restaurant-of-2081) — `2015-09-21-blog-2015-9-20-the-hottest-restaurant-of-2081.md` — 567w
+- 2015-09-21 — [Opening borders to migrants](https://www.eugenewei.com/blog/2015/9/20/opening-borders-to-migrants) — `2015-09-21-blog-2015-9-20-opening-borders-to-migrants.md` — 318w
+- 2015-09-06 — [The Kipsang Number](https://www.eugenewei.com/blog/2015/9/5/the-kipsang-number) — `2015-09-06-blog-2015-9-5-the-kipsang-number.md` — 320w
+- 2015-09-06 — [Ban college football?](https://www.eugenewei.com/blog/2015/9/6/ban-college-football) — `2015-09-06-blog-2015-9-6-ban-college-football.md` — 436w
+- 2015-09-05 — [Tales from the Afterlife](https://www.eugenewei.com/blog/2015/9/5/tales-from-the-afterlife) — `2015-09-05-blog-2015-9-5-tales-from-the-afterlife.md` — 550w
+- 2015-09-04 — [This is how technological progress works](https://www.eugenewei.com/blog/2015/9/3/technological-progress) — `2015-09-04-blog-2015-9-3-technological-progress.md` — 154w
+- 2015-09-03 — [The Passion of the Christ: Blooper Reel](https://www.eugenewei.com/blog/2015/9/3/the-passion-of-the-christ-blooper-reel) — `2015-09-03-blog-2015-9-3-the-passion-of-the-christ-blooper-reel.md` — 233w
+- 2015-09-03 — [Taylor Swift, a Socratic Dialogue](https://www.eugenewei.com/blog/2015/9/3/taylor-swift-a-socratic-dialogue) — `2015-09-03-blog-2015-9-3-taylor-swift-a-socratic-dialogue.md` — 1041w
+- 2015-09-03 — [Past imperfect](https://www.eugenewei.com/blog/2015/9/3/past-imperfect) — `2015-09-03-blog-2015-9-3-past-imperfect.md` — 482w
+- 2015-09-02 — [The network's the thing](https://www.eugenewei.com/blog/2015/9/1/when-the-network-is-mature) — `2015-09-02-blog-2015-9-1-when-the-network-is-mature.md` — 2735w
+- 2015-09-02 — [Our precious soil](https://www.eugenewei.com/blog/2015/9/2/our-precious-soil) — `2015-09-02-blog-2015-9-2-our-precious-soil.md` — 1408w
+- 2015-08-28 — [Q&A with Tyler Cowen](https://www.eugenewei.com/blog/2015/8/28/qa-with-tyler-cowen) — `2015-08-28-blog-2015-8-28-qa-with-tyler-cowen.md` — 526w
+- 2015-08-28 — [History lessons from Singer sewing machines](https://www.eugenewei.com/blog/2015/8/28/history-lessons-from-singer-sewing-machines) — `2015-08-28-blog-2015-8-28-history-lessons-from-singer-sewing-machines.md` — 365w
+- 2015-08-26 — [Amazon Kindle, the sleeping social network](https://www.eugenewei.com/blog/2015/8/22/kindle-feature-suggestion) — `2015-08-26-blog-2015-8-22-kindle-feature-suggestion.md` — 1837w
+- 2015-08-24 — [The interim strategy trap](https://www.eugenewei.com/blog/2015/8/24/most-of-life-is-interim) — `2015-08-24-blog-2015-8-24-most-of-life-is-interim.md` — 126w
+- 2015-08-24 — [Respecting the preferences of the poor](https://www.eugenewei.com/blog/2015/8/23/respecting-the-preferences-of-the-poor) — `2015-08-24-blog-2015-8-23-respecting-the-preferences-of-the-poor.md` — 993w
+- 2015-08-24 — [Her hair](https://www.eugenewei.com/blog/2015/8/13/her-hair) — `2015-08-24-blog-2015-8-13-her-hair.md` — 362w
+- 2015-08-24 — [Call me Nostradamus](https://www.eugenewei.com/blog/2015/8/11/call-me-nostradamus) — `2015-08-24-blog-2015-8-11-call-me-nostradamus.md` — 467w
+- 2015-08-22 — [Science is hard](https://www.eugenewei.com/blog/2015/8/22/science-is-hard) — `2015-08-22-blog-2015-8-22-science-is-hard.md` — 712w
+- 2015-08-22 — [Damning with painterly praise](https://www.eugenewei.com/blog/2015/8/22/damning-with-painterly-praise) — `2015-08-22-blog-2015-8-22-damning-with-painterly-praise.md` — 355w
+- 2015-08-20 — [The paradox of writing](https://www.eugenewei.com/blog/2015/8/20/the-paradox-of-writing) — `2015-08-20-blog-2015-8-20-the-paradox-of-writing.md` — 576w
+- 2015-08-20 — [Tablets are mostly for consumption](https://www.eugenewei.com/blog/2015/8/20/tablets-are-mostly-for-consumption) — `2015-08-20-blog-2015-8-20-tablets-are-mostly-for-consumption.md` — 750w
+- 2015-08-19 — [Cuisine and Empire](https://www.eugenewei.com/blog/2015/8/18/cuisine-and-empire) — `2015-08-19-blog-2015-8-18-cuisine-and-empire.md` — 3825w
+- 2015-08-17 — [Why greatness cannot be planned](https://www.eugenewei.com/blog/2015/8/17/why-greatness-cannot-be-planned) — `2015-08-17-blog-2015-8-17-why-greatness-cannot-be-planned.md` — 498w
+- 2015-08-17 — [Trump](https://www.eugenewei.com/blog/2015/8/17/trump) — `2015-08-17-blog-2015-8-17-trump.md` — 633w
+- 2015-08-17 — [The decline of the phone call](https://www.eugenewei.com/blog/2015/8/17/the-decline-of-the-phone-call) — `2015-08-17-blog-2015-8-17-the-decline-of-the-phone-call.md` — 897w
+- 2015-08-17 — [BauBax travel jacket](https://www.eugenewei.com/blog/2015/8/13/baubax-travel-jacket) — `2015-08-17-blog-2015-8-13-baubax-travel-jacket.md` — 163w
+- 2015-08-14 — [Vertical video](https://www.eugenewei.com/blog/2015/8/14/vertical-video) — `2015-08-14-blog-2015-8-14-vertical-video.md` — 586w
+- 2015-08-14 — [This week in NBA Twitter](https://www.eugenewei.com/blog/2015/8/14/this-week-in-nba-twitter) — `2015-08-14-blog-2015-8-14-this-week-in-nba-twitter.md` — 120w
+- 2015-08-13 — [Like a ringtone for your car](https://www.eugenewei.com/blog/2015/8/11/like-a-ringtone-for-your-car) — `2015-08-13-blog-2015-8-11-like-a-ringtone-for-your-car.md` — 162w
+- 2015-08-13 — [GMOs](https://www.eugenewei.com/blog/2015/8/6/gmos) — `2015-08-13-blog-2015-8-6-gmos.md` — 186w
+- 2015-08-13 — [Elmo's arrival points to HBO's future](https://www.eugenewei.com/blog/2015/8/13/sesame-street-to-hbo) — `2015-08-13-blog-2015-8-13-sesame-street-to-hbo.md` — 685w
+- 2015-08-12 — [Truly defective](https://www.eugenewei.com/blog/2015/8/11/truly-defective) — `2015-08-12-blog-2015-8-11-truly-defective.md` — 911w
+- 2015-08-12 — [Everyday messenger bag](https://www.eugenewei.com/blog/2015/8/12/everyday-messenger-bag) — `2015-08-12-blog-2015-8-12-everyday-messenger-bag.md` — 165w
+- 2015-08-11 — [Limetown](https://www.eugenewei.com/blog/2015/8/11/limetown) — `2015-08-11-blog-2015-8-11-limetown.md` — 176w
+- 2015-08-07 — [The 2016 Republican roster](https://www.eugenewei.com/blog/2015/8/7/the-2016-republican-roster) — `2015-08-07-blog-2015-8-7-the-2016-republican-roster.md` — 277w
+- 2015-08-07 — [Can kitchens be happier?](https://www.eugenewei.com/blog/2015/8/7/can-kitchens-be-happier) — `2015-08-07-blog-2015-8-7-can-kitchens-be-happier.md` — 357w
+- 2015-08-07 — [#SQUAD](https://www.eugenewei.com/blog/2015/8/6/squad) — `2015-08-07-blog-2015-8-6-squad.md` — 238w
+- 2015-08-06 — [Education is the not the same as schooling](https://www.eugenewei.com/blog/2015/8/5/education-is-the-not-the-same-as-schooling) — `2015-08-06-blog-2015-8-5-education-is-the-not-the-same-as-schooling.md` — 634w
+- 2015-08-06 — [Age of abundance, #hashtag edition](https://www.eugenewei.com/blog/2015/8/6/age-of-abundance-hashtag-edition) — `2015-08-06-blog-2015-8-6-age-of-abundance-hashtag-edition.md` — 945w
+- 2015-08-05 — [That's why they call it Gawker](https://www.eugenewei.com/blog/2015/8/5/thats-why-they-call-it-gawker) — `2015-08-05-blog-2015-8-5-thats-why-they-call-it-gawker.md` — 501w
+- 2015-08-05 — [COCOM Limits](https://www.eugenewei.com/blog/2015/8/3/cocom-limits) — `2015-08-05-blog-2015-8-3-cocom-limits.md` — 192w
+- 2015-08-04 — [The new writing fundamentals](https://www.eugenewei.com/blog/2015/8/4/the-new-writing-fundamentals) — `2015-08-04-blog-2015-8-4-the-new-writing-fundamentals.md` — 299w
+- 2015-08-04 — [Sneaky feminism](https://www.eugenewei.com/blog/2015/8/3/sneaky-feminism) — `2015-08-04-blog-2015-8-3-sneaky-feminism.md` — 337w
+- 2015-08-03 — [Efficient aggregation of repugnance](https://www.eugenewei.com/blog/2015/7/30/efficient-aggregation-of-repugnance) — `2015-08-03-blog-2015-7-30-efficient-aggregation-of-repugnance.md` — 704w
+- 2015-07-27 — [Expense reports I'd want to audit](https://www.eugenewei.com/blog/2015/7/26/expense-reports-id-want-to-audit) — `2015-07-27-blog-2015-7-26-expense-reports-id-want-to-audit.md` — 278w
+- 2015-07-26 — [Law of unintended consequences](https://www.eugenewei.com/blog/2015/7/26/law-of-unintended-consequences) — `2015-07-26-blog-2015-7-26-law-of-unintended-consequences.md` — 355w
+- 2015-07-24 — [The real threat to Amazon](https://www.eugenewei.com/blog/2015/7/22/the-real-threat-to-amazon) — `2015-07-24-blog-2015-7-22-the-real-threat-to-amazon.md` — 439w
+- 2015-07-24 — [A mind trick to think more rationally](https://www.eugenewei.com/blog/2015/7/24/a-mind-trick-to-think-more-rationally) — `2015-07-24-blog-2015-7-24-a-mind-trick-to-think-more-rationally.md` — 278w
+- 2015-07-20 — [Ludicrous](https://www.eugenewei.com/blog/2015/7/20/ludicrous) — `2015-07-20-blog-2015-7-20-ludicrous.md` — 1007w
+- 2015-07-19 — [The tasteless American tomato](https://www.eugenewei.com/blog/2015/7/18/the-tasteless-american-tomato) — `2015-07-19-blog-2015-7-18-the-tasteless-american-tomato.md` — 435w
+- 2015-07-19 — [I miss first-gen Google Maps for IOS](https://www.eugenewei.com/blog/2014/12/31/comparing-the-design-of-mobile-maps) — `2015-07-19-blog-2014-12-31-comparing-the-design-of-mobile-maps.md` — 272w
+- 2015-07-19 — [Amateur drone operators as the new ambulance chasers](https://www.eugenewei.com/blog/2015/7/19/qob2702lk3hm6rmgmedwbraa9mm232) — `2015-07-19-blog-2015-7-19-qob2702lk3hm6rmgmedwbraa9mm232.md` — 239w
+- 2015-07-18 — [Small talk](https://www.eugenewei.com/blog/2015/7/8/small-talk) — `2015-07-18-blog-2015-7-8-small-talk.md` — 389w
+- 2015-07-18 — [Prosopagnosia](https://www.eugenewei.com/blog/2015/7/17/prosopagnosia) — `2015-07-18-blog-2015-7-17-prosopagnosia.md` — 594w
+- 2015-07-17 — [Payroll matters in MLB](https://www.eugenewei.com/blog/2015/7/17/budget-matters-in-mlb) — `2015-07-17-blog-2015-7-17-budget-matters-in-mlb.md` — 590w
+- 2015-07-17 — [GoPro at the 2015 Tour de France](https://www.eugenewei.com/blog/2015/7/17/gopro-at-the-2015-tour-de-france) — `2015-07-17-blog-2015-7-17-gopro-at-the-2015-tour-de-france.md` — 443w
+- 2015-07-17 — [Assembled in China](https://www.eugenewei.com/blog/2015/7/17/assembled-in-china) — `2015-07-17-blog-2015-7-17-assembled-in-china.md` — 322w
+- 2015-07-14 — [Asym spacing](https://www.eugenewei.com/blog/2015/7/14/asym-spacing) — `2015-07-14-blog-2015-7-14-asym-spacing.md` — 213w
+- 2015-07-13 — [Uber for disembodied companionship](https://www.eugenewei.com/blog/2015/7/13/uber-for-disembodied-companionship) — `2015-07-13-blog-2015-7-13-uber-for-disembodied-companionship.md` — 446w
+- 2015-07-13 — [IoT](https://www.eugenewei.com/blog/2015/7/13/iot) — `2015-07-13-blog-2015-7-13-iot.md` — 210w
+- 2015-07-08 — [Why are apes skinny and humans fat?](https://www.eugenewei.com/blog/2015/7/8/why-are-apes-skinny-and-humans-fat) — `2015-07-08-blog-2015-7-8-why-are-apes-skinny-and-humans-fat.md` — 374w
+- 2015-07-08 — [Disrupting reality](https://www.eugenewei.com/blog/2015/7/6/competing-with-reality) — `2015-07-08-blog-2015-7-6-competing-with-reality.md` — 348w
+- 2015-07-07 — [Prime Day](https://www.eugenewei.com/blog/2015/7/7/prime-day) — `2015-07-07-blog-2015-7-7-prime-day.md` — 429w
+- 2015-07-07 — [Decoding restaurants](https://www.eugenewei.com/blog/2015/7/6/decoding-restaurants) — `2015-07-07-blog-2015-7-6-decoding-restaurants.md` — 606w
+- 2015-07-06 — [Quitting poker](https://www.eugenewei.com/blog/2015/7/6/why-im-leaving-poker) — `2015-07-06-blog-2015-7-6-why-im-leaving-poker.md` — 270w
+- 2015-07-03 — [The end of information asymmetry (except when we want it)](https://www.eugenewei.com/blog/2015/4/16/the-end-of-information-asymmetry) — `2015-07-03-blog-2015-4-16-the-end-of-information-asymmetry.md` — 1600w
+- 2015-07-03 — [The Walk](https://www.eugenewei.com/blog/2015/7/3/the-walk) — `2015-07-03-blog-2015-7-3-the-walk.md` — 184w
+- 2015-07-03 — [Does surge pricing maximize consumer welfare?](https://www.eugenewei.com/blog/2015/1/1/on-surge-pricing) — `2015-07-03-blog-2015-1-1-on-surge-pricing.md` — 1845w
+- 2015-07-02 — [The Hollywood Labor Model](https://www.eugenewei.com/blog/2015/5/30/the-hollywood-labor-model) — `2015-07-02-blog-2015-5-30-the-hollywood-labor-model.md` — 3147w
+- 2015-07-02 — [Moments in tech history: surge pricing](https://www.eugenewei.com/blog/2015/7/2/moments-in-tech-history-surge-pricing) — `2015-07-02-blog-2015-7-2-moments-in-tech-history-surge-pricing.md` — 128w
+- 2015-06-26 — [Reservoir of goodness](https://www.eugenewei.com/blog/2015/6/26/reservoir-of-goodness) — `2015-06-26-blog-2015-6-26-reservoir-of-goodness.md` — 548w
+- 2015-06-26 — [It is so ordered](https://www.eugenewei.com/blog/2015/6/26/it-is-so-ordered) — `2015-06-26-blog-2015-6-26-it-is-so-ordered.md` — 178w
+- 2015-06-26 — [Is there less training in the knowledge economy?](https://www.eugenewei.com/blog/2015/6/26/self-training) — `2015-06-26-blog-2015-6-26-self-training.md` — 544w
+- 2015-06-19 — [Why you should buy wine from Costco](https://www.eugenewei.com/blog/2015/6/19/why-you-should-buy-wine-from-costco) — `2015-06-19-blog-2015-6-19-why-you-should-buy-wine-from-costco.md` — 539w
+- 2015-06-19 — [The efficient tourism problem](https://www.eugenewei.com/blog/2015/6/19/the-efficient-tourism-problem) — `2015-06-19-blog-2015-6-19-the-efficient-tourism-problem.md` — 348w
+- 2015-06-16 — [Hiatus, Italian style](https://www.eugenewei.com/blog/2015/6/16/update-on-my-hiatus) — `2015-06-16-blog-2015-6-16-update-on-my-hiatus.md` — 393w
+- 2015-06-01 — [Why do we assume everyone can drive competently?](https://www.eugenewei.com/blog/2015/6/1/maybe-our-driving-standards-are-too-lax) — `2015-06-01-blog-2015-6-1-maybe-our-driving-standards-are-too-lax.md` — 1238w
+- 2015-05-31 — [The Colle delle Finestre](https://www.eugenewei.com/blog/2015/5/31/the-colle-delle-finestre) — `2015-05-31-blog-2015-5-31-the-colle-delle-finestre.md` — 199w
+- 2015-05-31 — [Creating order out of the chaos of Mad Max: Fury Road](https://www.eugenewei.com/blog/2015/5/31/creating-order-out-of-the-chaos-of-mad-max-fury-road) — `2015-05-31-blog-2015-5-31-creating-order-out-of-the-chaos-of-mad-max-fury-road.md` — 636w
+- 2015-05-30 — [Wife bonuses](https://www.eugenewei.com/blog/2015/5/20/wife-bonuses) — `2015-05-30-blog-2015-5-20-wife-bonuses.md` — 679w
+- 2015-05-30 — [The Robin Hood morality test](https://www.eugenewei.com/blog/2015/5/30/the-robin-hood-morality-test) — `2015-05-30-blog-2015-5-30-the-robin-hood-morality-test.md` — 175w
+- 2015-05-30 — [Meh](https://www.eugenewei.com/blog/2015/5/30/meh) — `2015-05-30-blog-2015-5-30-meh.md` — 351w
+- 2015-05-30 — [Good luck being born tomorrow](https://www.eugenewei.com/blog/2015/5/30/good-luck-being-born-tomorrow) — `2015-05-30-blog-2015-5-30-good-luck-being-born-tomorrow.md` — 670w
+- 2015-05-30 — [Flat tire](https://www.eugenewei.com/blog/2015/5/24/flat-tire) — `2015-05-30-blog-2015-5-24-flat-tire.md` — 301w
+- 2015-05-30 — [Competing against robots](https://www.eugenewei.com/blog/2015/5/30/competing-against-robots) — `2015-05-30-blog-2015-5-30-competing-against-robots.md` — 295w
+- 2015-05-26 — [Universal sign language](https://www.eugenewei.com/blog/2015/5/26/universal-sign-language) — `2015-05-26-blog-2015-5-26-universal-sign-language.md` — 468w
+- 2015-05-24 — [The new coastal culture wars](https://www.eugenewei.com/blog/2014/4/7/george-packer-on-amazon) — `2015-05-24-blog-2014-4-7-george-packer-on-amazon.md` — 342w
+- 2015-05-24 — [Slow innovation](https://www.eugenewei.com/blog/2015/5/24/slow-innovation) — `2015-05-24-blog-2015-5-24-slow-innovation.md` — 362w
+- 2015-05-24 — [Data mining algorithms in plain English](https://www.eugenewei.com/blog/2015/5/24/data-mining-algorithms-in-plain-english) — `2015-05-24-blog-2015-5-24-data-mining-algorithms-in-plain-english.md` — 328w
+- 2015-05-21 — [Wisdom of the Kickstarter crowd?](https://www.eugenewei.com/blog/2015/5/20/wisdom-of-the-kickstarter-crowd) — `2015-05-21-blog-2015-5-20-wisdom-of-the-kickstarter-crowd.md` — 433w
+- 2015-05-20 — [The Assassin](https://www.eugenewei.com/blog/2015/5/20/the-assassin) — `2015-05-20-blog-2015-5-20-the-assassin.md` — 420w
+- 2015-05-20 — [Supposedly irrelevant factors](https://www.eugenewei.com/blog/2015/5/20/supposedly-irrelevant-factors) — `2015-05-20-blog-2015-5-20-supposedly-irrelevant-factors.md` — 321w
+- 2015-05-20 — [Last of the monoculture](https://www.eugenewei.com/blog/2015/5/19/last-of-the-monoculture) — `2015-05-20-blog-2015-5-19-last-of-the-monoculture.md` — 521w
+- 2015-05-13 — [Frictionless product design](https://www.eugenewei.com/blog/2015/3/20/frictionless-product-design) — `2015-05-13-blog-2015-3-20-frictionless-product-design.md` — 768w
+- 2015-05-09 — [Is it real 3D?](https://www.eugenewei.com/blog/2015/5/9/is-it-real-3d) — `2015-05-09-blog-2015-5-9-is-it-real-3d.md` — 277w
+- 2015-05-09 — [How to solve chronic homelessness](https://www.eugenewei.com/blog/2015/5/9/how-to-solve-chronic-homelessness) — `2015-05-09-blog-2015-5-9-how-to-solve-chronic-homelessness.md` — 1094w
+- 2015-05-07 — [Ritual as urban design problem](https://www.eugenewei.com/blog/2015/5/2/ritual-as-urban-design-problem) — `2015-05-07-blog-2015-5-2-ritual-as-urban-design-problem.md` — 703w
+- 2015-05-07 — [Negative interest rates](https://www.eugenewei.com/blog/2015/5/7/negative-interest-rates) — `2015-05-07-blog-2015-5-7-negative-interest-rates.md` — 571w
+- 2015-05-06 — [RIP Josh Ozersky](https://www.eugenewei.com/blog/2015/5/6/rip-josh-ozersky) — `2015-05-06-blog-2015-5-6-rip-josh-ozersky.md` — 467w
+- 2015-05-06 — [Neighborhood destiny](https://www.eugenewei.com/blog/2015/5/6/neighborhood-destiny) — `2015-05-06-blog-2015-5-6-neighborhood-destiny.md` — 518w
+- 2015-05-06 — [Light](https://www.eugenewei.com/blog/2015/5/6/light) — `2015-05-06-blog-2015-5-6-light.md` — 213w
+- 2015-05-06 — [BF calls BS](https://www.eugenewei.com/blog/2015/5/5/bf-calls-bs) — `2015-05-06-blog-2015-5-5-bf-calls-bs.md` — 335w
+- 2015-05-06 — [Are you Courtney or Kim?](https://www.eugenewei.com/blog/2015/5/5/are-you-courtney-or-kim) — `2015-05-06-blog-2015-5-5-are-you-courtney-or-kim.md` — 682w
+- 2015-05-05 — [Thiel on work](https://www.eugenewei.com/blog/2015/5/3/wjdj4k22cug2zob10mvh91argtwfwu) — `2015-05-05-blog-2015-5-3-wjdj4k22cug2zob10mvh91argtwfwu.md` — 282w
+- 2015-05-02 — [The marriage squeeze is hitting China and India](https://www.eugenewei.com/blog/2015/5/2/the-marriage-squeeze-is-hitting-china-and-india) — `2015-05-02-blog-2015-5-2-the-marriage-squeeze-is-hitting-china-and-india.md` — 726w
+- 2015-05-02 — [Minority Report for trolls](https://www.eugenewei.com/blog/2015/5/2/minority-report-for-trolls) — `2015-05-02-blog-2015-5-2-minority-report-for-trolls.md` — 184w
+- 2015-05-02 — [Housing and wealth inequality](https://www.eugenewei.com/blog/2015/5/1/housing-and-wealth-inequality) — `2015-05-02-blog-2015-5-1-housing-and-wealth-inequality.md` — 666w
+- 2015-05-02 — [Altruistic punishment](https://www.eugenewei.com/blog/2015/5/2/altruistic-punishment) — `2015-05-02-blog-2015-5-2-altruistic-punishment.md` — 581w
+- 2015-05-01 — [“Distraction is a kind of obesity of the mind”](https://www.eugenewei.com/blog/2015/5/1/distraction-is-a-kind-of-obesity-of-the-mind) — `2015-05-01-blog-2015-5-1-distraction-is-a-kind-of-obesity-of-the-mind.md` — 1447w
+- 2015-05-01 — [What causes the placebo effect?](https://www.eugenewei.com/blog/2015/5/1/what-causes-the-placebo-effect) — `2015-05-01-blog-2015-5-1-what-causes-the-placebo-effect.md` — 142w
+- 2015-05-01 — [WIP](https://www.eugenewei.com/blog/2015/3/10/wip) — `2015-05-01-blog-2015-3-10-wip.md` — 567w
+- 2015-05-01 — [The worst board games](https://www.eugenewei.com/blog/2015/5/1/the-worst-board-games) — `2015-05-01-blog-2015-5-1-the-worst-board-games.md` — 298w
+- 2015-05-01 — [Susan Orlean on writing](https://www.eugenewei.com/blog/2015/5/1/susan-orlean-on-writing) — `2015-05-01-blog-2015-5-1-susan-orlean-on-writing.md` — 502w
+- 2015-05-01 — [On the nuances of e-laughter](https://www.eugenewei.com/blog/2015/5/1/on-the-nuances-of-e-laughter) — `2015-05-01-blog-2015-5-1-on-the-nuances-of-e-laughter.md` — 444w
+- 2015-05-01 — [Hedonic adaptation](https://www.eugenewei.com/blog/2015/4/17/half-life-of-happiness) — `2015-05-01-blog-2015-4-17-half-life-of-happiness.md` — 641w
+- 2015-04-30 — [Boys Don't Cry](https://www.eugenewei.com/blog/2015/4/30/boys-dont-cry) — `2015-04-30-blog-2015-4-30-boys-dont-cry.md` — 316w
+- 2015-04-29 — [Why no one understands you](https://www.eugenewei.com/blog/2015/4/29/why-no-one-understands-you) — `2015-04-29-blog-2015-4-29-why-no-one-understands-you.md` — 517w
+- 2015-04-29 — [Tips on disaster relief giving](https://www.eugenewei.com/blog/2015/4/29/tips-on-disaster-relief-giving) — `2015-04-29-blog-2015-4-29-tips-on-disaster-relief-giving.md` — 346w
+- 2015-04-29 — [Blue is the new orange](https://www.eugenewei.com/blog/2015/4/29/blue-is-the-new-orange) — `2015-04-29-blog-2015-4-29-blue-is-the-new-orange.md` — 300w
+- 2015-04-26 — [Everything you ever wanted to know about Shanghai soup dumplings](https://www.eugenewei.com/blog/2015/4/21/everything-you-ever-wanted-to-know-about-shanghai-soup-dumplings) — `2015-04-26-blog-2015-4-21-everything-you-ever-wanted-to-know-about-shanghai-soup-dumplings.md` — 967w
+- 2015-04-22 — [Visualizing open-ended travel via Google Flights](https://www.eugenewei.com/blog/2015/4/22/visualizing-open-ended-travel-via-google-flights) — `2015-04-22-blog-2015-4-22-visualizing-open-ended-travel-via-google-flights.md` — 210w
+- 2015-04-21 — [Lesser-known trolley problem variations](https://www.eugenewei.com/blog/2015/4/21/lesser-known-trolley-problem-variations) — `2015-04-21-blog-2015-4-21-lesser-known-trolley-problem-variations.md` — 259w
+- 2015-04-20 — [Love letter to Point Break](https://www.eugenewei.com/blog/2015/4/20/love-letter-to-point-break) — `2015-04-20-blog-2015-4-20-love-letter-to-point-break.md` — 299w
+- 2015-04-20 — [How to be Elon Musk](https://www.eugenewei.com/blog/2015/4/20/how-to-be-elon-musk) — `2015-04-20-blog-2015-4-20-how-to-be-elon-musk.md` — 440w
+- 2015-04-20 — [Be the side(s) in your multi-sided market](https://www.eugenewei.com/blog/2015/4/20/be-the-sides-in-your-multi-sided-market) — `2015-04-20-blog-2015-4-20-be-the-sides-in-your-multi-sided-market.md` — 251w
+- 2015-04-19 — [Poker cheats](https://www.eugenewei.com/blog/2015/4/19/poker-cheats) — `2015-04-19-blog-2015-4-19-poker-cheats.md` — 121w
+- 2015-04-19 — [Interview with Jon Stewart](https://www.eugenewei.com/blog/2015/4/19/interview-with-jon-stewart) — `2015-04-19-blog-2015-4-19-interview-with-jon-stewart.md` — 292w
+- 2015-04-19 — [Game theory of thrones](https://www.eugenewei.com/blog/2015/4/19/game-theory-of-thrones) — `2015-04-19-blog-2015-4-19-game-theory-of-thrones.md` — 559w
+- 2015-04-18 — [Star Wars miscellany](https://www.eugenewei.com/blog/2015/4/18/star-wars-miscellany) — `2015-04-18-blog-2015-4-18-star-wars-miscellany.md` — 972w
+- 2015-04-17 — [The game theory of the toilet seat problem](https://www.eugenewei.com/blog/2015/4/17/the-game-theory-of-toilet-seat-problem) — `2015-04-17-blog-2015-4-17-the-game-theory-of-toilet-seat-problem.md` — 442w
+- 2015-04-17 — [Matthew McConaughey watches the new Star Wars teaser](https://www.eugenewei.com/blog/2015/4/17/matthew-mcconaughey-watches-the-new-star-wars-teaser) — `2015-04-17-blog-2015-4-17-matthew-mcconaughey-watches-the-new-star-wars-teaser.md` — 202w
+- 2015-04-16 — [The end of routine work](https://www.eugenewei.com/blog/2015/4/15/the-end-of-routine-work) — `2015-04-16-blog-2015-4-15-the-end-of-routine-work.md` — 777w
+- 2015-04-16 — [Second Star Wars: The Force Awakens teaser](https://www.eugenewei.com/blog/2015/4/16/second-star-wars-the-force-awakens-teaser) — `2015-04-16-blog-2015-4-16-second-star-wars-the-force-awakens-teaser.md` — 290w
+- 2015-04-16 — [Payments as social network](https://www.eugenewei.com/blog/2015/4/15/0e5fzzvxjjvi08600y89csts7wp0ja) — `2015-04-16-blog-2015-4-15-0e5fzzvxjjvi08600y89csts7wp0ja.md` — 270w
+- 2015-04-16 — [Design theater](https://www.eugenewei.com/blog/2015/4/16/design-theater) — `2015-04-16-blog-2015-4-16-design-theater.md` — 732w
+- 2015-04-16 — [David Chase breaks down the last scene of The Sopranos](https://www.eugenewei.com/blog/2015/4/16/david-chase-breaks-down-the-last-scene-of-the-sopranos) — `2015-04-16-blog-2015-4-16-david-chase-breaks-down-the-last-scene-of-the-sopranos.md` — 1059w
+- 2015-04-13 — [Beware of pickpockets](https://www.eugenewei.com/blog/2015/4/12/beware-of-pickpockets) — `2015-04-13-blog-2015-4-12-beware-of-pickpockets.md` — 136w
+- 2015-04-12 — [Trim the fat on the NBA schedule](https://www.eugenewei.com/blog/2015/4/12/trim-the-fat-on-the-nba-schedule) — `2015-04-12-blog-2015-4-12-trim-the-fat-on-the-nba-schedule.md` — 627w
+- 2015-04-12 — [A cookbook from IBM's Watson](https://www.eugenewei.com/blog/2015/4/12/recipes-from-ibms-watson) — `2015-04-12-blog-2015-4-12-recipes-from-ibms-watson.md` — 475w
+- 2015-04-06 — [Skipping the web](https://www.eugenewei.com/blog/2015/4/6/tech-miscellany) — `2015-04-06-blog-2015-4-6-tech-miscellany.md` — 456w
+- 2015-04-06 — [Fiction's willful ignorance of tech](https://www.eugenewei.com/blog/2015/4/6/art-ignoring-tech) — `2015-04-06-blog-2015-4-6-art-ignoring-tech.md` — 525w
+- 2015-04-03 — [One way to create demand](https://www.eugenewei.com/blog/2015/4/3/tcsuqv0l94tbk9qkssq8e2nq08vxan) — `2015-04-03-blog-2015-4-3-tcsuqv0l94tbk9qkssq8e2nq08vxan.md` — 272w
+- 2015-03-31 — [Universal banks losing out to specialists?](https://www.eugenewei.com/blog/2015/3/31/universal-banks-losing-out-to-specialists) — `2015-03-31-blog-2015-3-31-universal-banks-losing-out-to-specialists.md` — 424w
+- 2015-03-31 — [The rise of the intangible corporation](https://www.eugenewei.com/blog/2015/3/31/the-rise-of-the-intangible-corporation) — `2015-03-31-blog-2015-3-31-the-rise-of-the-intangible-corporation.md` — 253w
+- 2015-03-31 — [Amazon Dash Button](https://www.eugenewei.com/blog/2015/3/31/amazon-dash-button) — `2015-03-31-blog-2015-3-31-amazon-dash-button.md` — 1118w
+- 2015-03-30 — [Why the world is getting weirder](https://www.eugenewei.com/blog/2015/3/30/why-the-world-is-getting-weirder) — `2015-03-30-blog-2015-3-30-why-the-world-is-getting-weirder.md` — 648w
+- 2015-03-30 — [Far and near future sci-fi](https://www.eugenewei.com/blog/2015/3/29/far-future-sci-fi) — `2015-03-30-blog-2015-3-29-far-future-sci-fi.md` — 598w
+- 2015-03-27 — [Facebook hosting doesn't change things, the world already changed](https://www.eugenewei.com/blog/2015/3/27/facebook-doesnt-change-things-the-world-already-changed) — `2015-03-27-blog-2015-3-27-facebook-doesnt-change-things-the-world-already-changed.md` — 4056w
+- 2015-03-26 — [Here's how the live streaming space will play out](https://www.eugenewei.com/blog/2015/3/26/the-live-streaming-timeline) — `2015-03-26-blog-2015-3-26-the-live-streaming-timeline.md` — 2090w
+- 2015-03-22 — [Why there are faux Irish pubs everywhere](https://www.eugenewei.com/blog/2015/3/22/why-there-are-faux-irish-pubs-everywhere-1) — `2015-03-22-blog-2015-3-22-why-there-are-faux-irish-pubs-everywhere-1.md` — 370w
+- 2015-03-22 — [The genre fiction revolution](https://www.eugenewei.com/blog/2015/3/22/the-genre-fiction-revolution) — `2015-03-22-blog-2015-3-22-the-genre-fiction-revolution.md` — 355w
+- 2015-03-20 — [The incident of the dog in the night-time](https://www.eugenewei.com/blog/2015/3/19/the-incident-of-the-dog-in-the-night-time) — `2015-03-20-blog-2015-3-19-the-incident-of-the-dog-in-the-night-time.md` — 361w
+- 2015-03-20 — [The Jinx](https://www.eugenewei.com/blog/2015/3/20/jinx) — `2015-03-20-blog-2015-3-20-jinx.md` — 1502w
+- 2015-03-19 — [California's water shortage](https://www.eugenewei.com/blog/2015/3/19/californias-water-shortage) — `2015-03-19-blog-2015-3-19-californias-water-shortage.md` — 280w
+- 2015-03-18 — [Wage inequality](https://www.eugenewei.com/blog/2015/3/18/wage-inequality) — `2015-03-18-blog-2015-3-18-wage-inequality.md` — 213w
+- 2015-03-18 — [The paradox of choice](https://www.eugenewei.com/blog/2015/3/18/the-paradox-of-choice) — `2015-03-18-blog-2015-3-18-the-paradox-of-choice.md` — 290w
+- 2015-03-14 — [“Platform” risk](https://www.eugenewei.com/blog/2015/3/14/platform-risk) — `2015-03-14-blog-2015-3-14-platform-risk.md` — 1249w
+- 2015-03-11 — [The curse of discernment](https://www.eugenewei.com/blog/2015/3/11/the-curse-of-discernment) — `2015-03-11-blog-2015-3-11-the-curse-of-discernment.md` — 417w
+- 2015-03-09 — [Maybe this is how it ends, with lots of early retirements](https://www.eugenewei.com/blog/2015/3/9/maybe-this-is-how-it-ends-with-a-trickle) — `2015-03-09-blog-2015-3-9-maybe-this-is-how-it-ends-with-a-trickle.md` — 391w
+- 2015-03-08 — [I, for one, welcome our new female overlords](https://www.eugenewei.com/blog/2015/3/8/i-for-one-welcome-our-new-female-overlords) — `2015-03-08-blog-2015-3-8-i-for-one-welcome-our-new-female-overlords.md` — 323w
+- 2015-03-07 — [Theory of moral standing of virtual life forms](https://www.eugenewei.com/blog/2015/3/7/theory-of-moral-standing-of-virtual-life-forms) — `2015-03-07-blog-2015-3-7-theory-of-moral-standing-of-virtual-life-forms.md` — 679w
+- 2015-03-07 — [In fast-paced modern world, no room for slow talkers, slow walkers](https://www.eugenewei.com/blog/2015/3/6/in-fast-paced-modern-world-no-room-for-slow-talkers-slow-walkers) — `2015-03-07-blog-2015-3-6-in-fast-paced-modern-world-no-room-for-slow-talkers-slow-walkers.md` — 1255w
+- 2015-03-06 — [That moment when we played with syntax](https://www.eugenewei.com/blog/2015/3/6/that-moment-when-we-played-with-syntax) — `2015-03-06-blog-2015-3-6-that-moment-when-we-played-with-syntax.md` — 859w
+- 2015-02-20 — [Where to set the safety threshold?](https://www.eugenewei.com/blog/2015/2/20/where-to-set-the-safety-threshold) — `2015-02-20-blog-2015-2-20-where-to-set-the-safety-threshold.md` — 639w
+- 2015-02-20 — [Too late](https://www.eugenewei.com/blog/2015/2/20/too-late) — `2015-02-20-blog-2015-2-20-too-late.md` — 583w
+- 2015-02-20 — [Opaque intelligence](https://www.eugenewei.com/blog/2015/2/20/opaque-intelligence) — `2015-02-20-blog-2015-2-20-opaque-intelligence.md` — 586w
+- 2015-02-18 — [The secret technology of The Daily Show](https://www.eugenewei.com/blog/2015/2/18/secret-power-of-the-daily-show-search) — `2015-02-18-blog-2015-2-18-secret-power-of-the-daily-show-search.md` — 1292w
+- 2015-02-18 — [90 yrs of The New Yorker > 40 yrs of SNL](https://www.eugenewei.com/blog/2015/2/17/90-yrs-of-the-new-yorker-40-yrs-of-snl) — `2015-02-18-blog-2015-2-17-90-yrs-of-the-new-yorker-40-yrs-of-snl.md` — 2580w
+- 2015-02-17 — [Happiness is a skill](https://www.eugenewei.com/blog/2015/2/16/happiness-is-a-skill) — `2015-02-17-blog-2015-2-16-happiness-is-a-skill.md` — 374w
+- 2015-02-16 — [Robots taking all the jobs, cont.](https://www.eugenewei.com/blog/2015/2/16/robots-taking-all-the-jobs-cont) — `2015-02-16-blog-2015-2-16-robots-taking-all-the-jobs-cont.md` — 304w
+- 2015-02-16 — [Facebook and Plato's cave](https://www.eugenewei.com/blog/2015/2/16/facebook-and-platos-cave) — `2015-02-16-blog-2015-2-16-facebook-and-platos-cave.md` — 421w
+- 2015-02-15 — [Black cards, love, lies, and Force Majeure](https://www.eugenewei.com/blog/2015/2/13/black-cards) — `2015-02-15-blog-2015-2-13-black-cards.md` — 1303w
+- 2015-02-13 — [From 2001: A Space Odyssey to Alien to...what?](https://www.eugenewei.com/blog/2015/2/4/gkz2hd9jp7exaec2i18xj8x2sjscmi) — `2015-02-13-blog-2015-2-4-gkz2hd9jp7exaec2i18xj8x2sjscmi.md` — 2242w
+- 2015-02-12 — [Bayes's Theorem](https://www.eugenewei.com/blog/2015/2/12/bayess-theorem) — `2015-02-12-blog-2015-2-12-bayess-theorem.md` — 395w
+- 2015-02-02 — [The most contagious Super Bowl ever](https://www.eugenewei.com/blog/2015/2/2/the-most-contagious-super-bowl-ever) — `2015-02-02-blog-2015-2-2-the-most-contagious-super-bowl-ever.md` — 1111w
+- 2015-01-30 — [The aesthetics of tennis](https://www.eugenewei.com/blog/2015/1/30/the-aesthetics-of-tennis) — `2015-01-30-blog-2015-1-30-the-aesthetics-of-tennis.md` — 286w
+- 2015-01-30 — [Conversation with Adam Curtis](https://www.eugenewei.com/blog/2015/1/30/conversation-with-adam-curtis) — `2015-01-30-blog-2015-1-30-conversation-with-adam-curtis.md` — 843w
+- 2015-01-28 — [MIT (Male Idiot Theory)](https://www.eugenewei.com/blog/2015/1/28/mit-male-idiot-theory) — `2015-01-28-blog-2015-1-28-mit-male-idiot-theory.md` — 560w
+- 2015-01-28 — [Give kickers the boot](https://www.eugenewei.com/blog/2015/1/28/give-kickers-the-boot) — `2015-01-28-blog-2015-1-28-give-kickers-the-boot.md` — 428w
+- 2015-01-27 — [The bizarre Yelp top 100 restaurant list](https://www.eugenewei.com/blog/2015/1/27/the-bizarre-yelp-top-100-restaurant-list) — `2015-01-27-blog-2015-1-27-the-bizarre-yelp-top-100-restaurant-list.md` — 316w
+- 2015-01-27 — [Lessons from Reid Hoffman](https://www.eugenewei.com/blog/2015/1/27/lessons-from-reid-hoffman) — `2015-01-27-blog-2015-1-27-lessons-from-reid-hoffman.md` — 897w
+- 2015-01-26 — [Tony Zhou AMA](https://www.eugenewei.com/blog/2015/1/26/tony-zhou-ama) — `2015-01-26-blog-2015-1-26-tony-zhou-ama.md` — 621w
+- 2015-01-26 — [Search zeitgeist, sex edition](https://www.eugenewei.com/blog/2015/1/26/search-zeitgeist-sex-edition) — `2015-01-26-blog-2015-1-26-search-zeitgeist-sex-edition.md` — 271w
+- 2015-01-25 — [What do you know?](https://www.eugenewei.com/blog/2015/1/25/what-do-you-know) — `2015-01-25-blog-2015-1-25-what-do-you-know.md` — 411w
+- 2015-01-25 — [The poker-playing AI](https://www.eugenewei.com/blog/2015/1/25/the-poker-playing-ai) — `2015-01-25-blog-2015-1-25-the-poker-playing-ai.md` — 422w
+- 2015-01-25 — [How spin becomes gospel](https://www.eugenewei.com/blog/2015/1/25/how-spin-becomes-gospel) — `2015-01-25-blog-2015-1-25-how-spin-becomes-gospel.md` — 341w
+- 2015-01-25 — [ESPN Draft Rankings altered after the fact?](https://www.eugenewei.com/blog/2015/1/25/espn-draft-rankings-altered-after-the-fact) — `2015-01-25-blog-2015-1-25-espn-draft-rankings-altered-after-the-fact.md` — 163w
+- 2015-01-23 — [Rate-limiting steps](https://www.eugenewei.com/blog/2015/1/23/rate-limiting-steps) — `2015-01-23-blog-2015-1-23-rate-limiting-steps.md` — 122w
+- 2015-01-23 — [How Los Angeles came to have the best Chinese Food in America](https://www.eugenewei.com/blog/2015/1/23/how-los-angeles-came-to-have-the-best-chinese-food-in-america) — `2015-01-23-blog-2015-1-23-how-los-angeles-came-to-have-the-best-chinese-food-in-america.md` — 348w
+- 2015-01-23 — [Honey badger had it right](https://www.eugenewei.com/blog/2015/1/23/honey-badger-had-it-right) — `2015-01-23-blog-2015-1-23-honey-badger-had-it-right.md` — 172w
+- 2015-01-23 — [Buzzfeed: giving you what you'll share](https://www.eugenewei.com/blog/2015/1/23/buzzfeed-giving-you-what-youll-share) — `2015-01-23-blog-2015-1-23-buzzfeed-giving-you-what-youll-share.md` — 237w
+- 2015-01-20 — [Spot the sniper](https://www.eugenewei.com/blog/2015/1/20/spot-the-sniper) — `2015-01-20-blog-2015-1-20-spot-the-sniper.md` — 154w
+- 2015-01-20 — [Evolution of the ideal female body](https://www.eugenewei.com/blog/2015/1/20/evolution-of-the-ideal-female-body) — `2015-01-20-blog-2015-1-20-evolution-of-the-ideal-female-body.md` — 210w
+- 2015-01-18 — [SimCity's homelessness problem](https://www.eugenewei.com/blog/2015/1/18/simcitys-homelessness-problem) — `2015-01-18-blog-2015-1-18-simcitys-homelessness-problem.md` — 262w
+- 2015-01-18 — [Element of smart teams](https://www.eugenewei.com/blog/2015/1/18/element-of-smart-teams) — `2015-01-18-blog-2015-1-18-element-of-smart-teams.md` — 211w
+- 2015-01-12 — [The on-demand economy](https://www.eugenewei.com/blog/2015/1/12/the-on-demand-economy) — `2015-01-12-blog-2015-1-12-the-on-demand-economy.md` — 188w
+- 2015-01-12 — [Free Climbing the Dawn Wall](https://www.eugenewei.com/blog/2015/1/12/free-climbing-the-dawn-wall) — `2015-01-12-blog-2015-1-12-free-climbing-the-dawn-wall.md` — 798w
+- 2015-01-10 — [Two pieces on Charlie Hebdo](https://www.eugenewei.com/blog/2015/1/10/two-pieces-on-charlie-hebdo) — `2015-01-10-blog-2015-1-10-two-pieces-on-charlie-hebdo.md` — 325w
+- 2015-01-08 — [Kobe Bryant's lonely imperiousness](https://www.eugenewei.com/blog/2015/1/8/kobe-bryants-lonely-imperiousness) — `2015-01-08-blog-2015-1-8-kobe-bryants-lonely-imperiousness.md` — 494w
+- 2015-01-07 — [Steven Soderbergh's 2014 media diet](https://www.eugenewei.com/blog/2015/1/7/steven-soderberghs-2014-media-diet) — `2015-01-07-blog-2015-1-7-steven-soderberghs-2014-media-diet.md` — 174w
+- 2015-01-07 — [Miscellany](https://www.eugenewei.com/blog/2015/1/7/miscellany) — `2015-01-07-blog-2015-1-7-miscellany.md` — 195w
+- 2015-01-07 — [Control](https://www.eugenewei.com/blog/2015/1/7/control) — `2015-01-07-blog-2015-1-7-control.md` — 417w
+- 2015-01-06 — [The barbell in barbells](https://www.eugenewei.com/blog/2015/1/6/the-barbell-in-barbells) — `2015-01-06-blog-2015-1-6-the-barbell-in-barbells.md` — 271w
+- 2015-01-05 — [Sensory Ethnography Lab (SEL)](https://www.eugenewei.com/blog/2015/1/5/sensory-ethnography-lab-sel) — `2015-01-05-blog-2015-1-5-sensory-ethnography-lab-sel.md` — 809w
+- 2015-01-05 — [Quadratic voting](https://www.eugenewei.com/blog/2015/1/5/quadratic-voting) — `2015-01-05-blog-2015-1-5-quadratic-voting.md` — 673w
+- 2015-01-05 — [Elon Musk AMA](https://www.eugenewei.com/blog/2015/1/5/elon-musk-ama) — `2015-01-05-blog-2015-1-5-elon-musk-ama.md` — 302w
+- 2015-01-04 — [Game theory of life](https://www.eugenewei.com/blog/2015/1/4/game-theory-of-life) — `2015-01-04-blog-2015-1-4-game-theory-of-life.md` — 235w
+- 2015-01-02 — [Should markets clear?](https://www.eugenewei.com/blog/2015/1/2/should-markets-clear) — `2015-01-02-blog-2015-1-2-should-markets-clear.md` — 1134w
+- 2015-01-01 — [You shall not pass](https://www.eugenewei.com/blog/2015/1/1/you-shall-not-pass) — `2015-01-01-blog-2015-1-1-you-shall-not-pass.md` — 198w
+- 2015-01-01 — [Why Idris Elba can't play James Bond?](https://www.eugenewei.com/blog/2015/1/1/why-idris-elba-cant-play-james-bond) — `2015-01-01-blog-2015-1-1-why-idris-elba-cant-play-james-bond.md` — 588w
+- 2015-01-01 — [State of cinema](https://www.eugenewei.com/blog/2015/1/1/state-of-cinema) — `2015-01-01-blog-2015-1-1-state-of-cinema.md` — 1023w
+- 2015-01-01 — [Respect, or the value of gravity in the NBA](https://www.eugenewei.com/blog/2015/1/1/respect-or-the-value-of-gravity-in-the-nba) — `2015-01-01-blog-2015-1-1-respect-or-the-value-of-gravity-in-the-nba.md` — 687w
+- 2015-01-01 — [Rage against the machine (that produces the rage)](https://www.eugenewei.com/blog/2015/1/1/rage-against-the-machine-that-produces-the-rage) — `2015-01-01-blog-2015-1-1-rage-against-the-machine-that-produces-the-rage.md` — 1382w
+- 2015-01-01 — [Love is all around](https://www.eugenewei.com/blog/2015/1/1/love-is-all-around) — `2015-01-01-blog-2015-1-1-love-is-all-around.md` — 254w
+- 2015-01-01 — [First digital animal](https://www.eugenewei.com/blog/2014/12/31/first-digital-animal) — `2015-01-01-blog-2014-12-31-first-digital-animal.md` — 452w
+- 2015-01-01 — [Effective income equality, ad-supported business models](https://www.eugenewei.com/blog/2015/1/1/effective-income-equality-ad-supported-business-models) — `2015-01-01-blog-2015-1-1-effective-income-equality-ad-supported-business-models.md` — 510w
+- 2015-01-01 — [Better than the Turing test](https://www.eugenewei.com/blog/2015/1/1/better-than-the-turing-test) — `2015-01-01-blog-2015-1-1-better-than-the-turing-test.md` — 284w
+- 2015-01-01 — [Becons](https://www.eugenewei.com/blog/2014/12/31/becons) — `2015-01-01-blog-2014-12-31-becons.md` — 190w
+- 2015-01-01 — [Are some diets mass murder?](https://www.eugenewei.com/blog/2015/1/1/are-some-diets-mass-murder) — `2015-01-01-blog-2015-1-1-are-some-diets-mass-murder.md` — 257w
+- 2015-01-01 — [A real world experiment in police enforcement](https://www.eugenewei.com/blog/2015/1/1/a-real-world-experiment-in-police-enforcement) — `2015-01-01-blog-2015-1-1-a-real-world-experiment-in-police-enforcement.md` — 288w
+- 2014-12-31 — [Aliens is the best movie about humans and technology](https://www.eugenewei.com/blog/2014/12/31/aliens-is-the-best-movie-about-humans-and-technology) — `2014-12-31-blog-2014-12-31-aliens-is-the-best-movie-about-humans-and-technology.md` — 346w
+- 2014-12-30 — [When introverts should drink coffee](https://www.eugenewei.com/blog/2014/12/30/when-introverts-should-drink-coffee) — `2014-12-30-blog-2014-12-30-when-introverts-should-drink-coffee.md` — 211w
+- 2014-12-30 — [Elf on the Shelf](https://www.eugenewei.com/blog/2014/12/30/elf-on-the-shelf) — `2014-12-30-blog-2014-12-30-elf-on-the-shelf.md` — 904w
+- 2014-12-30 — [Echoes of the fall of the studio system in journalism](https://www.eugenewei.com/blog/2014/12/30/echoes-of-the-fall-of-the-studio-system-in-journalism) — `2014-12-30-blog-2014-12-30-echoes-of-the-fall-of-the-studio-system-in-journalism.md` — 1852w
+- 2014-12-30 — [Can we move past pure outrage?](https://www.eugenewei.com/blog/2014/12/30/can-we-move-past-pure-outrage) — `2014-12-30-blog-2014-12-30-can-we-move-past-pure-outrage.md` — 964w
+- 2014-12-30 — [Being cold as a weight-loss technique?](https://www.eugenewei.com/blog/2014/12/30/being-cold-as-a-weight-loss-technique) — `2014-12-30-blog-2014-12-30-being-cold-as-a-weight-loss-technique.md` — 488w
+- 2014-12-19 — [Ayn Rand reviews children's movies](https://www.eugenewei.com/blog/2014/12/19/ayn-rand-reviews-childrens-movies) — `2014-12-19-blog-2014-12-19-ayn-rand-reviews-childrens-movies.md` — 150w
+- 2014-12-18 — [The GoPro life, broadened](https://www.eugenewei.com/blog/2014/12/18/the-gopro-life-broadened) — `2014-12-18-blog-2014-12-18-the-gopro-life-broadened.md` — 427w
+- 2014-12-18 — [A recommendation for fans of Serial](https://www.eugenewei.com/blog/2014/12/17/a-recommendation-for-fans-of-serial) — `2014-12-18-blog-2014-12-17-a-recommendation-for-fans-of-serial.md` — 439w
+- 2014-12-17 — [Why read (and reread)](https://www.eugenewei.com/blog/2014/12/17/why-read-and-reread) — `2014-12-17-blog-2014-12-17-why-read-and-reread.md` — 245w
+- 2014-12-17 — [When all you can see through is the rear view mirror](https://www.eugenewei.com/blog/2014/12/17/when-all-you-can-see-through-is-the-rear-view-mirror) — `2014-12-17-blog-2014-12-17-when-all-you-can-see-through-is-the-rear-view-mirror.md` — 775w
+- 2014-12-17 — [The fight we wanted, but not really](https://www.eugenewei.com/blog/2014/12/17/the-fight-we-wanted-but-not-really) — `2014-12-17-blog-2014-12-17-the-fight-we-wanted-but-not-really.md` — 515w
+- 2014-12-17 — [Serial and the flaw in the design of our criminal system](https://www.eugenewei.com/blog/2014/12/17/serial-and-the-flaw-in-the-design-of-our-criminal-system) — `2014-12-17-blog-2014-12-17-serial-and-the-flaw-in-the-design-of-our-criminal-system.md` — 678w
+- 2014-12-17 — [Cowboy Bebop](https://www.eugenewei.com/blog/2014/12/17/cowboy-bebop) — `2014-12-17-blog-2014-12-17-cowboy-bebop.md` — 434w
+- 2014-12-17 — [Bible Belt Big Data](https://www.eugenewei.com/blog/2014/12/17/bible-belt-big-data) — `2014-12-17-blog-2014-12-17-bible-belt-big-data.md` — 294w
+- 2014-12-12 — [The ghost of Long John Silver](https://www.eugenewei.com/blog/2014/12/12/the-ghost-of-long-john-silver) — `2014-12-12-blog-2014-12-12-the-ghost-of-long-john-silver.md` — 264w
+- 2014-12-11 — [When is everyday low pricing the right tactic?](https://www.eugenewei.com/blog/2014/12/11/when-is-everyday-low-pricing-the-right-tactic) — `2014-12-11-blog-2014-12-11-when-is-everyday-low-pricing-the-right-tactic.md` — 391w
+- 2014-12-10 — [My dad is smart](https://www.eugenewei.com/blog/2014/12/10/my-dad-is-smart) — `2014-12-10-blog-2014-12-10-my-dad-is-smart.md` — 291w
+- 2014-12-10 — [Books that changed minds](https://www.eugenewei.com/blog/2014/11/12/books-that-changed-minds) — `2014-12-10-blog-2014-11-12-books-that-changed-minds.md` — 897w
+- 2014-12-08 — [Deliberate underexposure with Nikon DSLRs](https://www.eugenewei.com/blog/2014/12/8/deliberate-underexposure-with-nikon-dslrs) — `2014-12-08-blog-2014-12-8-deliberate-underexposure-with-nikon-dslrs.md` — 467w
+- 2014-12-02 — [Giving Tuesday](https://www.eugenewei.com/blog/2014/12/2/giving-tuesday) — `2014-12-02-blog-2014-12-2-giving-tuesday.md` — 224w
+- 2014-11-30 — [Why the suicide epidemic in Utah?](https://www.eugenewei.com/blog/2014/11/30/why-the-suicide-epidemic-in-utah) — `2014-11-30-blog-2014-11-30-why-the-suicide-epidemic-in-utah.md` — 243w
+- 2014-11-30 — [Why Neil Gaiman updated Sleeping Beauty](https://www.eugenewei.com/blog/2014/11/30/why-neil-gaiman-updated-sleeping-beauty) — `2014-11-30-blog-2014-11-30-why-neil-gaiman-updated-sleeping-beauty.md` — 763w
+- 2014-11-30 — [Lost avant-garde painting shows up in Stuart Little](https://www.eugenewei.com/blog/2014/11/30/lost-avant-garde-painting-shows-up-in-stuart-little) — `2014-11-30-blog-2014-11-30-lost-avant-garde-painting-shows-up-in-stuart-little.md` — 122w
+- 2014-11-29 — [The Three Golden Rules](https://www.eugenewei.com/blog/2014/11/29/the-three-golden-rules) — `2014-11-29-blog-2014-11-29-the-three-golden-rules.md` — 184w
+- 2014-11-29 — [Forks model of disability](https://www.eugenewei.com/blog/2014/11/29/forks-model-of-disability) — `2014-11-29-blog-2014-11-29-forks-model-of-disability.md` — 453w
+- 2014-11-27 — [Why did women stop coding?](https://www.eugenewei.com/blog/2014/11/25/why-did-women-stop-coding) — `2014-11-27-blog-2014-11-25-why-did-women-stop-coding.md` — 611w
+- 2014-11-27 — [Harvard's discrimination against Asian Americans](https://www.eugenewei.com/blog/2014/11/27/97bffxz23v96sib81v91kdg649wnwt) — `2014-11-27-blog-2014-11-27-97bffxz23v96sib81v91kdg649wnwt.md` — 325w
+- 2014-11-25 — [The cryptic, mysterious power of open-ended universes](https://www.eugenewei.com/blog/2014/11/24/ether-one) — `2014-11-25-blog-2014-11-24-ether-one.md` — 917w
+- 2014-11-24 — [The stunning grand jury decision in Ferguson](https://www.eugenewei.com/blog/2014/11/24/the-stunning-grand-jury-decision-in-ferguson) — `2014-11-24-blog-2014-11-24-the-stunning-grand-jury-decision-in-ferguson.md` — 496w
+- 2014-11-18 — [Total recall](https://www.eugenewei.com/blog/2014/11/18/total-recall) — `2014-11-18-blog-2014-11-18-total-recall.md` — 262w
+- 2014-11-18 — [Eyebrow on fleek](https://www.eugenewei.com/blog/2014/11/18/eyebrow-on-fleek) — `2014-11-18-blog-2014-11-18-eyebrow-on-fleek.md` — 162w
+- 2014-11-18 — [Book recommendations from Atul Gawande](https://www.eugenewei.com/blog/2014/11/18/book-recommendations-from-atul-gawande) — `2014-11-18-blog-2014-11-18-book-recommendations-from-atul-gawande.md` — 294w
+- 2014-11-16 — [Ethics of fighting Ebola](https://www.eugenewei.com/blog/2014/11/16/ethics-of-fighting-ebola) — `2014-11-16-blog-2014-11-16-ethics-of-fighting-ebola.md` — 317w
+- 2014-11-15 — [Walking vs running a mile: the caloric output](https://www.eugenewei.com/blog/2014/11/14/walking-vs-running-a-mile-the-caloric-output) — `2014-11-15-blog-2014-11-14-walking-vs-running-a-mile-the-caloric-output.md` — 246w
+- 2014-11-14 — [Serial and White Reporter Privilege](https://www.eugenewei.com/blog/2014/11/14/serial-and-white-reporter-privilege) — `2014-11-14-blog-2014-11-14-serial-and-white-reporter-privilege.md` — 1152w
+- 2014-11-12 — [Mathematics of why hipsters all dress the same](https://www.eugenewei.com/blog/2014/11/12/mathematics-of-why-hipsters-all-dress-the-same) — `2014-11-12-blog-2014-11-12-mathematics-of-why-hipsters-all-dress-the-same.md` — 174w
+- 2014-11-12 — [Human-level AI always 25 years away](https://www.eugenewei.com/blog/2014/11/11/human-level-ai-always-25-years-away) — `2014-11-12-blog-2014-11-11-human-level-ai-always-25-years-away.md` — 659w
+- 2014-11-11 — [Salute to the Cold War game theorists](https://www.eugenewei.com/blog/2014/11/11/salute-to-the-cold-war-game-theorists) — `2014-11-11-blog-2014-11-11-salute-to-the-cold-war-game-theorists.md` — 313w
+- 2014-11-11 — [Cultural filters](https://www.eugenewei.com/blog/2014/11/11/cultural-filters) — `2014-11-11-blog-2014-11-11-cultural-filters.md` — 454w
+- 2014-11-11 — [Alcohol vs guns](https://www.eugenewei.com/blog/2014/11/11/alcohol-vs-guns) — `2014-11-11-blog-2014-11-11-alcohol-vs-guns.md` — 616w
+- 2014-11-10 — [Relativity as video game](https://www.eugenewei.com/blog/2014/11/10/relativity-as-video-game) — `2014-11-10-blog-2014-11-10-relativity-as-video-game.md` — 296w
+- 2014-11-10 — [Mark Woollen](https://www.eugenewei.com/blog/2014/11/10/mark-woollen) — `2014-11-10-blog-2014-11-10-mark-woollen.md` — 351w
+- 2014-11-04 — [Robots take all the jobs (composer edition)](https://www.eugenewei.com/blog/2014/11/4/robots-take-all-the-jobs-composer-edition) — `2014-11-04-blog-2014-11-4-robots-take-all-the-jobs-composer-edition.md` — 246w
+- 2014-11-04 — [Multiple testing](https://www.eugenewei.com/blog/2014/11/4/multiple-testing) — `2014-11-04-blog-2014-11-4-multiple-testing.md` — 611w
+- 2014-11-01 — [That Lebron ad](https://www.eugenewei.com/blog/2014/10/31/that-lebron-ad) — `2014-11-01-blog-2014-10-31-that-lebron-ad.md` — 1149w
+- 2014-10-30 — [Human and computer curation in the age of information abundance](https://www.eugenewei.com/blog/2014/10/29/human-and-computer-curation-in-the-age-of-information-abundance) — `2014-10-30-blog-2014-10-29-human-and-computer-curation-in-the-age-of-information-abundance.md` — 2138w
+- 2014-10-22 — [Moravec's Paradox and self-driving cars](https://www.eugenewei.com/blog/2014/10/13/moravecs-paradox-and-self-driving-cars) — `2014-10-22-blog-2014-10-13-moravecs-paradox-and-self-driving-cars.md` — 1111w
+- 2014-10-21 — [How Apple Pay innovates on top of the US payments stack](https://www.eugenewei.com/blog/2014/10/20/how-apple-pay-innovates-on-top-of-the-us-payments-stack) — `2014-10-21-blog-2014-10-20-how-apple-pay-innovates-on-top-of-the-us-payments-stack.md` — 1694w
+- 2014-10-20 — [The last word](https://www.eugenewei.com/blog/2014/10/20/the-last-word) — `2014-10-20-blog-2014-10-20-the-last-word.md` — 829w
+- 2014-10-19 — [Network transportation costs](https://www.eugenewei.com/blog/2014/10/19/network-transportation-costs) — `2014-10-19-blog-2014-10-19-network-transportation-costs.md` — 341w
+- 2014-10-19 — [Douchebag, the white racial slur](https://www.eugenewei.com/blog/2014/10/19/douchebag-the-white-racial-slur) — `2014-10-19-blog-2014-10-19-douchebag-the-white-racial-slur.md` — 459w
+- 2014-10-18 — [Star Wars in our world](https://www.eugenewei.com/blog/2014/10/18/star-wars-in-our-world) — `2014-10-18-blog-2014-10-18-star-wars-in-our-world.md` — 126w
+- 2014-10-18 — [More computing comparative advantages](https://www.eugenewei.com/blog/2014/10/18/more-computing-comparative-advantages) — `2014-10-18-blog-2014-10-18-more-computing-comparative-advantages.md` — 593w
+- 2014-10-18 — [Computer's speed reading advantage](https://www.eugenewei.com/blog/2014/10/13/computers-speed-reading-advantage) — `2014-10-18-blog-2014-10-13-computers-speed-reading-advantage.md` — 322w
+- 2014-10-17 — [Water is too cheap](https://www.eugenewei.com/blog/2014/10/16/water-is-too-cheap) — `2014-10-17-blog-2014-10-16-water-is-too-cheap.md` — 366w
+- 2014-10-13 — [First generation telepathy](https://www.eugenewei.com/blog/2014/10/13/first-generation-telepathy) — `2014-10-13-blog-2014-10-13-first-generation-telepathy.md` — 265w
+- 2014-10-09 — [Two Recommendations (both involving a Gyllenhaal)](https://www.eugenewei.com/blog/2014/10/8/recommendations-two-of-which-feature-gyllenhaals) — `2014-10-09-blog-2014-10-8-recommendations-two-of-which-feature-gyllenhaals.md` — 788w
+- 2014-10-09 — [Ricky Jay](https://www.eugenewei.com/blog/2014/10/9/ricky-jay) — `2014-10-09-blog-2014-10-9-ricky-jay.md` — 246w
+- 2014-10-09 — [2014 Box Office](https://www.eugenewei.com/blog/2014/10/9/2014-box-office) — `2014-10-09-blog-2014-10-9-2014-box-office.md` — 409w
+- 2014-10-06 — [History of the Michelin Man](https://www.eugenewei.com/blog/2014/10/6/history-of-the-michelin-man) — `2014-10-06-blog-2014-10-6-history-of-the-michelin-man.md` — 347w
+- 2014-10-06 — [Economic moral inversion](https://www.eugenewei.com/blog/2014/10/3/economic-moral-inversion) — `2014-10-06-blog-2014-10-3-economic-moral-inversion.md` — 534w
+- 2014-10-05 — [Why infant mortality higher in U.S. than Europe?](https://www.eugenewei.com/blog/2014/10/5/why-infant-mortality-higher-in-us-than-europe) — `2014-10-05-blog-2014-10-5-why-infant-mortality-higher-in-us-than-europe.md` — 158w
+- 2014-10-05 — [The contour of money](https://www.eugenewei.com/blog/2014/10/3/the-ripple-effects-of-public-transportation) — `2014-10-05-blog-2014-10-3-the-ripple-effects-of-public-transportation.md` — 293w
+- 2014-10-04 — [Information previews in modern UI's](https://www.eugenewei.com/blog/2014/10/4/information-previews-in-modern-uis) — `2014-10-04-blog-2014-10-4-information-previews-in-modern-uis.md` — 384w
+- 2014-10-04 — [Get yourself some British TV](https://www.eugenewei.com/blog/2014/10/4/get-yourself-some-british-tv) — `2014-10-04-blog-2014-10-4-get-yourself-some-british-tv.md` — 199w
+- 2014-10-03 — [The psychology of charitable donations](https://www.eugenewei.com/blog/2014/10/3/the-challenge-of-raising-money-to-fight-ebola) — `2014-10-03-blog-2014-10-3-the-challenge-of-raising-money-to-fight-ebola.md` — 690w
+- 2014-10-03 — [The Players Tribune](https://www.eugenewei.com/blog/2014/10/3/the-players-tribune) — `2014-10-03-blog-2014-10-3-the-players-tribune.md` — 902w
+- 2014-10-03 — [Should we seek immortality?](https://www.eugenewei.com/blog/2014/9/28/1roq70io886ig1ji4u60tvvqlbzax7) — `2014-10-03-blog-2014-9-28-1roq70io886ig1ji4u60tvvqlbzax7.md` — 866w
+- 2014-09-25 — [The science behind good writing](https://www.eugenewei.com/blog/2014/9/24/the-science-behind-good-writing) — `2014-09-25-blog-2014-9-24-the-science-behind-good-writing.md` — 481w
+- 2014-09-25 — [Discipline](https://www.eugenewei.com/blog/2014/9/17/discipline) — `2014-09-25-blog-2014-9-17-discipline.md` — 1141w
+- 2014-09-25 — [Boltzmann brain](https://www.eugenewei.com/blog/2014/9/24/boltzmann-brain) — `2014-09-25-blog-2014-9-24-boltzmann-brain.md` — 210w
+- 2014-09-24 — [“F***, we’re dead.” [UPDATED]](https://www.eugenewei.com/blog/2014/9/24/f-were-dead) — `2014-09-24-blog-2014-9-24-f-were-dead.md` — 708w
+- 2014-09-24 — [Robot handwriting](https://www.eugenewei.com/blog/2014/9/24/robot-handwriting) — `2014-09-24-blog-2014-9-24-robot-handwriting.md` — 373w
+- 2014-09-23 — [Soderbergh on Spielberg's staging](https://www.eugenewei.com/blog/2014/9/23/soderbergh-on-spielbergs-staging) — `2014-09-23-blog-2014-9-23-soderbergh-on-spielbergs-staging.md` — 497w
+- 2014-09-20 — [Los Angeles Plays Itself](https://www.eugenewei.com/blog/2014/9/20/los-angeles-plays-itself) — `2014-09-20-blog-2014-9-20-los-angeles-plays-itself.md` — 215w
+- 2014-09-20 — [Hidden-city ticketing (UPDATED)](https://www.eugenewei.com/blog/2014/9/19/hidden-city-ticketing) — `2014-09-20-blog-2014-9-19-hidden-city-ticketing.md` — 358w
+- 2014-09-19 — [Clash of titans](https://www.eugenewei.com/blog/2014/9/19/clash-of-titans) — `2014-09-19-blog-2014-9-19-clash-of-titans.md` — 354w
+- 2014-09-18 — [The economics of priceless transactions](https://www.eugenewei.com/blog/2014/9/18/the-economics-of-priceless-transactions) — `2014-09-18-blog-2014-9-18-the-economics-of-priceless-transactions.md` — 1414w
+- 2014-09-18 — [Ants](https://www.eugenewei.com/blog/2014/9/18/ants) — `2014-09-18-blog-2014-9-18-ants.md` — 356w
+- 2014-09-17 — [Presenter's paradox](https://www.eugenewei.com/blog/2014/9/14/the-presenters-paradox) — `2014-09-17-blog-2014-9-14-the-presenters-paradox.md` — 306w
+- 2014-09-16 — [Optimal robot personality](https://www.eugenewei.com/blog/2014/9/16/optimal-robot-personality) — `2014-09-16-blog-2014-9-16-optimal-robot-personality.md` — 426w
+- 2014-09-14 — [Young blood](https://www.eugenewei.com/blog/2014/9/14/young-blood) — `2014-09-14-blog-2014-9-14-young-blood.md` — 301w
+- 2014-09-11 — [Some Peter Thiel miscellany](https://www.eugenewei.com/blog/2014/9/11/some-peter-thiel-miscellany) — `2014-09-11-blog-2014-9-11-some-peter-thiel-miscellany.md` — 1678w
+- 2014-08-27 — [Why we don't catch our own typos](https://www.eugenewei.com/blog/2014/8/27/why-we-dont-catch-our-own-typos) — `2014-08-27-blog-2014-8-27-why-we-dont-catch-our-own-typos.md` — 648w
+- 2014-08-27 — [Learning from the economics of video games](https://www.eugenewei.com/blog/2014/8/27/learning-from-the-economics-of-video-games) — `2014-08-27-blog-2014-8-27-learning-from-the-economics-of-video-games.md` — 594w
+- 2014-08-26 — [kadryov_95](https://www.eugenewei.com/blog/2014/8/20/kadryov95) — `2014-08-26-blog-2014-8-20-kadryov95.md` — 254w
+- 2014-08-26 — [Music economics in the age of abundance](https://www.eugenewei.com/blog/2014/8/20/music-economics-in-the-age-of-abundance) — `2014-08-26-blog-2014-8-20-music-economics-in-the-age-of-abundance.md` — 783w
+- 2014-08-23 — [Fast Fashion](https://www.eugenewei.com/blog/2014/8/20/fast-fashion) — `2014-08-23-blog-2014-8-20-fast-fashion.md` — 450w
+- 2014-08-21 — [Should the U.S. government pay ransoms for journalists?](https://www.eugenewei.com/blog/2014/8/20/should-the-us-government-pay-ransoms-for-journalists) — `2014-08-21-blog-2014-8-20-should-the-us-government-pay-ransoms-for-journalists.md` — 779w
+- 2014-08-21 — [Aging canned food](https://www.eugenewei.com/blog/2014/8/21/aging-canned-food) — `2014-08-21-blog-2014-8-21-aging-canned-food.md` — 402w
+- 2014-08-20 — [In decline](https://www.eugenewei.com/blog/2014/8/12/in-decline) — `2014-08-20-blog-2014-8-12-in-decline.md` — 153w
+- 2014-08-20 — [Flexbility or stability, pick one](https://www.eugenewei.com/blog/2014/8/18/flexbility-or-stability-pick-one) — `2014-08-20-blog-2014-8-18-flexbility-or-stability-pick-one.md` — 143w
+- 2014-08-16 — [The linguistics of menus](https://www.eugenewei.com/blog/2014/8/15/the-linguistics-of-menus) — `2014-08-16-blog-2014-8-15-the-linguistics-of-menus.md` — 327w
+- 2014-08-16 — [Extracting audio from video information](https://www.eugenewei.com/blog/2014/8/12/extracting-audio-from-video-information) — `2014-08-16-blog-2014-8-12-extracting-audio-from-video-information.md` — 356w
+- 2014-08-16 — [Borrowed palettes](https://www.eugenewei.com/blog/2014/8/16/borrowed-palettes) — `2014-08-16-blog-2014-8-16-borrowed-palettes.md` — 151w
+- 2014-08-15 — [Where the American dream meets the American nightmare](https://www.eugenewei.com/blog/2014/8/15/where-the-american-dream-meets-the-american-nightmare) — `2014-08-15-blog-2014-8-15-where-the-american-dream-meets-the-american-nightmare.md` — 342w
+- 2014-08-10 — [Lance Armstrong's final lie?](https://www.eugenewei.com/blog/2014/7/24/lance-in-2009) — `2014-08-10-blog-2014-7-24-lance-in-2009.md` — 1067w
+- 2014-08-10 — [Everything looks easier when it's far away](https://www.eugenewei.com/blog/2014/7/30/everything-looks-easier-when-its-far-away) — `2014-08-10-blog-2014-7-30-everything-looks-easier-when-its-far-away.md` — 233w
+- 2014-08-08 — [Photos that resemble Renaissance paintings](https://www.eugenewei.com/blog/2014/8/8/accidental-renaissance) — `2014-08-08-blog-2014-8-8-accidental-renaissance.md` — 201w
+- 2014-08-04 — [How Apple deploys its cash](https://www.eugenewei.com/blog/2014/8/4/how-apple-deploys-its-cash) — `2014-08-04-blog-2014-8-4-how-apple-deploys-its-cash.md` — 675w
+- 2014-08-04 — [Headline this post yourself](https://www.eugenewei.com/blog/2014/8/4/headline-this-post-yourself) — `2014-08-04-blog-2014-8-4-headline-this-post-yourself.md` — 599w
+- 2014-08-03 — [Spoiled by the trailer](https://www.eugenewei.com/blog/2014/7/30/spoiled-by-the-trailer) — `2014-08-03-blog-2014-7-30-spoiled-by-the-trailer.md` — 211w
+- 2014-08-03 — [Online education can and will be better](https://www.eugenewei.com/blog/2014/8/3/online-education-can-and-will-be-better) — `2014-08-03-blog-2014-8-3-online-education-can-and-will-be-better.md` — 648w
+- 2014-08-02 — [Snowpiercer, VOD, and indie film financing](https://www.eugenewei.com/blog/2014/7/30/snowpiercers-vod-milestone) — `2014-08-02-blog-2014-7-30-snowpiercers-vod-milestone.md` — 1080w
+- 2014-08-02 — [George Saunders' recommends short stories](https://www.eugenewei.com/blog/2014/7/29/george-saunders-recommends-short-stories) — `2014-08-02-blog-2014-7-29-george-saunders-recommends-short-stories.md` — 317w
+- 2014-07-30 — [Miss American Dream](https://www.eugenewei.com/blog/2014/7/30/miss-american-dream) — `2014-07-30-blog-2014-7-30-miss-american-dream.md` — 524w
+- 2014-07-29 — [Billy Beane and the resource curse](https://www.eugenewei.com/blog/2014/7/25/billy-beane-and-the-resource-curse) — `2014-07-29-blog-2014-7-25-billy-beane-and-the-resource-curse.md` — 1150w
+- 2014-07-28 — [An assessment of the Paleo Diet](https://www.eugenewei.com/blog/2014/7/24/an-assessment-of-the-paleo-diet) — `2014-07-28-blog-2014-7-24-an-assessment-of-the-paleo-diet.md` — 420w
+- 2014-07-27 — [The state of the romantic comedy](https://www.eugenewei.com/blog/2014/7/23/kflo318oe0fochj1zdzkrbaldlrqqj) — `2014-07-27-blog-2014-7-23-kflo318oe0fochj1zdzkrbaldlrqqj.md` — 401w
+- 2014-07-27 — [The downside of telecommuting](https://www.eugenewei.com/blog/2014/7/25/the-downside-of-telecommuting) — `2014-07-27-blog-2014-7-25-the-downside-of-telecommuting.md` — 184w
+- 2014-07-27 — [Life of a condom](https://www.eugenewei.com/blog/2014/7/27/life-of-a-condom) — `2014-07-27-blog-2014-7-27-life-of-a-condom.md` — 168w
+- 2014-07-26 — [The biology of risk](https://www.eugenewei.com/blog/2014/7/23/the-biology-of-risk) — `2014-07-26-blog-2014-7-23-the-biology-of-risk.md` — 947w
+- 2014-07-26 — [Minecraft as platform](https://www.eugenewei.com/blog/2014/7/25/minecraft-as-platform) — `2014-07-26-blog-2014-7-25-minecraft-as-platform.md` — 454w
+- 2014-07-26 — [Beware destination shareholder meetings](https://www.eugenewei.com/blog/2014/7/25/beware-destination-shareholder-meetings) — `2014-07-26-blog-2014-7-25-beware-destination-shareholder-meetings.md` — 179w
+- 2014-07-24 — [Thou shalt have no other gods before me](https://www.eugenewei.com/blog/2014/7/23/cities) — `2014-07-24-blog-2014-7-23-cities.md` — 1276w
+- 2014-07-24 — [Protecting heterogeneous activity](https://www.eugenewei.com/blog/2014/7/23/protecting-heterogeneous-activity) — `2014-07-24-blog-2014-7-23-protecting-heterogeneous-activity.md` — 832w
+- 2014-07-18 — [The economics of South Korean TV](https://www.eugenewei.com/blog/2014/7/18/the-economics-of-south-korean-tv) — `2014-07-18-blog-2014-7-18-the-economics-of-south-korean-tv.md` — 331w
+- 2014-07-18 — [Stories as religion](https://www.eugenewei.com/blog/2014/7/18/stories-as-religion) — `2014-07-18-blog-2014-7-18-stories-as-religion.md` — 855w
+- 2014-07-18 — [Anomaly](https://www.eugenewei.com/blog/2014/7/18/anomaly) — `2014-07-18-blog-2014-7-18-anomaly.md` — 330w
+- 2014-07-17 — [How we read online](https://www.eugenewei.com/blog/2014/7/17/how-we-read-online) — `2014-07-17-blog-2014-7-17-how-we-read-online.md` — 538w
+- 2014-07-09 — [Bill Viola](https://www.eugenewei.com/blog/2014/7/8/bill-viola) — `2014-07-09-blog-2014-7-8-bill-viola.md` — 509w
+- 2014-07-08 — [Cities are superlinear, companies are not](https://www.eugenewei.com/blog/2014/4/28/cities-are-superlinear-companies-are-not) — `2014-07-08-blog-2014-4-28-cities-are-superlinear-companies-are-not.md` — 1537w
+- 2014-07-07 — [Inspirational singing competition movies](https://www.eugenewei.com/blog/2014/7/2/inspirational) — `2014-07-07-blog-2014-7-2-inspirational.md` — 233w
+- 2014-07-03 — [Where have all the cartoon mothers gone?](https://www.eugenewei.com/blog/2014/6/30/where-have-all-the-cartoon-mothers-gone) — `2014-07-03-blog-2014-6-30-where-have-all-the-cartoon-mothers-gone.md` — 524w
+- 2014-07-03 — [Positive versus negative rights](https://www.eugenewei.com/blog/2014/7/3/positive-versus-negative-rights) — `2014-07-03-blog-2014-7-3-positive-versus-negative-rights.md` — 400w
+- 2014-06-30 — [Zeppelin](https://www.eugenewei.com/blog/2014/6/30/btx9qc5mewuqkkfleh2bk9wfrk7jp3) — `2014-06-30-blog-2014-6-30-btx9qc5mewuqkkfleh2bk9wfrk7jp3.md` — 220w
+- 2014-06-29 — [Secret to the perfect burger](https://www.eugenewei.com/blog/2014/6/29/secret-to-the-perfect-burger) — `2014-06-29-blog-2014-6-29-secret-to-the-perfect-burger.md` — 218w
+- 2014-06-29 — [Moby Dick](https://www.eugenewei.com/blog/2014/6/29/moby-dick) — `2014-06-29-blog-2014-6-29-moby-dick.md` — 258w
+- 2014-06-29 — [Line](https://www.eugenewei.com/blog/2014/6/28/line) — `2014-06-29-blog-2014-6-28-line.md` — 132w
+- 2014-06-20 — [Tech tidbits](https://www.eugenewei.com/blog/2014/6/20/tech-tidbits) — `2014-06-20-blog-2014-6-20-tech-tidbits.md` — 348w
+- 2014-06-20 — [Miscellany](https://www.eugenewei.com/blog/2014/6/3/miscellany) — `2014-06-20-blog-2014-6-3-miscellany.md` — 265w
+- 2014-06-20 — [Jonah Peretti](https://www.eugenewei.com/blog/2014/6/17/jonah-peretti-interview) — `2014-06-20-blog-2014-6-17-jonah-peretti-interview.md` — 899w
+- 2014-06-17 — [Eugene not that great](https://www.eugenewei.com/blog/2014/6/16/eugene-not-that-great) — `2014-06-17-blog-2014-6-16-eugene-not-that-great.md` — 140w
+- 2014-06-16 — [The Nash Equilibrium of Silicon Valley](https://www.eugenewei.com/blog/2014/6/13/uucxfbeng80hyhiscbcwi9feirgzj7) — `2014-06-16-blog-2014-6-13-uucxfbeng80hyhiscbcwi9feirgzj7.md` — 425w
+- 2014-06-16 — [Personal statistician](https://www.eugenewei.com/blog/2014/6/3/personal-statistician) — `2014-06-16-blog-2014-6-3-personal-statistician.md` — 619w
+- 2014-06-08 — [Knausgaard](https://www.eugenewei.com/blog/2014/6/8/knausgaard) — `2014-06-08-blog-2014-6-8-knausgaard.md` — 323w
+- 2014-06-08 — [Detroit's urban decay as seen on Google Street View](https://www.eugenewei.com/blog/2014/6/8/detroits-urban-decay-as-seen-on-google-street-view) — `2014-06-08-blog-2014-6-8-detroits-urban-decay-as-seen-on-google-street-view.md` — 189w
+- 2014-06-06 — [The presumption of human error](https://www.eugenewei.com/blog/2014/6/6/defending-against-inevitable-human-error) — `2014-06-06-blog-2014-6-6-defending-against-inevitable-human-error.md` — 1277w
+- 2014-06-06 — [A theory of jerks](https://www.eugenewei.com/blog/2014/6/6/a-theory-of-jerks) — `2014-06-06-blog-2014-6-6-a-theory-of-jerks.md` — 433w
+- 2014-06-05 — [Superhot](https://www.eugenewei.com/blog/2014/6/3/superhot) — `2014-06-05-blog-2014-6-3-superhot.md` — 624w
+- 2014-06-05 — [Empire and Post-Empire](https://www.eugenewei.com/blog/2014/6/1/empire-and-post-empire) — `2014-06-05-blog-2014-6-1-empire-and-post-empire.md` — 531w
+- 2014-06-04 — [Why the internet is all cats and lists](https://www.eugenewei.com/blog/2014/6/4/why-the-internet-is-all-cats-and-lists) — `2014-06-04-blog-2014-6-4-why-the-internet-is-all-cats-and-lists.md` — 299w
+- 2014-06-02 — [The economics of MOOCs](https://www.eugenewei.com/blog/2014/5/30/the-economics-of-moocs) — `2014-06-02-blog-2014-5-30-the-economics-of-moocs.md` — 562w
+- 2014-06-02 — [Liquidation preference](https://www.eugenewei.com/blog/2014/6/1/liquidation-preference) — `2014-06-02-blog-2014-6-1-liquidation-preference.md` — 374w
+- 2014-06-01 — [The Late Stephen Colbert](https://www.eugenewei.com/blog/2014/6/1/the-late-stephen-colbert) — `2014-06-01-blog-2014-6-1-the-late-stephen-colbert.md` — 491w
+- 2014-06-01 — [Miscellany](https://www.eugenewei.com/blog/2014/5/29/miscellany) — `2014-06-01-blog-2014-5-29-miscellany.md` — 471w
+- 2014-06-01 — [Discharge thy secret!](https://www.eugenewei.com/blog/2014/6/1/discharge-they-secret) — `2014-06-01-blog-2014-6-1-discharge-they-secret.md` — 304w
+- 2014-06-01 — [Bait bikes](https://www.eugenewei.com/blog/2014/5/29/bait-bikes) — `2014-06-01-blog-2014-5-29-bait-bikes.md` — 797w
+- 2014-05-29 — [Piketty and his critics](https://www.eugenewei.com/blog/2014/5/29/piketty-and-his-critics) — `2014-05-29-blog-2014-5-29-piketty-and-his-critics.md` — 474w
+- 2014-05-29 — [Economics of dystopian landscapes](https://www.eugenewei.com/blog/2014/5/29/economics-of-dystopian-landscapes) — `2014-05-29-blog-2014-5-29-economics-of-dystopian-landscapes.md` — 371w
+- 2014-05-29 — [A.I.](https://www.eugenewei.com/blog/2014/5/29/ai) — `2014-05-29-blog-2014-5-29-ai.md` — 507w
+- 2014-05-25 — [Harmless Harvest Coconut Water](https://www.eugenewei.com/blog/2014/5/24/harmless-harvest-coconut-water) — `2014-05-25-blog-2014-5-24-harmless-harvest-coconut-water.md` — 209w
+- 2014-05-24 — [High Dynamic Range Imaging](https://www.eugenewei.com/blog/2014/5/24/high-dynamic-range-imaging) — `2014-05-24-blog-2014-5-24-high-dynamic-range-imaging.md` — 400w
+- 2014-05-16 — [Whatchoo talkin' bout Willems?](https://www.eugenewei.com/blog/2014/5/16/whatchoo-talkin-bout-willems) — `2014-05-16-blog-2014-5-16-whatchoo-talkin-bout-willems.md` — 432w
+- 2014-05-16 — [Godzilla](https://www.eugenewei.com/blog/2014/4/23/godzilla) — `2014-05-16-blog-2014-4-23-godzilla.md` — 836w
+- 2014-05-14 — [Do children make you happy?](https://www.eugenewei.com/blog/2014/5/12/do-children-make-you-happy) — `2014-05-14-blog-2014-5-12-do-children-make-you-happy.md` — 226w
+- 2014-05-12 — [The Sims You Left Behind](https://www.eugenewei.com/blog/2014/5/12/the-sims-you-left-behind) — `2014-05-12-blog-2014-5-12-the-sims-you-left-behind.md` — 210w
+- 2014-05-11 — [Why have thoroughbreds topped out in speed](https://www.eugenewei.com/blog/2014/5/11/why-have-thoroughbreds-topped-out-in-speed) — `2014-05-11-blog-2014-5-11-why-have-thoroughbreds-topped-out-in-speed.md` — 345w
+- 2014-05-11 — [Why Other People Have Such Bad Taste](https://www.eugenewei.com/blog/2014/5/11/why-other-people-have-such-bad-taste) — `2014-05-11-blog-2014-5-11-why-other-people-have-such-bad-taste.md` — 454w
+- 2014-05-11 — [Teach your garden to weed itself](https://www.eugenewei.com/blog/2014/5/11/teach-your-garden-to-weed-itself) — `2014-05-11-blog-2014-5-11-teach-your-garden-to-weed-itself.md` — 318w
+- 2014-05-11 — [TMac on the mound](https://www.eugenewei.com/blog/2014/5/11/tmac-on-the-mound) — `2014-05-11-blog-2014-5-11-tmac-on-the-mound.md` — 224w
+- 2014-05-11 — [Mock not Stephen Dorff](https://www.eugenewei.com/blog/2014/5/11/mock-not-stephen-dorff) — `2014-05-11-blog-2014-5-11-mock-not-stephen-dorff.md` — 314w
+- 2014-05-11 — [Missed connections for A-holes](https://www.eugenewei.com/blog/2014/5/11/missed-connections-for-a-holes) — `2014-05-11-blog-2014-5-11-missed-connections-for-a-holes.md` — 120w
+- 2014-05-11 — [Alien](https://www.eugenewei.com/blog/2014/5/11/alien) — `2014-05-11-blog-2014-5-11-alien.md` — 126w
+- 2014-05-10 — [Difference between peacetime and wartime](https://www.eugenewei.com/blog/2014/5/10/difference-between-peacetime-and-wartime) — `2014-05-10-blog-2014-5-10-difference-between-peacetime-and-wartime.md` — 254w
+- 2014-05-07 — [This May Hurt a Bit](https://www.eugenewei.com/blog/2014/5/4/this-may-hurt-a-bit) — `2014-05-07-blog-2014-5-4-this-may-hurt-a-bit.md` — 318w
+- 2014-05-07 — [Monetizing what's scarce](https://www.eugenewei.com/blog/2014/5/7/monetizing-whats-scarce) — `2014-05-07-blog-2014-5-7-monetizing-whats-scarce.md` — 375w
+- 2014-05-06 — [Why cutting government is dangerous](https://www.eugenewei.com/blog/2014/5/6/why-cutting-government-is-dangerous) — `2014-05-06-blog-2014-5-6-why-cutting-government-is-dangerous.md` — 309w
+- 2014-05-06 — [The zeitgeist in verbal tics](https://www.eugenewei.com/blog/2014/5/1/the-zeitgeist-in-verbal-tics) — `2014-05-06-blog-2014-5-1-the-zeitgeist-in-verbal-tics.md` — 259w
+- 2014-05-06 — [The rise of the knowledgeables](https://www.eugenewei.com/blog/2014/5/4/the-rise-of-the-knowledgeables) — `2014-05-06-blog-2014-5-4-the-rise-of-the-knowledgeables.md` — 317w
+- 2014-05-06 — [The decline of Mission Chinese Food](https://www.eugenewei.com/blog/2014/5/1/jzfe480oqzqn58r96ti12ey0rjpmz8) — `2014-05-06-blog-2014-5-1-jzfe480oqzqn58r96ti12ey0rjpmz8.md` — 422w
+- 2014-04-27 — [The politics of Game of Thrones](https://www.eugenewei.com/blog/2014/4/27/the-politics-of-game-of-thrones) — `2014-04-27-blog-2014-4-27-the-politics-of-game-of-thrones.md` — 693w
+- 2014-04-27 — [The art of the password](https://www.eugenewei.com/blog/2014/4/27/the-state-of-the-passwords) — `2014-04-27-blog-2014-4-27-the-state-of-the-passwords.md` — 380w
+- 2014-04-27 — [Make it harder to cross the street](https://www.eugenewei.com/blog/2014/4/27/make-it-harder-to-cross-the-street) — `2014-04-27-blog-2014-4-27-make-it-harder-to-cross-the-street.md` — 308w
+- 2014-04-26 — [Unbelievable but true facts](https://www.eugenewei.com/blog/2014/4/19/unbelievable-but-true-facts) — `2014-04-26-blog-2014-4-19-unbelievable-but-true-facts.md` — 391w
+- 2014-04-26 — [Narrative framing in restaurant reviews](https://www.eugenewei.com/blog/2014/4/26/narrative-framing-in-restaurant-reviews) — `2014-04-26-blog-2014-4-26-narrative-framing-in-restaurant-reviews.md` — 924w
+- 2014-04-22 — [We should take Skynet seriously](https://www.eugenewei.com/blog/2014/4/22/we-should-take-skynet-seriously) — `2014-04-22-blog-2014-4-22-we-should-take-skynet-seriously.md` — 306w
+- 2014-04-22 — [The hidden value of the NBA steal](https://www.eugenewei.com/blog/2014/4/7/the-hidden-value-of-the-nba-steal) — `2014-04-22-blog-2014-4-7-the-hidden-value-of-the-nba-steal.md` — 393w
+- 2014-04-22 — [The case against the American Revolution](https://www.eugenewei.com/blog/2014/4/22/the-case-against-the-american-revolution) — `2014-04-22-blog-2014-4-22-the-case-against-the-american-revolution.md` — 562w
+- 2014-04-22 — [Death, but not by thin air](https://www.eugenewei.com/blog/2014/4/22/death-but-not-by-thin-air) — `2014-04-22-blog-2014-4-22-death-but-not-by-thin-air.md` — 589w
+- 2014-04-09 — [New Girl Talk album](https://www.eugenewei.com/blog/2014/4/9/new-girl-talk-album) — `2014-04-09-blog-2014-4-9-new-girl-talk-album.md` — 286w
+- 2014-04-07 — [Under the Skin](https://www.eugenewei.com/blog/2014/4/4/under-the-skin) — `2014-04-07-blog-2014-4-4-under-the-skin.md` — 867w
+- 2014-04-06 — [Procrastination](https://www.eugenewei.com/blog/2014/4/6/procrastination) — `2014-04-06-blog-2014-4-6-procrastination.md` — 131w
+- 2014-04-06 — [Problem with local discovery](https://www.eugenewei.com/blog/2014/4/6/problem-with-local-discovery) — `2014-04-06-blog-2014-4-6-problem-with-local-discovery.md` — 234w
+- 2014-04-06 — [Nobody knows if HFT is good or bad](https://www.eugenewei.com/blog/2014/4/6/nobody-knows-if-hft-is-good-or-bad) — `2014-04-06-blog-2014-4-6-nobody-knows-if-hft-is-good-or-bad.md` — 500w
+- 2014-04-06 — [Fitt's Law, the Tesla Model S, and touchscreen car interfaces](https://www.eugenewei.com/blog/2013/12/9/fitts-law-and-the-tesla-model-s) — `2014-04-06-blog-2013-12-9-fitts-law-and-the-tesla-model-s.md` — 1624w
+- 2014-04-06 — [Esther Perel on infidelity](https://www.eugenewei.com/blog/2014/4/6/esther-perel-on-infidelity) — `2014-04-06-blog-2014-4-6-esther-perel-on-infidelity.md` — 487w
+- 2014-04-05 — [Modern movie studio economics](https://www.eugenewei.com/blog/2014/4/5/modern-movie-studio-economics) — `2014-04-05-blog-2014-4-5-modern-movie-studio-economics.md` — 918w
+- 2014-04-01 — [The trolley problem and self-driving cars](https://www.eugenewei.com/blog/2014/4/1/the-trolley-problem-and-self-driving-cars) — `2014-04-01-blog-2014-4-1-the-trolley-problem-and-self-driving-cars.md` — 935w
+- 2014-04-01 — [Notch one more for computers](https://www.eugenewei.com/blog/2014/4/1/notch-one-more-for-computers) — `2014-04-01-blog-2014-4-1-notch-one-more-for-computers.md` — 471w
+- 2014-03-31 — [Advice for a happy life](https://www.eugenewei.com/blog/2014/3/31/advice-for-a-happy-life) — `2014-03-31-blog-2014-3-31-advice-for-a-happy-life.md` — 497w
+- 2014-03-30 — [The original social network](https://www.eugenewei.com/blog/2014/2/24/whatsapps-surge-to-the-front-of-the-market) — `2014-03-30-blog-2014-2-24-whatsapps-surge-to-the-front-of-the-market.md` — 1067w
+- 2014-03-30 — [Interesting facts about airlines](https://www.eugenewei.com/blog/2014/3/30/interesting-facts-about-airlines) — `2014-03-30-blog-2014-3-30-interesting-facts-about-airlines.md` — 313w
+- 2014-03-30 — [Borgen on DVD](https://www.eugenewei.com/blog/2014/3/30/borgen-on-dvd) — `2014-03-30-blog-2014-3-30-borgen-on-dvd.md` — 136w
+- 2014-03-29 — [Strategy guide to life](https://www.eugenewei.com/blog/2014/3/27/strategy-guide-to-life) — `2014-03-29-blog-2014-3-27-strategy-guide-to-life.md` — 121w
+- 2014-03-29 — [Kids still fat](https://www.eugenewei.com/blog/2014/3/29/kids-still-fat) — `2014-03-29-blog-2014-3-29-kids-still-fat.md` — 431w
+- 2014-03-21 — [The elevator](https://www.eugenewei.com/blog/2014/3/20/the-elevator) — `2014-03-21-blog-2014-3-20-the-elevator.md` — 580w
+- 2014-03-21 — [Is giving directly best?](https://www.eugenewei.com/blog/2014/3/20/is-giving-directly-best) — `2014-03-21-blog-2014-3-20-is-giving-directly-best.md` — 530w
+- 2014-03-18 — [The automatic corporation?](https://www.eugenewei.com/blog/2014/3/18/corporation-as-software) — `2014-03-18-blog-2014-3-18-corporation-as-software.md` — 491w
+- 2014-03-18 — [Free-dimensional cinematography](https://www.eugenewei.com/blog/2014/3/18/free-dimensional-cinematography) — `2014-03-18-blog-2014-3-18-free-dimensional-cinematography.md` — 190w
+- 2014-03-15 — [The instant-on computer](https://www.eugenewei.com/blog/2014/3/9/the-instant-on-computer) — `2014-03-15-blog-2014-3-9-the-instant-on-computer.md` — 253w
+- 2014-03-15 — [Charlotte turns 1](https://www.eugenewei.com/blog/2014/3/14/charlotte-turns-1) — `2014-03-15-blog-2014-3-14-charlotte-turns-1.md` — 120w
+- 2014-03-09 — [Small fates](https://www.eugenewei.com/blog/2014/3/8/small-fates) — `2014-03-09-blog-2014-3-8-small-fates.md` — 518w
+- 2014-03-09 — [On praise](https://www.eugenewei.com/blog/2014/3/9/on-praise) — `2014-03-09-blog-2014-3-9-on-praise.md` — 287w
+- 2014-03-08 — [AeroPress related to the Aerobie?!](https://www.eugenewei.com/blog/2014/3/8/aeropress-related-to-the-aerobie) — `2014-03-08-blog-2014-3-8-aeropress-related-to-the-aerobie.md` — 303w
+- 2014-03-07 — [How to become a speed reader, updated](https://www.eugenewei.com/blog/2014/3/7/how-to-become-a-speed-reader-updated) — `2014-03-07-blog-2014-3-7-how-to-become-a-speed-reader-updated.md` — 757w
+- 2014-03-01 — [The morphology of the Rocky movies](https://www.eugenewei.com/blog/2014/3/1/the-morphology-of-the-rocky-movies) — `2014-03-01-blog-2014-3-1-the-morphology-of-the-rocky-movies.md` — 232w
+- 2014-02-28 — [Are top tennis players aging more gracefully?](https://www.eugenewei.com/blog/2014/2/28/are-top-tennis-players-aging-more-gracefully) — `2014-02-28-blog-2014-2-28-are-top-tennis-players-aging-more-gracefully.md` — 248w
+- 2014-02-25 — [The digitization of signaling](https://www.eugenewei.com/blog/2014/2/14/the-digitization-of-signals) — `2014-02-25-blog-2014-2-14-the-digitization-of-signals.md` — 213w
+- 2014-02-25 — [Lego](https://www.eugenewei.com/blog/2014/2/25/lego) — `2014-02-25-blog-2014-2-25-lego.md` — 474w
+- 2014-02-24 — [Einstein's Camera](https://www.eugenewei.com/blog/2014/2/24/einsteins-camera) — `2014-02-24-blog-2014-2-24-einsteins-camera.md` — 349w
+- 2014-02-23 — [The overrated True Detective](https://www.eugenewei.com/blog/2014/2/23/the-overrated-true-detective) — `2014-02-23-blog-2014-2-23-the-overrated-true-detective.md` — 754w
+- 2014-02-23 — [The Act of Killing: a snuff film?](https://www.eugenewei.com/blog/2014/2/23/the-act-of-killing-a-snuff-film) — `2014-02-23-blog-2014-2-23-the-act-of-killing-a-snuff-film.md` — 819w
+- 2014-02-23 — [Localized crowdfunding](https://www.eugenewei.com/blog/2014/2/14/localized-crowdfunding) — `2014-02-23-blog-2014-2-14-localized-crowdfunding.md` — 255w
+- 2014-02-18 — [The death of the Michael Mann LA look](https://www.eugenewei.com/blog/2014/2/18/the-death-of-the-michael-mann-la-look) — `2014-02-18-blog-2014-2-18-the-death-of-the-michael-mann-la-look.md` — 188w
+- 2014-02-17 — [Marriage is now all-or-nothing](https://www.eugenewei.com/blog/2014/2/17/marriage-is-now-all-or-nothing) — `2014-02-17-blog-2014-2-17-marriage-is-now-all-or-nothing.md` — 405w
+- 2014-02-17 — [America risks becoming a Downton Abbey economy](https://www.eugenewei.com/blog/2014/2/17/america-risks-becoming-a-downton-abbey-economy) — `2014-02-17-blog-2014-2-17-america-risks-becoming-a-downton-abbey-economy.md` — 1488w
+- 2014-02-16 — [King Richard III's Genome to be Sequenced](https://www.eugenewei.com/blog/2014/2/16/king-richard-iiis-genome-to-be-sequenced) — `2014-02-16-blog-2014-2-16-king-richard-iiis-genome-to-be-sequenced.md` — 124w
+- 2014-02-11 — [The failure of software development methodologies](https://www.eugenewei.com/blog/2014/2/11/the-failure-of-software-development-methodologies) — `2014-02-11-blog-2014-2-11-the-failure-of-software-development-methodologies.md` — 366w
+- 2014-02-11 — [The Super Bowl, the outsider's description](https://www.eugenewei.com/blog/2014/2/10/the-super-bowl-the-outsiders-description) — `2014-02-11-blog-2014-2-10-the-super-bowl-the-outsiders-description.md` — 172w
+- 2014-02-11 — [Optimal configuration for innovation](https://www.eugenewei.com/blog/2014/1/12/optimal-structures-for-innovation) — `2014-02-11-blog-2014-1-12-optimal-structures-for-innovation.md` — 1469w
+- 2014-02-11 — [Hackers](https://www.eugenewei.com/blog/2014/2/8/hacking-away-at-it-all) — `2014-02-11-blog-2014-2-8-hacking-away-at-it-all.md` — 886w
+- 2014-02-10 — [The sofalarity](https://www.eugenewei.com/blog/2014/2/10/the-sofalarity) — `2014-02-10-blog-2014-2-10-the-sofalarity.md` — 502w
+- 2014-02-09 — [Where physical and digital spaces meet](https://www.eugenewei.com/blog/2014/2/8/9odknpg2ydup8f8gmfsy8kxpx5pi1l) — `2014-02-09-blog-2014-2-8-9odknpg2ydup8f8gmfsy8kxpx5pi1l.md` — 1198w
+- 2014-02-07 — [Did the free market make us irrational?](https://www.eugenewei.com/blog/2014/2/7/did-the-free-market-make-us-irrational) — `2014-02-07-blog-2014-2-7-did-the-free-market-make-us-irrational.md` — 293w
+- 2014-02-05 — [Snow Day](https://www.eugenewei.com/blog/2014/2/5/snow-day) — `2014-02-05-blog-2014-2-5-snow-day.md` — 273w
+- 2014-02-05 — [Gamifying savings](https://www.eugenewei.com/blog/2014/2/5/gamifying-savings) — `2014-02-05-blog-2014-2-5-gamifying-savings.md` — 291w
+- 2014-01-31 — [5 best punctuation marks in literature](https://www.eugenewei.com/blog/2014/1/31/5-best-punctuation-marks-in-literature) — `2014-01-31-blog-2014-1-31-5-best-punctuation-marks-in-literature.md` — 316w
+- 2014-01-30 — [People no longer have to buy computers that overserve](https://www.eugenewei.com/blog/2014/1/30/people-no-longer-have-to-buy-computers-that-overserve) — `2014-01-30-blog-2014-1-30-people-no-longer-have-to-buy-computers-that-overserve.md` — 525w
+- 2014-01-30 — [California's silly food handling law](https://www.eugenewei.com/blog/2014/1/30/californias-silly-food-handling-law) — `2014-01-30-blog-2014-1-30-californias-silly-food-handling-law.md` — 179w
+- 2014-01-13 — [The genius of Greg Maddux](https://www.eugenewei.com/blog/2014/1/13/the-genius-of-greg-maddux) — `2014-01-13-blog-2014-1-13-the-genius-of-greg-maddux.md` — 730w
+- 2014-01-13 — [I Want Sandy](https://www.eugenewei.com/blog/2014/1/7/i-want-sandy) — `2014-01-13-blog-2014-1-7-i-want-sandy.md` — 750w
+- 2014-01-12 — [Will Federer adapt?](https://www.eugenewei.com/blog/2014/1/12/will-federer-adapt) — `2014-01-12-blog-2014-1-12-will-federer-adapt.md` — 776w
+- 2014-01-12 — [A more affordable, convenient way to measure V02 Max?](https://www.eugenewei.com/blog/2014/1/12/a-more-affordable-path-to-measure-v02max) — `2014-01-12-blog-2014-1-12-a-more-affordable-path-to-measure-v02max.md` — 454w
+- 2014-01-10 — [More lessons in human-computer team-ups](https://www.eugenewei.com/blog/2014/1/7/more-lessons-in-human-computer-team-ups) — `2014-01-10-blog-2014-1-7-more-lessons-in-human-computer-team-ups.md` — 549w
+- 2014-01-09 — [Gompertz law of mortality](https://www.eugenewei.com/blog/2014/1/9/gompertz-law-of-mortality) — `2014-01-09-blog-2014-1-9-gompertz-law-of-mortality.md` — 159w
+- 2014-01-06 — [Why Do Intellectuals Favor Government Solutions?](https://www.eugenewei.com/blog/2014/1/6/why-do-intellectuals-favor-government-solutions) — `2014-01-06-blog-2014-1-6-why-do-intellectuals-favor-government-solutions.md` — 565w
+- 2014-01-05 — [What is American food?](https://www.eugenewei.com/blog/2014/1/5/what-is-american-food) — `2014-01-05-blog-2014-1-5-what-is-american-food.md` — 699w
+- 2014-01-05 — [Tracking shot over a sea of desks](https://www.eugenewei.com/blog/2014/1/5/tracking-shot-over-a-sea-of-desks) — `2014-01-05-blog-2014-1-5-tracking-shot-over-a-sea-of-desks.md` — 245w
+- 2014-01-04 — [Force fed women](https://www.eugenewei.com/blog/2014/1/1/force-fed-women) — `2014-01-04-blog-2014-1-1-force-fed-women.md` — 176w
+- 2014-01-04 — [Early adopters of illegitimate professions](https://www.eugenewei.com/blog/2014/1/3/forced-early-adoption-of-illegitimate-professions) — `2014-01-04-blog-2014-1-3-forced-early-adoption-of-illegitimate-professions.md` — 458w
+- 2014-01-03 — [Impact of landscape on time horizon of your thinking](https://www.eugenewei.com/blog/2014/1/3/impact-of-landscape-on-time-horizon-of-your-thinking) — `2014-01-03-blog-2014-1-3-impact-of-landscape-on-time-horizon-of-your-thinking.md` — 259w
+- 2014-01-02 — [Sartorial non-conformity](https://www.eugenewei.com/blog/2014/1/2/sartorial-non-conformity) — `2014-01-02-blog-2014-1-2-sartorial-non-conformity.md` — 454w
+- 2014-01-01 — [Nico Muhly on Beyoncé](https://www.eugenewei.com/blog/2014/1/1/nico-muhly-on-beyonc) — `2014-01-01-blog-2014-1-1-nico-muhly-on-beyonc.md` — 478w
+- 2013-12-31 — [Stanford Football — beating the odds](https://www.eugenewei.com/blog/2013/12/25/stanford-football-beating-the-odds) — `2013-12-31-blog-2013-12-25-stanford-football-beating-the-odds.md` — 1166w
+- 2013-12-30 — [Ugh](https://www.eugenewei.com/blog/2013/12/30/ugh) — `2013-12-30-blog-2013-12-30-ugh.md` — 200w
+- 2013-12-30 — [All together now](https://www.eugenewei.com/blog/2013/12/30/all-together-now) — `2013-12-30-blog-2013-12-30-all-together-now.md` — 285w
+- 2013-12-27 — [Plant intelligence and the Turing Test](https://www.eugenewei.com/blog/2013/12/23/what-is-intelligence) — `2013-12-27-blog-2013-12-23-what-is-intelligence.md` — 1915w
+- 2013-12-26 — [Dyadic friendships](https://www.eugenewei.com/blog/2013/12/26/dyadic-friendships) — `2013-12-26-blog-2013-12-26-dyadic-friendships.md` — 424w
+- 2013-12-25 — [The economics of Christmas](https://www.eugenewei.com/blog/2013/12/25/the-economics-of-christmas) — `2013-12-25-blog-2013-12-25-the-economics-of-christmas.md` — 516w
+- 2013-12-24 — [David Walsh](https://www.eugenewei.com/blog/2013/12/24/david-walsh) — `2013-12-24-blog-2013-12-24-david-walsh.md` — 550w
+- 2013-12-24 — [A holiday tech support masterpiece](https://www.eugenewei.com/blog/2013/12/24/a-holiday-tech-support-masterpiece) — `2013-12-24-blog-2013-12-24-a-holiday-tech-support-masterpiece.md` — 329w
+- 2013-12-23 — [Is giving cash really the optimal gift?](https://www.eugenewei.com/blog/2013/12/23/is-giving-cash-really-the-optimal-gift) — `2013-12-23-blog-2013-12-23-is-giving-cash-really-the-optimal-gift.md` — 240w
+- 2013-12-23 — [Actually, Love Actually...](https://www.eugenewei.com/blog/2013/12/22/actually-love-actually) — `2013-12-23-blog-2013-12-22-actually-love-actually.md` — 836w
+- 2013-12-22 — [John Jeremiah Sullivan on David Foster Wallace](https://www.eugenewei.com/blog/2013/12/21/john-jeremiah-sullivan-on-david-foster-wallace) — `2013-12-22-blog-2013-12-21-john-jeremiah-sullivan-on-david-foster-wallace.md` — 1209w
+- 2013-12-21 — [Comedic variant of the Turing test?](https://www.eugenewei.com/blog/2013/12/21/comedic-variant-of-the-turing-test) — `2013-12-21-blog-2013-12-21-comedic-variant-of-the-turing-test.md` — 520w
+- 2013-12-20 — [If The New Yorker were set in Paris](https://www.eugenewei.com/blog/2013/12/20/if-the-new-yorker-were-set-in-paris) — `2013-12-20-blog-2013-12-20-if-the-new-yorker-were-set-in-paris.md` — 240w
+- 2013-12-20 — [Does the U.S. economy need bubbles?](https://www.eugenewei.com/blog/2013/12/20/does-the-us-economy-need-bubbles) — `2013-12-20-blog-2013-12-20-does-the-us-economy-need-bubbles.md` — 1530w
+- 2013-12-19 — [The no punt offense](https://www.eugenewei.com/blog/2013/12/18/the-no-punt-offense) — `2013-12-19-blog-2013-12-18-the-no-punt-offense.md` — 876w
+- 2013-12-19 — [Still some Moneyball out there](https://www.eugenewei.com/blog/2013/12/19/still-some-moneyball-out-there) — `2013-12-19-blog-2013-12-19-still-some-moneyball-out-there.md` — 486w
+- 2013-12-19 — [Someone is lying about their number](https://www.eugenewei.com/blog/2013/12/19/someone-is-lying-about-their-number) — `2013-12-19-blog-2013-12-19-someone-is-lying-about-their-number.md` — 328w
+- 2013-12-19 — [FOMO](https://www.eugenewei.com/blog/2013/12/19/fomo) — `2013-12-19-blog-2013-12-19-fomo.md` — 376w
+- 2013-12-18 — [Curing sinusitis](https://www.eugenewei.com/blog/2013/12/18/curing-sinusitis) — `2013-12-18-blog-2013-12-18-curing-sinusitis.md` — 479w
+- 2013-12-17 — [Liberals versus conservatives? Nope](https://www.eugenewei.com/blog/2013/12/9/liberals-versus-conservatives-nope) — `2013-12-17-blog-2013-12-9-liberals-versus-conservatives-nope.md` — 420w
+- 2013-12-16 — [The role of government in innovation](https://www.eugenewei.com/blog/2013/12/14/the-role-of-government-in-innovation) — `2013-12-16-blog-2013-12-14-the-role-of-government-in-innovation.md` — 431w
+- 2013-12-15 — [Instagram Direct and the crowded messaging space](https://www.eugenewei.com/blog/2013/12/15/instagram-direct) — `2013-12-15-blog-2013-12-15-instagram-direct.md` — 668w
+- 2013-12-15 — [Hierarchy of innovation](https://www.eugenewei.com/blog/2013/12/13/hierarchy-of-innovation) — `2013-12-15-blog-2013-12-13-hierarchy-of-innovation.md` — 294w
+- 2013-12-14 — [New knee ligament](https://www.eugenewei.com/blog/2013/12/14/new-knee-ligament) — `2013-12-14-blog-2013-12-14-new-knee-ligament.md` — 230w
+- 2013-12-14 — [Big data and price discrimination](https://www.eugenewei.com/blog/2013/10/12/price-discrimination) — `2013-12-14-blog-2013-10-12-price-discrimination.md` — 1576w
+- 2013-12-13 — [Burden of Knowledge](https://www.eugenewei.com/blog/2013/12/13/burden-of-knowledge) — `2013-12-13-blog-2013-12-13-burden-of-knowledge.md` — 263w
+- 2013-12-12 — [The impact of robots on the household corporation](https://www.eugenewei.com/blog/2013/12/10/the-home-as-corporation) — `2013-12-12-blog-2013-12-10-the-home-as-corporation.md` — 693w
+- 2013-12-11 — [Hayao Miyazaki vs the Disney princesses](https://www.eugenewei.com/blog/2013/12/1/hayao-miyazaki-vs-the-disney-princesses) — `2013-12-11-blog-2013-12-1-hayao-miyazaki-vs-the-disney-princesses.md` — 1138w
+- 2013-12-10 — [Why we love lists](https://www.eugenewei.com/blog/2013/12/12/why-we-love-lists) — `2013-12-10-blog-2013-12-12-why-we-love-lists.md` — 798w
+- 2013-12-09 — [How stereotypes persist](https://www.eugenewei.com/blog/2013/12/9/how-stereotypes-persist) — `2013-12-09-blog-2013-12-9-how-stereotypes-persist.md` — 190w
+- 2013-12-09 — [Guy Walks Into a Bar](https://www.eugenewei.com/blog/2013/12/9/guy-walks-into-a-bar) — `2013-12-09-blog-2013-12-9-guy-walks-into-a-bar.md` — 201w
+- 2013-12-08 — [The addictive power of first-person shooters](https://www.eugenewei.com/blog/2013/12/8/the-addictive-power-of-first-person-shooters) — `2013-12-08-blog-2013-12-8-the-addictive-power-of-first-person-shooters.md` — 820w
+- 2013-12-08 — [Cards Against Humanity: Giffen good?](https://www.eugenewei.com/blog/2013/12/8/cards-against-humanity-giffen-good) — `2013-12-08-blog-2013-12-8-cards-against-humanity-giffen-good.md` — 427w
+- 2013-12-07 — [What is Cicada 3301?](https://www.eugenewei.com/blog/2013/12/7/what-is-cicada-3301) — `2013-12-07-blog-2013-12-7-what-is-cicada-3301.md` — 290w
+- 2013-12-07 — [Adventures in teaching self-driving cars](https://www.eugenewei.com/blog/2013/12/7/adventures-in-teaching-self-driving-cars) — `2013-12-07-blog-2013-12-7-adventures-in-teaching-self-driving-cars.md` — 533w
+- 2013-12-06 — [The cost of commuting](https://www.eugenewei.com/blog/2013/12/2/the-cost-of-commuting) — `2013-12-06-blog-2013-12-2-the-cost-of-commuting.md` — 799w
+- 2013-12-06 — [The Information's pricing model](https://www.eugenewei.com/blog/2013/12/6/the-informations-pricing-model) — `2013-12-06-blog-2013-12-6-the-informations-pricing-model.md` — 855w
+- 2013-12-05 — [Turning attendance/attention into money](https://www.eugenewei.com/blog/2013/12/1/turning-attendanceattention-into-money) — `2013-12-05-blog-2013-12-1-turning-attendanceattention-into-money.md` — 1254w
+- 2013-12-04 — [Ideal length for various pieces of art](https://www.eugenewei.com/blog/2013/12/4/ideal-length-for-various-pieces-of-art) — `2013-12-04-blog-2013-12-4-ideal-length-for-various-pieces-of-art.md` — 605w
+- 2013-12-03 — [An economic lens on art](https://www.eugenewei.com/blog/2013/12/3/an-economic-lens-on-art) — `2013-12-03-blog-2013-12-3-an-economic-lens-on-art.md` — 368w
+- 2013-12-02 — [Cyclone 4006](https://www.eugenewei.com/blog/2013/12/2/cyclone-4006) — `2013-12-02-blog-2013-12-2-cyclone-4006.md` — 261w
+- 2013-12-01 — [Tyler Cowen's arguments against 23andMe](https://www.eugenewei.com/blog/2013/12/1/tyler-cowens-arguments-against-23andme) — `2013-12-01-blog-2013-12-1-tyler-cowens-arguments-against-23andme.md` — 347w
+- 2013-12-01 — [TellSpec, the handheld spectrometer](https://www.eugenewei.com/blog/2013/12/1/tellspec-the-handheld-spectrometer) — `2013-12-01-blog-2013-12-1-tellspec-the-handheld-spectrometer.md` — 281w
+- 2013-12-01 — [Ciclotte](https://www.eugenewei.com/blog/2013/12/1/ciclotte) — `2013-12-01-blog-2013-12-1-ciclotte.md` — 123w
+- 2013-12-01 — [Amazon Prime Air](https://www.eugenewei.com/blog/2013/12/1/amazon-prime-air) — `2013-12-01-blog-2013-12-1-amazon-prime-air.md` — 131w
+- 2013-12-01 — [31 Days of December](https://www.eugenewei.com/blog/2013/12/1/31-days-of-december) — `2013-12-01-blog-2013-12-1-31-days-of-december.md` — 209w
+- 2013-11-30 — [Searzall](https://www.eugenewei.com/blog/2013/11/30/searzall) — `2013-11-30-blog-2013-11-30-searzall.md` — 196w
+- 2013-11-30 — [Million dollar arm from a billion person pool](https://www.eugenewei.com/blog/2013/11/30/million-dollar-arm-from-a-billion-person-pool) — `2013-11-30-blog-2013-11-30-million-dollar-arm-from-a-billion-person-pool.md` — 175w
+- 2013-11-29 — [Giving this Black Friday](https://www.eugenewei.com/blog/2013/11/29/giving-this-black-friday) — `2013-11-29-blog-2013-11-29-giving-this-black-friday.md` — 938w
+- 2013-11-29 — [Aging is dessication](https://www.eugenewei.com/blog/2013/11/29/aging-is-dessication) — `2013-11-29-blog-2013-11-29-aging-is-dessication.md` — 160w
+- 2013-11-27 — [Eminent orphans](https://www.eugenewei.com/blog/2013/11/27/eminent-orphans) — `2013-11-27-blog-2013-11-27-eminent-orphans.md` — 429w
+- 2013-11-23 — [Show Me Love](https://www.eugenewei.com/blog/2013/11/18/show-me-love) — `2013-11-23-blog-2013-11-18-show-me-love.md` — 666w
+- 2013-11-23 — [How to improve your selfies](https://www.eugenewei.com/blog/2013/11/23/how-to-improve-your-selfies) — `2013-11-23-blog-2013-11-23-how-to-improve-your-selfies.md` — 136w
+- 2013-11-17 — [True run and gun](https://www.eugenewei.com/blog/2013/11/17/true-run-and-gun) — `2013-11-17-blog-2013-11-17-true-run-and-gun.md` — 303w
+- 2013-11-15 — [The underpopulation bomb](https://www.eugenewei.com/blog/2013/11/14/the-underpopulation-bomb) — `2013-11-15-blog-2013-11-14-the-underpopulation-bomb.md` — 423w
+- 2013-11-15 — [Foodism, the new cultural signifier](https://www.eugenewei.com/blog/2013/10/30/foodism-the-new-cultural-signifier) — `2013-11-15-blog-2013-10-30-foodism-the-new-cultural-signifier.md` — 1016w
+- 2013-11-10 — [Attention scarcity](https://www.eugenewei.com/blog/2013/11/10/attention-scarcity) — `2013-11-10-blog-2013-11-10-attention-scarcity.md` — 296w
+- 2013-11-09 — [The TV to get (before it's gone)](https://www.eugenewei.com/blog/2013/11/7/the-tv-to-get) — `2013-11-09-blog-2013-11-7-the-tv-to-get.md` — 416w
+- 2013-11-07 — [The ultimate World Chess Championship viewing setup](https://www.eugenewei.com/blog/2013/11/7/the-ultimate-world-chess-championship-viewing-setup) — `2013-11-07-blog-2013-11-7-the-ultimate-world-chess-championship-viewing-setup.md` — 324w
+- 2013-11-07 — [The high cost of housing](https://www.eugenewei.com/blog/2013/11/7/the-high-cost-of-housing) — `2013-11-07-blog-2013-11-7-the-high-cost-of-housing.md` — 846w
+- 2013-11-07 — [Subconscious competence](https://www.eugenewei.com/blog/2013/11/7/subconscious-competence) — `2013-11-07-blog-2013-11-7-subconscious-competence.md` — 450w
+- 2013-11-05 — [Taking stock](https://www.eugenewei.com/blog/2013/10/27/dont-play-the-stock-market) — `2013-11-05-blog-2013-10-27-dont-play-the-stock-market.md` — 569w
+- 2013-11-05 — [A mental heavyweight championship bout](https://www.eugenewei.com/blog/2013/11/3/mqx6d543t1bslso8deqjsl827xrmrh) — `2013-11-05-blog-2013-11-3-mqx6d543t1bslso8deqjsl827xrmrh.md` — 377w
+- 2013-10-28 — [Art created by and for computers](https://www.eugenewei.com/blog/2013/10/28/xlt4273k7dt0qq586gcz858fby8eqv) — `2013-10-28-blog-2013-10-28-xlt4273k7dt0qq586gcz858fby8eqv.md` — 712w
+- 2013-10-26 — [Economics of interstellar trade](https://www.eugenewei.com/blog/2013/10/26/economics-of-interstellar-trade) — `2013-10-26-blog-2013-10-26-economics-of-interstellar-trade.md` — 250w
+- 2013-10-26 — [Amazon and the "profitless business model" fallacy](https://www.eugenewei.com/blog/2013/10/25/amazon-and-the-profitless-business-model-narrative) — `2013-10-26-blog-2013-10-25-amazon-and-the-profitless-business-model-narrative.md` — 2658w
+- 2013-10-25 — [The case for hate speech](https://www.eugenewei.com/blog/2013/10/25/in-support-of-hate-speech) — `2013-10-25-blog-2013-10-25-in-support-of-hate-speech.md` — 306w
+- 2013-10-25 — [Restaurant quality: a supply side problem](https://www.eugenewei.com/blog/2013/9/28/restaurant-quality-a-supply-side-problem) — `2013-10-25-blog-2013-9-28-restaurant-quality-a-supply-side-problem.md` — 391w
+- 2013-10-25 — [Magic is storytelling](https://www.eugenewei.com/blog/2013/10/25/magic-is-storytelling) — `2013-10-25-blog-2013-10-25-magic-is-storytelling.md` — 594w
+- 2013-10-23 — [Who do you want taking the last shot?](https://www.eugenewei.com/blog/2013/10/23/who-do-you-want-taking-the-last-shot) — `2013-10-23-blog-2013-10-23-who-do-you-want-taking-the-last-shot.md` — 231w
+- 2013-10-15 — [The statistical curve of nostalgia](https://www.eugenewei.com/blog/2013/10/15/the-statistical-curve-of-nostalgia) — `2013-10-15-blog-2013-10-15-the-statistical-curve-of-nostalgia.md` — 191w
+- 2013-10-14 — [Nate Silver and Sam Wang on impact of shutdown](https://www.eugenewei.com/blog/2013/10/14/nate-silver-and-sam-wang-on-impact-of-shutdown) — `2013-10-14-blog-2013-10-14-nate-silver-and-sam-wang-on-impact-of-shutdown.md` — 462w
+- 2013-10-11 — [The economics of pick-up artists](https://www.eugenewei.com/blog/2013/10/10/the-economics-of-pick-up-artists) — `2013-10-11-blog-2013-10-10-the-economics-of-pick-up-artists.md` — 184w
+- 2013-10-10 — [ShotScores](https://www.eugenewei.com/blog/2013/10/10/shotscores) — `2013-10-10-blog-2013-10-10-shotscores.md` — 263w
+- 2013-10-08 — [The death of voicemail](https://www.eugenewei.com/blog/2013/10/7/the-death-of-voicemail) — `2013-10-08-blog-2013-10-7-the-death-of-voicemail.md` — 181w
+- 2013-10-08 — [Spain's historical schedule](https://www.eugenewei.com/blog/2013/10/7/spains-historical-schedule) — `2013-10-08-blog-2013-10-7-spains-historical-schedule.md` — 295w
+- 2013-10-03 — [Key different between men's and women's tennis](https://www.eugenewei.com/blog/2013/10/3/key-different-between-mens-and-womens-tennis) — `2013-10-03-blog-2013-10-3-key-different-between-mens-and-womens-tennis.md` — 309w
+- 2013-10-03 — [Damon Lindelof tries to write his Felina](https://www.eugenewei.com/blog/2013/10/3/damon-lindelof-tries-to-write-his-felina) — `2013-10-03-blog-2013-10-3-damon-lindelof-tries-to-write-his-felina.md` — 316w
+- 2013-10-01 — [Say my name](https://www.eugenewei.com/blog/2013/10/1/say-my-name) — `2013-10-01-blog-2013-10-1-say-my-name.md` — 259w
+- 2013-09-29 — [Why some words sound fat or skinny](https://www.eugenewei.com/blog/2013/9/29/why-some-words-sound-fat-or-skinny) — `2013-09-29-blog-2013-9-29-why-some-words-sound-fat-or-skinny.md` — 182w
+- 2013-09-29 — [How to watch Star Wars](https://www.eugenewei.com/blog/2013/9/29/how-to-watch-star-wars) — `2013-09-29-blog-2013-9-29-how-to-watch-star-wars.md` — 186w
+- 2013-09-28 — [Visual signaling](https://www.eugenewei.com/blog/2013/9/28/visual-signaling) — `2013-09-28-blog-2013-9-28-visual-signaling.md` — 315w
+- 2013-09-28 — [Freudian sext, err, slip](https://www.eugenewei.com/blog/2013/9/28/freudian-sext-err-slip) — `2013-09-28-blog-2013-9-28-freudian-sext-err-slip.md` — 233w
+- 2013-09-27 — [Need a blueprint for The Blueprint](https://www.eugenewei.com/blog/2013/9/27/need-a-blueprint-for-the-blueprint) — `2013-09-27-blog-2013-9-27-need-a-blueprint-for-the-blueprint.md` — 122w
+- 2013-09-27 — [Breaking Up and to the Right](https://www.eugenewei.com/blog/2013/9/27/breaking-up-and-to-the-right) — `2013-09-27-blog-2013-9-27-breaking-up-and-to-the-right.md` — 238w
+- 2013-09-27 — [Apple strategy and disruption](https://www.eugenewei.com/blog/2013/9/27/apple-strategy-and-disruption) — `2013-09-27-blog-2013-9-27-apple-strategy-and-disruption.md` — 1218w
+- 2013-09-27 — [A cinema of uncertainty](https://www.eugenewei.com/blog/2013/9/27/a-cinema-of-uncertainty) — `2013-09-27-blog-2013-9-27-a-cinema-of-uncertainty.md` — 515w
+- 2013-09-20 — [The sound of iOS 7](https://www.eugenewei.com/blog/2013/9/19/the-sound-of-ios-7) — `2013-09-20-blog-2013-9-19-the-sound-of-ios-7.md` — 304w
+- 2013-09-19 — [Identifying a viral seed group](https://www.eugenewei.com/blog/2013/9/19/identifying-a-viral-seed-group) — `2013-09-19-blog-2013-9-19-identifying-a-viral-seed-group.md` — 281w
+- 2013-09-13 — [Dark horse National League MVP](https://www.eugenewei.com/blog/2013/9/3/dark-horse-national-league-mvp) — `2013-09-13-blog-2013-9-3-dark-horse-national-league-mvp.md` — 220w
+- 2013-09-02 — [Why we sign our emails "Thank you"](https://www.eugenewei.com/blog/2013/9/2/why-we-sign-our-emails-thank-you) — `2013-09-02-blog-2013-9-2-why-we-sign-our-emails-thank-you.md` — 364w
+- 2013-09-02 — [Unintended consequences](https://www.eugenewei.com/blog/2013/9/2/unintended-consequences) — `2013-09-02-blog-2013-9-2-unintended-consequences.md` — 300w
+- 2013-09-02 — [Is violence really down in the U.S.?](https://www.eugenewei.com/blog/2013/9/2/is-violence-really-down-in-the-us) — `2013-09-02-blog-2013-9-2-is-violence-really-down-in-the-us.md` — 554w
+- 2013-09-02 — [Entertainment as export](https://www.eugenewei.com/blog/2013/9/2/surprising-market-for-k-pop) — `2013-09-02-blog-2013-9-2-surprising-market-for-k-pop.md` — 252w
+- 2013-09-01 — [Explaining Twerking to Your Parents](https://www.eugenewei.com/blog/2013/9/1/explaining-twerking-to-your-parents) — `2013-09-01-blog-2013-9-1-explaining-twerking-to-your-parents.md` — 128w
+- 2013-08-24 — [The ethics of Candy Crush Saga](https://www.eugenewei.com/blog/2013/8/24/the-ethics-of-candy-crush-saga) — `2013-08-24-blog-2013-8-24-the-ethics-of-candy-crush-saga.md` — 747w
+- 2013-08-24 — [Big Bang of body types](https://www.eugenewei.com/blog/2013/8/24/big-bang-of-body-types) — `2013-08-24-blog-2013-8-24-big-bang-of-body-types.md` — 809w
+- 2013-08-23 — [The pitcher who conquered MLB's best hitters](https://www.eugenewei.com/blog/2013/8/23/the-pitchers-who-conquered-mlbs-best-hitters) — `2013-08-23-blog-2013-8-23-the-pitchers-who-conquered-mlbs-best-hitters.md` — 1054w
+- 2013-08-22 — [Asiana Flight 214](https://www.eugenewei.com/blog/2013/8/22/asiana-flight-214) — `2013-08-22-blog-2013-8-22-asiana-flight-214.md` — 1106w
+- 2013-08-19 — [Your lobster roll is overpriced](https://www.eugenewei.com/blog/2013/8/19/your-lobster-roll-is-overpriced) — `2013-08-19-blog-2013-8-19-your-lobster-roll-is-overpriced.md` — 363w
+- 2013-08-19 — [Racial diversity in American cities](https://www.eugenewei.com/blog/2013/8/17/racial-diversity-in-cities) — `2013-08-19-blog-2013-8-17-racial-diversity-in-cities.md` — 358w
+- 2013-08-19 — [Plagiarism in the age of the internet](https://www.eugenewei.com/blog/2013/8/19/plagiarism-in-the-age-of-the-internet) — `2013-08-19-blog-2013-8-19-plagiarism-in-the-age-of-the-internet.md` — 171w
+- 2013-08-17 — [Value of college education](https://www.eugenewei.com/blog/2013/6/7/value-of-college-education) — `2013-08-17-blog-2013-6-7-value-of-college-education.md` — 700w
+- 2013-08-17 — [Texting while driving](https://www.eugenewei.com/blog/2013/8/17/texting-while-driving) — `2013-08-17-blog-2013-8-17-texting-while-driving.md` — 317w
+- 2013-08-08 — [The dying art of movie choreography](https://www.eugenewei.com/blog/2013/8/6/the-dying-art-of-movie-choreography) — `2013-08-08-blog-2013-8-6-the-dying-art-of-movie-choreography.md` — 783w
+- 2013-08-04 — [That Chanel handbag means "hands off my man"](https://www.eugenewei.com/blog/2013/8/4/that-chanel-handbag-means-hands-off-my-man) — `2013-08-04-blog-2013-8-4-that-chanel-handbag-means-hands-off-my-man.md` — 242w
+- 2013-08-04 — [12 greatest living narrative filmmakers](https://www.eugenewei.com/blog/2013/8/4/12-greatest-living-narrative-filmmakers) — `2013-08-04-blog-2013-8-4-12-greatest-living-narrative-filmmakers.md` — 209w
+- 2013-08-03 — [Thinking in Numbers](https://www.eugenewei.com/blog/2013/8/3/thinking-in-numbers) — `2013-08-03-blog-2013-8-3-thinking-in-numbers.md` — 418w
+- 2013-08-03 — [The chemical composition of socioeconomic stratification](https://www.eugenewei.com/blog/2013/8/3/the-chemical-composition-of-socioeconomic-stratification) — `2013-08-03-blog-2013-8-3-the-chemical-composition-of-socioeconomic-stratification.md` — 135w
+- 2013-08-03 — [Polyphasic Sleep](https://www.eugenewei.com/blog/2013/8/3/polyphasic-sleep) — `2013-08-03-blog-2013-8-3-polyphasic-sleep.md` — 280w
+- 2013-08-03 — [First generation HUD's](https://www.eugenewei.com/blog/2013/7/23/first-generation-huds) — `2013-08-03-blog-2013-7-23-first-generation-huds.md` — 274w
+- 2013-08-03 — [China, movies, censorship, and The Act of Killing](https://www.eugenewei.com/blog/2013/7/19/china-movies-censorship-and-the-act-of-killing) — `2013-08-03-blog-2013-7-19-china-movies-censorship-and-the-act-of-killing.md` — 754w
+- 2013-07-21 — [Why do we care what happens after we die?](https://www.eugenewei.com/blog/2013/7/21/why-do-we-care-what-happens-after-we-die) — `2013-07-21-blog-2013-7-21-why-do-we-care-what-happens-after-we-die.md` — 569w
+- 2013-07-21 — [Why do traffic circles work some places and not others?](https://www.eugenewei.com/blog/2013/7/21/why-do-traffic-circles-work-some-places-and-not-others) — `2013-07-21-blog-2013-7-21-why-do-traffic-circles-work-some-places-and-not-others.md` — 388w
+- 2013-07-21 — [Make behavioral costs clearer](https://www.eugenewei.com/blog/2013/7/21/make-behavioral-costs-clearer) — `2013-07-21-blog-2013-7-21-make-behavioral-costs-clearer.md` — 223w
+- 2013-07-20 — [Notable pieces on Trayvon Martin](https://www.eugenewei.com/blog/2013/7/18/coates-on-trayvon-martin) — `2013-07-20-blog-2013-7-18-coates-on-trayvon-martin.md` — 1016w
+- 2013-07-20 — [How the NYTimes writes about men and women](https://www.eugenewei.com/blog/2013/7/20/how-the-nytimes-writes-about-men-and-women) — `2013-07-20-blog-2013-7-20-how-the-nytimes-writes-about-men-and-women.md` — 165w
+- 2013-07-20 — [Glass half full?](https://www.eugenewei.com/blog/2013/7/20/glass-half-full) — `2013-07-20-blog-2013-7-20-glass-half-full.md` — 270w
+- 2013-07-20 — [Economics of Tiger Parenting](https://www.eugenewei.com/blog/2013/7/20/economics-of-tiger-parenting) — `2013-07-20-blog-2013-7-20-economics-of-tiger-parenting.md` — 498w
+- 2013-07-19 — [Emotional expression in 20th century books](https://www.eugenewei.com/blog/2013/7/19/emotional-expression-in-20th-century-books) — `2013-07-19-blog-2013-7-19-emotional-expression-in-20th-century-books.md` — 327w
+- 2013-07-19 — [Digital editing and photojournalism](https://www.eugenewei.com/blog/2013/7/19/digital-editing-and-photojournalism) — `2013-07-19-blog-2013-7-19-digital-editing-and-photojournalism.md` — 491w
+- 2013-07-18 — [The science of hoarding](https://www.eugenewei.com/blog/2013/6/27/the-science-of-hoarding) — `2013-07-18-blog-2013-6-27-the-science-of-hoarding.md` — 383w
+- 2013-07-18 — [How deep the rabbit hole goes](https://www.eugenewei.com/blog/2013/6/27/how-deep-the-rabbit-hole-goes) — `2013-07-18-blog-2013-6-27-how-deep-the-rabbit-hole-goes.md` — 420w
+- 2013-07-18 — [Face facts](https://www.eugenewei.com/blog/2013/7/18/face-facts) — `2013-07-18-blog-2013-7-18-face-facts.md` — 738w
+- 2013-07-16 — [Back from France](https://www.eugenewei.com/blog/2013/7/16/back-from-france) — `2013-07-16-blog-2013-7-16-back-from-france.md` — 281w
+- 2013-07-04 — [What matters](https://www.eugenewei.com/blog/2013/7/4/what-matters) — `2013-07-04-blog-2013-7-4-what-matters.md` — 360w
+- 2013-07-04 — [Nits](https://www.eugenewei.com/blog/2013/7/4/nits) — `2013-07-04-blog-2013-7-4-nits.md` — 156w
+- 2013-07-04 — [From whence he came](https://www.eugenewei.com/blog/2013/6/27/from-whence-he-came) — `2013-07-04-blog-2013-6-27-from-whence-he-came.md` — 137w
+- 2013-07-04 — [Dangerous game](https://www.eugenewei.com/blog/2013/7/4/dangerous-game) — `2013-07-04-blog-2013-7-4-dangerous-game.md` — 163w
+- 2013-07-04 — [Critics Round Up](https://www.eugenewei.com/blog/2013/7/4/critics-round-up) — `2013-07-04-blog-2013-7-4-critics-round-up.md` — 290w
+- 2013-06-21 — [Tesla battery swap](https://www.eugenewei.com/blog/2013/6/21/tesla-battery-swap) — `2013-06-21-blog-2013-6-21-tesla-battery-swap.md` — 233w
+- 2013-06-05 — [China: the Jeff Bezos of Industrial Production?](https://www.eugenewei.com/blog/2013/6/5/china-the-jeff-bezos-of-industrial-production) — `2013-06-05-blog-2013-6-5-china-the-jeff-bezos-of-industrial-production.md` — 236w
+- 2013-06-04 — [Sony without electronics?](https://www.eugenewei.com/blog/2013/6/4/sony-without-electronics) — `2013-06-04-blog-2013-6-4-sony-without-electronics.md` — 311w
+- 2013-06-04 — [Earning to give](https://www.eugenewei.com/blog/2013/6/4/earning-to-give) — `2013-06-04-blog-2013-6-4-earning-to-give.md` — 376w
+- 2013-06-02 — [Speed of employer learning](https://www.eugenewei.com/blog/2013/6/2/speed-of-employer-learning) — `2013-06-02-blog-2013-6-2-speed-of-employer-learning.md` — 630w
+- 2013-06-02 — [Fundamental attribution error and tech mercenaries](https://www.eugenewei.com/blog/2013/4/12/fundamental-attribution-error-for-companies) — `2013-06-02-blog-2013-4-12-fundamental-attribution-error-for-companies.md` — 904w
+- 2013-06-02 — [Factor-Price Equalization](https://www.eugenewei.com/blog/2013/6/2/factor-price-equalization) — `2013-06-02-blog-2013-6-2-factor-price-equalization.md` — 401w
+- 2013-05-28 — [Lobbying: a great (the greatest?) investment](https://www.eugenewei.com/blog/2013/5/28/lobbying-a-great-the-greatest-investment) — `2013-05-28-blog-2013-5-28-lobbying-a-great-the-greatest-investment.md` — 384w
+- 2013-05-27 — [The law and self-driving cars](https://www.eugenewei.com/blog/2013/5/27/the-law-and-self-driving-cars) — `2013-05-27-blog-2013-5-27-the-law-and-self-driving-cars.md` — 403w
+- 2013-05-27 — [The Uncertainty of Risk](https://www.eugenewei.com/blog/2013/5/25/the-uncertainty-of-risk) — `2013-05-27-blog-2013-5-25-the-uncertainty-of-risk.md` — 550w
+- 2013-05-27 — [Peer effects and social policy](https://www.eugenewei.com/blog/2013/5/27/peer-effects-and-social-policy) — `2013-05-27-blog-2013-5-27-peer-effects-and-social-policy.md` — 135w
+- 2013-05-27 — [A barbell option strategy for your craft](https://www.eugenewei.com/blog/2013/5/27/a-barbell-option-strategy-for-your-craft) — `2013-05-27-blog-2013-5-27-a-barbell-option-strategy-for-your-craft.md` — 539w
+- 2013-05-21 — [Morality without religion](https://www.eugenewei.com/blog/2013/5/21/morality-without-religion) — `2013-05-21-blog-2013-5-21-morality-without-religion.md` — 166w
+- 2013-05-17 — [The great stagnation of parenting](https://www.eugenewei.com/blog/2013/5/17/the-great-stagnation-of-parenting) — `2013-05-17-blog-2013-5-17-the-great-stagnation-of-parenting.md` — 209w
+- 2013-05-17 — [The Americans](https://www.eugenewei.com/blog/2013/5/5/the-americans) — `2013-05-17-blog-2013-5-5-the-americans.md` — 537w
+- 2013-05-17 — [Kobe vs MJ](https://www.eugenewei.com/blog/2013/5/17/kobe-vs-mj) — `2013-05-17-blog-2013-5-17-kobe-vs-mj.md` — 346w
+- 2013-05-09 — [Don't call me surely](https://www.eugenewei.com/blog/2013/5/9/dont-call-me-surely) — `2013-05-09-blog-2013-5-9-dont-call-me-surely.md` — 181w
+- 2013-05-06 — [Jonathan Rauch's Denial](https://www.eugenewei.com/blog/2013/5/6/jonathan-rauchs-denial) — `2013-05-06-blog-2013-5-6-jonathan-rauchs-denial.md` — 270w
+- 2013-04-29 — [The dangers of sustained unemployment](https://www.eugenewei.com/blog/2013/4/29/the-dangers-of-sustained-unemployment) — `2013-04-29-blog-2013-4-29-the-dangers-of-sustained-unemployment.md` — 401w
+- 2013-04-29 — [Clever Uses for Reverse Image Search](https://www.eugenewei.com/blog/2013/4/29/clever-uses-for-reverse-image-search) — `2013-04-29-blog-2013-4-29-clever-uses-for-reverse-image-search.md` — 460w
+- 2013-04-28 — [Going undercover on social networks](https://www.eugenewei.com/blog/2013/4/28/going-undercover-on-social-networks) — `2013-04-28-blog-2013-4-28-going-undercover-on-social-networks.md` — 231w
+- 2013-04-25 — [The personality of suicide bombers](https://www.eugenewei.com/blog/2013/4/25/the-personality-of-suicide-bombers) — `2013-04-25-blog-2013-4-25-the-personality-of-suicide-bombers.md` — 291w
+- 2013-04-25 — [Ritual](https://www.eugenewei.com/blog/2013/4/25/ritual) — `2013-04-25-blog-2013-4-25-ritual.md` — 602w
+- 2013-04-25 — [Playing games on yourself](https://www.eugenewei.com/blog/2013/4/25/playing-games-on-yourself) — `2013-04-25-blog-2013-4-25-playing-games-on-yourself.md` — 167w
+- 2013-04-21 — [The psychological poverty trap](https://www.eugenewei.com/blog/2013/4/21/the-psychological-poverty-trap) — `2013-04-21-blog-2013-4-21-the-psychological-poverty-trap.md` — 364w
+- 2013-04-21 — [The price game](https://www.eugenewei.com/blog/2013/4/21/the-price-game) — `2013-04-21-blog-2013-4-21-the-price-game.md` — 533w
+- 2013-04-21 — [Ethical nudging](https://www.eugenewei.com/blog/2013/4/21/ethical-nudging) — `2013-04-21-blog-2013-4-21-ethical-nudging.md` — 220w
+- 2013-04-18 — [The Oligopoly Problem](https://www.eugenewei.com/blog/2013/4/18/the-oligopoly-problem) — `2013-04-18-blog-2013-4-18-the-oligopoly-problem.md` — 133w
+- 2013-04-18 — [Ken Brennan, PI](https://www.eugenewei.com/blog/2013/4/18/ken-brennan-pi) — `2013-04-18-blog-2013-4-18-ken-brennan-pi.md` — 320w
+- 2013-04-17 — [Some interests more special than others](https://www.eugenewei.com/blog/2013/4/17/some-interests-more-special-than-others) — `2013-04-17-blog-2013-4-17-some-interests-more-special-than-others.md` — 420w
+- 2013-04-16 — [Return-free tax filing](https://www.eugenewei.com/blog/2013/4/16/return-free-tax-filing) — `2013-04-16-blog-2013-4-16-return-free-tax-filing.md` — 392w
+- 2013-04-12 — [The invisible bike helmet](https://www.eugenewei.com/blog/2013/4/12/the-invisible-bike-helmet) — `2013-04-12-blog-2013-4-12-the-invisible-bike-helmet.md` — 280w
+- 2013-04-12 — [A complex turnaround job](https://www.eugenewei.com/blog/2013/4/12/a-complex-turnaround-job) — `2013-04-12-blog-2013-4-12-a-complex-turnaround-job.md` — 253w
+- 2013-04-10 — [The latest NBA strategic battle](https://www.eugenewei.com/blog/2013/4/10/the-latest-nba-strategic-battle) — `2013-04-10-blog-2013-4-10-the-latest-nba-strategic-battle.md` — 483w
+- 2013-04-10 — [Summer nostalgia](https://www.eugenewei.com/blog/2013/4/10/summer-nostalgia) — `2013-04-10-blog-2013-4-10-summer-nostalgia.md` — 255w
+- 2013-04-07 — [Why does red meat contribute to heart disease?](https://www.eugenewei.com/blog/2013/4/7/why-does-red-meat-contribute-to-heart-disease) — `2013-04-07-blog-2013-4-7-why-does-red-meat-contribute-to-heart-disease.md` — 174w
+- 2013-04-07 — [Efficient Charity Donation](https://www.eugenewei.com/blog/2013/4/7/efficient-charity-donation) — `2013-04-07-blog-2013-4-7-efficient-charity-donation.md` — 646w
+- 2013-04-06 — [Entitlements](https://www.eugenewei.com/blog/2013/4/6/entitlements) — `2013-04-06-blog-2013-4-6-entitlements.md` — 206w
+- 2013-04-04 — [Speed Limits are for Money](https://www.eugenewei.com/blog/2013/3/27/speed-limits-are-for-money) — `2013-04-04-blog-2013-3-27-speed-limits-are-for-money.md` — 209w
+- 2013-03-31 — [One billion dollars](https://www.eugenewei.com/blog/2013/3/31/one-billion-dollars) — `2013-03-31-blog-2013-3-31-one-billion-dollars.md` — 311w
+- 2013-03-31 — [Burying the lede](https://www.eugenewei.com/blog/2013/3/31/burying-the-lede) — `2013-03-31-blog-2013-3-31-burying-the-lede.md` — 300w
+- 2013-03-31 — [A reading of Chan-Wook Park's Stoker](https://www.eugenewei.com/blog/2013/3/31/a-reading-of-chan-wook-parks-stoker) — `2013-03-31-blog-2013-3-31-a-reading-of-chan-wook-parks-stoker.md` — 2750w
+- 2013-03-30 — [Trailer Tropes](https://www.eugenewei.com/blog/2013/3/30/trailer-tropes) — `2013-03-30-blog-2013-3-30-trailer-tropes.md` — 372w
+- 2013-03-30 — [Coin-flip booking](https://www.eugenewei.com/blog/2013/3/30/coin-flip-booking) — `2013-03-30-blog-2013-3-30-coin-flip-booking.md` — 199w
+- 2013-03-24 — [Purell](https://www.eugenewei.com/blog/2013/3/24/purell) — `2013-03-24-blog-2013-3-24-purell.md` — 396w
+- 2013-03-22 — [TV's greatest comedy](https://www.eugenewei.com/blog/2013/3/21/tvs-greatest-comedy) — `2013-03-22-blog-2013-3-21-tvs-greatest-comedy.md` — 534w
+- 2013-03-22 — [Basketball's analytical revolution](https://www.eugenewei.com/blog/2013/3/21/basketballs-analytical-revolution) — `2013-03-22-blog-2013-3-21-basketballs-analytical-revolution.md` — 286w
+- 2013-03-18 — [Movie as dance](https://www.eugenewei.com/blog/2013/3/18/movie-as-dance-1) — `2013-03-18-blog-2013-3-18-movie-as-dance-1.md` — 1150w
+- 2013-03-17 — [Things I like](https://www.eugenewei.com/blog/2013/3/17/a-few-things-i-like) — `2013-03-17-blog-2013-3-17-a-few-things-i-like.md` — 676w
+- 2013-03-11 — [The value of the internet, quantified](https://www.eugenewei.com/blog/2013/3/11/the-value-of-the-internet-quantified) — `2013-03-11-blog-2013-3-11-the-value-of-the-internet-quantified.md` — 238w
+- 2013-03-11 — [The simulator](https://www.eugenewei.com/blog/2013/3/11/the-simulator) — `2013-03-11-blog-2013-3-11-the-simulator.md` — 330w
+- 2013-03-10 — [Purple Pricing](https://www.eugenewei.com/blog/2013/3/10/purple-pricing) — `2013-03-10-blog-2013-3-10-purple-pricing.md` — 342w
+- 2013-03-09 — [Seeing at the Speed of Sound](https://www.eugenewei.com/blog/2013/3/9/seeing-at-the-speed-of-sound) — `2013-03-09-blog-2013-3-9-seeing-at-the-speed-of-sound.md` — 443w
+- 2013-03-03 — [The singularity already happened](https://www.eugenewei.com/blog/2013/3/3/the-singularity-already-happened) — `2013-03-03-blog-2013-3-3-the-singularity-already-happened.md` — 265w
+- 2013-03-03 — [The World's Top NBA Gambler](https://www.eugenewei.com/blog/2013/3/3/4v0k7l3sz5puqyydjxzmstsiipbznw) — `2013-03-03-blog-2013-3-3-4v0k7l3sz5puqyydjxzmstsiipbznw.md` — 579w
+- 2013-02-23 — [A dangerous market feedback loop](https://www.eugenewei.com/blog/2013/2/23/a-dangerous-market-feedback-loop) — `2013-02-23-blog-2013-2-23-a-dangerous-market-feedback-loop.md` — 863w
+- 2013-02-21 — [An ode to online writing](https://www.eugenewei.com/blog/2013/2/21/r6eqyawznoqikew03fd61xc3kn098u) — `2013-02-21-blog-2013-2-21-r6eqyawznoqikew03fd61xc3kn098u.md` — 313w
+- 2013-02-19 — [Preserving information entropy](https://www.eugenewei.com/blog/2013/2/19/preserving-information-entropy) — `2013-02-19-blog-2013-2-19-preserving-information-entropy.md` — 1053w
+- 2013-02-17 — [The high cost of cheap parking](https://www.eugenewei.com/blog/2013/2/17/the-high-cost-of-cheap-parking) — `2013-02-17-blog-2013-2-17-the-high-cost-of-cheap-parking.md` — 424w
+- 2013-02-17 — [Soderbergh interviews Rooney Mara](https://www.eugenewei.com/blog/2013/2/17/soderbergh-interviews-rooney-mara) — `2013-02-17-blog-2013-2-17-soderbergh-interviews-rooney-mara.md` — 122w
+- 2013-02-17 — [NBA players in short sleeves?](https://www.eugenewei.com/blog/2013/2/16/nba-players-in-short-sleeves) — `2013-02-17-blog-2013-2-16-nba-players-in-short-sleeves.md` — 217w
+- 2013-02-16 — [I'm enthusiastic, but not overly excited](https://www.eugenewei.com/blog/2013/2/16/im-enthusiastic-but-not-overly-excited) — `2013-02-16-blog-2013-2-16-im-enthusiastic-but-not-overly-excited.md` — 403w
+- 2013-02-11 — [Day One: my new day job](https://www.eugenewei.com/blog/2013/2/11/day-one-my-new-day-job) — `2013-02-11-blog-2013-2-11-day-one-my-new-day-job.md` — 620w
+- 2013-02-10 — [Quantifying human movement](https://www.eugenewei.com/blog/2013/2/10/quantifying-human-movement) — `2013-02-10-blog-2013-2-10-quantifying-human-movement.md` — 835w
+- 2013-02-09 — [Misc](https://www.eugenewei.com/blog/2013/2/9/misc) — `2013-02-09-blog-2013-2-9-misc.md` — 478w
+- 2013-02-08 — [Form following function](https://www.eugenewei.com/blog/2013/2/8/typekit) — `2013-02-08-blog-2013-2-8-typekit.md` — 1039w
+- 2013-02-08 — [Django Unchained](https://www.eugenewei.com/blog/2013/1/7/review-django-unchained) — `2013-02-08-blog-2013-1-7-review-django-unchained.md` — 2335w
+- 2013-02-08 — [A few Bulls links](https://www.eugenewei.com/blog/2013/2/5/a-few-links-on-the-bulls) — `2013-02-08-blog-2013-2-5-a-few-links-on-the-bulls.md` — 788w
+- 2013-02-07 — [Soundtrack to our lives](https://www.eugenewei.com/blog/2013/2/7/soundtrack-to-our-lives) — `2013-02-07-blog-2013-2-7-soundtrack-to-our-lives.md` — 536w
+- 2013-02-06 — [Hit by a bus](https://www.eugenewei.com/blog/2013/2/6/hit-by-a-bus) — `2013-02-06-blog-2013-2-6-hit-by-a-bus.md` — 339w
+- 2013-02-06 — [Bey](https://www.eugenewei.com/blog/2013/2/5/the-de-bey-te) — `2013-02-06-blog-2013-2-5-the-de-bey-te.md` — 1296w
+- 2013-02-05 — [The first rule of J-pop club](https://www.eugenewei.com/blog/2013/2/5/the-first-rule-of-j-pop-club) — `2013-02-05-blog-2013-2-5-the-first-rule-of-j-pop-club.md` — 439w
+- 2013-02-05 — [Some serious pivots](https://www.eugenewei.com/blog/2013/2/5/some-serious-pivots) — `2013-02-05-blog-2013-2-5-some-serious-pivots.md` — 194w
+- 2013-01-31 — [You are not alone](https://www.eugenewei.com/blog/2013/1/31/manifest-activity) — `2013-01-31-blog-2013-1-31-manifest-activity.md` — 337w
+- 2013-01-31 — [Vertical integration versus modularity](https://www.eugenewei.com/blog/2013/1/31/vertical-integration-versus-modularity) — `2013-01-31-blog-2013-1-31-vertical-integration-versus-modularity.md` — 538w
+- 2013-01-31 — [The best at what they do](https://www.eugenewei.com/blog/2013/1/31/the-best-at-what-they-do) — `2013-01-31-blog-2013-1-31-the-best-at-what-they-do.md` — 388w
+- 2013-01-31 — [Sell Out](https://www.eugenewei.com/blog/2013/1/31/sell-out) — `2013-01-31-blog-2013-1-31-sell-out.md` — 244w
+- 2013-01-31 — [For Your Consideration](https://www.eugenewei.com/blog/2013/1/31/for-your-consideration) — `2013-01-31-blog-2013-1-31-for-your-consideration.md` — 162w
+- 2013-01-31 — [Batman: Death by Design](https://www.eugenewei.com/blog/2013/1/31/batman-death-by-design) — `2013-01-31-blog-2013-1-31-batman-death-by-design.md` — 181w
+- 2013-01-29 — [It's good to be (one of several) kings](https://www.eugenewei.com/blog/2013/1/28/its-good-to-be-one-of-several-kings) — `2013-01-29-blog-2013-1-28-its-good-to-be-one-of-several-kings.md` — 978w
+- 2013-01-27 — [](https://www.eugenewei.com/blog/2013/1/27/69xonatjxbmki941ra5c069eicodjt) — `2013-01-27-blog-2013-1-27-69xonatjxbmki941ra5c069eicodjt.md` — 508w
+- 2013-01-27 — [What?!](https://www.eugenewei.com/blog/2013/1/27/what) — `2013-01-27-blog-2013-1-27-what.md` — 149w
+- 2013-01-27 — [Federer and the paradox of skill](https://www.eugenewei.com/blog/2013/1/27/federer-and-the-paradox-of-luck) — `2013-01-27-blog-2013-1-27-federer-and-the-paradox-of-luck.md` — 1118w
+- 2013-01-27 — [DNA for data storage](https://www.eugenewei.com/blog/2013/1/27/dna-for-data-storage) — `2013-01-27-blog-2013-1-27-dna-for-data-storage.md` — 280w
+- 2013-01-24 — [The Walking Dead](https://www.eugenewei.com/blog/2012/11/5/the-walking-dead) — `2013-01-24-blog-2012-11-5-the-walking-dead.md` — 994w
+- 2013-01-24 — [Self help posits dual selves](https://www.eugenewei.com/blog/2013/1/24/self-help-posits-dual-selves) — `2013-01-24-blog-2013-1-24-self-help-posits-dual-selves.md` — 564w
+- 2013-01-24 — [Audience as affordance: Twitter versus Facebook](https://www.eugenewei.com/blog/2013/1/11/the-medium-shapes-the-message-twitter-versus-facebook) — `2013-01-24-blog-2013-1-11-the-medium-shapes-the-message-twitter-versus-facebook.md` — 2332w
+- 2013-01-09 — [The most interesting company in tech: Valve](https://www.eugenewei.com/blog/2013/1/9/the-most-interesting-company-in-tech-valve) — `2013-01-09-blog-2013-1-9-the-most-interesting-company-in-tech-valve.md` — 1687w
+- 2013-01-09 — [No Hall of Fame for you](https://www.eugenewei.com/blog/2013/1/9/no-hall-of-fame-for-you) — `2013-01-09-blog-2013-1-9-no-hall-of-fame-for-you.md` — 467w
+- 2013-01-08 — [Why so few knuckleballers?](https://www.eugenewei.com/blog/2013/1/8/why-so-few-knuckleballers) — `2013-01-08-blog-2013-1-8-why-so-few-knuckleballers.md` — 653w
+- 2013-01-07 — [Legal monopolies](https://www.eugenewei.com/blog/2013/1/7/legal-monopolies) — `2013-01-07-blog-2013-1-7-legal-monopolies.md` — 259w
+- 2013-01-07 — [Attacking the Miami Heat trap](https://www.eugenewei.com/blog/2013/1/7/attacking-the-miami-heat-trap) — `2013-01-07-blog-2013-1-7-attacking-the-miami-heat-trap.md` — 659w
+- 2013-01-06 — [Marriage and commitment being disrupted](https://www.eugenewei.com/blog/2013/1/6/marriage-and-commitment-being-disrupted) — `2013-01-06-blog-2013-1-6-marriage-and-commitment-being-disrupted.md` — 659w
+- 2013-01-06 — [American Express and low-end Asian restaurants](https://www.eugenewei.com/blog/2013/1/6/american-express-and-low-end-asian-restaurants) — `2013-01-06-blog-2013-1-6-american-express-and-low-end-asian-restaurants.md` — 434w
+- 2013-01-05 — [Hollywood's cultural responsibility](https://www.eugenewei.com/blog/2013/1/5/the-liberal-rout-in-hollywood) — `2013-01-05-blog-2013-1-5-the-liberal-rout-in-hollywood.md` — 1020w
+- 2013-01-04 — [Misc](https://www.eugenewei.com/blog/2013/1/4/misc) — `2013-01-04-blog-2013-1-4-misc.md` — 581w
+- 2013-01-04 — [George Saunders Has Written the Best Book You’ll Read This Year](https://www.eugenewei.com/blog/2013/1/4/george-saunders-has-written-the-best-book-youll-read-this-year) — `2013-01-04-blog-2013-1-4-george-saunders-has-written-the-best-book-youll-read-this-year.md` — 311w
+- 2013-01-03 — [The perfect language](https://www.eugenewei.com/blog/2013/1/3/the-perfect-language) — `2013-01-03-blog-2013-1-3-the-perfect-language.md` — 848w
+- 2013-01-02 — [Stuck in the middle (with Jetblue)?](https://www.eugenewei.com/blog/2012/11/1/caught-in-the-middle) — `2013-01-02-blog-2012-11-1-caught-in-the-middle.md` — 2811w
+- 2013-01-02 — [Economic returns from the internet](https://www.eugenewei.com/blog/2013/1/2/economic-returns-from-the-internet) — `2013-01-02-blog-2013-1-2-economic-returns-from-the-internet.md` — 581w
+- 2013-01-02 — [Baby steps towards self-driving cars](https://www.eugenewei.com/blog/2013/1/2/baby-steps-towards-self-driving-cars) — `2013-01-02-blog-2013-1-2-baby-steps-towards-self-driving-cars.md` — 205w
+- 2012-12-23 — [Interview with Tyler Cowen](https://www.eugenewei.com/blog/2012/12/23/interview-with-tyler-cowen) — `2012-12-23-blog-2012-12-23-interview-with-tyler-cowen.md` — 202w
+- 2012-12-21 — [Participation rate and user backlash](https://www.eugenewei.com/blog/2012/12/21/participation-rate-and-user-backlash) — `2012-12-21-blog-2012-12-21-participation-rate-and-user-backlash.md` — 716w
+- 2012-12-21 — [A surprising corporate giant](https://www.eugenewei.com/blog/2012/12/21/a-surprising-corporate-giant) — `2012-12-21-blog-2012-12-21-a-surprising-corporate-giant.md` — 665w
+- 2012-12-20 — [Programmed aging](https://www.eugenewei.com/blog/2012/12/20/programmed-aging) — `2012-12-20-blog-2012-12-20-programmed-aging.md` — 236w
+- 2012-12-20 — [Narrative volume imperative](https://www.eugenewei.com/blog/2012/12/20/narrative-volume-imperative) — `2012-12-20-blog-2012-12-20-narrative-volume-imperative.md` — 234w
+- 2012-12-20 — [3D and deep focus](https://www.eugenewei.com/blog/2012/12/20/3d-and-deep-focus) — `2012-12-20-blog-2012-12-20-3d-and-deep-focus.md` — 577w
+- 2012-12-14 — [Politicizing gun control](https://www.eugenewei.com/blog/2012/12/14/politicizing-gun-control) — `2012-12-14-blog-2012-12-14-politicizing-gun-control.md` — 819w
+- 2012-12-13 — [Why the Lakers are playing so poorly](https://www.eugenewei.com/blog/2012/12/13/why-the-lakers-are-playing-so-poorly) — `2012-12-13-blog-2012-12-13-why-the-lakers-are-playing-so-poorly.md` — 209w
+- 2012-12-13 — [The Oath](https://www.eugenewei.com/blog/2012/12/13/the-oath) — `2012-12-13-blog-2012-12-13-the-oath.md` — 240w
+- 2012-12-13 — [Amazon, Apple, and the beauty of low margins](https://www.eugenewei.com/blog/2012/11/28/amazon-and-margins) — `2012-12-13-blog-2012-11-28-amazon-and-margins.md` — 2807w
+- 2012-12-12 — [Miscellaneous](https://www.eugenewei.com/blog/2012/12/12/miscellaneous) — `2012-12-12-blog-2012-12-12-miscellaneous.md` — 211w
+- 2012-12-12 — [Compensation market inefficiency - sports vs. tech](https://www.eugenewei.com/blog/2012/11/28/compensation-market-efficiency-sports-vs-tech) — `2012-12-12-blog-2012-11-28-compensation-market-efficiency-sports-vs-tech.md` — 1172w
+- 2012-12-06 — [Your site has a self-describing cadence](https://www.eugenewei.com/blog/2012/11/28/your-site-has-a-self-describing-cadence) — `2012-12-06-blog-2012-11-28-your-site-has-a-self-describing-cadence.md` — 1365w
+- 2012-12-05 — [The entertainment promise of sports](https://www.eugenewei.com/blog/2012/12/5/the-entertainment-promise-of-sports) — `2012-12-05-blog-2012-12-5-the-entertainment-promise-of-sports.md` — 654w
+- 2012-12-03 — [Preview, do, recap](https://www.eugenewei.com/blog/2012/12/3/preview-do-recap) — `2012-12-03-blog-2012-12-3-preview-do-recap.md` — 443w
+- 2012-12-03 — [Miscellaneous](https://www.eugenewei.com/blog/2012/12/3/miscellaneous) — `2012-12-03-blog-2012-12-3-miscellaneous.md` — 334w
+- 2012-12-02 — [Modernizing found footage](https://www.eugenewei.com/blog/2012/12/2/modernizing-found-footage) — `2012-12-02-blog-2012-12-2-modernizing-found-footage.md` — 313w
+- 2012-12-02 — [How to Live Safely in a Science Fiction Universe](https://www.eugenewei.com/blog/2012/12/2/how-to-live-safely-in-a-science-fiction-universe) — `2012-12-02-blog-2012-12-2-how-to-live-safely-in-a-science-fiction-universe.md` — 210w
+- 2012-11-29 — [One of my longstanding usage questions answered](https://www.eugenewei.com/blog/2012/11/29/one-of-my-longstanding-usage-questions-answered) — `2012-11-29-blog-2012-11-29-one-of-my-longstanding-usage-questions-answered.md` — 507w
+- 2012-11-29 — [James Bond's most advanced gadget: his suit](https://www.eugenewei.com/blog/2012/11/28/james-bonds-most-advanced-gadget-his-suit) — `2012-11-29-blog-2012-11-28-james-bonds-most-advanced-gadget-his-suit.md` — 364w
+- 2012-11-28 — [Using coolness to age breakthrough technology](https://www.eugenewei.com/blog/2012/11/28/using-coolness-to-age-breakthrough-technology) — `2012-11-28-blog-2012-11-28-using-coolness-to-age-breakthrough-technology.md` — 121w
+- 2012-11-28 — [The Lance Armstrong affair post-mortem part 1](https://www.eugenewei.com/blog/2012/11/28/the-lance-armstrong-affair-post-mortem-part-1) — `2012-11-28-blog-2012-11-28-the-lance-armstrong-affair-post-mortem-part-1.md` — 1113w
+- 2012-11-28 — [The 5¢ Coke pricing mystery](https://www.eugenewei.com/blog/2012/11/28/the-5-coke-pricing-mystery) — `2012-11-28-blog-2012-11-28-the-5-coke-pricing-mystery.md` — 171w
+- 2012-11-27 — [Pre-mortems, over-optimism as normal, and luck versus fortune](https://www.eugenewei.com/blog/2012/11/27/pre-mortems) — `2012-11-27-blog-2012-11-27-pre-mortems.md` — 793w
+- 2012-11-27 — [Follow-up on the persistence of poverty](https://www.eugenewei.com/blog/2012/11/27/follow-up-on-the-persistence-of-poverty) — `2012-11-27-blog-2012-11-27-follow-up-on-the-persistence-of-poverty.md` — 621w
+- 2012-11-26 — [Optimal NBA team strategy](https://www.eugenewei.com/blog/2012/11/26/optimal-nba-team-strategy) — `2012-11-26-blog-2012-11-26-optimal-nba-team-strategy.md` — 796w
+- 2012-11-26 — [Friends don't let friends watch TV with motion smoothing](https://www.eugenewei.com/blog/2012/11/26/friends-dont-let-friends-watch-tv-with-motion-smoothing) — `2012-11-26-blog-2012-11-26-friends-dont-let-friends-watch-tv-with-motion-smoothing.md` — 148w
+- 2012-11-26 — [Football's narrative edge](https://www.eugenewei.com/blog/2012/11/26/footballs-dramatic-edge) — `2012-11-26-blog-2012-11-26-footballs-dramatic-edge.md` — 1822w
+- 2012-11-22 — [The persistence of poverty](https://www.eugenewei.com/blog/2012/11/22/the-persistence-of-poverty) — `2012-11-22-blog-2012-11-22-the-persistence-of-poverty.md` — 696w
+- 2012-11-20 — [The 130 million pixel camera](https://www.eugenewei.com/blog/2012/11/20/the-130-million-pixel-camera) — `2012-11-20-blog-2012-11-20-the-130-million-pixel-camera.md` — 514w
+- 2012-11-20 — [Acquerello carnaroli rice](https://www.eugenewei.com/blog/2012/11/20/acquerello-carnaroli-rice) — `2012-11-20-blog-2012-11-20-acquerello-carnaroli-rice.md` — 130w
+- 2012-11-19 — [Regressive taxes](https://www.eugenewei.com/blog/2012/11/18/regressive-taxes) — `2012-11-19-blog-2012-11-18-regressive-taxes.md` — 615w
+- 2012-11-19 — [Jakob Nielsen: Windows 8 Usability Disappointing](https://www.eugenewei.com/blog/2012/11/19/jakob-nielsen-windows-8-usability-disappointing) — `2012-11-19-blog-2012-11-19-jakob-nielsen-windows-8-usability-disappointing.md` — 301w
+- 2012-11-19 — [Baumol's Cost Disease](https://www.eugenewei.com/blog/2012/11/15/baumols-cost-disease) — `2012-11-19-blog-2012-11-15-baumols-cost-disease.md` — 867w
+- 2012-11-15 — [Chip Kelly's spread offense](https://www.eugenewei.com/blog/2012/11/15/chip-kellys-spread-offense) — `2012-11-15-blog-2012-11-15-chip-kellys-spread-offense.md` — 486w

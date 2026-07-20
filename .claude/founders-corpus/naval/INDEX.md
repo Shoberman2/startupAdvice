@@ -1,6 +1,6 @@
 # Naval Ravikant corpus index
 
-Source: https://nav.al — fetched 2026-07-19
+Source: https://nav.al — fetched 2026-07-20
 201 posts, 292088 words. Format: date — [title](canonical url) — `file` — words.
 
 - 2026-06-01 — [The AI Industrial Revolution](https://nav.al/industrial) — `2026-06-01-industrial.md` — 10758w

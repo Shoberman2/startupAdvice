@@ -1,6 +1,6 @@
 # Tobi Lutke corpus index
 
-Source: https://tobi.lutke.com — fetched 2026-07-19
+Source: https://tobi.lutke.com — fetched 2026-07-20
 9 posts, 7908 words. Format: date — [title](canonical url) — `file` — words.
 
 - undated — [Tobi L&uuml;tke](https://tobi.lutke.com/blogs/news/we-need-to-talk-about-carbon) — `undated-blogs-news-we-need-to-talk-about-carbon.md` — 1435w

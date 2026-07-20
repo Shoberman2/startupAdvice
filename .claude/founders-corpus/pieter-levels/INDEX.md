@@ -1,51 +1,355 @@
 # Pieter Levels corpus index
 
-Source: https://levels.io — fetched 2026-07-19
-46 posts, 13225 words. Format: date — [title](canonical url) — `file` — words.
+Source: https://levels.io — fetched 2026-07-20
+350 posts, 308241 words. Format: date — [title](canonical url) — `file` — words.
 
+- undated — [solipsisticNATION Podcast: Drum & Bass interview with Panda — @levelsio (Pieter Levels)](https://levels.io/solipsistic-nation-panda-interview) — `undated-solipsistic-nation-panda-interview.md` — 146w
+- undated — [levels.vc - my investment fund — @levelsio (Pieter Levels)](https://levels.io/vc) — `undated-vc.md` — 171w
+- undated — [fly.pieter.com, my first vibecoded flight simulator which reached $1M ARR in 17 days — @levelsio (Pieter Levels)](https://levels.io/fly-pieter-com-vibecoded-flight-simulator) — `undated-fly-pieter-com-vibecoded-flight-simulator.md` — 176w
+- undated — [You're just a piece of a heartless shitty machine that makes money — @levelsio (Pieter Levels)](https://levels.io/the-machine) — `undated-the-machine.md` — 635w
+- undated — [You constantly need to be painting or it looks like total crap — @levelsio (Pieter Levels)](https://levels.io/you-constantly-need-to-be-painting-or-it-looks-like-total-crap) — `undated-you-constantly-need-to-be-painting-or-it-looks-like-total-crap.md` — 161w
+- undated — [With jobs gone, will robot owners pay people's income? — @levelsio (Pieter Levels)](https://levels.io/with-jobs-gone-will-robot-owners-pay-peoples-income) — `undated-with-jobs-gone-will-robot-owners-pay-peoples-income.md` — 410w
 - undated — [Winning my first big Stripe dispute in a decade with a vibe coded responder — @levelsio (Pieter Levels)](https://levels.io/winning-stripe-disputes-with-vibe-coded-responder) — `undated-winning-stripe-disputes-with-vibe-coded-responder.md` — 338w
+- undated — [Winners of the 2025 vibe code game jam — @levelsio (Pieter Levels)](https://levels.io/winners-of-the-2025-vibe-code-game-jam) — `undated-winners-of-the-2025-vibe-code-game-jam.md` — 338w
+- undated — [Why traveling makes you feel lost — @levelsio (Pieter Levels)](https://levels.io/traveling-makes-feel-lost) — `undated-traveling-makes-feel-lost.md` — 249w
+- undated — [Why overnight success is a myth — @levelsio (Pieter Levels)](https://levels.io/why-overnight-success-is-a-myth) — `undated-why-overnight-success-is-a-myth.md` — 187w
+- undated — [Why national postal services are so bad at delivering packages and Amazon is so good — @levelsio (Pieter Levels)](https://levels.io/why-national-postal-services-bad-amazon-delivery) — `undated-why-national-postal-services-bad-amazon-delivery.md` — 242w
+- undated — [Why global roaming data solutions don't make any sense — @levelsio (Pieter Levels)](https://levels.io/roaming-is-stupid) — `undated-roaming-is-stupid.md` — 1163w
+- undated — [Why doesn't Twitter just asks its users to pay? — @levelsio (Pieter Levels)](https://levels.io/paid-twitter) — `undated-paid-twitter.md` — 672w
+- undated — [Why does Generation Y feel so lost? And what's the cure? — @levelsio (Pieter Levels)](https://levels.io/generation-y-feels-lost) — `undated-generation-y-feels-lost.md` — 1200w
+- undated — [Why coliving economics still don't make sense — @levelsio (Pieter Levels)](https://levels.io/coliving-economics) — `undated-coliving-economics.md` — 428w
+- undated — [Why buying YouTube views is bad — @levelsio (Pieter Levels)](https://levels.io/buying-youtube-views-is-bad) — `undated-buying-youtube-views-is-bad.md` — 670w
+- undated — [Why attention to detail matters, even if no one notices the details — @levelsio (Pieter Levels)](https://levels.io/detail) — `undated-detail.md` — 402w
 - undated — [Why Portuguese businesses don't want more customers or to grow — @levelsio (Pieter Levels)](https://levels.io/why-portuguese-businesses-dont-want-to-grow) — `undated-why-portuguese-businesses-dont-want-to-grow.md` — 611w
+- undated — [Why Koreans didn't get richer — @levelsio (Pieter Levels)](https://levels.io/why-koreans-didnt-get-richer) — `undated-why-koreans-didnt-get-richer.md` — 183w
+- undated — [Why Korean Jimjilbangs and Japanese Onsens are great — @levelsio (Pieter Levels)](https://levels.io/spa) — `undated-spa.md` — 330w
+- undated — [Why I want to live in Singapore — @levelsio (Pieter Levels)](https://levels.io/why-i-want-to-live-in-singapore) — `undated-why-i-want-to-live-in-singapore.md` — 874w
+- undated — [What we can learn from Stormzy about transparency — @levelsio (Pieter Levels)](https://levels.io/stormzy) — `undated-stormzy.md` — 288w
+- undated — [What happens when you're #1 on Hacker News for a day — @levelsio (Pieter Levels)](https://levels.io/hacker-news-number-one) — `undated-hacker-news-number-one.md` — 1055w
+- undated — [What I would do if I was 18 now — @levelsio (Pieter Levels)](https://levels.io/eighteen) — `undated-eighteen.md` — 2013w
+- undated — [What I learnt from bootstrapping my startup from Thailand in six months — @levelsio (Pieter Levels)](https://levels.io/bootstrapping-startup-thailand) — `undated-bootstrapping-startup-thailand.md` — 2293w
+- undated — [What I learnt from 100 days of shipping — @levelsio (Pieter Levels)](https://levels.io/100-days-of-shipping) — `undated-100-days-of-shipping.md` — 1119w
+- undated — [We live in a world built by dead people — @levelsio (Pieter Levels)](https://levels.io/happiness) — `undated-happiness.md` — 1273w
+- undated — [We have an ideologically broken and personally unfulfilling society — @levelsio (Pieter Levels)](https://levels.io/ideologically-broken-society) — `undated-ideologically-broken-society.md` — 241w
+- undated — [We have an epidemic of bad posture — @levelsio (Pieter Levels)](https://levels.io/rsi) — `undated-rsi.md` — 1163w
+- undated — [We are the orcas at Sea World — @levelsio (Pieter Levels)](https://levels.io/orcas-sea-world) — `undated-orcas-sea-world.md` — 493w
+- undated — [We are the heroes of our own stories — @levelsio (Pieter Levels)](https://levels.io/heroes-of-our-own-stories) — `undated-heroes-of-our-own-stories.md` — 320w
+- undated — [Wayfair used my AI interior design tool to build their own — @levelsio (Pieter Levels)](https://levels.io/wayfair-used-interior-ai-to-build-their-own) — `undated-wayfair-used-interior-ai-to-build-their-own.md` — 169w
+- undated — [Wannabe Entrepreneur Podcast: Bootstrapping, moving to Portugal and setting up Rebase — @levelsio (Pieter Levels)](https://levels.io/wannabe-entrepreneur) — `undated-wannabe-entrepreneur.md` — 14012w
+- undated — [Visiting my API provider FAL in San Francisco — @levelsio (Pieter Levels)](https://levels.io/visiting-fal-api-provider-san-francisco) — `undated-visiting-fal-api-provider-san-francisco.md` — 681w
+- undated — [Visiting OpenAI's office in San Francisco and seeing the city's improvements — @levelsio (Pieter Levels)](https://levels.io/visiting-openai-office-san-francisco-changes) — `undated-visiting-openai-office-san-francisco-changes.md` — 1021w
+- undated — [Visiting Koh Samui, the island of paradise — @levelsio (Pieter Levels)](https://levels.io/visiting-koh-samui-the-island-of-paradise) — `undated-visiting-koh-samui-the-island-of-paradise.md` — 488w
+- undated — [Visiting Brazil's biggest indie hacker meetup — @levelsio (Pieter Levels)](https://levels.io/brazil-biggest-indie-hacker-meetup) — `undated-brazil-biggest-indie-hacker-meetup.md` — 214w
 - undated — [Vibe Jam 2026 winners and how the games are getting close to real production quality — @levelsio (Pieter Levels)](https://levels.io/vibe-jam-2026-winners-quality) — `undated-vibe-jam-2026-winners-quality.md` — 340w
+- undated — [Vaporwave is the only music that fits the feeling futuristic Asian mega cities give me — @levelsio (Pieter Levels)](https://levels.io/vaporwave) — `undated-vaporwave.md` — 863w
+- undated — [Using Uptime Robot to build unit tests for the web — @levelsio (Pieter Levels)](https://levels.io/uptime-robot-unit-testing) — `undated-uptime-robot-unit-testing.md` — 794w
+- undated — [Unless the job itself is your dream, stay the fuck away from salaried jobs — @levelsio (Pieter Levels)](https://levels.io/golden-handcuffs) — `undated-golden-handcuffs.md` — 216w
 - undated — [US hotels give way more value than Europe now with better AC and amenities — @levelsio (Pieter Levels)](https://levels.io/us-hotels-more-value-than-europe) — `undated-us-hotels-more-value-than-europe.md` — 212w
+- undated — [US bans Chinese companies after they become market leaders — @levelsio (Pieter Levels)](https://levels.io/us-bans-chinese-companies-after-success) — `undated-us-bans-chinese-companies-after-success.md` — 137w
+- undated — [Twitter giveaways can be hacked to win every time — @levelsio (Pieter Levels)](https://levels.io/giveaway) — `undated-giveaway.md` — 1839w
+- undated — [Turning side projects into profitable startups — @levelsio (Pieter Levels)](https://levels.io/startups) — `undated-startups.md` — 7466w
+- undated — [Trying self hosting alpaca a finetuned llama model after OpenAI drama — @levelsio (Pieter Levels)](https://levels.io/self-hosting-alpaca-to-understand-chatgpt) — `undated-self-hosting-alpaca-to-understand-chatgpt.md` — 203w
+- undated — [Today is the first day of the rest of your life — @levelsio (Pieter Levels)](https://levels.io/day-at-the-office) — `undated-day-at-the-office.md` — 371w
+- undated — [Tobias van Schneider interviewed me about everything — @levelsio (Pieter Levels)](https://levels.io/tobias-van-schneider) — `undated-tobias-van-schneider.md` — 13599w
+- undated — [This is what happens when FlightFox copies your entire site without attribution — @levelsio (Pieter Levels)](https://levels.io/flightfox-copies-nomad-list) — `undated-flightfox-copies-nomad-list.md` — 735w
+- undated — [This is what "acting professionally" results in — @levelsio (Pieter Levels)](https://levels.io/this-is-what-acting-professionally-results-in) — `undated-this-is-what-acting-professionally-results-in.md` — 190w
+- undated — [This House Does Not Exist — @levelsio (Pieter Levels)](https://levels.io/this-house-does-not-exist) — `undated-this-house-does-not-exist.md` — 812w
+- undated — [Thierry Breton resigns after EU AI Act and DSA criticism — @levelsio (Pieter Levels)](https://levels.io/thierry-breton-resigns-eu-ai-act) — `undated-thierry-breton-resigns-eu-ai-act.md` — 168w
+- undated — [Thierry Breton represents 100+ year old European dinosaur companies as EU tech policy director — @levelsio (Pieter Levels)](https://levels.io/thierry-breton-eu-dinosaur-companies) — `undated-thierry-breton-eu-dinosaur-companies.md` — 125w
+- undated — [There will be 1 billion digital nomads by 2035 — @levelsio (Pieter Levels)](https://levels.io/future-of-digital-nomads) — `undated-future-of-digital-nomads.md` — 2327w
+- undated — [The total chaos that the dawn of the 21st century has become — @levelsio (Pieter Levels)](https://levels.io/chaos) — `undated-chaos.md` — 389w
+- undated — [The things I have to do to read an email sent to me by my government — @levelsio (Pieter Levels)](https://levels.io/gov-y-u-suck) — `undated-gov-y-u-suck.md` — 1441w
+- undated — [The rise and fall of Lisbon (2020](https://levels.io/rise-and-fall-of-lisbon) — `undated-rise-and-fall-of-lisbon.md` — 423w
+- undated — [The only thing young people in Southern Europe can do is drink and smoke — @levelsio (Pieter Levels)](https://levels.io/young-people-southern-europe-drink-smoke) — `undated-young-people-southern-europe-drink-smoke.md` — 133w
+- undated — [The only real validation is people paying for your product — @levelsio (Pieter Levels)](https://levels.io/idea-validation) — `undated-idea-validation.md` — 633w
+- undated — [The odds of getting a remote job are less than 1% (because everyone wants one) — @levelsio (Pieter Levels)](https://levels.io/the-odds-of-getting-a-remote-job) — `undated-the-odds-of-getting-a-remote-job.md` — 526w
+- undated — [The next frontier after remote work is async — @levelsio (Pieter Levels)](https://levels.io/async) — `undated-async.md` — 1017w
+- undated — [The myth of a globalized world — @levelsio (Pieter Levels)](https://levels.io/globalization-is-a-myth) — `undated-globalization-is-a-myth.md` — 397w
+- undated — [The ideal place to start a startup is not necessarily in Silicon Valley — @levelsio (Pieter Levels)](https://levels.io/ideal-place-start-startup-necessarily-silicon-valley) — `undated-ideal-place-start-startup-necessarily-silicon-valley.md` — 144w
+- undated — [The future of remote work: how the greatest human migration in history will happen in the next ten years — @levelsio (Pieter Levels)](https://levels.io/the-greatest-migration) — `undated-the-greatest-migration.md` — 5600w
+- undated — [The free fall that is coming home after traveling the world — @levelsio (Pieter Levels)](https://levels.io/free-fall-coming-home-traveling-world) — `undated-free-fall-coming-home-traveling-world.md` — 453w
+- undated — [The euro kinda destroyed southern Europe's economies — @levelsio (Pieter Levels)](https://levels.io/euro-destroyed-southern-europe-economies) — `undated-euro-destroyed-southern-europe-economies.md` — 278w
+- undated — [The death of the corporate drone — @levelsio (Pieter Levels)](https://levels.io/corporate-drone) — `undated-corporate-drone.md` — 1276w
+- undated — [The achiever in crisis — @levelsio (Pieter Levels)](https://levels.io/achiever-crisis) — `undated-achiever-crisis.md` — 907w
+- undated — [The West's unemployment problem is permanent — @levelsio (Pieter Levels)](https://levels.io/the-wests-unemployment-problem-is-permanent) — `undated-the-wests-unemployment-problem-is-permanent.md` — 948w
+- undated — [The TL;DR MBA — @levelsio (Pieter Levels)](https://levels.io/tldr-mba) — `undated-tldr-mba.md` — 1139w
+- undated — [The Story of my Visa Run to Tachileik in Myanmar — @levelsio (Pieter Levels)](https://levels.io/visa-run-tachileik-myanmar) — `undated-visa-run-tachileik-myanmar.md` — 1925w
+- undated — [The ICANN mafia has taken my site hostage for 2 days now — @levelsio (Pieter Levels)](https://levels.io/icann-mafia) — `undated-icann-mafia.md` — 907w
 - undated — [The Everything Chart — @levelsio (Pieter Levels)](https://levels.io/the-everything-chart) — `undated-the-everything-chart.md` — 437w
+- undated — [The European Commission is the cancer rotting the EU from within — @levelsio (Pieter Levels)](https://levels.io/european-commission-cancer-of-the-eu) — `undated-european-commission-cancer-of-the-eu.md` — 189w
+- undated — [The Brazilian real currency should be on crypto exchanges because it's the biggest shitcoin ever — @levelsio (Pieter Levels)](https://levels.io/brazilian-real-biggest-shitcoin-ever) — `undated-brazilian-real-biggest-shitcoin-ever.md` — 241w
+- undated — [The Bootstrapped Founder Podcast: Indie hacking is dead, now what? — @levelsio (Pieter Levels)](https://levels.io/bootstrapped-founder-indie-hacking-is-dead) — `undated-bootstrapped-founder-indie-hacking-is-dead.md` — 14711w
+- undated — [The 24-Hour Coffee Place in Bangkok: Too Fast To Sleep — @levelsio (Pieter Levels)](https://levels.io/the-24-hour-coffee-place-in-bangkok-too-fast-to-sleep) — `undated-the-24-hour-coffee-place-in-bangkok-too-fast-to-sleep.md` — 616w
+- undated — [The 100 Thing Challenge — @levelsio (Pieter Levels)](https://levels.io/the-100-thing-challenge) — `undated-the-100-thing-challenge.md` — 657w
+- undated — [The 100 Thing Challenge – From 200 to 20 things in 3 months — @levelsio (Pieter Levels)](https://levels.io/the-100-thing-challenge-from-200-to-20-things) — `undated-the-100-thing-challenge-from-200-to-20-things.md` — 642w
 - undated — [Testing my iOS app on web with Claude Code and serve-sim on a headless Mac Mini — @levelsio (Pieter Levels)](https://levels.io/testing-ios-app-claude-code-headless-mac-web) — `undated-testing-ios-app-claude-code-headless-mac-web.md` — 149w
 - undated — [Tech insiders avoid touchscreens and smart homes because they know the downsides — @levelsio (Pieter Levels)](https://levels.io/tech-insiders-avoid-touchscreens-and-smart-homes) — `undated-tech-insiders-avoid-touchscreens-and-smart-homes.md` — 123w
+- undated — [Taipei is boring, and maybe that's not such a bad thing — @levelsio (Pieter Levels)](https://levels.io/taipei) — `undated-taipei.md` — 3859w
+- undated — [Surround yourself with builders not talkers — @levelsio (Pieter Levels)](https://levels.io/surround-yourself-with-builders-not-talkers) — `undated-surround-yourself-with-builders-not-talkers.md` — 196w
+- undated — [Sundar Pichai fumbled Google's AI head start and it'll be studied for decades — @levelsio (Pieter Levels)](https://levels.io/sundar-pichai-fumbled-google-ai-head-start) — `undated-sundar-pichai-fumbled-google-ai-head-start.md` — 146w
+- undated — [Stripe launches beta in the Netherlands — @levelsio (Pieter Levels)](https://levels.io/stripe-launches-beta-in-the-netherlands) — `undated-stripe-launches-beta-in-the-netherlands.md` — 339w
+- undated — [Stripe Podcast: A Cheeky Pint with John Collison — @levelsio (Pieter Levels)](https://levels.io/stripe-cheeky-pint-john-collison) — `undated-stripe-cheeky-pint-john-collison.md` — 4990w
+- undated — [Stop calling night owls lazy, we're not — @levelsio (Pieter Levels)](https://levels.io/night-owls) — `undated-night-owls.md` — 2037w
+- undated — [Stop being everyone's friend — @levelsio (Pieter Levels)](https://levels.io/everyones-friend) — `undated-everyones-friend.md` — 631w
+- undated — [South Asian immigrants in Portugal game welfare for passports and EU access — @levelsio (Pieter Levels)](https://levels.io/south-asian-immigrants-portugal-welfare) — `undated-south-asian-immigrants-portugal-welfare.md` — 371w
+- undated — [So many VC funded exits are actually massive failures — @levelsio (Pieter Levels)](https://levels.io/vc-funded-exits-massive-failures) — `undated-vc-funded-exits-massive-failures.md` — 310w
+- undated — [Sam Altman will give himself 7% of OpenAI worth $10.5B — @levelsio (Pieter Levels)](https://levels.io/sam-altman-openai-10-billion-stake) — `undated-sam-altman-openai-10-billion-stake.md` — 169w
+- undated — [Run through ideas quickly — @levelsio (Pieter Levels)](https://levels.io/run-through-ideas-quickly) — `undated-run-through-ideas-quickly.md` — 318w
+- undated — [Robots make mistakes too: How to log your server with push notifications straight to your phone — @levelsio (Pieter Levels)](https://levels.io/monitor-your-robot) — `undated-monitor-your-robot.md` — 548w
+- undated — [Rinse FM, here's your podcast feed we've always wanted — @levelsio (Pieter Levels)](https://levels.io/rinse-fm-podcast) — `undated-rinse-fm-podcast.md` — 312w
 - undated — [Revolut fixed my banking nightmares after Rabobank froze my card in Bali and made me homeless in the US — @levelsio (Pieter Levels)](https://levels.io/revolut-fixed-banking-problems-rabobank-bali-us) — `undated-revolut-fixed-banking-problems-rabobank-bali-us.md` — 398w
+- undated — [Reset your life — @levelsio (Pieter Levels)](https://levels.io/reset-your-life) — `undated-reset-your-life.md` — 637w
+- undated — [Renting saves you money over buying if you own the house for less than 15 years — @levelsio (Pieter Levels)](https://levels.io/renting-saves-money-over-buying) — `undated-renting-saves-money-over-buying.md` — 159w
+- undated — [Remote working is the future — @levelsio (Pieter Levels)](https://levels.io/remote-working-is-the-future) — `undated-remote-working-is-the-future.md` — 273w
+- undated — [Quake III server now runs in the browser 7 years later — @levelsio (Pieter Levels)](https://levels.io/quake-iii-server-browser) — `undated-quake-iii-server-browser.md` — 238w
+- undated — [Qatar Airways business class gets you special arrival reception at Doha — @levelsio (Pieter Levels)](https://levels.io/qatar-airways-business-class-doha) — `undated-qatar-airways-business-class-doha.md` — 132w
+- undated — [Punk died the moment we learnt that the world WAS in fact getting better, not worse — @levelsio (Pieter Levels)](https://levels.io/punk) — `undated-punk.md` — 1654w
+- undated — [Product Hunt Podcast: 5 years in startups with Abadesi — @levelsio (Pieter Levels)](https://levels.io/product-hunt-radio) — `undated-product-hunt-radio.md` — 7391w
 - undated — [Portugal's EU customs blocks every package from outside making modern products impossible to order — @levelsio (Pieter Levels)](https://levels.io/portugal-eu-customs-blocks-outside-packages) — `undated-portugal-eu-customs-blocks-outside-packages.md` — 307w
+- undated — [Play My Inbox, collect music from your inbox and playlist them — @levelsio (Pieter Levels)](https://levels.io/play-my-inbox) — `undated-play-my-inbox.md` — 474w
+- undated — [Over 2,000 people played their inbox with Play My Inbox — @levelsio (Pieter Levels)](https://levels.io/debriefing-play-my-inbox) — `undated-debriefing-play-my-inbox.md` — 761w
+- undated — [Our society is not in line with our natural reward systems, and alcohol and drug abuse proves it — @levelsio (Pieter Levels)](https://levels.io/reward-systems) — `undated-reward-systems.md` — 548w
+- undated — [OpenClaw's real power user is my girlfriend chatting with it in Telegram — @levelsio (Pieter Levels)](https://levels.io/openclaw-telegram-llm-experience) — `undated-openclaw-telegram-llm-experience.md` — 381w
+- undated — [Open source LLMs reaching GPT-4 levels way earlier than we thought is the most exciting thing now to me — @levelsio (Pieter Levels)](https://levels.io/open-source-llms-reaching-gpt-4-levels) — `undated-open-source-llms-reaching-gpt-4-levels.md` — 233w
 - undated — [Open letter to the Portuguese government to approve Tesla FSD — @levelsio (Pieter Levels)](https://levels.io/open-letter-portugal-tesla-fsd) — `undated-open-letter-portugal-tesla-fsd.md` — 362w
+- undated — [OnlyFans just hacked basic human biology — @levelsio (Pieter Levels)](https://levels.io/onlyfans-hacked-basic-human-biology) — `undated-onlyfans-hacked-basic-human-biology.md` — 136w
+- undated — [On self-funding startups — @levelsio (Pieter Levels)](https://levels.io/self-funding-startups) — `undated-self-funding-startups.md` — 194w
+- undated — [On Thailand's immigration police targeting digital nomads — @levelsio (Pieter Levels)](https://levels.io/thailands-immigration-police-targeting-digital-nomads) — `undated-thailands-immigration-police-targeting-digital-nomads.md` — 479w
+- undated — [OSX for Windows users — @levelsio (Pieter Levels)](https://levels.io/osx-for-windows-users) — `undated-osx-for-windows-users.md` — 592w
+- undated — [OSX Terminal Tricks — @levelsio (Pieter Levels)](https://levels.io/osx-terminal-tricks) — `undated-osx-terminal-tricks.md` — 155w
+- undated — [Now is probably the time to make HTTPS the default on all your sites and apps — @levelsio (Pieter Levels)](https://levels.io/default-to-https) — `undated-default-to-https.md` — 773w
+- undated — [Normalization of non](https://levels.io/deviance) — `undated-deviance.md` — 1964w
+- undated — [Nomad List turns 5 — @levelsio (Pieter Levels)](https://levels.io/nomad-list-5) — `undated-nomad-list-5.md` — 642w
+- undated — [Nomad List is one of the first network states — @levelsio (Pieter Levels)](https://levels.io/nomad-list-first-network-states) — `undated-nomad-list-first-network-states.md` — 413w
+- undated — [Nomad List Founder — @levelsio (Pieter Levels)](https://levels.io/nomad-list-founder) — `undated-nomad-list-founder.md` — 369w
+- undated — [Nobody cares about you after you're dead and the universe destroys itself — @levelsio (Pieter Levels)](https://levels.io/enjoy-your-tea-and-a-cookie) — `undated-enjoy-your-tea-and-a-cookie.md` — 816w
+- undated — [No one should ever work — @levelsio (Pieter Levels)](https://levels.io/no-one-should-ever-work) — `undated-no-one-should-ever-work.md` — 273w
+- undated — [New York City was founded by the Dutch as New Amsterdam 400 years ago — @levelsio (Pieter Levels)](https://levels.io/new-york-founded-by-dutch-as-new-amsterdam) — `undated-new-york-founded-by-dutch-as-new-amsterdam.md` — 563w
+- undated — [New Panda Mix Show branding and website — @levelsio (Pieter Levels)](https://levels.io/new-panda-mix-show-branding-and-website) — `undated-new-panda-mix-show-branding-and-website.md` — 170w
+- undated — [Never dismiss your ideals as post-adolescent fantasy — @levelsio (Pieter Levels)](https://levels.io/ideals-fantasy) — `undated-ideals-fantasy.md` — 387w
+- undated — [Never bring a knife to China because DHL and customs make shipping impossible — @levelsio (Pieter Levels)](https://levels.io/never-bring-knife-to-china) — `undated-never-bring-knife-to-china.md` — 149w
+- undated — [Netherlands changes stock options tax to US system for startups — @levelsio (Pieter Levels)](https://levels.io/netherlands-changes-stock-options-tax-us-system) — `undated-netherlands-changes-stock-options-tax-us-system.md` — 548w
+- undated — [Nationality is an accident of birth — @levelsio (Pieter Levels)](https://levels.io/nationality-accident-birth) — `undated-nationality-accident-birth.md` — 319w
+- undated — [National Borders Have Become Irrelevant — @levelsio (Pieter Levels)](https://levels.io/national-borders-have-become-irrelevant) — `undated-national-borders-have-become-irrelevant.md` — 176w
+- undated — [Namecheap still doesn't support 2FA in 2017 (update: they do now!) — @levelsio (Pieter Levels)](https://levels.io/namecheap-2fa-old) — `undated-namecheap-2fa-old.md` — 946w
+- undated — [My weird code commenting style based on HTML tags — @levelsio (Pieter Levels)](https://levels.io/code-commenting) — `undated-code-commenting.md` — 330w
+- undated — [My third time in a float tank and practicing visualizing the future — @levelsio (Pieter Levels)](https://levels.io/float-tank-3) — `undated-float-tank-3.md` — 1178w
 - undated — [My sites get 4 billion requests a year but I only pay $244/mo to host them on my own VPS — @levelsio (Pieter Levels)](https://levels.io/4-billion-requests-2932-vps-hosting-cost) — `undated-4-billion-requests-2932-vps-hosting-cost.md` — 127w
+- undated — [My second time in a sensory deprivation chamber — @levelsio (Pieter Levels)](https://levels.io/float-tank-2) — `undated-float-tank-2.md` — 1656w
+- undated — [My recommendations for mario draghi's EU competitiveness report — @levelsio (Pieter Levels)](https://levels.io/recommendations-for-eu-competitiveness-report) — `undated-recommendations-for-eu-competitiveness-report.md` — 793w
+- undated — [My not so great time in Vietnam — @levelsio (Pieter Levels)](https://levels.io/vietnamese-rude) — `undated-vietnamese-rude.md` — 1981w
+- undated — [My new project Photo AI a photorealistic AI photo studio — @levelsio (Pieter Levels)](https://levels.io/photoai-photorealistic-ai-photo-studio) — `undated-photoai-photorealistic-ai-photo-studio.md` — 268w
 - undated — [My latest Termius and tmux setup for every site — @levelsio (Pieter Levels)](https://levels.io/latest-termius-tmux-setup-per-site) — `undated-latest-termius-tmux-setup-per-site.md` — 341w
 - undated — [My friend's Lisbon office got burglarized and Portuguese police refused to recover his Airtagged Apple display — @levelsio (Pieter Levels)](https://levels.io/lisbon-burglary-police-airtag-refusal) — `undated-lisbon-burglary-police-airtag-refusal.md` — 149w
+- undated — [My friend on SSRIs tried to convince me I have generational trauma — @levelsio (Pieter Levels)](https://levels.io/friend-pushed-ssris-generational-trauma) — `undated-friend-pushed-ssris-generational-trauma.md` — 150w
+- undated — [My first time floating in a sensory deprivation tank ☺️ — @levelsio (Pieter Levels)](https://levels.io/float-tank) — `undated-float-tank.md` — 2239w
+- undated — [My first interaction with a WIRED journalist 10 years ago — @levelsio (Pieter Levels)](https://levels.io/first-wired-journalist-interaction-2014) — `undated-first-wired-journalist-interaction-2014.md` — 226w
+- undated — [My dad the cardiologist got free family holidays from Pfizer to prescribe their drugs — @levelsio (Pieter Levels)](https://levels.io/dad-cardiologist-pharma-holidays-bribes) — `undated-dad-cardiologist-pharma-holidays-bribes.md` — 209w
+- undated — [My chatbot gets catcalled — @levelsio (Pieter Levels)](https://levels.io/chatbot-catcalling) — `undated-chatbot-catcalling.md` — 220w
+- undated — [My 3rd startup: Tubelytics, the real-time dashboard for YouTube publishers — @levelsio (Pieter Levels)](https://levels.io/tubelytics) — `undated-tubelytics.md` — 695w
+- undated — [My 2nd startup: Go Fucking Do It, set a goal + deadline and if you fail, you pay — @levelsio (Pieter Levels)](https://levels.io/go-fucking-do-it) — `undated-go-fucking-do-it.md` — 672w
+- undated — [Music genres are dead — @levelsio (Pieter Levels)](https://levels.io/music-genres-are-dead) — `undated-music-genres-are-dead.md` — 503w
+- undated — [Moving to Chiang Mai — @levelsio (Pieter Levels)](https://levels.io/moving-to-chiang-mai) — `undated-moving-to-chiang-mai.md` — 664w
+- undated — [Most decaf coffee is made from paint stripper — @levelsio (Pieter Levels)](https://levels.io/swiss-water) — `undated-swiss-water.md` — 1175w
+- undated — [Most coworking spaces don't make money; here's how they can adapt to survive the future — @levelsio (Pieter Levels)](https://levels.io/coworking-space-economics) — `undated-coworking-space-economics.md` — 3077w
+- undated — [Most Europeans don't realize how stagnant Europe has become — @levelsio (Pieter Levels)](https://levels.io/europe-stagnant-gdp-no-trillion-dollar-companies) — `undated-europe-stagnant-gdp-no-trillion-dollar-companies.md` — 447w
+- undated — [Monitoring Bali's undersea internet cable — @levelsio (Pieter Levels)](https://levels.io/bali-internet-cable) — `undated-bali-internet-cable.md` — 483w
+- undated — [Meeting Bryan Johnson at Din Tai Fung and his don't die health cult — @levelsio (Pieter Levels)](https://levels.io/meeting-bryan-johnson-din-tai-fung-health-cult) — `undated-meeting-bryan-johnson-din-tai-fung-health-cult.md` — 856w
+- undated — [Manila — @levelsio (Pieter Levels)](https://levels.io/manila) — `undated-manila.md` — 1909w
+- undated — [Makers have become the invisible hand — @levelsio (Pieter Levels)](https://levels.io/makers-are-the-invisible-hand) — `undated-makers-are-the-invisible-hand.md` — 461w
+- undated — [Make your own Olark feedback form without Olark — @levelsio (Pieter Levels)](https://levels.io/make-your-own-olark) — `undated-make-your-own-olark.md` — 352w
+- undated — [Make money where prices are high, spend it where prices are low. Does income arbitrage work? — @levelsio (Pieter Levels)](https://levels.io/make-money-where-prices-are-high-spend-it-where-prices-are-low-does-income-arbitrage-work) — `undated-make-money-where-prices-are-high-spend-it-where-prices-are-low-does-income-arbit.md` — 884w
+- undated — [Make a great product — @levelsio (Pieter Levels)](https://levels.io/make-a-great-product) — `undated-make-a-great-product.md` — 563w
 - undated — [Made an auto-dispute response system for Interior AI to see how easy it'd be — @levelsio (Pieter Levels)](https://levels.io/auto-dispute-response-system-interior-ai-stripe) — `undated-auto-dispute-response-system-interior-ai-stripe.md` — 1156w
+- undated — [Macron warns EU has only 2 or 3 years before total US and China dominance — @levelsio (Pieter Levels)](https://levels.io/macron-eu-2-3-years-us-china) — `undated-macron-eu-2-3-years-us-china.md` — 285w
+- undated — [Luxury is absolutely done in the West but still exists in Asia and the Gulf states — @levelsio (Pieter Levels)](https://levels.io/luxury-dead-in-west-alive-in-asia) — `undated-luxury-dead-in-west-alive-in-asia.md` — 122w
 - undated — [Luxury hotels are mathematically bad value — @levelsio (Pieter Levels)](https://levels.io/luxury-hotels-bad-value-ratings) — `undated-luxury-hotels-bad-value-ratings.md` — 239w
 - undated — [Luxury brands like Rimowa and LVMH are mostly a scam — @levelsio (Pieter Levels)](https://levels.io/luxury-brands-rimowa-lvmh-are-a-scam) — `undated-luxury-brands-rimowa-lvmh-are-a-scam.md` — 324w
+- undated — [Love, Anxiety and Startups: My Year in 50 Tweets — @levelsio (Pieter Levels)](https://levels.io/love-anxiety-and-startups) — `undated-love-anxiety-and-startups.md` — 3599w
+- undated — [Living in a Hotel — @levelsio (Pieter Levels)](https://levels.io/living-in-a-hotel) — `undated-living-in-a-hotel.md` — 366w
 - undated — [Leiden might be the best Dutch city to visit instead of tourist Amsterdam — @levelsio (Pieter Levels)](https://levels.io/leiden-best-dutch-city-to-visit) — `undated-leiden-best-dutch-city-to-visit.md` — 134w
+- undated — [Koh Phangan is the Disneyland of Partying — @levelsio (Pieter Levels)](https://levels.io/koh-phangan-is-the-disneyland-of-partying) — `undated-koh-phangan-is-the-disneyland-of-partying.md` — 1216w
+- undated — [Kids — @levelsio (Pieter Levels)](https://levels.io/kids) — `undated-kids.md` — 190w
+- undated — [Jack Ma met Jerry Yang at the great wall of China in 1997 — @levelsio (Pieter Levels)](https://levels.io/jack-ma-met-jerry-yang-great-wall) — `undated-jack-ma-met-jerry-yang-great-wall.md` — 294w
+- undated — [It's practically impossible for regular people to buy Bitcoin — @levelsio (Pieter Levels)](https://levels.io/regular-people-bitcoin) — `undated-regular-people-bitcoin.md` — 681w
+- undated — [It's about time for a digital work permit for remote workers — @levelsio (Pieter Levels)](https://levels.io/remote-worker-visa) — `undated-remote-worker-visa.md` — 1137w
+- undated — [It turns out Mark Manson was mostly right about Brazil — @levelsio (Pieter Levels)](https://levels.io/mark-manson-right-about-brazil) — `undated-mark-manson-right-about-brazil.md` — 821w
 - undated — [Is the stock market in a bubble right now? — @levelsio (Pieter Levels)](https://levels.io/bubble-detector) — `undated-bubble-detector.md` — 294w
+- undated — [Invested in Brazil after traveling there for a month — @levelsio (Pieter Levels)](https://levels.io/invested-in-brazil-after-traveling) — `undated-invested-in-brazil-after-traveling.md` — 944w
+- undated — [Instead of hiring people, do things yourself to stay relevant — @levelsio (Pieter Levels)](https://levels.io/diy) — `undated-diy.md` — 611w
+- undated — [Inflation Chart: the stock market adjusted for the US-dollar money supply — @levelsio (Pieter Levels)](https://levels.io/inflation-chart) — `undated-inflation-chart.md` — 693w
 - undated — [Indie hackers build fancy AI factories but have no money or traffic — @levelsio (Pieter Levels)](https://levels.io/indie-hackers-ai-factories-no-money-traffic) — `undated-indie-hackers-ai-factories-no-money-traffic.md` — 228w
+- undated — [In the future writing actual code will be like using a pro DSLR camera, and no code will be like using a smartphone camera — @levelsio (Pieter Levels)](https://levels.io/no-code) — `undated-no-code.md` — 607w
+- undated — [In the 21st century, Maria Montessori shows to be more relevant than ever — @levelsio (Pieter Levels)](https://levels.io/montessori) — `undated-montessori.md` — 420w
+- undated — [In a world of outrage, mute words — @levelsio (Pieter Levels)](https://levels.io/mute) — `undated-mute.md` — 698w
+- undated — [In Bali the heat puts your brain into power save idle mode — @levelsio (Pieter Levels)](https://levels.io/bali-heat-brain-idle-mode) — `undated-bali-heat-brain-idle-mode.md` — 122w
+- undated — [If you can't express yourself by email, you're not worthy of anyone's time — @levelsio (Pieter Levels)](https://levels.io/email-cuts-through-bullshit) — `undated-email-cuts-through-bullshit.md` — 391w
+- undated — [Ideals, fears and the script of life — @levelsio (Pieter Levels)](https://levels.io/ideals-fears-script-life) — `undated-ideals-fears-script-life.md` — 306w
 - undated — [I've been coding almost solely on my VPS with Claude Code for almost a year now — @levelsio (Pieter Levels)](https://levels.io/coding-on-vps-with-claude-code-for-a-year) — `undated-coding-on-vps-with-claude-code-for-a-year.md` — 367w
+- undated — [I'm so done with real estate agents — @levelsio (Pieter Levels)](https://levels.io/im-so-done-with-real-estate-agents) — `undated-im-so-done-with-real-estate-agents.md` — 150w
+- undated — [I'm building a new mini startup this week after finding an idea road tripping in Portugal — @levelsio (Pieter Levels)](https://levels.io/building-mini-startup-after-portugal-road-trip) — `undated-building-mini-startup-after-portugal-road-trip.md` — 498w
+- undated — [I'm Product Hunt's Maker of the Year again! — @levelsio (Pieter Levels)](https://levels.io/maker-of-the-year) — `undated-maker-of-the-year.md` — 287w
+- undated — [I'm Learning 3d 🎮 — @levelsio (Pieter Levels)](https://levels.io/i-am-learning-3d) — `undated-i-am-learning-3d.md` — 1228w
+- undated — [I'm Launching 12 Startups in 12 Months — @levelsio (Pieter Levels)](https://levels.io/12-startups-12-months) — `undated-12-startups-12-months.md` — 1157w
+- undated — [I uploaded 4 terabyte over Korea's 4G, and paid $48 — @levelsio (Pieter Levels)](https://levels.io/korea-4g) — `undated-korea-4g.md` — 1321w
+- undated — [I took the high speed train in China today — @levelsio (Pieter Levels)](https://levels.io/high-speed-train-china-business-class) — `undated-high-speed-train-china-business-class.md` — 385w
+- undated — [I started lifting weights at 30 and gained 30kg of muscle — @levelsio (Pieter Levels)](https://levels.io/started-lifting-weights-gained-30kg) — `undated-started-lifting-weights-gained-30kg.md` — 262w
 - undated — [I revived a 28 year old Quake 2 map with AI into web-based multiplayer — @levelsio (Pieter Levels)](https://levels.io/revived-28-year-old-quake-2-map-with-ai) — `undated-revived-28-year-old-quake-2-map-with-ai.md` — 133w
+- undated — [I ran Claude Code on the server in bypass mode and outran my todo list — @levelsio (Pieter Levels)](https://levels.io/claude-code-server-outran-todo-list) — `undated-claude-code-server-outran-todo-list.md` — 768w
 - undated — [I ported Return to Castle Wolfenstein to the web with multiplayer in an hour using AI — @levelsio (Pieter Levels)](https://levels.io/ported-return-to-castle-wolfenstein-to-web-with-ai) — `undated-ported-return-to-castle-wolfenstein-to-web-with-ai.md` — 422w
 - undated — [I open sourced my first Chrome extension SuperLevels — @levelsio (Pieter Levels)](https://levels.io/open-sourced-chrome-extension-superlevels) — `undated-open-sourced-chrome-extension-superlevels.md` — 641w
+- undated — [I made my first video game with ChatGPT DALL-E RunwayML and ElevenLabs — @levelsio (Pieter Levels)](https://levels.io/first-video-game-chatgpt-dall-e-runway-elevenlabs) — `undated-first-video-game-chatgpt-dall-e-runway-elevenlabs.md` — 137w
+- undated — [I made luggage losers a live ranking of airlines by lost luggage — @levelsio (Pieter Levels)](https://levels.io/luggage-losers-airline-luggage-rankings) — `undated-luggage-losers-airline-luggage-rankings.md` — 212w
 - undated — [I made a free open source xdr boost app for macOS using claude code in 5 minutes — @levelsio (Pieter Levels)](https://levels.io/made-free-open-source-xdr-boost-app-macos) — `undated-made-free-open-source-xdr-boost-app-macos.md` — 165w
+- undated — [I love minimalist living — @levelsio (Pieter Levels)](https://levels.io/i-love-minimalist-living) — `undated-i-love-minimalist-living.md` — 708w
 - undated — [I invested in EthSystems to make Ethereum private for banks — @levelsio (Pieter Levels)](https://levels.io/invested-in-eth-systems-ethereum-privacy) — `undated-invested-in-eth-systems-ethereum-privacy.md` — 216w
+- undated — [I hit a new $420,000/mo revenue record thanks to the Lex Fridman podcast — @levelsio (Pieter Levels)](https://levels.io/new-420k-mo-revenue-record-lex-fridman) — `undated-new-420k-mo-revenue-record-lex-fridman.md` — 152w
 - undated — [I built a web-based virtual null modem to play Quake I in MS-DOS in multiplayer online — @levelsio (Pieter Levels)](https://levels.io/virtual-null-modem-quake-1-multiplayer-browser) — `undated-virtual-null-modem-quake-1-multiplayer-browser.md` — 336w
 - undated — [I built a web-based dot matrix printer that prints from Windows 3.11 — @levelsio (Pieter Levels)](https://levels.io/dot-matrix-printer-web-windows-311) — `undated-dot-matrix-printer-web-windows-311.md` — 492w
+- undated — [I bought over $1M in Google because Sergey returned and they're winning AI — @levelsio (Pieter Levels)](https://levels.io/bought-1m-google-stock-ai-win) — `undated-bought-1m-google-stock-ai-win.md` — 387w
+- undated — [How to use your iPhone as a better Apple TV alternative (with VPN) — @levelsio (Pieter Levels)](https://levels.io/use-iphone-as-apple-tv) — `undated-use-iphone-as-apple-tv.md` — 628w
+- undated — [How to successfully build a community around your startup — @levelsio (Pieter Levels)](https://levels.io/build-a-community-around-your-startup) — `undated-build-a-community-around-your-startup.md` — 1526w
+- undated — [How to protect your backups from solar flares with a faraday cage — @levelsio (Pieter Levels)](https://levels.io/backups-solar-flares-cookie-jar-faraday) — `undated-backups-solar-flares-cookie-jar-faraday.md` — 518w
+- undated — [How to play GTA V on your MacBook (and any other PC game) — @levelsio (Pieter Levels)](https://levels.io/gta-v-macbook-pro) — `undated-gta-v-macbook-pro.md` — 1963w
+- undated — [How to pack for world travel with just a carry](https://levels.io/carry-on-world-travel) — `undated-carry-on-world-travel.md` — 1365w
+- undated — [How to generate AI images with Stable Diffusion on MacBook M1/M2 for free — @levelsio (Pieter Levels)](https://levels.io/stable-diffusion-macbook-m1-m2-tutorial) — `undated-stable-diffusion-macbook-m1-m2-tutorial.md` — 503w
+- undated — [How to fix flying — @levelsio (Pieter Levels)](https://levels.io/how-to-fix-flying) — `undated-how-to-fix-flying.md` — 532w
+- undated — [How to export your Slack's entire archive as HTML message logs — @levelsio (Pieter Levels)](https://levels.io/slack-export-to-html) — `undated-slack-export-to-html.md` — 425w
 - undated — [How to code with Kimi K3 better than Fable and no restrictions — @levelsio (Pieter Levels)](https://levels.io/how-to-code-with-kimi-k3) — `undated-how-to-code-with-kimi-k3.md` — 121w
 - undated — [How to buy S&P500, tech, bonds and commodities ETFs on IBKR as US or non](https://levels.io/how-to-buy-etfs-on-ibkr-us-vs-non-us) — `undated-how-to-buy-etfs-on-ibkr-us-vs-non-us.md` — 280w
+- undated — [How to build a bootstrapped startup without funding — @levelsio (Pieter Levels)](https://levels.io/how-to-build-bootstrapped-startup-without-funding) — `undated-how-to-build-bootstrapped-startup-without-funding.md` — 210w
+- undated — [How to backup your Linode or Digital Ocean VPS to Amazon S3 — @levelsio (Pieter Levels)](https://levels.io/backup-linode-digital-ocean-vps-amazon-s3) — `undated-backup-linode-digital-ocean-vps-amazon-s3.md` — 1454w
+- undated — [How to add shareable pictures to your website with some PhantomJS magic — @levelsio (Pieter Levels)](https://levels.io/phantomjs-social-media-share-pictures) — `undated-phantomjs-social-media-share-pictures.md` — 414w
+- undated — [How to access anyone's Telegram messages without unlocking their phone — @levelsio (Pieter Levels)](https://levels.io/telegram-messenger-access) — `undated-telegram-messenger-access.md` — 271w
+- undated — [How to 3d scan any object with just your phone's camera — @levelsio (Pieter Levels)](https://levels.io/3d-scan-phone) — `undated-3d-scan-phone.md` — 932w
+- undated — [How technology is shaping our future: billions of self-employed makers and a few mega corporations — @levelsio (Pieter Levels)](https://levels.io/a-future-of-two-extremes) — `undated-a-future-of-two-extremes.md` — 4352w
 - undated — [How keeping CO2 low with a bathroom fan gave me 100% sleep score — @levelsio (Pieter Levels)](https://levels.io/bathroom-fan-co2-sleep-score) — `undated-bathroom-fan-co2-sleep-score.md` — 184w
+- undated — [How I travel the world with just a carry](https://levels.io/travel-word-with-carry-on) — `undated-travel-word-with-carry-on.md` — 567w
+- undated — [How I switched from PC to Mac in less than 7 days — @levelsio (Pieter Levels)](https://levels.io/how-i-switched-from-pc-to-mac-in-less-than-7-days) — `undated-how-i-switched-from-pc-to-mac-in-less-than-7-days.md` — 743w
+- undated — [How I spent the night with Singapore's migrant workers — @levelsio (Pieter Levels)](https://levels.io/spending-night-singapore-migrant-workers) — `undated-spending-night-singapore-migrant-workers.md` — 549w
+- undated — [How I sped up Nomad List by 31% with SPDY, CloudFront and PageSpeed — @levelsio (Pieter Levels)](https://levels.io/spdy-ssl-cloudfront-pagespeed) — `undated-spdy-ssl-cloudfront-pagespeed.md` — 1260w
+- undated — [How I predict Bitcoin's price by tracking Twitter mentions — @levelsio (Pieter Levels)](https://levels.io/tweets-predict-bitcoin-price) — `undated-tweets-predict-bitcoin-price.md` — 322w
+- undated — [How I hacked Slack into a community platform with Typeform — @levelsio (Pieter Levels)](https://levels.io/slack-typeform-auto-invite-sign-ups) — `undated-slack-typeform-auto-invite-sign-ups.md` — 1154w
+- undated — [How I got my startup to #1 on both Product Hunt and Hacker News by accident — @levelsio (Pieter Levels)](https://levels.io/product-hunt-hacker-news-number-one) — `undated-product-hunt-hacker-news-number-one.md` — 2207w
+- undated — [How I ended up in Hong Kong (or my adventures in the New York of the East) — @levelsio (Pieter Levels)](https://levels.io/hong-kong-new-york-of-the-east) — `undated-hong-kong-new-york-of-the-east.md` — 2521w
+- undated — [How I did not sell my startup today — @levelsio (Pieter Levels)](https://levels.io/selling-my-startup) — `undated-selling-my-startup.md` — 392w
+- undated — [How I cured my anxiety (mostly) — @levelsio (Pieter Levels)](https://levels.io/anxiety) — `undated-anxiety.md` — 3075w
+- undated — [How I built Remote | OK and launched it to #1 on Product Hunt — @levelsio (Pieter Levels)](https://levels.io/remote-ok) — `undated-remote-ok.md` — 2508w
+- undated — [How I built Nomad Jobs, a remote job board for 100% distributed startups — @levelsio (Pieter Levels)](https://levels.io/how-i-built-a-remote-jobs-board) — `undated-how-i-built-a-remote-jobs-board.md` — 679w
+- undated — [How I build my minimum viable products — @levelsio (Pieter Levels)](https://levels.io/how-i-build-my-minimum-viable-products) — `undated-how-i-build-my-minimum-viable-products.md` — 2770w
+- undated — [How I Went From 100 To 0 Things (Or How I Was Robbed of All My Stuff) — @levelsio (Pieter Levels)](https://levels.io/100-to-0-things) — `undated-100-to-0-things.md` — 1761w
+- undated — [How Go Fucking Do It raised $30,000+ in pledges in less than a month — @levelsio (Pieter Levels)](https://levels.io/debriefing-go-fucking-do-it) — `undated-debriefing-go-fucking-do-it.md` — 1414w
+- undated — [How Elon does politics is smartest and my 6 goals for Europe — @levelsio (Pieter Levels)](https://levels.io/how-elon-does-politics-and-my-6-goals-for-europe) — `undated-how-elon-does-politics-and-my-6-goals-for-europe.md` — 417w
+- undated — [How Automation Left Us Feeling Empty — @levelsio (Pieter Levels)](https://levels.io/automation-void) — `undated-automation-void.md` — 582w
+- undated — [Here's a crazy idea: automatically pause recurring subscription of users when you detect they aren't actually using your app — @levelsio (Pieter Levels)](https://levels.io/subscriptions) — `undated-subscriptions.md` — 398w
+- undated — [Headspace was started at 38 by former monk Andy Puddicombe who exited at 50 — @levelsio (Pieter Levels)](https://levels.io/headspace-started-at-38-by-former-monk) — `undated-headspace-started-at-38-by-former-monk.md` — 123w
+- undated — [Headhunterz - Power of Music — @levelsio (Pieter Levels)](https://levels.io/headhunterz-power-of-music) — `undated-headhunterz-power-of-music.md` — 177w
+- undated — [Happiness maximization vs. profit maximization — @levelsio (Pieter Levels)](https://levels.io/happiness-maximization-vs-profit-maximization) — `undated-happiness-maximization-vs-profit-maximization.md` — 705w
+- undated — [Guy sells his $50k/mo business for $10m but it's just an acquihire — @levelsio (Pieter Levels)](https://levels.io/startup-acquihire-10m-deal-reality) — `undated-startup-acquihire-10m-deal-reality.md` — 197w
+- undated — [Governments are always ready to grab the greatest degree of power that the people will give them — @levelsio (Pieter Levels)](https://levels.io/governments-are-always-ready-to-grab-the-greatest-degree-of-power-that-the-people-will-give-them) — `undated-governments-are-always-ready-to-grab-the-greatest-degree-of-power-that-the-peopl.md` — 348w
+- undated — [Got scammed with the extra zero trick at Órale Juanito Palermo in Buenos Aires — @levelsio (Pieter Levels)](https://levels.io/scammed-extra-zero-orale-juanito-palermo) — `undated-scammed-extra-zero-orale-juanito-palermo.md` — 140w
+- undated — [Got Alipay to work in China as proxy for Didi Meituan and Baidu — @levelsio (Pieter Levels)](https://levels.io/alipay-working-in-china-for-foreigners) — `undated-alipay-working-in-china-for-foreigners.md` — 406w
 - undated — [Google Maps in Germany now shows defamation complaint amounts, so here's a calculator to find a place's real rating — @levelsio (Pieter Levels)](https://levels.io/real-google-maps-rating-calculator) — `undated-real-google-maps-rating-calculator.md` — 308w
+- undated — [Getting the China flu after arriving and why to wear an N95 on planes — @levelsio (Pieter Levels)](https://levels.io/getting-the-china-flu-and-n95-mask-advice) — `undated-getting-the-china-flu-and-n95-mask-advice.md` — 178w
+- undated — [GIFbook, the first animated GIF flipbook — @levelsio (Pieter Levels)](https://levels.io/gifbook-the-animated-gif-flipbook) — `undated-gifbook-the-animated-gif-flipbook.md` — 943w
+- undated — [From web dev to VR: How to get started with VR development — @levelsio (Pieter Levels)](https://levels.io/from-web-dev-to-vr-dev) — `undated-from-web-dev-to-vr-dev.md` — 151w
+- undated — [From web dev to 3d: Learning 3d modeling in a month — @levelsio (Pieter Levels)](https://levels.io/from-web-dev-to-3d) — `undated-from-web-dev-to-3d.md` — 145w
+- undated — [From dive bar to roof-top bar to roof-top pool in Bangkok — @levelsio (Pieter Levels)](https://levels.io/bangkok-dive-bar-cheap-charlies-roof-top-bar-above-11) — `undated-bangkok-dive-bar-cheap-charlies-roof-top-bar-above-11.md` — 446w
+- undated — [Freezing bread from the local bakery solves sellouts and lowers blood sugar spikes — @levelsio (Pieter Levels)](https://levels.io/freezing-bread-bakery-health-hack) — `undated-freezing-bread-bakery-health-hack.md` — 200w
 - undated — [Foreign funding is behind the degrowth movement in Europe — @levelsio (Pieter Levels)](https://levels.io/foreign-funding-degrowth-movement-europe) — `undated-foreign-funding-degrowth-movement-europe.md` — 157w
+- undated — [Fixing "Inf and NaN cannot be JSON encoded" in PHP the easy way — @levelsio (Pieter Levels)](https://levels.io/inf-nan-json_encode) — `undated-inf-nan-json_encode.md` — 189w
+- undated — [Finding an apartment in Chiang Mai — @levelsio (Pieter Levels)](https://levels.io/chiang-mai-apartment) — `undated-chiang-mai-apartment.md` — 1016w
+- undated — [Finally met my hero Patrick Collison founder of Stripe — @levelsio (Pieter Levels)](https://levels.io/met-patrick-collison-stripe-founder) — `undated-met-patrick-collison-stripe-founder.md` — 619w
+- undated — [Facebook and Google are building their own cities: the inevitable future of private tech worker towns — @levelsio (Pieter Levels)](https://levels.io/facebook-city) — `undated-facebook-city.md` — 190w
+- undated — [FML](https://levels.io/fml-octopussy) — `undated-fml-octopussy.md` — 143w
+- undated — [Europe's tax system discourages hard work and new businesses — @levelsio (Pieter Levels)](https://levels.io/europe-tax-system-discourages-hard-work) — `undated-europe-tax-system-discourages-hard-work.md` — 325w
+- undated — [Europe's governments made energy expensive on purpose to stop you from using it — @levelsio (Pieter Levels)](https://levels.io/europe-governments-made-energy-expensive-on-purpose) — `undated-europe-governments-made-energy-expensive-on-purpose.md` — 137w
+- undated — [Europe's 28th regime could create a Delaware for startups — @levelsio (Pieter Levels)](https://levels.io/europe-28th-regime-delaware-startups) — `undated-europe-28th-regime-delaware-startups.md` — 127w
+- undated — [Europe wants to reduce its anti-AI act and GDPR to compete in AI — @levelsio (Pieter Levels)](https://levels.io/europe-reduce-anti-ai-act) — `undated-europe-reduce-anti-ai-act.md` — 149w
+- undated — [Europe to slash GDPR privacy law in weeks to compete with US and China — @levelsio (Pieter Levels)](https://levels.io/europe-to-slash-gdpr-in-weeks) — `undated-europe-to-slash-gdpr-in-weeks.md` — 139w
+- undated — [Europe is ruled by rich nepotist families and unelected corporatist cronies killing startups — @levelsio (Pieter Levels)](https://levels.io/europe-ruled-by-nepotist-families-cronies) — `undated-europe-ruled-by-nepotist-families-cronies.md` — 181w
 - undated — [Europe has gotten very poor fast while America has only gotten richer — @levelsio (Pieter Levels)](https://levels.io/europe-poor-america-richer-gdp-gap) — `undated-europe-poor-america-richer-gdp-gap.md` — 146w
+- undated — [Essendle interview on my music and my YouTube show — @levelsio (Pieter Levels)](https://levels.io/essendle-interview-on-me-my-music-and-my-shows) — `undated-essendle-interview-on-me-my-music-and-my-shows.md` — 178w
+- undated — [Entrepreneurs are the heroes, not the villains — @levelsio (Pieter Levels)](https://levels.io/entrepreneurship) — `undated-entrepreneurship.md` — 397w
+- undated — [Eclectro Podcast: An exclusive Drum & Bass minimix by Panda — @levelsio (Pieter Levels)](https://levels.io/eclectro-panda-minimix) — `undated-eclectro-panda-minimix.md` — 236w
+- undated — [Easiest hack to save lots of money is registering as a company — @levelsio (Pieter Levels)](https://levels.io/easiest-hack-register-as-company-to-save-money) — `undated-easiest-hack-register-as-company-to-save-money.md` — 132w
+- undated — [EU's AI factory plan requires proposals while Lambda gives you 8x H100s in 5 minutes — @levelsio (Pieter Levels)](https://levels.io/eu-ai-factory-plan-vs-lambda-gpus) — `undated-eu-ai-factory-plan-vs-lambda-gpus.md` — 511w
 - undated — [EU keeps resubmitting chat control after 5 rejections proving it's undemocratic — @levelsio (Pieter Levels)](https://levels.io/eu-chat-control-repeated-rejections) — `undated-eu-chat-control-repeated-rejections.md` — 191w
+- undated — [EU countries are now trying to censor speech on social media nationally after DSA failed — @levelsio (Pieter Levels)](https://levels.io/eu-countries-censoring-speech-nationally-after-dsa) — `undated-eu-countries-censoring-speech-nationally-after-dsa.md` — 187w
+- undated — [EU company landscape is run by dinosaurs founded 50 years before US ones — @levelsio (Pieter Levels)](https://levels.io/eu-company-landscape-run-by-dinosaurs) — `undated-eu-company-landscape-run-by-dinosaurs.md` — 259w
 - undated — [EU chat control has passed allowing warrantless scanning of messages — @levelsio (Pieter Levels)](https://levels.io/eu-chat-control-passed-undemocratically) — `undated-eu-chat-control-passed-undemocratically.md` — 122w
+- undated — [EU ChatControl is back with even more far reaching surveillance through the back door — @levelsio (Pieter Levels)](https://levels.io/eu-chatcontrol-backdoor-surveillance-law) — `undated-eu-chatcontrol-backdoor-surveillance-law.md` — 124w
+- undated — [EU AI factories require proposal calls and endless ethical questionnaires instead of simple GPU access — @levelsio (Pieter Levels)](https://levels.io/eu-ai-factories-bureaucracy-gpu-access) — `undated-eu-ai-factories-bureaucracy-gpu-access.md` — 580w
+- undated — [EU AI factories have 500x less compute than xAI — @levelsio (Pieter Levels)](https://levels.io/eu-ai-factories-500x-less-compute-than-xai) — `undated-eu-ai-factories-500x-less-compute-than-xai.md` — 285w
+- undated — [Don't grow up — @levelsio (Pieter Levels)](https://levels.io/grow-up) — `undated-grow-up.md` — 193w
+- undated — [Do the economics of remote work retreats make any sense? — @levelsio (Pieter Levels)](https://levels.io/startup-retreats) — `undated-startup-retreats.md` — 1096w
 - undated — [Degrowthers are literally opposed to life — @levelsio (Pieter Levels)](https://levels.io/degrowthers-are-literally-opposed-to-life) — `undated-degrowthers-are-literally-opposed-to-life.md` — 143w
 - undated — [Degrowth is likely just masked foreign sabotage — @levelsio (Pieter Levels)](https://levels.io/degrowth-is-masked-foreign-sabotage) — `undated-degrowth-is-masked-foreign-sabotage.md` — 159w
+- undated — [Dedicating our lives to what is essentially an organization to make money — @levelsio (Pieter Levels)](https://levels.io/dedicating-our-lives-to-what-is-essentially-an-organization-to-make-money) — `undated-dedicating-our-lives-to-what-is-essentially-an-organization-to-make-money.md` — 197w
+- undated — [Day 4 of Learning 3d: @shoinwolfe visits the actual street I'm modeling 🏮😎🏮 — @levelsio (Pieter Levels)](https://levels.io/learning-3d-day-4) — `undated-learning-3d-day-4.md` — 186w
+- undated — [Day 30 of Learning 3d 🎮 Cloning objects 👾👾👾 — @levelsio (Pieter Levels)](https://levels.io/learning-3d-day-30) — `undated-learning-3d-day-30.md` — 332w
+- undated — [Day 29 of Learning 3d 🎮 Glass, reflectives, HD, coloring and more details — @levelsio (Pieter Levels)](https://levels.io/learning-3d-day-29) — `undated-learning-3d-day-29.md` — 1198w
+- undated — [Day 27 of Learning 3d 🎮 Details, details, DETAILS! — @levelsio (Pieter Levels)](https://levels.io/learning-3d-day-27) — `undated-learning-3d-day-27.md` — 635w
+- undated — [Day 23 of Learning 3d 🎮 Filling up the street and adding shadows — @levelsio (Pieter Levels)](https://levels.io/learning-3d-day-23) — `undated-learning-3d-day-23.md` — 449w
+- undated — [Day 22 of Learning 3d 🎮 Added rain, blinking lights, sound, textured menu sign and a VR web app — @levelsio (Pieter Levels)](https://levels.io/day-22-learning-3d) — `undated-day-22-learning-3d.md` — 903w
+- undated — [Day 21 of Learning 3d 🎮 High res textures, physical rendering and ambient occlusion — @levelsio (Pieter Levels)](https://levels.io/learning-3d-day-21-high-res-textures) — `undated-learning-3d-day-21-high-res-textures.md` — 544w
+- undated — [Day 20 of Learning 3d 🎮 Objects and camera perspectives 🙆 — @levelsio (Pieter Levels)](https://levels.io/learning-3d-day-20) — `undated-learning-3d-day-20.md` — 436w
+- undated — [Day 10 of Learning 3d 🎮 Making complex objects by combining shapes 🙆 — @levelsio (Pieter Levels)](https://levels.io/learning-3d-day-10) — `undated-learning-3d-day-10.md` — 242w
+- undated — [Day 1 of Learning 3d 🎮 I learnt how to make shapes, move, rotate and scale them + how to texturize, and add colored lights 💆 — @levelsio (Pieter Levels)](https://levels.io/learning-3d-day-1) — `undated-learning-3d-day-1.md` — 614w
+- undated — [DNBforum.nl Podcast: Panda Drum & Bass presents Retake Manhattan — @levelsio (Pieter Levels)](https://levels.io/dnbforum-panda-retake-manhattan) — `undated-dnbforum-panda-retake-manhattan.md` — 221w
+- undated — [D!RTY AUD!O intro — @levelsio (Pieter Levels)](https://levels.io/dirty-audo) — `undated-dirty-audo.md` — 146w
+- undated — [Create your own AI avatars with my new mini project avatarAI.me — @levelsio (Pieter Levels)](https://levels.io/create-your-own-ai-avatars-with-avatarai-me) — `undated-create-your-own-ai-avatars-with-avatarai-me.md` — 136w
+- undated — [Could air conditioning explain why more top US companies were founded after 1950 than in the EU? — @levelsio (Pieter Levels)](https://levels.io/air-conditioning-us-eu-company-founding-rates) — `undated-air-conditioning-us-eu-company-founding-rates.md` — 121w
+- undated — [Copywriting for entrepreneurs: explain your product how you'd explain it to a friend — @levelsio (Pieter Levels)](https://levels.io/copywriting) — `undated-copywriting.md` — 357w
+- undated — [Constraints make people more creative — @levelsio (Pieter Levels)](https://levels.io/constraints-make-people-more-creative) — `undated-constraints-make-people-more-creative.md` — 286w
+- undated — [Co-working spaces in Bangkok: Launchpad — @levelsio (Pieter Levels)](https://levels.io/co-working-spaces-in-bangkok-launchpad) — `undated-co-working-spaces-in-bangkok-launchpad.md` — 463w
+- undated — [Co-working spaces in Bangkok: Hubba — @levelsio (Pieter Levels)](https://levels.io/co-working-spaces-in-bangkok-hubba) — `undated-co-working-spaces-in-bangkok-hubba.md` — 430w
+- undated — [Co-Working Spaces in Chiang Mai: PunSpace — @levelsio (Pieter Levels)](https://levels.io/co-working-spaces-in-chiang-mai-punspace) — `undated-co-working-spaces-in-chiang-mai-punspace.md` — 460w
 - undated — [Cloudflare is now the cheapest email provider at $354/mo — @levelsio (Pieter Levels)](https://levels.io/cloudflare-cheapest-email-provider) — `undated-cloudflare-cheapest-email-provider.md` — 209w
+- undated — [Choosing entrepreneurship over a corporate career — @levelsio (Pieter Levels)](https://levels.io/choosing-entrepreneurship) — `undated-choosing-entrepreneurship.md` — 1069w
+- undated — [Chongqing looks gray and derelict without its night lights and needs better maintenance — @levelsio (Pieter Levels)](https://levels.io/chongqing-gray-derelict-without-lights-maintenance) — `undated-chongqing-gray-derelict-without-lights-maintenance.md` — 400w
+- undated — [Chinese tourism is 95% domestic making China feel like the only foreigner there — @levelsio (Pieter Levels)](https://levels.io/chinese-tourism-mostly-domestic-china-fun-to-visit) — `undated-chinese-tourism-mostly-domestic-china-fun-to-visit.md` — 489w
+- undated — [Chinese high speed trains are now faster than the Japanese Shinkansen — @levelsio (Pieter Levels)](https://levels.io/chinese-high-speed-trains-faster-than-shinkansen) — `undated-chinese-high-speed-trains-faster-than-shinkansen.md` — 253w
+- undated — [Chinese brands replacing Western brands in China — @levelsio (Pieter Levels)](https://levels.io/chinese-brands-replacing-western-brands-in-china) — `undated-chinese-brands-replacing-western-brands-in-china.md` — 248w
+- undated — [Chinese EVs are beating German cars with better software and innovation — @levelsio (Pieter Levels)](https://levels.io/chinese-evs-beating-german-cars) — `undated-chinese-evs-beating-german-cars.md` — 1237w
+- undated — [China's train security is stricter than TSA — @levelsio (Pieter Levels)](https://levels.io/china-train-security-stricter-than-tsa) — `undated-china-train-security-stricter-than-tsa.md` — 207w
+- undated — [China can be very cheap with $300 Chongqing hotel suites and $20 rooms — @levelsio (Pieter Levels)](https://levels.io/china-cheap-hotels-chongqing-thailand) — `undated-china-cheap-hotels-chongqing-thailand.md` — 122w
+- undated — [China airport confiscated our power banks without CCC certification — @levelsio (Pieter Levels)](https://levels.io/china-airport-power-banks-confiscated) — `undated-china-airport-power-banks-confiscated.md` — 448w
 - undated — [ChatControl is back with a vengeance — @levelsio (Pieter Levels)](https://levels.io/chatcontrol-back-eu-privacy-vote) — `undated-chatcontrol-back-eu-privacy-vote.md` — 145w
+- undated — [Celebrating my birthday North Korean style — @levelsio (Pieter Levels)](https://levels.io/north-korean-birthday) — `undated-north-korean-birthday.md` — 394w
+- undated — [Cash means controlling your own destiny — @levelsio (Pieter Levels)](https://levels.io/cash-means-controlling-your-own-destiny) — `undated-cash-means-controlling-your-own-destiny.md` — 208w
+- undated — [Calling people "expat" or "nomad" is just as irrelevant as calling internet users "netizens" — @levelsio (Pieter Levels)](https://levels.io/expats) — `undated-expats.md` — 219w
+- undated — [Building a startup in public: from first line of code to frontpage of Reddit — @levelsio (Pieter Levels)](https://levels.io/hoodmaps) — `undated-hoodmaps.md` — 5258w
+- undated — [Building Remotely Podcast: Will millions of remote workers become location independent in 2021? — @levelsio (Pieter Levels)](https://levels.io/relocate) — `undated-relocate.md` — 9345w
+- undated — [Building Remotely Podcast: Relocation of remote workers — @levelsio (Pieter Levels)](https://levels.io/relocation-of-remote-workers) — `undated-relocation-of-remote-workers.md` — 7301w
+- undated — [Building Pieter.com, my retro PC in the browser — @levelsio (Pieter Levels)](https://levels.io/building-pieter-com-retro-pc-in-the-browser) — `undated-building-pieter-com-retro-pc-in-the-browser.md` — 13111w
 - undated — [Build on the side until it makes money before quitting your job — @levelsio (Pieter Levels)](https://levels.io/build-on-the-side-before-quitting-job) — `undated-build-on-the-side-before-quitting-job.md` — 181w
+- undated — [British people are now the 2nd most miserable people in the world — @levelsio (Pieter Levels)](https://levels.io/british-people-2nd-most-miserable) — `undated-british-people-2nd-most-miserable.md` — 145w
 - undated — [Brazil's CPF catch-22 makes booking hotels impossible for tourists — @levelsio (Pieter Levels)](https://levels.io/brazil-cpf-catch-22-tourists-hotels) — `undated-brazil-cpf-catch-22-tourists-hotels.md` — 192w
+- undated — [Bootstrapping side projects into profitable startups — @levelsio (Pieter Levels)](https://levels.io/bootstrapping) — `undated-bootstrapping.md` — 4216w
+- undated — [Black Mirror is the best TV series I have seen in years — @levelsio (Pieter Levels)](https://levels.io/black-mirror-is-the-best-tv-series-i-have-seen-in-years) — `undated-black-mirror-is-the-best-tv-series-i-have-seen-in-years.md` — 170w
 - undated — [Bitcoin's 4](https://levels.io/bitcoin-4-year-cycles) — `undated-bitcoin-4-year-cycles.md` — 344w
+- undated — [Biggest difference living in Netherlands and Western Europe compared to US — @levelsio (Pieter Levels)](https://levels.io/biggest-difference-living-in-netherlands-western-europe) — `undated-biggest-difference-living-in-netherlands-western-europe.md` — 150w
+- undated — [Bali is the magical voodoo spirit island of Asia — @levelsio (Pieter Levels)](https://levels.io/bali) — `undated-bali.md` — 3218w
+- undated — [Automation Will Free Us From the Endless Consumption/Production Cycle We're In — @levelsio (Pieter Levels)](https://levels.io/automation-will-kill-the-consumptionproduction-cycle) — `undated-automation-will-kill-the-consumptionproduction-cycle.md` — 121w
+- undated — [As decentralized as cryptocurrency is: so will be the people working on it — @levelsio (Pieter Levels)](https://levels.io/cryptonomads) — `undated-cryptonomads.md` — 148w
+- undated — [Arriving in Chongqing and China's LED lit skyline versus Europe saving energy — @levelsio (Pieter Levels)](https://levels.io/chongqing-china-led-skyline-energy-use) — `undated-chongqing-china-led-skyline-energy-use.md` — 131w
+- undated — [Andrej Karpathy visited my weekly coworking in Portugal — @levelsio (Pieter Levels)](https://levels.io/karpathy-visits-weekly-coworking-portugal) — `undated-karpathy-visits-weekly-coworking-portugal.md` — 382w
+- undated — [American restaurants kick you out after one meal unlike Europe — @levelsio (Pieter Levels)](https://levels.io/american-restaurants-kick-you-out-after-meal) — `undated-american-restaurants-kick-you-out-after-meal.md` — 144w
 - undated — [America still has post offices unlike most of Europe — @levelsio (Pieter Levels)](https://levels.io/america-still-has-post-offices-unlike-europe) — `undated-america-still-has-post-offices-unlike-europe.md` — 162w
+- undated — [Amap is my favorite navigation app in China — @levelsio (Pieter Levels)](https://levels.io/amap-favorite-navigation-app-in-china) — `undated-amap-favorite-navigation-app-in-china.md` — 171w
+- undated — [All Watched Over by Machines of Loving Grace — @levelsio (Pieter Levels)](https://levels.io/all-watched-over-by-machines-of-living-grace) — `undated-all-watched-over-by-machines-of-living-grace.md` — 179w
 - undated — [Airthings is the best air sensor after trying fakes and dodgy ones — @levelsio (Pieter Levels)](https://levels.io/airthings-best-air-sensor) — `undated-airthings-best-air-sensor.md` — 305w
+- undated — [Advice i give 5 minutes after meeting somebody new — @levelsio (Pieter Levels)](https://levels.io/advice-i-give-5-minutes-after-meeting-somebody) — `undated-advice-i-give-5-minutes-after-meeting-somebody.md` — 363w
+- undated — [Add HTTPS to NGINX for free and help make the world more secure — @levelsio (Pieter Levels)](https://levels.io/add-https-to-nginx-for-free-and-help-make-the-world-more-secure) — `undated-add-https-to-nginx-for-free-and-help-make-the-world-more-secure.md` — 1369w
 - undated — [A working Atari ST inside a blog post with full internet — @levelsio (Pieter Levels)](https://levels.io/atari) — `undated-atari.md` — 210w
+- undated — [A tractor is a great parallel to AI because it helps people do their work easier and faster — @levelsio (Pieter Levels)](https://levels.io/tractor-ai-parallel-to-fewer-developers) — `undated-tractor-ai-parallel-to-fewer-developers.md` — 142w
+- undated — [A society of total automation in which the need to work is replaced with a nomadic life of creative play — @levelsio (Pieter Levels)](https://levels.io/new-babylon) — `undated-new-babylon.md` — 445w
+- undated — [A majority of the worst ranked airports in the world are run by Da Vinci Airports — @levelsio (Pieter Levels)](https://levels.io/da-vinci-airports-worst-ranked-airports) — `undated-da-vinci-airports-worst-ranked-airports.md` — 271w
+- undated — [A Culture of Distraction is Not The Problem — @levelsio (Pieter Levels)](https://levels.io/global-conciousness) — `undated-global-conciousness.md` — 792w
 - undated — [5% ownership is probably the most common final stake for VC funded startup founders — @levelsio (Pieter Levels)](https://levels.io/founder-ownership-dilution-vc-startups) — `undated-founder-ownership-dilution-vc-startups.md` — 625w
+- undated — [2014 is the year techstep drum and bass makes its comeback — @levelsio (Pieter Levels)](https://levels.io/techstep-drum-and-bass-revival) — `undated-techstep-drum-and-bass-revival.md` — 249w
+- undated — ["There simply are no other fields in which I can spend $100 tomorrow and set up a new business..." — @levelsio (Pieter Levels)](https://levels.io/there-simply-are-no-other-fields-in-which-i-can-spend-100-tomorrow-and-set-up-a-new-business) — `undated-there-simply-are-no-other-fields-in-which-i-can-spend-100-tomorrow-and-set-up-a-.md` — 484w
+- undated — ["If I had this, I would be happy" — @levelsio (Pieter Levels)](https://levels.io/if-i-had-this-i-would-be-happy) — `undated-if-i-had-this-i-would-be-happy.md` — 435w
+- undated — ["I can't buy happiness anymore. I've bought everything that I ever wanted. There's not really anything I want anymore." — @levelsio (Pieter Levels)](https://levels.io/hedonic-treadmill) — `undated-hedonic-treadmill.md` — 1240w
+- undated — ["Do whatever you're drawn to" — @levelsio (Pieter Levels)](https://levels.io/do-whatever-youre-drawn-to) — `undated-do-whatever-youre-drawn-to.md` — 188w

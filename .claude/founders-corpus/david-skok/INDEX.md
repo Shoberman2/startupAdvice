@@ -1,95 +1,123 @@
 # David Skok corpus index
 
-Source: https://www.forentrepreneurs.com — fetched 2026-07-19
-90 posts, 178916 words. Format: date — [title](canonical url) — `file` — words.
+Source: https://www.forentrepreneurs.com — fetched 2026-07-20
+118 posts, 215996 words. Format: date — [title](canonical url) — `file` — words.
 
-- undated — [SaaS Metrics 2.0 &ndash; Detailed Definitions](https://www.forentrepreneurs.com/pt-br/saas-metrics-2-definitions/) — `undated-pt-br-saas-metrics-2-definitions.md` — 1376w
-- 2016-11-03 — [2016 SaaS Survey Infographic](https://www.forentrepreneurs.com/2016-saas-survey-infographic/) — `2016-11-03-2016-saas-survey-infographic.md` — 128w
-- 2016-08-17 — [Bridge Group 2016 Sales Development Metrics and Compensation Benchmark Report](https://www.forentrepreneurs.com/bridge-group-sales-development/) — `2016-08-17-bridge-group-sales-development.md` — 2667w
-- 2016-07-04 — [Microservices Essentials for Executives: The Key to High Velocity Software Development](https://www.forentrepreneurs.com/microservices/) — `2016-07-04-microservices.md` — 1856w
-- 2016-06-15 — [Marketing Attribution: Creating a Growth Engine at Salesforce, Zendesk and Slack](https://www.forentrepreneurs.com/marketing-attribution/) — `2016-06-15-marketing-attribution.md` — 3038w
-- 2016-06-01 — [What Your Opportunity Slide is Missing - Make Investors Believe](https://www.forentrepreneurs.com/opportunity-slide/) — `2016-06-01-opportunity-slide.md` — 3160w
-- 2016-06-01 — [Lo que falta en la diapositiva sobre la oportunidad por la que nace un nuevo negocio: Conseguir que los inversores crean.](https://www.forentrepreneurs.com/es/lo-que-falta-en-la-diapositiva-sobre-la-oportunidad-por-la-que-nace-un-nuevo-negocio-conseguir-que-los-inversores-crean/) — `2016-06-01-es-lo-que-falta-en-la-diapositiva-sobre-la-oportunidad-por-la-que-nace-un-nuevo-.md` — 3759w
-- 2016-05-19 — [Una propuesta a favor de la especialización de los equipos de ventas - entrevista con Aaron Ross.](https://www.forentrepreneurs.com/es/una-propuesta-a-favor-de-la-especializacion-de-los-equipos-de-ventas-entrevista-con-aaron-ross/) — `2016-05-19-es-una-propuesta-a-favor-de-la-especializacion-de-los-equipos-de-ventas-entrevis.md` — 3492w
-- 2016-05-19 — [Cuando vender es la peor forma de conseguir clientes.](https://www.forentrepreneurs.com/es/cuando-vender-es-la-peor-forma-de-conseguir-clientes/) — `2016-05-19-es-cuando-vender-es-la-peor-forma-de-conseguir-clientes.md` — 3300w
-- 2016-05-12 — [Demystifying Churn: Measuring and Benchmarking this Metric](https://www.forentrepreneurs.com/demystifying-churn/) — `2016-05-12-demystifying-churn.md` — 756w
-- 2016-04-20 — [Clarity of Message: Why You Need A Great Message & How To Create It](https://www.forentrepreneurs.com/clarity-of-message/) — `2016-04-20-clarity-of-message.md` — 3259w
-- 2016-04-07 — [The Team Slide: You Had Me At Hello](https://www.forentrepreneurs.com/team-slide/) — `2016-04-07-team-slide.md` — 2298w
-- 2016-03-23 — [Five Ways to Nail your Pitch and Win Over Investors](https://www.forentrepreneurs.com/pitch-deck-narrative/) — `2016-03-23-pitch-deck-narrative.md` — 1869w
-- 2016-03-23 — [5 formas de acertar con la presentación de un negocio (pitch) y triunfar con los inversores](https://www.forentrepreneurs.com/es/5-formas-de-acertar-con-la-presentacion-de-un-negocio-pitch-y-triunfar-con-los-inversores/) — `2016-03-23-es-5-formas-de-acertar-con-la-presentacion-de-un-negocio-pitch-y-triunfar-con-lo.md` — 2108w
-- 2016-03-09 — [The Close: New Rules for Hiring Executive Candidates](https://www.forentrepreneurs.com/the-close/) — `2016-03-09-the-close.md` — 2173w
-- 2016-02-23 — [5 razones por las que las startups y los nuevos negocios fracasan.](https://www.forentrepreneurs.com/es/5-razones-por-las-que-las-startups-y-los-nuevos-negocios-fracasan/) — `2016-02-23-es-5-razones-por-las-que-las-startups-y-los-nuevos-negocios-fracasan.md` — 2079w
-- 2016-02-18 — [When to Pay and Account for Commissions](https://www.forentrepreneurs.com/commissions/) — `2016-02-18-commissions.md` — 342w
-- 2016-02-18 — [SaaS Sales Compensation: How to Design the Right Plan](https://www.forentrepreneurs.com/saas-sales-compensation-plan/) — `2016-02-18-saas-sales-compensation-plan.md` — 2825w
-- 2016-02-18 — [Quando Pagar e Contabilizar Comissões](https://www.forentrepreneurs.com/pt-br/commissions/) — `2016-02-18-pt-br-commissions.md` — 383w
-- 2016-02-18 — [Figuring out Quota and Commission Rates](https://www.forentrepreneurs.com/quota-and-commission-rates/) — `2016-02-18-quota-and-commission-rates.md` — 508w
-- 2016-02-18 — [Defininindo a meta e comissões do seu time de vendas SaaS](https://www.forentrepreneurs.com/pt-br/quota-and-commission-rates/) — `2016-02-18-pt-br-quota-and-commission-rates.md` — 834w
-- 2016-02-18 — [Compensação de vendas SaaS: Como definir o plano perfeito](https://www.forentrepreneurs.com/pt-br/saas-sales-compensation-plan/) — `2016-02-18-pt-br-saas-sales-compensation-plan.md` — 2693w
-- 2016-02-10 — [The Key Drivers for SaaS Success](https://www.forentrepreneurs.com/saastr/) — `2016-02-10-saastr.md` — 133w
-- 2016-02-04 — [Executive Hires: The Case for Extreme Referencing](https://www.forentrepreneurs.com/extreme-referencing/) — `2016-02-04-extreme-referencing.md` — 2925w
-- 2015-12-22 — [Having Success With Code Bootcamps: Where To Work As A Bootcamp Grad](https://www.forentrepreneurs.com/bootcamp-3/) — `2015-12-22-bootcamp-3.md` — 1258w
-- 2015-12-14 — [Having Success With Code Bootcamps: Hiring Lessons For Employers](https://www.forentrepreneurs.com/bootcamp-2/) — `2015-12-14-bootcamp-2.md` — 2102w
-- 2015-12-10 — [당신의 진짜 고객 생애 가치(LTV)는 무엇인가요?](https://www.forentrepreneurs.com/ko/ltv/) — `2015-12-10-ko-ltv.md` — 2610w
-- 2015-12-10 — [How to calculate the Discount Rate to use in a Discounted Cash Flow (DCF) Analysis](https://www.forentrepreneurs.com/discount-rate-for-dcf/) — `2015-12-10-discount-rate-for-dcf.md` — 1033w
-- 2015-12-03 — [A Guide: Successfully Hiring Code Bootcamp Grads](https://www.forentrepreneurs.com/bootcamp/) — `2015-12-03-bootcamp.md` — 1047w
-- 2015-11-23 — [How Startups Can Build a Recruiting Machine (Webinar)](https://www.forentrepreneurs.com/lever-recruiting-webinar/) — `2015-11-23-lever-recruiting-webinar.md` — 184w
-- 2015-11-19 — [2015 Pacific Crest SaaS Survey - Part 2](https://www.forentrepreneurs.com/2015-saas-survey-part-2/) — `2015-11-19-2015-saas-survey-part-2.md` — 1478w
-- 2015-11-17 — [Métricas SaaS 2.0 – Definiciones detalladas](https://www.forentrepreneurs.com/es/metricas-saas-2-0-definiciones-detalladas/) — `2015-11-17-es-metricas-saas-2-0-definiciones-detalladas.md` — 1151w
-- 2015-11-17 — [M&eacute;tricas SaaS 2.0 - Defini&ccedil;&otilde;es Detalhadas](https://www.forentrepreneurs.com/pt-br/mtricas-saas-2-0-definies-detalhadas/) — `2015-11-17-pt-br-mtricas-saas-2-0-definies-detalhadas.md` — 1109w
-- 2015-11-10 — [forEntrepreneurs 2015 SaaS Survey Infographic](https://www.forentrepreneurs.com/2015-infographic/) — `2015-11-10-2015-infographic.md` — 133w
-- 2015-11-03 — [Welcome to the new forEntrepreneurs blog site!](https://www.forentrepreneurs.com/welcome-to-forentrepreneurs/) — `2015-11-03-welcome-to-forentrepreneurs.md` — 187w
-- 2015-11-03 — [Accelerate Your Startup: Tuning the Engine](https://www.forentrepreneurs.com/part-1-accelerate-your-startup-get-the-right-productmarket-fit/) — `2015-11-03-part-1-accelerate-your-startup-get-the-right-productmarket-fit.md` — 1041w
-- 2015-11-03 — [Accelerate Your Startup: It's Time to Floor It](https://www.forentrepreneurs.com/accelerate-your-startup-spend-to-scale-the-business/) — `2015-11-03-accelerate-your-startup-spend-to-scale-the-business.md` — 820w
-- 2015-11-03 — [Accelerate Your Startup: Adding Gas to the Tank](https://www.forentrepreneurs.com/accelerate-your-startup-develop-a-repeatable-sales-model/) — `2015-11-03-accelerate-your-startup-develop-a-repeatable-sales-model.md` — 825w
-- 2015-08-13 — [A Strong Team Starts at Onboarding](https://www.forentrepreneurs.com/onboarding/) — `2015-08-13-onboarding.md` — 3719w
-- 2015-07-23 — [A Shockingly Common Way that Sales Misses Plan](https://www.forentrepreneurs.com/sales-misses-plan/) — `2015-07-23-sales-misses-plan.md` — 1475w
-- 2015-02-10 — [Bridge Group 2015 SaaS Inside Sales Survey Report](https://www.forentrepreneurs.com/bridge-group-2015/) — `2015-02-10-bridge-group-2015.md` — 2283w
-- 2015-02-01 — [Sales Predictability with a little bit of Glengarry Glen Ross](https://www.forentrepreneurs.com/acquia/) — `2015-02-01-acquia.md` — 2250w
-- 2014-11-17 — [La optimización del embudo de captación (o adquisición) de clientes.](https://www.forentrepreneurs.com/es/la-optimizacion-del-embudo-de-captacion-o-adquisicion-de-clientes/) — `2014-11-17-es-la-optimizacion-del-embudo-de-captacion-o-adquisicion-de-clientes.md` — 6152w
-- 2014-10-22 — [2014 Pacific Crest Saas Survey - Part 2](https://www.forentrepreneurs.com/2014-saas-survey-2/) — `2014-10-22-2014-saas-survey-2.md` — 1580w
-- 2014-10-09 — [2014 Pacific Crest SaaS Survey - Part 1](https://www.forentrepreneurs.com/2014-saas-survey-1/) — `2014-10-09-2014-saas-survey-1.md` — 1875w
-- 2014-10-01 — [Cómo impacta la complejidad del proceso de venta en la viabilidad del nuevo negocio.](https://www.forentrepreneurs.com/es/como-impacta-la-complejidad-del-proceso-de-venta-en-la-viabilidad-del-nuevo-negocio/) — `2014-10-01-es-como-impacta-la-complejidad-del-proceso-de-venta-en-la-viabilidad-del-nuevo-n.md` — 5475w
-- 2014-05-31 — [Métricas SaaS 2.0 - Definiciones detalladas](https://www.forentrepreneurs.com/metricas-saas-definiciones/) — `2014-05-31-metricas-saas-definiciones.md` — 1141w
-- 2014-05-31 — [Métricas SaaS 2.0 - Definiciones detalladas](https://www.forentrepreneurs.com/es/metricas-saas-definiciones/) — `2014-05-31-es-metricas-saas-definiciones.md` — 1151w
-- 2014-03-26 — [That’s a nice little $40M ecommerce company. Call me when it scales](https://www.forentrepreneurs.com/ecommerce-cac/) — `2014-03-26-ecommerce-cac.md` — 1640w
-- 2013-11-05 — [Managing Customer Success to Reduce Churn](https://www.forentrepreneurs.com/customer-success/) — `2013-11-05-customer-success.md` — 3957w
-- 2013-01-16 — [Métricas Saas 2.0 – Um guia para medir e melhorar o que realmente importa](https://www.forentrepreneurs.com/pt-br/saas-metrics-2/) — `2013-01-16-pt-br-saas-metrics-2.md` — 7272w
-- 2013-01-16 — [Métricas SaaS 2.0 - Guía para medir y mejorar lo que importa](https://www.forentrepreneurs.com/es/saas-metrics-2/) — `2013-01-16-es-saas-metrics-2.md` — 8424w
-- 2012-05-07 — [Unlocking the Path to Negative Churn](https://www.forentrepreneurs.com/why-churn-is-critical-in-saas/) — `2012-05-07-why-churn-is-critical-in-saas.md` — 1855w
-- 2012-01-24 — [An Argument for Specialized Sales Teams - An Interview with Aaron Ross](https://www.forentrepreneurs.com/predictable-revenue/) — `2012-01-24-predictable-revenue.md` — 2840w
-- 2011-11-22 — [Inside Sales Best Practices: HubSpot - A Case Study](https://www.forentrepreneurs.com/hubspot-saas-inside-sales/) — `2011-11-22-hubspot-saas-inside-sales.md` — 2481w
-- 2011-11-15 — [When Selling is the Worst Way to Win Customers](https://www.forentrepreneurs.com/build-trusted-relationships/) — `2011-11-15-build-trusted-relationships.md` — 2960w
-- 2011-10-26 — [Scalable Pricing: A Key Tool For SaaS Success](https://www.forentrepreneurs.com/multi-axis-pricing-a-key-tool-for-increasing-saas-revenue/) — `2011-10-26-multi-axis-pricing-a-key-tool-for-increasing-saas-revenue.md` — 1734w
-- 2011-09-19 — [Measure Customer Engagement: Increase Conversion and Lower Churn](https://www.forentrepreneurs.com/customer-engagement/) — `2011-09-19-customer-engagement.md` — 2452w
-- 2011-09-15 — [The Science behind Viral Marketing](https://www.forentrepreneurs.com/the-science-behind-viral-marketing/) — `2011-09-15-the-science-behind-viral-marketing.md` — 197w
-- 2011-04-25 — [Brainstorming for New Startup Ideas: A Framework to Spur Creative Thinking](https://www.forentrepreneurs.com/startup-ideation/) — `2011-04-25-startup-ideation.md` — 2102w
-- 2011-03-21 — [A Case Study: Up Close and Personal for Product/Market Fit](https://www.forentrepreneurs.com/guidewire-story/) — `2011-03-21-guidewire-story.md` — 1233w
-- 2011-02-22 — [How Investors Validate Your Bookings Forecast](https://www.forentrepreneurs.com/will-your-2011-plan-stand-up-to-investor-scrutiny/) — `2011-02-22-will-your-2011-plan-stand-up-to-investor-scrutiny.md` — 1384w
-- 2011-01-13 — [How MySQL solved their Sales & Marketing challenges](https://www.forentrepreneurs.com/mysql-story/) — `2011-01-13-mysql-story.md` — 1115w
-- 2010-12-16 — [SaaS Business Models - Slide Deck](https://www.forentrepreneurs.com/saas-business-models-slide-deck/) — `2010-12-16-saas-business-models-slide-deck.md` — 161w
-- 2010-12-07 — [SaaS Economics - Part 2: Scaling the Business](https://www.forentrepreneurs.com/saas-economics-2/) — `2010-12-07-saas-economics-2.md` — 1825w
-- 2010-12-06 — [SaaS Economics - Part 1: The SaaS Cash Flow Trough](https://www.forentrepreneurs.com/saas-economics-1/) — `2010-12-06-saas-economics-1.md` — 1380w
-- 2010-07-15 — [Customer Acquisition: Maximizing your Funnel](https://www.forentrepreneurs.com/sales-funnel/) — `2010-07-15-sales-funnel.md` — 5529w
-- 2010-04-01 — [How Sales Complexity Impacts your Startup&rsquo;s Viability](https://www.forentrepreneurs.com/sales-complexity/) — `2010-04-01-sales-complexity.md` — 4394w
-- 2010-03-30 — [2013 Pacific Crest SaaS Survey](https://www.forentrepreneurs.com/2013-saas-survey/) — `2010-03-30-2013-saas-survey.md` — 2153w
-- 2010-02-17 — [SaaS Metrics &ndash; A Guide to Measuring and Improving What Matters](https://www.forentrepreneurs.com/saas-metrics/) — `2010-02-17-saas-metrics.md` — 4380w
-- 2010-02-01 — [Designing Metrics for Success](https://www.forentrepreneurs.com/designing-startup-metrics-to-drive-successful-behavior/) — `2010-02-01-designing-startup-metrics-to-drive-successful-behavior.md` — 2457w
-- 2010-01-11 — [SolidWorks: The best VAR management program in the world?](https://www.forentrepreneurs.com/solidworks/) — `2010-01-11-solidworks.md` — 2179w
-- 2010-01-11 — [SolidWorks 3: The best VAR management program in the world?](https://www.forentrepreneurs.com/solidworks-3/) — `2010-01-11-solidworks-3.md` — 1802w
-- 2010-01-11 — [SolidWorks 2: The best VAR management program in the world?](https://www.forentrepreneurs.com/solidworks-2/) — `2010-01-11-solidworks-2.md` — 1028w
-- 2010-01-06 — [Pacific Crest's 2011 SaaS Survey](https://www.forentrepreneurs.com/saas-survey/) — `2010-01-06-saas-survey.md` — 1318w
-- 2009-12-22 — [Startup Killer: the Cost of Customer Acquisition](https://www.forentrepreneurs.com/startup-killer/) — `2009-12-22-startup-killer.md` — 2652w
-- 2009-12-22 — [Asesino de startups: El coste de adquisición de clientes.](https://www.forentrepreneurs.com/es/startup-killer/) — `2009-12-22-es-startup-killer.md` — 3159w
-- 2009-12-06 — [Lessons Learned &ndash; Viral Marketing](https://www.forentrepreneurs.com/lessons-learnt-viral-marketing/) — `2009-12-06-lessons-learnt-viral-marketing.md` — 2317w
-- 2009-12-02 — [How JBoss Rose to the Top](https://www.forentrepreneurs.com/jboss-example/) — `2009-12-02-jboss-example.md` — 2581w
-- 2009-11-18 — [The 8 Dangers of Channel Sales](https://www.forentrepreneurs.com/channel-sales/) — `2009-11-18-channel-sales.md` — 720w
-- 2009-11-18 — [Field Sales: The Most Expensive Acquisition](https://www.forentrepreneurs.com/direct-sales/) — `2009-11-18-direct-sales.md` — 283w
-- 2009-11-01 — [Viral Acquisition? Great if You Can Monetize](https://www.forentrepreneurs.com/viral-customer-acquisition/) — `2009-11-01-viral-customer-acquisition.md` — 472w
-- 2009-10-25 — [The Power of Free](https://www.forentrepreneurs.com/power-of-free/) — `2009-10-25-power-of-free.md` — 824w
-- 2009-10-25 — [One of the Best Business Models: Recurring Revenue](https://www.forentrepreneurs.com/recurring-revenue/) — `2009-10-25-recurring-revenue.md` — 120w
-- 2009-10-25 — [Intro: An Analysis of 5 Business Models](https://www.forentrepreneurs.com/business-models/) — `2009-10-25-business-models.md` — 795w
-- 2009-10-25 — [Get Found using Inbound Marketing](https://www.forentrepreneurs.com/inbound-marketing/) — `2009-10-25-inbound-marketing.md` — 1528w
-- 2009-10-24 — [Where it all started - The One Day Sales Cycle](https://www.forentrepreneurs.com/one-day-sales-cycle/) — `2009-10-24-one-day-sales-cycle.md` — 1065w
-- 2009-10-24 — [Refining the Process](https://www.forentrepreneurs.com/managing-the-process/) — `2009-10-24-managing-the-process.md` — 458w
-- 2009-10-24 — [Instrumenting the Machine](https://www.forentrepreneurs.com/instrumenting-the-machine/) — `2009-10-24-instrumenting-the-machine.md` — 1089w
-- 2009-10-24 — [Focus & Market Segmentation](https://www.forentrepreneurs.com/focus-market-segmentation/) — `2009-10-24-focus-market-segmentation.md` — 561w
+- 2023-09-14 — [Permissionless Pilots – the fastest way to Wow!](https://www.forentrepreneurs.com/permissionless-pilot/) — `2023-09-14-permissionless-pilot.md` — 1297w
+- 2021-10-28 — [2021 SaaS Survey Results – Part 1](https://www.forentrepreneurs.com/saas-survey-2021-part-1/) — `2021-10-28-saas-survey-2021-part-1.md` — 186w
+- 2020-09-09 — [2020 SaaS Survey Results- COVID Edition!](https://www.forentrepreneurs.com/2020-saas-survey/) — `2020-09-09-2020-saas-survey.md` — 294w
+- 2020-06-10 — [How to Survive and Thrive in the post-Covid Era](https://www.forentrepreneurs.com/covid-survive-thrive/) — `2020-06-10-covid-survive-thrive.md` — 283w
+- 2020-02-18 — [9 Steps to Repeatable, Scalable, and Profitable Growth](https://www.forentrepreneurs.com/9-steps-podcast/) — `2020-02-18-9-steps-podcast.md` — 362w
+- 2019-10-15 — [2019 SAAS Private Survey Results- Part 1](https://www.forentrepreneurs.com/2019-saas-private-survey-results-part-1/) — `2019-10-15-2019-saas-private-survey-results-part-1.md` — 1152w
+- 2018-12-05 — [Matrix Growth Academy – Zero to 100 Videos](https://www.forentrepreneurs.com/matrix-growth-academy-zero-to-100-videos/) — `2018-12-05-matrix-growth-academy-zero-to-100-videos.md` — 648w
+- 2018-11-15 — [2018 Private SAAS Company Survey- Part 2](https://www.forentrepreneurs.com/2018-private-saas-company-survey-part-2/) — `2018-11-15-2018-private-saas-company-survey-part-2.md` — 1783w
+- 2018-11-06 — [WebSummit Presentations](https://www.forentrepreneurs.com/websummit-2018/) — `2018-11-06-websummit-2018.md` — 413w
+- 2018-11-06 — [2018 SAAS Private Survey Results- Part 1](https://www.forentrepreneurs.com/2018-saas-private-survey-results-part-1/) — `2018-11-06-2018-saas-private-survey-results-part-1.md` — 1290w
+- 2018-09-25 — [We’re Overthinking Seed Round Signaling Effects](https://www.forentrepreneurs.com/were-overthinking-seed-round-signaling-effects/) — `2018-09-25-were-overthinking-seed-round-signaling-effects.md` — 1072w
+- 2018-09-06 — [Onboarding your first Sales Hire as an Entrepreneur](https://www.forentrepreneurs.com/first-sales-hire/) — `2018-09-06-first-sales-hire.md` — 1524w
+- 2018-07-13 — [“Zero to 100” for High Growth SaaS –  A workshop on how to build your Go-to-Market](https://www.forentrepreneurs.com/zero-to-100/) — `2018-07-13-zero-to-100.md` — 1048w
+- 2018-06-28 — [A High Growth SaaS Playbook – 12 Metrics to Drive Success](https://www.forentrepreneurs.com/a-high-growth-saas-playbook-12-metrics-to-drive-success/) — `2018-06-28-a-high-growth-saas-playbook-12-metrics-to-drive-success.md` — 181w
+- 2018-01-03 — [Top Two Reasons for Churn](https://www.forentrepreneurs.com/top-two-reasons-for-churn/) — `2018-01-03-top-two-reasons-for-churn.md` — 657w
+- 2017-12-13 — [The Never-Ending Journey: In Search of Product-Market-Fit](https://www.forentrepreneurs.com/search-for-product-market-fit/) — `2017-12-13-search-for-product-market-fit.md` — 3111w
+- 2017-12-06 — [How to calculate your total addressable market and make a great TAM slide for investors](https://www.forentrepreneurs.com/calculating-tam/) — `2017-12-06-calculating-tam.md` — 1458w
+- 2017-10-31 — [2017 Private SaaS Company Survey – Part 2](https://www.forentrepreneurs.com/2017-saas-survey-part-2/) — `2017-10-31-2017-saas-survey-part-2.md` — 786w
+- 2017-10-17 — [2017 Private SaaS Company Survey – Part 1](https://www.forentrepreneurs.com/2017-saas-survey-part-1/) — `2017-10-17-2017-saas-survey-part-1.md` — 1623w
+- 2017-09-18 — [The SaaS Founder’s Journey – What Matters At Each Stage](https://www.forentrepreneurs.com/saastock-2017/) — `2017-09-18-saastock-2017.md` — 157w
+- 2017-09-13 — [The Most Important Startup Question](https://www.forentrepreneurs.com/most-important-startup-question/) — `2017-09-13-most-important-startup-question.md` — 3020w
+- 2017-07-05 — [Bridge Group 2017 SaaS AE Metrics Report](https://www.forentrepreneurs.com/2017-saas-ae-metrics-report/) — `2017-07-05-2017-saas-ae-metrics-report.md` — 1677w
+- 2017-06-28 — [Why early-stage startups should wait to calculate LTV:CAC, and how they should use it when they do](https://www.forentrepreneurs.com/ltv-cac/) — `2017-06-28-ltv-cac.md` — 2401w
+- 2017-06-14 — [Optimize Your Funnel By Getting Inside Your Buyer’s Head](https://www.forentrepreneurs.com/heavybit/) — `2017-06-14-heavybit.md` — 9751w
+- 2017-04-19 — [Optimizing the SaaS Funnel from Top to Bottom](https://www.forentrepreneurs.com/optimizing-the-saas-funnel/) — `2017-04-19-optimizing-the-saas-funnel.md` — 506w
+- 2016-11-02 — [2016 SaaS Survey Infographic](https://www.forentrepreneurs.com/2016-saas-survey-infographic/) — `2016-11-02-2016-saas-survey-infographic.md` — 142w
+- 2016-11-02 — [2016 Pacific Crest SaaS Survey – Part 2](https://www.forentrepreneurs.com/2016-saas-survey-part-2/) — `2016-11-02-2016-saas-survey-part-2.md` — 1379w
+- 2016-10-17 — [2016 Pacific Crest SaaS Survey – Part 1](https://www.forentrepreneurs.com/2016-saas-survey-part-1/) — `2016-10-17-2016-saas-survey-part-1.md` — 2037w
+- 2016-08-17 — [Bridge Group 2016 Sales Development Metrics and Compensation Benchmark Report](https://www.forentrepreneurs.com/bridge-group-sales-development/) — `2016-08-17-bridge-group-sales-development.md` — 2801w
+- 2016-07-04 — [Microservices Essentials for Executives: The Key to High Velocity Software Development](https://www.forentrepreneurs.com/microservices/) — `2016-07-04-microservices.md` — 1881w
+- 2016-06-15 — [Marketing Attribution: Creating a Growth Engine at Salesforce, Zendesk and Slack](https://www.forentrepreneurs.com/marketing-attribution/) — `2016-06-15-marketing-attribution.md` — 3111w
+- 2016-06-01 — [What Your Opportunity Slide is Missing – Make Investors Believe](https://www.forentrepreneurs.com/opportunity-slide/) — `2016-06-01-opportunity-slide.md` — 3221w
+- 2016-05-12 — [Demystifying Churn: Measuring and Benchmarking this Metric](https://www.forentrepreneurs.com/demystifying-churn/) — `2016-05-12-demystifying-churn.md` — 774w
+- 2016-04-20 — [Clarity of Message: Why You Need A Great Message & How To Create It](https://www.forentrepreneurs.com/clarity-of-message/) — `2016-04-20-clarity-of-message.md` — 3321w
+- 2016-04-06 — [The Team Slide: You Had Me At Hello](https://www.forentrepreneurs.com/team-slide/) — `2016-04-06-team-slide.md` — 2456w
+- 2016-03-23 — [Five Ways to Nail your Pitch and Win Over Investors](https://www.forentrepreneurs.com/pitch-deck-narrative/) — `2016-03-23-pitch-deck-narrative.md` — 1934w
+- 2016-03-11 — [A Resource Guide: Hiring For Growth](https://www.forentrepreneurs.com/hiring-resource-guide/) — `2016-03-11-hiring-resource-guide.md` — 121w
+- 2016-03-09 — [The Close: New Rules for Hiring Executive Candidates](https://www.forentrepreneurs.com/the-close/) — `2016-03-09-the-close.md` — 2193w
+- 2016-02-17 — [When to Pay and Account for Commissions](https://www.forentrepreneurs.com/commissions/) — `2016-02-17-commissions.md` — 358w
+- 2016-02-17 — [SaaS Sales Compensation: How to Design the Right Plan](https://www.forentrepreneurs.com/saas-sales-compensation-plan/) — `2016-02-17-saas-sales-compensation-plan.md` — 3011w
+- 2016-02-17 — [Figuring out Quota and Commission Rates](https://www.forentrepreneurs.com/quota-and-commission-rates/) — `2016-02-17-quota-and-commission-rates.md` — 541w
+- 2016-02-10 — [The Key Drivers for SaaS Success](https://www.forentrepreneurs.com/saastr/) — `2016-02-10-saastr.md` — 159w
+- 2016-02-04 — [Executive Hires: The Case for Extreme Referencing](https://www.forentrepreneurs.com/extreme-referencing/) — `2016-02-04-extreme-referencing.md` — 2967w
+- 2016-01-20 — [Best of forEntrepreneurs](https://www.forentrepreneurs.com/best-of/) — `2016-01-20-best-of.md` — 131w
+- 2015-12-22 — [Having Success With Code Bootcamps: Where To Work As A Bootcamp Grad](https://www.forentrepreneurs.com/bootcamp-3/) — `2015-12-22-bootcamp-3.md` — 1284w
+- 2015-12-14 — [Having Success With Code Bootcamps: Hiring Lessons For Employers](https://www.forentrepreneurs.com/bootcamp-2/) — `2015-12-14-bootcamp-2.md` — 2153w
+- 2015-12-10 — [What’s your TRUE customer lifetime value (LTV)?  – DCF provides the answer](https://www.forentrepreneurs.com/ltv/) — `2015-12-10-ltv.md` — 4028w
+- 2015-12-10 — [How to calculate the Discount Rate to use in a Discounted Cash Flow (DCF) Analysis](https://www.forentrepreneurs.com/discount-rate-for-dcf/) — `2015-12-10-discount-rate-for-dcf.md` — 1090w
+- 2015-12-03 — [A Guide: Successfully Hiring Code Bootcamp Grads](https://www.forentrepreneurs.com/bootcamp/) — `2015-12-03-bootcamp.md` — 1075w
+- 2015-12-02 — [12 Tactics to Perfect your Interviewing Process](https://www.forentrepreneurs.com/interviewing/) — `2015-12-02-interviewing.md` — 3991w
+- 2015-11-23 — [How Startups Can Build a Recruiting Machine (Webinar)](https://www.forentrepreneurs.com/lever-recruiting-webinar/) — `2015-11-23-lever-recruiting-webinar.md` — 197w
+- 2015-11-19 — [2015 Pacific Crest SaaS Survey – Part 2](https://www.forentrepreneurs.com/2015-saas-survey-part-2/) — `2015-11-19-2015-saas-survey-part-2.md` — 1747w
+- 2015-11-19 — [2015 Pacific Crest SaaS Survey – Part 1](https://www.forentrepreneurs.com/2015-saas-survey-part-1/) — `2015-11-19-2015-saas-survey-part-1.md` — 2063w
+- 2015-11-10 — [forEntrepreneurs 2015 SaaS Survey Infographic](https://www.forentrepreneurs.com/2015-infographic/) — `2015-11-10-2015-infographic.md` — 139w
+- 2015-11-03 — [Welcome to the new forEntrepreneurs blog site!](https://www.forentrepreneurs.com/welcome-to-forentrepreneurs/) — `2015-11-03-welcome-to-forentrepreneurs.md` — 186w
+- 2015-11-03 — [Accelerate Your Startup: Tuning the Engine](https://www.forentrepreneurs.com/part-1-accelerate-your-startup-get-the-right-productmarket-fit/) — `2015-11-03-part-1-accelerate-your-startup-get-the-right-productmarket-fit.md` — 1066w
+- 2015-11-03 — [Accelerate Your Startup: It’s Time to Floor It](https://www.forentrepreneurs.com/accelerate-your-startup-spend-to-scale-the-business/) — `2015-11-03-accelerate-your-startup-spend-to-scale-the-business.md` — 844w
+- 2015-11-03 — [Accelerate Your Startup: Adding Gas to the Tank](https://www.forentrepreneurs.com/accelerate-your-startup-develop-a-repeatable-sales-model/) — `2015-11-03-accelerate-your-startup-develop-a-repeatable-sales-model.md` — 850w
+- 2015-08-12 — [A Strong Team Starts at Onboarding](https://www.forentrepreneurs.com/onboarding/) — `2015-08-12-onboarding.md` — 3907w
+- 2015-07-23 — [A Shockingly Common Way that Sales Misses Plan](https://www.forentrepreneurs.com/sales-misses-plan/) — `2015-07-23-sales-misses-plan.md` — 1547w
+- 2015-06-11 — [Recruiting – The 3rd Crucial Startup Skill](https://www.forentrepreneurs.com/recruiting/) — `2015-06-11-recruiting.md` — 4421w
+- 2015-02-10 — [Bridge Group 2015 SaaS Inside Sales Survey Report](https://www.forentrepreneurs.com/bridge-group-2015/) — `2015-02-10-bridge-group-2015.md` — 2429w
+- 2015-02-01 — [Sales Predictability with a little bit of Glengarry Glen Ross](https://www.forentrepreneurs.com/acquia/) — `2015-02-01-acquia.md` — 2352w
+- 2014-12-03 — [Consumerization of the Enterprise – Phase 2](https://www.forentrepreneurs.com/consumerization-of-the-enterprise-phase-2/) — `2014-12-03-consumerization-of-the-enterprise-phase-2.md` — 1737w
+- 2014-10-22 — [2014 Pacific Crest Saas Survey – Part 2](https://www.forentrepreneurs.com/2014-saas-survey-2/) — `2014-10-22-2014-saas-survey-2.md` — 1882w
+- 2014-10-09 — [2014 Pacific Crest SaaS Survey – Part 1](https://www.forentrepreneurs.com/2014-saas-survey-1/) — `2014-10-09-2014-saas-survey-1.md` — 2155w
+- 2014-07-04 — [SaaS Metrics 2.0 – Detailed Definitions](https://www.forentrepreneurs.com/saas-metrics-2-definitions-2/) — `2014-07-04-saas-metrics-2-definitions-2.md` — 2496w
+- 2014-05-31 — [Métricas SaaS 2.0 – Definiciones detalladas](https://www.forentrepreneurs.com/metricas-saas-definiciones/) — `2014-05-31-metricas-saas-definiciones.md` — 1241w
+- 2014-04-01 — [Growth Hacking: Creating a Wow Moment](https://www.forentrepreneurs.com/time-to-wow/) — `2014-04-01-time-to-wow.md` — 2794w
+- 2014-03-26 — [That’s a nice little $40M ecommerce company. Call me when it scales](https://www.forentrepreneurs.com/ecommerce-cac/) — `2014-03-26-ecommerce-cac.md` — 1636w
+- 2013-12-16 — [The Key to Building Smarter Software: Deliver Insights](https://www.forentrepreneurs.com/actionable-insights/) — `2013-12-16-actionable-insights.md` — 1576w
+- 2013-11-05 — [Managing Customer Success to Reduce Churn](https://www.forentrepreneurs.com/customer-success/) — `2013-11-05-customer-success.md` — 4159w
+- 2013-01-16 — [SaaS Metrics 2.0 – A Guide to Measuring and Improving what Matters](https://www.forentrepreneurs.com/saas-metrics-2/) — `2013-01-16-saas-metrics-2.md` — 7698w
+- 2012-08-28 — [Validating your Decisions Using Surveys](https://www.forentrepreneurs.com/surveys/) — `2012-08-28-surveys.md` — 3982w
+- 2012-05-07 — [Unlocking the Path to Negative Churn](https://www.forentrepreneurs.com/why-churn-is-critical-in-saas/) — `2012-05-07-why-churn-is-critical-in-saas.md` — 1903w
+- 2012-01-24 — [An Argument for Specialized Sales Teams — An Interview with Aaron Ross](https://www.forentrepreneurs.com/predictable-revenue/) — `2012-01-24-predictable-revenue.md` — 3021w
+- 2012-01-11 — [Do you know your Customer? Buying Cycle & Triggers](https://www.forentrepreneurs.com/buying-cycle-and-triggers/) — `2012-01-11-buying-cycle-and-triggers.md` — 2235w
+- 2011-11-22 — [Inside Sales Best Practices: HubSpot – A Case Study](https://www.forentrepreneurs.com/hubspot-saas-inside-sales/) — `2011-11-22-hubspot-saas-inside-sales.md` — 2698w
+- 2011-11-15 — [When Selling is the Worst Way to Win Customers](https://www.forentrepreneurs.com/build-trusted-relationships/) — `2011-11-15-build-trusted-relationships.md` — 3094w
+- 2011-10-26 — [Scalable Pricing: A Key Tool For SaaS Success](https://www.forentrepreneurs.com/multi-axis-pricing-a-key-tool-for-increasing-saas-revenue/) — `2011-10-26-multi-axis-pricing-a-key-tool-for-increasing-saas-revenue.md` — 1826w
+- 2011-09-19 — [Measure Customer Engagement: Increase Conversion and Lower Churn](https://www.forentrepreneurs.com/customer-engagement/) — `2011-09-19-customer-engagement.md` — 2561w
+- 2011-09-15 — [The Science behind Viral Marketing](https://www.forentrepreneurs.com/the-science-behind-viral-marketing/) — `2011-09-15-the-science-behind-viral-marketing.md` — 203w
+- 2011-04-25 — [Brainstorming for New Startup Ideas: A Framework to Spur Creative Thinking](https://www.forentrepreneurs.com/startup-ideation/) — `2011-04-25-startup-ideation.md` — 2238w
+- 2011-04-07 — [Cash is King: 8 tips to Optimize Fundraising Strategy](https://www.forentrepreneurs.com/cash-is-king-8-tips-for-optimizing-your-startup-financing-strategy/) — `2011-04-07-cash-is-king-8-tips-for-optimizing-your-startup-financing-strategy.md` — 2645w
+- 2011-03-21 — [A Case Study: Up Close and Personal for Product/Market Fit](https://www.forentrepreneurs.com/guidewire-story/) — `2011-03-21-guidewire-story.md` — 1236w
+- 2011-02-22 — [How Investors Validate Your Bookings Forecast](https://www.forentrepreneurs.com/will-your-2011-plan-stand-up-to-investor-scrutiny/) — `2011-02-22-will-your-2011-plan-stand-up-to-investor-scrutiny.md` — 1422w
+- 2011-01-13 — [How MySQL solved their Sales & Marketing challenges](https://www.forentrepreneurs.com/mysql-story/) — `2011-01-13-mysql-story.md` — 1211w
+- 2010-12-16 — [SaaS Business Models – Slide Deck](https://www.forentrepreneurs.com/saas-business-models-slide-deck/) — `2010-12-16-saas-business-models-slide-deck.md` — 157w
+- 2010-12-07 — [SaaS Economics – Part 2: Scaling the Business](https://www.forentrepreneurs.com/saas-economics-2/) — `2010-12-07-saas-economics-2.md` — 1913w
+- 2010-12-06 — [SaaS Economics – Part 1: The SaaS Cash Flow Trough](https://www.forentrepreneurs.com/saas-economics-1/) — `2010-12-06-saas-economics-1.md` — 1485w
+- 2010-07-15 — [Customer Acquisition: Maximizing your Funnel](https://www.forentrepreneurs.com/sales-funnel/) — `2010-07-15-sales-funnel.md` — 5662w
+- 2010-06-12 — [What drives great entrepreneurs](https://www.forentrepreneurs.com/what-drives-great-entrepreneurs/) — `2010-06-12-what-drives-great-entrepreneurs.md` — 1493w
+- 2010-04-01 — [How Sales Complexity Impacts your Startup&rsquo;s Viability](https://www.forentrepreneurs.com/sales-complexity/) — `2010-04-01-sales-complexity.md` — 4587w
+- 2010-03-30 — [2013 Pacific Crest SaaS Survey](https://www.forentrepreneurs.com/2013-saas-survey/) — `2010-03-30-2013-saas-survey.md` — 2556w
+- 2010-02-17 — [SaaS Metrics &ndash; A Guide to Measuring and Improving What Matters](https://www.forentrepreneurs.com/saas-metrics/) — `2010-02-17-saas-metrics.md` — 4481w
+- 2010-01-31 — [Designing Metrics for Success](https://www.forentrepreneurs.com/designing-startup-metrics-to-drive-successful-behavior/) — `2010-01-31-designing-startup-metrics-to-drive-successful-behavior.md` — 2552w
+- 2010-01-11 — [SolidWorks: The best VAR management program in the world?](https://www.forentrepreneurs.com/solidworks/) — `2010-01-11-solidworks.md` — 2246w
+- 2010-01-11 — [SolidWorks 3: The best VAR management program in the world?](https://www.forentrepreneurs.com/solidworks-3/) — `2010-01-11-solidworks-3.md` — 1859w
+- 2010-01-11 — [SolidWorks 2: The best VAR management program in the world?](https://www.forentrepreneurs.com/solidworks-2/) — `2010-01-11-solidworks-2.md` — 1078w
+- 2010-01-06 — [Pacific Crest’s 2011 SaaS Survey](https://www.forentrepreneurs.com/saas-survey/) — `2010-01-06-saas-survey.md` — 1530w
+- 2009-12-22 — [Startup Killer: the Cost of Customer Acquisition](https://www.forentrepreneurs.com/startup-killer/) — `2009-12-22-startup-killer.md` — 2710w
+- 2009-12-06 — [Lessons Learned &ndash; Viral Marketing](https://www.forentrepreneurs.com/lessons-learnt-viral-marketing/) — `2009-12-06-lessons-learnt-viral-marketing.md` — 2357w
+- 2009-12-02 — [How JBoss Rose to the Top](https://www.forentrepreneurs.com/jboss-example/) — `2009-12-02-jboss-example.md` — 2665w
+- 2009-11-28 — [Is Your Startup Idea Viable?](https://www.forentrepreneurs.com/6-things-vcs-look-for-in-an-investment/) — `2009-11-28-6-things-vcs-look-for-in-an-investment.md` — 878w
+- 2009-11-18 — [The 8 Dangers of Channel Sales](https://www.forentrepreneurs.com/channel-sales/) — `2009-11-18-channel-sales.md` — 717w
+- 2009-11-18 — [Field Sales: The Most Expensive Acquisition](https://www.forentrepreneurs.com/direct-sales/) — `2009-11-18-direct-sales.md` — 279w
+- 2009-11-01 — [Viral Acquisition? Great if You Can Monetize](https://www.forentrepreneurs.com/viral-customer-acquisition/) — `2009-11-01-viral-customer-acquisition.md` — 479w
+- 2009-10-24 — [Where it all started – The One Day Sales Cycle](https://www.forentrepreneurs.com/one-day-sales-cycle/) — `2009-10-24-one-day-sales-cycle.md` — 1095w
+- 2009-10-24 — [The Power of Free](https://www.forentrepreneurs.com/power-of-free/) — `2009-10-24-power-of-free.md` — 842w
+- 2009-10-24 — [Solving Blockage Points](https://www.forentrepreneurs.com/solving-blockage-points/) — `2009-10-24-solving-blockage-points.md` — 1104w
+- 2009-10-24 — [Refining the Process](https://www.forentrepreneurs.com/managing-the-process/) — `2009-10-24-managing-the-process.md` — 481w
+- 2009-10-24 — [Introduction to the Sales and Marketing Machine](https://www.forentrepreneurs.com/sales-marketing-machine/) — `2009-10-24-sales-marketing-machine.md` — 679w
+- 2009-10-24 — [Intro: An Analysis of 5 Business Models](https://www.forentrepreneurs.com/business-models/) — `2009-10-24-business-models.md` — 820w
+- 2009-10-24 — [Instrumenting the Machine](https://www.forentrepreneurs.com/instrumenting-the-machine/) — `2009-10-24-instrumenting-the-machine.md` — 1143w
+- 2009-10-24 — [Get Found using Inbound Marketing](https://www.forentrepreneurs.com/inbound-marketing/) — `2009-10-24-inbound-marketing.md` — 1586w
+- 2009-10-24 — [Focus & Market Segmentation](https://www.forentrepreneurs.com/focus-market-segmentation/) — `2009-10-24-focus-market-segmentation.md` — 594w
+- 2009-10-24 — [Building the Machine](https://www.forentrepreneurs.com/building-the-machine/) — `2009-10-24-building-the-machine.md` — 1710w
+- 2009-10-24 — [6 Reasons Startups Fail](https://www.forentrepreneurs.com/why-startups-fail/) — `2009-10-24-why-startups-fail.md` — 2022w

@@ -1,7 +1,7 @@
 # Chris Dixon corpus index
 
-Source: https://cdixon.org — fetched 2026-07-19
-83 posts, 51525 words. Format: date — [title](canonical url) — `file` — words.
+Source: https://cdixon.org — fetched 2026-07-20
+290 posts, 140494 words. Format: date — [title](canonical url) — `file` — words.
 
 - 2023-06-22 — [I wrote a book: Read Write Own](https://cdixon.org/2023/06/22/read-write-own/) — `2023-06-22-2023-06-22-read-write-own.md` — 573w
 - 2023-06-22 — [Archive](https://cdixon.org/archive/) — `2023-06-22-archive.md` — 1927w
@@ -86,3 +86,210 @@ Source: https://cdixon.org — fetched 2026-07-19
 - 2012-09-10 — [Notes on the acquisition process](https://cdixon.org/2012/09/10/notes-on-the-acquisition-process/) — `2012-09-10-2012-09-10-notes-on-the-acquisition-process.md` — 797w
 - 2012-09-03 — [The time to eat the hors d’oeuvres is when they’re being passed](https://cdixon.org/2012/09/03/the-time-to-eat-the-hors-doeuvres-is-when-theyre-being-passed/) — `2012-09-03-2012-09-03-the-time-to-eat-the-hors-doeuvres-is-when-theyre-being-passed.md` — 380w
 - 2012-08-15 — [E](https://cdixon.org/2012/08/15/e-commerce-startups/) — `2012-08-15-2012-08-15-e-commerce-startups.md` — 276w
+- 2012-08-03 — [Ten million users is the new one million users](https://cdixon.org/2012/08/03/ten-million-is-the-new-one-million/) — `2012-08-03-2012-08-03-ten-million-is-the-new-one-million.md` — 294w
+- 2012-07-19 — [Shoehorning startups into the VC model](https://cdixon.org/2012/07/19/shoehorning-startups-into-the-vc-model/) — `2012-07-19-2012-07-19-shoehorning-startups-into-the-vc-model.md` — 239w
+- 2012-07-17 — [Capabilities and sensibilities](https://cdixon.org/2012/07/17/capabilities-and-sensibilities/) — `2012-07-17-2012-07-17-capabilities-and-sensibilities.md` — 213w
+- 2012-07-08 — [How bundling benefits sellers and buyers](https://cdixon.org/2012/07/08/how-bundling-benefits-sellers-and-buyers/) — `2012-07-08-2012-07-08-how-bundling-benefits-sellers-and-buyers.md` — 589w
+- 2012-07-04 — [Pricing to the demand curve](https://cdixon.org/2012/07/04/pricing-to-the-demand-curve/) — `2012-07-04-2012-07-04-pricing-to-the-demand-curve.md` — 668w
+- 2012-06-27 — [The real strategy behind tiered data plans](https://cdixon.org/2012/06/27/the-real-strategy-behind-tiered-data-plans/) — `2012-06-27-2012-06-27-the-real-strategy-behind-tiered-data-plans.md` — 214w
+- 2012-06-25 — [Why the integrated approach to mobile devices is winning](https://cdixon.org/2012/06/25/why-the-integrated-approach-to-mobile-devices-is-winning/) — `2012-06-25-2012-06-25-why-the-integrated-approach-to-mobile-devices-is-winning.md` — 590w
+- 2012-06-19 — [Firing](https://cdixon.org/2012/06/19/firing/) — `2012-06-19-2012-06-19-firing.md` — 324w
+- 2012-06-16 — [Critics and practitioners](https://cdixon.org/2012/06/16/critics-and-practitioners/) — `2012-06-16-2012-06-16-critics-and-practitioners.md` — 219w
+- 2012-06-06 — [Equity value](https://cdixon.org/2012/06/06/equity-value/) — `2012-06-06-2012-06-06-equity-value.md` — 329w
+- 2012-06-05 — [Different types of risk](https://cdixon.org/2012/06/05/different-types-of-risk/) — `2012-06-05-2012-06-05-different-types-of-risk.md` — 222w
+- 2012-06-02 — [Some thoughts on when to raise money, and the current financing environment](https://cdixon.org/2012/06/02/some-thoughts-on-when-to-raise-money-and-the-current-financing-environment/) — `2012-06-02-2012-06-02-some-thoughts-on-when-to-raise-money-and-the-current-financing-enviro.md` — 574w
+- 2012-05-26 — [The experience economy](https://cdixon.org/2012/05/26/the-experience-economy/) — `2012-05-26-2012-05-26-the-experience-economy.md` — 297w
+- 2012-05-24 — [When should you give up on an idea?](https://cdixon.org/2012/05/24/when-should-you-give-up-on-an-idea/) — `2012-05-24-2012-05-24-when-should-you-give-up-on-an-idea.md` — 265w
+- 2012-05-21 — [Four types of mobile apps](https://cdixon.org/2012/05/21/four-types-of-mobile-apps/) — `2012-05-21-2012-05-21-four-types-of-mobile-apps.md` — 467w
+- 2012-05-18 — [The default state of a startup is failure](https://cdixon.org/2012/05/18/the-default-state-of-a-startup-is-failure/) — `2012-05-18-2012-05-18-the-default-state-of-a-startup-is-failure.md` — 233w
+- 2012-05-10 — [Blogging to learn](https://cdixon.org/2012/05/10/blogging-to-learn/) — `2012-05-10-2012-05-10-blogging-to-learn.md` — 244w
+- 2012-04-29 — [Is it a tech bubble?](https://cdixon.org/2012/04/29/is-it-a-tech-bubble/) — `2012-04-29-2012-04-29-is-it-a-tech-bubble.md` — 677w
+- 2012-04-26 — [Incumbents die due to irrelevance or ineptitude](https://cdixon.org/2012/04/26/incumbents-die-due-to-irrelevance-or-ineptitude/) — `2012-04-26-2012-04-26-incumbents-die-due-to-irrelevance-or-ineptitude.md` — 522w
+- 2012-04-25 — [The risks of being a small investor in a private company](https://cdixon.org/2012/04/25/the-risks-of-being-a-small-investor-in-a-private-company/) — `2012-04-25-2012-04-25-the-risks-of-being-a-small-investor-in-a-private-company.md` — 512w
+- 2012-04-22 — [Outsource things you don’t care about](https://cdixon.org/2012/04/22/outsource-things-you-dont-care-about/) — `2012-04-22-2012-04-22-outsource-things-you-dont-care-about.md` — 215w
+- 2012-04-20 — [Offline first, mobile enabled](https://cdixon.org/2012/04/20/offline-first-mobile-enabled/) — `2012-04-20-2012-04-20-offline-first-mobile-enabled.md` — 234w
+- 2012-04-18 — [“Meaningful” startups](https://cdixon.org/2012/04/18/meaningful-startups/) — `2012-04-18-2012-04-18-meaningful-startups.md` — 375w
+- 2012-04-14 — [There are two ways to make large datasets useful](https://cdixon.org/2012/04/14/there-are-two-ways-to-make-large-datasets-useful/) — `2012-04-14-2012-04-14-there-are-two-ways-to-make-large-datasets-useful.md` — 357w
+- 2012-04-10 — [Increasing velocity](https://cdixon.org/2012/04/10/increasing-velocity/) — `2012-04-10-2012-04-10-increasing-velocity.md` — 346w
+- 2012-04-03 — [Facebook’s response to Yahoo’s patent lawsuit](https://cdixon.org/2012/04/03/facebooks-response-to-yahoos-patent-lawsuit/) — `2012-04-03-2012-04-03-facebooks-response-to-yahoos-patent-lawsuit.md` — 228w
+- 2012-04-02 — [Revisited: big VCs investing in seed rounds](https://cdixon.org/2012/04/02/revisited-big-vcs-investing-in-seed-rounds/) — `2012-04-02-2012-04-02-revisited-big-vcs-investing-in-seed-rounds.md` — 379w
+- 2012-03-26 — [Give away the diagnostic, sell the remedy](https://cdixon.org/2012/03/26/give-away-the-diagnostic-sell-the-remedy/) — `2012-03-26-2012-03-26-give-away-the-diagnostic-sell-the-remedy.md` — 278w
+- 2012-03-16 — [The myth of the overnight success](https://cdixon.org/2012/03/16/the-myth-of-the-overnight-success/) — `2012-03-16-2012-03-16-the-myth-of-the-overnight-success.md` — 163w
+- 2012-03-01 — [Some tips for interacting with the press](https://cdixon.org/2012/03/01/some-tips-for-interacting-with-the-press/) — `2012-03-01-2012-03-01-some-tips-for-interacting-with-the-press.md` — 433w
+- 2012-02-26 — [The internet is reshaping our economy from one of huge corporations with lots of jobs to huge platforms with lots of income streams](https://cdixon.org/2012/02/26/the-internet-is-reshaping-our-economy-from-one-of-huge-corporations-with-lots-of-jobs-to-huge-platforms-with-lots-of-income-streams/) — `2012-02-26-2012-02-26-the-internet-is-reshaping-our-economy-from-one-of-huge-corporations-w.md` — 298w
+- 2012-02-25 — [Once you take money, the clock starts ticking](https://cdixon.org/2012/02/25/once-you-take-money-the-clock-starts-ticking/) — `2012-02-25-2012-02-25-once-you-take-money-the-clock-starts-ticking.md` — 439w
+- 2012-02-23 — [Big timing](https://cdixon.org/2012/02/23/big-timing/) — `2012-02-23-2012-02-23-big-timing.md` — 155w
+- 2012-02-19 — [“It is the human friction that makes the sparks”](https://cdixon.org/2012/02/19/it-is-the-human-friction-that-makes-the-sparks/) — `2012-02-19-2012-02-19-it-is-the-human-friction-that-makes-the-sparks.md` — 329w
+- 2012-02-14 — [Platform distribution risks](https://cdixon.org/2012/02/14/platform-distribution-risks/) — `2012-02-14-2012-02-14-platform-distribution-risks.md` — 459w
+- 2012-02-13 — [eBay vs Amazon: decentralized vs centralized e](https://cdixon.org/2012/02/13/ebay-vs-amazon-decentralized-vs-centralized-e-commerce/) — `2012-02-13-2012-02-13-ebay-vs-amazon-decentralized-vs-centralized-e-commerce.md` — 679w
+- 2012-02-13 — [Between failure and Facebook](https://cdixon.org/2012/02/13/between-failure-and-facebook/) — `2012-02-13-2012-02-13-between-failure-and-facebook.md` — 209w
+- 2012-02-12 — [Some thoughts on the iPhone contact list controversy and app security](https://cdixon.org/2012/02/12/some-thoughts-on-the-iphone-contact-list-controversy-and-app-security/) — `2012-02-12-2012-02-12-some-thoughts-on-the-iphone-contact-list-controversy-and-app-security.md` — 481w
+- 2012-02-11 — [And then, suddenly, it works](https://cdixon.org/2012/02/11/and-then-suddenly-it-works/) — `2012-02-11-2012-02-11-and-then-suddenly-it-works.md` — 200w
+- 2012-02-06 — [Bedrock programming](https://cdixon.org/2012/02/06/bedrock-programming/) — `2012-02-06-2012-02-06-bedrock-programming.md` — 263w
+- 2012-01-31 — [Who should learn to program?](https://cdixon.org/2012/01/31/who-should-learn-to-program/) — `2012-01-31-2012-01-31-who-should-learn-to-program.md` — 486w
+- 2012-01-23 — [What’s not evil: ranking content fairly *and* letting public content get indexed](https://cdixon.org/2012/01/23/whats-not-evil-ranking-content-fairly-and-letting-public-content-get-indexed/) — `2012-01-23-2012-01-23-whats-not-evil-ranking-content-fairly-and-letting-public-content-get-.md` — 359w
+- 2012-01-22 — [Revenue vs margin](https://cdixon.org/2012/01/22/revenue-vs-margin/) — `2012-01-22-2012-01-22-revenue-vs-margin.md` — 718w
+- 2012-01-05 — [Maximizing capacity utilization as a startup premise](https://cdixon.org/2012/01/05/maximizing-capacity-utilization-as-a-startup-premise/) — `2012-01-05-2012-01-05-maximizing-capacity-utilization-as-a-startup-premise.md` — 264w
+- 2012-01-02 — [Building products from improvised user behaviors](https://cdixon.org/2012/01/02/building-products-from-improvised-user-behaviors/) — `2012-01-02-2012-01-02-building-products-from-improvised-user-behaviors.md` — 194w
+- 2011-12-29 — [Recruiting programmers to your startup](https://cdixon.org/2011/12/29/recruiting-programmers-to-your-startup/) — `2011-12-29-2011-12-29-recruiting-programmers-to-your-startup.md` — 758w
+- 2011-12-21 — [What jobs are users hiring your product to perform?](https://cdixon.org/2011/12/21/what-jobs-are-users-hiring-your-product-to-perform/) — `2011-12-21-2011-12-21-what-jobs-are-users-hiring-your-product-to-perform.md` — 540w
+- 2011-12-20 — [Trusting platforms](https://cdixon.org/2011/12/20/trusting-platforms/) — `2011-12-20-2011-12-20-trusting-platforms.md` — 203w
+- 2011-12-19 — [An internet of people](https://cdixon.org/2011/12/19/an-internet-of-people/) — `2011-12-19-2011-12-19-an-internet-of-people.md` — 149w
+- 2011-12-14 — [Forces that affect whether a large company will buy your product (according to Marc Andreessen)](https://cdixon.org/2011/12/14/forces-that-affect-whether-a-large-company-will-buy-your-product-according-to-marc-andreessen/) — `2011-12-14-2011-12-14-forces-that-affect-whether-a-large-company-will-buy-your-product-acco.md` — 204w
+- 2011-12-13 — [Later-stage rounds and “setting the bar too high”](https://cdixon.org/2011/12/13/later-stage-rounds-and-setting-the-bar-too-high/) — `2011-12-13-2011-12-13-later-stage-rounds-and-setting-the-bar-too-high.md` — 547w
+- 2011-12-10 — [Three types of acquisitions](https://cdixon.org/2011/12/10/three-types-of-acquisitions/) — `2011-12-10-2011-12-10-three-types-of-acquisitions.md` — 236w
+- 2011-12-08 — [Technology and job creation](https://cdixon.org/2011/12/08/technology-and-job-creation/) — `2011-12-08-2011-12-08-technology-and-job-creation.md` — 477w
+- 2011-12-07 — [Growth curves of startups](https://cdixon.org/2011/12/07/growth-curves-of-startups/) — `2011-12-07-2011-12-07-growth-curves-of-startups.md` — 149w
+- 2011-12-06 — [Always have 18 months of cash in the bank](https://cdixon.org/2011/12/06/always-have-18-months-of-cash-in-the-bank/) — `2011-12-06-2011-12-06-always-have-18-months-of-cash-in-the-bank.md` — 265w
+- 2011-12-05 — [Making industries “garage ready” for startups](https://cdixon.org/2011/12/05/making-industries-garage-ready-for-startups/) — `2011-12-05-2011-12-05-making-industries-garage-ready-for-startups.md` — 313w
+- 2011-12-04 — [Why is enterprise tech so far behind consumer tech? Because it can be.](https://cdixon.org/2011/12/04/why-is-enterprise-tech-so-far-behind-consumer-tech-because-it-can-be/) — `2011-12-04-2011-12-04-why-is-enterprise-tech-so-far-behind-consumer-tech-because-it-can-be.md` — 239w
+- 2011-12-03 — [The enterprise: buyers versus users](https://cdixon.org/2011/12/03/the-enterprise-buyers-versus-users/) — `2011-12-03-2011-12-03-the-enterprise-buyers-versus-users.md` — 149w
+- 2011-12-01 — [“Otherwise do something else”](https://cdixon.org/2011/12/01/otherwise-do-something-else/) — `2011-12-01-2011-12-01-otherwise-do-something-else.md` — 163w
+- 2011-11-28 — [Business development: the Goldilocks principle](https://cdixon.org/2011/11/28/business-development-the-goldilocks-principle/) — `2011-11-28-2011-11-28-business-development-the-goldilocks-principle.md` — 592w
+- 2011-09-28 — [Some lessons learned](https://cdixon.org/2011/09/28/some-lessons-learned/) — `2011-09-28-2011-09-28-some-lessons-learned.md` — 992w
+- 2011-09-12 — [Owning equity in your company should be as common as owning equity in your home](https://cdixon.org/2011/09/12/owning-equity-in-your-company-should-be-as-common-as-owning-equity-in-your-home/) — `2011-09-12-2011-09-12-owning-equity-in-your-company-should-be-as-common-as-owning-equity-in.md` — 265w
+- 2011-08-28 — [Do you want to sell sugar water or do you want to change the world?](https://cdixon.org/2011/08/28/do-you-want-to-sell-sugar-water-or-do-you-want-to-change-the-world/) — `2011-08-28-2011-08-28-do-you-want-to-sell-sugar-water-or-do-you-want-to-change-the-world.md` — 354w
+- 2011-08-02 — [What the NYC startup world needs (and doesn’t need)](https://cdixon.org/2011/08/02/what-the-nyc-startup-world-needs-and-doesnt-need/) — `2011-08-02-2011-08-02-what-the-nyc-startup-world-needs-and-doesnt-need.md` — 728w
+- 2011-08-01 — [Pivoting into a new corporate structure](https://cdixon.org/2011/08/01/pivoting-into-a-new-corporate-structure/) — `2011-08-01-2011-08-01-pivoting-into-a-new-corporate-structure.md` — 394w
+- 2011-07-28 — [The downside of accelerated investment decisions](https://cdixon.org/2011/07/28/the-downside-of-accelerated-investment-decisions/) — `2011-07-28-2011-07-28-the-downside-of-accelerated-investment-decisions.md` — 260w
+- 2011-07-26 — [The tragedy of the anticommons](https://cdixon.org/2011/07/26/the-tragedy-of-the-anticommons/) — `2011-07-26-2011-07-26-the-tragedy-of-the-anticommons.md` — 192w
+- 2011-07-16 — [Thomas Jefferson on Patents](https://cdixon.org/2011/07/16/thomas-jefferson-on-patents/) — `2011-07-16-2011-07-16-thomas-jefferson-on-patents.md` — 344w
+- 2011-06-19 — [Founder/market fit](https://cdixon.org/2011/06/19/foundermarket-fit/) — `2011-06-19-2011-06-19-foundermarket-fit.md` — 529w
+- 2011-06-16 — [Allocation investing and the social premium](https://cdixon.org/2011/06/16/allocation-investing-and-the-social-premium/) — `2011-06-16-2011-06-16-allocation-investing-and-the-social-premium.md` — 416w
+- 2011-06-09 — [Notes on raising seed financing](https://cdixon.org/2011/06/09/notes-on-raising-seed-financing/) — `2011-06-09-2011-06-09-notes-on-raising-seed-financing.md` — 783w
+- 2011-05-16 — [Accurate contrarian theories](https://cdixon.org/2011/05/16/accurate-contrarian-theories/) — `2011-05-16-2011-05-16-accurate-contrarian-theories.md` — 248w
+- 2011-05-12 — [Options](https://cdixon.org/2011/05/12/options/) — `2011-05-12-2011-05-12-options.md` — 759w
+- 2011-05-04 — [Best practices for raising a VC round](https://cdixon.org/2011/05/04/best-practices-for-raising-a-vc-round/) — `2011-05-04-2011-05-04-best-practices-for-raising-a-vc-round.md` — 631w
+- 2011-04-26 — [There are two kinds of people in the world](https://cdixon.org/2011/04/26/there-are-two-kinds-of-people-in-the-world/) — `2011-04-26-2011-04-26-there-are-two-kinds-of-people-in-the-world.md` — 255w
+- 2011-04-24 — [Inferring intent on mobile devices](https://cdixon.org/2011/04/24/inferring-intent-on-mobile-devices/) — `2011-04-24-2011-04-24-inferring-intent-on-mobile-devices.md` — 743w
+- 2011-04-20 — [Financing risk](https://cdixon.org/2011/04/20/financing-risk/) — `2011-04-20-2011-04-20-financing-risk.md` — 305w
+- 2011-04-17 — [Apple and the TV industry](https://cdixon.org/2011/04/17/apple-and-the-tv-industry/) — `2011-04-17-2011-04-17-apple-and-the-tv-industry.md` — 1030w
+- 2011-04-12 — [Showing up](https://cdixon.org/2011/04/12/showing-up/) — `2011-04-12-2011-04-12-showing-up.md` — 352w
+- 2011-04-10 — [Google’s social strategy](https://cdixon.org/2011/04/10/googles-social-strategy/) — `2011-04-10-2011-04-10-googles-social-strategy.md` — 909w
+- 2011-04-01 — [App store shenanigans](https://cdixon.org/2011/04/01/app-store-shenanigans/) — `2011-04-01-2011-04-01-app-store-shenanigans.md` — 221w
+- 2011-03-27 — [A few points about the “tech bubble” debate](https://cdixon.org/2011/03/27/a-few-points-about-the-tech-bubble-debate/) — `2011-03-27-2011-03-27-a-few-points-about-the-tech-bubble-debate.md` — 385w
+- 2011-03-24 — [Founder Stories](https://cdixon.org/2011/03/24/founder-stories/) — `2011-03-24-2011-03-24-founder-stories.md` — 382w
+- 2011-03-05 — [SEO is no longer a viable marketing strategy for startups](https://cdixon.org/2011/03/05/seo-is-no-longer-a-viable-marketing-strategy-for-startups/) — `2011-03-05-2011-03-05-seo-is-no-longer-a-viable-marketing-strategy-for-startups.md` — 486w
+- 2011-02-21 — [The importance of predictability for platform developers](https://cdixon.org/2011/02/21/the-importance-of-predictability-for-platform-developers/) — `2011-02-21-2011-02-21-the-importance-of-predictability-for-platform-developers.md` — 511w
+- 2011-02-05 — [Selling pickaxes during a gold rush](https://cdixon.org/2011/02/05/selling-pickaxes-during-a-gold-rush/) — `2011-02-05-2011-02-05-selling-pickaxes-during-a-gold-rush.md` — 418w
+- 2011-01-12 — [Predicting the future of the Internet is easy: anything it hasn’t yet dramatically transformed, it will.](https://cdixon.org/2011/01/12/predicting-the-future-of-the-internet-is-easy-anything-it-hasnt-yet-dramatically-transformed-it-will/) — `2011-01-12-2011-01-12-predicting-the-future-of-the-internet-is-easy-anything-it-hasnt-yet-d.md` — 368w
+- 2010-12-26 — [The “thin edge of the wedge” strategy](https://cdixon.org/2010/12/26/the-thin-edge-of-the-wedge-strategy/) — `2010-12-26-2010-12-26-the-thin-edge-of-the-wedge-strategy.md` — 481w
+- 2010-11-10 — [The interoperability of social networks](https://cdixon.org/2010/11/10/the-interoperability-of-social-networks/) — `2010-11-10-2010-11-10-the-interoperability-of-social-networks.md` — 470w
+- 2010-11-07 — [Timing your startup](https://cdixon.org/2010/11/07/timing-your-startup/) — `2010-11-07-2010-11-07-timing-your-startup.md` — 426w
+- 2010-10-29 — [Instrumenting the offline world](https://cdixon.org/2010/10/29/instrumenting-the-offline-world/) — `2010-10-29-2010-10-29-instrumenting-the-offline-world.md` — 279w
+- 2010-10-23 — [You need to use social services to understand them](https://cdixon.org/2010/10/23/you-need-to-use-social-services-to-understand-them/) — `2010-10-23-2010-10-23-you-need-to-use-social-services-to-understand-them.md` — 351w
+- 2010-10-21 — [Online privacy: what’s at stake](https://cdixon.org/2010/10/21/online-privacy-whats-at-stake/) — `2010-10-21-2010-10-21-online-privacy-whats-at-stake.md` — 647w
+- 2010-10-07 — [Some thoughts on incumbents](https://cdixon.org/2010/10/07/some-thoughts-on-incumbents/) — `2010-10-07-2010-10-07-some-thoughts-on-incumbents.md` — 627w
+- 2010-09-26 — [The segmentation of the venture industry](https://cdixon.org/2010/09/26/the-segmentation-of-the-venture-industry/) — `2010-09-26-2010-09-26-the-segmentation-of-the-venture-industry.md` — 539w
+- 2010-09-12 — [If you aren’t getting rejected on a daily basis, your goals aren’t ambitious enough](https://cdixon.org/2010/09/12/if-you-arent-getting-rejected-on-a-daily-basis-your-goals-arent-ambitious-enough/) — `2010-09-12-2010-09-12-if-you-arent-getting-rejected-on-a-daily-basis-your-goals-arent-ambit.md` — 297w
+- 2010-09-04 — [Web services should be both federated and extensible](https://cdixon.org/2010/09/04/web-services-should-be-both-federated-and-extensible/) — `2010-09-04-2010-09-04-web-services-should-be-both-federated-and-extensible.md` — 572w
+- 2010-08-31 — [Converts versus equity deals](https://cdixon.org/2010/08/31/converts-versus-equity-deals/) — `2010-08-31-2010-08-31-converts-versus-equity-deals.md` — 571w
+- 2010-08-28 — [Good bizdev cannibalizes itself](https://cdixon.org/2010/08/28/good-bizdev-cannibalizes-itself/) — `2010-08-28-2010-08-28-good-bizdev-cannibalizes-itself.md` — 336w
+- 2010-08-21 — [The bowling pin strategy](https://cdixon.org/2010/08/21/the-bowling-pin-strategy/) — `2010-08-21-2010-08-21-the-bowling-pin-strategy.md` — 476w
+- 2010-07-22 — [Graphs](https://cdixon.org/2010/07/22/graphs/) — `2010-07-22-2010-07-22-graphs.md` — 607w
+- 2010-07-05 — [It’s not that seed investors are smarter – it’s that entrepreneurs are](https://cdixon.org/2010/07/05/its-not-that-seed-investors-are-smarter-its-that-entrepreneurs-are/) — `2010-07-05-2010-07-05-its-not-that-seed-investors-are-smarter-its-that-entrepreneurs-are.md` — 621w
+- 2010-06-26 — [Competition is overrated](https://cdixon.org/2010/06/26/competition-is-overrated/) — `2010-06-26-2010-06-26-competition-is-overrated.md` — 486w
+- 2010-06-19 — [Builders and extractors](https://cdixon.org/2010/06/19/builders-and-extractors/) — `2010-06-19-2010-06-19-builders-and-extractors.md` — 346w
+- 2010-06-14 — [Pivoting](https://cdixon.org/2010/06/14/pivoting/) — `2010-06-14-2010-06-14-pivoting.md` — 472w
+- 2010-06-12 — [Designing products for single and multiplayer modes](https://cdixon.org/2010/06/12/designing-products-for-single-and-multiplayer-modes/) — `2010-06-12-2010-06-12-designing-products-for-single-and-multiplayer-modes.md` — 375w
+- 2010-06-08 — [Inside versus outside financings: the nightclub effect](https://cdixon.org/2010/06/08/inside-versus-outside-financings-the-nightclub-effect/) — `2010-06-08-2010-06-08-inside-versus-outside-financings-the-nightclub-effect.md` — 475w
+- 2010-06-06 — [Steve Jobs single-handedly restructured the mobile industry](https://cdixon.org/2010/06/06/steve-jobs-single-handedly-restructured-the-mobile-industry/) — `2010-06-06-2010-06-06-steve-jobs-single-handedly-restructured-the-mobile-industry.md` — 310w
+- 2010-06-04 — [There are three New York Cities](https://cdixon.org/2010/06/04/there-are-three-new-york-cities/) — `2010-06-04-2010-06-04-there-are-three-new-york-cities.md` — 242w
+- 2010-05-22 — [While Google fights on the edges, Amazon is attacking their core](https://cdixon.org/2010/05/22/while-google-fights-on-the-edges-amazon-is-attacking-their-core/) — `2010-05-22-2010-05-22-while-google-fights-on-the-edges-amazon-is-attacking-their-core.md` — 408w
+- 2010-05-15 — [Facebook is about to try to dominate display ads the way Google dominates text ads](https://cdixon.org/2010/05/15/facebook-is-about-to-try-to-dominate-display-ads-the-way-google-dominates-text-ads/) — `2010-05-15-2010-05-15-facebook-is-about-to-try-to-dominate-display-ads-the-way-google-domin.md` — 549w
+- 2010-05-08 — [Facebook, Zynga, and buyer](https://cdixon.org/2010/05/08/facebook-zynga-and-buyer-supplier-hold-up/) — `2010-05-08-2010-05-08-facebook-zynga-and-buyer-supplier-hold-up.md` — 338w
+- 2010-05-02 — [Old VC firms: get ready to be disrupted](https://cdixon.org/2010/05/02/old-vc-firms-get-ready-to-be-disrupted/) — `2010-05-02-2010-05-02-old-vc-firms-get-ready-to-be-disrupted.md` — 459w
+- 2010-04-25 — [The tradeoff between open and closed](https://cdixon.org/2010/04/25/the-tradeoff-between-open-and-closed/) — `2010-04-25-2010-04-25-the-tradeoff-between-open-and-closed.md` — 751w
+- 2010-04-10 — [Twitter and third](https://cdixon.org/2010/04/10/twitter-and-third-party-twitter-developers/) — `2010-04-10-2010-04-10-twitter-and-third-party-twitter-developers.md` — 673w
+- 2010-04-06 — [Underhyping your startup](https://cdixon.org/2010/04/06/underhyping-your-startup/) — `2010-04-06-2010-04-06-underhyping-your-startup.md` — 197w
+- 2010-04-03 — [Size markets using narratives, not numbers](https://cdixon.org/2010/04/03/size-markets-using-narratives-not-numbers/) — `2010-04-03-2010-04-03-size-markets-using-narratives-not-numbers.md` — 261w
+- 2010-03-27 — [Capitalism just like Adam Smith pictured it](https://cdixon.org/2010/03/27/capitalism-just-like-adam-smith-pictured-it/) — `2010-03-27-2010-03-27-capitalism-just-like-adam-smith-pictured-it.md` — 359w
+- 2010-03-25 — [Stickiness is bad for business](https://cdixon.org/2010/03/25/stickiness-is-bad-for-business/) — `2010-03-25-2010-03-25-stickiness-is-bad-for-business.md` — 319w
+- 2010-03-14 — [Developing new startup ideas](https://cdixon.org/2010/03/14/developing-new-startup-ideas/) — `2010-03-14-2010-03-14-developing-new-startup-ideas.md` — 537w
+- 2010-03-11 — [The importance of investor signaling in venture pricing](https://cdixon.org/2010/03/11/the-importance-of-investor-signaling-in-venture-pricing/) — `2010-03-11-2010-03-11-the-importance-of-investor-signaling-in-venture-pricing.md` — 575w
+- 2010-03-07 — [News is a lousy business for Google too](https://cdixon.org/2010/03/07/news-is-a-lousy-business-for-google-too/) — `2010-03-07-2010-03-07-news-is-a-lousy-business-for-google-too.md` — 266w
+- 2010-02-27 — [It’s not East Coast vs West Coast, it’s about making more places like the Valley](https://cdixon.org/2010/02/27/its-not-east-coast-vs-west-coast-its-about-making-more-places-like-the-valley/) — `2010-02-27-2010-02-27-its-not-east-coast-vs-west-coast-its-about-making-more-places-like-th.md` — 469w
+- 2010-02-19 — [A massive misallocation of online advertising dollars](https://cdixon.org/2010/02/19/a-massive-misallocation-of-online-advertising-dollars/) — `2010-02-19-2010-02-19-a-massive-misallocation-of-online-advertising-dollars.md` — 512w
+- 2010-02-16 — [Don’t be creative about the wrong things](https://cdixon.org/2010/02/16/dont-be-creative-about-the-wrong-things/) — `2010-02-16-2010-02-16-dont-be-creative-about-the-wrong-things.md` — 143w
+- 2010-02-11 — [Every time an engineer joins Google, a startup dies](https://cdixon.org/2010/02/11/every-time-an-engineer-joins-google-a-startup-dies/) — `2010-02-11-2010-02-11-every-time-an-engineer-joins-google-a-startup-dies.md` — 520w
+- 2010-02-06 — [Selling to enterprises](https://cdixon.org/2010/02/06/selling-to-enterprises/) — `2010-02-06-2010-02-06-selling-to-enterprises.md` — 336w
+- 2010-02-01 — [The NYC tech scene is exploding](https://cdixon.org/2010/02/01/the-nyc-tech-scene-is-exploding/) — `2010-02-01-2010-02-01-the-nyc-tech-scene-is-exploding.md` — 442w
+- 2010-01-30 — [Institutional failure](https://cdixon.org/2010/01/30/institutional-failure/) — `2010-01-30-2010-01-30-institutional-failure.md` — 674w
+- 2010-01-29 — [Being friendly has become a competitive advantage in VC](https://cdixon.org/2010/01/29/being-friendly-has-become-a-competitive-advantage-in-vc/) — `2010-01-29-2010-01-29-being-friendly-has-become-a-competitive-advantage-in-vc.md` — 249w
+- 2010-01-28 — [Should Apple be more open?](https://cdixon.org/2010/01/28/should-apple-be-more-open/) — `2010-01-28-2010-01-28-should-apple-be-more-open.md` — 476w
+- 2010-01-26 — [Incumbents](https://cdixon.org/2010/01/26/incumbents/) — `2010-01-26-2010-01-26-incumbents.md` — 399w
+- 2010-01-23 — [How to disrupt Wall Street](https://cdixon.org/2010/01/23/how-to-disrupt-wall-street/) — `2010-01-23-2010-01-23-how-to-disrupt-wall-street.md` — 800w
+- 2010-01-22 — [Techies and normals](https://cdixon.org/2010/01/22/techies-and-normals/) — `2010-01-22-2010-01-22-techies-and-normals.md` — 371w
+- 2010-01-17 — [Collective knowledge systems](https://cdixon.org/2010/01/17/collective-knowledge-systems/) — `2010-01-17-2010-01-17-collective-knowledge-systems.md` — 786w
+- 2010-01-12 — [Security through diversity](https://cdixon.org/2010/01/12/security-through-diversity/) — `2010-01-12-2010-01-12-security-through-diversity.md` — 358w
+- 2010-01-09 — [Shutting down](https://cdixon.org/2010/01/09/shutting-down/) — `2010-01-09-2010-01-09-shutting-down.md` — 343w
+- 2010-01-03 — [The next big thing will start out looking like a toy](https://cdixon.org/2010/01/03/the-next-big-thing-will-start-out-looking-like-a-toy/) — `2010-01-03-2010-01-03-the-next-big-thing-will-start-out-looking-like-a-toy.md` — 560w
+- 2009-12-30 — [What’s strategic for Google?](https://cdixon.org/2009/12/30/whats-strategic-for-google/) — `2009-12-30-2009-12-30-whats-strategic-for-google.md` — 561w
+- 2009-12-28 — [What’s the right amount of seed money to raise?](https://cdixon.org/2009/12/28/whats-the-right-amount-of-seed-money-to-raise/) — `2009-12-28-2009-12-28-whats-the-right-amount-of-seed-money-to-raise.md` — 588w
+- 2009-12-27 — [Are people more willing to pay for digital goods on mobile devices?](https://cdixon.org/2009/12/27/are-people-more-willing-to-pay-for-digital-goods-on-mobile-devices/) — `2009-12-27-2009-12-27-are-people-more-willing-to-pay-for-digital-goods-on-mobile-devices.md` — 453w
+- 2009-12-26 — [Why the web economy will continue growing rapidly](https://cdixon.org/2009/12/26/why-the-web-economy-will-continue-growing-rapidly/) — `2009-12-26-2009-12-26-why-the-web-economy-will-continue-growing-rapidly.md` — 322w
+- 2009-12-22 — [Google should open source what actually matters: their search ranking algorithm](https://cdixon.org/2009/12/22/google-should-open-source-what-actually-matters-their-search-ranking-algorithm/) — `2009-12-22-2009-12-22-google-should-open-source-what-actually-matters-their-search-ranking-.md` — 408w
+- 2009-12-19 — [Anatomy of a bad search result](https://cdixon.org/2009/12/19/anatomy-of-a-bad-search-result/) — `2009-12-19-2009-12-19-anatomy-of-a-bad-search-result.md` — 429w
+- 2009-12-17 — [Google’s feature creep](https://cdixon.org/2009/12/17/googles-feature-creep/) — `2009-12-17-2009-12-17-googles-feature-creep.md` — 158w
+- 2009-12-14 — [Search and the social graph](https://cdixon.org/2009/12/14/search-and-the-social-graph/) — `2009-12-14-2009-12-14-search-and-the-social-graph.md` — 378w
+- 2009-12-08 — [Why did Skype succeed and Joost fail?](https://cdixon.org/2009/12/08/why-did-skype-succeed-and-joost-fail/) — `2009-12-08-2009-12-08-why-did-skype-succeed-and-joost-fail.md` — 271w
+- 2009-12-05 — [Does a VC’s brand matter?](https://cdixon.org/2009/12/05/does-a-vcs-brand-matter/) — `2009-12-05-2009-12-05-does-a-vcs-brand-matter.md` — 282w
+- 2009-12-01 — [Some thoughts on SEO](https://cdixon.org/2009/12/01/some-thoughts-on-seo/) — `2009-12-01-2009-12-01-some-thoughts-on-seo.md` — 539w
+- 2009-11-20 — [The importance of institutional redundancy](https://cdixon.org/2009/11/20/the-importance-of-institutional-redundancy/) — `2009-11-20-2009-11-20-the-importance-of-institutional-redundancy.md` — 351w
+- 2009-11-14 — [Pitch yourself, not your idea](https://cdixon.org/2009/11/14/pitch-yourself-not-your-idea/) — `2009-11-14-2009-11-14-pitch-yourself-not-your-idea.md` — 349w
+- 2009-11-09 — [Presenting Founder Collective](https://cdixon.org/2009/11/09/presenting-founder-collective/) — `2009-11-09-2009-11-09-presenting-founder-collective.md` — 497w
+- 2009-11-03 — [How to select your angel investors](https://cdixon.org/2009/11/03/how-to-select-your-angel-investors/) — `2009-11-03-2009-11-03-how-to-select-your-angel-investors.md` — 491w
+- 2009-10-30 — [The most important question to ask before taking seed money](https://cdixon.org/2009/10/30/the-most-important-question-to-ask-before-taking-seed-money/) — `2009-10-30-2009-10-30-the-most-important-question-to-ask-before-taking-seed-money.md` — 601w
+- 2009-10-27 — [Embrace the medium](https://cdixon.org/2009/10/27/embrace-the-medium/) — `2009-10-27-2009-10-27-embrace-the-medium.md` — 258w
+- 2009-10-23 — [Twelve months notice](https://cdixon.org/2009/10/23/twelve-months-notice/) — `2009-10-23-2009-10-23-twelve-months-notice.md` — 492w
+- 2009-10-22 — [The ideal startup career path](https://cdixon.org/2009/10/22/the-ideal-startup-career-path/) — `2009-10-22-2009-10-22-the-ideal-startup-career-path.md` — 340w
+- 2009-10-20 — [The challenge of creating a new category](https://cdixon.org/2009/10/20/the-challenge-of-creating-a-new-category/) — `2009-10-20-2009-10-20-the-challenge-of-creating-a-new-category.md` — 402w
+- 2009-10-18 — [If Verizon’s Droid is good, that’s bad for the wireless ecosystem](https://cdixon.org/2009/10/18/if-verizons-droid-is-good-thats-bad-for-the-wireless-ecosystem/) — `2009-10-18-2009-10-18-if-verizons-droid-is-good-thats-bad-for-the-wireless-ecosystem.md` — 258w
+- 2009-10-17 — [Dow 10,000 and economic reflexivity](https://cdixon.org/2009/10/17/dow-10000-and-economic-reflexivity/) — `2009-10-17-2009-10-17-dow-10000-and-economic-reflexivity.md` — 391w
+- 2009-10-16 — [What’s the relationship between cost and price?](https://cdixon.org/2009/10/16/whats-the-relationship-between-cost-and-price/) — `2009-10-16-2009-10-16-whats-the-relationship-between-cost-and-price.md` — 441w
+- 2009-10-13 — [What carries you up will also bring you down](https://cdixon.org/2009/10/13/what-carries-you-up-will-also-bring-you-down/) — `2009-10-13-2009-10-13-what-carries-you-up-will-also-bring-you-down.md` — 392w
+- 2009-10-11 — [Understanding your market](https://cdixon.org/2009/10/11/understanding-your-market/) — `2009-10-11-2009-10-11-understanding-your-market.md` — 342w
+- 2009-10-10 — [Man and superman](https://cdixon.org/2009/10/10/man-and-superman/) — `2009-10-10-2009-10-10-man-and-superman.md` — 467w
+- 2009-10-06 — [The importance of asking people questions](https://cdixon.org/2009/10/06/the-importance-of-asking-people-questions/) — `2009-10-06-2009-10-06-the-importance-of-asking-people-questions.md` — 189w
+- 2009-10-02 — [The problem with online “local” businesses](https://cdixon.org/2009/10/02/the-problem-with-online-local-businesses/) — `2009-10-02-2009-10-02-the-problem-with-online-local-businesses.md` — 291w
+- 2009-10-01 — [Why does it matter that Twitter is supplanting RSS?](https://cdixon.org/2009/10/01/why-does-it-matter-that-twitter-is-supplanting-rss/) — `2009-10-01-2009-10-01-why-does-it-matter-that-twitter-is-supplanting-rss.md` — 322w
+- 2009-09-29 — [Why content sites are getting ripped off](https://cdixon.org/2009/09/29/why-content-sites-are-getting-ripped-off/) — `2009-09-29-2009-09-29-why-content-sites-are-getting-ripped-off.md` — 252w
+- 2009-09-29 — [Twitter killed RSS (and that’s a bad thing)](https://cdixon.org/2009/09/29/twitter-killed-rss-and-thats-a-bad-thing/) — `2009-09-29-2009-09-29-twitter-killed-rss-and-thats-a-bad-thing.md` — 287w
+- 2009-09-28 — [What if online business model innovation is slowing down?](https://cdixon.org/2009/09/28/what-if-online-business-model-innovation-is-slowing-down/) — `2009-09-28-2009-09-28-what-if-online-business-model-innovation-is-slowing-down.md` — 267w
+- 2009-09-28 — [The new economy](https://cdixon.org/2009/09/28/the-new-economy/) — `2009-09-28-2009-09-28-the-new-economy.md` — 179w
+- 2009-09-27 — [Online advertising is all about purchasing intent](https://cdixon.org/2009/09/27/online-advertising-is-all-about-purchasing-intent/) — `2009-09-27-2009-09-27-online-advertising-is-all-about-purchasing-intent.md` — 280w
+- 2009-09-26 — [Yahoo should invest in products, not advertising](https://cdixon.org/2009/09/26/yahoo-should-invest-in-products-not-advertising/) — `2009-09-26-2009-09-26-yahoo-should-invest-in-products-not-advertising.md` — 273w
+- 2009-09-24 — [Software patents should be abolished](https://cdixon.org/2009/09/24/software-patents-should-be-abolished/) — `2009-09-24-2009-09-24-software-patents-should-be-abolished.md` — 511w
+- 2009-09-19 — [Climbing the wrong hill](https://cdixon.org/2009/09/19/climbing-the-wrong-hill/) — `2009-09-19-2009-09-19-climbing-the-wrong-hill.md` — 587w
+- 2009-09-17 — [Thanks…](https://cdixon.org/2009/09/17/thanks/) — `2009-09-17-2009-09-17-thanks.md` — 349w
+- 2009-09-14 — [The inevitable showdown between Twitter and Twitter apps](https://cdixon.org/2009/09/14/the-inevitable-showdown-between-twitter-and-twitter-apps/) — `2009-09-14-2009-09-14-the-inevitable-showdown-between-twitter-and-twitter-apps.md` — 509w
+- 2009-09-13 — [Entrepreneurs need to learn some law](https://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law/) — `2009-09-13-2009-09-13-entrepreneurs-need-to-learn-some-law.md` — 331w
+- 2009-09-12 — [Google and newspapers: the false choice of opting out](https://cdixon.org/2009/09/12/google-and-newspapers-the-false-choice-of-opting-out/) — `2009-09-12-2009-09-12-google-and-newspapers-the-false-choice-of-opting-out.md` — 793w
+- 2009-09-10 — [Non](https://cdixon.org/2009/09/10/non-linearity-of-technology-adoption/) — `2009-09-10-2009-09-10-non-linearity-of-technology-adoption.md` — 543w
+- 2009-09-08 — [Getting a job in venture capital](https://cdixon.org/2009/09/08/getting-a-job-in-venture-capital/) — `2009-09-08-2009-09-08-getting-a-job-in-venture-capital.md` — 767w
+- 2009-09-07 — [Is now a good time to start a company?](https://cdixon.org/2009/09/07/is-now-a-good-time-to-start-a-company/) — `2009-09-07-2009-09-07-is-now-a-good-time-to-start-a-company.md` — 714w
+- 2009-09-06 — [The only college major that matters](https://cdixon.org/2009/09/06/the-only-college-major-that-matters/) — `2009-09-06-2009-09-06-the-only-college-major-that-matters.md` — 329w
+- 2009-09-05 — [Which VC firm should I pitch?](https://cdixon.org/2009/09/05/which-vc-firm-should-i-pitch/) — `2009-09-05-2009-09-05-which-vc-firm-should-i-pitch.md` — 475w
+- 2009-09-04 — [Incubators](https://cdixon.org/2009/09/04/incubators/) — `2009-09-04-2009-09-04-incubators.md` — 222w
+- 2009-09-04 — [Dividing free and paid features in “freemium” products](https://cdixon.org/2009/09/04/dividing-free-and-paid-features-in-freemium-products/) — `2009-09-04-2009-09-04-dividing-free-and-paid-features-in-freemium-products.md` — 834w
+- 2009-09-02 — [Question from a reader](https://cdixon.org/2009/09/02/question-from-a-reader/) — `2009-09-02-2009-09-02-question-from-a-reader.md` — 567w
+- 2009-09-02 — [Don’t shop your term sheet](https://cdixon.org/2009/09/02/dont-shop-your-term-sheet/) — `2009-09-02-2009-09-02-dont-shop-your-term-sheet.md` — 440w
+- 2009-09-01 — [Information is the (other) currency of venture capital](https://cdixon.org/2009/09/01/information-is-the-other-currency-of-venture-capital/) — `2009-09-01-2009-09-01-information-is-the-other-currency-of-venture-capital.md` — 460w
+- 2009-08-31 — [VC’s care about the upside case, not the mean](https://cdixon.org/2009/08/31/vcs-care-about-the-upside-case-not-the-mean/) — `2009-08-31-2009-08-31-vcs-care-about-the-upside-case-not-the-mean.md` — 448w
+- 2009-08-31 — [New York City is poised for a tech revival](https://cdixon.org/2009/08/31/new-york-city-is-poised-for-a-tech-revival/) — `2009-08-31-2009-08-31-new-york-city-is-poised-for-a-tech-revival.md` — 798w
+- 2009-08-30 — [To make smarter systems, it’s all about the data](https://cdixon.org/2009/08/30/to-make-smarter-systems-its-all-about-the-data/) — `2009-08-30-2009-08-30-to-make-smarter-systems-its-all-about-the-data.md` — 304w
+- 2009-08-29 — [Thales the Milesian](https://cdixon.org/2009/08/29/thales-the-milesian/) — `2009-08-29-2009-08-29-thales-the-milesian.md` — 181w
+- 2009-08-27 — [The one number you should know about your equity grant](https://cdixon.org/2009/08/27/the-one-number-you-should-know-about-your-equity-grant/) — `2009-08-27-2009-08-27-the-one-number-you-should-know-about-your-equity-grant.md` — 385w
+- 2009-08-27 — [Pitching the VC partnership](https://cdixon.org/2009/08/27/pitching-the-vc-partnership/) — `2009-08-27-2009-08-27-pitching-the-vc-partnership.md` — 734w
+- 2009-08-25 — [Six strategies for overcoming “chicken and egg” problems](https://cdixon.org/2009/08/25/six-strategies-for-overcoming-chicken-and-egg-problems/) — `2009-08-25-2009-08-25-six-strategies-for-overcoming-chicken-and-egg-problems.md` — 1256w
+- 2009-08-23 — [Dividing equity between founders](https://cdixon.org/2009/08/23/dividing-equity-between-founders/) — `2009-08-23-2009-08-23-dividing-equity-between-founders.md` — 577w
+- 2009-08-22 — [Why you shouldn’t keep your startup idea secret](https://cdixon.org/2009/08/22/why-you-shouldnt-keep-your-startup-idea-secret/) — `2009-08-22-2009-08-22-why-you-shouldnt-keep-your-startup-idea-secret.md` — 548w
+- 2009-08-20 — [Machine learning is really good at partially solving just about any problem](https://cdixon.org/2009/08/20/machine-learning-is-really-good-at-partially-solving-just-about-any-problem/) — `2009-08-20-2009-08-20-machine-learning-is-really-good-at-partially-solving-just-about-any-p.md` — 294w
+- 2009-08-17 — [Options on early stage companies](https://cdixon.org/2009/08/17/options-on-early-stage-companies/) — `2009-08-17-2009-08-17-options-on-early-stage-companies.md` — 897w
+- 2009-08-16 — [Ideal first round funding terms](https://cdixon.org/2009/08/16/ideal-first-round-funding-terms/) — `2009-08-16-2009-08-16-ideal-first-round-funding-terms.md` — 774w
+- 2009-08-15 — [The problem with tranched VC investments](https://cdixon.org/2009/08/15/the-problem-with-tranched-vc-investments/) — `2009-08-15-2009-08-15-the-problem-with-tranched-vc-investments.md` — 656w
+- 2009-08-12 — [Why seed investors don’t like convertible notes](https://cdixon.org/2009/08/12/why-seed-investors-dont-like-convertible-notes/) — `2009-08-12-2009-08-12-why-seed-investors-dont-like-convertible-notes.md` — 366w
+- 2009-05-15 — [The myth of the Eureka moment](https://cdixon.org/2009/05/15/the-myth-of-the-eureka-moment/) — `2009-05-15-2009-05-15-the-myth-of-the-eureka-moment.md` — 532w
+- 2009-05-11 — [Joining a startup is far less risky than most people think](https://cdixon.org/2009/05/11/joining-a-startup-is-far-less-risky-than-most-people-think/) — `2009-05-11-2009-05-11-joining-a-startup-is-far-less-risky-than-most-people-think.md` — 411w
+- 2009-04-21 — [Founder vesting](https://cdixon.org/2009/04/21/founder-vesting/) — `2009-04-21-2009-04-21-founder-vesting.md` — 351w
+- 2009-04-18 — [Naming your startup](https://cdixon.org/2009/04/18/naming-your-startup/) — `2009-04-18-2009-04-18-naming-your-startup.md` — 612w

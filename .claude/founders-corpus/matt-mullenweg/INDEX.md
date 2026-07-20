@@ -1,37 +1,351 @@
 # Matt Mullenweg corpus index
 
-Source: https://ma.tt — fetched 2026-07-19
-32 posts, 10468 words. Format: date — [title](canonical url) — `file` — words.
+Source: https://ma.tt — fetched 2026-07-20
+346 posts, 140597 words. Format: date — [title](canonical url) — `file` — words.
 
-- 2002-08-19 — [Austin!](https://ma.tt/2002/08/austin/) — `2002-08-19-2002-08-austin.md` — 534w
-- 2002-08-17 — [Late Night/Early Morning](https://ma.tt/2002/08/late-nightearly-morning/) — `2002-08-17-2002-08-late-nightearly-morning.md` — 458w
-- 2002-08-16 — [Long Day](https://ma.tt/2002/08/long-day/) — `2002-08-16-2002-08-long-day.md` — 473w
-- 2002-08-15 — [Photo Hiatus](https://ma.tt/2002/08/photo-hiatus/) — `2002-08-15-2002-08-photo-hiatus.md` — 248w
-- 2002-08-14 — [Parting](https://ma.tt/2002/08/parting/) — `2002-08-14-2002-08-parting.md` — 149w
-- 2002-08-10 — [Moving Up](https://ma.tt/2002/08/moving-up/) — `2002-08-10-2002-08-moving-up.md` — 204w
-- 2002-08-09 — [High Definition Politics](https://ma.tt/2002/08/high-definition-politics/) — `2002-08-09-2002-08-high-definition-politics.md` — 195w
-- 2002-08-08 — [Car Wash](https://ma.tt/2002/08/car-wash/) — `2002-08-08-2002-08-car-wash.md` — 540w
-- 2002-08-07 — [Crowding Out](https://ma.tt/2002/08/crowding-out/) — `2002-08-07-2002-08-crowding-out.md` — 595w
-- 2002-08-02 — [Short Marx Notes](https://ma.tt/2002/08/short-marx-notes/) — `2002-08-02-2002-08-short-marx-notes.md` — 446w
-- 2002-07-28 — [Good Vibrations](https://ma.tt/2002/07/good-vibrations/) — `2002-07-28-2002-07-good-vibrations.md` — 156w
-- 2002-07-28 — [Anchor Tag Demystified](https://ma.tt/2002/07/anchor-tag-demystified/) — `2002-07-28-2002-07-anchor-tag-demystified.md` — 734w
-- 2002-07-25 — [No Man Is an Island](https://ma.tt/2002/07/no-man-is-an-island/) — `2002-07-25-2002-07-no-man-is-an-island.md` — 240w
-- 2002-07-23 — [New Features](https://ma.tt/2002/07/new-features/) — `2002-07-23-2002-07-new-features.md` — 145w
-- 2002-07-20 — [Cheaper Tickets](https://ma.tt/2002/07/cheaper-tickets/) — `2002-07-20-2002-07-cheaper-tickets.md` — 249w
-- 2002-07-20 — [Another Movie Post(er)](https://ma.tt/2002/07/another-movie-poster/) — `2002-07-20-2002-07-another-movie-poster.md` — 369w
-- 2002-07-17 — [New Goodies](https://ma.tt/2002/07/new-goodies/) — `2002-07-17-2002-07-new-goodies.md` — 226w
-- 2002-07-15 — [State of Mind](https://ma.tt/2002/07/state-of-mind/) — `2002-07-15-2002-07-state-of-mind.md` — 220w
-- 2002-07-13 — [Cell Phone Torture Test](https://ma.tt/2002/07/cell-phone-torture-test/) — `2002-07-13-2002-07-cell-phone-torture-test.md` — 240w
-- 2002-07-12 — [Dreamweaver again](https://ma.tt/2002/07/dreamweaver-again/) — `2002-07-12-2002-07-dreamweaver-again.md` — 260w
-- 2002-07-12 — [Dreamweaver MX == Evil](https://ma.tt/2002/07/dreamweaver-mx-evil/) — `2002-07-12-2002-07-dreamweaver-mx-evil.md` — 323w
-- 2002-07-10 — [Power?](https://ma.tt/2002/07/power/) — `2002-07-10-2002-07-power.md` — 144w
-- 2002-07-10 — [Aural Bliss](https://ma.tt/2002/07/aural-bliss/) — `2002-07-10-2002-07-aural-bliss.md` — 190w
-- 2002-07-08 — [Interesting Article](https://ma.tt/2002/07/interesting-article/) — `2002-07-08-2002-07-interesting-article.md` — 713w
-- 2002-07-07 — [Birthday mess](https://ma.tt/2002/07/birthday-mess/) — `2002-07-07-2002-07-birthday-mess.md` — 355w
-- 2002-07-02 — [Danger of games](https://ma.tt/2002/07/danger-of-games/) — `2002-07-02-2002-07-danger-of-games.md` — 132w
-- 2002-06-30 — [Summer Cleaning](https://ma.tt/2002/06/summer-cleaning/) — `2002-06-30-2002-06-summer-cleaning.md` — 161w
-- 2002-06-29 — [Terrorist Alert! (from Charleen)](https://ma.tt/2002/06/terrorist-alert-from-charleen/) — `2002-06-29-2002-06-terrorist-alert-from-charleen.md` — 192w
-- 2002-06-26 — [Hurricanes are great!](https://ma.tt/2002/06/hurricanes-are-great/) — `2002-06-26-2002-06-hurricanes-are-great.md` — 200w
-- 2002-06-25 — [Stock options and Congress](https://ma.tt/2002/06/stock-options-and-congress/) — `2002-06-25-2002-06-stock-options-and-congress.md` — 774w
-- 2002-06-18 — [Visit to Treasury](https://ma.tt/2002/06/visit-to-treasury/) — `2002-06-18-2002-06-visit-to-treasury.md` — 249w
-- 2002-06-17 — [airport](https://ma.tt/2002/06/airport/) — `2002-06-17-2002-06-airport.md` — 354w
+- 2026-07-17 — [Important Security Update](https://ma.tt/2026/07/wp-security/) — `2026-07-17-2026-07-wp-security.md` — 209w
+- 2026-07-08 — [Code for the People](https://ma.tt/2026/07/people-code/) — `2026-07-08-2026-07-people-code.md` — 361w
+- 2026-07-04 — [USA 250](https://ma.tt/2026/07/usa-250/) — `2026-07-04-2026-07-usa-250.md` — 302w
+- 2026-06-27 — [Om Links](https://ma.tt/2026/06/om-links/) — `2026-06-27-2026-06-om-links.md` — 548w
+- 2026-06-25 — [All Roads Lead to Om](https://ma.tt/2026/06/om-forever/) — `2026-06-25-2026-06-om-forever.md` — 657w
+- 2026-06-20 — [Best Trash](https://ma.tt/2026/06/best-trash/) — `2026-06-20-2026-06-best-trash.md` — 142w
+- 2026-06-19 — [Midjourney Medical](https://ma.tt/2026/06/midjourney-medical/) — `2026-06-19-2026-06-midjourney-medical.md` — 361w
+- 2026-06-16 — [Audio Wars](https://ma.tt/2026/06/audio-wars/) — `2026-06-16-2026-06-audio-wars.md` — 160w
+- 2026-06-15 — [Assorted Links](https://ma.tt/2026/06/assorted-links-2/) — `2026-06-15-2026-06-assorted-links-2.md` — 865w
+- 2026-06-05 — [WCEU](https://ma.tt/2026/06/wceu/) — `2026-06-05-2026-06-wceu.md` — 124w
+- 2026-05-30 — [Maybe](https://ma.tt/2026/05/maybe/) — `2026-05-30-2026-05-maybe.md` — 160w
+- 2026-05-26 — [RIP Sonny Rollins](https://ma.tt/2026/05/rip-sonny/) — `2026-05-26-2026-05-rip-sonny.md` — 195w
+- 2026-04-05 — [Easter Thoughts](https://ma.tt/2026/04/easter-thoughts/) — `2026-04-05-2026-04-easter-thoughts.md` — 415w
+- 2026-04-02 — [EmDash Feedback](https://ma.tt/2026/04/emdash-feedback/) — `2026-04-02-2026-04-emdash-feedback.md` — 907w
+- 2026-04-01 — [Taxonomist](https://ma.tt/2026/04/taxonomist/) — `2026-04-01-2026-04-taxonomist.md` — 894w
+- 2026-03-28 — [Community Antibodies](https://ma.tt/2026/03/community-antibodies/) — `2026-03-28-2026-03-community-antibodies.md` — 266w
+- 2026-03-25 — [Ari & X](https://ma.tt/2026/03/ari-x/) — `2026-03-25-2026-03-ari-x.md` — 228w
+- 2026-03-20 — [Bay Lights are Back!](https://ma.tt/2026/03/bay-relighting/) — `2026-03-20-2026-03-bay-relighting.md` — 346w
+- 2026-03-14 — [Song Creation](https://ma.tt/2026/03/song-creation/) — `2026-03-14-2026-03-song-creation.md` — 273w
+- 2026-03-13 — [Selling Your Company](https://ma.tt/2026/03/selling-your-company/) — `2026-03-13-2026-03-selling-your-company.md` — 377w
+- 2026-03-11 — [WordPress Everywhere](https://ma.tt/2026/03/wordpress-everywhere/) — `2026-03-11-2026-03-wordpress-everywhere.md` — 715w
+- 2026-03-09 — [Gone (Almost) Phishin’](https://ma.tt/2026/03/gone-almost-phishin/) — `2026-03-09-2026-03-gone-almost-phishin.md` — 495w
+- 2026-03-05 — [Bar Gyu x Wapuu](https://ma.tt/2026/03/bar-gyu-wapuu/) — `2026-03-05-2026-03-bar-gyu-wapuu.md` — 176w
+- 2026-03-01 — [Sunday Links](https://ma.tt/2026/03/sunday-links/) — `2026-03-01-2026-03-sunday-links.md` — 228w
+- 2026-02-25 — [Great Writing](https://ma.tt/2026/02/great-writing/) — `2026-02-25-2026-02-great-writing.md` — 233w
+- 2026-02-22 — [Claude & Sonos](https://ma.tt/2026/02/claude-sonos/) — `2026-02-22-2026-02-claude-sonos.md` — 260w
+- 2026-02-20 — [WordPress, AI, plugins, future of software engineering](https://ma.tt/2026/02/wp-ai/) — `2026-02-20-2026-02-wp-ai.md` — 774w
+- 2026-02-13 — [Misaligned PRs](https://ma.tt/2026/02/rathbun/) — `2026-02-13-2026-02-rathbun.md` — 309w
+- 2026-02-11 — [Something Big](https://ma.tt/2026/02/big/) — `2026-02-11-2026-02-big.md` — 193w
+- 2026-02-09 — [Leadership at the Peak](https://ma.tt/2026/02/lap/) — `2026-02-09-2026-02-lap.md` — 908w
+- 2026-01-27 — [What a Week](https://ma.tt/2026/01/what-a-week/) — `2026-01-27-2026-01-what-a-week.md` — 465w
+- 2026-01-20 — [Cancer Founder Mode](https://ma.tt/2026/01/cancer-founder-mode/) — `2026-01-20-2026-01-cancer-founder-mode.md` — 200w
+- 2026-01-19 — [AI Psychosis](https://ma.tt/2026/01/ai-psychosis/) — `2026-01-19-2026-01-ai-psychosis.md` — 166w
+- 2026-01-17 — [Bacon Egg Cheese](https://ma.tt/2026/01/bacon-egg-cheese/) — `2026-01-17-2026-01-bacon-egg-cheese.md` — 218w
+- 2026-01-16 — [A Better Writer](https://ma.tt/2026/01/a-better-writer/) — `2026-01-16-2026-01-a-better-writer.md` — 596w
+- 2026-01-13 — [Remembering Jesus Ornelas](https://ma.tt/2026/01/remembering-jesus-ornelas/) — `2026-01-13-2026-01-remembering-jesus-ornelas.md` — 387w
+- 2026-01-11 — [Matt 4.2](https://ma.tt/2026/01/matt-4-2/) — `2026-01-11-2026-01-matt-4-2.md` — 537w
+- 2026-01-10 — [Classical Accordian](https://ma.tt/2026/01/classical-accordian/) — `2026-01-10-2026-01-classical-accordian.md` — 148w
+- 2026-01-06 — [Find My Update](https://ma.tt/2026/01/find-my-update/) — `2026-01-06-2026-01-find-my-update.md` — 155w
+- 2026-01-01 — [Happy New Year](https://ma.tt/2026/01/happy-new-year-3/) — `2026-01-01-2026-01-happy-new-year-3.md` — 348w
+- 2025-12-18 — [Wolfram Automattica](https://ma.tt/2025/12/wolfram-automattica/) — `2025-12-18-2025-12-wolfram-automattica.md` — 195w
+- 2025-12-16 — [Beware Unearned Wisdom](https://ma.tt/2025/12/beware-unearned-wisdom/) — `2025-12-16-2025-12-beware-unearned-wisdom.md` — 470w
+- 2025-12-12 — [Winter Fun](https://ma.tt/2025/12/winter-fun/) — `2025-12-12-2025-12-winter-fun.md` — 130w
+- 2025-12-11 — [Aldeas](https://ma.tt/2025/12/aldeas/) — `2025-12-11-2025-12-aldeas.md` — 211w
+- 2025-12-08 — [DHH & Open Source](https://ma.tt/2025/12/dhh-open-source/) — `2025-12-08-2025-12-dhh-open-source.md` — 613w
+- 2025-12-07 — [Happy Birthday Kinsey](https://ma.tt/2025/12/kinsey-70/) — `2025-12-07-2025-12-kinsey-70.md` — 477w
+- 2025-12-06 — [Self-driving](https://ma.tt/2025/12/self-driving/) — `2025-12-06-2025-12-self-driving.md` — 160w
+- 2025-12-04 — [Unifi 5G](https://ma.tt/2025/12/unifi-5g/) — `2025-12-04-2025-12-unifi-5g.md` — 169w
+- 2025-12-01 — [SoTW Eve](https://ma.tt/2025/12/sotw-eve/) — `2025-12-01-2025-12-sotw-eve.md` — 215w
+- 2025-11-29 — [Werner Predictions](https://ma.tt/2025/11/werner-predictions/) — `2025-11-29-2025-11-werner-predictions.md` — 120w
+- 2025-11-28 — [SF WordPress Party](https://ma.tt/2025/11/sf-wordpress-party/) — `2025-11-28-2025-11-sf-wordpress-party.md` — 130w
+- 2025-11-27 — [Thanksgiving](https://ma.tt/2025/11/thanksgiving/) — `2025-11-27-2025-11-thanksgiving.md` — 282w
+- 2025-11-19 — [Gemini & FSD](https://ma.tt/2025/11/gemini-fsd/) — `2025-11-19-2025-11-gemini-fsd.md` — 220w
+- 2025-11-16 — [Rothko Chapel Garden](https://ma.tt/2025/11/garden/) — `2025-11-16-2025-11-garden.md` — 707w
+- 2025-11-14 — [Kanye’s Back](https://ma.tt/2025/11/kanyes-back/) — `2025-11-14-2025-11-kanyes-back.md` — 211w
+- 2025-11-09 — [Meshtastic](https://ma.tt/2025/11/meshtastic/) — `2025-11-09-2025-11-meshtastic.md` — 127w
+- 2025-11-06 — [Conversation with John Borthwick](https://ma.tt/2025/11/john-borthwick/) — `2025-11-06-2025-11-john-borthwick.md` — 128w
+- 2025-11-01 — [Creed Update](https://ma.tt/2025/11/creed-update/) — `2025-11-01-2025-11-creed-update.md` — 221w
+- 2025-10-28 — [Grokipedia](https://ma.tt/2025/10/grokipedia/) — `2025-10-28-2025-10-grokipedia.md` — 244w
+- 2025-10-26 — [Time Zones](https://ma.tt/2025/10/time-zones/) — `2025-10-26-2025-10-time-zones.md` — 286w
+- 2025-10-25 — [November Atlantic](https://ma.tt/2025/10/november-atlantic/) — `2025-10-25-2025-10-november-atlantic.md` — 204w
+- 2025-10-24 — [Automattic 20 & Counter-claims](https://ma.tt/2025/10/counter-claims/) — `2025-10-24-2025-10-counter-claims.md` — 246w
+- 2025-10-18 — [Albumin](https://ma.tt/2025/10/albumin/) — `2025-10-18-2025-10-albumin.md` — 132w
+- 2025-10-17 — [WordCamp Canada Talk](https://ma.tt/2025/10/wordcamp-canada/) — `2025-10-17-2025-10-wordcamp-canada.md` — 7316w
+- 2025-10-16 — [On Money Stuff](https://ma.tt/2025/10/money-stuff/) — `2025-10-16-2025-10-money-stuff.md` — 216w
+- 2025-10-15 — [The Curse of the Muse](https://ma.tt/2025/10/muse/) — `2025-10-15-2025-10-muse.md` — 275w
+- 2025-10-14 — [D’Angelo & Diane](https://ma.tt/2025/10/dangelo-diane/) — `2025-10-14-2025-10-dangelo-diane.md` — 134w
+- 2025-10-10 — [Jeremy Kranz and Sentinel](https://ma.tt/2025/10/jeremy-kranz/) — `2025-10-10-2025-10-jeremy-kranz.md` — 276w
+- 2025-10-05 — [Telegram and Weird Al](https://ma.tt/2025/10/telegram-and-weird-al/) — `2025-10-05-2025-10-telegram-and-weird-al.md` — 306w
+- 2025-10-04 — [Greenwashing](https://ma.tt/2025/10/greenwashing/) — `2025-10-04-2025-10-greenwashing.md` — 448w
+- 2025-10-03 — [Linkrot](https://ma.tt/2025/10/linkrot/) — `2025-10-03-2025-10-linkrot.md` — 360w
+- 2025-10-01 — [Fight For Open](https://ma.tt/2025/10/fight-for-open/) — `2025-10-01-2025-10-fight-for-open.md` — 286w
+- 2025-09-29 — [Om 59](https://ma.tt/2025/09/om-59/) — `2025-09-29-2025-09-om-59.md` — 526w
+- 2025-09-28 — [Craft vs Slop](https://ma.tt/2025/09/craft-slop/) — `2025-09-28-2025-09-craft-slop.md` — 256w
+- 2025-09-27 — [Saturday Shares](https://ma.tt/2025/09/saturday-shares/) — `2025-09-27-2025-09-saturday-shares.md` — 228w
+- 2025-09-26 — [Five Publications I’d Love on WordPress](https://ma.tt/2025/09/big-five/) — `2025-09-26-2025-09-big-five.md` — 214w
+- 2025-09-25 — [Harry Mack](https://ma.tt/2025/09/harry-mack/) — `2025-09-25-2025-09-harry-mack.md` — 158w
+- 2025-09-24 — [Telex Remixes](https://ma.tt/2025/09/telex-remixes/) — `2025-09-24-2025-09-telex-remixes.md` — 176w
+- 2025-09-22 — [Post-Earthquake Tea Grit](https://ma.tt/2025/09/tea/) — `2025-09-22-2025-09-tea.md` — 134w
+- 2025-09-21 — [Work With Music](https://ma.tt/2025/09/work-with-music/) — `2025-09-21-2025-09-work-with-music.md` — 124w
+- 2025-09-19 — [MCP Everywhere](https://ma.tt/2025/09/mcp-everywhere/) — `2025-09-19-2025-09-mcp-everywhere.md` — 196w
+- 2025-09-17 — [Every 6 Minutes](https://ma.tt/2025/09/every-6-minutes/) — `2025-09-17-2025-09-every-6-minutes.md` — 143w
+- 2025-09-14 — [Weekend YouTubes](https://ma.tt/2025/09/weekend-youtubes/) — `2025-09-14-2025-09-weekend-youtubes.md` — 339w
+- 2025-09-13 — [Old Business Cards](https://ma.tt/2025/09/old-business-cards/) — `2025-09-13-2025-09-old-business-cards.md` — 228w
+- 2025-09-12 — [Legal Win](https://ma.tt/2025/09/legal-win/) — `2025-09-12-2025-09-legal-win.md` — 136w
+- 2025-09-11 — [PostHog](https://ma.tt/2025/09/posthog/) — `2025-09-11-2025-09-posthog.md` — 124w
+- 2025-09-11 — [Account for Externalities](https://ma.tt/2025/09/externalities/) — `2025-09-11-2025-09-externalities.md` — 348w
+- 2025-09-08 — [Assorted Links](https://ma.tt/2025/09/links/) — `2025-09-08-2025-09-links.md` — 141w
+- 2025-09-07 — [Maker Taker](https://ma.tt/2025/09/maker-taker/) — `2025-09-07-2025-09-maker-taker.md` — 249w
+- 2025-09-06 — [Breaking Ribs](https://ma.tt/2025/09/breaking-ribs/) — `2025-09-06-2025-09-breaking-ribs.md` — 223w
+- 2025-09-05 — [Happy Birthday Anil](https://ma.tt/2025/09/anil-50/) — `2025-09-05-2025-09-anil-50.md` — 147w
+- 2025-09-03 — [God & Devil Debate HI](https://ma.tt/2025/09/en-passant/) — `2025-09-03-2025-09-en-passant.md` — 158w
+- 2025-09-02 — [Are you a WordPresser?](https://ma.tt/2025/09/wordpresser/) — `2025-09-02-2025-09-wordpresser.md` — 295w
+- 2025-08-30 — [Summer WordPress Update](https://ma.tt/2025/08/wcus-2025/) — `2025-08-30-2025-08-wcus-2025.md` — 146w
+- 2025-08-28 — [Think Different](https://ma.tt/2025/08/think-different/) — `2025-08-28-2025-08-think-different.md` — 262w
+- 2025-08-25 — [The Future of WordPress and AI at WCUS](https://ma.tt/2025/08/wcus-ai/) — `2025-08-25-2025-08-wcus-ai.md` — 271w
+- 2025-08-19 — [MCP NYC Hackathon](https://ma.tt/2025/08/mcp-nyc-hackathon/) — `2025-08-19-2025-08-mcp-nyc-hackathon.md` — 410w
+- 2025-08-13 — [WP.com Simplification](https://ma.tt/2025/08/simplification/) — `2025-08-13-2025-08-simplification.md` — 393w
+- 2025-06-30 — [Back on The Verge](https://ma.tt/2025/06/on-the-verge/) — `2025-06-30-2025-06-on-the-verge.md` — 206w
+- 2025-06-26 — [Alpha School Insider](https://ma.tt/2025/06/alpha-school/) — `2025-06-26-2025-06-alpha-school.md` — 489w
+- 2025-06-20 — [Automattic Twenty](https://ma.tt/2025/06/automattic-twenty/) — `2025-06-20-2025-06-automattic-twenty.md` — 689w
+- 2025-06-18 — [Alfred-like Shortcuts in Spotlight](https://ma.tt/2025/06/macos-26-spotlight/) — `2025-06-18-2025-06-macos-26-spotlight.md` — 473w
+- 2025-06-12 — [Play With Clay](https://ma.tt/2025/06/clay/) — `2025-06-12-2025-06-clay.md` — 176w
+- 2025-05-27 — [The Five Layers of Sharing Thoughts and Ideas](https://ma.tt/2025/05/sharing-levels/) — `2025-05-27-2025-05-sharing-levels.md` — 513w
+- 2025-05-06 — [Remember Gravatar?](https://ma.tt/2025/05/remember-gravatar/) — `2025-05-06-2025-05-remember-gravatar.md` — 160w
+- 2025-05-02 — [Berkshire Hathaway Meeting](https://ma.tt/2025/05/berkshire/) — `2025-05-02-2025-05-berkshire.md` — 442w
+- 2025-04-23 — [Reflecting](https://ma.tt/2025/04/reflecting/) — `2025-04-23-2025-04-reflecting.md` — 269w
+- 2025-04-19 — [Greatest Hits](https://ma.tt/2025/04/greatest-hits/) — `2025-04-19-2025-04-greatest-hits.md` — 715w
+- 2025-04-17 — [6.8](https://ma.tt/2025/04/cecil/) — `2025-04-17-2025-04-cecil.md` — 428w
+- 2025-03-21 — [Automattic Operating System](https://ma.tt/2025/03/aos/) — `2025-03-21-2025-03-aos.md` — 842w
+- 2025-03-08 — [Real WordPress Security](https://ma.tt/2025/03/real-wordpress-security/) — `2025-03-08-2025-03-real-wordpress-security.md` — 366w
+- 2025-03-04 — [On Lenny’s Podcast](https://ma.tt/2025/03/lennys-podcast/) — `2025-03-04-2025-03-lennys-podcast.md` — 185w
+- 2025-02-21 — [WordCamp Asia and Maha Kumbh Mela](https://ma.tt/2025/02/wcasia-kumbh/) — `2025-02-21-2025-02-wcasia-kumbh.md` — 224w
+- 2025-02-09 — [Ed Catmull on Change](https://ma.tt/2025/02/ed-catmull-on-change/) — `2025-02-09-2025-02-ed-catmull-on-change.md` — 256w
+- 2025-01-28 — [Boom & Deepseek](https://ma.tt/2025/01/boom-deepseek/) — `2025-01-28-2025-01-boom-deepseek.md` — 188w
+- 2025-01-20 — [What’s in My Bag, 2025](https://ma.tt/2025/01/2025-bag/) — `2025-01-20-2025-01-2025-bag.md` — 1588w
+- 2025-01-11 — [Matt 4.1](https://ma.tt/2025/01/forty-one/) — `2025-01-11-2025-01-forty-one.md` — 513w
+- 2025-01-08 — [Studio Sync](https://ma.tt/2025/01/studio-sync/) — `2025-01-08-2025-01-studio-sync.md` — 129w
+- 2024-12-19 — [Inc Hit Piece](https://ma.tt/2024/12/inc-hit-piece/) — `2024-12-19-2024-12-inc-hit-piece.md` — 2566w
+- 2024-12-15 — [State of the Word Tokyo](https://ma.tt/2024/12/state-of-the-word-tokyo/) — `2024-12-15-2024-12-state-of-the-word-tokyo.md` — 208w
+- 2024-12-09 — [DrupalCon Singapore](https://ma.tt/2024/12/drupalcon-singapore/) — `2024-12-09-2024-12-drupalcon-singapore.md` — 208w
+- 2024-11-21 — [Welcoming Harper](https://ma.tt/2024/11/welcoming-harper/) — `2024-11-21-2024-11-welcoming-harper.md` — 123w
+- 2024-11-11 — [RIP Quincy Jones](https://ma.tt/2024/11/rip-quincy-jones/) — `2024-11-11-2024-11-rip-quincy-jones.md` — 245w
+- 2024-11-01 — [GPL Clarification](https://ma.tt/2024/11/gpl-clarification/) — `2024-11-01-2024-11-gpl-clarification.md` — 137w
+- 2024-10-28 — [Kindness and Techcrunch Disrupt](https://ma.tt/2024/10/kindness-techcrunch/) — `2024-10-28-2024-10-kindness-techcrunch.md` — 147w
+- 2024-10-20 — [My Freedom of Speech](https://ma.tt/2024/10/first-amendment/) — `2024-10-20-2024-10-first-amendment.md` — 268w
+- 2024-10-14 — [Response to DHH](https://ma.tt/2024/10/on-dhh/) — `2024-10-14-2024-10-on-dhh.md` — 294w
+- 2024-10-12 — [Everyone’s An Owner](https://ma.tt/2024/10/owner-mentality/) — `2024-10-12-2024-10-owner-mentality.md` — 712w
+- 2024-10-07 — [Rhino Dehorning](https://ma.tt/2024/10/rhino-dehorning/) — `2024-10-07-2024-10-rhino-dehorning.md` — 541w
+- 2024-10-03 — [Automattic Alignment](https://ma.tt/2024/10/alignment/) — `2024-10-03-2024-10-alignment.md` — 330w
+- 2024-09-29 — [On with Theo / T3.gg](https://ma.tt/2024/09/t3/) — `2024-09-29-2024-09-t3.md` — 284w
+- 2024-09-28 — [Where is Lee Wittlinger?](https://ma.tt/2024/09/missing-spokespeople/) — `2024-09-28-2024-09-missing-spokespeople.md` — 149w
+- 2024-09-26 — [WPE & Trademarks](https://ma.tt/2024/09/wordpress-engine/) — `2024-09-26-2024-09-wordpress-engine.md` — 261w
+- 2024-09-25 — [Charitable Contributions](https://ma.tt/2024/09/charitable-contributions/) — `2024-09-25-2024-09-charitable-contributions.md` — 174w
+- 2024-09-20 — [Are Investors Bad?](https://ma.tt/2024/09/are-investors-bad/) — `2024-09-20-2024-09-are-investors-bad.md` — 314w
+- 2024-09-17 — [WordCamp US & Ecosystem Thinking](https://ma.tt/2024/09/ecosystem-thinking/) — `2024-09-17-2024-09-ecosystem-thinking.md` — 984w
+- 2024-08-29 — [Burning Man So Far](https://ma.tt/2024/08/burning-man-so-far/) — `2024-08-29-2024-08-burning-man-so-far.md` — 393w
+- 2024-08-23 — [Best Cities](https://ma.tt/2024/08/best-cities/) — `2024-08-23-2024-08-best-cities.md` — 151w
+- 2024-08-20 — [Anbernic, Sol, and Daylight](https://ma.tt/2024/08/anbernic-sol-and-daylight/) — `2024-08-20-2024-08-anbernic-sol-and-daylight.md` — 347w
+- 2024-08-19 — [Jeff Jarvis](https://ma.tt/2024/08/jeff-jarvis/) — `2024-08-19-2024-08-jeff-jarvis.md` — 143w
+- 2024-07-21 — [Happy Birthday, Charleen](https://ma.tt/2024/07/happy-birthday-charleen/) — `2024-07-21-2024-07-happy-birthday-charleen.md` — 781w
+- 2024-07-20 — [Jim Simons RIP](https://ma.tt/2024/07/jim-simons-rip/) — `2024-07-20-2024-07-jim-simons-rip.md` — 519w
+- 2024-06-10 — [Apple Intelligence](https://ma.tt/2024/06/apple-intelligence/) — `2024-06-10-2024-06-apple-intelligence.md` — 224w
+- 2024-06-08 — [Cowen Life Lessons](https://ma.tt/2024/06/cowen-life-lessons/) — `2024-06-08-2024-06-cowen-life-lessons.md` — 305w
+- 2024-06-03 — [Melt Your Butter](https://ma.tt/2024/06/melt-your-butter/) — `2024-06-03-2024-06-melt-your-butter.md` — 287w
+- 2024-05-27 — [WP21](https://ma.tt/2024/05/wp21/) — `2024-05-27-2024-05-wp21.md` — 450w
+- 2024-05-15 — [Sabbatical Wrap](https://ma.tt/2024/05/sabbatical-wrap/) — `2024-05-15-2024-05-sabbatical-wrap.md` — 577w
+- 2024-05-14 — [Karaoke Hacks](https://ma.tt/2024/05/karaoke-hacks/) — `2024-05-14-2024-05-karaoke-hacks.md` — 209w
+- 2024-05-09 — [Bay Lights Are Returning!](https://ma.tt/2024/05/bay-lights-are-returning/) — `2024-05-09-2024-05-bay-lights-are-returning.md` — 216w
+- 2024-05-07 — [Mouth Biohacking](https://ma.tt/2024/05/mouth-biohacking/) — `2024-05-07-2024-05-mouth-biohacking.md` — 205w
+- 2024-04-09 — [Beeper & Texts](https://ma.tt/2024/04/beeper-texts/) — `2024-04-09-2024-04-beeper-texts.md` — 153w
+- 2024-02-25 — [On the Reddit IPO](https://ma.tt/2024/02/on-the-reddit-ipo/) — `2024-02-25-2024-02-on-the-reddit-ipo.md` — 180w
+- 2024-02-09 — [WordPress, Taylor Swift, Super Bowl, oh my](https://ma.tt/2024/02/wp-taylor/) — `2024-02-09-2024-02-wp-taylor.md` — 308w
+- 2024-02-07 — [Thoughts on Tech Employment](https://ma.tt/2024/02/thoughts-on-tech-employment/) — `2024-02-07-2024-02-thoughts-on-tech-employment.md` — 653w
+- 2024-02-07 — [Joshua Redman on Tiny Desk](https://ma.tt/2024/02/joshua-redman-on-tiny-desk/) — `2024-02-07-2024-02-joshua-redman-on-tiny-desk.md` — 128w
+- 2024-02-05 — [National Security](https://ma.tt/2024/02/national-security/) — `2024-02-05-2024-02-national-security.md` — 122w
+- 2024-02-02 — [Vision Pro First Impressions](https://ma.tt/2024/02/vision-pro-first-impressions/) — `2024-02-02-2024-02-vision-pro-first-impressions.md` — 245w
+- 2024-02-02 — [Rowing to Alcatraz](https://ma.tt/2024/02/rowing-to-alcatraz/) — `2024-02-02-2024-02-rowing-to-alcatraz.md` — 299w
+- 2024-02-01 — [Samattical](https://ma.tt/2024/02/samattical/) — `2024-02-01-2024-02-samattical.md` — 261w
+- 2024-01-28 — [Automattic’s Big Re-Org](https://ma.tt/2024/01/automattics-big-re-org/) — `2024-01-28-2024-01-automattics-big-re-org.md` — 388w
+- 2024-01-11 — [Forty!](https://ma.tt/2024/01/forty/) — `2024-01-11-2024-01-forty.md` — 615w
+- 2024-01-09 — [Sonos Tip](https://ma.tt/2024/01/sonos-tip/) — `2024-01-09-2024-01-sonos-tip.md` — 163w
+- 2024-01-03 — [Back With Tim](https://ma.tt/2024/01/back-with-tim/) — `2024-01-03-2024-01-back-with-tim.md` — 213w
+- 2024-01-01 — [Birthday Gift](https://ma.tt/2024/01/birthday-gift/) — `2024-01-01-2024-01-birthday-gift.md` — 262w
+- 2023-12-31 — [Books 2020–2023](https://ma.tt/2023/12/books-2020-2023/) — `2023-12-31-2023-12-books-2020-2023.md` — 468w
+- 2023-12-15 — [What’s in My Bag, 2023](https://ma.tt/2023/12/the-bag-post/) — `2023-12-15-2023-12-the-bag-post.md` — 1852w
+- 2023-12-13 — [Podcast with Texts founder Kishan and Techcrunch](https://ma.tt/2023/12/kishan-techcrunch/) — `2023-12-13-2023-12-kishan-techcrunch.md` — 159w
+- 2023-11-18 — [Sunbird Security Isn’t Nothing](https://ma.tt/2023/11/sunbird/) — `2023-11-18-2023-11-sunbird.md` — 917w
+- 2023-10-24 — [Texts Joins Automattic](https://ma.tt/2023/10/texts-joins-automattic/) — `2023-10-24-2023-10-texts-joins-automattic.md` — 354w
+- 2023-10-18 — [Wowza!](https://ma.tt/2023/10/wowza/) — `2023-10-18-2023-10-wowza.md` — 207w
+- 2023-10-18 — [Cost of Spam](https://ma.tt/2023/10/cost-of-spam/) — `2023-10-18-2023-10-cost-of-spam.md` — 216w
+- 2023-10-02 — [Preserving Harvard’s Blogging History](https://ma.tt/2023/10/preserving-harvards-blogging-history/) — `2023-10-02-2023-10-preserving-harvards-blogging-history.md` — 351w
+- 2023-08-22 — [I Love WordCamps!](https://ma.tt/2023/08/i-love-wordcamps/) — `2023-08-22-2023-08-i-love-wordcamps.md` — 812w
+- 2023-07-18 — [Chorus and WordPress](https://ma.tt/2023/07/chorus-and-wordpress/) — `2023-07-18-2023-07-chorus-and-wordpress.md` — 340w
+- 2023-06-08 — [Whoop Podcast](https://ma.tt/2023/06/whoop-podcast/) — `2023-06-08-2023-06-whoop-podcast.md` — 147w
+- 2023-06-06 — [Apple Journals & Day One](https://ma.tt/2023/06/apple-journals-day-one/) — `2023-06-06-2023-06-apple-journals-day-one.md` — 174w
+- 2023-05-27 — [WP20 & Audrey Scholars](https://ma.tt/2023/05/wp20-audrey-scholars/) — `2023-05-27-2023-05-wp20-audrey-scholars.md` — 146w
+- 2023-01-11 — [Thirty-Nine](https://ma.tt/2023/01/thirty-nine/) — `2023-01-11-2023-01-thirty-nine.md` — 512w
+- 2022-10-21 — [Open Source Podcasting Client](https://ma.tt/2022/10/open-source-podcasting-client/) — `2022-10-21-2022-10-open-source-podcasting-client.md` — 252w
+- 2022-08-27 — [Sonic Sphere and Empyrean Gate](https://ma.tt/2022/08/sonic-sphere-and-empyrean-gate/) — `2022-08-27-2022-08-sonic-sphere-and-empyrean-gate.md` — 150w
+- 2022-08-09 — [Gaiman on Tumblr](https://ma.tt/2022/08/gaiman-on-tumblr/) — `2022-08-09-2022-08-gaiman-on-tumblr.md` — 270w
+- 2022-03-23 — [Guy Raz’s How I Built This](https://ma.tt/2022/03/guy-razs-how-i-built-this/) — `2022-03-23-2022-03-guy-razs-how-i-built-this.md` — 141w
+- 2022-02-14 — [Junk Your Jabra](https://ma.tt/2022/02/junk-your-jabra/) — `2022-02-14-2022-02-junk-your-jabra.md` — 149w
+- 2022-01-11 — [Thirty Eight](https://ma.tt/2022/01/thirty-eight/) — `2022-01-11-2022-01-thirty-eight.md` — 510w
+- 2022-01-02 — [Celebrate by Writing](https://ma.tt/2022/01/celebrate-by-writing/) — `2022-01-02-2022-01-celebrate-by-writing.md` — 240w
+- 2021-12-24 — [Saving the Internet](https://ma.tt/2021/12/saving-the-internet/) — `2021-12-24-2021-12-saving-the-internet.md` — 208w
+- 2021-12-10 — [State of the Word… in person!](https://ma.tt/2021/12/state-of-the-word-in-person/) — `2021-12-10-2021-12-state-of-the-word-in-person.md` — 210w
+- 2021-08-30 — [Frontity to Join Automattic](https://ma.tt/2021/08/frontity-to-join-automattic/) — `2021-08-30-2021-08-frontity-to-join-automattic.md` — 139w
+- 2021-08-16 — [Funding, Buyback, and Hiring](https://ma.tt/2021/08/funding-buyback-hiring/) — `2021-08-16-2021-08-funding-buyback-hiring.md` — 623w
+- 2021-06-14 — [Day One at Automattic](https://ma.tt/2021/06/day-one-at-automattic/) — `2021-06-14-2021-06-day-one-at-automattic.md` — 372w
+- 2021-05-27 — [WordPress 18](https://ma.tt/2021/05/wordpress-18/) — `2021-05-27-2021-05-wordpress-18.md` — 158w
+- 2021-05-21 — [2021 Streaming Kit](https://ma.tt/2021/05/2021-streaming-kit/) — `2021-05-21-2021-05-2021-streaming-kit.md` — 469w
+- 2021-05-19 — [Squarespace Direct Listing](https://ma.tt/2021/05/squarespace-direct-listing/) — `2021-05-19-2021-05-squarespace-direct-listing.md` — 375w
+- 2021-04-27 — [CC Search to join WordPress.org](https://ma.tt/2021/04/cc-search-to-join-wordpress-org/) — `2021-04-27-2021-04-cc-search-to-join-wordpress-org.md` — 197w
+- 2021-04-07 — [Wix and Their Dirty Tricks](https://ma.tt/2021/04/wix-dirty-tricks/) — `2021-04-07-2021-04-wix-dirty-tricks.md` — 479w
+- 2021-02-22 — [Invest Like the Best and Building Worlds](https://ma.tt/2021/02/invest-like-the-best-and-building-worlds/) — `2021-02-22-2021-02-invest-like-the-best-and-building-worlds.md` — 122w
+- 2021-02-08 — [Parse.ly & Automattic](https://ma.tt/2021/02/parse-ly-automattic/) — `2021-02-08-2021-02-parse-ly-automattic.md` — 182w
+- 2021-02-02 — [Compounding Ice](https://ma.tt/2021/02/compounding-ice/) — `2021-02-02-2021-02-compounding-ice.md` — 239w
+- 2021-01-20 — [New WhiteHouse.gov](https://ma.tt/2021/01/new-whitehouse-gov/) — `2021-01-20-2021-01-new-whitehouse-gov.md` — 294w
+- 2021-01-11 — [Thirty-seven](https://ma.tt/2021/01/thirty-seven/) — `2021-01-11-2021-01-thirty-seven.md` — 296w
+- 2021-01-08 — [Autonomous and Beautiful Home Devices](https://ma.tt/2021/01/autonomous-and-beautiful-home-devices/) — `2021-01-08-2021-01-autonomous-and-beautiful-home-devices.md` — 222w
+- 2021-01-05 — [Farnam Street and Postlight](https://ma.tt/2021/01/farnam-street-and-postlight/) — `2021-01-05-2021-01-farnam-street-and-postlight.md` — 271w
+- 2021-01-02 — [What’s In My Bag, 2020](https://ma.tt/2021/01/whats-in-my-bag-2020/) — `2021-01-02-2021-01-whats-in-my-bag-2020.md` — 1412w
+- 2020-12-30 — [Jack Dorsey and Running Two Companies](https://ma.tt/2020/12/running-two-companies/) — `2020-12-30-2020-12-running-two-companies.md` — 257w
+- 2020-12-27 — [State of the Word 2020](https://ma.tt/2020/12/sotw-2020/) — `2020-12-27-2020-12-sotw-2020.md` — 182w
+- 2020-08-18 — [Second-Order Effects](https://ma.tt/2020/08/second-order-effects/) — `2020-08-18-2020-08-second-order-effects.md` — 129w
+- 2020-07-19 — [Corner Office Interview](https://ma.tt/2020/07/corner-office-interview/) — `2020-07-19-2020-07-corner-office-interview.md` — 331w
+- 2020-06-26 — [Combating Epidemics With Internet](https://ma.tt/2020/06/combating-epidemics-with-internet/) — `2020-06-26-2020-06-combating-epidemics-with-internet.md` — 201w
+- 2020-05-29 — [Stream Like a CEO](https://ma.tt/2020/05/ceo-video-streaming/) — `2020-05-29-2020-05-ceo-video-streaming.md` — 850w
+- 2020-05-27 — [Celebrate Seventeen](https://ma.tt/2020/05/celebrate-seventeen/) — `2020-05-27-2020-05-celebrate-seventeen.md` — 190w
+- 2020-05-21 — [Gradually, Then Suddenly](https://ma.tt/2020/05/gradually-then-suddenly/) — `2020-05-21-2020-05-gradually-then-suddenly.md` — 548w
+- 2020-04-10 — [Distributed Work’s Five Levels of Autonomy](https://ma.tt/2020/04/five-levels-of-autonomy/) — `2020-04-10-2020-04-five-levels-of-autonomy.md` — 1193w
+- 2020-03-24 — [Don’t Mute, Get a Better Headset](https://ma.tt/2020/03/dont-mute-get-a-better-headset/) — `2020-03-24-2020-03-dont-mute-get-a-better-headset.md` — 1347w
+- 2020-03-18 — [Physical Distancing](https://ma.tt/2020/03/physical-distancing/) — `2020-03-18-2020-03-physical-distancing.md` — 125w
+- 2020-03-16 — [Business as Usual in The Information](https://ma.tt/2020/03/business-as-usual-in-the-information/) — `2020-03-16-2020-03-business-as-usual-in-the-information.md` — 361w
+- 2020-03-05 — [Coronavirus and the Remote Work Experiment No One Asked For](https://ma.tt/2020/03/coronavirus-remote-work/) — `2020-03-05-2020-03-coronavirus-remote-work.md` — 675w
+- 2020-01-11 — [Thirty Six](https://ma.tt/2020/01/thirty-six/) — `2020-01-11-2020-01-thirty-six.md` — 344w
+- 2020-01-01 — [29 Books in 2019](https://ma.tt/2020/01/29-books-in-2019/) — `2020-01-01-2020-01-29-books-in-2019.md` — 398w
+- 2019-12-16 — [Comments and Collatz Conundrum](https://ma.tt/2019/12/comments-and-collatz-conundrum/) — `2019-12-16-2019-12-comments-and-collatz-conundrum.md` — 151w
+- 2019-11-26 — [Distributed Podcast: Clark Valberg, Lydia X. Z. Brown, Stephen Wolfram, and the Grand Meetup](https://ma.tt/2019/11/distributed-podcast-updates/) — `2019-11-26-2019-11-distributed-podcast-updates.md` — 1177w
+- 2019-11-05 — [State of the Word 2019](https://ma.tt/2019/11/state-of-the-word-2019/) — `2019-11-05-2019-11-state-of-the-word-2019.md` — 156w
+- 2019-10-02 — [Debating OSS with DHH](https://ma.tt/2019/10/debating-oss-with-dhh/) — `2019-10-02-2019-10-debating-oss-with-dhh.md` — 136w
+- 2019-09-19 — [Automattic’s Series D](https://ma.tt/2019/09/series-d/) — `2019-09-19-2019-09-series-d.md` — 420w
+- 2019-08-13 — [Tumblr the Day After](https://ma.tt/2019/08/tumblr-the-day-after/) — `2019-08-13-2019-08-tumblr-the-day-after.md` — 395w
+- 2019-06-19 — [The Houston Doberge Project](https://ma.tt/2019/06/doberge-project/) — `2019-06-19-2019-06-doberge-project.md` — 2212w
+- 2019-04-15 — [Happy Tools, for the Future of Work](https://ma.tt/2019/04/happy-tools/) — `2019-04-15-2019-04-happy-tools.md` — 330w
+- 2019-01-28 — [39 Books in 2018](https://ma.tt/2019/01/39-books-in-2018/) — `2019-01-28-2019-01-39-books-in-2018.md` — 380w
+- 2019-01-16 — [My TED Video on the Future of Work](https://ma.tt/2019/01/ted-the-future-of-work/) — `2019-01-16-2019-01-ted-the-future-of-work.md` — 269w
+- 2019-01-14 — [Journalism and Newspack](https://ma.tt/2019/01/journalism-and-newspack/) — `2019-01-14-2019-01-journalism-and-newspack.md` — 281w
+- 2019-01-11 — [Thirty-Five](https://ma.tt/2019/01/thirty-five/) — `2019-01-11-2019-01-thirty-five.md` — 385w
+- 2018-12-26 — [Democratize Publishing, Revisited](https://ma.tt/2018/12/democratize-publishing-revisited/) — `2018-12-26-2018-12-democratize-publishing-revisited.md` — 234w
+- 2018-12-10 — [State of the Word 2018](https://ma.tt/2018/12/state-of-the-word-2018/) — `2018-12-10-2018-12-state-of-the-word-2018.md` — 122w
+- 2018-11-29 — [WordPress 5.0: A Gutenberg FAQ](https://ma.tt/2018/11/a-gutenberg-faq/) — `2018-11-29-2018-11-a-gutenberg-faq.md` — 2540w
+- 2018-11-08 — [Gutenberg in Portland Oregon and Podcasts](https://ma.tt/2018/11/gutenberg-in-portland-oregon-and-podcasts/) — `2018-11-08-2018-11-gutenberg-in-portland-oregon-and-podcasts.md` — 157w
+- 2018-10-30 — [What’s in My Bag, 2018 Edition](https://ma.tt/2018/10/whats-in-my-bag-2018-edition/) — `2018-10-30-2018-10-whats-in-my-bag-2018-edition.md` — 1355w
+- 2018-10-16 — [The Importance of Meeting In-Person](https://ma.tt/2018/10/the-importance-of-meeting-in-person/) — `2018-10-16-2018-10-the-importance-of-meeting-in-person.md` — 291w
+- 2018-09-18 — [CEOs and the Real World](https://ma.tt/2018/09/ceos-and-the-real-world/) — `2018-09-18-2018-09-ceos-and-the-real-world.md` — 701w
+- 2018-07-31 — [My Recode Decode Interview with Kara Swisher](https://ma.tt/2018/07/my-recode-decode-interview-with-kara-swisher/) — `2018-07-31-2018-07-my-recode-decode-interview-with-kara-swisher.md` — 209w
+- 2018-06-28 — [Automattic’s First New Board Member: General Ann Dunwoody](https://ma.tt/2018/06/automattics-first-new-board-member-general-ann-dunwoody/) — `2018-06-28-2018-06-automattics-first-new-board-member-general-ann-dunwoody.md` — 1269w
+- 2018-06-25 — [Mass Unsubscribe Mailchimp](https://ma.tt/2018/06/mass-unsubscribe-mailchimp/) — `2018-06-25-2018-06-mass-unsubscribe-mailchimp.md` — 160w
+- 2018-06-19 — [Link Roundup](https://ma.tt/2018/06/link-roundup/) — `2018-06-19-2018-06-link-roundup.md` — 166w
+- 2018-05-25 — [WordPress at 15](https://ma.tt/2018/05/wordpress-at-15/) — `2018-05-25-2018-05-wordpress-at-15.md` — 268w
+- 2018-04-02 — [Goose-down Nape](https://ma.tt/2018/04/goose-down-nape/) — `2018-04-02-2018-04-goose-down-nape.md` — 173w
+- 2018-02-16 — [No Office Workstyle](https://ma.tt/2018/02/no-office-workstyle/) — `2018-02-16-2018-02-no-office-workstyle.md` — 567w
+- 2018-01-18 — [R.I.P Dean Allen](https://ma.tt/2018/01/r-i-p-dean/) — `2018-01-18-2018-01-r-i-p-dean.md` — 472w
+- 2018-01-11 — [Thirty-Four](https://ma.tt/2018/01/thirty-four/) — `2018-01-11-2018-01-thirty-four.md` — 232w
+- 2018-01-05 — [Xerox Alto Zero-Day](https://ma.tt/2018/01/xerox-alto-zero-day/) — `2018-01-05-2018-01-xerox-alto-zero-day.md` — 274w
+- 2017-12-31 — [Books in 2017](https://ma.tt/2017/12/books-in-2017/) — `2017-12-31-2017-12-books-in-2017.md` — 343w
+- 2017-12-11 — [Post-Verbal Language](https://ma.tt/2017/12/post-verbal-language/) — `2017-12-11-2017-12-post-verbal-language.md` — 202w
+- 2017-11-22 — [Adam Robinson on Understanding](https://ma.tt/2017/11/adam-robinson-on-understanding/) — `2017-11-22-2017-11-adam-robinson-on-understanding.md` — 939w
+- 2017-09-24 — [Facebook Dropping Patent Clause](https://ma.tt/2017/09/facebook-dropping-patent-clause/) — `2017-09-24-2017-09-facebook-dropping-patent-clause.md` — 184w
+- 2017-09-14 — [On React and WordPress](https://ma.tt/2017/09/on-react-and-wordpress/) — `2017-09-14-2017-09-on-react-and-wordpress.md` — 554w
+- 2017-08-27 — [We Called it Gutenberg for a Reason](https://ma.tt/2017/08/we-called-it-gutenberg-for-a-reason/) — `2017-08-27-2017-08-we-called-it-gutenberg-for-a-reason.md` — 1359w
+- 2017-06-16 — [4.8 and What’s Coming](https://ma.tt/2017/06/4-8-and-whats-coming/) — `2017-06-16-2017-06-4-8-and-whats-coming.md` — 494w
+- 2017-05-29 — [A Delicious Compliment](https://ma.tt/2017/05/a-delicious-compliment/) — `2017-05-29-2017-05-a-delicious-compliment.md` — 121w
+- 2017-05-23 — [What’s in My Bag, 2017 edition](https://ma.tt/2017/05/whats-in-my-bag-2017/) — `2017-05-23-2017-05-whats-in-my-bag-2017.md` — 2629w
+- 2017-05-20 — [IBM Goes Non-Remote](https://ma.tt/2017/05/ibm-goes-non-remote/) — `2017-05-20-2017-05-ibm-goes-non-remote.md` — 244w
+- 2017-04-21 — [Songs for My Father](https://ma.tt/2017/04/songs-for-my-father/) — `2017-04-21-2017-04-songs-for-my-father.md` — 580w
+- 2017-04-12 — [New Top 50 Restaurants](https://ma.tt/2017/04/new-top-50-restaurants/) — `2017-04-12-2017-04-new-top-50-restaurants.md` — 144w
+- 2017-03-10 — [Review: From Plato to Post-modernism](https://ma.tt/2017/03/review-from-plato-to-post-modernism/) — `2017-03-10-2017-03-review-from-plato-to-post-modernism.md` — 332w
+- 2017-03-08 — [WordPress Collaborative Editing](https://ma.tt/2017/03/wordpress-collaborative-editing/) — `2017-03-08-2017-03-wordpress-collaborative-editing.md` — 309w
+- 2017-01-11 — [Thirty-Three](https://ma.tt/2017/01/thirty-three/) — `2017-01-11-2017-01-thirty-three.md` — 513w
+- 2017-01-10 — [Rebirth and Yellow Arrows](https://ma.tt/2017/01/rebirth-and-yellow-arrows/) — `2017-01-10-2017-01-rebirth-and-yellow-arrows.md` — 358w
+- 2016-12-12 — [State of the Word, 2016](https://ma.tt/2016/12/state-of-the-word-2016/) — `2016-12-12-2016-12-state-of-the-word-2016.md` — 243w
+- 2016-12-02 — [WP Growth Council](https://ma.tt/2016/12/wp-growth-council/) — `2016-12-02-2016-12-wp-growth-council.md` — 245w
+- 2016-10-28 — [The Wix Mobile App, a WordPress Joint](https://ma.tt/2016/10/wix-and-the-gpl/) — `2016-10-28-2016-10-wix-and-the-gpl.md` — 1774w
+- 2016-10-21 — [Defrauding an Election](https://ma.tt/2016/10/defrauding-an-election/) — `2016-10-21-2016-10-defrauding-an-election.md` — 133w
+- 2016-09-11 — [Fun Shopping Finds](https://ma.tt/2016/09/fun-shopping-finds/) — `2016-09-11-2016-09-fun-shopping-finds.md` — 147w
+- 2016-09-06 — [Koya Bound Kickstarter](https://ma.tt/2016/09/koya-bound-kickstarter/) — `2016-09-06-2016-09-koya-bound-kickstarter.md` — 180w
+- 2016-08-23 — [What a Week: WordPress, Maeda, .Blog](https://ma.tt/2016/08/what-a-week-wordpress-maeda-blog/) — `2016-08-23-2016-08-what-a-week-wordpress-maeda-blog.md` — 436w
+- 2016-07-09 — [Guest House by Rumi](https://ma.tt/2016/07/guest-house-by-rumi/) — `2016-07-09-2016-07-guest-house-by-rumi.md` — 129w
+- 2016-07-08 — [Mortgaging Your Site’s Future](https://ma.tt/2016/07/mortgaging-your-sites-future/) — `2016-07-08-2016-07-mortgaging-your-sites-future.md` — 127w
+- 2016-05-12 — [.Blog](https://ma.tt/2016/05/blog/) — `2016-05-12-2016-05-blog.md` — 132w
+- 2016-04-20 — [In Memoriam: Chuck Mullenweg](https://ma.tt/2016/04/in-memoriam-chuck-mullenweg/) — `2016-04-20-2016-04-in-memoriam-chuck-mullenweg.md` — 730w
+- 2016-03-15 — [What’s in My Bag, 2016 edition](https://ma.tt/2016/03/whats-in-my-bag-2016-edition/) — `2016-03-15-2016-03-whats-in-my-bag-2016-edition.md` — 1580w
+- 2016-02-15 — [Solar in Sunshine State](https://ma.tt/2016/02/solar-in-sunshine-state/) — `2016-02-15-2016-02-solar-in-sunshine-state.md` — 139w
+- 2016-02-10 — [Lent This Year: Buying Things](https://ma.tt/2016/02/lent-this-year-buying-things/) — `2016-02-10-2016-02-lent-this-year-buying-things.md` — 235w
+- 2016-02-09 — [The Problem with Phone Calls](https://ma.tt/2016/02/the-problem-with-phone-calls/) — `2016-02-09-2016-02-the-problem-with-phone-calls.md` — 142w
+- 2016-02-05 — [Chicken and Eggs](https://ma.tt/2016/02/chicken-and-eggs/) — `2016-02-05-2016-02-chicken-and-eggs.md` — 677w
+- 2016-02-01 — [Getting a Job After Coding Bootcamp](https://ma.tt/2016/02/getting-a-job-after-coding-bootcamp/) — `2016-02-01-2016-02-getting-a-job-after-coding-bootcamp.md` — 335w
+- 2016-01-26 — [Marketing at Automattic](https://ma.tt/2016/01/marketing-at-automattic/) — `2016-01-26-2016-01-marketing-at-automattic.md` — 132w
+- 2016-01-11 — [Thirty-Two](https://ma.tt/2016/01/thirty-two/) — `2016-01-11-2016-01-thirty-two.md` — 431w
+- 2015-12-30 — [The Changing Web](https://ma.tt/2015/12/the-changing-web/) — `2015-12-30-2015-12-the-changing-web.md` — 120w
+- 2015-11-24 — [Calypso, 24 Hours Later](https://ma.tt/2015/11/calypso-24-hours-later/) — `2015-11-24-2015-11-calypso-24-hours-later.md` — 531w
+- 2015-11-23 — [Dance to Calypso](https://ma.tt/2015/11/dance-to-calypso/) — `2015-11-23-2015-11-dance-to-calypso.md` — 982w
+- 2015-11-10 — [Arthur C. Clarke on Distributed Work](https://ma.tt/2015/11/arthur-c-clarke-on-distributed-work/) — `2015-11-10-2015-11-arthur-c-clarke-on-distributed-work.md` — 233w
+- 2015-11-08 — [Seventy-Five to Go](https://ma.tt/2015/11/seventy-five-to-go/) — `2015-11-08-2015-11-seventy-five-to-go.md` — 169w
+- 2015-10-14 — [Working & Exercising](https://ma.tt/2015/10/working-exercising/) — `2015-10-14-2015-10-working-exercising.md` — 214w
+- 2015-09-29 — [Remembering Alex King](https://ma.tt/2015/09/remembering-alex-king/) — `2015-09-29-2015-09-remembering-alex-king.md` — 927w
+- 2015-09-21 — [Interview, and Complementing Slack](https://ma.tt/2015/09/complementing-slack/) — `2015-09-21-2015-09-complementing-slack.md` — 124w
+- 2015-08-12 — [Avis GPS](https://ma.tt/2015/08/avis-gps/) — `2015-08-12-2015-08-avis-gps.md` — 405w
+- 2015-07-23 — [WordCamp US to be in Philadelphia](https://ma.tt/2015/07/wcus-philadelphia/) — `2015-07-23-2015-07-wcus-philadelphia.md` — 150w
+- 2015-07-21 — [There is No Such Thing as a Split License](https://ma.tt/2015/07/licenses-going-dutch/) — `2015-07-21-2015-07-licenses-going-dutch.md` — 444w
+- 2015-07-02 — [Domain Anonymity and the Brilliance of Entertainment Lobbyists](https://ma.tt/2015/07/domain-anonymity-and-the-brilliance-of-entertainment-lobbyists/) — `2015-07-02-2015-07-domain-anonymity-and-the-brilliance-of-entertainment-lobbyists.md` — 237w
+- 2015-06-22 — [Ten Years of Automattic](https://ma.tt/2015/06/ten-years-of-automattic/) — `2015-06-22-2015-06-ten-years-of-automattic.md` — 954w
+- 2015-06-10 — [Peter Thiel on MBAs](https://ma.tt/2015/06/peter-thiel-on-mbas/) — `2015-06-10-2015-06-peter-thiel-on-mbas.md` — 130w
+- 2015-06-03 — [Unsubscribing from Newsletters](https://ma.tt/2015/06/unsubscribing-from-newsletters/) — `2015-06-03-2015-06-unsubscribing-from-newsletters.md` — 363w
+- 2015-05-30 — [Martian Review](https://ma.tt/2015/05/martian-review/) — `2015-05-30-2015-05-martian-review.md` — 217w
+- 2015-05-19 — [Woo & Automattic](https://ma.tt/2015/05/woomattic/) — `2015-05-19-2015-05-woomattic.md` — 518w
+- 2015-05-04 — [Macbook & USB-C Review](https://ma.tt/2015/05/macbook-usb-c-review/) — `2015-05-04-2015-05-macbook-usb-c-review.md` — 709w
+- 2015-04-28 — [Who is Steve Jobs?](https://ma.tt/2015/04/who-is-steve-jobs/) — `2015-04-28-2015-04-who-is-steve-jobs.md` — 593w
+- 2015-04-21 — [Apple Loyalty Program](https://ma.tt/2015/04/apple-loyalty/) — `2015-04-21-2015-04-apple-loyalty.md` — 795w
+- 2015-04-20 — [Intermittent Fasting](https://ma.tt/2015/04/intermittent-fasting/) — `2015-04-20-2015-04-intermittent-fasting.md` — 127w
+- 2015-04-15 — [A Bank Website on WordPress](https://ma.tt/2015/04/a-bank-website-on-wordpress/) — `2015-04-15-2015-04-a-bank-website-on-wordpress.md` — 454w
+- 2015-04-14 — [Why We Love Repetition](https://ma.tt/2015/04/why-we-love-repetition/) — `2015-04-14-2015-04-why-we-love-repetition.md` — 150w
+- 2015-04-08 — [Best Headphones Spring 2015 Edition](https://ma.tt/2015/04/best-headphones-spring-2015-edition/) — `2015-04-08-2015-04-best-headphones-spring-2015-edition.md` — 499w
+- 2015-03-20 — [The Billionaire’s Typewriter](https://ma.tt/2015/03/typewriter/) — `2015-03-20-2015-03-typewriter.md` — 156w
+- 2015-03-05 — [Kanye on Color](https://ma.tt/2015/03/kanye-on-color/) — `2015-03-05-2015-03-kanye-on-color.md` — 130w
+- 2015-03-04 — [WIRED Re-launch](https://ma.tt/2015/03/wired-re-launch/) — `2015-03-04-2015-03-wired-re-launch.md` — 391w
+- 2015-02-28 — [Watching Television](https://ma.tt/2015/02/watching-television/) — `2015-02-28-2015-02-watching-television.md` — 188w
+- 2015-02-24 — [On WordPress.com and Bitcoin](https://ma.tt/2015/02/on-wordpress-com-and-bitcoin/) — `2015-02-24-2015-02-on-wordpress-com-and-bitcoin.md` — 508w
+- 2015-02-16 — [Jonathan Ive Profile](https://ma.tt/2015/02/jonathan-ive-profile/) — `2015-02-16-2015-02-jonathan-ive-profile.md` — 287w
+- 2015-02-12 — [What I Miss and Don’t Miss About San Francisco](https://ma.tt/2015/02/left-my-heart-in/) — `2015-02-12-2015-02-left-my-heart-in.md` — 601w
+- 2015-02-06 — [Tom Ford’s 15 Things](https://ma.tt/2015/02/tom-fords-15-things/) — `2015-02-06-2015-02-tom-fords-15-things.md` — 159w
+- 2015-02-05 — [Real NFL Scandal](https://ma.tt/2015/02/real-nfl-scandal/) — `2015-02-05-2015-02-real-nfl-scandal.md` — 147w
+- 2015-02-02 — [Advice and Fallacies](https://ma.tt/2015/02/advice-and-fallacies/) — `2015-02-02-2015-02-advice-and-fallacies.md` — 957w
+- 2015-01-30 — [John Scalzi on Semicolons](https://ma.tt/2015/01/john-scalzi-on-semicolons/) — `2015-01-30-2015-01-john-scalzi-on-semicolons.md` — 140w
+- 2015-01-29 — [Designer’s Creed](https://ma.tt/2015/01/designers-creed/) — `2015-01-29-2015-01-designers-creed.md` — 268w
+- 2015-01-11 — [Thirty One](https://ma.tt/2015/01/thirty-one/) — `2015-01-11-2015-01-thirty-one.md` — 416w
+- 2015-01-05 — [What’s in My Bag, 2014](https://ma.tt/2015/01/whats-in-my-bag-2014/) — `2015-01-05-2015-01-whats-in-my-bag-2014.md` — 615w
+- 2015-01-02 — [Jetpack Speed](https://ma.tt/2015/01/jetpack-speed/) — `2015-01-02-2015-01-jetpack-speed.md` — 184w
+- 2014-12-29 — [How Paul Graham Is Wrong](https://ma.tt/2014/12/how-paul-graham-is-wrong/) — `2014-12-29-2014-12-how-paul-graham-is-wrong.md` — 268w
+- 2014-11-11 — [Michael Jordan on Big Data](https://ma.tt/2014/11/michael-jordan-on-big-data/) — `2014-11-11-2014-11-michael-jordan-on-big-data.md` — 209w
+- 2014-11-04 — [Disqus Spam + Ads](https://ma.tt/2014/11/disqus-spam-ads/) — `2014-11-04-2014-11-disqus-spam-ads.md` — 167w
+- 2014-11-01 — [First Time Movember](https://ma.tt/2014/11/movember/) — `2014-11-01-2014-11-movember.md` — 161w
+- 2014-10-27 — [State of the Word 2014](https://ma.tt/2014/10/sotw-2014/) — `2014-10-27-2014-10-sotw-2014.md` — 503w
+- 2014-10-21 — [Retina 5k Mac](https://ma.tt/2014/10/retina-5k-mac/) — `2014-10-21-2014-10-retina-5k-mac.md` — 287w
+- 2014-10-13 — [New Yorker on WP](https://ma.tt/2014/10/new-yorker-on-wp-2/) — `2014-10-13-2014-10-new-yorker-on-wp-2.md` — 130w
+- 2014-10-12 — [Beats Studio Wireless vs Samsung Level Over](https://ma.tt/2014/10/beats-studio-wireless-vs-samsung-level-over/) — `2014-10-12-2014-10-beats-studio-wireless-vs-samsung-level-over.md` — 848w
+- 2014-10-04 — [Streak](https://ma.tt/2014/10/streak/) — `2014-10-04-2014-10-streak.md` — 610w
+- 2014-09-30 — [Five for the Future](https://ma.tt/2014/09/five-for-the-future/) — `2014-09-30-2014-09-five-for-the-future.md` — 410w
+- 2014-09-21 — [Automattic Grand Meetup 2014](https://ma.tt/2014/09/automattic-grand-meetup-2014/) — `2014-09-21-2014-09-automattic-grand-meetup-2014.md` — 277w
+- 2014-09-16 — [Fast Company Profile](https://ma.tt/2014/09/fast-company-profile/) — `2014-09-16-2014-09-fast-company-profile.md` — 211w
+- 2014-09-09 — [Ants Are&nbsp;Amazing](https://ma.tt/2014/09/ants-areamazing/) — `2014-09-09-2014-09-ants-areamazing.md` — 169w
+- 2014-08-19 — [Specialization is for Insects, and Developers?](https://ma.tt/2014/08/specialization-is-for-insects-and-developers/) — `2014-08-19-2014-08-specialization-is-for-insects-and-developers.md` — 276w
+- 2014-08-15 — [SmartThings & Samsung](https://ma.tt/2014/08/smartthings-samsung/) — `2014-08-15-2014-08-smartthings-samsung.md` — 153w
+- 2014-08-14 — [You Won’t Believe Who Wrote This&nbsp;Product&nbsp;Checklist](https://ma.tt/2014/08/you-wont-believe-who-wrote-this-productchecklist/) — `2014-08-14-2014-08-you-wont-believe-who-wrote-this-productchecklist.md` — 122w
+- 2014-08-09 — [Exploring Ubiquiti](https://ma.tt/2014/08/exploring-ubiquiti/) — `2014-08-09-2014-08-exploring-ubiquiti.md` — 712w
+- 2014-07-14 — [Ibrahim Maalouf Wowed Me](https://ma.tt/2014/07/ibrahim-maalouf/) — `2014-07-14-2014-07-ibrahim-maalouf.md` — 278w
+- 2014-07-08 — [WSJ Turns 125 & Future of Management](https://ma.tt/2014/07/wsj-turns-125-future-of-management/) — `2014-07-08-2014-07-wsj-turns-125-future-of-management.md` — 163w
+- 2014-06-25 — [Scoop and Scale](https://ma.tt/2014/06/scoop-and-scale/) — `2014-06-25-2014-06-scoop-and-scale.md` — 156w
+- 2014-05-26 — [Seoul, Jakarta, Singapore, Tokyo, Osaka, Manila, Melbourne, Sydney, Wellington, and Auckland](https://ma.tt/2014/05/summer-tour/) — `2014-05-26-2014-05-summer-tour.md` — 250w
+- 2014-05-05 — [New Funding for Automattic](https://ma.tt/2014/05/new-funding-for-automattic/) — `2014-05-05-2014-05-new-funding-for-automattic.md` — 508w
+- 2014-04-08 — [Why the Web Still Matters for Writing](https://ma.tt/2014/04/the-web-matters/) — `2014-04-08-2014-04-the-web-matters.md` — 888w
+- 2014-03-03 — [No Smartphone for Lent](https://ma.tt/2014/03/no-smartphone-for-lent/) — `2014-03-03-2014-03-no-smartphone-for-lent.md` — 323w
+- 2014-02-24 — [WhatsApp Takeaway](https://ma.tt/2014/02/whatsapp-takeaway/) — `2014-02-24-2014-02-whatsapp-takeaway.md` — 392w

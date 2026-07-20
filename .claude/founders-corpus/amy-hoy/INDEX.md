@@ -1,6 +1,6 @@
 # Amy Hoy corpus index
 
-Source: https://stackingthebricks.com — fetched 2026-07-19
+Source: https://stackingthebricks.com — fetched 2026-07-20
 24 posts, 39999 words. Format: date — [title](canonical url) — `file` — words.
 
 - undated — [Why we removed The Tiny MBA from Amazon's Kindle store.](https://stackingthebricks.com/tiny-mba-amazon/) — `undated-tiny-mba-amazon.md` — 3177w

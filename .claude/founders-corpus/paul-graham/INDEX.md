@@ -1,6 +1,6 @@
 # Paul Graham corpus index
 
-Source: https://paulgraham.com/articles.html — fetched 2026-07-19
+Source: https://paulgraham.com/articles.html — fetched 2026-07-20
 229 posts, 546028 words. Format: date — [title](canonical url) — `file` — words.
 
 - undated — [Why Arc Isn't Especially Object-Oriented](https://paulgraham.com/noop.html) — `undated-noop-html.md` — 197w

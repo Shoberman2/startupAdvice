@@ -1,7 +1,7 @@
 # Hiten Shah corpus index
 
 Source: https://hitenism.com — fetched 2026-07-20
-65 posts, 49643 words. Format: date — [title](canonical url) — `file` — words.
+76 posts, 54650 words. Format: date — [title](canonical url) — `file` — words.
 
 - 2017-04-25 — [Growth hacking was invented with a mint julep and two beers](https://hitenism.com/growth-hacking/) — `2017-04-25-growth-hacking.md` — 2006w
 - 2017-01-20 — [How to Focus When You’re Overwhelmed By Marketing Options](https://hitenism.com/focus-youre-overwhelmed-marketing-options/) — `2017-01-20-focus-youre-overwhelmed-marketing-options.md` — 1652w
@@ -68,3 +68,14 @@ Source: https://hitenism.com — fetched 2026-07-20
 - 2013-05-03 — [MicroConf](https://hitenism.com/microconf/) — `2013-05-03-microconf.md` — 243w
 - 2013-04-21 — [What’s the greater purpose behind your brand?](https://hitenism.com/purpose-behind-your-brand/) — `2013-04-21-purpose-behind-your-brand.md` — 220w
 - 2013-04-15 — [Joel Spolsky on Pricing Software](https://hitenism.com/joel-spolsky-on-pricing-software/) — `2013-04-15-joel-spolsky-on-pricing-software.md` — 215w
+- 2013-01-18 — [Analytics for consumer Internet companies](https://hitenism.com/analytics-for-consumer-internet-companies/) — `2013-01-18-analytics-for-consumer-internet-companies.md` — 597w
+- 2012-12-10 — [How humans kill companies](https://hitenism.com/how-humans-kill-companies/) — `2012-12-10-how-humans-kill-companies.md` — 454w
+- 2012-01-16 — [You’re Mentoring the Wrong Way](https://hitenism.com/mentoring/) — `2012-01-16-mentoring.md` — 504w
+- 2012-01-09 — [Why Most “New Year” Posts Are Garbage](https://hitenism.com/new-year-posts-are-garbage/) — `2012-01-09-new-year-posts-are-garbage.md` — 455w
+- 2012-01-04 — [Why we need to play more](https://hitenism.com/why-we-need-to-play-more/) — `2012-01-04-why-we-need-to-play-more.md` — 625w
+- 2011-12-19 — [Three Things a Startup is Not](https://hitenism.com/three-things-a-startup-is-not/) — `2011-12-19-three-things-a-startup-is-not.md` — 399w
+- 2011-11-12 — [Smile or Die](https://hitenism.com/smile-or-die/) — `2011-11-12-smile-or-die.md` — 370w
+- 2011-11-05 — [What’s the point of following rules?](https://hitenism.com/whats-the-point-of-following-rules/) — `2011-11-05-whats-the-point-of-following-rules.md` — 231w
+- 2011-11-02 — [Get over your fears](https://hitenism.com/get-over-your-fears/) — `2011-11-02-get-over-your-fears.md` — 187w
+- 2011-10-30 — [The Art of Right Now](https://hitenism.com/the-art-of-right-now/) — `2011-10-30-the-art-of-right-now.md` — 543w
+- 2011-10-09 — [Who gets the last piece of bread?](https://hitenism.com/last-piece-of-bread/) — `2011-10-09-last-piece-of-bread.md` — 642w

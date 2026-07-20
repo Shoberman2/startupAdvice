@@ -1,52 +1,540 @@
 # Seth Godin corpus index
 
-Source: https://seths.blog — fetched 2026-07-19
-47 posts, 13937 words. Format: date — [title](canonical url) — `file` — words.
+Source: https://seths.blog — fetched 2026-07-20
+535 posts, 140434 words. Format: date — [title](canonical url) — `file` — words.
 
-- 2005-06-10 — [Journalists don’t always matter](https://seths.blog/2005/06/journalists_don/) — `2005-06-10-2005-06-journalists_don.md` — 163w
-- 2005-06-09 — [On being alert](https://seths.blog/2005/06/on_being_alert/) — `2005-06-09-2005-06-on_being_alert.md` — 230w
-- 2005-06-07 — [Treating people like they’re smart](https://seths.blog/2005/06/treating_people/) — `2005-06-07-2005-06-treating_people.md` — 527w
-- 2005-06-06 — [more on small](https://seths.blog/2005/06/more_on_small/) — `2005-06-06-2005-06-more_on_small.md` — 506w
-- 2005-06-05 — [Small is the new big](https://seths.blog/2005/06/small_is_the_ne/) — `2005-06-05-2005-06-small_is_the_ne.md` — 670w
-- 2005-06-04 — [Live by the cow…](https://seths.blog/2005/06/live_by_the_cow/) — `2005-06-04-2005-06-live_by_the_cow.md` — 136w
-- 2005-06-03 — [We don’t have to care, part I](https://seths.blog/2005/06/we_dont_have_to_1/) — `2005-06-03-2005-06-we_dont_have_to_1.md` — 402w
-- 2005-06-03 — [We don’t have to care, part II](https://seths.blog/2005/06/we_dont_have_to/) — `2005-06-03-2005-06-we_dont_have_to.md` — 218w
-- 2005-05-26 — [Is J. D. Salinger a Liar? Are You?](https://seths.blog/2005/05/is_j_d_salinger_1/) — `2005-05-26-2005-05-is_j_d_salinger_1.md` — 395w
-- 2005-05-26 — [ChangeThis, reborn](https://seths.blog/2005/05/changethis_rebo/) — `2005-05-26-2005-05-changethis_rebo.md` — 135w
-- 2005-05-25 — [Two more thoughts about podcasting](https://seths.blog/2005/05/two_more_though/) — `2005-05-25-2005-05-two_more_though.md` — 294w
-- 2005-05-25 — [Thinking about podcasting](https://seths.blog/2005/05/thinking_about_-5/) — `2005-05-25-2005-05-thinking_about_-5.md` — 284w
-- 2005-05-24 — [Web pages are so ugly!](https://seths.blog/2005/05/web_pages_are_s/) — `2005-05-24-2005-05-web_pages_are_s.md` — 158w
-- 2005-05-23 — [The Placebo Affect*](https://seths.blog/2005/05/the_placebo_aff/) — `2005-05-23-2005-05-the_placebo_aff.md` — 607w
-- 2005-05-23 — [$17 billion a year](https://seths.blog/2005/05/17_billion_a_ye/) — `2005-05-23-2005-05-17_billion_a_ye.md` — 147w
-- 2005-05-22 — [The Knut Masco story](https://seths.blog/2005/05/the_knut_masco_/) — `2005-05-22-2005-05-the_knut_masco_.md` — 370w
-- 2005-05-22 — [A letter from Kentucky](https://seths.blog/2005/05/a_letter_from_k/) — `2005-05-22-2005-05-a_letter_from_k.md` — 930w
-- 2005-05-20 — [Whatever happened to ChangeThis?](https://seths.blog/2005/05/whatever_happen/) — `2005-05-20-2005-05-whatever_happen.md` — 288w
-- 2005-05-20 — [Fundable… a next big thing?](https://seths.blog/2005/05/fundable_a_next/) — `2005-05-20-2005-05-fundable_a_next.md` — 187w
-- 2005-05-19 — [What will be on your tombstone](https://seths.blog/2005/05/what_will_be_on/) — `2005-05-19-2005-05-what_will_be_on.md` — 132w
-- 2005-05-19 — [Stagnation is easy, change is hard](https://seths.blog/2005/05/stagnation_is_e/) — `2005-05-19-2005-05-stagnation_is_e.md` — 538w
-- 2005-05-19 — [More downgrading](https://seths.blog/2005/05/more_downgradin/) — `2005-05-19-2005-05-more_downgradin.md` — 185w
-- 2005-05-17 — [Are you checking on yourself?](https://seths.blog/2005/05/are_you_checkin/) — `2005-05-17-2005-05-are_you_checkin.md` — 185w
-- 2005-05-16 — [Seth’s New eBook is ready](https://seths.blog/2005/05/seths_new_ebook/) — `2005-05-16-2005-05-seths_new_ebook.md` — 204w
-- 2005-05-16 — [Hostage to the fans (and the bureaucracy)](https://seths.blog/2005/05/hostage_to_the_/) — `2005-05-16-2005-05-hostage_to_the_.md` — 405w
-- 2005-05-15 — [The one and only](https://seths.blog/2005/05/the_one_and_onl/) — `2005-05-15-2005-05-the_one_and_onl.md` — 149w
-- 2005-05-15 — [How cool is this](https://seths.blog/2005/05/how_cool_is_thi/) — `2005-05-15-2005-05-how_cool_is_thi.md` — 180w
-- 2005-05-14 — [Same people, different moment](https://seths.blog/2005/05/same_people_dif/) — `2005-05-14-2005-05-same_people_dif.md` — 164w
-- 2005-05-12 — [What I learned at summer camp](https://seths.blog/2005/05/what_i_learned_-2/) — `2005-05-12-2005-05-what_i_learned_-2.md` — 367w
-- 2005-05-12 — [We and They](https://seths.blog/2005/05/we_and_they/) — `2005-05-12-2005-05-we_and_they.md` — 274w
-- 2005-05-12 — [The end of the cosmic jukebox](https://seths.blog/2005/05/the_end_of_the_-2/) — `2005-05-12-2005-05-the_end_of_the_-2.md` — 230w
-- 2005-05-12 — [If you have a web site](https://seths.blog/2005/05/if_you_have_a_w/) — `2005-05-12-2005-05-if_you_have_a_w.md` — 162w
-- 2005-05-12 — [Do you judge a book by its cover?](https://seths.blog/2005/05/do_you_judge_a_/) — `2005-05-12-2005-05-do_you_judge_a_.md` — 179w
-- 2005-05-11 — [public service announcement](https://seths.blog/2005/05/public_service_/) — `2005-05-11-2005-05-public_service_.md` — 219w
-- 2005-05-10 — [On Critics, Criticism and Remarkability](https://seths.blog/2005/05/on_critics_crit/) — `2005-05-10-2005-05-on_critics_crit.md` — 630w
-- 2005-05-09 — [What Every Good Marketer Knows](https://seths.blog/2005/05/what_every_good/) — `2005-05-09-2005-05-what_every_good.md` — 589w
-- 2005-05-09 — [The Reviews are trickling in…](https://seths.blog/2005/05/the_reviews_are_1/) — `2005-05-09-2005-05-the_reviews_are_1.md` — 159w
-- 2005-05-07 — [The New Digital Divide](https://seths.blog/2005/05/the_new_digital/) — `2005-05-07-2005-05-the_new_digital.md` — 569w
-- 2005-05-05 — [Seth’s favorite blog posts, part II](https://seths.blog/2005/05/seths_favorite_/) — `2005-05-05-2005-05-seths_favorite_.md` — 121w
-- 2005-05-05 — [It’s national tell-a-friend-about](https://seths.blog/2005/05/its_national_te/) — `2005-05-05-2005-05-its_national_te.md` — 134w
-- 2005-05-04 — [TED in the UK](https://seths.blog/2005/05/ted_in_the_uk/) — `2005-05-04-2005-05-ted_in_the_uk.md` — 371w
-- 2005-05-03 — [I bet you think this post is about you](https://seths.blog/2005/05/i_bet_you_think/) — `2005-05-03-2005-05-i_bet_you_think.md` — 183w
-- 2005-05-01 — [So a rabbi, a priest, a talking duck and a blonde walk into a bar…](https://seths.blog/2005/04/so_a_rabbi_a_pr/) — `2005-05-01-2005-04-so_a_rabbi_a_pr.md` — 290w
-- 2005-05-01 — [Hello?](https://seths.blog/2005/05/hello/) — `2005-05-01-2005-05-hello.md` — 190w
-- 2005-04-22 — [Nouns and verbs](https://seths.blog/2005/04/nouns_and_verbs/) — `2005-04-22-2005-04-nouns_and_verbs.md` — 158w
-- 2005-04-20 — [Things that change](https://seths.blog/2005/04/things_that_cha/) — `2005-04-20-2005-04-things_that_cha.md` — 194w
-- 2005-04-16 — [Playing by (and losing by) the rules](https://seths.blog/2005/04/playing_by_and_/) — `2005-04-16-2005-04-playing_by_and_.md` — 129w
+- 2026-07-19 — [Pointless banality and the uncanny valley](https://seths.blog/2026/07/pointless-banality-and-the-uncanny-valley/) — `2026-07-19-2026-07-pointless-banality-and-the-uncanny-valley.md` — 241w
+- 2026-07-17 — [Resources and focus](https://seths.blog/2026/07/resources-and-focus/) — `2026-07-17-2026-07-resources-and-focus.md` — 160w
+- 2026-07-16 — [Two kinds of word salad](https://seths.blog/2026/07/two-kinds-of-word-salad/) — `2026-07-16-2026-07-two-kinds-of-word-salad.md` — 137w
+- 2026-07-15 — [Disposable software](https://seths.blog/2026/07/disposable-software/) — `2026-07-15-2026-07-disposable-software.md` — 151w
+- 2026-07-14 — [“Is it okay if I share my screen?”](https://seths.blog/2026/07/is-it-okay-if-i-share-my-screen/) — `2026-07-14-2026-07-is-it-okay-if-i-share-my-screen.md` — 311w
+- 2026-07-12 — [Controversial](https://seths.blog/2026/07/controversial/) — `2026-07-12-2026-07-controversial.md` — 174w
+- 2026-07-11 — [Mel’s back](https://seths.blog/2026/07/mels-back/) — `2026-07-11-2026-07-mels-back.md` — 146w
+- 2026-07-09 — [Generous collusion](https://seths.blog/2026/07/generous-collusion/) — `2026-07-09-2026-07-generous-collusion.md` — 329w
+- 2026-07-07 — [The Builder’s Creed](https://seths.blog/2026/07/the-builders-creed/) — `2026-07-07-2026-07-the-builders-creed.md` — 828w
+- 2026-07-06 — [Facts and feelings](https://seths.blog/2026/07/facts-and-feelings/) — `2026-07-06-2026-07-facts-and-feelings.md` — 145w
+- 2026-07-03 — [Operator error](https://seths.blog/2026/07/operator-error/) — `2026-07-03-2026-07-operator-error.md` — 257w
+- 2026-07-01 — [Can you believe it?](https://seths.blog/2026/07/can-you-believe-it/) — `2026-07-01-2026-07-can-you-believe-it.md` — 315w
+- 2026-06-30 — [Fancy food update](https://seths.blog/2026/06/fancy-food-update/) — `2026-06-30-2026-06-fancy-food-update.md` — 284w
+- 2026-06-29 — [Backlist confusion](https://seths.blog/2026/06/backlist-confusion/) — `2026-06-29-2026-06-backlist-confusion.md` — 280w
+- 2026-06-25 — [Standby –> Intervention](https://seths.blog/2026/06/standby-intervention/) — `2026-06-25-2026-06-standby-intervention.md` — 354w
+- 2026-06-24 — [Empathy and good advice](https://seths.blog/2026/06/empathy-and-good-advice/) — `2026-06-24-2026-06-empathy-and-good-advice.md` — 180w
+- 2026-06-23 — [Limited swag (the Knot multipack)](https://seths.blog/2026/06/limited-swag-the-knot-multipack/) — `2026-06-23-2026-06-limited-swag-the-knot-multipack.md` — 338w
+- 2026-06-22 — [Blogs, traffic, and Google](https://seths.blog/2026/06/blogs-traffic-and-google/) — `2026-06-22-2026-06-blogs-traffic-and-google.md` — 413w
+- 2026-06-21 — [“In its larval state”](https://seths.blog/2026/06/in-its-larval-state/) — `2026-06-21-2026-06-in-its-larval-state.md` — 150w
+- 2026-06-18 — [Promotion, activation, conversation](https://seths.blog/2026/06/promotion-activation-conversation/) — `2026-06-18-2026-06-promotion-activation-conversation.md` — 1320w
+- 2026-06-17 — [Status symbols](https://seths.blog/2026/06/status-symbols/) — `2026-06-17-2026-06-status-symbols.md` — 223w
+- 2026-06-16 — [The relentless math of the long tail](https://seths.blog/2026/06/the-relentless-math-of-the-long-tail/) — `2026-06-16-2026-06-the-relentless-math-of-the-long-tail.md` — 157w
+- 2026-06-15 — [Degrees of freedom](https://seths.blog/2026/06/degrees-of-freedom-3/) — `2026-06-15-2026-06-degrees-of-freedom-3.md` — 301w
+- 2026-06-14 — [The nature of launch day](https://seths.blog/2026/06/the-nature-of-launch-day/) — `2026-06-14-2026-06-the-nature-of-launch-day.md` — 192w
+- 2026-06-13 — [The troll button](https://seths.blog/2026/06/the-troll-button/) — `2026-06-13-2026-06-the-troll-button.md` — 297w
+- 2026-06-12 — [Nü Tennis](https://seths.blog/2026/06/nu-tennis/) — `2026-06-12-2026-06-nu-tennis.md` — 155w
+- 2026-06-11 — [Values capture](https://seths.blog/2026/06/values-capture-2/) — `2026-06-11-2026-06-values-capture-2.md` — 288w
+- 2026-06-10 — [Video games, movies and books](https://seths.blog/2026/06/video-games-movies-and-books/) — `2026-06-10-2026-06-video-games-movies-and-books.md` — 265w
+- 2026-06-09 — [None of it is important (and all of it is)](https://seths.blog/2026/06/none-of-it-is-important-or-all-of-it-is/) — `2026-06-09-2026-06-none-of-it-is-important-or-all-of-it-is.md` — 134w
+- 2026-06-05 — [How to teach marketing](https://seths.blog/2026/06/how-to-teach-marketing/) — `2026-06-05-2026-06-how-to-teach-marketing.md` — 203w
+- 2026-06-04 — [Transparency and trust](https://seths.blog/2026/06/transparency-and-trust/) — `2026-06-04-2026-06-transparency-and-trust.md` — 175w
+- 2026-06-01 — [Rethinking famous college admissions](https://seths.blog/2026/06/rethinking-famous-college-admissions/) — `2026-06-01-2026-06-rethinking-famous-college-admissions.md` — 799w
+- 2026-05-31 — [Suboptimal events](https://seths.blog/2026/05/suboptimal-events/) — `2026-05-31-2026-05-suboptimal-events.md` — 161w
+- 2026-05-28 — [Unpaid labor](https://seths.blog/2026/05/unpaid-labor/) — `2026-05-28-2026-05-unpaid-labor.md` — 122w
+- 2026-05-26 — [Predictions, prescriptions and systems change](https://seths.blog/2026/05/predictions-prescriptions-and-systems-change/) — `2026-05-26-2026-05-predictions-prescriptions-and-systems-change.md` — 219w
+- 2026-05-24 — [The real AI](https://seths.blog/2026/05/in-search-of-ai/) — `2026-05-24-2026-05-in-search-of-ai.md` — 132w
+- 2026-05-21 — [Value creation, bullshit jobs and the future of work](https://seths.blog/2026/05/value-creation-bullshit-jobs-and-the-future-of-work/) — `2026-05-21-2026-05-value-creation-bullshit-jobs-and-the-future-of-work.md` — 707w
+- 2026-05-20 — [The act of Umfunktionierung](https://seths.blog/2026/05/the-art-of-umfunktionierung/) — `2026-05-20-2026-05-the-art-of-umfunktionierung.md` — 198w
+- 2026-05-19 — [The night clerk](https://seths.blog/2026/05/the-night-clerk/) — `2026-05-19-2026-05-the-night-clerk.md` — 232w
+- 2026-05-18 — [All right and none the same](https://seths.blog/2026/05/all-right-and-none-the-same/) — `2026-05-18-2026-05-all-right-and-none-the-same.md` — 135w
+- 2026-05-13 — [The airplane oath](https://seths.blog/2026/05/the-airplane-oath/) — `2026-05-13-2026-05-the-airplane-oath.md` — 174w
+- 2026-05-11 — [The shared tragedy of Red Queen hiring](https://seths.blog/2026/05/the-shared-tragedy-of-red-queen-hiring/) — `2026-05-11-2026-05-the-shared-tragedy-of-red-queen-hiring.md` — 478w
+- 2026-05-08 — [Kinds of fast](https://seths.blog/2026/05/kinds-of-fast/) — `2026-05-08-2026-05-kinds-of-fast.md` — 264w
+- 2026-05-05 — [The best year](https://seths.blog/2026/05/the-best-year/) — `2026-05-05-2026-05-the-best-year.md` — 163w
+- 2026-05-05 — [AI together](https://seths.blog/2026/05/ai-together/) — `2026-05-05-2026-05-ai-together.md` — 2429w
+- 2026-05-02 — [Nostalgia can be fatal](https://seths.blog/2026/05/nostalgia-can-be-fatal/) — `2026-05-02-2026-05-nostalgia-can-be-fatal.md` — 239w
+- 2026-05-01 — [“The most exciting mobile trend is full Qwerty keyboards”](https://seths.blog/2026/05/the-most-exciting-mobile-trend-is-full-qwerty-keyboards/) — `2026-05-01-2026-05-the-most-exciting-mobile-trend-is-full-qwerty-keyboards.md` — 387w
+- 2026-04-28 — [Puddles](https://seths.blog/2026/04/puddles/) — `2026-04-28-2026-04-puddles.md` — 151w
+- 2026-04-27 — [Warm pistachios](https://seths.blog/2026/04/warm-pistachios/) — `2026-04-27-2026-04-warm-pistachios.md` — 137w
+- 2026-04-26 — [Bad money…](https://seths.blog/2026/04/bad-money/) — `2026-04-26-2026-04-bad-money.md` — 220w
+- 2026-04-25 — [Breathwork](https://seths.blog/2026/04/breathwork/) — `2026-04-25-2026-04-breathwork.md` — 350w
+- 2026-04-24 — [Courage vs. excuses](https://seths.blog/2026/04/courage-vs-excuses/) — `2026-04-24-2026-04-courage-vs-excuses.md` — 285w
+- 2026-04-23 — [Consumers outnumber producers](https://seths.blog/2026/04/consumers-outnumber-producers/) — `2026-04-23-2026-04-consumers-outnumber-producers.md` — 349w
+- 2026-04-19 — [The Petrillo complications](https://seths.blog/2026/04/the-petrillo-complications/) — `2026-04-19-2026-04-the-petrillo-complications.md` — 645w
+- 2026-04-18 — [The book of concern](https://seths.blog/2026/04/the-book-of-concern/) — `2026-04-18-2026-04-the-book-of-concern.md` — 203w
+- 2026-04-17 — [The second circle](https://seths.blog/2026/04/the-second-circle/) — `2026-04-17-2026-04-the-second-circle.md` — 164w
+- 2026-04-16 — [The definitive study of seed oil and health](https://seths.blog/2026/04/the-definitive-study-of-seed-oil-and-health/) — `2026-04-16-2026-04-the-definitive-study-of-seed-oil-and-health.md` — 160w
+- 2026-04-15 — [What do you own?](https://seths.blog/2026/04/what-do-you-own-3/) — `2026-04-15-2026-04-what-do-you-own-3.md` — 123w
+- 2026-04-14 — [On pricing](https://seths.blog/2026/04/on-pricing/) — `2026-04-14-2026-04-on-pricing.md` — 305w
+- 2026-04-13 — [Avoiding the purity loop](https://seths.blog/2026/04/avoiding-the-purity-loop/) — `2026-04-13-2026-04-avoiding-the-purity-loop.md` — 365w
+- 2026-04-09 — [Attention and effort](https://seths.blog/2026/04/attention-and-effort/) — `2026-04-09-2026-04-attention-and-effort.md` — 356w
+- 2026-04-08 — [The right answer](https://seths.blog/2026/04/the-right-answer-2/) — `2026-04-08-2026-04-the-right-answer-2.md` — 312w
+- 2026-04-08 — [The ecard virus](https://seths.blog/2026/04/the-ecard-virus/) — `2026-04-08-2026-04-the-ecard-virus.md` — 194w
+- 2026-04-04 — [Where do bad choices come from?](https://seths.blog/2026/04/where-do-bad-choices-come-from/) — `2026-04-04-2026-04-where-do-bad-choices-come-from.md` — 146w
+- 2026-04-02 — [Who sets your agenda?](https://seths.blog/2026/04/who-sets-your-agenda/) — `2026-04-02-2026-04-who-sets-your-agenda.md` — 188w
+- 2026-04-01 — [A persistent sense of being correctly located in time](https://seths.blog/2026/04/a-persistent-sense-of-being-correctly-located-in-time/) — `2026-04-01-2026-04-a-persistent-sense-of-being-correctly-located-in-time.md` — 775w
+- 2026-03-29 — [Long odds and unseen differences](https://seths.blog/2026/03/long-odds/) — `2026-03-29-2026-03-long-odds.md` — 216w
+- 2026-03-28 — [Systems and the default to yes](https://seths.blog/2026/03/systems-and-the-default-to-yes/) — `2026-03-28-2026-03-systems-and-the-default-to-yes.md` — 383w
+- 2026-03-26 — [The end of the content shortage](https://seths.blog/2026/03/the-end-of-the-content-shortage/) — `2026-03-26-2026-03-the-end-of-the-content-shortage.md` — 157w
+- 2026-03-25 — [“Too complicated for people to understand”](https://seths.blog/2026/03/too-complicated-for-people-to-understand/) — `2026-03-25-2026-03-too-complicated-for-people-to-understand.md` — 227w
+- 2026-03-24 — [Numbers and the human/computer interface](https://seths.blog/2026/03/numbers-and-the-human-computer-interface/) — `2026-03-24-2026-03-numbers-and-the-human-computer-interface.md` — 248w
+- 2026-03-23 — [Follow-through](https://seths.blog/2026/03/follow-through-2/) — `2026-03-23-2026-03-follow-through-2.md` — 155w
+- 2026-03-21 — [The hats](https://seths.blog/2026/03/the-hats/) — `2026-03-21-2026-03-the-hats.md` — 129w
+- 2026-03-19 — [Freedom of focus](https://seths.blog/2026/03/freedom-of-focus/) — `2026-03-19-2026-03-freedom-of-focus.md` — 332w
+- 2026-03-16 — [A kitchen metaphor](https://seths.blog/2026/03/a-kitchen-metaphor/) — `2026-03-16-2026-03-a-kitchen-metaphor.md` — 158w
+- 2026-03-13 — [“It’s faster to just do it myself”](https://seths.blog/2026/03/its-faster-to-just-do-it-myself/) — `2026-03-13-2026-03-its-faster-to-just-do-it-myself.md` — 128w
+- 2026-03-12 — [Over the top](https://seths.blog/2026/03/over-the-top-2/) — `2026-03-12-2026-03-over-the-top-2.md` — 240w
+- 2026-03-12 — [Henry Ford knew how to drive](https://seths.blog/2026/03/henry-ford-knew-how-to-drive/) — `2026-03-12-2026-03-henry-ford-knew-how-to-drive.md` — 223w
+- 2026-03-11 — [The Knot: My upcoming new book (and a course that’s already here)](https://seths.blog/2026/03/the-knot-my-upcoming-new-book-and-a-course-thats-already-here/) — `2026-03-11-2026-03-the-knot-my-upcoming-new-book-and-a-course-thats-already-here.md` — 338w
+- 2026-03-10 — [Small changes to big systems](https://seths.blog/2026/03/small-changes-to-big-systems/) — `2026-03-10-2026-03-small-changes-to-big-systems.md` — 639w
+- 2026-03-09 — [Considering infinity](https://seths.blog/2026/03/considering-infinity/) — `2026-03-09-2026-03-considering-infinity.md` — 222w
+- 2026-03-08 — [Confused about donations](https://seths.blog/2026/03/confused-about-donations/) — `2026-03-08-2026-03-confused-about-donations.md` — 182w
+- 2026-03-06 — [That’s what studies are for](https://seths.blog/2026/03/thats-what-studies-are-for/) — `2026-03-06-2026-03-thats-what-studies-are-for.md` — 214w
+- 2026-03-04 — [The Uncanny Valley](https://seths.blog/2026/03/the-uncanny-valley/) — `2026-03-04-2026-03-the-uncanny-valley.md` — 472w
+- 2026-03-01 — [AI slop](https://seths.blog/2026/03/ai-slop/) — `2026-03-01-2026-03-ai-slop.md` — 139w
+- 2026-03-01 — [A nearly perfect score](https://seths.blog/2026/03/a-nearly-perfect-score/) — `2026-03-01-2026-03-a-nearly-perfect-score.md` — 159w
+- 2026-02-24 — [Time is the wildcard](https://seths.blog/2026/02/time-is-the-wildcard/) — `2026-02-24-2026-02-time-is-the-wildcard.md` — 144w
+- 2026-02-22 — [Should you keep playing your hit song?](https://seths.blog/2026/02/should-you-keep-playing-your-hit-song/) — `2026-02-22-2026-02-should-you-keep-playing-your-hit-song.md` — 153w
+- 2026-02-21 — [Brown rice and status](https://seths.blog/2026/02/brown-rice-and-status/) — `2026-02-21-2026-02-brown-rice-and-status.md` — 338w
+- 2026-02-19 — [Freelancer empathy](https://seths.blog/2026/02/freelancer-empathy/) — `2026-02-19-2026-02-freelancer-empathy.md` — 385w
+- 2026-02-18 — [How to write a coaching/learning prompt](https://seths.blog/2026/02/how-to-write-a-coaching-learning-prompt/) — `2026-02-18-2026-02-how-to-write-a-coaching-learning-prompt.md` — 715w
+- 2026-02-17 — [Misguided optimization](https://seths.blog/2026/02/misguided-optimization/) — `2026-02-17-2026-02-misguided-optimization.md` — 158w
+- 2026-02-13 — [The next generation of AI businesses](https://seths.blog/2026/02/the-next-generation-of-ai-businesses/) — `2026-02-13-2026-02-the-next-generation-of-ai-businesses.md` — 229w
+- 2026-02-10 — [A starting point for the blog](https://seths.blog/2026/02/a-starting-point-for-the-blog/) — `2026-02-10-2026-02-a-starting-point-for-the-blog.md` — 261w
+- 2026-02-07 — [Vessel size](https://seths.blog/2026/02/vessel-size/) — `2026-02-07-2026-02-vessel-size.md` — 125w
+- 2026-02-06 — [Voluntary stories](https://seths.blog/2026/02/voluntary-stories/) — `2026-02-06-2026-02-voluntary-stories.md` — 167w
+- 2026-02-05 — [Making it whole](https://seths.blog/2026/02/making-it-whole/) — `2026-02-05-2026-02-making-it-whole.md` — 240w
+- 2026-02-04 — [Sorting](https://seths.blog/2026/02/sorting/) — `2026-02-04-2026-02-sorting.md` — 161w
+- 2026-02-03 — [“Everybody wants to win”](https://seths.blog/2026/02/everybody-wants-to-win/) — `2026-02-03-2026-02-everybody-wants-to-win.md` — 223w
+- 2026-01-31 — [The infinite tail](https://seths.blog/2026/01/the-infinite-tail/) — `2026-01-31-2026-01-the-infinite-tail.md` — 290w
+- 2026-01-30 — [AI ads are neither](https://seths.blog/2026/01/ai-ads-are-neither/) — `2026-01-30-2026-01-ai-ads-are-neither.md` — 532w
+- 2026-01-28 — [On the hiring line](https://seths.blog/2026/01/on-the-hiring-line/) — `2026-01-28-2026-01-on-the-hiring-line.md` — 139w
+- 2026-01-26 — [Terrible](https://seths.blog/2026/01/terrible/) — `2026-01-26-2026-01-terrible.md` — 125w
+- 2026-01-25 — [In defense of popups](https://seths.blog/2026/01/in-defense-of-popups/) — `2026-01-25-2026-01-in-defense-of-popups.md` — 379w
+- 2026-01-23 — [Bent incentives](https://seths.blog/2026/01/bent-incentives/) — `2026-01-23-2026-01-bent-incentives.md` — 231w
+- 2026-01-22 — [The big splash](https://seths.blog/2026/01/the-big-splash/) — `2026-01-22-2026-01-the-big-splash.md` — 138w
+- 2026-01-21 — [Identity violation and pricing](https://seths.blog/2026/01/identity-violation-and-pricing/) — `2026-01-21-2026-01-identity-violation-and-pricing.md` — 393w
+- 2026-01-20 — [The empathy of instructions](https://seths.blog/2026/01/the-empathy-of-instructions/) — `2026-01-20-2026-01-the-empathy-of-instructions.md` — 193w
+- 2026-01-19 — [On the wall](https://seths.blog/2026/01/on-the-wall/) — `2026-01-19-2026-01-on-the-wall.md` — 233w
+- 2026-01-18 — [Fake news and trust](https://seths.blog/2026/01/fake-news-and-trust/) — `2026-01-18-2026-01-fake-news-and-trust.md` — 134w
+- 2026-01-17 — [The sorting](https://seths.blog/2026/01/the-sorting-feels-obvious/) — `2026-01-17-2026-01-the-sorting-feels-obvious.md` — 175w
+- 2026-01-16 — [The squeeze](https://seths.blog/2026/01/the-squeeze/) — `2026-01-16-2026-01-the-squeeze.md` — 392w
+- 2026-01-15 — [Mad magazine autostereogram, cutecore](https://seths.blog/2026/01/mad-magazine-autostereogram-cutecore/) — `2026-01-15-2026-01-mad-magazine-autostereogram-cutecore.md` — 192w
+- 2026-01-12 — [Not trying very hard](https://seths.blog/2026/01/not-trying-very-hard/) — `2026-01-12-2026-01-not-trying-very-hard.md` — 206w
+- 2026-01-09 — [Listen to yourself](https://seths.blog/2026/01/listen-to-yourself/) — `2026-01-09-2026-01-listen-to-yourself.md` — 148w
+- 2026-01-09 — [Assume bugs](https://seths.blog/2026/01/assume-bugs/) — `2026-01-09-2026-01-assume-bugs.md` — 145w
+- 2026-01-07 — [To be sure](https://seths.blog/2026/01/to-be-sure/) — `2026-01-07-2026-01-to-be-sure.md` — 249w
+- 2026-01-06 — [Who eats lunch first](https://seths.blog/2026/01/who-eats-lunch-first/) — `2026-01-06-2026-01-who-eats-lunch-first.md` — 322w
+- 2026-01-05 — [What you don’t know](https://seths.blog/2026/01/what-you-dont-know/) — `2026-01-05-2026-01-what-you-dont-know.md` — 130w
+- 2025-12-31 — [Which kind of ‘enough’?](https://seths.blog/2025/12/which-kind-of-enough/) — `2025-12-31-2025-12-which-kind-of-enough.md` — 260w
+- 2025-12-30 — [Library fatigue](https://seths.blog/2025/12/library-fatigue/) — `2025-12-30-2025-12-library-fatigue.md` — 144w
+- 2025-12-29 — [Warning labels](https://seths.blog/2025/12/warning-labels/) — `2025-12-29-2025-12-warning-labels.md` — 134w
+- 2025-12-27 — [Building blocks of marketing](https://seths.blog/2025/12/building-blocks-of-marketing/) — `2025-12-27-2025-12-building-blocks-of-marketing.md` — 148w
+- 2025-12-25 — [All bananas are the same](https://seths.blog/2025/12/all-bananas-are-the-same/) — `2025-12-25-2025-12-all-bananas-are-the-same.md` — 122w
+- 2025-12-24 — [Popular new ideas](https://seths.blog/2025/12/popular-new-ideas/) — `2025-12-24-2025-12-popular-new-ideas.md` — 128w
+- 2025-12-20 — [“Use your best judgment”](https://seths.blog/2025/12/use-your-best-judgment-2/) — `2025-12-20-2025-12-use-your-best-judgment-2.md` — 201w
+- 2025-12-18 — [Our practice](https://seths.blog/2025/12/our-practice/) — `2025-12-18-2025-12-our-practice.md` — 145w
+- 2025-12-16 — [Filtering ourselves](https://seths.blog/2025/12/filtering-ourselves/) — `2025-12-16-2025-12-filtering-ourselves.md` — 156w
+- 2025-12-14 — [Taken for granted](https://seths.blog/2025/12/it-gets-better-it-gets-worse/) — `2025-12-14-2025-12-it-gets-better-it-gets-worse.md` — 130w
+- 2025-12-13 — [Where did kiwi come from?](https://seths.blog/2025/12/where-did-kiwi-come-from/) — `2025-12-13-2025-12-where-did-kiwi-come-from.md` — 190w
+- 2025-12-12 — [Looking at pareidolia](https://seths.blog/2025/12/looking-at-pareidolia/) — `2025-12-12-2025-12-looking-at-pareidolia.md` — 246w
+- 2025-12-08 — [Understanding carriage](https://seths.blog/2025/12/understanding-carriage/) — `2025-12-08-2025-12-understanding-carriage.md` — 554w
+- 2025-12-07 — [Avoiding the toxic status loop](https://seths.blog/2025/12/avoiding-the-toxic-status-loop/) — `2025-12-07-2025-12-avoiding-the-toxic-status-loop.md` — 288w
+- 2025-12-04 — [Simple and obvious… or nuanced and complicated?](https://seths.blog/2025/12/simple-and-obvious-or-nuanced-and-complicated/) — `2025-12-04-2025-12-simple-and-obvious-or-nuanced-and-complicated.md` — 124w
+- 2025-12-03 — [The red zone, wasted](https://seths.blog/2025/12/the-red-zone-wasted/) — `2025-12-03-2025-12-the-red-zone-wasted.md` — 172w
+- 2025-11-30 — [The shard moment of transition](https://seths.blog/2025/11/the-pointy-part/) — `2025-11-30-2025-11-the-pointy-part.md` — 201w
+- 2025-11-28 — [Build a better alternative to Black Friday](https://seths.blog/2025/11/build-a-better-alternative-to-black-friday/) — `2025-11-28-2025-11-build-a-better-alternative-to-black-friday.md` — 614w
+- 2025-11-26 — [The Prompt Decks are now available](https://seths.blog/2025/11/the-prompt-decks-are-now-available/) — `2025-11-26-2025-11-the-prompt-decks-are-now-available.md` — 194w
+- 2025-11-25 — [The Hotel California (and subscriptions)](https://seths.blog/2025/11/the-hotel-california-and-subscriptions/) — `2025-11-25-2025-11-the-hotel-california-and-subscriptions.md` — 396w
+- 2025-11-24 — [Marketing lessons from the Grateful Dead](https://seths.blog/2025/11/marketing-lessons-from-the-grateful-dead/) — `2025-11-24-2025-11-marketing-lessons-from-the-grateful-dead.md` — 242w
+- 2025-11-20 — [Hard work and goodwill](https://seths.blog/2025/11/hard-work-and-goodwill/) — `2025-11-20-2025-11-hard-work-and-goodwill.md` — 159w
+- 2025-11-19 — [Kinds of stealing](https://seths.blog/2025/11/kinds-of-stealing/) — `2025-11-19-2025-11-kinds-of-stealing.md` — 979w
+- 2025-11-18 — [Kinds of value](https://seths.blog/2025/11/kinds-of-value/) — `2025-11-18-2025-11-kinds-of-value.md` — 210w
+- 2025-11-17 — [Caveman economics](https://seths.blog/2025/11/caveman-economics/) — `2025-11-17-2025-11-caveman-economics.md` — 251w
+- 2025-11-14 — [Captaincy](https://seths.blog/2025/11/captaincy/) — `2025-11-14-2025-11-captaincy.md` — 400w
+- 2025-11-13 — [Stuck happens](https://seths.blog/2025/11/stuck-happens/) — `2025-11-13-2025-11-stuck-happens.md` — 157w
+- 2025-11-11 — [A good business vs. a useful idea](https://seths.blog/2025/11/a-good-business-vs-a-useful-idea/) — `2025-11-11-2025-11-a-good-business-vs-a-useful-idea.md` — 151w
+- 2025-11-10 — [The pursuit of wonder](https://seths.blog/2025/11/the-pursuit-of-wonder/) — `2025-11-10-2025-11-the-pursuit-of-wonder.md` — 695w
+- 2025-11-08 — [Perhaps we have what we need](https://seths.blog/2025/11/perhaps-we-have-what-we-need/) — `2025-11-08-2025-11-perhaps-we-have-what-we-need.md` — 213w
+- 2025-11-06 — [Delegate everything](https://seths.blog/2025/11/delegate-everything/) — `2025-11-06-2025-11-delegate-everything.md` — 296w
+- 2025-11-05 — [Landlords and tenants](https://seths.blog/2025/11/landlords-and-tenants/) — `2025-11-05-2025-11-landlords-and-tenants.md` — 150w
+- 2025-11-02 — [Living in ghost cities](https://seths.blog/2025/11/living-in-ghost-cities/) — `2025-11-02-2025-11-living-in-ghost-cities.md` — 671w
+- 2025-10-31 — [Scams at scale](https://seths.blog/2025/10/scams-at-scale/) — `2025-10-31-2025-10-scams-at-scale.md` — 410w
+- 2025-10-30 — [A little ahead (vs. a little behind)](https://seths.blog/2025/10/a-little-ahead-vs-a-little-behind/) — `2025-10-30-2025-10-a-little-ahead-vs-a-little-behind.md` — 164w
+- 2025-10-26 — [Out of the way and a little inconvenient](https://seths.blog/2025/10/out-of-the-way-and-a-little-inconvenient/) — `2025-10-26-2025-10-out-of-the-way-and-a-little-inconvenient.md` — 141w
+- 2025-10-21 — [The writer’s room](https://seths.blog/2025/10/the-writers-room/) — `2025-10-21-2025-10-the-writers-room.md` — 366w
+- 2025-10-19 — [It’s not a silly thing to do](https://seths.blog/2025/10/its-not-a-silly-thing-to-do/) — `2025-10-19-2025-10-its-not-a-silly-thing-to-do.md` — 126w
+- 2025-10-18 — [Attention is a luxury good](https://seths.blog/2025/10/attention-is-a-luxury-good/) — `2025-10-18-2025-10-attention-is-a-luxury-good.md` — 152w
+- 2025-10-17 — [Fermi’s Law](https://seths.blog/2025/10/fermis-law/) — `2025-10-17-2025-10-fermis-law.md` — 125w
+- 2025-10-13 — [Two useful AI tactics](https://seths.blog/2025/10/two-useful-ai-tactics/) — `2025-10-13-2025-10-two-useful-ai-tactics.md` — 153w
+- 2025-10-11 — [Two kinds of luck](https://seths.blog/2025/10/two-kinds-of-luck/) — `2025-10-11-2025-10-two-kinds-of-luck.md` — 127w
+- 2025-10-10 — [Finding your cohort](https://seths.blog/2025/10/finding-your-cohort/) — `2025-10-10-2025-10-finding-your-cohort.md` — 283w
+- 2025-10-08 — [Software worth paying for](https://seths.blog/2025/10/software-worth-paying-for/) — `2025-10-08-2025-10-software-worth-paying-for.md` — 264w
+- 2025-10-06 — [The grid](https://seths.blog/2025/10/the-grid/) — `2025-10-06-2025-10-the-grid.md` — 429w
+- 2025-10-04 — [The questions before the questions](https://seths.blog/2025/10/the-questions-before-the-questions/) — `2025-10-04-2025-10-the-questions-before-the-questions.md` — 405w
+- 2025-09-25 — [Chasing the snipe](https://seths.blog/2025/09/chasing-the-snipe/) — `2025-09-25-2025-09-chasing-the-snipe.md` — 239w
+- 2025-09-24 — [Value creation](https://seths.blog/2025/09/value-creation/) — `2025-09-24-2025-09-value-creation.md` — 245w
+- 2025-09-23 — [To be heard](https://seths.blog/2025/09/to-be-heard/) — `2025-09-23-2025-09-to-be-heard.md` — 135w
+- 2025-09-19 — [First impressions and second chances](https://seths.blog/2025/09/first-impressions-and-second-chances/) — `2025-09-19-2025-09-first-impressions-and-second-chances.md` — 480w
+- 2025-09-18 — [Friendship is a story](https://seths.blog/2025/09/friendship-is-a-story/) — `2025-09-18-2025-09-friendship-is-a-story.md` — 293w
+- 2025-09-13 — [Kinds of reckless](https://seths.blog/2025/09/kinds-of-reckless/) — `2025-09-13-2025-09-kinds-of-reckless.md` — 195w
+- 2025-09-10 — [Working for advertisers](https://seths.blog/2025/09/working-for-advertisers/) — `2025-09-10-2025-09-working-for-advertisers.md` — 166w
+- 2025-09-06 — [System architect/system victim](https://seths.blog/2025/09/system-architect-system-victim/) — `2025-09-06-2025-09-system-architect-system-victim.md` — 263w
+- 2025-09-05 — [Self awareness and the luck-skill gap](https://seths.blog/2025/09/self-awareness-and-the-luck-skill-gap/) — `2025-09-05-2025-09-self-awareness-and-the-luck-skill-gap.md` — 154w
+- 2025-09-04 — [Rankings and flavors](https://seths.blog/2025/09/rankings-and-flavors/) — `2025-09-04-2025-09-rankings-and-flavors.md` — 206w
+- 2025-09-03 — [The hustle loop](https://seths.blog/2025/09/the-hustle-loop/) — `2025-09-03-2025-09-the-hustle-loop.md` — 171w
+- 2025-09-02 — [Bringing goodwill to the conversation](https://seths.blog/2025/09/bringing-goodwill-to-the-conversation/) — `2025-09-02-2025-09-bringing-goodwill-to-the-conversation.md` — 293w
+- 2025-09-01 — [Walk away or dance](https://seths.blog/2025/09/walk-away-or-dance/) — `2025-09-01-2025-09-walk-away-or-dance.md` — 386w
+- 2025-08-31 — [Possibility vs. certainty](https://seths.blog/2025/08/possibility-vs-certainty/) — `2025-08-31-2025-08-possibility-vs-certainty.md` — 133w
+- 2025-08-30 — [Food bonus post](https://seths.blog/2025/08/food-bonus-post/) — `2025-08-30-2025-08-food-bonus-post.md` — 168w
+- 2025-08-30 — [Brittle systems](https://seths.blog/2025/08/brittle-systems/) — `2025-08-30-2025-08-brittle-systems.md` — 264w
+- 2025-08-29 — [Poison](https://seths.blog/2025/08/poison/) — `2025-08-29-2025-08-poison.md` — 265w
+- 2025-08-28 — [For people who don’t care that much](https://seths.blog/2025/08/for-people-who-dont-care-that-much/) — `2025-08-28-2025-08-for-people-who-dont-care-that-much.md` — 271w
+- 2025-08-25 — [Job churn](https://seths.blog/2025/08/job-churn/) — `2025-08-25-2025-08-job-churn.md` — 346w
+- 2025-08-24 — [“GET OUTTA MY WAY”](https://seths.blog/2025/08/get-outta-my-way/) — `2025-08-24-2025-08-get-outta-my-way.md` — 198w
+- 2025-08-22 — [Centering](https://seths.blog/2025/08/centering/) — `2025-08-22-2025-08-centering.md` — 366w
+- 2025-08-21 — [The violinist problem](https://seths.blog/2025/08/the-violinist-problem/) — `2025-08-21-2025-08-the-violinist-problem.md` — 160w
+- 2025-08-20 — [All that torque](https://seths.blog/2025/08/all-that-torque/) — `2025-08-20-2025-08-all-that-torque.md` — 158w
+- 2025-08-17 — [What sort of success?](https://seths.blog/2025/08/what-sort-of-success/) — `2025-08-17-2025-08-what-sort-of-success.md` — 396w
+- 2025-08-16 — [Disenchanted](https://seths.blog/2025/08/disenchanted/) — `2025-08-16-2025-08-disenchanted.md` — 280w
+- 2025-08-15 — [The new Kickstarter is live](https://seths.blog/2025/08/the-new-kickstarter-is-live/) — `2025-08-15-2025-08-the-new-kickstarter-is-live.md` — 555w
+- 2025-08-14 — [“And now, a word from our sponsor”](https://seths.blog/2025/08/a-now-a-word-from-our-sponsor/) — `2025-08-14-2025-08-a-now-a-word-from-our-sponsor.md` — 453w
+- 2025-08-12 — [After the shortcuts](https://seths.blog/2025/08/after-the-shortcuts/) — `2025-08-12-2025-08-after-the-shortcuts.md` — 171w
+- 2025-08-11 — [What does it want?](https://seths.blog/2025/08/what-does-it-want/) — `2025-08-11-2025-08-what-does-it-want.md` — 194w
+- 2025-08-08 — [Scarcity and abundance](https://seths.blog/2025/08/scarcity-and-abundance/) — `2025-08-08-2025-08-scarcity-and-abundance.md` — 165w
+- 2025-08-05 — [A new tool to help you get unstuck](https://seths.blog/2025/08/the-mentor-deck-first-beta-edition/) — `2025-08-05-2025-08-the-mentor-deck-first-beta-edition.md` — 385w
+- 2025-08-03 — [Movies, books and paintings](https://seths.blog/2025/08/movies-books-and-paintings/) — `2025-08-03-2025-08-movies-books-and-paintings.md` — 166w
+- 2025-07-30 — [Mostly unreasonable](https://seths.blog/2025/07/mostly-unreasonable/) — `2025-07-30-2025-07-mostly-unreasonable.md` — 139w
+- 2025-07-29 — [The menu](https://seths.blog/2025/07/the-menu/) — `2025-07-29-2025-07-the-menu.md` — 210w
+- 2025-07-28 — [The order and the medium of feedback](https://seths.blog/2025/07/the-order-and-the-medium-of-feedback/) — `2025-07-28-2025-07-the-order-and-the-medium-of-feedback.md` — 142w
+- 2025-07-26 — [Settling for better](https://seths.blog/2025/07/settling-for-better/) — `2025-07-26-2025-07-settling-for-better.md` — 121w
+- 2025-07-25 — [Surprising insights](https://seths.blog/2025/07/surprising-insights/) — `2025-07-25-2025-07-surprising-insights.md` — 258w
+- 2025-07-23 — [Seeing the lottery](https://seths.blog/2025/07/seeing-the-lottery/) — `2025-07-23-2025-07-seeing-the-lottery.md` — 333w
+- 2025-07-22 — [Casual cruelty](https://seths.blog/2025/07/casual-cruelty/) — `2025-07-22-2025-07-casual-cruelty.md` — 215w
+- 2025-07-21 — [Resilience is a practice](https://seths.blog/2025/07/resilience-is-a-practice/) — `2025-07-21-2025-07-resilience-is-a-practice.md` — 544w
+- 2025-07-18 — [Tasks and projects](https://seths.blog/2025/07/tasks-and-projects/) — `2025-07-18-2025-07-tasks-and-projects.md` — 363w
+- 2025-07-18 — [On reading the Terms of Service](https://seths.blog/2025/07/on-reading-the-terms-of-service/) — `2025-07-18-2025-07-on-reading-the-terms-of-service.md` — 387w
+- 2025-07-17 — [The talking dog](https://seths.blog/2025/07/the-talking-dog/) — `2025-07-17-2025-07-the-talking-dog.md` — 274w
+- 2025-07-16 — [Overappreciated](https://seths.blog/2025/07/overappreciated/) — `2025-07-16-2025-07-overappreciated.md` — 500w
+- 2025-07-15 — [Sunk costs and the framework for forward motion](https://seths.blog/2025/07/sunk-costs-and-the-framework-for-forward-motion/) — `2025-07-15-2025-07-sunk-costs-and-the-framework-for-forward-motion.md` — 239w
+- 2025-07-14 — [The Superman metaphors](https://seths.blog/2025/07/the-superman-metaphors/) — `2025-07-14-2025-07-the-superman-metaphors.md` — 166w
+- 2025-07-13 — [The four arcs](https://seths.blog/2025/07/the-four-arcs/) — `2025-07-13-2025-07-the-four-arcs.md` — 241w
+- 2025-07-11 — [The poetry machine](https://seths.blog/2025/07/the-poetry-machine/) — `2025-07-11-2025-07-the-poetry-machine.md` — 505w
+- 2025-07-10 — [Notes to myself](https://seths.blog/2025/07/65-thoughts/) — `2025-07-10-2025-07-65-thoughts.md` — 437w
+- 2025-07-06 — [Three choices](https://seths.blog/2025/07/three-choices/) — `2025-07-06-2025-07-three-choices.md` — 191w
+- 2025-07-05 — [Diagnostics](https://seths.blog/2025/07/diagnostics/) — `2025-07-05-2025-07-diagnostics.md` — 122w
+- 2025-07-02 — [Productivity, AI and pushback](https://seths.blog/2025/07/productivity-ai-and-pushback/) — `2025-07-02-2025-07-productivity-ai-and-pushback.md` — 428w
+- 2025-07-01 — [Versions of reality](https://seths.blog/2025/07/versions-of-reality/) — `2025-07-01-2025-07-versions-of-reality.md` — 422w
+- 2025-06-29 — [A billion choices](https://seths.blog/2025/06/a-billion-choices/) — `2025-06-29-2025-06-a-billion-choices.md` — 331w
+- 2025-06-28 — [Education is free, learning is expensive](https://seths.blog/2025/06/education-is-free-learning-is-expensive/) — `2025-06-28-2025-06-education-is-free-learning-is-expensive.md` — 174w
+- 2025-06-26 — [Use a lot of words](https://seths.blog/2025/06/use-a-lot-of-words/) — `2025-06-26-2025-06-use-a-lot-of-words.md` — 265w
+- 2025-06-23 — [Big scale, big impact](https://seths.blog/2025/06/big-scale-big-impact/) — `2025-06-23-2025-06-big-scale-big-impact.md` — 190w
+- 2025-06-21 — [But what do they say at the meeting?](https://seths.blog/2025/06/but-what-do-they-say-at-the-meeting/) — `2025-06-21-2025-06-but-what-do-they-say-at-the-meeting.md` — 124w
+- 2025-06-17 — [“I made a mistake”](https://seths.blog/2025/06/i-made-a-mistake/) — `2025-06-17-2025-06-i-made-a-mistake.md` — 300w
+- 2025-06-15 — [The power of a pause](https://seths.blog/2025/06/the-power-of-a-pause/) — `2025-06-15-2025-06-the-power-of-a-pause.md` — 135w
+- 2025-06-14 — [Rigor and curiosity](https://seths.blog/2025/06/rigor-and-curiosity/) — `2025-06-14-2025-06-rigor-and-curiosity.md` — 132w
+- 2025-06-12 — [Status (and the grass tax)](https://seths.blog/2025/06/status-and-the-grass-tax/) — `2025-06-12-2025-06-status-and-the-grass-tax.md` — 297w
+- 2025-06-11 — [Ecosystems come and go](https://seths.blog/2025/06/ecosystems-come-and-go/) — `2025-06-11-2025-06-ecosystems-come-and-go.md` — 269w
+- 2025-06-10 — [Grab and go](https://seths.blog/2025/06/grab-and-go/) — `2025-06-10-2025-06-grab-and-go.md` — 124w
+- 2025-06-05 — [The Weekly World News version of the future](https://seths.blog/2025/06/the-weekly-world-news-version-of-the-future/) — `2025-06-05-2025-06-the-weekly-world-news-version-of-the-future.md` — 168w
+- 2025-06-04 — [Books (and more)](https://seths.blog/2025/06/books-and-more/) — `2025-06-04-2025-06-books-and-more.md` — 298w
+- 2025-06-03 — [Which inbox?](https://seths.blog/2025/06/which-inbox/) — `2025-06-03-2025-06-which-inbox.md` — 154w
+- 2025-06-02 — [What do we do when it breaks?](https://seths.blog/2025/06/what-do-we-do-when-it-breaks/) — `2025-06-02-2025-06-what-do-we-do-when-it-breaks.md` — 346w
+- 2025-06-01 — [Scripts and casting](https://seths.blog/2025/06/scripts-and-casting/) — `2025-06-01-2025-06-scripts-and-casting.md` — 150w
+- 2025-05-29 — [Hallucinations and human work](https://seths.blog/2025/05/hallucinations-and-human-work/) — `2025-05-29-2025-05-hallucinations-and-human-work.md` — 272w
+- 2025-05-28 — [Just the right length](https://seths.blog/2025/05/just-the-right-length/) — `2025-05-28-2025-05-just-the-right-length.md` — 239w
+- 2025-05-25 — [The 1:1 method](https://seths.blog/2025/05/the-11-method/) — `2025-05-25-2025-05-the-11-method.md` — 123w
+- 2025-05-24 — [User interaction design drives outcomes](https://seths.blog/2025/05/user-interaction-design-drives-outcomes/) — `2025-05-24-2025-05-user-interaction-design-drives-outcomes.md` — 224w
+- 2025-05-23 — [1,000 fans (which sort?)](https://seths.blog/2025/05/1000-untrue-fans/) — `2025-05-23-2025-05-1000-untrue-fans.md` — 557w
+- 2025-05-18 — [The Impact Matrix: Moving to the golden quadrant](https://seths.blog/2025/05/moving-to-the-golden-quadrant/) — `2025-05-18-2025-05-moving-to-the-golden-quadrant.md` — 226w
+- 2025-05-15 — [Embracing the Rotten Tomato gap](https://seths.blog/2025/05/embracing-the-rotten-tomato-gap/) — `2025-05-15-2025-05-embracing-the-rotten-tomato-gap.md` — 216w
+- 2025-05-13 — [Energy and systems complexity](https://seths.blog/2025/05/systems-complexity-and-energy/) — `2025-05-13-2025-05-systems-complexity-and-energy.md` — 1121w
+- 2025-05-11 — [Activation is not a secret](https://seths.blog/2025/05/activation-is-not-a-secret/) — `2025-05-11-2025-05-activation-is-not-a-secret.md` — 164w
+- 2025-05-09 — [Hallucinations are not the same as errors](https://seths.blog/2025/05/hallucinations-are-not-the-same-as-errors/) — `2025-05-09-2025-05-hallucinations-are-not-the-same-as-errors.md` — 163w
+- 2025-05-08 — [Good-boss friendly](https://seths.blog/2025/05/good-boss-friendly/) — `2025-05-08-2025-05-good-boss-friendly.md` — 225w
+- 2025-05-07 — [Mind reading](https://seths.blog/2025/05/mind-reading/) — `2025-05-07-2025-05-mind-reading.md` — 223w
+- 2025-05-06 — [Tools and the long tail](https://seths.blog/2025/05/tools-and-the-long-tail/) — `2025-05-06-2025-05-tools-and-the-long-tail.md` — 167w
+- 2025-05-05 — [Seeking yoyu 余裕](https://seths.blog/2025/05/seeking-yoyu-%e4%bd%99%e8%a3%95/) — `2025-05-05-2025-05-seeking-yoyu--e4-bd-99-e8-a3-95.md` — 532w
+- 2025-04-29 — [More alternatives, please](https://seths.blog/2025/04/more-alternatives-please/) — `2025-04-29-2025-04-more-alternatives-please.md` — 139w
+- 2025-04-27 — [Stories and hope](https://seths.blog/2025/04/stories-and-hope/) — `2025-04-27-2025-04-stories-and-hope.md` — 126w
+- 2025-04-26 — [A powerful story](https://seths.blog/2025/04/a-powerful-story/) — `2025-04-26-2025-04-a-powerful-story.md` — 148w
+- 2025-04-25 — [Best available](https://seths.blog/2025/04/best-available/) — `2025-04-25-2025-04-best-available.md` — 485w
+- 2025-04-24 — [Powerlessness](https://seths.blog/2025/04/powerlessness/) — `2025-04-24-2025-04-powerlessness.md` — 185w
+- 2025-04-23 — [Simple and painless productivity](https://seths.blog/2025/04/simple-and-painless-productivity/) — `2025-04-23-2025-04-simple-and-painless-productivity.md` — 269w
+- 2025-04-22 — [Technical debt and AI slop](https://seths.blog/2025/04/technical-debt-and-ai-slop/) — `2025-04-22-2025-04-technical-debt-and-ai-slop.md` — 237w
+- 2025-04-17 — [The use (and design) of tools](https://seths.blog/2025/04/the-use-and-design-of-tools/) — `2025-04-17-2025-04-the-use-and-design-of-tools.md` — 280w
+- 2025-04-14 — [How to win an argument with a toddler](https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/) — `2025-04-14-2025-04-how-to-win-an-argument-with-a-toddler.md` — 277w
+- 2025-04-10 — [Designed, Designy or Well-designed?](https://seths.blog/2025/04/designed-designy-or-well-designed/) — `2025-04-10-2025-04-designed-designy-or-well-designed.md` — 224w
+- 2025-04-08 — [This is number 10,000](https://seths.blog/2025/04/this-is-number-10000/) — `2025-04-08-2025-04-this-is-number-10000.md` — 169w
+- 2025-04-07 — [An eroding sense of wonder](https://seths.blog/2025/04/an-eroding-sense-of-wonder/) — `2025-04-07-2025-04-an-eroding-sense-of-wonder.md` — 164w
+- 2025-04-04 — [We can agree about schismogenesis](https://seths.blog/2025/04/we-can-agree-about-schismogenesis/) — `2025-04-04-2025-04-we-can-agree-about-schismogenesis.md` — 177w
+- 2025-04-01 — [Credulous](https://seths.blog/2025/04/credulous/) — `2025-04-01-2025-04-credulous.md` — 190w
+- 2025-03-27 — [The name doesn’t matter (that much)](https://seths.blog/2025/03/the-name-doesnt-matter/) — `2025-03-27-2025-03-the-name-doesnt-matter.md` — 192w
+- 2025-03-25 — [Project ownership (equity and equity)](https://seths.blog/2025/03/project-ownership-equity-and-equity/) — `2025-03-25-2025-03-project-ownership-equity-and-equity.md` — 213w
+- 2025-03-24 — [The second time through](https://seths.blog/2025/03/the-second-time-through/) — `2025-03-24-2025-03-the-second-time-through.md` — 127w
+- 2025-03-17 — [You are a media theorist](https://seths.blog/2025/03/you-are-a-media-theorist/) — `2025-03-17-2025-03-you-are-a-media-theorist.md` — 254w
+- 2025-03-16 — [Asking for directions](https://seths.blog/2025/03/asking-for-directions/) — `2025-03-16-2025-03-asking-for-directions.md` — 126w
+- 2025-03-15 — [Bad design might simply be obsolete design](https://seths.blog/2025/03/bad-design-might-simply-be-obsolete-design/) — `2025-03-15-2025-03-bad-design-might-simply-be-obsolete-design.md` — 150w
+- 2025-03-14 — [Decoding the Knock Knock situation](https://seths.blog/2025/03/decoding-the-knock-knock-situation/) — `2025-03-14-2025-03-decoding-the-knock-knock-situation.md` — 557w
+- 2025-03-13 — [The big sort](https://seths.blog/2025/03/the-big-sort-2/) — `2025-03-13-2025-03-the-big-sort-2.md` — 171w
+- 2025-03-12 — [Two kinds of instructions](https://seths.blog/2025/03/two-kinds-of-instructions/) — `2025-03-12-2025-03-two-kinds-of-instructions.md` — 311w
+- 2025-03-11 — [Birthing tech](https://seths.blog/2025/03/birthing-tech/) — `2025-03-11-2025-03-birthing-tech.md` — 158w
+- 2025-03-10 — [Freelancer as centaur](https://seths.blog/2025/03/freelancer-as-centaur/) — `2025-03-10-2025-03-freelancer-as-centaur.md` — 120w
+- 2025-03-09 — [The tactics trap](https://seths.blog/2025/03/the-tactics-trap/) — `2025-03-09-2025-03-the-tactics-trap.md` — 156w
+- 2025-03-06 — [You might not get a third chance](https://seths.blog/2025/03/you-might-not-get-a-third-chance/) — `2025-03-06-2025-03-you-might-not-get-a-third-chance.md` — 159w
+- 2025-03-04 — [Across and within](https://seths.blog/2025/03/across-and-within/) — `2025-03-04-2025-03-across-and-within.md` — 630w
+- 2025-03-03 — [… or the highway](https://seths.blog/2025/03/or-the-highway/) — `2025-03-03-2025-03-or-the-highway.md` — 130w
+- 2025-03-02 — [Seeking metaphor](https://seths.blog/2025/03/seeking-metaphor/) — `2025-03-02-2025-03-seeking-metaphor.md` — 161w
+- 2025-03-01 — [March is strategy month](https://seths.blog/2025/03/march-is-strategy-month/) — `2025-03-01-2025-03-march-is-strategy-month.md` — 190w
+- 2025-02-27 — [Getting precise about tolerance](https://seths.blog/2025/02/getting-precise-about-tolerance/) — `2025-02-27-2025-02-getting-precise-about-tolerance.md` — 360w
+- 2025-02-26 — [At the speed of judgment](https://seths.blog/2025/02/at-the-speed-of-judgment/) — `2025-02-26-2025-02-at-the-speed-of-judgment.md` — 250w
+- 2025-02-25 — [Long-term selfish (and the circles of us and now)](https://seths.blog/2025/02/kinds-of-selfish/) — `2025-02-25-2025-02-kinds-of-selfish.md` — 212w
+- 2025-02-24 — [Your project is important](https://seths.blog/2025/02/your-project-is-important/) — `2025-02-24-2025-02-your-project-is-important.md` — 140w
+- 2025-02-23 — [The Mona Lisa problem](https://seths.blog/2025/02/the-mona-lisa-problem/) — `2025-02-23-2025-02-the-mona-lisa-problem.md` — 160w
+- 2025-02-17 — [16 minutes](https://seths.blog/2025/02/16-minutes/) — `2025-02-17-2025-02-16-minutes.md` — 795w
+- 2025-02-16 — [Time well spent](https://seths.blog/2025/02/time-well-spent/) — `2025-02-16-2025-02-time-well-spent.md` — 122w
+- 2025-02-15 — [Ensemble stars](https://seths.blog/2025/02/ensemble-stars/) — `2025-02-15-2025-02-ensemble-stars.md` — 204w
+- 2025-02-13 — [“Usualing”](https://seths.blog/2025/02/usualing/) — `2025-02-13-2025-02-usualing.md` — 126w
+- 2025-02-12 — [Two kinds of creative feedback](https://seths.blog/2025/02/two-kinds-of-creative-feedback/) — `2025-02-12-2025-02-two-kinds-of-creative-feedback.md` — 144w
+- 2025-02-10 — [A little faster than you](https://seths.blog/2025/02/a-little-faster-than-you/) — `2025-02-10-2025-02-a-little-faster-than-you.md` — 146w
+- 2025-02-07 — [Own it and label it](https://seths.blog/2025/02/own-it-and-label-it/) — `2025-02-07-2025-02-own-it-and-label-it.md` — 301w
+- 2025-02-07 — [Figs, ivy, silphium and of course, commerce](https://seths.blog/2025/02/figs-ivy-silphium-and-of-course-commerce/) — `2025-02-07-2025-02-figs-ivy-silphium-and-of-course-commerce.md` — 245w
+- 2025-02-05 — [Clarity about the benefits](https://seths.blog/2025/02/clarity-about-the-benefits/) — `2025-02-05-2025-02-clarity-about-the-benefits.md` — 211w
+- 2025-02-04 — [Muscling your way through](https://seths.blog/2025/02/muscling-your-way-through/) — `2025-02-04-2025-02-muscling-your-way-through.md` — 153w
+- 2025-02-02 — [To be in charge](https://seths.blog/2025/02/to-be-in-charge/) — `2025-02-02-2025-02-to-be-in-charge.md` — 246w
+- 2025-02-01 — [“Can’t complain” (but it might be worth considering)](https://seths.blog/2025/02/cant-complain-but-it-might-be-worth-considering/) — `2025-02-01-2025-02-cant-complain-but-it-might-be-worth-considering.md` — 316w
+- 2025-01-31 — [What’s for breakfast?](https://seths.blog/2025/01/whats-for-breakfast/) — `2025-01-31-2025-01-whats-for-breakfast.md` — 120w
+- 2025-01-27 — [Getting clear about brand value](https://seths.blog/2025/01/getting-clear-about-brand-value/) — `2025-01-27-2025-01-getting-clear-about-brand-value.md` — 192w
+- 2025-01-23 — [Honesty about better](https://seths.blog/2025/01/honesty-about-better/) — `2025-01-23-2025-01-honesty-about-better.md` — 234w
+- 2025-01-22 — [Trusting AI](https://seths.blog/2025/01/trusting-ai/) — `2025-01-22-2025-01-trusting-ai.md` — 423w
+- 2025-01-18 — [Memo to the future](https://seths.blog/2025/01/memo-to-the-future/) — `2025-01-18-2025-01-memo-to-the-future.md` — 224w
+- 2025-01-17 — [Embracing externalities](https://seths.blog/2025/01/embracing-externalities-2/) — `2025-01-17-2025-01-embracing-externalities-2.md` — 241w
+- 2025-01-16 — [Building a process culture](https://seths.blog/2025/01/building-a-process-culture/) — `2025-01-16-2025-01-building-a-process-culture.md` — 197w
+- 2025-01-15 — [Good advice](https://seths.blog/2025/01/good-advice-2/) — `2025-01-15-2025-01-good-advice-2.md` — 120w
+- 2025-01-10 — [The magic of the commons](https://seths.blog/2025/01/the-magic-of-the-commons/) — `2025-01-10-2025-01-the-magic-of-the-commons.md` — 383w
+- 2025-01-09 — [The problem with marketing puffery](https://seths.blog/2025/01/the-problem-with-marketing-puffery/) — `2025-01-09-2025-01-the-problem-with-marketing-puffery.md` — 322w
+- 2025-01-08 — [Situational spending](https://seths.blog/2025/01/situational-spending-2/) — `2025-01-08-2025-01-situational-spending-2.md` — 211w
+- 2025-01-07 — [Busy-ness and leverage](https://seths.blog/2025/01/busy-ness-and-leverage/) — `2025-01-07-2025-01-busy-ness-and-leverage.md` — 422w
+- 2025-01-06 — [The value of artifacts](https://seths.blog/2025/01/the-value-of-artifacts/) — `2025-01-06-2025-01-the-value-of-artifacts.md` — 130w
+- 2025-01-02 — [Winging it](https://seths.blog/2025/01/winging-it/) — `2025-01-02-2025-01-winging-it.md` — 221w
+- 2025-01-02 — [Collectibles (and list updates)](https://seths.blog/2025/01/collectibles-and-list-updates/) — `2025-01-02-2025-01-collectibles-and-list-updates.md` — 321w
+- 2025-01-01 — [Find the others](https://seths.blog/2025/01/find-the-others-3/) — `2025-01-01-2025-01-find-the-others-3.md` — 184w
+- 2024-12-28 — [Fiblets](https://seths.blog/2024/12/fiblets/) — `2024-12-28-2024-12-fiblets.md` — 217w
+- 2024-12-27 — [Project/Product managers](https://seths.blog/2024/12/project-product-managers/) — `2024-12-27-2024-12-project-product-managers.md` — 137w
+- 2024-12-26 — [Taxonomy as a service](https://seths.blog/2024/12/taxonomy-as-a-service/) — `2024-12-26-2024-12-taxonomy-as-a-service.md` — 144w
+- 2024-12-25 — [Our new school](https://seths.blog/2024/12/our-new-school/) — `2024-12-25-2024-12-our-new-school.md` — 147w
+- 2024-12-24 — [The challenge of excess capacity](https://seths.blog/2024/12/the-challenge-of-excess-capacity/) — `2024-12-24-2024-12-the-challenge-of-excess-capacity.md` — 172w
+- 2024-12-22 — [The thought that counts](https://seths.blog/2024/12/the-thought-that-counts/) — `2024-12-22-2024-12-the-thought-that-counts.md` — 467w
+- 2024-12-19 — [Ideas need handles: the thing about subject lines](https://seths.blog/2024/12/ideas-need-handles-the-thing-about-subject-lines/) — `2024-12-19-2024-12-ideas-need-handles-the-thing-about-subject-lines.md` — 442w
+- 2024-12-18 — [The first draft of your first non-fiction book](https://seths.blog/2024/12/the-first-draft-of-your-first-non-fiction-book/) — `2024-12-18-2024-12-the-first-draft-of-your-first-non-fiction-book.md` — 139w
+- 2024-12-18 — [The fame/trust inversion](https://seths.blog/2024/12/the-fame-trust-inversion/) — `2024-12-18-2024-12-the-fame-trust-inversion.md` — 282w
+- 2024-12-17 — [If they know, they should tell us](https://seths.blog/2024/12/if-they-know-they-should-tell-us/) — `2024-12-17-2024-12-if-they-know-they-should-tell-us.md` — 330w
+- 2024-12-15 — [Change your shoes](https://seths.blog/2024/12/change-your-shoes/) — `2024-12-15-2024-12-change-your-shoes.md` — 184w
+- 2024-12-14 — [The opportunity for AI formbots](https://seths.blog/2024/12/the-opportunity-for-ai-formbots/) — `2024-12-14-2024-12-the-opportunity-for-ai-formbots.md` — 558w
+- 2024-12-13 — [Listening to organizational decline](https://seths.blog/2024/12/listening-to-organizational-decline/) — `2024-12-13-2024-12-listening-to-organizational-decline.md` — 123w
+- 2024-12-12 — [Better at being better](https://seths.blog/2024/12/better-at-being-better/) — `2024-12-12-2024-12-better-at-being-better.md` — 149w
+- 2024-12-10 — [On the way to professionalism](https://seths.blog/2024/12/on-the-way-to-professionalism/) — `2024-12-10-2024-12-on-the-way-to-professionalism.md` — 155w
+- 2024-12-06 — [The problem with shock design](https://seths.blog/2024/12/the-problem-with-shock-design/) — `2024-12-06-2024-12-the-problem-with-shock-design.md` — 326w
+- 2024-12-05 — [Who owns your words?](https://seths.blog/2024/12/who-owns-your-words/) — `2024-12-05-2024-12-who-owns-your-words.md` — 242w
+- 2024-12-04 — [Elites (vs. elitism)](https://seths.blog/2024/12/elites-vs-elitism/) — `2024-12-04-2024-12-elites-vs-elitism.md` — 270w
+- 2024-12-03 — [Searching for stars](https://seths.blog/2024/12/searching-for-stars/) — `2024-12-03-2024-12-searching-for-stars.md` — 125w
+- 2024-12-02 — [Speed, creativity and AI](https://seths.blog/2024/12/speed-creativity-and-ai/) — `2024-12-02-2024-12-speed-creativity-and-ai.md` — 200w
+- 2024-12-01 — [Thinking about jobs](https://seths.blog/2024/12/thinking-about-jobs/) — `2024-12-01-2024-12-thinking-about-jobs.md` — 187w
+- 2024-11-30 — [Books and more, winter 2024](https://seths.blog/2024/11/books-and-more-winter-2024/) — `2024-11-30-2024-11-books-and-more-winter-2024.md` — 289w
+- 2024-11-28 — [Bongo 4 – Thinking about power users (skive!)](https://seths.blog/2024/11/bongo-4-thinking-about-power-users-skive/) — `2024-11-28-2024-11-bongo-4-thinking-about-power-users-skive.md` — 218w
+- 2024-11-26 — [Understanding pricing](https://seths.blog/2024/11/understanding-pricing/) — `2024-11-26-2024-11-understanding-pricing.md` — 351w
+- 2024-11-25 — [Is there a market(place)?](https://seths.blog/2024/11/is-there-a-market/) — `2024-11-25-2024-11-is-there-a-market.md` — 172w
+- 2024-11-22 — [Game design and strategy (Bongo part 3)](https://seths.blog/2024/11/game-design-and-strategy-bongo-part-3/) — `2024-11-22-2024-11-game-design-and-strategy-bongo-part-3.md` — 823w
+- 2024-11-21 — [When the media is ready (Bongo part 2)](https://seths.blog/2024/11/when-the-media-is-ready-bongo-part-2/) — `2024-11-21-2024-11-when-the-media-is-ready-bongo-part-2.md` — 765w
+- 2024-11-20 — [The nature of traps](https://seths.blog/2024/11/the-nature-of-traps/) — `2024-11-20-2024-11-the-nature-of-traps.md` — 138w
+- 2024-11-20 — [Bongo is here](https://seths.blog/2024/11/bongo-is-here/) — `2024-11-20-2024-11-bongo-is-here.md` — 376w
+- 2024-11-18 — [On whining](https://seths.blog/2024/11/on-whining/) — `2024-11-18-2024-11-on-whining.md` — 532w
+- 2024-11-17 — [How to buy a lottery ticket](https://seths.blog/2024/11/how-to-buy-a-lottery-ticket/) — `2024-11-17-2024-11-how-to-buy-a-lottery-ticket.md` — 263w
+- 2024-11-16 — [Sincerity is expected](https://seths.blog/2024/11/sincerity-is-expected/) — `2024-11-16-2024-11-sincerity-is-expected.md` — 155w
+- 2024-11-14 — [Catastrophizing toward action](https://seths.blog/2024/11/catastrophizing-toward-action/) — `2024-11-14-2024-11-catastrophizing-toward-action.md` — 151w
+- 2024-11-12 — [Unforced errors](https://seths.blog/2024/11/unforced-errors/) — `2024-11-12-2024-11-unforced-errors.md` — 221w
+- 2024-11-12 — [A thoughtful review](https://seths.blog/2024/11/a-thoughtful-review/) — `2024-11-12-2024-11-a-thoughtful-review.md` — 861w
+- 2024-11-11 — [“What should I do now?”](https://seths.blog/2024/11/what-should-i-do-now/) — `2024-11-11-2024-11-what-should-i-do-now.md` — 150w
+- 2024-11-09 — [Dumbing it down](https://seths.blog/2024/11/dumbing-it-down/) — `2024-11-09-2024-11-dumbing-it-down.md` — 168w
+- 2024-11-07 — [The problem with the movie version](https://seths.blog/2024/11/the-problem-with-the-movie-version/) — `2024-11-07-2024-11-the-problem-with-the-movie-version.md` — 144w
+- 2024-11-06 — [The paradox of points](https://seths.blog/2024/11/the-paradox-of-points/) — `2024-11-06-2024-11-the-paradox-of-points.md` — 187w
+- 2024-11-04 — [“I can’t go for that”](https://seths.blog/2024/11/i-cant-go-for-that-2/) — `2024-11-04-2024-11-i-cant-go-for-that-2.md` — 184w
+- 2024-11-04 — [At all costs](https://seths.blog/2024/11/at-all-costs/) — `2024-11-04-2024-11-at-all-costs.md` — 125w
+- 2024-11-03 — [The problem with ‘very’](https://seths.blog/2024/11/the-problem-with-very/) — `2024-11-03-2024-11-the-problem-with-very.md` — 180w
+- 2024-11-02 — [Choose your fuel wisely](https://seths.blog/2024/11/choose-your-fuel-wisely/) — `2024-11-02-2024-11-choose-your-fuel-wisely.md` — 181w
+- 2024-10-30 — [Five lessons from week one of This is Strategy](https://seths.blog/2024/10/five-lessons-from-week-one-of-this-is-strategy/) — `2024-10-30-2024-10-five-lessons-from-week-one-of-this-is-strategy.md` — 1069w
+- 2024-10-29 — [What do we owe the future?](https://seths.blog/2024/10/what-do-we-owe-the-future/) — `2024-10-29-2024-10-what-do-we-owe-the-future.md` — 225w
+- 2024-10-27 — [“I didn’t see you there”](https://seths.blog/2024/10/i-didnt-see-you-there/) — `2024-10-27-2024-10-i-didnt-see-you-there.md` — 129w
+- 2024-10-26 — [Boring to who?](https://seths.blog/2024/10/boring-to-who/) — `2024-10-26-2024-10-boring-to-who.md` — 138w
+- 2024-10-24 — [Important problems](https://seths.blog/2024/10/important-problems/) — `2024-10-24-2024-10-important-problems.md` — 190w
+- 2024-10-23 — [Full circle with myopia](https://seths.blog/2024/10/full-circle-with-myopia/) — `2024-10-23-2024-10-full-circle-with-myopia.md` — 364w
+- 2024-10-22 — [Thoughts on audiobooks](https://seths.blog/2024/10/thoughts-on-audiobooks/) — `2024-10-22-2024-10-thoughts-on-audiobooks.md` — 337w
+- 2024-10-22 — [The Strategy Questions](https://seths.blog/2024/10/the-strategy-questions/) — `2024-10-22-2024-10-the-strategy-questions.md` — 898w
+- 2024-10-21 — [The challenge of focus groups for bold ideas](https://seths.blog/2024/10/the-challenge-of-focus-groups-for-ideas/) — `2024-10-21-2024-10-the-challenge-of-focus-groups-for-ideas.md` — 143w
+- 2024-10-18 — [Moving toward ease](https://seths.blog/2024/10/moving-toward-ease/) — `2024-10-18-2024-10-moving-toward-ease.md` — 126w
+- 2024-10-17 — [Decisions as effort](https://seths.blog/2024/10/decisions-as-effort/) — `2024-10-17-2024-10-decisions-as-effort.md` — 202w
+- 2024-10-16 — [Early next week…](https://seths.blog/2024/10/early-next-week/) — `2024-10-16-2024-10-early-next-week.md` — 273w
+- 2024-10-14 — [Some simple rules for source control](https://seths.blog/2024/10/some-simple-rules-for-source-control/) — `2024-10-14-2024-10-some-simple-rules-for-source-control.md` — 387w
+- 2024-10-13 — [Amplifying the fringes](https://seths.blog/2024/10/amplifying-the-fringes/) — `2024-10-13-2024-10-amplifying-the-fringes.md` — 522w
+- 2024-10-11 — [The cheap chocolate system](https://seths.blog/2024/10/the-cheap-chocolate-system/) — `2024-10-11-2024-10-the-cheap-chocolate-system.md` — 536w
+- 2024-10-09 — [Everything costs](https://seths.blog/2024/10/everything-costs/) — `2024-10-09-2024-10-everything-costs.md` — 233w
+- 2024-10-08 — [Facing the future](https://seths.blog/2024/10/facing-the-future/) — `2024-10-08-2024-10-facing-the-future.md` — 235w
+- 2024-10-05 — [Yes, but how does it work?](https://seths.blog/2024/10/yes-but-how-does-it-work/) — `2024-10-05-2024-10-yes-but-how-does-it-work.md` — 194w
+- 2024-10-03 — [The broomstick objection](https://seths.blog/2024/10/the-broomstick-objection/) — `2024-10-03-2024-10-the-broomstick-objection.md` — 262w
+- 2024-10-01 — [The paradox of brittle](https://seths.blog/2024/10/the-paradox-of-brittle/) — `2024-10-01-2024-10-the-paradox-of-brittle.md` — 228w
+- 2024-09-30 — [Twenty questions](https://seths.blog/2024/09/twenty-questions/) — `2024-09-30-2024-09-twenty-questions.md` — 266w
+- 2024-09-28 — [Who do you want to become?](https://seths.blog/2024/09/who-do-you-want-to-become/) — `2024-09-28-2024-09-who-do-you-want-to-become.md` — 183w
+- 2024-09-23 — [Embodied energy](https://seths.blog/2024/09/embodied-energy/) — `2024-09-23-2024-09-embodied-energy.md` — 129w
+- 2024-09-19 — [The ledge](https://seths.blog/2024/09/the-ledge/) — `2024-09-19-2024-09-the-ledge.md` — 313w
+- 2024-09-18 — [A next frontier for spam and scams](https://seths.blog/2024/09/a-next-frontier-for-spam-and-scams/) — `2024-09-18-2024-09-a-next-frontier-for-spam-and-scams.md` — 138w
+- 2024-09-17 — [Vocal fatigue](https://seths.blog/2024/09/vocal-fatigue/) — `2024-09-17-2024-09-vocal-fatigue.md` — 263w
+- 2024-09-17 — [A possible AI future](https://seths.blog/2024/09/a-possible-ai-future/) — `2024-09-17-2024-09-a-possible-ai-future.md` — 535w
+- 2024-09-15 — [Modern apologies](https://seths.blog/2024/09/modern-apologies/) — `2024-09-15-2024-09-modern-apologies.md` — 152w
+- 2024-09-13 — [Banana Equivalents](https://seths.blog/2024/09/banana-equivalents/) — `2024-09-13-2024-09-banana-equivalents.md` — 191w
+- 2024-09-10 — [When did we lose consciousness?](https://seths.blog/2024/09/when-did-we-lose-consciousness/) — `2024-09-10-2024-09-when-did-we-lose-consciousness.md` — 159w
+- 2024-09-09 — [Celebrating the thousand with a special package](https://seths.blog/2024/09/celebrating-the-thousand/) — `2024-09-09-2024-09-celebrating-the-thousand.md` — 403w
+- 2024-09-06 — [Feeding the algorithm](https://seths.blog/2024/09/feeding-the-algorithm/) — `2024-09-06-2024-09-feeding-the-algorithm.md` — 237w
+- 2024-09-03 — [Practical approaches for more effective teamwork](https://seths.blog/2024/09/practical-approaches-for-more-effective-teamwork/) — `2024-09-03-2024-09-practical-approaches-for-more-effective-teamwork.md` — 165w
+- 2024-09-02 — [The conspiracy of mediocrity](https://seths.blog/2024/09/the-conspiracy-of-mediocrity/) — `2024-09-02-2024-09-the-conspiracy-of-mediocrity.md` — 190w
+- 2024-08-30 — [Language conceals and reveals](https://seths.blog/2024/08/language-conceals-and-reveals/) — `2024-08-30-2024-08-language-conceals-and-reveals.md` — 133w
+- 2024-08-24 — [The sad compromise of “sponsored results”](https://seths.blog/2024/08/the-sad-compromise-of-sponsored-results/) — `2024-08-24-2024-08-the-sad-compromise-of-sponsored-results.md` — 268w
+- 2024-08-22 — [Knowing your customers](https://seths.blog/2024/08/knowing-your-customers/) — `2024-08-22-2024-08-knowing-your-customers.md` — 338w
+- 2024-08-20 — [Non-professional writers](https://seths.blog/2024/08/non-professional-writers/) — `2024-08-20-2024-08-non-professional-writers.md` — 196w
+- 2024-08-16 — [The hard parts (and the important parts)](https://seths.blog/2024/08/the-hard-parts-and-the-important-parts/) — `2024-08-16-2024-08-the-hard-parts-and-the-important-parts.md` — 250w
+- 2024-08-15 — [The paradox of lottery thinking](https://seths.blog/2024/08/the-paradox-of-lottery-thinking/) — `2024-08-15-2024-08-the-paradox-of-lottery-thinking.md` — 159w
+- 2024-08-14 — [Long-term selfish](https://seths.blog/2024/08/long-term-selfish/) — `2024-08-14-2024-08-long-term-selfish.md` — 133w
+- 2024-08-13 — [Multiple choice](https://seths.blog/2024/08/multiple-choice/) — `2024-08-13-2024-08-multiple-choice.md` — 129w
+- 2024-08-10 — [Living in the future](https://seths.blog/2024/08/living-in-the-future/) — `2024-08-10-2024-08-living-in-the-future.md` — 181w
+- 2024-08-07 — [Misunderstanding bigness](https://seths.blog/2024/08/misunderstanding-bigness/) — `2024-08-07-2024-08-misunderstanding-bigness.md` — 360w
+- 2024-08-06 — [The challenge of “a risky scheme”](https://seths.blog/2024/08/the-power-of-a-risky-scheme/) — `2024-08-06-2024-08-the-power-of-a-risky-scheme.md` — 432w
+- 2024-08-05 — [Learning in August](https://seths.blog/2024/08/learning-in-august/) — `2024-08-05-2024-08-learning-in-august.md` — 168w
+- 2024-08-03 — [The Mississippi River paradox](https://seths.blog/2024/08/the-mississippi-river-paradox/) — `2024-08-03-2024-08-the-mississippi-river-paradox.md` — 171w
+- 2024-07-31 — [The tooth fairy](https://seths.blog/2024/07/the-tooth-fairy/) — `2024-07-31-2024-07-the-tooth-fairy.md` — 130w
+- 2024-07-30 — [The last little bit](https://seths.blog/2024/07/the-last-little-bit/) — `2024-07-30-2024-07-the-last-little-bit.md` — 188w
+- 2024-07-25 — [A bowl of rice](https://seths.blog/2024/07/a-bowl-of-rice/) — `2024-07-25-2024-07-a-bowl-of-rice.md` — 217w
+- 2024-07-24 — [The two bicycle errors](https://seths.blog/2024/07/the-two-bicycle-errors/) — `2024-07-24-2024-07-the-two-bicycle-errors.md` — 169w
+- 2024-07-23 — [Doing it step by step](https://seths.blog/2024/07/doing-it-step-by-step/) — `2024-07-23-2024-07-doing-it-step-by-step.md` — 170w
+- 2024-07-20 — [The new reality of old media](https://seths.blog/2024/07/the-new-reality-of-old-media/) — `2024-07-20-2024-07-the-new-reality-of-old-media.md` — 198w
+- 2024-07-17 — [A branding exercise](https://seths.blog/2024/07/a-branding-exercise/) — `2024-07-17-2024-07-a-branding-exercise.md` — 737w
+- 2024-07-16 — [Bullies](https://seths.blog/2024/07/bullies/) — `2024-07-16-2024-07-bullies.md` — 132w
+- 2024-07-15 — [The page-a-day calendar](https://seths.blog/2024/07/the-page-a-day-calendar/) — `2024-07-15-2024-07-the-page-a-day-calendar.md` — 390w
+- 2024-07-12 — [Student coach](https://seths.blog/2024/07/student-coach/) — `2024-07-12-2024-07-student-coach.md` — 125w
+- 2024-07-11 — [How, why and hyperbole](https://seths.blog/2024/07/how-why-and-hyperbole/) — `2024-07-11-2024-07-how-why-and-hyperbole.md` — 314w
+- 2024-07-08 — [Kazoo lessons](https://seths.blog/2024/07/kazoo-lessons/) — `2024-07-08-2024-07-kazoo-lessons.md` — 132w
+- 2024-07-04 — [Cat and mouse games](https://seths.blog/2024/07/cat-and-mouse-games/) — `2024-07-04-2024-07-cat-and-mouse-games.md` — 232w
+- 2024-07-03 — [Software done well](https://seths.blog/2024/07/software-done-well/) — `2024-07-03-2024-07-software-done-well.md` — 208w
+- 2024-07-03 — [Avoiding the trap questions](https://seths.blog/2024/07/avoiding-the-trap-questions/) — `2024-07-03-2024-07-avoiding-the-trap-questions.md` — 189w
+- 2024-06-30 — [Aerodynamic figureheads](https://seths.blog/2024/06/aerodynamic-figureheads/) — `2024-06-30-2024-06-aerodynamic-figureheads.md` — 128w
+- 2024-06-25 — [Return on effort](https://seths.blog/2024/06/return-on-effort/) — `2024-06-25-2024-06-return-on-effort.md` — 140w
+- 2024-06-22 — [The Coney Island problem](https://seths.blog/2024/06/the-coney-island-problem/) — `2024-06-22-2024-06-the-coney-island-problem.md` — 222w
+- 2024-06-20 — [The near future (and summer reads)](https://seths.blog/2024/06/the-near-future-and-summer-reads/) — `2024-06-20-2024-06-the-near-future-and-summer-reads.md` — 188w
+- 2024-06-20 — [Phrenology](https://seths.blog/2024/06/phrenology/) — `2024-06-20-2024-06-phrenology.md` — 173w
+- 2024-06-17 — [The intentional stance](https://seths.blog/2024/06/the-intentional-stance/) — `2024-06-17-2024-06-the-intentional-stance.md` — 494w
+- 2024-06-16 — [Spam 3.0](https://seths.blog/2024/06/spam-3-0/) — `2024-06-16-2024-06-spam-3-0.md` — 163w
+- 2024-06-15 — [Better than Google](https://seths.blog/2024/06/better-than-google/) — `2024-06-15-2024-06-better-than-google.md` — 135w
+- 2024-06-14 — [Boundaries and limits](https://seths.blog/2024/06/boundaries-and-limits/) — `2024-06-14-2024-06-boundaries-and-limits.md` — 140w
+- 2024-06-13 — [The seduction of false promises](https://seths.blog/2024/06/the-seduction-of-false-promises/) — `2024-06-13-2024-06-the-seduction-of-false-promises.md` — 402w
+- 2024-06-09 — [The half apology](https://seths.blog/2024/06/the-half-apology/) — `2024-06-09-2024-06-the-half-apology.md` — 192w
+- 2024-06-08 — [An overlooked and powerful editing tool](https://seths.blog/2024/06/an-overlooked-and-powerful-editing-tool/) — `2024-06-08-2024-06-an-overlooked-and-powerful-editing-tool.md` — 137w
+- 2024-06-07 — [Perfect pavement](https://seths.blog/2024/06/perfect-pavement/) — `2024-06-07-2024-06-perfect-pavement.md` — 122w
+- 2024-06-06 — [Practical empathy (vs. telepathy)](https://seths.blog/2024/06/practical-empathy-vs-telepathy/) — `2024-06-06-2024-06-practical-empathy-vs-telepathy.md` — 233w
+- 2024-06-04 — [Did you see it in the theater?](https://seths.blog/2024/06/did-you-see-it-in-the-theater/) — `2024-06-04-2024-06-did-you-see-it-in-the-theater.md` — 250w
+- 2024-06-01 — [Market insulation](https://seths.blog/2024/06/market-insulation/) — `2024-06-01-2024-06-market-insulation.md` — 158w
+- 2024-05-28 — [Exceed or maintain?](https://seths.blog/2024/05/the-achievement-competition-distribution/) — `2024-05-28-2024-05-the-achievement-competition-distribution.md` — 357w
+- 2024-05-26 — [Play fair & work hard](https://seths.blog/2024/05/play-fair-work-hard/) — `2024-05-26-2024-05-play-fair-work-hard.md` — 233w
+- 2024-05-25 — [Transforming two-sided markets](https://seths.blog/2024/05/transforming-two-sided-markets/) — `2024-05-25-2024-05-transforming-two-sided-markets.md` — 459w
+- 2024-05-23 — [2 + 2](https://seths.blog/2024/05/2-2/) — `2024-05-23-2024-05-2-2.md` — 294w
+- 2024-05-22 — [“I don’t learn that way”](https://seths.blog/2024/05/i-dont-learn-that-way/) — `2024-05-22-2024-05-i-dont-learn-that-way.md` — 121w
+- 2024-05-20 — [I was wrong about sun tea](https://seths.blog/2024/05/i-was-wrong-about-sun-tea/) — `2024-05-20-2024-05-i-was-wrong-about-sun-tea.md` — 161w
+- 2024-05-17 — [Semantic algebra](https://seths.blog/2024/05/semantic-algebra/) — `2024-05-17-2024-05-semantic-algebra.md` — 140w
+- 2024-05-16 — [The obligations of the Town Hall](https://seths.blog/2024/05/the-obligations-of-the-town-hall/) — `2024-05-16-2024-05-the-obligations-of-the-town-hall.md` — 346w
+- 2024-05-16 — [Complaints are a gift](https://seths.blog/2024/05/complaints-are-a-gift/) — `2024-05-16-2024-05-complaints-are-a-gift.md` — 149w
+- 2024-05-12 — [The strategy sessions](https://seths.blog/2024/05/the-strategy-sessions/) — `2024-05-12-2024-05-the-strategy-sessions.md` — 173w
+- 2024-05-08 — [The defensive arrogance of TL;DR](https://seths.blog/2024/05/the-defensive-arrogance-of-tldr/) — `2024-05-08-2024-05-the-defensive-arrogance-of-tldr.md` — 447w
+- 2024-05-07 — [The half-life of magic](https://seths.blog/2024/05/the-half-life-of-magic/) — `2024-05-07-2024-05-the-half-life-of-magic.md` — 160w
+- 2024-05-02 — [Comfort and convenience](https://seths.blog/2024/05/comfort-and-convenience/) — `2024-05-02-2024-05-comfort-and-convenience.md` — 126w
+- 2024-05-01 — [What does reality look like?](https://seths.blog/2024/05/what-does-reality-look-like/) — `2024-05-01-2024-05-what-does-reality-look-like.md` — 231w
+- 2024-04-30 — [Inverting the vex](https://seths.blog/2024/04/inverting-the-vex/) — `2024-04-30-2024-04-inverting-the-vex.md` — 187w
+- 2024-04-29 — [The Net Promoter Score](https://seths.blog/2024/04/the-net-promoter-score/) — `2024-04-29-2024-04-the-net-promoter-score.md` — 161w
+- 2024-04-28 — [Indifferent overhead](https://seths.blog/2024/04/indifferent-overhead/) — `2024-04-28-2024-04-indifferent-overhead.md` — 137w
+- 2024-04-27 — [Manipulation, indoctrination and addiction](https://seths.blog/2024/04/manipulation-indoctrination-and-addiction/) — `2024-04-27-2024-04-manipulation-indoctrination-and-addiction.md` — 216w
+- 2024-04-26 — [Books don’t sell](https://seths.blog/2024/04/books-dont-sell/) — `2024-04-26-2024-04-books-dont-sell.md` — 387w
+- 2024-04-25 — [Bottom of the funnel](https://seths.blog/2024/04/bottom-of-the-funnel/) — `2024-04-25-2024-04-bottom-of-the-funnel.md` — 169w
+- 2024-04-23 — [Generational shifts in punditry](https://seths.blog/2024/04/generational-shifts-in-punditry/) — `2024-04-23-2024-04-generational-shifts-in-punditry.md` — 178w
+- 2024-04-22 — [What happened vs. what we do about it](https://seths.blog/2024/04/what-happened-vs-what-we-do-about-it/) — `2024-04-22-2024-04-what-happened-vs-what-we-do-about-it.md` — 232w
+- 2024-04-21 — [Other people’s problems](https://seths.blog/2024/04/other-peoples-problems/) — `2024-04-21-2024-04-other-peoples-problems.md` — 140w
+- 2024-04-20 — [ChatGPT is dumber than it looks](https://seths.blog/2024/04/chatgpt-is-dumber-than-it-looks/) — `2024-04-20-2024-04-chatgpt-is-dumber-than-it-looks.md` — 203w
+- 2024-04-19 — [The grid of inquiry](https://seths.blog/2024/04/the-grid-of-inquiry/) — `2024-04-19-2024-04-the-grid-of-inquiry.md` — 209w
+- 2024-04-17 — [The blank page](https://seths.blog/2024/04/the-blank-page/) — `2024-04-17-2024-04-the-blank-page.md` — 161w
+- 2024-04-16 — [Refusing the salon of the refused](https://seths.blog/2024/04/refusing-the-salon-of-the-refused/) — `2024-04-16-2024-04-refusing-the-salon-of-the-refused.md` — 358w
+- 2024-04-14 — [Getting the word out](https://seths.blog/2024/04/getting-the-word-out-3/) — `2024-04-14-2024-04-getting-the-word-out-3.md` — 402w
+- 2024-04-13 — [The perils of doing it live](https://seths.blog/2024/04/the-perils-of-doing-it-live/) — `2024-04-13-2024-04-the-perils-of-doing-it-live.md` — 367w
+- 2024-04-12 — [Updating our stuck interactions](https://seths.blog/2024/04/updating-our-stuck-interactions/) — `2024-04-12-2024-04-updating-our-stuck-interactions.md` — 298w
+- 2024-04-12 — [The challenge of nonprofit fundraising](https://seths.blog/2024/04/the-challenge-of-fundraising/) — `2024-04-12-2024-04-the-challenge-of-fundraising.md` — 456w
+- 2024-04-11 — [Why tell the others?](https://seths.blog/2024/04/why-tell-the-others/) — `2024-04-11-2024-04-why-tell-the-others.md` — 449w
+- 2024-04-11 — [The marketing department](https://seths.blog/2024/04/the-marketing-department/) — `2024-04-11-2024-04-the-marketing-department.md` — 136w
+- 2024-04-10 — [Launching GOODBIDS](https://seths.blog/2024/04/launching-goodbids/) — `2024-04-10-2024-04-launching-goodbids.md` — 387w
+- 2024-04-10 — [Demanding certainty](https://seths.blog/2024/04/demanding-certainty/) — `2024-04-10-2024-04-demanding-certainty.md` — 124w
+- 2024-04-09 — [The color-coded wires](https://seths.blog/2024/04/the-color-coded-wires/) — `2024-04-09-2024-04-the-color-coded-wires.md` — 122w
+- 2024-04-06 — [Jevons paradox is not surprising](https://seths.blog/2024/04/jevons-paradox-is-not-surprising/) — `2024-04-06-2024-04-jevons-paradox-is-not-surprising.md` — 134w
+- 2024-04-04 — [Responsibility and blame](https://seths.blog/2024/04/responsibility-and-blame/) — `2024-04-04-2024-04-responsibility-and-blame.md` — 123w
+- 2024-04-02 — [Generosity and fear](https://seths.blog/2024/04/generosity-and-fear/) — `2024-04-02-2024-04-generosity-and-fear.md` — 131w
+- 2024-03-30 — [Boyle’s Law](https://seths.blog/2024/03/boyles-law/) — `2024-03-30-2024-03-boyles-law.md` — 127w
+- 2024-03-29 — [The B2B questions](https://seths.blog/2024/03/the-b2b-questions/) — `2024-03-29-2024-03-the-b2b-questions.md` — 160w
+- 2024-03-27 — [Shields down](https://seths.blog/2024/03/shields-down/) — `2024-03-27-2024-03-shields-down.md` — 401w
+- 2024-03-24 — [Velocity and possibility](https://seths.blog/2024/03/velocity-and-possibility/) — `2024-03-24-2024-03-velocity-and-possibility.md` — 150w
+- 2024-03-23 — [The rock star conundrum](https://seths.blog/2024/03/the-rock-star-conundrum/) — `2024-03-23-2024-03-the-rock-star-conundrum.md` — 193w
+- 2024-03-20 — [The worst person on our team](https://seths.blog/2024/03/the-worst-person-on-your-team/) — `2024-03-20-2024-03-the-worst-person-on-your-team.md` — 197w
+- 2024-03-20 — [Podcasts, international covers and more](https://seths.blog/2024/03/podcasts-international-covers-and-more/) — `2024-03-20-2024-03-podcasts-international-covers-and-more.md` — 120w
+- 2024-03-14 — [Naming is part of marketing](https://seths.blog/2024/03/naming-is-part-of-marketing/) — `2024-03-14-2024-03-naming-is-part-of-marketing.md` — 224w
+- 2024-03-13 — [Curation (vs the road to junk)](https://seths.blog/2024/03/curation-vs-the-road-to-junk/) — `2024-03-13-2024-03-curation-vs-the-road-to-junk.md` — 256w
+- 2024-03-11 — [Hiding the ‘aha’](https://seths.blog/2024/03/hiding-the-aha/) — `2024-03-11-2024-03-hiding-the-aha.md` — 199w
+- 2024-03-05 — [The positive auction](https://seths.blog/2024/03/the-positive-auction/) — `2024-03-05-2024-03-the-positive-auction.md` — 1139w
+- 2024-03-05 — [On building a cathedral](https://seths.blog/2024/03/on-building-a-cathedral/) — `2024-03-05-2024-03-on-building-a-cathedral.md` — 172w
+- 2024-03-03 — [Becoming intentional about virtual meetings](https://seths.blog/2024/03/becoming-intentional-about-virtual-meetings/) — `2024-03-03-2024-03-becoming-intentional-about-virtual-meetings.md` — 156w
+- 2024-03-01 — [The question book](https://seths.blog/2024/03/the-question-book/) — `2024-03-01-2024-03-the-question-book.md` — 185w
+- 2024-02-29 — [The leap](https://seths.blog/2024/02/the-leap-2/) — `2024-02-29-2024-02-the-leap-2.md` — 184w
+- 2024-02-28 — [By association](https://seths.blog/2024/02/by-association/) — `2024-02-28-2024-02-by-association.md` — 172w
+- 2024-02-27 — [What are the stakes?](https://seths.blog/2024/02/what-are-the-stakes/) — `2024-02-27-2024-02-what-are-the-stakes.md` — 157w
+- 2024-02-27 — [(Free) subscription drive](https://seths.blog/2024/02/free-subscription-drive/) — `2024-02-27-2024-02-free-subscription-drive.md` — 152w
+- 2024-02-26 — [The close proximity gap](https://seths.blog/2024/02/the-close-proximity-gap/) — `2024-02-26-2024-02-the-close-proximity-gap.md` — 243w
+- 2024-02-25 — [The grey goo](https://seths.blog/2024/02/the-grey-goo/) — `2024-02-25-2024-02-the-grey-goo.md` — 122w
+- 2024-02-24 — [A transformative summer](https://seths.blog/2024/02/a-transformative-summer/) — `2024-02-24-2024-02-a-transformative-summer.md` — 384w
+- 2024-02-23 — [And it can also do that](https://seths.blog/2024/02/and-it-can-also-do-that/) — `2024-02-23-2024-02-and-it-can-also-do-that.md` — 469w
+- 2024-02-21 — [Spire confusion](https://seths.blog/2024/02/spire-confusion/) — `2024-02-21-2024-02-spire-confusion.md` — 129w
+- 2024-02-20 — [Easy/lazy tech journalism](https://seths.blog/2024/02/easy-lazy-tech-journalism/) — `2024-02-20-2024-02-easy-lazy-tech-journalism.md` — 128w
+- 2024-02-19 — [Make or buy?](https://seths.blog/2024/02/make-or-buy/) — `2024-02-19-2024-02-make-or-buy.md` — 278w
+- 2024-02-16 — [Trading trust](https://seths.blog/2024/02/trading-trust/) — `2024-02-16-2024-02-trading-trust.md` — 193w
+- 2024-02-15 — [Peak infrastructure](https://seths.blog/2024/02/peak-infrastructure/) — `2024-02-15-2024-02-peak-infrastructure.md` — 335w
+- 2024-02-14 — [Customer satisfaction and tipping](https://seths.blog/2024/02/customer-satisfaction-and-tipping/) — `2024-02-14-2024-02-customer-satisfaction-and-tipping.md` — 526w
+- 2024-02-12 — [To be well published](https://seths.blog/2024/02/to-be-well-published/) — `2024-02-12-2024-02-to-be-well-published.md` — 282w
+- 2024-02-10 — [Transitions are difficult](https://seths.blog/2024/02/transitions-are-difficult/) — `2024-02-10-2024-02-transitions-are-difficult.md` — 133w
+- 2024-02-09 — [Understanding free software](https://seths.blog/2024/02/understanding-free-software/) — `2024-02-09-2024-02-understanding-free-software.md` — 695w
+- 2024-02-07 — [All customers are the same](https://seths.blog/2024/02/all-customers-are-the-same/) — `2024-02-07-2024-02-all-customers-are-the-same.md` — 123w
+- 2024-02-06 — [What’s the right size?](https://seths.blog/2024/02/whats-the-right-size/) — `2024-02-06-2024-02-whats-the-right-size.md` — 191w
+- 2024-02-04 — [The pitfall of Big Game thinking](https://seths.blog/2024/02/the-pitfall-of-big-game-thinking/) — `2024-02-04-2024-02-the-pitfall-of-big-game-thinking.md` — 283w
+- 2024-02-03 — [Two chicken jokes](https://seths.blog/2024/02/two-chicken-jokes/) — `2024-02-03-2024-02-two-chicken-jokes.md` — 216w
+- 2024-02-02 — [Niching up](https://seths.blog/2024/02/niching-up/) — `2024-02-02-2024-02-niching-up.md` — 152w
+- 2024-01-31 — [The best possible use](https://seths.blog/2024/01/the-best-possible-use/) — `2024-01-31-2024-01-the-best-possible-use.md` — 140w
+- 2024-01-28 — [Optimized or maximized?](https://seths.blog/2024/01/optimized-or-maximized-2/) — `2024-01-28-2024-01-optimized-or-maximized-2.md` — 123w
+- 2024-01-23 — [Communications hygiene (and the demise of texting)](https://seths.blog/2024/01/communications-hygiene-and-the-demise-of-texting/) — `2024-01-23-2024-01-communications-hygiene-and-the-demise-of-texting.md` — 609w
+- 2024-01-22 — [It’s Mac Day (#40)](https://seths.blog/2024/01/its-mac-day-40/) — `2024-01-22-2024-01-its-mac-day-40.md` — 443w
+- 2024-01-20 — [Out to get you](https://seths.blog/2024/01/out-to-get-you/) — `2024-01-20-2024-01-out-to-get-you.md` — 144w
+- 2024-01-19 — [Decoding ‘story’](https://seths.blog/2024/01/decoding-story/) — `2024-01-19-2024-01-decoding-story.md` — 413w
+- 2024-01-17 — [Who pays?](https://seths.blog/2024/01/who-pays/) — `2024-01-17-2024-01-who-pays.md` — 252w
+- 2024-01-16 — [Variety and the long tail](https://seths.blog/2024/01/the-inevitable-long-tail-variety-backlash/) — `2024-01-16-2024-01-the-inevitable-long-tail-variety-backlash.md` — 379w
+- 2024-01-15 — [Time, consequences and opportunities](https://seths.blog/2024/01/time-consquences-and-opportunities/) — `2024-01-15-2024-01-time-consquences-and-opportunities.md` — 130w
+- 2024-01-12 — [Looking for a handle](https://seths.blog/2024/01/looking-for-a-handle/) — `2024-01-12-2024-01-looking-for-a-handle.md` — 196w
+- 2024-01-09 — [Customer service is a choice](https://seths.blog/2024/01/customer-service-is-a-choice/) — `2024-01-09-2024-01-customer-service-is-a-choice.md` — 402w
+- 2024-01-07 — [Avoiding technology](https://seths.blog/2024/01/avoiding-technology/) — `2024-01-07-2024-01-avoiding-technology.md` — 147w
+- 2024-01-06 — [PW 5: Measuring the right thing](https://seths.blog/2024/01/pw-5-measuring-the-right-thing/) — `2024-01-06-2024-01-pw-5-measuring-the-right-thing.md` — 141w
+- 2024-01-05 — [PW 4: Productivity and tools](https://seths.blog/2024/01/pw-4-productivity-and-tools/) — `2024-01-05-2024-01-pw-4-productivity-and-tools.md` — 214w
+- 2024-01-04 — [Productivity week: Bonus](https://seths.blog/2024/01/productivity-week-bonus/) — `2024-01-04-2024-01-productivity-week-bonus.md` — 316w
+- 2024-01-04 — [PW 3: Errors and productivity](https://seths.blog/2024/01/pw-3-errors-and-productivity/) — `2024-01-04-2024-01-pw-3-errors-and-productivity.md` — 148w
+- 2024-01-03 — [PW 2: Productivity in community](https://seths.blog/2024/01/pw-2-productivity-in-community/) — `2024-01-03-2024-01-pw-2-productivity-in-community.md` — 190w
+- 2024-01-02 — [PW1: Two hats for productivity](https://seths.blog/2024/01/pw1-two-hats-for-productivity/) — `2024-01-02-2024-01-pw1-two-hats-for-productivity.md` — 207w
+- 2023-12-31 — [On choosing a college](https://seths.blog/2023/12/on-choosing-a-college/) — `2023-12-31-2023-12-on-choosing-a-college.md` — 594w
+- 2023-12-30 — [Benign vs. normal](https://seths.blog/2023/12/benign-vs-normal/) — `2023-12-30-2023-12-benign-vs-normal.md` — 132w
+- 2023-12-28 — [Rewrite for humans](https://seths.blog/2023/12/rewrite-for-humans/) — `2023-12-28-2023-12-rewrite-for-humans.md` — 319w
+- 2023-12-25 — [“Let’s face it”](https://seths.blog/2023/12/lets-face-it/) — `2023-12-25-2023-12-lets-face-it.md` — 163w
+- 2023-12-22 — [x1000](https://seths.blog/2023/12/x1000/) — `2023-12-22-2023-12-x1000.md` — 161w
+- 2023-12-21 — [Drama at work](https://seths.blog/2023/12/drama-at-work/) — `2023-12-21-2023-12-drama-at-work.md` — 129w
+- 2023-12-19 — [The problems with flat out](https://seths.blog/2023/12/the-problems-with-flat-out/) — `2023-12-19-2023-12-the-problems-with-flat-out.md` — 160w
+- 2023-12-17 — [Personal process notation](https://seths.blog/2023/12/personal-process-notation/) — `2023-12-17-2023-12-personal-process-notation.md` — 212w
+- 2023-12-15 — [Signal and noise](https://seths.blog/2023/12/signal-and-noise/) — `2023-12-15-2023-12-signal-and-noise.md` — 250w

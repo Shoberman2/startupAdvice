@@ -1,6 +1,6 @@
 # Patrick Collison corpus index
 
-Source: https://patrickcollison.com — fetched 2026-07-19
+Source: https://patrickcollison.com — fetched 2026-07-20
 12 posts, 16353 words. Format: date — [title](canonical url) — `file` — words.
 
 - undated — [Solar · Patrick Collison](https://patrickcollison.com/solar) — `undated-solar.md` — 220w

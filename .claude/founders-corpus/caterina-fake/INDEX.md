@@ -1,7 +1,7 @@
 # Caterina Fake corpus index
 
 Source: https://caterina.net — fetched 2026-07-20
-83 posts, 38814 words. Format: date — [title](canonical url) — `file` — words.
+191 posts, 77669 words. Format: date — [title](canonical url) — `file` — words.
 
 - 2026-01-14 — [Bed for Dreaming: Caterina Fake interviewed by Natasha Boas](https://caterina.net/2026/01/14/bed-for-dreaming/) — `2026-01-14-2026-01-14-bed-for-dreaming.md` — 1266w
 - 2023-11-02 — [What Would Herzog Do?](https://caterina.net/2023/11/02/what-would-herzog-do/) — `2023-11-02-2023-11-02-what-would-herzog-do.md` — 1099w
@@ -71,18 +71,126 @@ Source: https://caterina.net — fetched 2026-07-20
 - 2017-11-21 — [Harassment: ways to cope](https://caterina.net/2017/11/21/harassment/) — `2017-11-21-2017-11-21-harassment.md` — 601w
 - 2017-11-20 — [Heard, read and seen](https://caterina.net/2017/11/20/heard-read-and-seen/) — `2017-11-20-2017-11-20-heard-read-and-seen.md` — 171w
 - 2017-11-19 — [No difference at all](https://caterina.net/2017/11/19/no-difference-at-all/) — `2017-11-19-2017-11-19-no-difference-at-all.md` — 128w
+- 2017-10-11 — [2000 Index Cards, and Learning Languages](https://caterina.net/2017/10/11/2000-index-cards-and-learning-languages/) — `2017-10-11-2017-10-11-2000-index-cards-and-learning-languages.md` — 211w
+- 2017-09-28 — [Perfect Potato and Perfect Carrot](https://caterina.net/2017/09/28/perfect-potato-and-perfect-carrot/) — `2017-09-28-2017-09-28-perfect-potato-and-perfect-carrot.md` — 240w
+- 2017-08-27 — [What happened in the 70s?](https://caterina.net/2017/08/26/what-happened-in-the-70s/) — `2017-08-27-2017-08-26-what-happened-in-the-70s.md` — 376w
+- 2017-07-07 — [Women’s Eyebrow Fashions](https://caterina.net/2017/07/07/womens-eyebrow-fashions/) — `2017-07-07-2017-07-07-womens-eyebrow-fashions.md` — 146w
+- 2017-04-10 — [Ph.D program vs. Time](https://caterina.net/2017/04/10/ph-d-program-vs-time-life-book/) — `2017-04-10-2017-04-10-ph-d-program-vs-time-life-book.md` — 227w
+- 2017-03-17 — [TOI from this week (i.e. Things of Interest)](https://caterina.net/2017/03/16/toi-from-this-week-i-e-things-of-interest/) — `2017-03-17-2017-03-16-toi-from-this-week-i-e-things-of-interest.md` — 297w
+- 2017-03-09 — [Anti](https://caterina.net/2017/03/08/anti-psychiatry-and-community-care/) — `2017-03-09-2017-03-08-anti-psychiatry-and-community-care.md` — 210w
+- 2016-11-15 — [Trump voters aren’t voting policy, they’re voting identity](https://caterina.net/2016/11/15/trump-voters-arent-voting-policy-theyre-voting-identity/) — `2016-11-15-2016-11-15-trump-voters-arent-voting-policy-theyre-voting-identity.md` — 317w
+- 2016-11-14 — [Remember the Story of Guillermo Rodriguez](https://caterina.net/2016/11/14/the-story-of-guillermo-rodriguez/) — `2016-11-14-2016-11-14-the-story-of-guillermo-rodriguez.md` — 135w
 - 2016-11-12 — [Notes from Wendell Berry's Home Economics](https://caterina.net/2016/11/12/notes-from-wendell-berrys-home-economics/) — `2016-11-12-2016-11-12-notes-from-wendell-berrys-home-economics.md` — 464w
+- 2016-11-11 — [Tyranny comes from democracy](https://caterina.net/2016/11/11/tyranny-comes-from-democracy/) — `2016-11-11-2016-11-11-tyranny-comes-from-democracy.md` — 1046w
+- 2016-11-11 — [Act Now, Electoral College](https://caterina.net/2016/11/11/act-now-electoral-college/) — `2016-11-11-2016-11-11-act-now-electoral-college.md` — 232w
+- 2016-11-07 — [Virginia Woolf’s Diary Vol. 2](https://caterina.net/2016/11/07/virginia-woolfs-diary-vol-2/) — `2016-11-07-2016-11-07-virginia-woolfs-diary-vol-2.md` — 140w
+- 2016-10-24 — [Lighting Their Fires](https://caterina.net/2016/10/23/lighting-their-fires/) — `2016-10-24-2016-10-23-lighting-their-fires.md` — 355w
+- 2016-06-13 — [A handy guide to what types of speech are not protected by the First Amendment](https://caterina.net/2016/06/13/a-handy-guide-to-what-types-of-speech-are-not-protected-by-the-first-amendment/) — `2016-06-13-2016-06-13-a-handy-guide-to-what-types-of-speech-are-not-protected-by-the-first-.md` — 252w
+- 2016-06-12 — [Storytelling, Narrative and the Utility of Knowledge](https://caterina.net/2016/06/12/storytelling-narrative-and-the-utility-of-knowledge/) — `2016-06-12-2016-06-12-storytelling-narrative-and-the-utility-of-knowledge.md` — 249w
+- 2016-06-07 — [Drunk people respect authority](https://caterina.net/2016/06/06/drunk-people-respect-authority/) — `2016-06-07-2016-06-06-drunk-people-respect-authority.md` — 316w
 - 2016-06-06 — [Youth sports are destructive to family life](https://caterina.net/2016/06/05/youth-sports-are-destructive-to-family-life/) — `2016-06-06-2016-06-05-youth-sports-are-destructive-to-family-life.md` — 356w
+- 2016-06-05 — [Getaround Hostile to Sharing, Trust](https://caterina.net/2016/06/05/getaround-hostile-to-sharing-trust/) — `2016-06-05-2016-06-05-getaround-hostile-to-sharing-trust.md` — 423w
+- 2016-06-03 — [Chernobyl Prayer by Svetlana Alexeivich](https://caterina.net/2016/06/02/chernobyl-prayer-by-svetlana-alexeivich/) — `2016-06-03-2016-06-02-chernobyl-prayer-by-svetlana-alexeivich.md` — 810w
+- 2016-06-02 — [Something Splendid: Books in Translation](https://caterina.net/2016/06/01/something-splendid-books-in-translation/) — `2016-06-02-2016-06-01-something-splendid-books-in-translation.md` — 580w
+- 2016-05-31 — [Caterina Fake: 30 Days of Genius](https://caterina.net/2016/05/31/caterina-fake-30-days-of-genius/) — `2016-05-31-2016-05-31-caterina-fake-30-days-of-genius.md` — 227w
+- 2016-05-30 — [Blood Meridian, by Cormac McCarthy](https://caterina.net/2016/05/30/blood-meridian-by-cormac-mccarthy/) — `2016-05-30-2016-05-30-blood-meridian-by-cormac-mccarthy.md` — 734w
+- 2016-05-26 — [Defining the role of Lead Parent](https://caterina.net/2016/05/26/defining-the-role-of-lead-parent/) — `2016-05-26-2016-05-26-defining-the-role-of-lead-parent.md` — 328w
+- 2016-05-25 — [The European Witch-Craze of the Sixteenth and Seventeenth Centuries, by H.R. Trevor](https://caterina.net/2016/05/25/the-european-witch-craze-of-the-sixteenth-and-seventeenth-centuries-by-h-r-trevor-roper/) — `2016-05-25-2016-05-25-the-european-witch-craze-of-the-sixteenth-and-seventeenth-centuries-b.md` — 274w
+- 2016-05-25 — [Champerty, Gawker and Peter Thiel](https://caterina.net/2016/05/24/champerty-or-third-party-litigation/) — `2016-05-25-2016-05-24-champerty-or-third-party-litigation.md` — 564w
+- 2016-05-24 — [My Idea of Fun, by Will Self](https://caterina.net/2016/05/24/my-idea-of-fun-by-will-self/) — `2016-05-24-2016-05-24-my-idea-of-fun-by-will-self.md` — 350w
+- 2016-05-23 — [Monday’s List](https://caterina.net/2016/05/23/mondays-list/) — `2016-05-23-2016-05-23-mondays-list.md` — 151w
+- 2016-04-04 — [Greetings from Utopia Park](https://caterina.net/2016/04/04/greetings-from-utopia-park/) — `2016-04-04-2016-04-04-greetings-from-utopia-park.md` — 518w
+- 2016-03-31 — [Smart people are happier with fewer friends](https://caterina.net/2016/03/30/smart-people-are-happier-with-fewer-friends/) — `2016-03-31-2016-03-30-smart-people-are-happier-with-fewer-friends.md` — 142w
+- 2016-03-30 — [The perceived value of the work declines when a woman does it](https://caterina.net/2016/03/29/the-perceived-value-of-the-work-declines-when-a-woman-does-it/) — `2016-03-30-2016-03-29-the-perceived-value-of-the-work-declines-when-a-woman-does-it.md` — 157w
 - 2016-03-22 — [Comments Sections: A Clarification](https://caterina.net/2016/03/22/comments-sections-a-clarification/) — `2016-03-22-2016-03-22-comments-sections-a-clarification.md` — 356w
+- 2016-03-15 — [Bloom’s Taxonomy of Cognitive Processes](https://caterina.net/2016/03/15/blooms-taxonomy/) — `2016-03-15-2016-03-15-blooms-taxonomy.md` — 240w
+- 2016-02-29 — [n+1 article: Yarmouk Miniatures](https://caterina.net/2016/02/28/n1-article-yarmouk-miniatures/) — `2016-02-29-2016-02-28-n1-article-yarmouk-miniatures.md` — 664w
+- 2016-02-18 — [Teachers dislike creative children](https://caterina.net/2016/02/18/teachers-dislike-creative-children/) — `2016-02-18-2016-02-18-teachers-dislike-creative-children.md` — 267w
+- 2016-02-12 — [Eileen Myles, an interview and a poem](https://caterina.net/2016/02/11/eileen-myles-an-interview-and-a-poem/) — `2016-02-12-2016-02-11-eileen-myles-an-interview-and-a-poem.md` — 1070w
+- 2016-02-10 — [Doubt in Buddhism](https://caterina.net/2016/02/09/doubt-in-buddhism/) — `2016-02-10-2016-02-09-doubt-in-buddhism.md` — 158w
+- 2016-02-04 — [Ellen Cantor at the Wattis](https://caterina.net/2016/02/04/ellen-cantor-at-the-wattis/) — `2016-02-04-2016-02-04-ellen-cantor-at-the-wattis.md` — 312w
+- 2015-12-18 — [Sundance in Havana](https://caterina.net/2015/12/17/sundance-in-havana/) — `2015-12-18-2015-12-17-sundance-in-havana.md` — 245w
+- 2015-08-29 — [Designing a better umbrella](https://caterina.net/2015/08/29/designing-a-better-umbrella/) — `2015-08-29-2015-08-29-designing-a-better-umbrella.md` — 127w
+- 2015-07-21 — [Truisms, 1979](https://caterina.net/2015/07/21/jenny-holzers-truisms-1979-1983/) — `2015-07-21-2015-07-21-jenny-holzers-truisms-1979-1983.md` — 2008w
+- 2015-06-14 — [920 O’Farrell Street](https://caterina.net/2015/06/14/920-ofarrell-street/) — `2015-06-14-2015-06-14-920-ofarrell-street.md` — 325w
+- 2015-05-27 — [Alice Neel and the Rat Race](https://caterina.net/2015/05/27/alice-neel-and-the-rat-race/) — `2015-05-27-2015-05-27-alice-neel-and-the-rat-race.md` — 152w
+- 2015-05-20 — [U.S. Congress Takes a Momentous Stand Against Human Trafficking](https://caterina.net/2015/05/20/u-s-congress-takes-a-momentous-stand-against-human-trafficking/) — `2015-05-20-2015-05-20-u-s-congress-takes-a-momentous-stand-against-human-trafficking.md` — 354w
 - 2015-02-06 — [Social Peacocking and the Shadow](https://caterina.net/2015/02/05/social-peacocking-and-the-shadow/) — `2015-02-06-2015-02-05-social-peacocking-and-the-shadow.md` — 593w
+- 2015-02-04 — [Sesat School in Wired](https://caterina.net/2015/02/04/sesat-school-in-wired/) — `2015-02-04-2015-02-04-sesat-school-in-wired.md` — 421w
+- 2014-12-12 — [The Pace Layers of Civilization](https://caterina.net/2014/12/11/the-pace-layers-of-culture/) — `2014-12-12-2014-12-11-the-pace-layers-of-culture.md` — 536w
+- 2014-11-25 — [Ursula LeGuin on Resistance and Change](https://caterina.net/2014/11/25/ursula-leguin-on-resistance-and-change/) — `2014-11-25-2014-11-25-ursula-leguin-on-resistance-and-change.md` — 214w
+- 2014-09-12 — [Links to Things I Like](https://caterina.net/2014/09/12/links-to-things-i-agree-with/) — `2014-09-12-2014-09-12-links-to-things-i-agree-with.md` — 171w
+- 2014-09-11 — [Memorization, Facts and Learning to Learn](https://caterina.net/2014/09/10/memorization-facts-and-learning-to-learn/) — `2014-09-11-2014-09-10-memorization-facts-and-learning-to-learn.md` — 235w
+- 2014-08-31 — [Startups as a Second Language](https://caterina.net/2014/08/31/startups-as-a-second-language/) — `2014-08-31-2014-08-31-startups-as-a-second-language.md` — 181w
+- 2014-07-20 — [Pulmonary Embolism & Advanced Directives](https://caterina.net/2014/07/20/pulmonary-embolism-advanced-directives/) — `2014-07-20-2014-07-20-pulmonary-embolism-advanced-directives.md` — 242w
+- 2014-07-20 — [Priya Haji, 1970](https://caterina.net/2014/07/20/priya-haji-1970-2014/) — `2014-07-20-2014-07-20-priya-haji-1970-2014.md` — 198w
+- 2014-07-09 — [The Child and the Shadow](https://caterina.net/2014/07/09/the-child-and-the-shadow/) — `2014-07-09-2014-07-09-the-child-and-the-shadow.md` — 400w
+- 2014-07-02 — [Mingle with Road Crews](https://caterina.net/2014/07/02/mingle-with-road-crews/) — `2014-07-02-2014-07-02-mingle-with-road-crews.md` — 128w
+- 2014-06-17 — [Morality, Disgust and Political Parties](https://caterina.net/2014/06/16/morality_disgust/) — `2014-06-17-2014-06-16-morality_disgust.md` — 152w
+- 2014-06-17 — [A Directory of Findery Notemaps (German Cities, Philadelphia, Toronto)](https://caterina.net/2014/06/16/findery-notemap-directory/) — `2014-06-17-2014-06-16-findery-notemap-directory.md` — 141w
+- 2014-05-12 — [Three Great Findery Notemaps](https://caterina.net/2014/05/12/three-great-findery-notemaps/) — `2014-05-12-2014-05-12-three-great-findery-notemaps.md` — 128w
+- 2014-03-15 — [Isolation and the Homestead Act](https://caterina.net/2014/03/15/isolation_homestead_act/) — `2014-03-15-2014-03-15-isolation_homestead_act.md` — 171w
 - 2014-01-10 — [Parenting, Communities and Crime](https://caterina.net/2014/01/09/parenting-communities-and-crime/) — `2014-01-10-2014-01-09-parenting-communities-and-crime.md` — 523w
+- 2014-01-07 — [The Blue House, by Tomas Transtromer](https://caterina.net/2014/01/07/the-blue-house-by-tomas-transtromer/) — `2014-01-07-2014-01-07-the-blue-house-by-tomas-transtromer.md` — 345w
+- 2013-11-27 — [Sitting Shiva for Stan, and Shared Memories](https://caterina.net/2013/11/27/sharedmemories/) — `2013-11-27-2013-11-27-sharedmemories.md` — 488w
+- 2013-10-15 — [Changing “the only game that exists”](https://caterina.net/2013/10/14/changing-the-only-game-that-exists/) — `2013-10-15-2013-10-14-changing-the-only-game-that-exists.md` — 184w
+- 2013-09-13 — [How the World will End: Possibilities](https://caterina.net/2013/09/12/how-the-world-will-end-possibilities/) — `2013-09-13-2013-09-12-how-the-world-will-end-possibilities.md` — 227w
+- 2013-07-25 — [Senseless Kindness](https://caterina.net/2013/07/25/senseless-kindness/) — `2013-07-25-2013-07-25-senseless-kindness.md` — 162w
 - 2013-07-25 — [Online communities](https://caterina.net/2013/07/24/online-communities/) — `2013-07-25-2013-07-24-online-communities.md` — 918w
 - 2013-06-29 — [Human rights begin in small places](https://caterina.net/2013/06/29/humanrights/) — `2013-06-29-2013-06-29-humanrights.md` — 132w
+- 2013-05-25 — [Pop](https://caterina.net/2013/05/25/pop-up-magazine-commencement/) — `2013-05-25-2013-05-25-pop-up-magazine-commencement.md` — 274w
+- 2013-05-14 — [Scrapbook](https://caterina.net/2013/05/14/scrapbook/) — `2013-05-14-2013-05-14-scrapbook.md` — 299w
+- 2013-04-29 — [Proust on Newspapers](https://caterina.net/2013/04/29/proust-on-newspapers/) — `2013-04-29-2013-04-29-proust-on-newspapers.md` — 130w
+- 2013-04-04 — [Jack Gilbert and H.D.](https://caterina.net/2013/04/04/jack-gilbert-and-h-d/) — `2013-04-04-2013-04-04-jack-gilbert-and-h-d.md` — 356w
+- 2013-03-08 — [NCWIT Award](https://caterina.net/2013/03/08/ncwit-award/) — `2013-03-08-2013-03-08-ncwit-award.md` — 342w
+- 2013-02-12 — [Doping, Adderall and The Meritocracy](https://caterina.net/2013/02/12/doping-adderall-and-the-meritocracy/) — `2013-02-12-2013-02-12-doping-adderall-and-the-meritocracy.md` — 516w
+- 2013-01-31 — [Conversation in a cab in San Francisco](https://caterina.net/2013/01/31/conversation-in-a-cab-in-san-francisco/) — `2013-01-31-2013-01-31-conversation-in-a-cab-in-san-francisco.md` — 168w
+- 2013-01-24 — [Dance, animation, Ron Popeil](https://caterina.net/2013/01/24/dance-animation-ron-popeil/) — `2013-01-24-2013-01-24-dance-animation-ron-popeil.md` — 325w
+- 2013-01-15 — [Ukulele, Tune](https://caterina.net/2013/01/14/315/) — `2013-01-15-2013-01-14-315.md` — 567w
+- 2013-01-07 — [Learning about the World](https://caterina.net/2013/01/07/learning-about-the-world/) — `2013-01-07-2013-01-07-learning-about-the-world.md` — 456w
+- 2012-09-29 — [Our memories are what make us – Kathleen Dean Moore](https://caterina.net/2012/09/29/our-memories-are-what-make-us-kathleen-dean-moore/) — `2012-09-29-2012-09-29-our-memories-are-what-make-us-kathleen-dean-moore.md` — 315w
+- 2012-09-06 — [Seam Allowance](https://caterina.net/2012/09/05/seam-allowance/) — `2012-09-06-2012-09-05-seam-allowance.md` — 285w
+- 2012-09-06 — [How to be Free: Proustian Memory and The Palest Ink](https://caterina.net/2012/09/05/how-to-be-free-proustian-memory-and-the-palest-ink/) — `2012-09-06-2012-09-05-how-to-be-free-proustian-memory-and-the-palest-ink.md` — 1590w
+- 2012-08-22 — [The Story Cabinet](https://caterina.net/2012/08/22/the-story-cabinet/) — `2012-08-22-2012-08-22-the-story-cabinet.md` — 143w
+- 2012-08-12 — [Wendell Berry, letter to the editor](https://caterina.net/2012/08/11/wendell-berry-letter-to-the-editor/) — `2012-08-12-2012-08-11-wendell-berry-letter-to-the-editor.md` — 212w
 - 2012-08-12 — [11 year old boys make a neighborhood](https://caterina.net/2012/08/11/in-the-january/) — `2012-08-12-2012-08-11-in-the-january.md` — 206w
+- 2012-07-02 — [Ezra Pound Interview, 1962](https://caterina.net/2012/07/02/the-what-is-so/) — `2012-07-02-2012-07-02-the-what-is-so.md` — 211w
+- 2012-05-23 — [Benjamin Barber on Cities](https://caterina.net/2012/05/23/benjamin-barber-on-cities/) — `2012-05-23-2012-05-23-benjamin-barber-on-cities.md` — 140w
+- 2012-03-14 — [On Coetzee's Diary of a Bad Year](https://caterina.net/2012/03/13/on-coetzees-diary-of-a-bad-year/) — `2012-03-14-2012-03-13-on-coetzees-diary-of-a-bad-year.md` — 185w
 - 2012-03-12 — [The masters of information have forgotten about poetry](https://caterina.net/2012/03/12/the-masters-of-information-have-forgotten-about-poetry/) — `2012-03-12-2012-03-12-the-masters-of-information-have-forgotten-about-poetry.md` — 121w
+- 2012-02-21 — [Test](https://caterina.net/2012/02/20/test-taking-at-school/) — `2012-02-21-2012-02-20-test-taking-at-school.md` — 335w
+- 2012-02-16 — [Pinwheel! In Private Beta](https://caterina.net/2012/02/16/pinwheel-in-private-beta/) — `2012-02-16-2012-02-16-pinwheel-in-private-beta.md` — 581w
+- 2012-02-10 — [Justice, and the Problem with the Bill of Rights](https://caterina.net/2012/02/10/justice-and-the-problem-with-the-bill-of-rights/) — `2012-02-10-2012-02-10-justice-and-the-problem-with-the-bill-of-rights.md` — 312w
+- 2012-01-18 — [Notes from Monoculture](https://caterina.net/2012/01/17/notes-from-monoculture/) — `2012-01-18-2012-01-17-notes-from-monoculture.md` — 954w
 - 2012-01-06 — [Unconscious Schizophrenia in modern business leaders](https://caterina.net/2012/01/05/unconscious-schizophrenia-in-modern-business-leaders/) — `2012-01-06-2012-01-05-unconscious-schizophrenia-in-modern-business-leaders.md` — 297w
+- 2012-01-06 — [Engineers without borders, and the Monoculture](https://caterina.net/2012/01/05/engineers-with-out-borders-and-the-monoculture/) — `2012-01-06-2012-01-05-engineers-with-out-borders-and-the-monoculture.md` — 320w
+- 2011-12-28 — [Zugzwang](https://caterina.net/2011/12/28/zugzwang/) — `2011-12-28-2011-12-28-zugzwang.md` — 217w
+- 2011-10-18 — [Killing the Abraham](https://caterina.net/2011/10/18/killing-the-abraham/) — `2011-10-18-2011-10-18-killing-the-abraham.md` — 1018w
+- 2011-09-05 — [Naturalist, 13, studies fibonacci sequence in trees](https://caterina.net/2011/09/05/naturalist-13-studies-fibonacci-sequence-in-trees/) — `2011-09-05-2011-09-05-naturalist-13-studies-fibonacci-sequence-in-trees.md` — 277w
+- 2011-09-03 — [Make things](https://caterina.net/2011/09/03/noise-inspiration-and-making-things/) — `2011-09-03-2011-09-03-noise-inspiration-and-making-things.md` — 549w
+- 2011-08-08 — [Huston Smith on Confucian Ideals](https://caterina.net/2011/08/07/huston-smith-on-confucian-ideals/) — `2011-08-08-2011-08-07-huston-smith-on-confucian-ideals.md` — 379w
+- 2011-08-04 — [Congratulations Instructables!](https://caterina.net/2011/08/04/congratulations-instructables/) — `2011-08-04-2011-08-04-congratulations-instructables.md` — 233w
+- 2011-07-31 — [Why the Republican candidates are so strange](https://caterina.net/2011/07/31/why-the-republican-candidates-are-so-strange/) — `2011-07-31-2011-07-31-why-the-republican-candidates-are-so-strange.md` — 129w
 - 2011-07-26 — [Anonymity and Pseudonyms in Social Software](https://caterina.net/2011/07/26/anonymity-and-the-use-of-pseudonyms-in-social-software/) — `2011-07-26-2011-07-26-anonymity-and-the-use-of-pseudonyms-in-social-software.md` — 900w
+- 2011-07-08 — [Nat Torkington on Google+](https://caterina.net/2011/07/08/nat-torkington-on-google/) — `2011-07-08-2011-07-08-nat-torkington-on-google.md` — 198w
+- 2011-06-20 — [New Startup!](https://caterina.net/2011/06/20/new-startup/) — `2011-06-20-2011-06-20-new-startup.md` — 296w
+- 2011-05-31 — [Nicholas Kristof on rescuing children from brothels](https://caterina.net/2011/05/31/nicholas-kristof-on-rescuing-children-from-brothels/) — `2011-05-31-2011-05-31-nicholas-kristof-on-rescuing-children-from-brothels.md` — 360w
 - 2011-05-16 — [Creativity, Collaboration and Hacking](https://caterina.net/2011/05/16/creativity-collaboration-and-hacking/) — `2011-05-16-2011-05-16-creativity-collaboration-and-hacking.md` — 673w
+- 2011-03-23 — [The Truth About Zombies](https://caterina.net/2011/03/23/the-truth-about-zombies/) — `2011-03-23-2011-03-23-the-truth-about-zombies.md` — 143w
 - 2011-03-15 — [FOMO and Social Media](https://caterina.net/2011/03/15/fomo-and-social-media/) — `2011-03-15-2011-03-15-fomo-and-social-media.md` — 524w
+- 2011-02-18 — [A WORD ON STATISTICS by Wislawa Szymborska](https://caterina.net/2011/02/18/a-word-on-statistics-by-wislawa-szymborska/) — `2011-02-18-2011-02-18-a-word-on-statistics-by-wislawa-szymborska.md` — 204w
+- 2011-01-14 — [Technology is both constructive and destructive](https://caterina.net/2011/01/14/59/) — `2011-01-14-2011-01-14-59.md` — 196w
 - 2011-01-02 — [Tinkering as Learning](https://caterina.net/2011/01/02/tinkering-as-learning/) — `2011-01-02-2011-01-02-tinkering-as-learning.md` — 247w
+- 2010-12-29 — [Mark Mothersbaugh meets Richard Branson](https://caterina.net/2010/12/29/mike-mothersbaugh-meets-richard-branson/) — `2010-12-29-2010-12-29-mike-mothersbaugh-meets-richard-branson.md` — 373w
+- 2010-12-23 — [Cheating vs. Learning](https://caterina.net/2010/12/23/cheating-and-ucf-video/) — `2010-12-23-2010-12-23-cheating-and-ucf-video.md` — 424w
+- 2010-12-21 — [Wikileaks and Free at the New Museum](https://caterina.net/2010/12/21/wikileaks-and-free-at-the-new-museum/) — `2010-12-21-2010-12-21-wikileaks-and-free-at-the-new-museum.md` — 597w
+- 2010-12-10 — [Hollis Frampton's Friend's Dream](https://caterina.net/2010/12/10/hollis-framptons-friends-dream/) — `2010-12-10-2010-12-10-hollis-framptons-friends-dream.md` — 611w
+- 2010-12-09 — [Notes from Dumbing Us Down by John Taylor Gatto](https://caterina.net/2010/12/09/notes-from-dumbing-us-down-by-john-taylor-gatto/) — `2010-12-09-2010-12-09-notes-from-dumbing-us-down-by-john-taylor-gatto.md` — 1385w
+- 2010-11-19 — [LinkedInâ€™s Pace is Just Fine](https://caterina.net/2010/11/19/linkedins-pace-is-just-fine/) — `2010-11-19-2010-11-19-linkedins-pace-is-just-fine.md` — 314w
+- 2010-10-31 — [Art criticism](https://caterina.net/2010/10/31/24/) — `2010-10-31-2010-10-31-24.md` — 121w
+- 2010-10-27 — [Vacations are good](https://caterina.net/2010/10/27/vacations-are-good/) — `2010-10-27-2010-10-27-vacations-are-good.md` — 312w
+- 2010-09-16 — [Dramatic overhaul vs. gradual changes](https://caterina.net/2010/09/16/dramatic-overhaul-vs-gradual-changes/) — `2010-09-16-2010-09-16-dramatic-overhaul-vs-gradual-changes.md` — 197w
+- 2010-08-16 — [Friendship & other relationships](https://caterina.net/2010/08/16/friendship-other-relationships/) — `2010-08-16-2010-08-16-friendship-other-relationships.md` — 287w
+- 2010-08-15 — [Reinstall of blog software (Crossing Fingers)](https://caterina.net/2010/08/15/hello-world/) — `2010-08-15-2010-08-15-hello-world.md` — 191w
 - 2010-08-15 — [Individualism, infantilism](https://caterina.net/2010/08/15/individualism-infantilism/) — `2010-08-15-2010-08-15-individualism-infantilism.md` — 131w
+- 2010-08-15 — [Abraham Lincoln by Woodrow Wilson](https://caterina.net/2010/08/15/abraham-lincoln-by-woodrow-wilson/) — `2010-08-15-2010-08-15-abraham-lincoln-by-woodrow-wilson.md` — 175w

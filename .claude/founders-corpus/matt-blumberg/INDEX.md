@@ -1,65 +1,893 @@
 # Matt Blumberg corpus index
 
-Source: https://startupceo.com — fetched 2026-07-19
-60 posts, 17437 words. Format: date — [title](canonical url) — `file` — words.
+Source: https://startupceo.com — fetched 2026-07-20
+888 posts, 397332 words. Format: date — [title](canonical url) — `file` — words.
 
-- 2006-06-08 — [Counter Cliche: But It's Ok If Some of Them Turn Out to Be Frogs](https://startupceo.com/2006/06/counter_cliche_-3) — `2006-06-08-2006-06-counter_cliche_-3.md` — 186w
+- 2026-07-09 — [When is it time to fire an executive?](https://startupceo.com/2026/07/when-is-it-time-to-fire-an-executive) — `2026-07-09-2026-07-when-is-it-time-to-fire-an-executive.md` — 625w
+- 2026-07-05 — [July 4, 2026, Post III: Launching Bedrock.guide, a new civic identity and action platform for independent-minded citizens](https://startupceo.com/2026/07/july-4-2026-post-iii-launching-bedrock-guide-a-new-civic-identity-and-action-platform-for-independent-minded-citizens) — `2026-07-05-2026-07-july-4-2026-post-iii-launching-bedrock-guide-a-new-civic-identity-and-ac.md` — 803w
+- 2026-07-04 — [July 4, 2026, Post II: A Roadmap to Fix America’s Political System…15 Years Later](https://startupceo.com/2026/07/july-4-2026-post-ii-a-roadmap-to-fix-americas-political-system-15-years-later) — `2026-07-04-2026-07-july-4-2026-post-ii-a-roadmap-to-fix-americas-political-system-15-years-.md` — 2845w
+- 2026-07-03 — [July 4, 2026, Post I: Country Over Self redux](https://startupceo.com/2026/07/july-4-2026-post-i-country-over-self-redux) — `2026-07-03-2026-07-july-4-2026-post-i-country-over-self-redux.md` — 496w
+- 2026-06-23 — [Markup AI launch – TODAY!](https://startupceo.com/2026/06/markup-ai-launch-today) — `2026-06-23-2026-06-markup-ai-launch-today.md` — 261w
+- 2026-06-16 — [Chatting with my DNA – a fascinating personal use case and a deep rabbit hole](https://startupceo.com/2026/06/chatting-with-my-dna-a-fascinating-personal-use-case-and-a-deep-rabbit-hole) — `2026-06-16-2026-06-chatting-with-my-dna-a-fascinating-personal-use-case-and-a-deep-rabbit-h.md` — 910w
+- 2026-06-08 — [Don’t Start a Forest Fire to Roast a Marshmallow (literally or figuratively with AI)](https://startupceo.com/2026/06/dont-start-a-forest-fire-to-roast-a-marshmallow-literally-or-figuratively-with-ai) — `2026-06-08-2026-06-dont-start-a-forest-fire-to-roast-a-marshmallow-literally-or-figurativel.md` — 297w
+- 2026-06-04 — [AI Isn’t Hard. You Just Need a Cheat Sheet.](https://startupceo.com/2026/06/ai-isnt-hard-you-just-need-a-cheat-sheet) — `2026-06-04-2026-06-ai-isnt-hard-you-just-need-a-cheat-sheet.md` — 907w
+- 2026-05-29 — [Book Short: Incorruptible, right and timely and inspiring and depressing all at the same time](https://startupceo.com/2026/05/book-short-incorruptible-right-and-timely-and-inspiring-and-depressing-all-at-the-same-time) — `2026-05-29-2026-05-book-short-incorruptible-right-and-timely-and-inspiring-and-depressing-a.md` — 753w
+- 2026-05-13 — [Fantasy Board: My Second Agent](https://startupceo.com/2026/05/fantasy-board-my-second-agent) — `2026-05-13-2026-05-fantasy-board-my-second-agent.md` — 978w
+- 2026-05-05 — [Claude and Henry Kissinger, aka, Is This Your Best Work?](https://startupceo.com/2026/05/claude-and-henry-kissinger-aka-is-this-your-best-work) — `2026-05-05-2026-05-claude-and-henry-kissinger-aka-is-this-your-best-work.md` — 569w
+- 2026-04-28 — [Public markets haven’t figured out how to bake in AI productivity gains](https://startupceo.com/2026/04/public-markets-havent-figured-out-how-to-bake-in-ai-productivity-gains) — `2026-04-28-2026-04-public-markets-havent-figured-out-how-to-bake-in-ai-productivity-gains.md` — 762w
+- 2026-04-22 — [SaaS Is In Even More Trouble Than The Hype Would Have You Believe](https://startupceo.com/2026/04/saas-is-in-even-more-trouble-than-the-hype-would-have-you-believe) — `2026-04-22-2026-04-saas-is-in-even-more-trouble-than-the-hype-would-have-you-believe.md` — 949w
+- 2026-04-19 — [AI Shortcut: How to Collaborate on Claude Projects Without a Teams or Enterprise License](https://startupceo.com/2026/04/ai-shortcut-how-to-collaborate-on-claude-projects-without-a-teams-or-enterprise-license) — `2026-04-19-2026-04-ai-shortcut-how-to-collaborate-on-claude-projects-without-a-teams-or-ent.md` — 989w
+- 2026-04-14 — [Curated Reading on AI](https://startupceo.com/2026/04/curated-reading-on-ai) — `2026-04-14-2026-04-curated-reading-on-ai.md` — 669w
+- 2026-04-09 — [AI won’t necessarily take your job, but someone who uses it will](https://startupceo.com/2026/04/ai-wont-necessarily-take-your-job-but-someone-who-uses-it-will) — `2026-04-09-2026-04-ai-wont-necessarily-take-your-job-but-someone-who-uses-it-will.md` — 959w
+- 2026-03-31 — [MattBot: My First Agent](https://startupceo.com/2026/03/mattbot-my-first-agent) — `2026-03-31-2026-03-mattbot-my-first-agent.md` — 817w
+- 2026-03-26 — [Meet Chatgipity: a Unified AI Platform for Our Company](https://startupceo.com/2026/03/meet-chatgipity-a-unified-ai-platform-for-our-company) — `2026-03-26-2026-03-meet-chatgipity-a-unified-ai-platform-for-our-company.md` — 757w
+- 2026-03-23 — [Why I am Writing About AI (and Why It’s Not Just About My Company)](https://startupceo.com/2026/03/why-i-am-writing-about-ai-and-why-its-not-just-about-my-company) — `2026-03-23-2026-03-why-i-am-writing-about-ai-and-why-its-not-just-about-my-company.md` — 645w
+- 2026-02-24 — [HBR article: Preparing Your Brand for Agentic AI](https://startupceo.com/2026/02/hbr-article-preparing-your-brand-for-agentic-ai) — `2026-02-24-2026-02-hbr-article-preparing-your-brand-for-agentic-ai.md` — 241w
+- 2025-09-17 — [Why AI Content Needs a Guardian: Introducing Markup AI](https://startupceo.com/2025/09/why-ai-content-needs-a-guardian-introducing-markup-ai) — `2025-09-17-2025-09-why-ai-content-needs-a-guardian-introducing-markup-ai.md` — 810w
+- 2025-05-09 — [Announcing the launch of the Startup CXO mini-books for CFOs, CROs, CMOs, CTOs, and CPOs](https://startupceo.com/2025/05/announcing-the-launch-of-the-startup-cxo-mini-books-for-cfos-cros-cmos-ctos-and-cpos) — `2025-05-09-2025-05-announcing-the-launch-of-the-startup-cxo-mini-books-for-cfos-cros-cmos-c.md` — 600w
+- 2025-02-16 — [Why Executive Searches are So Slow, and What You Can Do About That as a Candidate](https://startupceo.com/2025/02/why-executive-searches-are-so-slow-and-what-you-can-do-about-that-as-a-candidate) — `2025-02-16-2025-02-why-executive-searches-are-so-slow-and-what-you-can-do-about-that-as-a-c.md` — 1050w
+- 2024-10-11 — [New Podcast – Something Old, Something New, Something Red, White, and Blue](https://startupceo.com/2024/10/new-podcast-something-old-something-new-something-red-white-and-blue) — `2024-10-11-2024-10-new-podcast-something-old-something-new-something-red-white-and-blue.md` — 376w
+- 2024-04-23 — [Good riddance to non-competes](https://startupceo.com/2024/04/good-riddance-to-non-competes) — `2024-04-23-2024-04-good-riddance-to-non-competes.md` — 440w
+- 2024-02-29 — [Decisions](https://startupceo.com/2024/02/decisions) — `2024-02-29-2024-02-decisions.md` — 406w
+- 2024-02-15 — [Book Short:  Less is More](https://startupceo.com/2024/02/book-short-less-is-more) — `2024-02-15-2024-02-book-short-less-is-more.md` — 317w
+- 2024-02-08 — [How I Engage with the CBDO](https://startupceo.com/2024/02/how-i-engage-with-the-cbdo) — `2024-02-08-2024-02-how-i-engage-with-the-cbdo.md` — 447w
+- 2024-02-01 — [The Dowry](https://startupceo.com/2024/02/title) — `2024-02-01-2024-02-title.md` — 212w
+- 2024-01-25 — [Signs your CBDO isn’t scaling](https://startupceo.com/2024/01/signs-your-cbdo-isnt-scaling) — `2024-01-25-2024-01-signs-your-cbdo-isnt-scaling.md` — 467w
+- 2024-01-18 — [Fighting Confirmation Bias](https://startupceo.com/2024/01/fighting-confirmation-bias) — `2024-01-18-2024-01-fighting-confirmation-bias.md` — 300w
+- 2024-01-11 — [What Does Great Look Like in a Chief Business Development Officer?](https://startupceo.com/2024/01/what-does-great-look-like-in-a-chief-business-development-officer) — `2024-01-11-2024-01-what-does-great-look-like-in-a-chief-business-development-officer.md` — 400w
+- 2024-01-04 — [Family vs. Team?](https://startupceo.com/2024/01/family-vs-team) — `2024-01-04-2024-01-family-vs-team.md` — 532w
+- 2023-12-21 — [When it’s Time to Hire Your First Chief Business Development Officer](https://startupceo.com/2023/12/when-its-time-to-hire-your-first-chief-business-development-officer) — `2023-12-21-2023-12-when-its-time-to-hire-your-first-chief-business-development-officer.md` — 521w
+- 2023-12-14 — [Camera On, Mic On](https://startupceo.com/2023/12/camera-on-mic-on) — `2023-12-14-2023-12-camera-on-mic-on.md` — 264w
+- 2023-12-07 — [You’ve Seen One, You’ve Seen One](https://startupceo.com/2023/12/youve-seen-one-youve-seen-one) — `2023-12-07-2023-12-youve-seen-one-youve-seen-one.md` — 462w
+- 2023-11-30 — [Why we use inferior software products](https://startupceo.com/2023/11/why-we-use-inferior-software-products) — `2023-11-30-2023-11-why-we-use-inferior-software-products.md` — 478w
+- 2023-11-16 — [Should CEOs wade into Politics, Part III (From Tim Porthouse)](https://startupceo.com/2023/11/should-ceos-wade-into-politics-part-iii-from-tim-porthouse) — `2023-11-16-2023-11-should-ceos-wade-into-politics-part-iii-from-tim-porthouse.md` — 635w
+- 2023-11-09 — [Everything vs. Anything](https://startupceo.com/2023/11/everything-vs-anything) — `2023-11-09-2023-11-everything-vs-anything.md` — 327w
+- 2023-11-02 — [Measure Twice, Cut Once](https://startupceo.com/2023/11/measure-twice-cut-once) — `2023-11-02-2023-11-measure-twice-cut-once.md` — 373w
+- 2023-10-26 — [When All You’re Holding is a Hammer, Everything Looks Like a Nail](https://startupceo.com/2023/10/when-all-youre-holding-is-a-hammer-everything-looks-like-a-nail) — `2023-10-26-2023-10-when-all-youre-holding-is-a-hammer-everything-looks-like-a-nail.md` — 347w
+- 2023-10-19 — [You Don’t Need a CRO](https://startupceo.com/2023/10/you-dont-need-a-cro) — `2023-10-19-2023-10-you-dont-need-a-cro.md` — 390w
+- 2023-10-12 — [Chief People Officer Pitfall for Later Stage CEOs](https://startupceo.com/2023/10/chief-people-officer-pitfall-for-later-stage-ceos) — `2023-10-12-2023-10-chief-people-officer-pitfall-for-later-stage-ceos.md` — 323w
+- 2023-10-05 — [Scaling Tip:  Spend Less Time Talking.  And Spend More Time Talking](https://startupceo.com/2023/10/scaling-tip-spend-less-time-talking-and-spend-more-time-talking) — `2023-10-05-2023-10-scaling-tip-spend-less-time-talking-and-spend-more-time-talking.md` — 382w
+- 2023-09-28 — [How I Engage With The Chief People Officer](https://startupceo.com/2023/09/how-i-engage-with-the-chief-people-officer) — `2023-09-28-2023-09-how-i-engage-with-the-chief-people-officer.md` — 760w
+- 2023-09-21 — [Why Have a COO?](https://startupceo.com/2023/09/why-have-a-coo) — `2023-09-21-2023-09-why-have-a-coo.md` — 544w
+- 2023-09-14 — [Signs Your Chief People Officer Isn’t Scaling](https://startupceo.com/2023/09/signs-your-chief-people-officer-isnt-scaling) — `2023-09-14-2023-09-signs-your-chief-people-officer-isnt-scaling.md` — 570w
+- 2023-09-07 — [Onboarding Executives](https://startupceo.com/2023/09/onboarding-executives) — `2023-09-07-2023-09-onboarding-executives.md` — 578w
+- 2023-08-24 — [What Does Great Look Like in a Chief People Officer?](https://startupceo.com/2023/08/what-does-great-look-like-in-a-chief-people-officer) — `2023-08-24-2023-08-what-does-great-look-like-in-a-chief-people-officer.md` — 596w
+- 2023-08-10 — [Should CEOs Wade Into Politics, Part II](https://startupceo.com/2023/08/should-ceos-wade-into-politics-part-ii) — `2023-08-10-2023-08-should-ceos-wade-into-politics-part-ii.md` — 399w
+- 2023-08-03 — [When to Hire Your First Chief People Officer](https://startupceo.com/2023/08/when-to-hire-your-first-chief-people-officer) — `2023-08-03-2023-08-when-to-hire-your-first-chief-people-officer.md` — 683w
+- 2023-07-27 — [My Favorite Interview Question](https://startupceo.com/2023/07/my-favorite-interview-question) — `2023-07-27-2023-07-my-favorite-interview-question.md` — 213w
+- 2023-07-20 — [Formula for Strategic Leadership](https://startupceo.com/2023/07/formula-for-strategic-leadership) — `2023-07-20-2023-07-formula-for-strategic-leadership.md` — 490w
+- 2023-07-13 — [Book Short:  The Subtle Art of Not Giving a F*ck](https://startupceo.com/2023/07/book-short-the-subtle-art-of-not-giving-a-fck) — `2023-07-13-2023-07-book-short-the-subtle-art-of-not-giving-a-fck.md` — 209w
+- 2023-06-29 — [Imposter Syndrome and Founders](https://startupceo.com/2023/06/imposter-syndrome-and-founders) — `2023-06-29-2023-06-imposter-syndrome-and-founders.md` — 259w
+- 2023-06-22 — [How I engage with the Chief Privacy Officer](https://startupceo.com/2023/06/how-i-engage-with-the-chief-privacy-officer) — `2023-06-22-2023-06-how-i-engage-with-the-chief-privacy-officer.md` — 524w
+- 2023-06-15 — [Learning Loops](https://startupceo.com/2023/06/learning-loops) — `2023-06-15-2023-06-learning-loops.md` — 401w
+- 2023-06-08 — [Signs your Chief Privacy Officer isn’t Scaling](https://startupceo.com/2023/06/signs-your-chief-privacy-officer-isnt-scaling) — `2023-06-08-2023-06-signs-your-chief-privacy-officer-isnt-scaling.md` — 385w
+- 2023-06-01 — [The Ladder of Inference](https://startupceo.com/2023/06/the-ladder-of-inference) — `2023-06-01-2023-06-the-ladder-of-inference.md` — 272w
+- 2023-05-25 — [Book Short:  Boards That Lead](https://startupceo.com/2023/05/book-short-boards-that-lead) — `2023-05-25-2023-05-book-short-boards-that-lead.md` — 366w
+- 2023-05-18 — [What Does Great look Like in a Chief Privacy Officer?](https://startupceo.com/2023/05/what-does-great-look-like-in-a-chief-privacy-officer) — `2023-05-18-2023-05-what-does-great-look-like-in-a-chief-privacy-officer.md` — 388w
+- 2023-05-11 — [Inquiry vs. Advocacy](https://startupceo.com/2023/05/inquiry-vs-advocacy) — `2023-05-11-2023-05-inquiry-vs-advocacy.md` — 470w
+- 2023-05-04 — [When to Hire a Chief Privacy Officer](https://startupceo.com/2023/05/when-to-hire-a-chief-privacy-officer) — `2023-05-04-2023-05-when-to-hire-a-chief-privacy-officer.md` — 470w
+- 2023-04-27 — [Bring People Along for The Ride, Part II of II](https://startupceo.com/2023/04/bring-people-along-for-the-ride-part-ii-of-ii) — `2023-04-27-2023-04-bring-people-along-for-the-ride-part-ii-of-ii.md` — 663w
+- 2023-04-20 — [Bring People Along for The Ride, Part I of II](https://startupceo.com/2023/04/bring-people-along-for-the-ride-part-i-of-ii) — `2023-04-20-2023-04-bring-people-along-for-the-ride-part-i-of-ii.md` — 402w
+- 2023-04-12 — [Daily Bolster Weeks 1 and 2 recap](https://startupceo.com/2023/04/daily-bolster-weeks-1-and-2-recap) — `2023-04-12-2023-04-daily-bolster-weeks-1-and-2-recap.md` — 1005w
+- 2023-04-06 — [Collecting Feedback from Your Board](https://startupceo.com/2023/04/collecting-feedback-from-your-board) — `2023-04-06-2023-04-collecting-feedback-from-your-board.md` — 417w
+- 2023-03-30 — [Grow or Die](https://startupceo.com/2023/03/grow-or-die) — `2023-03-30-2023-03-grow-or-die.md` — 592w
+- 2023-03-23 — [Announcing The Daily Bolster (You DO NOT want to miss this new Podcast)](https://startupceo.com/2023/03/announcing-the-daily-bolster) — `2023-03-23-2023-03-announcing-the-daily-bolster.md` — 357w
+- 2023-03-16 — [How I engage with the CCO](https://startupceo.com/2023/03/how-i-engage-with-the-cco) — `2023-03-16-2023-03-how-i-engage-with-the-cco.md` — 551w
+- 2023-03-09 — [Patience vs. Impatience](https://startupceo.com/2023/03/patience-vs-impatience) — `2023-03-09-2023-03-patience-vs-impatience.md` — 264w
+- 2023-03-02 — [Signs your Chief Customer Officer isn’t scaling](https://startupceo.com/2023/03/signs-your-chief-customer-officer-isnt-scaling) — `2023-03-02-2023-03-signs-your-chief-customer-officer-isnt-scaling.md` — 452w
+- 2023-02-23 — [It All Starts With Self-Awareness](https://startupceo.com/2023/02/it-all-starts-with-self-awareness) — `2023-02-23-2023-02-it-all-starts-with-self-awareness.md` — 540w
+- 2023-02-16 — [What does Great Look like in a Chief Customer Officer?](https://startupceo.com/2023/02/what-does-great-look-like-in-a-chief-customer-officer) — `2023-02-16-2023-02-what-does-great-look-like-in-a-chief-customer-officer.md` — 539w
+- 2023-02-09 — [Swoop in, Swoop out](https://startupceo.com/2023/02/swoop-in-swoop-out) — `2023-02-09-2023-02-swoop-in-swoop-out.md` — 176w
+- 2023-02-02 — [When to Hire a Chief Customer Officer](https://startupceo.com/2023/02/when-to-hire-a-chief-customer-officer) — `2023-02-02-2023-02-when-to-hire-a-chief-customer-officer.md` — 649w
+- 2023-01-26 — [5 Things Successful Founder Operators do Differently](https://startupceo.com/2023/01/5-things-successful-founder-operators-do-differently) — `2023-01-26-2023-01-5-things-successful-founder-operators-do-differently.md` — 699w
+- 2023-01-19 — [How To Engage With The CMO](https://startupceo.com/2023/01/how-to-engage-with-the-cmo) — `2023-01-19-2023-01-how-to-engage-with-the-cmo.md` — 625w
+- 2023-01-12 — [The myth of the “playbook” in executive hiring, and how to work around it](https://startupceo.com/2023/01/the-myth-of-the-playbook-in-executive-hiring-and-how-to-work-around-it) — `2023-01-12-2023-01-the-myth-of-the-playbook-in-executive-hiring-and-how-to-work-around-it.md` — 782w
+- 2023-01-05 — [Book Short:  Must-Read for CXOs](https://startupceo.com/2023/01/book-short-must-read-for-cxos) — `2023-01-05-2023-01-book-short-must-read-for-cxos.md` — 340w
+- 2022-12-22 — [My end of year routine (Taking Stock, Part III)](https://startupceo.com/2022/12/my-end-of-year-routine-taking-stock-part-iii) — `2022-12-22-2022-12-my-end-of-year-routine-taking-stock-part-iii.md` — 304w
+- 2022-12-15 — [Signs Your CMO Isn’t Scaling](https://startupceo.com/2022/12/signs-your-cmo-isnt-scaling) — `2022-12-15-2022-12-signs-your-cmo-isnt-scaling.md` — 657w
+- 2022-12-08 — [The quest for diversity in Tech leadership is stalling. Here’s why.](https://startupceo.com/2022/12/the-quest-for-diversity-in-tech-leadership-is-stalling-heres-why) — `2022-12-08-2022-12-the-quest-for-diversity-in-tech-leadership-is-stalling-heres-why.md` — 922w
+- 2022-12-01 — [What Does Great Look Like in a CMO?](https://startupceo.com/2022/12/what-does-great-look-like-in-a-cmo) — `2022-12-01-2022-12-what-does-great-look-like-in-a-cmo.md` — 651w
+- 2022-11-17 — [Book Short:  It’s All About Creative Destruction](https://startupceo.com/2022/11/book-short-its-all-about-creative-destruction) — `2022-11-17-2022-11-book-short-its-all-about-creative-destruction.md` — 357w
+- 2022-11-09 — [When to Hire a Chief Marketing Officer](https://startupceo.com/2022/11/when-to-hire-a-chief-marketing-officer) — `2022-11-09-2022-11-when-to-hire-a-chief-marketing-officer.md` — 622w
+- 2022-11-03 — [How to engage with Your CRO](https://startupceo.com/2022/11/how-to-engage-with-your-cro) — `2022-11-03-2022-11-how-to-engage-with-your-cro.md` — 564w
+- 2022-10-27 — [Book Short:  New Advice from an Old Friend](https://startupceo.com/2022/10/book-short-new-advice-from-an-old-friend) — `2022-10-27-2022-10-book-short-new-advice-from-an-old-friend.md` — 523w
+- 2022-10-20 — [Signs your Chief Revenue Officer isn’t Scaling](https://startupceo.com/2022/10/signs-your-chief-revenue-officer-isnt-scaling) — `2022-10-20-2022-10-signs-your-chief-revenue-officer-isnt-scaling.md` — 577w
+- 2022-10-06 — [What Does Great Look Like in a Chief Revenue Officer?](https://startupceo.com/2022/10/what-does-great-look-like-in-a-chief-revenue-officer) — `2022-10-06-2022-10-what-does-great-look-like-in-a-chief-revenue-officer.md` — 884w
+- 2022-09-28 — [Startup Boards:  VCs and CEOs need to do their jobs!](https://startupceo.com/2022/09/startup-boards-vcs-and-ceos-need-to-do-their-jobs) — `2022-09-28-2022-09-startup-boards-vcs-and-ceos-need-to-do-their-jobs.md` — 1348w
+- 2022-09-22 — [The Impact of a Good Coach](https://startupceo.com/2022/09/the-impact-of-a-good-coach) — `2022-09-22-2022-09-the-impact-of-a-good-coach.md` — 535w
+- 2022-09-15 — [Best and Worst Practices (Plus FAQs) for Layoffs](https://startupceo.com/2022/09/best-and-worst-practices-plus-faqs-for-layoffs) — `2022-09-15-2022-09-best-and-worst-practices-plus-faqs-for-layoffs.md` — 1649w
+- 2022-09-08 — [When to Hire Your First Chief Revenue Officer](https://startupceo.com/2022/09/when-to-hire-your-first-chief-revenue-officer) — `2022-09-08-2022-09-when-to-hire-your-first-chief-revenue-officer.md` — 565w
+- 2022-08-25 — [Double Book Short:  Framework of Frameworks](https://startupceo.com/2022/08/double-book-short-framework-of-frameworks) — `2022-08-25-2022-08-double-book-short-framework-of-frameworks.md` — 1007w
+- 2022-08-18 — [The Evolution of Feedback in Our Organizations](https://startupceo.com/2022/08/the-evolution-of-feedback-in-our-organizations) — `2022-08-18-2022-08-the-evolution-of-feedback-in-our-organizations.md` — 603w
+- 2022-08-11 — [What Men’s Rooms Can Teach Us About Leadership and Management](https://startupceo.com/2022/08/what-mens-rooms-can-teach-us-about-leadership-and-management) — `2022-08-11-2022-08-what-mens-rooms-can-teach-us-about-leadership-and-management.md` — 617w
+- 2022-08-04 — [Our Operating Philosophy – the Mostly Self Managed Organization (MSMO)](https://startupceo.com/2022/08/our-operating-philosophy-the-mostly-self-managed-organization-msmo) — `2022-08-04-2022-08-our-operating-philosophy-the-mostly-self-managed-organization-msmo.md` — 629w
+- 2022-07-28 — [The Concept of the Operating Philosophy](https://startupceo.com/2022/07/the-concept-of-the-operating-philosophy) — `2022-07-28-2022-07-the-concept-of-the-operating-philosophy.md` — 673w
+- 2022-07-21 — [Giving Away Credit – Added Rationale](https://startupceo.com/2022/07/giving-away-credit-added-rationale) — `2022-07-21-2022-07-giving-away-credit-added-rationale.md` — 181w
+- 2022-07-14 — [Second Lap Around the Track](https://startupceo.com/2022/07/second-lap-around-the-track-2) — `2022-07-14-2022-07-second-lap-around-the-track-2.md` — 652w
+- 2022-07-07 — [What a CEO Should Do](https://startupceo.com/2022/07/what-a-ceo-should-do) — `2022-07-07-2022-07-what-a-ceo-should-do.md` — 468w
+- 2022-06-30 — [Book Short:  Loved Loved](https://startupceo.com/2022/06/book-short-loved-loved) — `2022-06-30-2022-06-book-short-loved-loved.md` — 487w
+- 2022-06-23 — [Two Great Lines (and One Worrisome One) About the Current Macroeconomic Situation](https://startupceo.com/2022/06/two-great-lines-about-the-current-macroeconomic-situation) — `2022-06-23-2022-06-two-great-lines-about-the-current-macroeconomic-situation.md` — 588w
+- 2022-06-15 — [Startup Boards, the book, and also why they matter more than ever these days](https://startupceo.com/2022/06/startup-boards-the-book-and-also-why-they-matter-more-than-ever-these-days) — `2022-06-15-2022-06-startup-boards-the-book-and-also-why-they-matter-more-than-ever-these-da.md` — 525w
+- 2022-06-09 — [Open All-Hands Meetings](https://startupceo.com/2022/06/open-all-hands-meetings) — `2022-06-09-2022-06-open-all-hands-meetings.md` — 904w
+- 2022-06-02 — [Book Short:  New to the Canon of Great CEO Books](https://startupceo.com/2022/06/book-short-new-to-the-canon-of-great-ceo-books) — `2022-06-02-2022-06-book-short-new-to-the-canon-of-great-ceo-books.md` — 445w
+- 2022-05-26 — [Signs Your CFO Isn’t Scaling](https://startupceo.com/2022/05/signs-your-cfo-isnt-scaling) — `2022-05-26-2022-05-signs-your-cfo-isnt-scaling.md` — 825w
+- 2022-05-19 — [What Does “Great” Look Like in a CFO?](https://startupceo.com/2022/05/what-does-great-look-like-in-a-cfo) — `2022-05-19-2022-05-what-does-great-look-like-in-a-cfo.md` — 444w
+- 2022-05-12 — [A Couple Tweaks to Running Great Board Meetings](https://startupceo.com/2022/05/a-couple-tweaks-to-running-great-board-meetings) — `2022-05-12-2022-05-a-couple-tweaks-to-running-great-board-meetings.md` — 604w
+- 2022-05-05 — [How to Get Credit for Non-Salary Benefits:  The Total Rewards Statement](https://startupceo.com/2022/05/how-to-get-credit-for-non-salary-benefits-the-total-rewards-statement) — `2022-05-05-2022-05-how-to-get-credit-for-non-salary-benefits-the-total-rewards-statement.md` — 455w
+- 2022-05-03 — [Book Short:  Intentionality in Life](https://startupceo.com/2022/05/book-short-one-life-to-lead) — `2022-05-03-2022-05-book-short-one-life-to-lead.md` — 391w
+- 2022-04-28 — [Open Expense Policy](https://startupceo.com/2022/04/open-expense-policy) — `2022-04-28-2022-04-open-expense-policy.md` — 547w
+- 2022-04-26 — [7 Habits of Highly Effective Boards](https://startupceo.com/2022/04/7-habits-of-highly-effective-boards) — `2022-04-26-2022-04-7-habits-of-highly-effective-boards.md` — 966w
+- 2022-04-21 — [Innovating People Practices Through Benefits](https://startupceo.com/2022/04/innovating-people-practices-through-benefits) — `2022-04-21-2022-04-innovating-people-practices-through-benefits.md` — 845w
+- 2022-02-09 — [Introducing Bolster Prime and Bolster Ventures (and their back story)](https://startupceo.com/2022/02/introducing-bolster-prime-and-bolster-ventures-and-their-back-story) — `2022-02-09-2022-02-introducing-bolster-prime-and-bolster-ventures-and-their-back-story.md` — 1187w
+- 2022-01-18 — [The Blackjack Table](https://startupceo.com/2022/01/the-blackjack-table) — `2022-01-18-2022-01-the-blackjack-table.md` — 325w
+- 2021-12-21 — [Excellent Resource for Effective Board Leadership](https://startupceo.com/2021/12/excellent-resource-for-effective-board-leadership) — `2021-12-21-2021-12-excellent-resource-for-effective-board-leadership.md` — 203w
+- 2021-12-16 — [Top 3 Mistakes Later Stage Founders Make](https://startupceo.com/2021/12/top-3-mistakes-later-stage-founders-make) — `2021-12-16-2021-12-top-3-mistakes-later-stage-founders-make.md` — 494w
+- 2021-12-09 — [Top 3 Mistakes Early Stage Founders Make](https://startupceo.com/2021/12/top-3-mistakes-early-stage-founders-make) — `2021-12-09-2021-12-top-3-mistakes-early-stage-founders-make.md` — 519w
+- 2021-12-02 — [When it is Time to Hire Your First Chief Financial Officer](https://startupceo.com/2021/12/when-it-is-time-to-hire-your-first-chief-financial-officer) — `2021-12-02-2021-12-when-it-is-time-to-hire-your-first-chief-financial-officer.md` — 601w
+- 2021-11-24 — [Offsites in the age of COVID](https://startupceo.com/2021/11/offsites-in-the-age-of-covid) — `2021-11-24-2021-11-offsites-in-the-age-of-covid.md` — 455w
+- 2021-10-28 — [I’m Having a Blast at Bolster — Here’s Why](https://startupceo.com/2021/10/im-having-a-blast-at-bolster-heres-why) — `2021-10-28-2021-10-im-having-a-blast-at-bolster-heres-why.md` — 671w
+- 2021-10-21 — [How to Engage with Your CFO](https://startupceo.com/2021/10/how-to-engage-with-your-cfo) — `2021-10-21-2021-10-how-to-engage-with-your-cfo.md` — 1151w
+- 2021-10-14 — [Momentum and Confidence:  Everything Matters](https://startupceo.com/2021/10/momentum-and-confidence-everything-matters) — `2021-10-14-2021-10-momentum-and-confidence-everything-matters.md` — 680w
+- 2021-09-02 — [Why the Startup Sales Function Starts With Whiteboards](https://startupceo.com/2021/09/why-the-startup-sales-function-starts-with-whiteboards) — `2021-09-02-2021-09-why-the-startup-sales-function-starts-with-whiteboards.md` — 995w
+- 2021-08-26 — [Five Misperceptions of the CCO Role](https://startupceo.com/2021/08/five-misperceptions-of-the-cco-role) — `2021-08-26-2021-08-five-misperceptions-of-the-cco-role.md` — 709w
+- 2021-08-19 — [Startup Boards eBook:  How to Succeed in Your First Board Role](https://startupceo.com/2021/08/startup-boards-ebook-how-to-succeed-in-your-first-board-role) — `2021-08-19-2021-08-startup-boards-ebook-how-to-succeed-in-your-first-board-role.md` — 364w
+- 2021-08-12 — [Startup Boards eBook:  How to Build Your Board](https://startupceo.com/2021/08/startup-boards-ebook-how-to-build-your-board) — `2021-08-12-2021-08-startup-boards-ebook-how-to-build-your-board.md` — 378w
+- 2021-08-05 — [Lessons from the Pandemic:  a Mid-Mortem](https://startupceo.com/2021/08/lessons-from-the-pandemic-a-mid-mortem) — `2021-08-05-2021-08-lessons-from-the-pandemic-a-mid-mortem.md` — 1030w
+- 2021-07-16 — [Signs your critical functions aren’t scaling – three webinars](https://startupceo.com/2021/07/signs-your-critical-functions-arent-scaling-three-webinars) — `2021-07-16-2021-07-signs-your-critical-functions-arent-scaling-three-webinars.md` — 200w
+- 2021-05-25 — [Chewy and Delicious](https://startupceo.com/2021/05/chewy-and-delicious) — `2021-05-25-2021-05-chewy-and-delicious.md` — 615w
+- 2021-05-13 — [Startup CXO:  the Sequel to Startup CEO](https://startupceo.com/2021/05/sequel-in-the-works) — `2021-05-13-2021-05-sequel-in-the-works.md` — 651w
+- 2021-04-29 — [How to get the most out of working with a CEO Mentor or CEO Coach](https://startupceo.com/2021/04/how-to-get-the-most-out-of-working-with-a-ceo-mentor-or-ceo-coach) — `2021-04-29-2021-04-how-to-get-the-most-out-of-working-with-a-ceo-mentor-or-ceo-coach.md` — 1075w
+- 2021-04-27 — [My new Startup Board Mantra: 1-1-1](https://startupceo.com/2021/04/my-new-startup-board-mantra-1-1-1) — `2021-04-27-2021-04-my-new-startup-board-mantra-1-1-1.md` — 1129w
+- 2021-04-22 — [The Startup Ecosystem Needs More Independent Board Members – That’s the Clearest Path to Having Better and More Diverse Boards](https://startupceo.com/2021/04/independent-diverse-board) — `2021-04-22-2021-04-independent-diverse-board.md` — 884w
+- 2021-04-15 — [Should CEOs wade into Politics?](https://startupceo.com/2021/04/should-ceos-wade-into-politics) — `2021-04-15-2021-04-should-ceos-wade-into-politics.md` — 1272w
+- 2021-04-08 — [How to Select a CEO Mentor or CEO Coach](https://startupceo.com/2021/04/how-to-select-a-ceo-mentor-or-ceo-coach) — `2021-04-08-2021-04-how-to-select-a-ceo-mentor-or-ceo-coach.md` — 1098w
+- 2021-04-01 — [The Difference Between a CEO Coach and a CEO Mentor and Why Every CEO Needs Both](https://startupceo.com/2021/04/the-difference-between-a-ceo-coach-and-a-ceo-mentor-and-why-every-ceo-needs-both) — `2021-04-01-2021-04-the-difference-between-a-ceo-coach-and-a-ceo-mentor-and-why-every-ceo-ne.md` — 859w
+- 2021-03-25 — [Addicted to Ruthless Efficiency](https://startupceo.com/2021/03/addicted-to-ruthless-efficiency) — `2021-03-25-2021-03-addicted-to-ruthless-efficiency.md` — 655w
+- 2021-03-18 — [The Tension That Will Come With the Future of Work](https://startupceo.com/2021/03/the-tension-that-will-come-with-the-future-of-work) — `2021-03-18-2021-03-the-tension-that-will-come-with-the-future-of-work.md` — 1081w
+- 2021-03-16 — [Soliciting Feedback on Your Own Performance as CEO](https://startupceo.com/2021/03/soliciting-feedback-on-your-own-performance-as-ceo) — `2021-03-16-2021-03-soliciting-feedback-on-your-own-performance-as-ceo.md` — 504w
+- 2021-03-11 — [Second Verse, Same as the First…Except Way Better](https://startupceo.com/2021/03/second-verse-same-as-the-first-except-way-better) — `2021-03-11-2021-03-second-verse-same-as-the-first-except-way-better.md` — 604w
+- 2021-03-10 — [StartupCEO.com:  A New Name for OnlyOnce](https://startupceo.com/2021/03/startupceo-com-a-new-name-for-onlyonce) — `2021-03-10-2021-03-startupceo-com-a-new-name-for-onlyonce.md` — 308w
+- 2021-02-03 — [Use Cases to Bolster Your Team: How to Leverage On-Demand Talent in Your Business](https://startupceo.com/2021/02/use-cases-to-bolster-your-team-how-to-leverage-on-demand-talent-in-your-business) — `2021-02-03-2021-02-use-cases-to-bolster-your-team-how-to-leverage-on-demand-talent-in-your-.md` — 1711w
+- 2020-12-08 — [Introducing the Bolster Board Benchmarking Survey](https://startupceo.com/2020/12/introducing-the-bolster-board-benchmarking-survey) — `2020-12-08-2020-12-introducing-the-bolster-board-benchmarking-survey.md` — 806w
+- 2020-12-01 — [The New Way to Scale a Board of Directors](https://startupceo.com/2020/12/the-new-way-to-scale-a-board-of-directors) — `2020-12-01-2020-12-the-new-way-to-scale-a-board-of-directors.md` — 1011w
+- 2020-10-23 — [Zoomsites](https://startupceo.com/2020/10/zoomsites) — `2020-10-23-2020-10-zoomsites.md` — 1061w
+- 2020-10-08 — [What Kind of Gig Economy Executive Are You?](https://startupceo.com/2020/10/what-kind-of-gig-economy-executive-are-you) — `2020-10-08-2020-10-what-kind-of-gig-economy-executive-are-you.md` — 786w
+- 2020-10-01 — [The New Way to Scale an Executive Team](https://startupceo.com/2020/10/the-new-way-to-scale-an-executive-team) — `2020-10-01-2020-10-the-new-way-to-scale-an-executive-team.md` — 1075w
+- 2020-09-24 — [The Gig Economy Executive](https://startupceo.com/2020/09/the-gig-economy-executive) — `2020-09-24-2020-09-the-gig-economy-executive.md` — 828w
+- 2020-09-17 — [Bolster’s Founding Manifesto](https://startupceo.com/2020/09/bolsters-founding-manifesto) — `2020-09-17-2020-09-bolsters-founding-manifesto.md` — 1103w
+- 2020-09-09 — [Introducing Bolster](https://startupceo.com/2020/09/introducing-bolster) — `2020-09-09-2020-09-introducing-bolster.md` — 577w
+- 2020-08-27 — [Startup CEO Second Edition Teaser:  Thinking about Your Next Step](https://startupceo.com/2020/08/startup-ceo-second-edition-teaser-thinking-about-your-next-step) — `2020-08-27-2020-08-startup-ceo-second-edition-teaser-thinking-about-your-next-step.md` — 644w
+- 2020-08-20 — [Startup CEO Second Edition Teaser:  Transition and Integration](https://startupceo.com/2020/08/startup-ceo-second-edition-teaser-transition-and-integration) — `2020-08-20-2020-08-startup-ceo-second-edition-teaser-transition-and-integration.md` — 553w
+- 2020-08-13 — [Startup CEO Second Edition Teaser:  The Sale Process](https://startupceo.com/2020/08/startup-ceo-second-edition-teaser-the-sale-process) — `2020-08-13-2020-08-startup-ceo-second-edition-teaser-the-sale-process.md` — 683w
+- 2020-08-06 — [Startup CEO Second Edition Teaser:  Preparing Your Company for an Exit](https://startupceo.com/2020/08/startup-ceo-second-edition-teaser-preparing-your-company-for-an-exit) — `2020-08-06-2020-08-startup-ceo-second-edition-teaser-preparing-your-company-for-an-exit.md` — 368w
+- 2020-07-30 — [Startup CEO Second Edition Teaser:  Selling Your Company – Preparing Yourself for an Exit](https://startupceo.com/2020/07/startup-ceo-second-edition-teaser-selling-your-company-preparing-yourself-for-an-exit) — `2020-07-30-2020-07-startup-ceo-second-edition-teaser-selling-your-company-preparing-yoursel.md` — 687w
+- 2020-07-27 — [New book from Brad Feld:  The Startup Community Way](https://startupceo.com/2020/07/new-book-from-brad-feld-the-startup-community-way) — `2020-07-27-2020-07-new-book-from-brad-feld-the-startup-community-way.md` — 307w
+- 2020-07-23 — [Startup CEO, Second Edition Teaser:  The Importance of Authentic Leadership in Changing Times](https://startupceo.com/2020/07/startup-ceo-second-edition-teaser-the-importance-of-authentic-leadership-in-changing-times) — `2020-07-23-2020-07-startup-ceo-second-edition-teaser-the-importance-of-authentic-leadership.md` — 1171w
+- 2020-07-14 — [Startup CEO, Second Edition](https://startupceo.com/2020/07/startup-ceo-second-edition) — `2020-07-14-2020-07-startup-ceo-second-edition.md` — 858w
+- 2020-07-09 — [Back in Business](https://startupceo.com/2020/07/back-in-business) — `2020-07-09-2020-07-back-in-business.md` — 385w
+- 2020-04-05 — [State of Colorado COVID-19 Innovation Response Team, Part VII – Retrospective](https://startupceo.com/2020/04/state-of-colorado-covid-19-innovation-response-team-part-vii-retrospective) — `2020-04-05-2020-04-state-of-colorado-covid-19-innovation-response-team-part-vii-retrospecti.md` — 587w
+- 2020-04-04 — [State of Colorado COVID-19 Innovation Response Team, Part VI – How This Compared to Running a Company](https://startupceo.com/2020/04/state-of-colorado-covid-19-innovation-response-team-part-vi-how-this-compared-to-running-a-company) — `2020-04-04-2020-04-state-of-colorado-covid-19-innovation-response-team-part-vi-how-this-com.md` — 1179w
+- 2020-04-03 — [State of Colorado COVID-19 Innovation Response Team, Part V – Wrapping Up, Days 10-12](https://startupceo.com/2020/04/state-of-colorado-covid-19-innovation-response-team-part-v-wrapping-up-days-10-12) — `2020-04-03-2020-04-state-of-colorado-covid-19-innovation-response-team-part-v-wrapping-up-d.md` — 388w
+- 2020-04-02 — [State of Colorado COVID-19 Innovation Response Team, Part IV – Replacing Myself, Days 7-9](https://startupceo.com/2020/04/state-of-colorado-covid-19-innovation-response-team-part-iv-replacing-myself-days-7-9) — `2020-04-02-2020-04-state-of-colorado-covid-19-innovation-response-team-part-iv-replacing-my.md` — 949w
+- 2020-04-01 — [State of Colorado COVID-19 Innovation Response Team, Part III – Hitting Our Stride, Days 4-6](https://startupceo.com/2020/04/state-of-colorado-covid-19-innovation-response-team-part-iii-gearing-up-days-4-6) — `2020-04-01-2020-04-state-of-colorado-covid-19-innovation-response-team-part-iii-gearing-up-.md` — 937w
+- 2020-03-31 — [State of Colorado COVID-19 Innovation Response Team, Part II – Getting Started, Days 1-3](https://startupceo.com/2020/03/state-of-colorado-covid-19-innovation-response-team-part-ii-getting-started-days-1-2) — `2020-03-31-2020-03-state-of-colorado-covid-19-innovation-response-team-part-ii-getting-star.md` — 1132w
+- 2020-03-30 — [State of Colorado COVID-19 Innovation Response Team, Part I – A Different Kind of Startup](https://startupceo.com/2020/03/state-of-colorado-covid-19-innovation-response-team-part-i-a-different-kind-of-startup) — `2020-03-30-2020-03-state-of-colorado-covid-19-innovation-response-team-part-i-a-different-k.md` — 703w
+- 2020-03-17 — [New New Employee Training, Part II](https://startupceo.com/2020/03/new-new-employee-training-part-ii) — `2020-03-17-2020-03-new-new-employee-training-part-ii.md` — 845w
+- 2020-02-14 — [The Beginnings of a Roadmap to Fix America’s Badly Broken Political System, part II](https://startupceo.com/2020/02/the-beginnings-of-a-roadmap-to-fix-americas-badly-broken-political-system-part-ii) — `2020-02-14-2020-02-the-beginnings-of-a-roadmap-to-fix-americas-badly-broken-political-syste.md` — 145w
+- 2020-01-23 — [Context](https://startupceo.com/2020/01/context) — `2020-01-23-2020-01-context.md` — 439w
+- 2019-12-13 — [Grit](https://startupceo.com/2019/12/grit) — `2019-12-13-2019-12-grit.md` — 470w
+- 2019-12-05 — [What Job is Your Customer Hiring You to Do?](https://startupceo.com/2019/12/what-job-is-your-customer-hiring-you-to-do) — `2019-12-05-2019-12-what-job-is-your-customer-hiring-you-to-do.md` — 486w
+- 2019-10-31 — [Book Short – You’re in Charge – Now What?](https://startupceo.com/2019/10/book-short-youre-in-charge-now-what) — `2019-10-31-2019-10-book-short-youre-in-charge-now-what.md` — 430w
+- 2019-10-17 — [The Nachos Don’t Have Enough Beef in Them!](https://startupceo.com/2019/10/the-nachos-dont-have-enough-beef-in-them-2) — `2019-10-17-2019-10-the-nachos-dont-have-enough-beef-in-them-2.md` — 285w
+- 2019-05-01 — [OnlyOnce, Part XX](https://startupceo.com/2019/05/onlyonce-part-xx) — `2019-05-01-2019-05-onlyonce-part-xx.md` — 1036w
+- 2018-07-26 — [Sometimes a Good Loss is Better than a Bad Win](https://startupceo.com/2018/07/sometimes-a-good-loss-is-better-than-a-bad-win) — `2018-07-26-2018-07-sometimes-a-good-loss-is-better-than-a-bad-win.md` — 352w
+- 2018-07-12 — [How to Get Laid Off](https://startupceo.com/2018/07/how-to-get-laid-off) — `2018-07-12-2018-07-how-to-get-laid-off.md` — 463w
+- 2018-07-03 — [Response to the Journal](https://startupceo.com/2018/07/response-to-the-journal) — `2018-07-03-2018-07-response-to-the-journal.md` — 1096w
+- 2018-06-28 — [Feedback Overload and Confusion – a Guide for Commenting on Employee Surveys](https://startupceo.com/2018/06/feedback-overload) — `2018-06-28-2018-06-feedback-overload.md` — 596w
+- 2018-04-19 — [There’s a word or two missing from the English language](https://startupceo.com/2018/04/theres-a-word-or-two-missing-from-the-english-language) — `2018-04-19-2018-04-theres-a-word-or-two-missing-from-the-english-language.md` — 201w
+- 2018-03-08 — [You Don’t Know How to Drive a Car Because You Know How to Read a Map](https://startupceo.com/2018/03/you-dont-know-how-to-drive-a-car-because-you-know-how-to-read-a-map) — `2018-03-08-2018-03-you-dont-know-how-to-drive-a-car-because-you-know-how-to-read-a-map.md` — 573w
+- 2018-02-22 — [No One Will Ever Thank You for Keeping Prices Low](https://startupceo.com/2018/02/no-one-will-ever-thank-you-for-keeping-prices-low) — `2018-02-22-2018-02-no-one-will-ever-thank-you-for-keeping-prices-low.md` — 606w
+- 2018-01-18 — [Book Short – Another Must-Read by Lencioni](https://startupceo.com/2018/01/book-short-another-must-read-by-lencioni) — `2018-01-18-2018-01-book-short-another-must-read-by-lencioni.md` — 413w
+- 2017-12-01 — [Knowing When to Ask for Help in Your Startup](https://startupceo.com/2017/12/knowing-when-to-ask-for-help-in-your-startup) — `2017-12-01-2017-12-knowing-when-to-ask-for-help-in-your-startup.md` — 508w
+- 2017-11-16 — [Deals are not done until they are done](https://startupceo.com/2017/11/deals-are-not-done-until-they-are-done) — `2017-11-16-2017-11-deals-are-not-done-until-they-are-done.md` — 533w
+- 2017-11-02 — [How Venture Capital Firms Work, for Entrepreneurs and Startups](https://startupceo.com/2017/11/how-venture-capital-firms-work-for-entrepreneurs-and-startups) — `2017-11-02-2017-11-how-venture-capital-firms-work-for-entrepreneurs-and-startups.md` — 187w
+- 2017-10-05 — [When in Doubt, Apply a Framework (but be sure to keep them fresh!)](https://startupceo.com/2017/10/when-in-doubt-apply-a-framework-but-be-sure-to-keep-them-fresh) — `2017-10-05-2017-10-when-in-doubt-apply-a-framework-but-be-sure-to-keep-them-fresh.md` — 462w
+- 2017-09-21 — [Book Shorts:  Summer Reading](https://startupceo.com/2017/09/book-shorts-summer-reading) — `2017-09-21-2017-09-book-shorts-summer-reading.md` — 750w
+- 2017-08-31 — [Agile Everywhere, Part II](https://startupceo.com/2017/08/agile-everywhere-part-ii) — `2017-08-31-2017-08-agile-everywhere-part-ii.md` — 380w
+- 2017-08-10 — [The Value and Limitations of Pattern Recognition](https://startupceo.com/2017/08/the-value-and-limitations-of-pattern-recognition) — `2017-08-10-2017-08-the-value-and-limitations-of-pattern-recognition.md` — 517w
+- 2017-07-27 — [Normal People, Doing Wonderful Things](https://startupceo.com/2017/07/normal-people-doing-wonderful-things) — `2017-07-27-2017-07-normal-people-doing-wonderful-things.md` — 461w
+- 2017-07-13 — [The Gift of Feedback, Part V](https://startupceo.com/2017/07/the-gift-of-feedback-part-v) — `2017-07-13-2017-07-the-gift-of-feedback-part-v.md` — 342w
+- 2017-06-29 — [Delegating Decision-Making](https://startupceo.com/2017/06/delegating-decision-making) — `2017-06-29-2017-06-delegating-decision-making.md` — 369w
+- 2017-06-15 — [Don’t Confuse Sucking Down with Servant Leadership](https://startupceo.com/2017/06/dont-confuse-sucking-down-with-servant-leadership) — `2017-06-15-2017-06-dont-confuse-sucking-down-with-servant-leadership.md` — 679w
+- 2017-06-12 — [Why You Won’t See Us Trash Talk Our Competition](https://startupceo.com/2017/06/why-you-wont-see-us-trash-talk-our-competition) — `2017-06-12-2017-06-why-you-wont-see-us-trash-talk-our-competition.md` — 812w
+- 2017-06-01 — [Company of Origin](https://startupceo.com/2017/06/company-of-origin) — `2017-06-01-2017-06-company-of-origin.md` — 1018w
+- 2017-05-18 — [Being a CEO is Like Playing a Game of Hearts](https://startupceo.com/2017/05/being-a-ceo-is-like-playing-a-game-of-hearts) — `2017-05-18-2017-05-being-a-ceo-is-like-playing-a-game-of-hearts.md` — 467w
+- 2017-05-04 — [Why Our Executive Team Does Daily Standup Meetings](https://startupceo.com/2017/05/why-our-executive-team-does-daily-standup-meetings) — `2017-05-04-2017-05-why-our-executive-team-does-daily-standup-meetings.md` — 452w
+- 2017-04-17 — [A Two Week Vacation is More Than Twice As Good As a One Week Vacation](https://startupceo.com/2017/04/a-two-week-vacation-is-more-than-twice-as-good-as-a-one-week-vacation) — `2017-04-17-2017-04-a-two-week-vacation-is-more-than-twice-as-good-as-a-one-week-vacation.md` — 508w
+- 2017-04-06 — [What kind of team do you run?  Of Generalists and Specialists…](https://startupceo.com/2017/04/what-kind-of-team-do-you-run-of-generalists-and-specialists) — `2017-04-06-2017-04-what-kind-of-team-do-you-run-of-generalists-and-specialists.md` — 662w
+- 2017-03-30 — [Everything is Data, Part II – Get Those Expenses In](https://startupceo.com/2017/03/everything-is-data-part-ii-get-those-expenses-in) — `2017-03-30-2017-03-everything-is-data-part-ii-get-those-expenses-in.md` — 425w
+- 2017-03-16 — [Book Short – Blink part III – Undo?](https://startupceo.com/2017/03/book-short-blink-part-iii-undo) — `2017-03-16-2017-03-book-short-blink-part-iii-undo.md` — 646w
+- 2017-03-02 — [Stamina](https://startupceo.com/2017/03/stamina) — `2017-03-02-2017-03-stamina.md` — 1282w
+- 2017-02-16 — [Reboot – Where do a company’s Values come from, and where do they go?](https://startupceo.com/2017/02/reboot-where-do-a-companys-values-come-from-and-where-do-they-go) — `2017-02-16-2017-02-reboot-where-do-a-companys-values-come-from-and-where-do-they-go.md` — 621w
+- 2017-02-09 — [Book Short:  Why Wait?](https://startupceo.com/2017/02/book-short-why-wait) — `2017-02-09-2017-02-book-short-why-wait.md` — 529w
+- 2017-02-02 — [Book Short – A Smattering of Good Ideas that further my Reboot path](https://startupceo.com/2017/02/book-short-a-smattering-of-good-ideas-that-further-my-reboot-path) — `2017-02-02-2017-02-book-short-a-smattering-of-good-ideas-that-further-my-reboot-path.md` — 445w
+- 2017-01-19 — [Reboot – Founders’ Dinner](https://startupceo.com/2017/01/reboot-founders-dinner) — `2017-01-19-2017-01-reboot-founders-dinner.md` — 659w
+- 2017-01-12 — [Reboot – Back to Basics](https://startupceo.com/2017/01/reboot-back-to-basics) — `2017-01-12-2017-01-reboot-back-to-basics.md` — 911w
+- 2017-01-03 — [Reboot – The Fountainhead](https://startupceo.com/2017/01/reboot-the-fountainhead) — `2017-01-03-2017-01-reboot-the-fountainhead.md` — 1154w
+- 2016-10-20 — [You, Too, Can Take Six Weeks Off](https://startupceo.com/2016/10/you-too-can-take-six-weeks-off) — `2016-10-20-2016-10-you-too-can-take-six-weeks-off.md` — 415w
+- 2016-08-23 — [A Path Forward in California!](https://startupceo.com/2016/08/a-path-forward-in-california) — `2016-08-23-2016-08-a-path-forward-in-california.md` — 246w
+- 2016-05-12 — [Book Short: Scrum ptious](https://startupceo.com/2016/05/book-short-scrum-ptious) — `2016-05-12-2016-05-book-short-scrum-ptious.md` — 391w
+- 2016-04-07 — [Managing Up](https://startupceo.com/2016/04/managing-up) — `2016-04-07-2016-04-managing-up.md` — 869w
+- 2016-03-22 — [A New Path Forward](https://startupceo.com/2016/03/a-new-path-forward) — `2016-03-22-2016-03-a-new-path-forward.md` — 1076w
+- 2016-03-03 — [Agile Everywhere](https://startupceo.com/2016/03/agile-everywhere) — `2016-03-03-2016-03-agile-everywhere.md` — 528w
+- 2016-01-28 — [Ideas Matter Less Than Execution Which Matters Less Than Timing Which Matters Less Than Luck](https://startupceo.com/2016/01/ideas-matter-less-than-execution-which-matters-less-than-timing-which-matters-less-than-luck) — `2016-01-28-2016-01-ideas-matter-less-than-execution-which-matters-less-than-timing-which-ma.md` — 652w
+- 2016-01-07 — [The Illusion and (Mis)uses of Certainty](https://startupceo.com/2016/01/the-illusion-and-misuses-of-certainty) — `2016-01-07-2016-01-the-illusion-and-misuses-of-certainty.md` — 738w
+- 2015-12-06 — [Sweet Sixteen (Sixteen Candles?)](https://startupceo.com/2015/12/sweet-sixteen-sixteen-candles) — `2015-12-06-2015-12-sweet-sixteen-sixteen-candles.md` — 259w
+- 2015-11-12 — [You Have To Be All In, Until You’re Not](https://startupceo.com/2015/11/you-have-to-be-all-in-until-youre-not) — `2015-11-12-2015-11-you-have-to-be-all-in-until-youre-not.md` — 505w
+- 2015-10-08 — [The Problem with Titles](https://startupceo.com/2015/10/the-problem-with-titles) — `2015-10-08-2015-10-the-problem-with-titles.md` — 761w
+- 2015-09-17 — [The Playbook](https://startupceo.com/2015/09/the-playbook) — `2015-09-17-2015-09-the-playbook.md` — 404w
+- 2015-08-27 — [The Joy of Coaching](https://startupceo.com/2015/08/the-joy-of-coaching) — `2015-08-27-2015-08-the-joy-of-coaching.md` — 1233w
+- 2015-08-19 — [ReturnShip Program, Part III](https://startupceo.com/2015/08/returnship-program-part-iii) — `2015-08-19-2015-08-returnship-program-part-iii.md` — 415w
+- 2015-08-06 — [The Phoenix Project](https://startupceo.com/2015/08/the-phoenix-project) — `2015-08-06-2015-08-the-phoenix-project.md` — 301w
+- 2015-07-16 — [Everything Is Data](https://startupceo.com/2015/07/everything-is-data) — `2015-07-16-2015-07-everything-is-data.md` — 313w
+- 2015-06-25 — [The Difference Between Culture and Values](https://startupceo.com/2015/06/the-difference-between-culture-and-values) — `2015-06-25-2015-06-the-difference-between-culture-and-values.md` — 1251w
+- 2015-06-04 — [Book Short:  Blink Part II](https://startupceo.com/2015/06/book-short-blink-part-ii) — `2015-06-04-2015-06-book-short-blink-part-ii.md` — 565w
+- 2015-05-14 — [Give the Gift of a 360 to Your Board of Directors](https://startupceo.com/2015/05/give-the-gift-of-a-360-to-your-board-of-directors) — `2015-05-14-2015-05-give-the-gift-of-a-360-to-your-board-of-directors.md` — 259w
+- 2015-04-29 — [ReturnShip Program, Part II](https://startupceo.com/2015/04/returnship-program-part-ii) — `2015-04-29-2015-04-returnship-program-part-ii.md` — 287w
+- 2015-03-19 — [Corporate Sniglets](https://startupceo.com/2015/03/corporate-sniglets) — `2015-03-19-2015-03-corporate-sniglets.md` — 333w
+- 2015-03-09 — [The Value of a Break](https://startupceo.com/2015/03/the-value-of-a-break) — `2015-03-09-2015-03-the-value-of-a-break.md` — 359w
+- 2015-02-19 — [Option Grants over Time](https://startupceo.com/2015/02/option-grants-over-time) — `2015-02-19-2015-02-option-grants-over-time.md` — 178w
+- 2015-02-05 — [Book Short: Internet Fiction, part II](https://startupceo.com/2015/02/book-short-internet-fiction-part-ii) — `2015-02-05-2015-02-book-short-internet-fiction-part-ii.md` — 272w
+- 2015-01-21 — [ReturnShip Program](https://startupceo.com/2015/01/returnship-program) — `2015-01-21-2015-01-returnship-program.md` — 409w
+- 2015-01-08 — [How to Ask For a Raise](https://startupceo.com/2015/01/how-to-ask-for-a-raise) — `2015-01-08-2015-01-how-to-ask-for-a-raise.md` — 1278w
+- 2014-12-18 — [Typing as Core Competency](https://startupceo.com/2014/12/typing-as-core-competency) — `2014-12-18-2014-12-typing-as-core-competency.md` — 345w
+- 2014-12-05 — [35 at 15](https://startupceo.com/2014/12/35-at-15) — `2014-12-05-2014-12-35-at-15.md` — 352w
+- 2014-11-26 — [Autocorrect for life](https://startupceo.com/2014/11/autocorrect-for-life) — `2014-11-26-2014-11-autocorrect-for-life.md` — 221w
+- 2014-11-13 — [Book Short:  Continuing to make “sustainability” a mainstream business topic](https://startupceo.com/2014/11/book-short-continuing-to-make-sustainability-a-mainstream-business-topic) — `2014-11-13-2014-11-book-short-continuing-to-make-sustainability-a-mainstream-business-topic.md` — 731w
+- 2014-11-06 — [Sources of Urgency](https://startupceo.com/2014/11/sources-of-urgency) — `2014-11-06-2014-11-sources-of-urgency.md` — 374w
+- 2014-10-23 — [Does size matter?](https://startupceo.com/2014/10/does-size-matter) — `2014-10-23-2014-10-does-size-matter.md` — 445w
+- 2014-10-09 — [Book Short: Way, Way Beyond Books](https://startupceo.com/2014/10/book-short-way-way-beyond-books) — `2014-10-09-2014-10-book-short-way-way-beyond-books.md` — 229w
+- 2014-09-25 — [PTJD](https://startupceo.com/2014/09/ptjd) — `2014-09-25-2014-09-ptjd.md` — 723w
+- 2014-09-11 — [The 2×4](https://startupceo.com/2014/09/the-2x4) — `2014-09-11-2014-09-the-2x4.md` — 389w
+- 2014-09-02 — [Startup CEO: The Online Course Part II](https://startupceo.com/2014/09/startup-ceo-the-online-course-part-ii) — `2014-09-02-2014-09-startup-ceo-the-online-course-part-ii.md` — 398w
+- 2014-08-28 — [Physical Therapist or Chiropractor?](https://startupceo.com/2014/08/physical-therapist-or-chiropractor) — `2014-08-28-2014-08-physical-therapist-or-chiropractor.md` — 251w
+- 2014-08-14 — [How to Manage Your Career](https://startupceo.com/2014/08/how-to-manage-your-career-2) — `2014-08-14-2014-08-how-to-manage-your-career-2.md` — 153w
+- 2014-07-31 — [Book Short:  Best Book Ever](https://startupceo.com/2014/07/book-short-best-book-ever) — `2014-07-31-2014-07-book-short-best-book-ever.md` — 142w
+- 2014-07-17 — [The Gift of Feedback, Part IV](https://startupceo.com/2014/07/the-gift-of-feedback-part-iv) — `2014-07-17-2014-07-the-gift-of-feedback-part-iv.md` — 607w
+- 2014-07-01 — [Book Short:  Culture is King](https://startupceo.com/2014/07/book-short-culture-is-king-2) — `2014-07-01-2014-07-book-short-culture-is-king-2.md` — 712w
+- 2014-06-18 — [Democracy in Action](https://startupceo.com/2014/06/democracy-in-action) — `2014-06-18-2014-06-democracy-in-action.md` — 162w
+- 2014-06-05 — [Book short:  Life Isn’t Just a Wiki](https://startupceo.com/2014/06/book-short-life-isnt-just-a-wiki) — `2014-06-05-2014-06-book-short-life-isnt-just-a-wiki.md` — 636w
+- 2014-05-22 — [The 90-Day Reverse Review](https://startupceo.com/2014/05/the-90-day-reverse-review) — `2014-05-22-2014-05-the-90-day-reverse-review.md` — 401w
+- 2014-05-08 — [Book Short:  Like Reading a Good Speech](https://startupceo.com/2014/05/book-short-like-reading-a-good-speech) — `2014-05-08-2014-05-book-short-like-reading-a-good-speech.md` — 357w
+- 2014-04-24 — [Breaking New Ground on Transparency](https://startupceo.com/2014/04/breaking-new-ground-on-transparency) — `2014-04-24-2014-04-breaking-new-ground-on-transparency.md` — 478w
+- 2014-04-10 — [Understanding the Drivers of Success](https://startupceo.com/2014/04/understanding-the-drivers-of-success) — `2014-04-10-2014-04-understanding-the-drivers-of-success.md` — 512w
+- 2014-03-26 — [Book Short:  Internet Fiction](https://startupceo.com/2014/03/book-short-internet-fiction) — `2014-03-26-2014-03-book-short-internet-fiction.md` — 457w
+- 2014-03-20 — [Secrets to Yawn-Free Board Meetings](https://startupceo.com/2014/03/secrets-to-yawn-free-board-meetings) — `2014-03-20-2014-03-secrets-to-yawn-free-board-meetings.md` — 949w
+- 2014-03-06 — [Open Vacation](https://startupceo.com/2014/03/open-vacation) — `2014-03-06-2014-03-open-vacation.md` — 595w
+- 2014-02-13 — [HR/People Lessons from Netflix](https://startupceo.com/2014/02/netflix) — `2014-02-13-2014-02-netflix.md` — 231w
+- 2014-01-30 — [New New Employee Training](https://startupceo.com/2014/01/new-new-employee-training-2) — `2014-01-30-2014-01-new-new-employee-training-2.md` — 226w
+- 2014-01-08 — [Book Short: Faster Than The Blink of an Eye](https://startupceo.com/2014/01/book-short-faster-than-the-blink-of-an-eye) — `2014-01-08-2014-01-book-short-faster-than-the-blink-of-an-eye.md` — 330w
+- 2014-01-07 — [Startup CEO:  The Online Course](https://startupceo.com/2014/01/startup-ceo-the-online-course) — `2014-01-07-2014-01-startup-ceo-the-online-course.md` — 335w
+- 2014-01-02 — [Sabbaticals](https://startupceo.com/2014/01/sabbaticals) — `2014-01-02-2014-01-sabbaticals.md` — 884w
+- 2013-12-19 — [5 Ways to Get Your Staff on the Same Page](https://startupceo.com/2013/12/5-ways-to-get-your-staff-on-the-same-page) — `2013-12-19-2013-12-5-ways-to-get-your-staff-on-the-same-page.md` — 729w
+- 2013-12-05 — [Onboarding vs. Waterboarding](https://startupceo.com/2013/12/onboarding-vs-waterboarding) — `2013-12-05-2013-12-onboarding-vs-waterboarding.md` — 887w
+- 2013-11-26 — [Book Short:  Triumph over Adversity](https://startupceo.com/2013/11/book-short-triumph-over-adversity) — `2013-11-26-2013-11-book-short-triumph-over-adversity.md` — 346w
+- 2013-11-21 — [Debunking the Myth of Hiring for Domain Expertise vs. Functional Expertise](https://startupceo.com/2013/11/debunking-the-myth-of-hiring-for-domain-expertise-vs-functional-expertise) — `2013-11-21-2013-11-debunking-the-myth-of-hiring-for-domain-expertise-vs-functional-expertis.md` — 465w
+- 2013-11-14 — [Startup CEO “Bibliography”](https://startupceo.com/2013/11/startup-ceo-bibliography) — `2013-11-14-2013-11-startup-ceo-bibliography.md` — 377w
+- 2013-11-07 — [Getting the Most out of Your Investors](https://startupceo.com/2013/11/getting-the-most-out-of-your-investors) — `2013-11-07-2013-11-getting-the-most-out-of-your-investors.md` — 891w
+- 2013-10-31 — [Selecting Your Investors](https://startupceo.com/2013/10/selecting-your-investors) — `2013-10-31-2013-10-selecting-your-investors.md` — 1050w
+- 2013-10-17 — [Lean In, Part II](https://startupceo.com/2013/10/lean-in-part-ii) — `2013-10-17-2013-10-lean-in-part-ii.md` — 724w
+- 2013-10-03 — [Who Controls the Future of Technology?](https://startupceo.com/2013/10/who-controls-the-future-of-technology) — `2013-10-03-2013-10-who-controls-the-future-of-technology.md` — 308w
+- 2013-10-03 — [Book Short:  Alignment Well Defined, Part II](https://startupceo.com/2013/10/book-short-alignment-well-defined-part-ii) — `2013-10-03-2013-10-book-short-alignment-well-defined-part-ii.md` — 319w
+- 2013-09-19 — [The Boomerang Club, or How to Quit Your Job, Part II](https://startupceo.com/2013/09/the-boomerang-club-or-how-to-quit-your-job-part-ii) — `2013-09-19-2013-09-the-boomerang-club-or-how-to-quit-your-job-part-ii.md` — 612w
+- 2013-09-13 — [How to Quit Your Job](https://startupceo.com/2013/09/how-to-quit-your-job) — `2013-09-13-2013-09-how-to-quit-your-job.md` — 697w
+- 2013-09-03 — [Startup CEO (OnlyOnce- the book!), Part IV – Book Launches Today!](https://startupceo.com/2013/09/startup-ceo-onlyonce-the-book-part-iv-book-launches-today) — `2013-09-03-2013-09-startup-ceo-onlyonce-the-book-part-iv-book-launches-today.md` — 164w
+- 2013-08-22 — [Unknown Unknowns](https://startupceo.com/2013/08/unknown-unknowns) — `2013-08-22-2013-08-unknown-unknowns.md` — 338w
+- 2013-08-12 — [Book Short:  Is CX the new UX?](https://startupceo.com/2013/08/book-short-is-cx-the-new-ux) — `2013-08-12-2013-08-book-short-is-cx-the-new-ux.md` — 468w
+- 2013-07-18 — [Book Short:  The Little Engine that Could](https://startupceo.com/2013/07/book-short-the-little-engine-that-could) — `2013-07-18-2013-07-book-short-the-little-engine-that-could.md` — 368w
+- 2013-07-09 — [Startup CEO (OnlyOnce- the book!), Part III – Pre-Order Now](https://startupceo.com/2013/07/startup-ceo-onlyonce-the-book-part-iii-pre-order-now) — `2013-07-09-2013-07-startup-ceo-onlyonce-the-book-part-iii-pre-order-now.md` — 1409w
+- 2013-07-04 — [Best CEO/Entrepreneur Quote Ever, By a Mile](https://startupceo.com/2013/07/best-ceoentrepreneur-quote-ever-by-a-mile) — `2013-07-04-2013-07-best-ceoentrepreneur-quote-ever-by-a-mile.md` — 251w
+- 2013-06-27 — [Book Short:  Tales of Two Cities](https://startupceo.com/2013/06/book-short-tales-of-two-cities) — `2013-06-27-2013-06-book-short-tales-of-two-cities.md` — 305w
+- 2013-06-20 — [Book Short:  Deep Dive on Customer Development](https://startupceo.com/2013/06/book-short-deep-dive-on-customer-development) — `2013-06-20-2013-06-book-short-deep-dive-on-customer-development.md` — 333w
+- 2013-06-06 — [Book Short:  Like a Prequel to My Book](https://startupceo.com/2013/06/book-short-like-a-prequel-to-my-book) — `2013-06-06-2013-06-book-short-like-a-prequel-to-my-book.md` — 232w
+- 2013-05-30 — [Connecting the Dots](https://startupceo.com/2013/05/connecting-the-dots) — `2013-05-30-2013-05-connecting-the-dots.md` — 390w
+- 2013-05-23 — [Book Not-So-Short:  Not Just for Women](https://startupceo.com/2013/05/book-not-so-short-not-just-for-women) — `2013-05-23-2013-05-book-not-so-short-not-just-for-women.md` — 1960w
+- 2013-05-13 — [Book Short:  Getting to MVP](https://startupceo.com/2013/05/book-short-getting-to-mvp) — `2013-05-13-2013-05-book-short-getting-to-mvp.md` — 336w
+- 2013-05-03 — [Firsts, Still](https://startupceo.com/2013/05/firsts-still) — `2013-05-03-2013-05-firsts-still.md` — 413w
+- 2013-05-01 — [Return Path’s Newest Board Member: Jeff Epstein](https://startupceo.com/2013/05/return-paths-newest-board-member-jeff-epstein) — `2013-05-01-2013-05-return-paths-newest-board-member-jeff-epstein.md` — 390w
+- 2013-04-25 — [The People Who Go to the Trainer the Most Are the Ones Who Were in the Best Shape to Begin With](https://startupceo.com/2013/04/the-people-who-go-to-the-trainer-the-most-are-the-ones-who-were-in-the-best-shape-to-begin-with) — `2013-04-25-2013-04-the-people-who-go-to-the-trainer-the-most-are-the-ones-who-were-in-the-b.md` — 594w
+- 2013-04-04 — [The Nachos Don’t Have Enough Beef in Them](https://startupceo.com/2013/04/the-nachos-dont-have-enough-beef-in-them) — `2013-04-04-2013-04-the-nachos-dont-have-enough-beef-in-them.md` — 369w
+- 2013-03-14 — [Luck Matters (and You Can Only Make Some of It)](https://startupceo.com/2013/03/luck-matters-and-you-can-only-make-some-of-it) — `2013-03-14-2013-03-luck-matters-and-you-can-only-make-some-of-it.md` — 344w
+- 2013-02-21 — [Book Short: Plain Talk](https://startupceo.com/2013/02/book-short-plain-talk) — `2013-02-21-2013-02-book-short-plain-talk.md` — 328w
+- 2013-02-07 — [Articulating the Problem is the First Step Toward Solving It](https://startupceo.com/2013/02/articulating-the-problem-is-the-first-step-toward-solving-it-2) — `2013-02-07-2013-02-articulating-the-problem-is-the-first-step-toward-solving-it-2.md` — 402w
+- 2013-01-31 — [A Little Quieter Than Usual, For Now](https://startupceo.com/2013/01/a-little-quieter-than-usual-for-now) — `2013-01-31-2013-01-a-little-quieter-than-usual-for-now.md` — 165w
+- 2013-01-24 — [How to Wow Your Manager](https://startupceo.com/2013/01/how-to-wow-your-manager) — `2013-01-24-2013-01-how-to-wow-your-manager.md` — 555w
+- 2013-01-17 — [How to Wow Your Employees](https://startupceo.com/2013/01/how-to-wow-your-employees) — `2013-01-17-2013-01-how-to-wow-your-employees.md` — 533w
+- 2013-01-10 — [Book Short:  Entrepreneurial Lessons](https://startupceo.com/2013/01/book-short-entrepreneurial-lessons) — `2013-01-10-2013-01-book-short-entrepreneurial-lessons.md` — 217w
+- 2013-01-03 — [Taking Stock, Part II](https://startupceo.com/2013/01/taking-stock-part-ii) — `2013-01-03-2013-01-taking-stock-part-ii.md` — 192w
+- 2012-12-20 — [Startup CEO (OnlyOnce- the book!), Part II – Crowdsourcing the Outline](https://startupceo.com/2012/12/startup-ceo-onlyonce-the-book-part-ii-crowdsourcing-the-outline) — `2012-12-20-2012-12-startup-ceo-onlyonce-the-book-part-ii-crowdsourcing-the-outline.md` — 510w
+- 2012-12-12 — [A New VC Ready to Go!](https://startupceo.com/2012/12/a-new-vc-ready-to-go) — `2012-12-12-2012-12-a-new-vc-ready-to-go.md` — 319w
+- 2012-12-06 — [Book Short: Culture is King](https://startupceo.com/2012/12/book-short-culture-is-king) — `2012-12-06-2012-12-book-short-culture-is-king.md` — 292w
+- 2012-11-29 — [The Value of Paying Down Technical Debt](https://startupceo.com/2012/11/the-value-of-paying-down-technical-debt) — `2012-11-29-2012-11-the-value-of-paying-down-technical-debt.md` — 614w
+- 2012-11-20 — [Not Just About Us](https://startupceo.com/2012/11/not-just-about-us) — `2012-11-20-2012-11-not-just-about-us.md` — 211w
+- 2012-11-15 — [Book Short:  The Challenger Sale](https://startupceo.com/2012/11/book-short) — `2012-11-15-2012-11-book-short.md` — 464w
+- 2012-11-08 — [Two Ears, One Mouth](https://startupceo.com/2012/11/two-ears-one-mouth) — `2012-11-08-2012-11-two-ears-one-mouth.md` — 428w
+- 2012-11-06 — [Startup CEO (OnlyOnce- the book!)](https://startupceo.com/2012/11/startup-ceo-onlyonce-the-book) — `2012-11-06-2012-11-startup-ceo-onlyonce-the-book.md` — 515w
+- 2012-11-01 — [Job 1](https://startupceo.com/2012/11/job-1) — `2012-11-01-2012-11-job-1.md` — 631w
+- 2012-10-26 — [Exciting News for Return Path](https://startupceo.com/2012/10/exciting-news-for-return-path) — `2012-10-26-2012-10-exciting-news-for-return-path.md` — 176w
+- 2012-10-25 — [Think Global, Act Local](https://startupceo.com/2012/10/think-global-act-local) — `2012-10-25-2012-10-think-global-act-local.md` — 645w
+- 2012-10-18 — [Book Short:  the Garage Workbench of the Future](https://startupceo.com/2012/10/book-short-the-garage-workbench-of-the-future-2) — `2012-10-18-2012-10-book-short-the-garage-workbench-of-the-future-2.md` — 298w
+- 2012-10-11 — [Return Path Core Values, Part III](https://startupceo.com/2012/10/return-path-core-values-part-iii) — `2012-10-11-2012-10-return-path-core-values-part-iii.md` — 573w
+- 2012-10-04 — [Scaling Horizontally](https://startupceo.com/2012/10/scaling-horizontally) — `2012-10-04-2012-10-scaling-horizontally.md` — 394w
+- 2012-09-19 — [Email Intelligence and the new Return Path](https://startupceo.com/2012/09/email-intelligence-and-the-new-return-path) — `2012-09-19-2012-09-email-intelligence-and-the-new-return-path.md` — 639w
+- 2012-09-13 — [How Do You Eat an Elephant?](https://startupceo.com/2012/09/how-do-you-eat-an-elephant) — `2012-09-13-2012-09-how-do-you-eat-an-elephant.md` — 264w
+- 2012-09-06 — [The Best Place to Work, Part 7: Create a Thankful Atmosphere](https://startupceo.com/2012/09/the-best-place-to-work-part-7-create-a-thankful-atmosphere) — `2012-09-06-2012-09-the-best-place-to-work-part-7-create-a-thankful-atmosphere.md` — 966w
+- 2012-08-30 — [The Best Place to Work, Part 6: Let People Be People](https://startupceo.com/2012/08/the-best-place-to-work-part-6-let-people-be-people) — `2012-08-30-2012-08-the-best-place-to-work-part-6-let-people-be-people.md` — 587w
+- 2012-08-23 — [The Best Place to Work, Part 5: Be the ultimate enabler](https://startupceo.com/2012/08/the-best-place-to-work-part-5-be-the-ultimate-enabler) — `2012-08-23-2012-08-the-best-place-to-work-part-5-be-the-ultimate-enabler.md` — 410w
+- 2012-08-16 — [The Best Place to Work, Part 4: Be the Consummate Host](https://startupceo.com/2012/08/the-best-place-to-work-part-4-be-the-consummate-host) — `2012-08-16-2012-08-the-best-place-to-work-part-4-be-the-consummate-host.md` — 259w
+- 2012-08-09 — [The Best Place to Work, Part 3: Manage yourself very, very well](https://startupceo.com/2012/08/the-best-place-to-work-part-3-manage-yourself-very-very-well) — `2012-08-09-2012-08-the-best-place-to-work-part-3-manage-yourself-very-very-well.md` — 510w
+- 2012-08-06 — [Hiring vs. Promoting – and a Must-Read Blog](https://startupceo.com/2012/08/hiring-vs-promoting-and-a-must-read-blog) — `2012-08-06-2012-08-hiring-vs-promoting-and-a-must-read-blog.md` — 278w
+- 2012-08-02 — [The Best Place to Work, Part 2: Create an environment of trust](https://startupceo.com/2012/08/the-best-place-to-work-part-2-create-an-environment-of-trust) — `2012-08-02-2012-08-the-best-place-to-work-part-2-create-an-environment-of-trust.md` — 295w
+- 2012-07-26 — [The Best Place to Work, Part 1: Surround yourself with the best and brightest](https://startupceo.com/2012/07/the-best-place-to-work-part-1-surround-yourself-with-the-best-and-brightest) — `2012-07-26-2012-07-the-best-place-to-work-part-1-surround-yourself-with-the-best-and-bright.md` — 313w
+- 2012-07-19 — [The Best Place to Work, Part 0](https://startupceo.com/2012/07/the-best-place-to-work-part-0) — `2012-07-19-2012-07-the-best-place-to-work-part-0.md` — 160w
+- 2012-07-12 — [Marketing Data: What You Don’t Know Can Hurt You](https://startupceo.com/2012/07/marketing-data-what-you-dont-know-can-hurt-you) — `2012-07-12-2012-07-marketing-data-what-you-dont-know-can-hurt-you.md` — 280w
+- 2012-06-28 — [How Many Thermometers Do You Need to Know the Turkey’s Done?](https://startupceo.com/2012/06/how-many-thermometers-do-you-need-to-know-the-turkeys-done) — `2012-06-28-2012-06-how-many-thermometers-do-you-need-to-know-the-turkeys-done.md` — 334w
+- 2012-06-21 — [Running a Productive Offsite](https://startupceo.com/2012/06/running-a-productive-offsite) — `2012-06-21-2012-06-running-a-productive-offsite.md` — 942w
+- 2012-06-14 — [Book Short:  Alignment Well Defined](https://startupceo.com/2012/06/book-short-alignment-well-defined) — `2012-06-14-2012-06-book-short-alignment-well-defined.md` — 486w
+- 2012-06-07 — [How Creative Do You Have to Be?](https://startupceo.com/2012/06/how-creative-do-you-have-to-be) — `2012-06-07-2012-06-how-creative-do-you-have-to-be.md` — 340w
+- 2012-05-31 — [What Kind of Entrepreneur Are You?](https://startupceo.com/2012/05/what-kind-of-entrepreneur-are-you) — `2012-05-31-2012-05-what-kind-of-entrepreneur-are-you.md` — 293w
+- 2012-05-24 — [Book Short:  Internet True Crime](https://startupceo.com/2012/05/book-short-internet-true-crime) — `2012-05-24-2012-05-book-short-internet-true-crime.md` — 168w
+- 2012-05-17 — [You Can’t Teach a Cat How to Bark, But You Might be Able to Teach it How to Walk on its Hind Legs](https://startupceo.com/2012/05/you-cant-teach-a-cat-how-to-bark-but-you-might-be-able-to-teach-it-how-to-walk-on-its-hind-legs) — `2012-05-17-2012-05-you-cant-teach-a-cat-how-to-bark-but-you-might-be-able-to-teach-it-how-t.md` — 344w
+- 2012-05-10 — [Learning Through Extremes, or Shifting Gears part II](https://startupceo.com/2012/05/learning-through-extremes-or-shifting-gears-part-ii) — `2012-05-10-2012-05-learning-through-extremes-or-shifting-gears-part-ii.md` — 427w
+- 2012-05-03 — [Skip-Level Meetings](https://startupceo.com/2012/05/skip-level-meetings) — `2012-05-03-2012-05-skip-level-meetings.md` — 524w
+- 2012-04-26 — [Book Short:  Required Reading, Part II](https://startupceo.com/2012/04/book_short_required_reading_part_ii) — `2012-04-26-2012-04-book_short_required_reading_part_ii.md` — 531w
+- 2012-04-19 — [The Art of the Quest](https://startupceo.com/2012/04/the-art-of-the-quest) — `2012-04-19-2012-04-the-art-of-the-quest.md` — 634w
+- 2012-04-12 — [Alter Ego](https://startupceo.com/2012/04/alter-ego) — `2012-04-12-2012-04-alter-ego.md` — 1163w
+- 2012-04-05 — [Scaling Me](https://startupceo.com/2012/04/scaling-me) — `2012-04-05-2012-04-scaling-me.md` — 374w
+- 2012-04-05 — [A Great American Experience](https://startupceo.com/2012/04/a-great-american-experience) — `2012-04-05-2012-04-a-great-american-experience.md` — 323w
+- 2012-03-29 — [Book Short:  Awesome Title, So-So Book](https://startupceo.com/2012/03/book-short-awesome-title-so-so-book) — `2012-03-29-2012-03-book-short-awesome-title-so-so-book.md` — 472w
+- 2012-03-22 — [What Separates Good Teams from Bad Teams?](https://startupceo.com/2012/03/what-separates-good-teams-from-bad-teams) — `2012-03-22-2012-03-what-separates-good-teams-from-bad-teams.md` — 280w
+- 2012-03-15 — [Canary in a Coal Mine](https://startupceo.com/2012/03/canary-in-a-coal-mine) — `2012-03-15-2012-03-canary-in-a-coal-mine.md` — 334w
+- 2012-03-08 — [People Should Come with an Instruction Manual](https://startupceo.com/2012/03/people-should-come-with-an-instruction-manual) — `2012-03-08-2012-03-people-should-come-with-an-instruction-manual.md` — 427w
+- 2012-03-01 — [Book Short (and great concept): Moments of Truth](https://startupceo.com/2012/03/book-short-and-great-concept-moments-of-truth) — `2012-03-01-2012-03-book-short-and-great-concept-moments-of-truth.md` — 587w
+- 2012-02-23 — [Just Say No](https://startupceo.com/2012/02/just-say-no) — `2012-02-23-2012-02-just-say-no.md` — 183w
+- 2012-02-16 — [Book Short:  Steve Jobs and Lessons for CEOs and Founders](https://startupceo.com/2012/02/book-short-steve-jobs-and-lessons-for-ceos-and-founders) — `2012-02-16-2012-02-book-short-steve-jobs-and-lessons-for-ceos-and-founders.md` — 930w
+- 2012-02-09 — [The Best Laid Plans, Part IV](https://startupceo.com/2012/02/the-best-laid-plans-part-iv) — `2012-02-09-2012-02-the-best-laid-plans-part-iv.md` — 458w
+- 2012-02-02 — [What Makes an Awesome Board Member](https://startupceo.com/2012/02/what-makes-an-awesome-board-member) — `2012-02-02-2012-02-what-makes-an-awesome-board-member.md` — 960w
+- 2012-02-02 — [The Best Laid Plans, Part III](https://startupceo.com/2012/02/the-best-laid-plans-part-iii) — `2012-02-02-2012-02-the-best-laid-plans-part-iii.md` — 381w
+- 2012-01-24 — [Is It Normal?](https://startupceo.com/2012/01/is-it-normal) — `2012-01-24-2012-01-is-it-normal.md` — 269w
+- 2012-01-23 — [Scaling the Team](https://startupceo.com/2012/01/scaling-the-team) — `2012-01-23-2012-01-scaling-the-team.md` — 815w
+- 2012-01-19 — [The Best Laid Plans, Part II](https://startupceo.com/2012/01/the-best-laid-plans-part-ii) — `2012-01-19-2012-01-the-best-laid-plans-part-ii.md` — 178w
+- 2012-01-17 — [Help Us, Help You](https://startupceo.com/2012/01/help-us-help-you) — `2012-01-17-2012-01-help-us-help-you.md` — 152w
+- 2012-01-12 — [The Best Laid Plans, Part I](https://startupceo.com/2012/01/the-best-laid-plans-part-i) — `2012-01-12-2012-01-the-best-laid-plans-part-i.md` — 270w
+- 2012-01-10 — [Articulating the Problem is the First Step Toward Solving It](https://startupceo.com/2012/01/articulating-the-problem-is-the-first-step-toward-solving-it) — `2012-01-10-2012-01-articulating-the-problem-is-the-first-step-toward-solving-it.md` — 392w
+- 2012-01-05 — [Book Short:  Fixing America](https://startupceo.com/2012/01/book-short-fixing-america) — `2012-01-05-2012-01-book-short-fixing-america.md` — 587w
+- 2012-01-03 — [Taking Stock](https://startupceo.com/2012/01/taking-stock) — `2012-01-03-2012-01-taking-stock.md` — 225w
+- 2011-12-20 — [Transparency Rules](https://startupceo.com/2011/12/transparency-rules) — `2011-12-20-2011-12-transparency-rules.md` — 788w
+- 2011-12-20 — [Return Path Core Values, Part II](https://startupceo.com/2011/12/return-path-core-values-part-ii) — `2011-12-20-2011-12-return-path-core-values-part-ii.md` — 307w
+- 2011-12-15 — [Picking Professional Services Firms](https://startupceo.com/2011/12/picking-professional-services-firms) — `2011-12-15-2011-12-picking-professional-services-firms.md` — 356w
+- 2011-12-08 — [To Err is Human, To Admit it is Divine](https://startupceo.com/2011/12/to-err-is-human) — `2011-12-08-2011-12-to-err-is-human.md` — 435w
+- 2011-12-01 — [The Ultimate Sales Job](https://startupceo.com/2011/12/the-ultimate-sales-job) — `2011-12-01-2011-12-the-ultimate-sales-job.md` — 334w
+- 2011-11-22 — [B+ for Effort?](https://startupceo.com/2011/11/b-for-effort) — `2011-11-22-2011-11-b-for-effort.md` — 424w
+- 2011-11-17 — [Remembering J.D.](https://startupceo.com/2011/11/remembering-j-d) — `2011-11-17-2011-11-remembering-j-d.md` — 628w
+- 2011-11-10 — [Protecting the Inbox](https://startupceo.com/2011/11/protecting-the-inbox) — `2011-11-10-2011-11-protecting-the-inbox.md` — 528w
+- 2011-11-03 — [Learning to Embrace Sizzle](https://startupceo.com/2011/11/learning-to-embrace-sizzle) — `2011-11-03-2011-11-learning-to-embrace-sizzle.md` — 464w
+- 2011-10-27 — [More Than 1/3 of Your Life](https://startupceo.com/2011/10/more-than-13-of-your-life) — `2011-10-27-2011-10-more-than-13-of-your-life.md` — 733w
+- 2011-10-20 — [Outrunning the Bear](https://startupceo.com/2011/10/outrunning-the-bear) — `2011-10-20-2011-10-outrunning-the-bear.md` — 210w
+- 2011-10-13 — [Beyond Policy](https://startupceo.com/2011/10/beyond-policy) — `2011-10-13-2011-10-beyond-policy.md` — 372w
+- 2011-10-11 — [Productive Eavesdropping](https://startupceo.com/2011/10/productive-eavesdropping) — `2011-10-11-2011-10-productive-eavesdropping.md` — 322w
+- 2011-10-07 — [Must-Read New Blog](https://startupceo.com/2011/10/must-read-new-blog) — `2011-10-07-2011-10-must-read-new-blog.md` — 219w
+- 2011-10-05 — [Building the Company vs. Building the Business](https://startupceo.com/2011/10/building-the-company-vs-building-the-business) — `2011-10-05-2011-10-building-the-company-vs-building-the-business.md` — 571w
+- 2011-09-29 — [Challenging Authority](https://startupceo.com/2011/09/challenging-authority) — `2011-09-29-2011-09-challenging-authority.md` — 449w
+- 2011-09-22 — [Who Are Your CPO and COO?](https://startupceo.com/2011/09/who-are-your-cpo-and-coo) — `2011-09-22-2011-09-who-are-your-cpo-and-coo.md` — 258w
+- 2011-09-15 — [Why We Occasionally Celebrate International Talk Like a Pirate Day](https://startupceo.com/2011/09/why-we-occasionally-celebrate-international-talk-like-a-pirate-day) — `2011-09-15-2011-09-why-we-occasionally-celebrate-international-talk-like-a-pirate-day.md` — 357w
+- 2011-09-09 — [9/11’s 10th](https://startupceo.com/2011/09/911s-10th) — `2011-09-09-2011-09-911s-10th.md` — 772w
+- 2011-09-08 — [Book Short: Wellness Redefined](https://startupceo.com/2011/09/book-short-wellness-redefined) — `2011-09-08-2011-09-book-short-wellness-redefined.md` — 463w
+- 2011-09-07 — [Why I Love My Board, Part III](https://startupceo.com/2011/09/why-i-love-my-board-part-iii) — `2011-09-07-2011-09-why-i-love-my-board-part-iii.md` — 145w
+- 2011-09-01 — [A Community of Employees](https://startupceo.com/2011/09/a-community-of-employees) — `2011-09-01-2011-09-a-community-of-employees.md` — 357w
+- 2011-08-25 — [The Limits of Perseverance](https://startupceo.com/2011/08/the-limits-of-perseverance) — `2011-08-25-2011-08-the-limits-of-perseverance.md` — 310w
+- 2011-08-18 — [People First](https://startupceo.com/2011/08/people-first) — `2011-08-18-2011-08-people-first.md` — 994w
+- 2011-08-11 — [Peter Principle, Applied to Management](https://startupceo.com/2011/08/peter-principle-applied-to-management) — `2011-08-11-2011-08-peter-principle-applied-to-management.md` — 640w
+- 2011-08-04 — [Keeping Commitments](https://startupceo.com/2011/08/keeping-commitments) — `2011-08-04-2011-08-keeping-commitments.md` — 333w
+- 2011-07-28 — [Management by Chameleon](https://startupceo.com/2011/07/management-by-chameleon) — `2011-07-28-2011-07-management-by-chameleon.md` — 510w
+- 2011-07-21 — [Solving Problems Together](https://startupceo.com/2011/07/solving-problems-together) — `2011-07-21-2011-07-solving-problems-together.md` — 305w
+- 2011-07-18 — [Book Short:  I Wish This Existed 12 Years Ago](https://startupceo.com/2011/07/book-short-i-wish-this-existed-12-years-ago) — `2011-07-18-2011-07-book-short-i-wish-this-existed-12-years-ago.md` — 362w
+- 2011-07-14 — [Retail, No Longer](https://startupceo.com/2011/07/retail-no-longer) — `2011-07-14-2011-07-retail-no-longer.md` — 330w
+- 2011-07-07 — [The Value of Ownership](https://startupceo.com/2011/07/the-value-of-ownership) — `2011-07-07-2011-07-the-value-of-ownership.md` — 580w
+- 2011-07-07 — [Return Path Core Values](https://startupceo.com/2011/07/return-path-core-values) — `2011-07-07-2011-07-return-path-core-values.md` — 392w
+- 2011-06-30 — [The Value of Constraints](https://startupceo.com/2011/06/the-value-of-constraints) — `2011-06-30-2011-06-the-value-of-constraints.md` — 244w
+- 2011-06-23 — [Triple Book Short: For Parents](https://startupceo.com/2011/06/triple-book-short-for-parents) — `2011-06-23-2011-06-triple-book-short-for-parents.md` — 607w
+- 2011-06-16 — [Keeping It All In Sync?](https://startupceo.com/2011/06/keeping-it-all-in-sync) — `2011-06-16-2011-06-keeping-it-all-in-sync.md` — 588w
+- 2011-06-09 — [Sometimes, Things Are Messy](https://startupceo.com/2011/06/sometimes-things-are-messy-2) — `2011-06-09-2011-06-sometimes-things-are-messy-2.md` — 420w
+- 2011-06-02 — [Try It On For Size](https://startupceo.com/2011/06/try-it-on-for-size) — `2011-06-02-2011-06-try-it-on-for-size.md` — 575w
+- 2011-05-26 — [You Have to Throw a Stone to Get the Pond to Ripple](https://startupceo.com/2011/05/you-have-to-throw-a-stone-to-get-the-pond-to-ripple) — `2011-05-26-2011-05-you-have-to-throw-a-stone-to-get-the-pond-to-ripple.md` — 742w
+- 2011-05-19 — [Be Ruthless With Your Time](https://startupceo.com/2011/05/be-ruthless-with-your-time) — `2011-05-19-2011-05-be-ruthless-with-your-time.md` — 671w
+- 2011-05-16 — [Pret a Manager](https://startupceo.com/2011/05/pret-a-manager) — `2011-05-16-2011-05-pret-a-manager.md` — 1323w
+- 2011-05-12 — [GEOITS](https://startupceo.com/2011/05/geoits) — `2011-05-12-2011-05-geoits.md` — 274w
+- 2011-05-10 — [Blogiversary, Part VII](https://startupceo.com/2011/05/blogiversary-part-vii) — `2011-05-10-2011-05-blogiversary-part-vii.md` — 256w
+- 2011-05-05 — [The Gift of Feedback, Part III](https://startupceo.com/2011/05/the-gift-of-feedback-part-iii-2) — `2011-05-05-2011-05-the-gift-of-feedback-part-iii-2.md` — 457w
+- 2011-05-03 — [Why Winning Matters (Especially When You’re Young)](https://startupceo.com/2011/05/why-winning-matters-especially-when-you%e2%80%99re-young) — `2011-05-03-2011-05-why-winning-matters-especially-when-you-e2-80-99re-young.md` — 462w
+- 2011-05-02 — [Juxtaposition](https://startupceo.com/2011/05/juxtaposition) — `2011-05-02-2011-05-juxtaposition.md` — 163w
+- 2011-04-28 — [First Rate Intelligence](https://startupceo.com/2011/04/first-rate-intelligence) — `2011-04-28-2011-04-first-rate-intelligence.md` — 195w
+- 2011-04-26 — [Guest Post: Staying Innovative as Your Business Grows (Part Two)](https://startupceo.com/2011/04/guest-post-staying-innovative-as-your-business-grows-part-two) — `2011-04-26-2011-04-guest-post-staying-innovative-as-your-business-grows-part-two.md` — 1049w
+- 2011-04-21 — [Backwards](https://startupceo.com/2011/04/backwards) — `2011-04-21-2011-04-backwards.md` — 541w
+- 2011-04-14 — [BookShort:  Vive La Difference](https://startupceo.com/2011/04/bookshort-vive-la-difference) — `2011-04-14-2011-04-bookshort-vive-la-difference.md` — 514w
+- 2011-04-07 — [The Fear/Greed Continuum](https://startupceo.com/2011/04/the-feargreed-continuum) — `2011-04-07-2011-04-the-feargreed-continuum.md` — 289w
+- 2011-03-31 — [Should You Have a Board?](https://startupceo.com/2011/03/should-you-have-a-board) — `2011-03-31-2011-03-should-you-have-a-board.md` — 387w
+- 2011-03-24 — [Size of Pie, a.k.a. What Type of Entrepreneur Are You?](https://startupceo.com/2011/03/size-of-pie) — `2011-03-24-2011-03-size-of-pie.md` — 449w
+- 2011-03-17 — [Connecting with Other CEOs](https://startupceo.com/2011/03/connecting-with-other-ceos) — `2011-03-17-2011-03-connecting-with-other-ceos.md` — 542w
+- 2011-03-14 — [Guest Post: Staying Innovative as Your Business Grows (Part One)](https://startupceo.com/2011/03/guest-post-staying-innovative-as-your-business-grows-part-one) — `2011-03-14-2011-03-guest-post-staying-innovative-as-your-business-grows-part-one.md` — 1049w
+- 2011-03-10 — [The Beginnings of a Roadmap to Fix America’s Badly Broken Political System?](https://startupceo.com/2011/03/the-beginnings-of-a-roadmap-to-fix-americas-badly-broken-political-system) — `2011-03-10-2011-03-the-beginnings-of-a-roadmap-to-fix-americas-badly-broken-political-syste.md` — 658w
+- 2011-03-09 — [The Art of the Post-Mortem](https://startupceo.com/2011/03/the-art-of-the-post-mortem) — `2011-03-09-2011-03-the-art-of-the-post-mortem.md` — 455w
+- 2011-03-03 — [Come Fly With Me](https://startupceo.com/2011/03/come-fly-with-me) — `2011-03-03-2011-03-come-fly-with-me.md` — 282w
+- 2011-02-07 — [The Three Functions of a Management Team](https://startupceo.com/2011/02/the-three-functions-of-a-management-team) — `2011-02-07-2011-02-the-three-functions-of-a-management-team.md` — 322w
+- 2011-01-27 — [Book Short:  Vulnerability Applied to Leadership](https://startupceo.com/2011/01/vulnerability-applied-to-leadership) — `2011-01-27-2011-01-vulnerability-applied-to-leadership.md` — 646w
+- 2011-01-20 — [Book Short:  Calm in a Crisis, Explained](https://startupceo.com/2011/01/book-short-calm-in-a-crisis-explained) — `2011-01-20-2011-01-book-short-calm-in-a-crisis-explained.md` — 311w
+- 2011-01-13 — [What a View, Part III](https://startupceo.com/2011/01/what-a-view-part-iii) — `2011-01-13-2011-01-what-a-view-part-iii.md` — 341w
+- 2011-01-12 — [5 Ways to Spot Trends That Will Make You (and Your Business) More Successful](https://startupceo.com/2011/01/5-ways-to-spot-trends-that-will-make-you-and-your-business-more-successful) — `2011-01-12-2011-01-5-ways-to-spot-trends-that-will-make-you-and-your-business-more-successf.md` — 701w
+- 2011-01-03 — [Macroeconomics for Startups](https://startupceo.com/2011/01/macroeconomics-for-startups) — `2011-01-03-2011-01-macroeconomics-for-startups.md` — 837w
+- 2010-12-27 — [Book Short: Beyond 10,000 Hours](https://startupceo.com/2010/12/book-short-beyond-10000-hours) — `2010-12-27-2010-12-book-short-beyond-10000-hours.md` — 361w
+- 2010-12-20 — [The iPad’s Limitations as a Business Device](https://startupceo.com/2010/12/the-ipads-limitations-as-a-business-device) — `2010-12-20-2010-12-the-ipads-limitations-as-a-business-device.md` — 249w
+- 2010-12-13 — [The UnEmployee](https://startupceo.com/2010/12/the-unemployee) — `2010-12-13-2010-12-the-unemployee.md` — 203w
+- 2010-12-06 — [Turn it up to Eleven!](https://startupceo.com/2010/12/turn-it-up-to-eleven) — `2010-12-06-2010-12-turn-it-up-to-eleven.md` — 265w
+- 2010-12-03 — [Selling a Line of Business](https://startupceo.com/2010/12/selling-a-line-of-business) — `2010-12-03-2010-12-selling-a-line-of-business.md` — 777w
+- 2010-11-09 — [Why I Love My Board](https://startupceo.com/2010/11/why-i-love-my-board) — `2010-11-09-2010-11-why-i-love-my-board.md` — 649w
+- 2010-11-02 — [Playing Offense vs. Playing Defense](https://startupceo.com/2010/11/playing-offense-vs-playing-defense) — `2010-11-02-2010-11-playing-offense-vs-playing-defense.md` — 414w
+- 2010-10-21 — [Book Short: Sequel Not Worth It](https://startupceo.com/2010/10/book-short-sequel-not-worth-it) — `2010-10-21-2010-10-book-short-sequel-not-worth-it.md` — 146w
+- 2010-10-18 — [Why CEOs Shouldn’t Mess with Engineers](https://startupceo.com/2010/10/why-ceos-shouldnt-mess-with-engineers) — `2010-10-18-2010-10-why-ceos-shouldnt-mess-with-engineers.md` — 305w
+- 2010-09-28 — [Managing by Checklist](https://startupceo.com/2010/09/managing-by-checklist) — `2010-09-28-2010-09-managing-by-checklist.md` — 254w
+- 2010-09-06 — [What Does a CEO Do, Anyway?](https://startupceo.com/2010/09/what-does-a-ceo-do-anyway) — `2010-09-06-2010-09-what-does-a-ceo-do-anyway.md` — 602w
+- 2010-08-26 — [Style, or Substance?](https://startupceo.com/2010/08/ceo-style) — `2010-08-26-2010-08-ceo-style.md` — 393w
+- 2010-08-17 — [Investment in the Email Ecosystem](https://startupceo.com/2010/08/investment-in-the-email-ecosystem) — `2010-08-17-2010-08-investment-in-the-email-ecosystem.md` — 967w
+- 2010-08-09 — [The Value (and Limitations) of Benchmarking](https://startupceo.com/2010/08/the-value-and-limitations-of-benchmarking) — `2010-08-09-2010-08-the-value-and-limitations-of-benchmarking.md` — 527w
+- 2010-07-31 — [I Don’t Want to Be Your Friend (Today), part III](https://startupceo.com/2010/07/i-don%e2%80%99t-want-to-be-your-friend-today-part-iii) — `2010-07-31-2010-07-i-don-e2-80-99t-want-to-be-your-friend-today-part-iii.md` — 130w
+- 2010-07-22 — [Feature Requests](https://startupceo.com/2010/07/feature-requests) — `2010-07-22-2010-07-feature-requests.md` — 120w
+- 2010-07-15 — [Mental Maps](https://startupceo.com/2010/07/mental-maps) — `2010-07-15-2010-07-mental-maps.md` — 469w
+- 2010-07-09 — [Book Short:  Multiplying Your Team’s Productivity](https://startupceo.com/2010/07/multipliers) — `2010-07-09-2010-07-multipliers.md` — 519w
+- 2010-07-08 — [OnlyOnce, Part II](https://startupceo.com/2010/07/revamp) — `2010-07-08-2010-07-revamp.md` — 178w
+- 2010-06-29 — [Automated Love](https://startupceo.com/2010/06/automated-love) — `2010-06-29-2010-06-automated-love.md` — 344w
+- 2010-06-28 — [The Greatest Minds in Email](https://startupceo.com/2010/06/the-greatest-minds-in-email) — `2010-06-28-2010-06-the-greatest-minds-in-email.md` — 124w
+- 2010-06-23 — [I Don’t Want to Be Your Friend (Today), part II](https://startupceo.com/2010/06/dont-want-to-be-your-friend-today-part-ii) — `2010-06-23-2010-06-dont-want-to-be-your-friend-today-part-ii.md` — 272w
+- 2010-06-09 — [Why I Love Our New Product](https://startupceo.com/2010/06/why-i-love-our-new-product) — `2010-06-09-2010-06-why-i-love-our-new-product.md` — 300w
+- 2010-06-08 — [Getting Good Inc., Part II](https://startupceo.com/2010/06/getting-good-inc-part-ii) — `2010-06-08-2010-06-getting-good-inc-part-ii.md` — 171w
+- 2010-06-04 — [I Love My Job](https://startupceo.com/2010/06/i-love-my-job) — `2010-06-04-2010-06-i-love-my-job.md` — 643w
+- 2010-05-27 — [Book Short:  There is No Blueprint to $1B](https://startupceo.com/2010/05/book-short-there-is-no-blueprint-to-1b) — `2010-05-27-2010-05-book-short-there-is-no-blueprint-to-1b.md` — 430w
+- 2010-05-20 — [Call Me](https://startupceo.com/2010/05/call-me) — `2010-05-20-2010-05-call-me.md` — 186w
+- 2010-05-10 — [Yiddish for Business](https://startupceo.com/2010/05/yiddish-for-business) — `2010-05-10-2010-05-yiddish-for-business.md` — 930w
+- 2010-05-06 — [New People Electrify the Organization](https://startupceo.com/2010/05/new-people-electrify-the-organization) — `2010-05-06-2010-05-new-people-electrify-the-organization.md` — 450w
+- 2010-04-27 — [Not Dead Yet](https://startupceo.com/2010/04/not-dead-yet) — `2010-04-27-2010-04-not-dead-yet.md` — 579w
+- 2010-03-31 — [The Human Whiteboard Syndrome](https://startupceo.com/2010/03/the-human-whiteboard-syndrome) — `2010-03-31-2010-03-the-human-whiteboard-syndrome.md` — 206w
+- 2010-03-17 — [Book Short:  Gladwell Lite](https://startupceo.com/2010/03/book-short-gladwell-lite) — `2010-03-17-2010-03-book-short-gladwell-lite.md` — 166w
+- 2010-02-22 — [From Founder/Builder to Manager/Leader](https://startupceo.com/2010/02/from-founderbuilder-to-managerleader) — `2010-02-22-2010-02-from-founderbuilder-to-managerleader.md` — 605w
+- 2010-02-14 — [Parenting and Corporate Leadership](https://startupceo.com/2010/02/parenting-and-corporate-leadership) — `2010-02-14-2010-02-parenting-and-corporate-leadership.md` — 464w
+- 2010-01-25 — [Book Short:  Not About Going With The…](https://startupceo.com/2010/01/book-short-not-about-going-with-the) — `2010-01-25-2010-01-book-short-not-about-going-with-the.md` — 740w
+- 2010-01-20 — [The Beginning of the DMA’s Next Chapter](https://startupceo.com/2010/01/the-beginning-of-the-dmas-next-chapter) — `2010-01-20-2010-01-the-beginning-of-the-dmas-next-chapter.md` — 479w
+- 2010-01-14 — [Jump Starting Start Ups](https://startupceo.com/2010/01/jump-starting-start-ups) — `2010-01-14-2010-01-jump-starting-start-ups.md` — 139w
+- 2010-01-05 — [What Gets Said vs. What Gets Heard](https://startupceo.com/2010/01/what-gets-said-vs-what-gets-heard) — `2010-01-05-2010-01-what-gets-said-vs-what-gets-heard.md` — 483w
+- 2009-12-28 — [Learning How to Stop](https://startupceo.com/2009/12/learning-how-to-stop) — `2009-12-28-2009-12-learning-how-to-stop.md` — 228w
+- 2009-12-21 — [Innovating in New York City](https://startupceo.com/2009/12/innovating-in-new-york-city) — `2009-12-21-2009-12-innovating-in-new-york-city.md` — 469w
+- 2009-12-17 — [Pivot, Don’t Jump!](https://startupceo.com/2009/12/pivot-dont-jump) — `2009-12-17-2009-12-pivot-dont-jump.md` — 400w
+- 2009-12-07 — [Book Short:  Innovation and Discipline](https://startupceo.com/2009/12/book-short-innovation-and-discipline) — `2009-12-07-2009-12-book-short-innovation-and-discipline.md` — 423w
+- 2009-12-06 — [A Perfect Ten](https://startupceo.com/2009/12/a-perfect-ten) — `2009-12-06-2009-12-a-perfect-ten.md` — 616w
+- 2009-11-23 — [Powerpointless](https://startupceo.com/2009/11/powerpointless) — `2009-11-23-2009-11-powerpointless.md` — 397w
+- 2009-11-16 — [Book Short:  Sloppy Sequel](https://startupceo.com/2009/11/book-short-sloppy-sequel) — `2009-11-16-2009-11-book-short-sloppy-sequel.md` — 499w
+- 2009-11-05 — [Book Short:  Chip Off the Old Block](https://startupceo.com/2009/11/book-short-chip-off-the-old-block-i-have-to-admit-i-was-more-than-a-little-skeptical-when-craig-spiezel-handed) — `2009-11-05-2009-11-book-short-chip-off-the-old-block-i-have-to-admit-i-was-more-than-a-litt.md` — 402w
+- 2009-10-22 — [If this madness all ended tomorrow, I would do…almost nothing](https://startupceo.com/2009/10/if-this-madness-all-ended-tomorrow-i-would-doalmost-nothing) — `2009-10-22-2009-10-if-this-madness-all-ended-tomorrow-i-would-doalmost-nothing.md` — 469w
+- 2009-10-21 — [Why I joined the DMA Board, and what you can expect of me in that role](https://startupceo.com/2009/10/why-i-joined-the-dma-board-and-what-you-can-expect-of-me-in-that-role) — `2009-10-21-2009-10-why-i-joined-the-dma-board-and-what-you-can-expect-of-me-in-that-role.md` — 786w
+- 2009-09-30 — [Wanted: Rock Star Marketer](https://startupceo.com/2009/09/wanted-rock-star-marketer) — `2009-09-30-2009-09-wanted-rock-star-marketer.md` — 304w
+- 2009-09-29 — [Closer to the Front Lines, Part II](https://startupceo.com/2009/09/closer-to-the-front-lines-ii) — `2009-09-29-2009-09-closer-to-the-front-lines-ii.md` — 204w
+- 2009-09-24 — [The Gift of Feedback, Part III](https://startupceo.com/2009/09/the-gift-of-feedback-part-iii) — `2009-09-24-2009-09-the-gift-of-feedback-part-iii.md` — 280w
+- 2009-09-18 — [How Deliverability is Like SEO and SEM for Email](https://startupceo.com/2009/09/how-deliverability-is-like-seo-and-sem-for-email) — `2009-09-18-2009-09-how-deliverability-is-like-seo-and-sem-for-email.md` — 681w
+- 2009-09-16 — [Another Only Once Moment, Sort Of](https://startupceo.com/2009/09/another-only-once-moment-sort-of) — `2009-09-16-2009-09-another-only-once-moment-sort-of.md` — 354w
+- 2009-09-14 — [The Gift of Feedback, Part II](https://startupceo.com/2009/09/the-gift-of-feedback-part-ii) — `2009-09-14-2009-09-the-gift-of-feedback-part-ii.md` — 255w
+- 2009-09-09 — [Scaling Frustrations](https://startupceo.com/2009/09/scaling-frustrations) — `2009-09-09-2009-09-scaling-frustrations.md` — 423w
+- 2009-09-03 — [Ten Characteristics of Great Investors](https://startupceo.com/2009/09/ten-characteristics-of-great-investors) — `2009-09-03-2009-09-ten-characteristics-of-great-investors.md` — 343w
+- 2009-09-02 — [Book Short:  Go Where They Ain’t](https://startupceo.com/2009/09/book-short-go-where-they-aint) — `2009-09-02-2009-09-book-short-go-where-they-aint.md` — 315w
+- 2009-08-26 — [What if There’s No Reason to Eat the Dog Food?](https://startupceo.com/2009/08/what-if-theres-no-reason-to-eat-the-dog-food) — `2009-08-26-2009-08-what-if-theres-no-reason-to-eat-the-dog-food.md` — 313w
+- 2009-08-19 — [Good Meeting Behavior](https://startupceo.com/2009/08/good-meeting-behavior) — `2009-08-19-2009-08-good-meeting-behavior.md` — 237w
+- 2009-08-16 — [Stuck In Legal, Responses](https://startupceo.com/2009/08/stuck-in-legal-responses) — `2009-08-16-2009-08-stuck-in-legal-responses.md` — 1184w
+- 2009-08-12 — [Stuck in Legal](https://startupceo.com/2009/08/stuck-in-legal) — `2009-08-12-2009-08-stuck-in-legal.md` — 282w
+- 2009-08-07 — [Techstars Roundup:  Why I Mentor Other Entrepreneurs](https://startupceo.com/2009/08/techstars-roundup-why-i-mentor-other-entrepreneurs) — `2009-08-07-2009-08-techstars-roundup-why-i-mentor-other-entrepreneurs.md` — 514w
+- 2009-07-31 — [Return Path Makes The List of "Best Places to Work" in Colorado](https://startupceo.com/2009/07/return-path-makes-the-list-of-best-places-to-work-in-colorado) — `2009-07-31-2009-07-return-path-makes-the-list-of-best-places-to-work-in-colorado.md` — 237w
+- 2009-07-28 — [Book Short:  Worth Buying Free](https://startupceo.com/2009/07/book-short-worth-buying-free) — `2009-07-28-2009-07-book-short-worth-buying-free.md` — 351w
+- 2009-07-22 — [Book Short:  A Twofer](https://startupceo.com/2009/07/book-short-a-twofer) — `2009-07-22-2009-07-book-short-a-twofer.md` — 324w
+- 2009-07-16 — [Self-Discipline:  Broken Windows Applied to You](https://startupceo.com/2009/07/selfdiscipline-broken-windows-applied-to-you) — `2009-07-16-2009-07-selfdiscipline-broken-windows-applied-to-you.md` — 743w
+- 2009-07-13 — [New Shoes](https://startupceo.com/2009/07/new-shoes) — `2009-07-13-2009-07-new-shoes.md` — 350w
+- 2009-07-09 — [Opening Night](https://startupceo.com/2009/07/opening-night) — `2009-07-09-2009-07-opening-night.md` — 216w
+- 2009-07-07 — [Book Short:  Bringing it on Home](https://startupceo.com/2009/07/book-short-bringing-it-on-home) — `2009-07-07-2009-07-book-short-bringing-it-on-home.md` — 405w
+- 2009-06-24 — [Techstars:  One Pitfall to Avoid](https://startupceo.com/2009/06/techstars-one-pitfall-to-avoid) — `2009-06-24-2009-06-techstars-one-pitfall-to-avoid.md` — 221w
+- 2009-06-23 — [A Clear Problem](https://startupceo.com/2009/06/a-clear-problem) — `2009-06-23-2009-06-a-clear-problem.md` — 137w
+- 2009-06-18 — [The Passion of the Specialist](https://startupceo.com/2009/06/the-passion-of-the-specialist) — `2009-06-18-2009-06-the-passion-of-the-specialist.md` — 338w
+- 2009-05-29 — [You've Never Seen a Girl Like This](https://startupceo.com/2009/05/youve-never-seen-a-girl-like-this) — `2009-05-29-2009-05-youve-never-seen-a-girl-like-this.md` — 312w
+- 2009-05-29 — [First day at Techstars:  Where do you start?](https://startupceo.com/2009/05/first-day-at-techstars-where-do-you-start) — `2009-05-29-2009-05-first-day-at-techstars-where-do-you-start.md` — 448w
+- 2009-05-27 — [Book Short:  Entrepreneurs in Government](https://startupceo.com/2009/05/book-short-entrepreneurs-in-government) — `2009-05-27-2009-05-book-short-entrepreneurs-in-government.md` — 218w
+- 2009-05-18 — [A Network of Teams, Not an Integrated System](https://startupceo.com/2009/05/a-network-of-teams-not-an-integrated-system) — `2009-05-18-2009-05-a-network-of-teams-not-an-integrated-system.md` — 312w
+- 2009-05-11 — [Five Years On](https://startupceo.com/2009/05/five-years-on) — `2009-05-11-2009-05-five-years-on.md` — 225w
+- 2009-05-04 — [The Party's Over?](https://startupceo.com/2009/05/the-partys-over) — `2009-05-04-2009-05-the-partys-over.md` — 613w
+- 2009-04-28 — [Vertical (Dis)Integration](https://startupceo.com/2009/04/vertical-disintegration) — `2009-04-28-2009-04-vertical-disintegration.md` — 334w
+- 2009-04-22 — [Book Short:  Wither the Team](https://startupceo.com/2009/04/book-short-i-keep-expecting-one-of-his-books-to-be-repetitive-or-boring-but-patrick-lencionis-the-five-dysfunctions-o) — `2009-04-22-2009-04-book-short-i-keep-expecting-one-of-his-books-to-be-repetitive-or-boring-.md` — 451w
+- 2009-04-14 — [The Catcher Hypothesis](https://startupceo.com/2009/04/the-catcher-hypothesis) — `2009-04-14-2009-04-the-catcher-hypothesis.md` — 345w
+- 2009-04-08 — [Book Short:  Loving the Strengths Movement More Than the Book](https://startupceo.com/2009/04/httponlyonceblogscomonlyonce200702book_short_nexthtml-go-put-your-strengths-to-work-6-powerful-steps-to-achiev) — `2009-04-08-2009-04-httponlyonceblogscomonlyonce200702book_short_nexthtml-go-put-your-streng.md` — 284w
+- 2009-04-02 — [I Don’t Want to Be Your Friend (Today)](https://startupceo.com/2009/04/i-dont-want-to-be-your-friend-today) — `2009-04-02-2009-04-i-dont-want-to-be-your-friend-today.md` — 669w
+- 2009-04-01 — [Senders No More](https://startupceo.com/2009/04/senders-no-more) — `2009-04-01-2009-04-senders-no-more.md` — 308w
+- 2009-03-25 — [Book Short:  The Religion of Heresy](https://startupceo.com/2009/03/book-short-the-religion-of-heresy) — `2009-03-25-2009-03-book-short-the-religion-of-heresy.md` — 403w
+- 2009-03-20 — [Book Short:  A Marketing-Led Turnaround](https://startupceo.com/2009/03/steve-mckeewhen-growth-stalls-how-it-happens-why-youre-stuck-and-what-to-do-about-itpractitioner-prior-inc-500-winner-an) — `2009-03-20-2009-03-steve-mckeewhen-growth-stalls-how-it-happens-why-youre-stuck-and-what-to.md` — 429w
+- 2009-03-18 — [Book Short:  Be Less Clever](https://startupceo.com/2009/03/whats-return-paths-positioning-is-it-competitive-in-the-right-way-are-we-obvious-enough-what-about-simply-the-fastest-w) — `2009-03-18-2009-03-whats-return-paths-positioning-is-it-competitive-in-the-right-way-are-we.md` — 582w
+- 2009-03-11 — [Book Short:  What’s Your Meeting Routine?](https://startupceo.com/2009/03/book-short-patrick-lencionis-death-by-meeting-is-as-brad-advertised-a-great-read-and-much-in-line-with-his) — `2009-03-11-2009-03-book-short-patrick-lencionis-death-by-meeting-is-as-brad-advertised-a-gr.md` — 312w
+- 2009-03-04 — [Why Are We Financing Fortune 500 Companies?](https://startupceo.com/2009/03/why-are-we-financing-fortune-500-companies) — `2009-03-04-2009-03-why-are-we-financing-fortune-500-companies.md` — 177w
+- 2009-03-02 — [Education and Entrepreneurship](https://startupceo.com/2009/03/education-and-entrepreneurship) — `2009-03-02-2009-03-education-and-entrepreneurship.md` — 318w
+- 2009-02-24 — [More Useful Than I Thought](https://startupceo.com/2009/02/more-useful-than-i-thought) — `2009-02-24-2009-02-more-useful-than-i-thought.md` — 317w
+- 2009-02-16 — [The Evils of Patent Litigation](https://startupceo.com/2009/02/the-evils-of-patent-litigation) — `2009-02-16-2009-02-the-evils-of-patent-litigation.md` — 822w
+- 2009-02-13 — [Book Short: Hire Great](https://startupceo.com/2009/02/book-short-its-certainly-not-hiring-season-for-most-of-america-the-world-the-universe-but-we-are-still-making-some-limited) — `2009-02-13-2009-02-book-short-its-certainly-not-hiring-season-for-most-of-america-the-world.md` — 473w
+- 2009-02-12 — [Less is More](https://startupceo.com/2009/02/less-is-more) — `2009-02-12-2009-02-less-is-more.md` — 315w
+- 2009-02-11 — [Please, Let There Be Another Explanation](https://startupceo.com/2009/02/obama-leadershipconsensus-ahead-of-timewhere-are-the-priority-items) — `2009-02-11-2009-02-obama-leadershipconsensus-ahead-of-timewhere-are-the-priority-items.md` — 462w
+- 2009-02-09 — [Desperately Seeking an Owner for "Other"](https://startupceo.com/2009/02/desperately-seeking-an-owner-for-other) — `2009-02-09-2009-02-desperately-seeking-an-owner-for-other.md` — 301w
+- 2009-02-02 — [Book Short: The Joys of Slinging Hash](https://startupceo.com/2009/02/book-short-the-joys-of-slinging-hash) — `2009-02-02-2009-02-book-short-the-joys-of-slinging-hash.md` — 305w
+- 2009-01-27 — [Symbolism in Action](https://startupceo.com/2009/01/symbolism-in-action) — `2009-01-27-2009-01-symbolism-in-action.md` — 364w
+- 2009-01-27 — [Book Short:  Long on Platitudes, Short on Value](https://startupceo.com/2009/01/book-short-long-on-platitudes-short-on-value) — `2009-01-27-2009-01-book-short-long-on-platitudes-short-on-value.md` — 200w
+- 2009-01-26 — [Living With Less…For Good?](https://startupceo.com/2009/01/living-with-lessfor-good) — `2009-01-26-2009-01-living-with-lessfor-good.md` — 366w
+- 2009-01-18 — [Angry, Defiant, and Replete with Poor Grammar](https://startupceo.com/2009/01/angry-defiant-and-replete-with-poor-grammar) — `2009-01-18-2009-01-angry-defiant-and-replete-with-poor-grammar.md` — 459w
+- 2009-01-14 — [Fig Wasp #879](https://startupceo.com/2009/01/fig-wasp-879) — `2009-01-14-2009-01-fig-wasp-879.md` — 1035w
+- 2009-01-05 — [Book Short:  Two New Ones from Veteran Writers](https://startupceo.com/2009/01/book-short-two-new-ones-from-veteran-writers) — `2009-01-05-2009-01-book-short-two-new-ones-from-veteran-writers.md` — 676w
+- 2008-12-28 — [Challenge](https://startupceo.com/2008/12/challenge) — `2008-12-28-2008-12-challenge.md` — 349w
+- 2008-12-19 — [Hertz Giveth, Hertz Taketh Away](https://startupceo.com/2008/12/hertz-giveth-hertz-taketh-away) — `2008-12-19-2008-12-hertz-giveth-hertz-taketh-away.md` — 307w
+- 2008-12-16 — [Projection](https://startupceo.com/2008/12/projection) — `2008-12-16-2008-12-projection.md` — 230w
+- 2008-12-14 — [Half the Benefit is in the Preparation](https://startupceo.com/2008/12/half-the-benefit-is-in-the-preparation) — `2008-12-14-2008-12-half-the-benefit-is-in-the-preparation.md` — 388w
+- 2008-12-06 — [Next One is the Big One, a.k.a. Nine is Fine](https://startupceo.com/2008/12/next-one-is-the-big-one-aka-nine-is-fine) — `2008-12-06-2008-12-next-one-is-the-big-one-aka-nine-is-fine.md` — 123w
+- 2008-12-05 — [Book Short:  A Brand Extension That Works](https://startupceo.com/2008/12/book-short-a-brand-extension-that-works) — `2008-12-05-2008-12-book-short-a-brand-extension-that-works.md` — 290w
+- 2008-11-17 — [I Wonder if I Could Ever Work for a Big Company](https://startupceo.com/2008/11/i-wonder-if-i-could-ever-work-for-a-big-company) — `2008-11-17-2008-11-i-wonder-if-i-could-ever-work-for-a-big-company.md` — 386w
+- 2008-11-11 — [Why Do I Have to Be Frisked to Go to an NFL Game?](https://startupceo.com/2008/11/why-do-i-have-to-be-frisked-to-go-to-an-nfl-game) — `2008-11-11-2008-11-why-do-i-have-to-be-frisked-to-go-to-an-nfl-game.md` — 193w
+- 2008-11-11 — [If You’re Going to Do Something, Do It First Class](https://startupceo.com/2008/11/if-youre-going-to-do-something-do-it-first-class) — `2008-11-11-2008-11-if-youre-going-to-do-something-do-it-first-class.md` — 261w
+- 2008-11-05 — [Lessons from the Election](https://startupceo.com/2008/11/lessons-from-the-election) — `2008-11-05-2008-11-lessons-from-the-election.md` — 320w
+- 2008-11-03 — [No Separation Anxiety](https://startupceo.com/2008/11/no-separation-anxiety) — `2008-11-03-2008-11-no-separation-anxiety.md` — 577w
+- 2008-10-30 — [Charting A New Path:  Focus is Our Friend](https://startupceo.com/2008/10/when-return-path-turned-six-years-old-a-few-years-ago-i-wrote-a-post-on-my-personal-blog-onlyonce-titled-you-cant-tell-wha) — `2008-10-30-2008-10-when-return-path-turned-six-years-old-a-few-years-ago-i-wrote-a-post-on-.md` — 383w
+- 2008-10-22 — [Managing in a Downturn](https://startupceo.com/2008/10/managing-in-a-d) — `2008-10-22-2008-10-managing-in-a-d.md` — 323w
+- 2008-10-21 — [What is the News, These Days?](https://startupceo.com/2008/10/what-is-the-new) — `2008-10-21-2008-10-what-is-the-new.md` — 195w
+- 2008-10-18 — [Book Short: The Anti-Level-5 Leader](https://startupceo.com/2008/10/book-short-the) — `2008-10-18-2008-10-book-short-the.md` — 290w
+- 2008-10-10 — [It's Not Having What You Want, It's Wanting What You've Got](https://startupceo.com/2008/10/its-not-having) — `2008-10-10-2008-10-its-not-having.md` — 433w
+- 2008-10-02 — [Just Ask a 5-Year Old](https://startupceo.com/2008/10/just-ask-a-5-ye) — `2008-10-02-2008-10-just-ask-a-5-ye.md` — 685w
+- 2008-09-26 — [Like an Organ Transplant](https://startupceo.com/2008/09/like-an-organ-t) — `2008-09-26-2008-09-like-an-organ-t.md` — 435w
+- 2008-09-22 — [Closure](https://startupceo.com/2008/09/closure) — `2008-09-22-2008-09-closure.md` — 374w
+- 2008-09-19 — [Why The Rules Have to Be Flexible](https://startupceo.com/2008/09/why-the-rules-h) — `2008-09-19-2008-09-why-the-rules-h.md` — 199w
+- 2008-09-18 — [Entrepreneur’s Perspective on Non-Competes](https://startupceo.com/2008/09/entrepreneurs-p) — `2008-09-18-2008-09-entrepreneurs-p.md` — 830w
+- 2008-09-11 — [7 Years On](https://startupceo.com/2008/09/7-years-on) — `2008-09-11-2008-09-7-years-on.md` — 334w
+- 2008-09-08 — [I Can’t Tell If I Like This Or Not](https://startupceo.com/2008/09/i-cant-tell-if) — `2008-09-08-2008-09-i-cant-tell-if.md` — 159w
+- 2008-09-05 — [Hands in the Cookie Jar](https://startupceo.com/2008/09/hands-in-the-co) — `2008-09-05-2008-09-hands-in-the-co.md` — 382w
+- 2008-09-04 — [Sometimes You Just Need a 2×4 Between the Eyes](https://startupceo.com/2008/09/sometimes-you-j) — `2008-09-04-2008-09-sometimes-you-j.md` — 328w
+- 2008-09-01 — [Back to…](https://startupceo.com/2008/09/back-to) — `2008-09-01-2008-09-back-to.md` — 323w
+- 2008-08-25 — [Half as Long, One Third as Hard](https://startupceo.com/2008/08/half-as-long-on) — `2008-08-25-2008-08-half-as-long-on.md` — 366w
+- 2008-08-12 — [Opportunity Knocks](https://startupceo.com/2008/08/opportunity-kno) — `2008-08-12-2008-08-opportunity-kno.md` — 714w
+- 2008-08-09 — [Book Short:  Catchiest Title in a Long Time](https://startupceo.com/2008/08/book-short-catc) — `2008-08-09-2008-08-book-short-catc.md` — 409w
+- 2008-08-05 — [Curbing My Enthusiasm](https://startupceo.com/2008/08/curbing-my-enth) — `2008-08-05-2008-08-curbing-my-enth.md` — 175w
+- 2008-08-05 — [Book Short:  On The Same Page](https://startupceo.com/2008/08/book-short-on-t) — `2008-08-05-2008-08-book-short-on-t.md` — 187w
+- 2008-07-29 — [Book Short:  On Employee Engagement](https://startupceo.com/2008/07/book-short-on-e) — `2008-07-29-2008-07-book-short-on-e.md` — 155w
+- 2008-07-26 — [Why Do People Behave Like Jackasses Online?](https://startupceo.com/2008/07/why-do-people-b) — `2008-07-26-2008-07-why-do-people-b.md` — 333w
+- 2008-07-19 — [Book Short:  Stick Figures That Matter](https://startupceo.com/2008/07/book-short-stic) — `2008-07-19-2008-07-book-short-stic.md` — 262w
+- 2008-07-07 — [Learn Word of Mouth Marketing](https://startupceo.com/2008/07/learn-word-of-m) — `2008-07-07-2008-07-learn-word-of-m.md` — 219w
+- 2008-06-27 — [Please, Keep Not Calling (Thank You!)](https://startupceo.com/2008/06/please-keep-not) — `2008-06-27-2008-06-please-keep-not.md` — 152w
+- 2008-06-27 — [Driving Out of the Bubble](https://startupceo.com/2008/06/driving-out-of) — `2008-06-27-2008-06-driving-out-of.md` — 475w
+- 2008-06-19 — [Run, Brad, Run!](https://startupceo.com/2008/06/run-brad-run) — `2008-06-19-2008-06-run-brad-run.md` — 480w
+- 2008-06-05 — [Poor Systems Integration Just Makes It Worse, Part II](https://startupceo.com/2008/06/poor-systems-in) — `2008-06-05-2008-06-poor-systems-in.md` — 129w
+- 2008-06-04 — [Book Short:  How, Now](https://startupceo.com/2008/06/book-short-how) — `2008-06-04-2008-06-book-short-how.md` — 401w
+- 2008-05-22 — [Inbox = Zero = Satisfying (Quasi Book Short)](https://startupceo.com/2008/05/inbox-zero-sati) — `2008-05-22-2008-05-inbox-zero-sati.md` — 212w
+- 2008-05-15 — [Morning Chuckle](https://startupceo.com/2008/05/morning-chuckle) — `2008-05-15-2008-05-morning-chuckle.md` — 236w
+- 2008-05-14 — [Legal Aggression](https://startupceo.com/2008/05/legal-aggressio) — `2008-05-14-2008-05-legal-aggressio.md` — 180w
+- 2008-05-12 — [Drawing the Line:  Where We Come out](https://startupceo.com/2008/05/drawing-the-lin) — `2008-05-12-2008-05-drawing-the-lin.md` — 963w
+- 2008-05-12 — [Book Short:  A SPIN Selling Companion](https://startupceo.com/2008/05/book-short-a-sp) — `2008-05-12-2008-05-book-short-a-sp.md` — 355w
+- 2008-05-11 — [Blogiversary, Part IV](https://startupceo.com/2008/05/blogiversary-pa) — `2008-05-11-2008-05-blogiversary-pa.md` — 283w
+- 2008-05-06 — [Book Short:  Presentation Zen](https://startupceo.com/2008/05/book-short-pres) — `2008-05-06-2008-05-book-short-pres.md` — 156w
+- 2008-04-30 — [You Have to Shoot to Score](https://startupceo.com/2008/04/you-have-to-sho) — `2008-04-30-2008-04-you-have-to-sho.md` — 291w
+- 2008-04-29 — [Wither the News? (Plus a Bonus Book Short)](https://startupceo.com/2008/04/wither-the-news) — `2008-04-29-2008-04-wither-the-news.md` — 447w
+- 2008-04-29 — [Executive and Closed Sessions](https://startupceo.com/2008/04/executive-and-c) — `2008-04-29-2008-04-executive-and-c.md` — 221w
+- 2008-04-28 — [Drawing the Line](https://startupceo.com/2008/04/drawing-the-lin-2) — `2008-04-28-2008-04-drawing-the-lin-2.md` — 505w
+- 2008-04-12 — [Poor Systems Integration Just Makes It Worse](https://startupceo.com/2008/04/poor-systems-in-2) — `2008-04-12-2008-04-poor-systems-in-2.md` — 252w
+- 2008-04-07 — [No Recession at Return Path](https://startupceo.com/2008/04/no-recession-at) — `2008-04-07-2008-04-no-recession-at.md` — 250w
+- 2008-04-01 — [What's the Response Rate on This Campaign?](https://startupceo.com/2008/04/whats-the-respo) — `2008-04-01-2008-04-whats-the-respo.md` — 160w
+- 2008-03-26 — [Closer to the Front Lines](https://startupceo.com/2008/03/closer-to-the-f) — `2008-03-26-2008-03-closer-to-the-f.md` — 432w
+- 2008-03-18 — [Don't Ever Do a Conference Call from an Airport](https://startupceo.com/2008/03/dont-ever-do-a) — `2008-03-18-2008-03-dont-ever-do-a.md` — 183w
+- 2008-03-18 — [A Flurry of CAN-SPAM Activity – Is It Meaningful?](https://startupceo.com/2008/03/a-flurry-of-can) — `2008-03-18-2008-03-a-flurry-of-can.md` — 286w
+- 2008-03-17 — [Book Short:  Smaller is the New Small](https://startupceo.com/2008/03/book-short-smal) — `2008-03-17-2008-03-book-short-smal.md` — 231w
+- 2008-03-10 — [Couldn't Happen to a Nicer Guy](https://startupceo.com/2008/03/couldnt-happen) — `2008-03-10-2008-03-couldnt-happen.md` — 149w
+- 2008-03-05 — [The Gift of Feedback](https://startupceo.com/2008/03/the-gift-of-fee) — `2008-03-05-2008-03-the-gift-of-fee.md` — 415w
+- 2008-03-05 — [Sophisticated Negotiation Technique](https://startupceo.com/2008/03/sophisticated-n) — `2008-03-05-2008-03-sophisticated-n.md` — 217w
+- 2008-03-02 — [Advisory Boards](https://startupceo.com/2008/03/advisory-boards) — `2008-03-02-2008-03-advisory-boards.md` — 440w
+- 2008-02-25 — [Book Short:  Chock Full O Management & Leadership](https://startupceo.com/2008/02/i-just-finished) — `2008-02-25-2008-02-i-just-finished.md` — 175w
+- 2008-02-18 — [Book Short:  Tech Founder?  Varsity Basketball Captain?  Both!  At the Same Time!](https://startupceo.com/2008/02/book-short-tech) — `2008-02-18-2008-02-book-short-tech.md` — 233w
+- 2008-02-13 — [Book Short:  What’s For Dinner Tonight, Honey?](https://startupceo.com/2008/02/book-short-what) — `2008-02-13-2008-02-book-short-what.md` — 380w
+- 2008-02-05 — [Voting in Manhattan](https://startupceo.com/2008/02/voting-in-manha) — `2008-02-05-2008-02-voting-in-manha.md` — 129w
+- 2008-01-27 — [Book Short:  A Must Read](https://startupceo.com/2008/01/book-short-a-mu) — `2008-01-27-2008-01-book-short-a-mu.md` — 315w
+- 2008-01-13 — [Are You As Versatile As Running?](https://startupceo.com/2008/01/are-you-as-vers) — `2008-01-13-2008-01-are-you-as-vers.md` — 532w
+- 2008-01-11 — [Mail Fusion](https://startupceo.com/2008/01/mail-fusion) — `2008-01-11-2008-01-mail-fusion.md` — 247w
+- 2008-01-05 — [Bad Side Effect of Tropical Heat Waves?](https://startupceo.com/2008/01/bad-side-effect) — `2008-01-05-2008-01-bad-side-effect.md` — 151w
+- 2007-12-27 — [When Good Companies Go Bad](https://startupceo.com/2007/12/when-good-compa) — `2007-12-27-2007-12-when-good-compa.md` — 458w
+- 2007-12-22 — [Book Short:  a Corporate Team of Rivals](https://startupceo.com/2007/12/book-short-a-co) — `2007-12-22-2007-12-book-short-a-co.md` — 577w
+- 2007-12-19 — [Holiday Cards c. 2007](https://startupceo.com/2007/12/holiday-cards-c) — `2007-12-19-2007-12-holiday-cards-c.md` — 160w
+- 2007-11-30 — [Facebook and Privacy](https://startupceo.com/2007/11/facebook-and-pr) — `2007-11-30-2007-11-facebook-and-pr.md` — 120w
+- 2007-11-25 — [The Facebook Fad](https://startupceo.com/2007/11/the-facebook-fa) — `2007-11-25-2007-11-the-facebook-fa.md` — 785w
+- 2007-11-20 — [Academic Inspiration](https://startupceo.com/2007/11/academic-inspir) — `2007-11-20-2007-11-academic-inspir.md` — 515w
+- 2007-11-18 — [Saying Goodbye](https://startupceo.com/2007/11/saying-goodbye) — `2007-11-18-2007-11-saying-goodbye.md` — 428w
+- 2007-11-18 — [In Search of Automated Relevance](https://startupceo.com/2007/11/a-bunch-of-us-h) — `2007-11-18-2007-11-a-bunch-of-us-h.md` — 1264w
+- 2007-11-11 — [It's The Little Things](https://startupceo.com/2007/11/its-the-little) — `2007-11-11-2007-11-its-the-little.md` — 233w
+- 2007-11-08 — [The Social Aspects of Running a Board](https://startupceo.com/2007/11/the-social-aspe) — `2007-11-08-2007-11-the-social-aspe.md` — 255w
+- 2007-11-02 — [In Defense of Email, Part 9,732](https://startupceo.com/2007/11/in-defense-of-e) — `2007-11-02-2007-11-in-defense-of-e.md` — 436w
+- 2007-10-31 — [New Daily Read](https://startupceo.com/2007/10/new-daily-read) — `2007-10-31-2007-10-new-daily-read.md` — 160w
+- 2007-10-22 — [New Media’s Influence on the Traditional](https://startupceo.com/2007/10/new-medias-infl) — `2007-10-22-2007-10-new-medias-infl.md` — 229w
+- 2007-10-17 — [The Highest Form of Flattery](https://startupceo.com/2007/10/the-highest-for) — `2007-10-17-2007-10-the-highest-for.md` — 278w
+- 2007-10-11 — [People are People, Part II](https://startupceo.com/2007/10/people-are-peop) — `2007-10-11-2007-10-people-are-peop.md` — 345w
+- 2007-10-08 — [Impact of a Leader](https://startupceo.com/2007/10/impact-of-a-lea) — `2007-10-08-2007-10-impact-of-a-lea.md` — 478w
+- 2007-09-28 — [Child Prodigies, or Misspent Youths?](https://startupceo.com/2007/09/i-just-got-an-e) — `2007-09-28-2007-09-i-just-got-an-e.md` — 321w
+- 2007-09-26 — [Lighten Up!](https://startupceo.com/2007/09/lighten-up) — `2007-09-26-2007-09-lighten-up.md` — 242w
+- 2007-09-25 — [We’re Right Up (Down?) There With Lawyers Now](https://startupceo.com/2007/09/were-right-up-d) — `2007-09-25-2007-09-were-right-up-d.md` — 237w
+- 2007-09-19 — [The Wheels of Justice Move Slowly](https://startupceo.com/2007/09/the-wheels-of-j) — `2007-09-19-2007-09-the-wheels-of-j.md` — 168w
+- 2007-09-19 — [Clients at Different Levels](https://startupceo.com/2007/09/clients-at-diff) — `2007-09-19-2007-09-clients-at-diff.md` — 394w
+- 2007-09-12 — [Unleashing the True Power of Email](https://startupceo.com/2007/09/unleashing-the) — `2007-09-12-2007-09-unleashing-the.md` — 672w
+- 2007-09-11 — [A Dreary Day at Ground Zero](https://startupceo.com/2007/09/a-dreary-day-at) — `2007-09-11-2007-09-a-dreary-day-at.md` — 211w
+- 2007-09-06 — [Personal Reputation](https://startupceo.com/2007/09/personal-reputa) — `2007-09-06-2007-09-personal-reputa.md` — 549w
+- 2007-09-04 — [Back to Business?](https://startupceo.com/2007/09/back-to-busines) — `2007-09-04-2007-09-back-to-busines.md` — 182w
+- 2007-08-27 — [More Good Inc.](https://startupceo.com/2007/08/more-good-inc) — `2007-08-27-2007-08-more-good-inc.md` — 216w
+- 2007-08-22 — [Father/Mother Knows Best?](https://startupceo.com/2007/08/fathermother-kn) — `2007-08-22-2007-08-fathermother-kn.md` — 398w
+- 2007-08-16 — [A Culture of Appreciation](https://startupceo.com/2007/08/a-culture-of-ap) — `2007-08-16-2007-08-a-culture-of-ap.md` — 347w
+- 2007-08-09 — [Spam Filter and False Positive Reality Check](https://startupceo.com/2007/08/spam-filter-and) — `2007-08-09-2007-08-spam-filter-and.md` — 224w
+- 2007-08-08 — [Collaboration is Hard, Part III](https://startupceo.com/2007/08/collaboration-1) — `2007-08-08-2007-08-collaboration-1.md` — 670w
+- 2007-08-02 — [A Model for Transparency](https://startupceo.com/2007/08/a-model-for-tra) — `2007-08-02-2007-08-a-model-for-tra.md` — 696w
+- 2007-08-01 — [Collaboration is Hard, Part II](https://startupceo.com/2007/08/collaboration-i) — `2007-08-01-2007-08-collaboration-i.md` — 582w
+- 2007-07-27 — [A Viral Marketing Program That Needs to See a Doctor](https://startupceo.com/2007/07/a-viral-marketi) — `2007-07-27-2007-07-a-viral-marketi.md` — 225w
+- 2007-07-25 — [Collaboration is Hard, Part I](https://startupceo.com/2007/07/collaboration-i-2) — `2007-07-25-2007-07-collaboration-i-2.md` — 947w
+- 2007-07-19 — [Everything That is New is Old](https://startupceo.com/2007/07/everything-that) — `2007-07-19-2007-07-everything-that.md` — 479w
+- 2007-07-17 — [Why Do Companies Sell?](https://startupceo.com/2007/07/why-do-companie) — `2007-07-17-2007-07-why-do-companie.md` — 303w
+- 2007-07-11 — [Book Short:  A Good Dose of Introspection](https://startupceo.com/2007/07/book-short-a-go) — `2007-07-11-2007-07-book-short-a-go.md` — 192w
+- 2007-07-04 — [The Acquisition (a parody of a parody)](https://startupceo.com/2007/07/the-acquisition) — `2007-07-04-2007-07-the-acquisition.md` — 227w
+- 2007-06-20 — [Must Read Post on Entrepreneurship](https://startupceo.com/2007/06/must_read_post_) — `2007-06-20-2007-06-must_read_post_.md` — 192w
+- 2007-06-15 — [Is Permission Still Relevant?](https://startupceo.com/2007/06/is_permission_s) — `2007-06-15-2007-06-is_permission_s.md` — 678w
+- 2007-06-13 — [The Very Unfriendly Skies of United, Part II](https://startupceo.com/2007/06/the_very_unfrie) — `2007-06-13-2007-06-the_very_unfrie.md` — 121w
+- 2007-06-07 — [Book Short:  Shamu-rific](https://startupceo.com/2007/06/book_short_sham) — `2007-06-07-2007-06-book_short_sham.md` — 263w
+- 2007-06-06 — [The 80 Percent Rule (Not the 80/20 Rule)](https://startupceo.com/2007/06/the_80_percent_) — `2007-06-06-2007-06-the_80_percent_.md` — 264w
+- 2007-06-04 — [Google en Fuego](https://startupceo.com/2007/06/google_en_fuego) — `2007-06-04-2007-06-google_en_fuego.md` — 397w
+- 2007-06-04 — [A New (Old) Favorite Returns as a Blog](https://startupceo.com/2007/06/a_new_old_favor) — `2007-06-04-2007-06-a_new_old_favor.md` — 160w
+- 2007-05-24 — [Book Short:  Blogging Alone?](https://startupceo.com/2007/05/book_short_blog) — `2007-05-24-2007-05-book_short_blog.md` — 489w
+- 2007-05-17 — [A Thankful Moment](https://startupceo.com/2007/05/a_thankful_mome) — `2007-05-17-2007-05-a_thankful_mome.md` — 398w
+- 2007-05-15 — [Why Exactly Does Anyone Use WebEx?](https://startupceo.com/2007/05/why_exactly_doe) — `2007-05-15-2007-05-why_exactly_doe.md` — 191w
+- 2007-05-15 — [Brilliant Client Service:  It’s Not Just for Peaceful Revolutionaries Any More!](https://startupceo.com/2007/05/brilliant_clien) — `2007-05-15-2007-05-brilliant_clien.md` — 213w
+- 2007-05-11 — [Email Marketing Blog](https://startupceo.com/2007/05/email_marketing) — `2007-05-11-2007-05-email_marketing.md` — 168w
+- 2007-05-10 — [It Never Goes Without Saying](https://startupceo.com/2007/05/it_never_goes_w) — `2007-05-10-2007-05-it_never_goes_w.md` — 266w
+- 2007-05-10 — [In the Land of Too Many Conferences, This is a Good One](https://startupceo.com/2007/05/in_the_land_of_) — `2007-05-10-2007-05-in_the_land_of_.md` — 366w
+- 2007-05-03 — [Feeling Less Like a Luddite:  Welcome, Lijit!](https://startupceo.com/2007/05/feeling_less_li) — `2007-05-03-2007-05-feeling_less_li.md` — 187w
+- 2007-05-02 — [Old and Young Alike?](https://startupceo.com/2007/05/old_and_young_a) — `2007-05-02-2007-05-old_and_young_a.md` — 126w
+- 2007-05-01 — [The Very Unfriendly Skies of United](https://startupceo.com/2007/05/the_very_unfrie-2) — `2007-05-01-2007-05-the_very_unfrie-2.md` — 339w
+- 2007-04-26 — [Silly, Silly Patent Nonsense](https://startupceo.com/2007/04/silly_silly_pat) — `2007-04-26-2007-04-silly_silly_pat.md` — 554w
+- 2007-04-15 — [Calling for the Boss’s Head](https://startupceo.com/2007/04/calling_for_the) — `2007-04-15-2007-04-calling_for_the.md` — 353w
+- 2007-04-08 — [Highs and Lows, Part II](https://startupceo.com/2007/04/highs_and_lows_) — `2007-04-08-2007-04-highs_and_lows_.md` — 278w
+- 2007-03-28 — [Marketing is Like Baskin Robbins](https://startupceo.com/2007/03/marketing_is_li) — `2007-03-28-2007-03-marketing_is_li.md` — 383w
+- 2007-03-26 — [Book Short:  Crazy Eights](https://startupceo.com/2007/03/book_short_craz) — `2007-03-26-2007-03-book_short_craz.md` — 390w
+- 2007-03-21 — [Leaders Discredited from Leading?](https://startupceo.com/2007/03/in_bill_lmcclos) — `2007-03-21-2007-03-in_bill_lmcclos.md` — 476w
+- 2007-03-16 — [Staying Power](https://startupceo.com/2007/03/staying_power) — `2007-03-16-2007-03-staying_power.md` — 320w
+- 2007-03-13 — [I Hope I Didn’t Make You Sick, Too](https://startupceo.com/2007/03/i_hope_i_didnt_) — `2007-03-13-2007-03-i_hope_i_didnt_.md` — 300w
+- 2007-03-10 — [An Execution Problem](https://startupceo.com/2007/03/an_execution_pr) — `2007-03-10-2007-03-an_execution_pr.md` — 445w
+- 2007-03-09 — [Humbled at TED](https://startupceo.com/2007/03/humbled_at_ted) — `2007-03-09-2007-03-humbled_at_ted.md` — 249w
+- 2007-02-26 — [Spam:  It's Not Just for Okinawa Any More](https://startupceo.com/2007/02/spam_its_not_ju) — `2007-02-26-2007-02-spam_its_not_ju.md` — 393w
+- 2007-02-21 — [Book Short:  Next, Write a Sequel](https://startupceo.com/2007/02/book_short_next) — `2007-02-21-2007-02-book_short_next.md` — 508w
+- 2007-02-19 — [SUGGing and FRUGGing: Practices as Ugly as They Sound](https://startupceo.com/2007/02/sugging_and_fru) — `2007-02-19-2007-02-sugging_and_fru.md` — 144w
+- 2007-02-15 — [Stuck in the Middle](https://startupceo.com/2007/02/stuck_in_the_mi) — `2007-02-15-2007-02-stuck_in_the_mi.md` — 682w
+- 2007-02-08 — [Right, That's MY Job](https://startupceo.com/2007/02/right_thats_my_) — `2007-02-08-2007-02-right_thats_my_.md` — 362w
+- 2007-02-05 — [Whiplash at Google](https://startupceo.com/2007/02/whiplash_at_goo) — `2007-02-05-2007-02-whiplash_at_goo.md` — 178w
+- 2007-02-01 — [Book Short:  Finishing First](https://startupceo.com/2007/02/book_short_fini) — `2007-02-01-2007-02-book_short_fini.md` — 181w
+- 2007-01-30 — [Half Your Waking Hours](https://startupceo.com/2007/01/half_your_wakin_1) — `2007-01-30-2007-01-half_your_wakin_1.md` — 354w
+- 2007-01-30 — [Half Your Waking Hours](https://startupceo.com/2007/01/half_your_wakin) — `2007-01-30-2007-01-half_your_wakin.md` — 354w
+- 2007-01-29 — [Book Short:  Virtuous Cycle](https://startupceo.com/2007/01/book_short_virt) — `2007-01-29-2007-01-book_short_virt.md` — 263w
+- 2007-01-19 — [Help Me, Help You, Part II](https://startupceo.com/2007/01/help_me_help_yo_1) — `2007-01-19-2007-01-help_me_help_yo_1.md` — 498w
+- 2007-01-07 — [They’ve Destroyed Both Companies](https://startupceo.com/2007/01/theyve_destroye) — `2007-01-07-2007-01-theyve_destroye.md` — 349w
+- 2007-01-07 — [Book Short:  Unsung Heroes](https://startupceo.com/2007/01/book_short_unsu) — `2007-01-07-2007-01-book_short_unsu.md` — 399w
+- 2007-01-04 — [Book (Not So) Short:  Raise Your Hand If You’re Sure](https://startupceo.com/2007/01/book_not_so_sho) — `2007-01-04-2007-01-book_not_so_sho.md` — 806w
+- 2006-12-28 — [Just Because You Can Do Something, Doesn’t Mean You Should](https://startupceo.com/2006/12/just_because_yo) — `2006-12-28-2006-12-just_because_yo.md` — 165w
+- 2006-12-17 — [Merry Whatever](https://startupceo.com/2006/12/merry_whatever) — `2006-12-17-2006-12-merry_whatever.md` — 293w
+- 2006-12-11 — [Book Short:  A Primer on Viral Marketing](https://startupceo.com/2006/12/book_short_a_pr) — `2006-12-11-2006-12-book_short_a_pr.md` — 215w
+- 2006-12-06 — [Lucky 7, or the 7 Year Itch?](https://startupceo.com/2006/12/lucky_7_or_the_) — `2006-12-06-2006-12-lucky_7_or_the_.md` — 271w
+- 2006-12-01 — [I’m Embarrassed for My Profession](https://startupceo.com/2006/12/im_embarrassed_) — `2006-12-01-2006-12-im_embarrassed_.md` — 218w
+- 2006-11-28 — [Book Short:  Another 8 Habits](https://startupceo.com/2006/11/book_short_anot) — `2006-11-28-2006-11-book_short_anot.md` — 149w
+- 2006-11-22 — [Always On is Too Much On](https://startupceo.com/2006/11/always_on_is_to) — `2006-11-22-2006-11-always_on_is_to.md` — 201w
+- 2006-11-17 — [For Whom the Bell Tolls, Part II](https://startupceo.com/2006/11/for_whom_the_be) — `2006-11-17-2006-11-for_whom_the_be.md` — 257w
+- 2006-11-16 — [Counter Cliche:  Connected at the Top](https://startupceo.com/2006/11/counter_cliche_) — `2006-11-16-2006-11-counter_cliche_.md` — 335w
+- 2006-11-09 — [Get a Phone!](https://startupceo.com/2006/11/get_a_phone) — `2006-11-09-2006-11-get_a_phone.md` — 155w
+- 2006-11-06 — [A Tale of Two Strategies](https://startupceo.com/2006/11/a_tale_of_two_s) — `2006-11-06-2006-11-a_tale_of_two_s.md` — 243w
+- 2006-11-01 — [Killer Email Industry Stats](https://startupceo.com/2006/11/killer_email_in) — `2006-11-01-2006-11-killer_email_in.md` — 129w
+- 2006-10-24 — [Association Proliferation](https://startupceo.com/2006/10/association_pro) — `2006-10-24-2006-10-association_pro.md` — 137w
+- 2006-10-17 — [Winds of Change at the DMA](https://startupceo.com/2006/10/winds_of_change) — `2006-10-17-2006-10-winds_of_change.md` — 301w
+- 2006-10-15 — [Book Short:  You’d Never Run Your Business This Way…](https://startupceo.com/2006/10/book_short_youd) — `2006-10-15-2006-10-book_short_youd.md` — 534w
+- 2006-10-10 — [Email Marketing Good and Bad:  Case Study Snippets](https://startupceo.com/2006/10/email_marketing-2) — `2006-10-10-2006-10-email_marketing-2.md` — 383w
+- 2006-10-06 — [What Convergence Really Means](https://startupceo.com/2006/10/what_convergenc) — `2006-10-06-2006-10-what_convergenc.md` — 277w
+- 2006-10-04 — [It’s a Little Weird When Your Best Customer Experience of the Week is with the Government](https://startupceo.com/2006/10/its_a_little_we) — `2006-10-04-2006-10-its_a_little_we.md` — 458w
+- 2006-09-29 — [Choose Voice, Part II](https://startupceo.com/2006/09/choose_voice_pa) — `2006-09-29-2006-09-choose_voice_pa.md` — 604w
+- 2006-09-26 — [Doing Well by Doing Good, Part IV](https://startupceo.com/2006/09/doing_well_by_d) — `2006-09-26-2006-09-doing_well_by_d.md` — 399w
+- 2006-09-20 — [Counter Cliche:  Between Permission and Forgiveness](https://startupceo.com/2006/09/counter_cliche_-2) — `2006-09-20-2006-09-counter_cliche_-2.md` — 268w
+- 2006-09-18 — [Book Short:  Just One Minute](https://startupceo.com/2006/09/book_short_just) — `2006-09-18-2006-09-book_short_just.md` — 251w
+- 2006-09-06 — [A Better Way to Shop](https://startupceo.com/2006/09/a_better_way_to) — `2006-09-06-2006-09-a_better_way_to.md` — 220w
+- 2006-09-05 — [Seth Responds](https://startupceo.com/2006/09/seth_responds) — `2006-09-05-2006-09-seth_responds.md` — 350w
+- 2006-09-05 — [Book Shorts:  One Up, One Down](https://startupceo.com/2006/09/book_shorts_one) — `2006-09-05-2006-09-book_shorts_one.md` — 407w
+- 2006-08-31 — [How to Crush Your Competition](https://startupceo.com/2006/08/how_to_crush_yo) — `2006-08-31-2006-08-how_to_crush_yo.md` — 248w
+- 2006-08-30 — [Book Short:  And It’s Not Just Because I’m In It](https://startupceo.com/2006/08/book_short_and_) — `2006-08-30-2006-08-book_short_and_.md` — 208w
+- 2006-08-28 — [Tech on the Brain](https://startupceo.com/2006/08/tech_on_the_bra) — `2006-08-28-2006-08-tech_on_the_bra.md` — 152w
+- 2006-08-23 — [Getting Good Inc.](https://startupceo.com/2006/08/getting_good_in) — `2006-08-23-2006-08-getting_good_in.md` — 184w
+- 2006-08-22 — [People are People](https://startupceo.com/2006/08/people_are_peop) — `2006-08-22-2006-08-people_are_peop.md` — 553w
+- 2006-08-15 — [Solving an Annoying Windows "Feature"](https://startupceo.com/2006/08/solving_an_anno) — `2006-08-15-2006-08-solving_an_anno.md` — 294w
+- 2006-08-14 — [Book Short:  It Sounds Like it Should be About Monkeys, Doesn’t It?](https://startupceo.com/2006/08/book_short_it_s) — `2006-08-14-2006-08-book_short_it_s.md` — 302w
+- 2006-08-14 — [Book Short:  Choose Voice!](https://startupceo.com/2006/08/book_short_choo) — `2006-08-14-2006-08-book_short_choo.md` — 621w
+- 2006-08-13 — [It’s a Sad Day When the Lawyers Take Over](https://startupceo.com/2006/08/its_a_sad_day_w) — `2006-08-13-2006-08-its_a_sad_day_w.md` — 128w
+- 2006-08-12 — [News Travels Fast](https://startupceo.com/2006/08/news_travels_fa) — `2006-08-12-2006-08-news_travels_fa.md` — 270w
+- 2006-08-07 — [Feeling Less Like a Luddite:  Welcome, Meebo!](https://startupceo.com/2006/08/feeling_less_li-2) — `2006-08-07-2006-08-feeling_less_li-2.md` — 173w
+- 2006-08-01 — [The Same, But Different](https://startupceo.com/2006/08/the_same_but_di) — `2006-08-01-2006-08-the_same_but_di.md` — 195w
+- 2006-07-31 — [Social Computing:  An Amusing Anecdote About Who is Participating](https://startupceo.com/2006/07/social_computin) — `2006-07-31-2006-07-social_computin.md` — 280w
+- 2006-07-27 — [Your Goal:  Professional Nirvana](https://startupceo.com/2006/07/your_goal_profe) — `2006-07-27-2006-07-your_goal_profe.md` — 169w
+- 2006-07-24 — [Good Help is Hard to Find](https://startupceo.com/2006/07/good_help_is_ha) — `2006-07-24-2006-07-good_help_is_ha.md` — 231w
+- 2006-07-20 — [Feedburner…They’re Real AND They’re Spectacular](https://startupceo.com/2006/07/feedburnertheyr) — `2006-07-20-2006-07-feedburnertheyr.md` — 338w
+- 2006-07-18 — [Listen Up!](https://startupceo.com/2006/07/listen_up) — `2006-07-18-2006-07-listen_up.md` — 238w
+- 2006-07-16 — [Amazon:  Icky Slippage Business Model](https://startupceo.com/2006/07/amazon_icky_sli) — `2006-07-16-2006-07-amazon_icky_sli.md` — 165w
+- 2006-07-03 — [Euromail](https://startupceo.com/2006/07/euromail) — `2006-07-03-2006-07-euromail.md` — 215w
+- 2006-07-03 — [Book Shorts:  Sales, Sales, Sales, Sales, Sales](https://startupceo.com/2006/07/book_shorts_sal) — `2006-07-03-2006-07-book_shorts_sal.md` — 221w
+- 2006-07-01 — [A Better Way to Fly (to London)](https://startupceo.com/2006/07/a_better_way_to-2) — `2006-07-01-2006-07-a_better_way_to-2.md` — 379w
+- 2006-06-29 — [Gmail as Competition – Another View?](https://startupceo.com/2006/06/gmail_as_compet) — `2006-06-29-2006-06-gmail_as_compet.md` — 386w
+- 2006-06-21 — [Environmentally Unsound](https://startupceo.com/2006/06/environmentally) — `2006-06-21-2006-06-environmentally.md` — 229w
+- 2006-06-15 — [My 360 on Your 360](https://startupceo.com/2006/06/my_360_on_your_) — `2006-06-15-2006-06-my_360_on_your_.md` — 458w
+- 2006-06-15 — [Counter Cliche:  Sometimes You Need a Shortstop](https://startupceo.com/2006/06/counter_cliche__1) — `2006-06-15-2006-06-counter_cliche__1.md` — 266w
+- 2006-06-12 — [Naked Talking](https://startupceo.com/2006/06/naked_talking) — `2006-06-12-2006-06-naked_talking.md` — 424w
+- 2006-06-08 — [Counter Cliche:  But It's Ok If Some of Them Turn Out to Be Frogs](https://startupceo.com/2006/06/counter_cliche_-3) — `2006-06-08-2006-06-counter_cliche_-3.md` — 186w
 - 2006-06-04 — [What Kind of Entrepreneur Do You Want to Be?](https://startupceo.com/2006/06/what_kind_of_en) — `2006-06-04-2006-06-what_kind_of_en.md` — 410w
-- 2006-06-02 — [Big Apple, Little Company](https://startupceo.com/2006/06/big_apple_littl) — `2006-06-02-2006-06-big_apple_littl.md` — 522w
-- 2006-05-10 — [Blogiversary, Part II](https://startupceo.com/2006/05/blogiversary_pa-2) — `2006-05-10-2006-05-blogiversary_pa-2.md` — 237w
-- 2006-05-08 — [Counter Cliché: And Founders, Too](https://startupceo.com/2006/05/counter_clich_a) — `2006-05-08-2006-05-counter_clich_a.md` — 254w
-- 2006-04-19 — [Counter Cliche: I Know When I See One, Too](https://startupceo.com/2006/04/counter_cliche_-4) — `2006-04-19-2006-04-counter_cliche_-4.md` — 354w
-- 2006-03-23 — [Million Dollar Baby](https://startupceo.com/2006/03/million_dollar_) — `2006-03-23-2006-03-million_dollar_.md` — 321w
-- 2005-12-09 — [Counter Cliche: How Much Paranoia is Too Much Paranoia?, Part II](https://startupceo.com/2005/12/counter_cliche__1-3) — `2005-12-09-2005-12-counter_cliche__1-3.md` — 330w
-- 2005-12-06 — [Six Candles: You Can't Tell What The Living Room Looks Like From the Front Porch](https://startupceo.com/2005/12/six_candles_you) — `2005-12-06-2005-12-six_candles_you.md` — 325w
-- 2005-12-05 — [Holiday Card Anon, Part II](https://startupceo.com/2005/12/holiday_card_an) — `2005-12-05-2005-12-holiday_card_an.md` — 127w
-- 2005-12-05 — [Deliverability Resources](https://startupceo.com/2005/12/deliverability_) — `2005-12-05-2005-12-deliverability_.md` — 244w
-- 2005-11-29 — [Wanted! Comp Benchmark Participants](https://startupceo.com/2005/11/wanted_comp_ben-2) — `2005-11-29-2005-11-wanted_comp_ben-2.md` — 188w
-- 2005-11-23 — [Not-so](https://startupceo.com/2005/11/notsocounter_cl) — `2005-11-23-2005-11-notsocounter_cl.md` — 738w
-- 2005-11-08 — [Overload](https://startupceo.com/2005/11/overload) — `2005-11-08-2005-11-overload.md` — 353w
-- 2005-10-21 — [Return Path Blog is Up](https://startupceo.com/2005/10/return_path_blo) — `2005-10-21-2005-10-return_path_blo.md` — 370w
-- 2005-10-06 — [Counter Cliche: Failure Is Not an Orphan](https://startupceo.com/2005/10/counter_cliche_-7) — `2005-10-06-2005-10-counter_cliche_-7.md` — 290w
-- 2005-08-29 — [Compression](https://startupceo.com/2005/08/compression) — `2005-08-29-2005-08-compression.md` — 146w
-- 2005-08-20 — [Unfolding the Map](https://startupceo.com/2005/08/unfolding_the_m) — `2005-08-20-2005-08-unfolding_the_m.md` — 180w
+- 2006-06-02 — [Big Apple, Little Company](https://startupceo.com/2006/06/big_apple_littl) — `2006-06-02-2006-06-big_apple_littl.md` — 548w
+- 2006-05-31 — [Book Short:  Great Marketing Checklists](https://startupceo.com/2006/05/book_short_grea) — `2006-05-31-2006-05-book_short_grea.md` — 281w
+- 2006-05-22 — [The Business of Being a Scumbag, Part II](https://startupceo.com/2006/05/the_business_of_1) — `2006-05-22-2006-05-the_business_of_1.md` — 246w
+- 2006-05-19 — [Agile Reading](https://startupceo.com/2006/05/agile_reading) — `2006-05-19-2006-05-agile_reading.md` — 209w
+- 2006-05-16 — [Sticking it to United, Just a Little Bit](https://startupceo.com/2006/05/sticking_it_to_) — `2006-05-16-2006-05-sticking_it_to_.md` — 250w
+- 2006-05-10 — [Blogiversary, Part II](https://startupceo.com/2006/05/blogiversary_pa-2) — `2006-05-10-2006-05-blogiversary_pa-2.md` — 240w
+- 2006-05-08 — [So, Where’d They Go?](https://startupceo.com/2006/05/so_whered_they_) — `2006-05-08-2006-05-so_whered_they_.md` — 142w
+- 2006-05-08 — [Counter Cliché:  And Founders, Too](https://startupceo.com/2006/05/counter_clich_a) — `2006-05-08-2006-05-counter_clich_a.md` — 259w
+- 2006-05-03 — [9/11 Redux:  Deja Senti](https://startupceo.com/2006/05/911_redux_deja_) — `2006-05-03-2006-05-911_redux_deja_.md` — 180w
+- 2006-04-27 — [Doing Well By Doing Good, Part III](https://startupceo.com/2006/04/doing_well_by_d-2) — `2006-04-27-2006-04-doing_well_by_d-2.md` — 277w
+- 2006-04-25 — [Conference Overload](https://startupceo.com/2006/04/conference_over) — `2006-04-25-2006-04-conference_over.md` — 193w
+- 2006-04-19 — [Counter Cliche:  I Know When I See One, Too](https://startupceo.com/2006/04/counter_cliche_-4) — `2006-04-19-2006-04-counter_cliche_-4.md` — 354w
+- 2006-04-18 — [A New Season for Bonded Sender (now Sender Score Certified)](https://startupceo.com/2006/04/a_new_season_fo) — `2006-04-18-2006-04-a_new_season_fo.md` — 774w
+- 2006-04-10 — [An Undignified End to an Internet Pioneer](https://startupceo.com/2006/04/an_undignified_) — `2006-04-10-2006-04-an_undignified_.md` — 220w
+- 2006-04-05 — [At What Price False Positives?](https://startupceo.com/2006/04/at_what_price_f) — `2006-04-05-2006-04-at_what_price_f.md` — 243w
+- 2006-03-29 — [Book short:  Myers-Briggs Redux](https://startupceo.com/2006/03/book_short_myer) — `2006-03-29-2006-03-book_short_myer.md` — 494w
+- 2006-03-23 — [Million Dollar Baby](https://startupceo.com/2006/03/million_dollar_) — `2006-03-23-2006-03-million_dollar_.md` — 324w
+- 2006-03-17 — [A New Member of the Internet Axis of Evil](https://startupceo.com/2006/03/a_new_member_of) — `2006-03-17-2006-03-a_new_member_of.md` — 650w
+- 2006-03-16 — [A Study In Contrast](https://startupceo.com/2006/03/a_study_in_cont) — `2006-03-16-2006-03-a_study_in_cont.md` — 137w
+- 2006-02-28 — [Agile Marketing](https://startupceo.com/2006/02/agile_marketing) — `2006-02-28-2006-02-agile_marketing.md` — 516w
+- 2006-02-22 — [Memory Lane or Dark Alley?](https://startupceo.com/2006/02/memory_lane_or_) — `2006-02-22-2006-02-memory_lane_or_.md` — 455w
+- 2006-02-21 — [Agile Development](https://startupceo.com/2006/02/agile_developme) — `2006-02-21-2006-02-agile_developme.md` — 364w
+- 2006-02-19 — [Book Short:  Which Runs Faster, You or Your Company?](https://startupceo.com/2006/02/book_short_whic) — `2006-02-19-2006-02-book_short_whic.md` — 240w
+- 2006-02-06 — [Victory for Email:  AOL Enhanced Whitelist to Stay](https://startupceo.com/2006/02/victory_for_ema) — `2006-02-06-2006-02-victory_for_ema.md` — 293w
+- 2006-02-03 — [Why Email Stamps Are a Bad Idea](https://startupceo.com/2006/02/why_email_stamp) — `2006-02-03-2006-02-why_email_stamp.md` — 1188w
+- 2006-02-03 — [AOL and Goodmail: Two steps back for email, Part II](https://startupceo.com/2006/02/aol_and_goodmai_1) — `2006-02-03-2006-02-aol_and_goodmai_1.md` — 471w
+- 2006-02-01 — [AOL and Goodmail: Two steps back for email](https://startupceo.com/2006/02/aol_and_goodmai) — `2006-02-01-2006-02-aol_and_goodmai.md` — 500w
+- 2006-01-25 — [Spam is Dead.  Long Live Spam!](https://startupceo.com/2006/01/spam_is_dead_lo) — `2006-01-25-2006-01-spam_is_dead_lo.md` — 218w
+- 2006-01-25 — [Buying Back Your Own Left Leg](https://startupceo.com/2006/01/buying_back_you) — `2006-01-25-2006-01-buying_back_you.md` — 244w
+- 2006-01-19 — [Book Short:  Required Reading](https://startupceo.com/2006/01/book_short_requ) — `2006-01-19-2006-01-book_short_requ.md` — 331w
+- 2006-01-16 — [Book short:  Proto Gladwell](https://startupceo.com/2006/01/book_short_myer-2) — `2006-01-16-2006-01-book_short_myer-2.md` — 534w
+- 2006-01-10 — [New Media Deal, Part II – the We Media Deal](https://startupceo.com/2006/01/new_media_deal_) — `2006-01-10-2006-01-new_media_deal_.md` — 990w
+- 2006-01-04 — [Book Short:  Fables and Morals](https://startupceo.com/2006/01/book_short_fabl) — `2006-01-04-2006-01-book_short_fabl.md` — 252w
+- 2005-12-22 — [New Media Deal – a comment](https://startupceo.com/2005/12/new_media_deal_-2) — `2005-12-22-2005-12-new_media_deal_-2.md` — 512w
+- 2005-12-20 — [Four Balls or One Strike?](https://startupceo.com/2005/12/four_balls_or_o) — `2005-12-20-2005-12-four_balls_or_o.md` — 716w
+- 2005-12-13 — [How Much Marketing Is Too Much Marketing?](https://startupceo.com/2005/12/how_much_market) — `2005-12-13-2005-12-how_much_market.md` — 749w
+- 2005-12-10 — [Like Fingernails on a Chalkboard](https://startupceo.com/2005/12/like_fingernail) — `2005-12-10-2005-12-like_fingernail.md` — 324w
+- 2005-12-09 — [Counter Cliche:  How Much Paranoia is Too Much Paranoia?, Part II](https://startupceo.com/2005/12/counter_cliche__1-3) — `2005-12-09-2005-12-counter_cliche__1-3.md` — 335w
+- 2005-12-08 — [Counter Cliche:  How Much Paranoia is Too Much Paranoia?](https://startupceo.com/2005/12/counter_cliche_-5) — `2005-12-08-2005-12-counter_cliche_-5.md` — 489w
+- 2005-12-07 — [The Rumors of Email’s Demise Have Been Greatly Exaggerated, Part V](https://startupceo.com/2005/12/the_rumors_of_e) — `2005-12-07-2005-12-the_rumors_of_e.md` — 503w
+- 2005-12-06 — [Six Candles:  You Can't Tell What The Living Room Looks Like From the Front Porch](https://startupceo.com/2005/12/six_candles_you) — `2005-12-06-2005-12-six_candles_you.md` — 329w
+- 2005-12-05 — [Holiday Card Anon, Part II](https://startupceo.com/2005/12/holiday_card_an) — `2005-12-05-2005-12-holiday_card_an.md` — 132w
+- 2005-12-05 — [Deliverability Resources](https://startupceo.com/2005/12/deliverability_) — `2005-12-05-2005-12-deliverability_.md` — 257w
+- 2005-12-02 — [Wanted!  Comp Benchmark Participants, Part II](https://startupceo.com/2005/12/wanted_comp_ben) — `2005-12-02-2005-12-wanted_comp_ben.md` — 128w
+- 2005-11-29 — [Wanted!  Comp Benchmark Participants](https://startupceo.com/2005/11/wanted_comp_ben-2) — `2005-11-29-2005-11-wanted_comp_ben-2.md` — 191w
+- 2005-11-29 — [Doing Well by Doing Good, Part II](https://startupceo.com/2005/11/doing_well_by_d-3) — `2005-11-29-2005-11-doing_well_by_d-3.md` — 266w
+- 2005-11-23 — [Not-so-Counter Cliche:  Forecast Early and Often](https://startupceo.com/2005/11/notsocounter_cl) — `2005-11-23-2005-11-notsocounter_cl.md` — 738w
+- 2005-11-17 — [Book Short:  Underdog Victorious](https://startupceo.com/2005/11/book_short_unde) — `2005-11-17-2005-11-book_short_unde.md` — 184w
+- 2005-11-15 — [Counter Cliche:  Head Lemming](https://startupceo.com/2005/11/counter_cliche_-6) — `2005-11-15-2005-11-counter_cliche_-6.md` — 258w
+- 2005-11-14 — [A Typepad User, and Proud of It](https://startupceo.com/2005/11/a_typepad_user_) — `2005-11-14-2005-11-a_typepad_user_.md` — 202w
+- 2005-11-08 — [Overload](https://startupceo.com/2005/11/overload) — `2005-11-08-2005-11-overload.md` — 354w
+- 2005-11-08 — [Hackoff – The Blook, Part II](https://startupceo.com/2005/11/hackoff_the_blo) — `2005-11-08-2005-11-hackoff_the_blo.md` — 166w
+- 2005-11-08 — [Armistice Day](https://startupceo.com/2005/11/armistice_day) — `2005-11-08-2005-11-armistice_day.md` — 200w
+- 2005-11-07 — [Only Twice? or The Un-Big Sur Marathon](https://startupceo.com/2005/11/only_twice_or_t) — `2005-11-07-2005-11-only_twice_or_t.md` — 302w
+- 2005-11-02 — [Book Short:  Allegory of Allegories](https://startupceo.com/2005/11/book_short_alle) — `2005-11-02-2005-11-book_short_alle.md` — 149w
+- 2005-10-31 — [Book Short:  Reality Doesn’t have to Bite](https://startupceo.com/2005/10/book_short_real) — `2005-10-31-2005-10-book_short_real.md` — 222w
+- 2005-10-25 — [Beyond CAN-SPAM:  The Nightmare Continues, Part II](https://startupceo.com/2005/10/beyond_canspam_) — `2005-10-25-2005-10-beyond_canspam_.md` — 142w
+- 2005-10-21 — [Return Path Blog is Up](https://startupceo.com/2005/10/return_path_blo) — `2005-10-21-2005-10-return_path_blo.md` — 375w
+- 2005-10-16 — [In From the Perimeter](https://startupceo.com/2005/10/in_from_the_per) — `2005-10-16-2005-10-in_from_the_per.md` — 295w
+- 2005-10-11 — [Response to a Deliverability Rant](https://startupceo.com/2005/10/response_to_a_d) — `2005-10-11-2005-10-response_to_a_d.md` — 994w
+- 2005-10-06 — [Counter Cliche:  Failure Is Not an Orphan](https://startupceo.com/2005/10/counter_cliche_-7) — `2005-10-06-2005-10-counter_cliche_-7.md` — 290w
+- 2005-10-05 — [What a View, Part II](https://startupceo.com/2005/10/what_a_view_par) — `2005-10-05-2005-10-what_a_view_par.md` — 452w
+- 2005-09-28 — [CEO Diary:  What Makes a Great Day?](https://startupceo.com/2005/09/ceo_diary_what_) — `2005-09-28-2005-09-ceo_diary_what_.md` — 257w
+- 2005-09-26 — [Book Short: The Most Rapacious Guys in the Room](https://startupceo.com/2005/09/book_short_the_) — `2005-09-26-2005-09-book_short_the_.md` — 373w
+- 2005-09-15 — [RSS Advertising](https://startupceo.com/2005/09/rss_advertising) — `2005-09-15-2005-09-rss_advertising.md` — 366w
+- 2005-09-09 — [Why Publishing Will Never Be the Same, Part II](https://startupceo.com/2005/09/why_publishing_) — `2005-09-09-2005-09-why_publishing_.md` — 618w
+- 2005-09-09 — [It’s Easy to Feel Like a Luddite These Days, Part II](https://startupceo.com/2005/09/its_easy_to_fee) — `2005-09-09-2005-09-its_easy_to_fee.md` — 449w
+- 2005-09-07 — [Book Shorts:  Fred the Cow?](https://startupceo.com/2005/09/book_shorts_fre) — `2005-09-07-2005-09-book_shorts_fre.md` — 271w
+- 2005-08-29 — [Compression](https://startupceo.com/2005/08/compression) — `2005-08-29-2005-08-compression.md` — 147w
+- 2005-08-22 — [For My Email (Bloglet) Subscribers](https://startupceo.com/2005/08/for_my_email_bl) — `2005-08-22-2005-08-for_my_email_bl.md` — 136w
+- 2005-08-20 — [Unfolding the Map](https://startupceo.com/2005/08/unfolding_the_m) — `2005-08-20-2005-08-unfolding_the_m.md` — 183w
+- 2005-08-18 — [Book Short:  Not As Deep As You’d Like](https://startupceo.com/2005/08/book_short_not_) — `2005-08-18-2005-08-book_short_not_.md` — 286w
+- 2005-08-15 — [Why Publishing Will Never Be the Same, Part I](https://startupceo.com/2005/08/why_publishing_-2) — `2005-08-15-2005-08-why_publishing_-2.md` — 584w
 - 2005-08-12 — [Email and Business Development: Two Great Tastes…](https://startupceo.com/2005/08/email_and_busin) — `2005-08-12-2005-08-email_and_busin.md` — 334w
-- 2005-08-10 — [Counter Cliche: It's Fun at the Top](https://startupceo.com/2005/08/counter_cliche_-8) — `2005-08-10-2005-08-counter_cliche_-8.md` — 250w
-- 2005-07-27 — [Counter Cliche: Win The Peace](https://startupceo.com/2005/07/counter_cliche_-9) — `2005-07-27-2005-07-counter_cliche_-9.md` — 275w
-- 2005-07-18 — [Highs and Lows](https://startupceo.com/2005/07/highs_and_lows) — `2005-07-18-2005-07-highs_and_lows.md` — 202w
-- 2005-06-22 — [Counter Cliche: Sleeves, or Shoes?](https://startupceo.com/2005/06/counter_cliche__1-4) — `2005-06-22-2005-06-counter_cliche__1-4.md` — 301w
-- 2005-06-03 — [Shifting Gears](https://startupceo.com/2005/06/shifting_gears) — `2005-06-03-2005-06-shifting_gears.md` — 516w
-- 2005-05-26 — [Counter Cliche: The VC Pass](https://startupceo.com/2005/05/counter_cliche_-11) — `2005-05-26-2005-05-counter_cliche_-11.md` — 256w
-- 2005-05-22 — [Mental Math](https://startupceo.com/2005/05/mental_math) — `2005-05-22-2005-05-mental_math.md` — 166w
-- 2005-04-27 — [Counter Cliche: No Conflict, No Interest](https://startupceo.com/2005/04/counter_cliche__1-5) — `2005-04-27-2005-04-counter_cliche__1-5.md` — 227w
-- 2005-04-14 — [Go Ahead…Make My Day](https://startupceo.com/2005/04/go_aheadmake_my) — `2005-04-14-2005-04-go_aheadmake_my.md` — 209w
-- 2005-04-11 — [Counter Cliche: Good Choices Are Made From Good Options](https://startupceo.com/2005/04/counter_cliche_-12) — `2005-04-11-2005-04-counter_cliche_-12.md` — 337w
-- 2005-03-09 — [Counter Cliche: As Simple As the Wheel](https://startupceo.com/2005/03/counter_cliche__1-6) — `2005-03-09-2005-03-counter_cliche__1-6.md` — 276w
-- 2005-02-27 — [A Different Take on The Gates](https://startupceo.com/2005/02/a_different_tak) — `2005-02-27-2005-02-a_different_tak.md` — 151w
-- 2005-02-04 — [Everyone's a Direct Marketer, Part II](https://startupceo.com/2005/02/everyones_a_dir_1) — `2005-02-04-2005-02-everyones_a_dir_1.md` — 559w
-- 2005-01-21 — [Ratcheting Up Is Hard To Do (or Boiling the Frog, Part II)](https://startupceo.com/2005/01/ratcheting_up_i) — `2005-01-21-2005-01-ratcheting_up_i.md` — 465w
-- 2005-01-09 — [Boiling the Frog](https://startupceo.com/2005/01/boiling_the_fro) — `2005-01-09-2005-01-boiling_the_fro.md` — 505w
+- 2005-08-10 — [Counter Cliche:  It's Fun at the Top](https://startupceo.com/2005/08/counter_cliche_-8) — `2005-08-10-2005-08-counter_cliche_-8.md` — 257w
+- 2005-08-08 — [A Ball Bearing in the Wheels of E-Commerce](https://startupceo.com/2005/08/a_ball_bearing_) — `2005-08-08-2005-08-a_ball_bearing_.md` — 439w
+- 2005-07-28 — [Beyond CAN-SPAM:  The Nightmare Continues](https://startupceo.com/2005/07/beyond_canspam_-2) — `2005-07-28-2005-07-beyond_canspam_-2.md` — 685w
+- 2005-07-27 — [Counter Cliche:  Win The Peace](https://startupceo.com/2005/07/counter_cliche_-9) — `2005-07-27-2005-07-counter_cliche_-9.md` — 280w
+- 2005-07-25 — [Book Short:  Why Not Both?](https://startupceo.com/2005/07/book_short_why_) — `2005-07-25-2005-07-book_short_why_.md` — 150w
+- 2005-07-18 — [Highs and Lows](https://startupceo.com/2005/07/highs_and_lows) — `2005-07-18-2005-07-highs_and_lows.md` — 205w
+- 2005-07-06 — [Book short:  Blink](https://startupceo.com/2005/07/book_short__bli) — `2005-07-06-2005-07-book_short__bli.md` — 449w
+- 2005-06-27 — [Wanted:  VP Marketing – A-Players Only!](https://startupceo.com/2005/06/wanted_vp_marke) — `2005-06-27-2005-06-wanted_vp_marke.md` — 186w
+- 2005-06-27 — [A Lighter, Yet Darker, Note](https://startupceo.com/2005/06/a_lighter_yet_d) — `2005-06-27-2005-06-a_lighter_yet_d.md` — 162w
+- 2005-06-23 — [Sender Score:  Credit Scores for Emailers](https://startupceo.com/2005/06/sender_score_cr) — `2005-06-23-2005-06-sender_score_cr.md` — 354w
+- 2005-06-22 — [Why We Love Email Authentication, But Why It Won’t Stop Spam](https://startupceo.com/2005/06/why_we_love_ema) — `2005-06-22-2005-06-why_we_love_ema.md` — 423w
+- 2005-06-22 — [Counter Cliche:  Sleeves, or Shoes?](https://startupceo.com/2005/06/counter_cliche__1-4) — `2005-06-22-2005-06-counter_cliche__1-4.md` — 306w
+- 2005-06-22 — [Chink in the Open Source Armor?](https://startupceo.com/2005/06/chink_in_the_op) — `2005-06-22-2005-06-chink_in_the_op.md` — 187w
+- 2005-06-20 — [It’s Easy to Feel Like a Luddite These Days](https://startupceo.com/2005/06/its_easy_to_fee-2) — `2005-06-20-2005-06-its_easy_to_fee-2.md` — 199w
+- 2005-06-15 — [Counter Cliche:  Who’s The Dog in this Scenario?](https://startupceo.com/2005/06/counter_cliche_-10) — `2005-06-15-2005-06-counter_cliche_-10.md` — 670w
+- 2005-06-10 — [The (Email) Elephant in the Room](https://startupceo.com/2005/06/the_email_eleph) — `2005-06-10-2005-06-the_email_eleph.md` — 308w
+- 2005-06-09 — [What a View](https://startupceo.com/2005/06/what_a_view) — `2005-06-09-2005-06-what_a_view.md` — 448w
+- 2005-06-03 — [Shifting Gears](https://startupceo.com/2005/06/shifting_gears) — `2005-06-03-2005-06-shifting_gears.md` — 518w
+- 2005-05-31 — [Just Say No](https://startupceo.com/2005/05/just_say_no) — `2005-05-31-2005-05-just_say_no.md` — 135w
+- 2005-05-30 — [Decoration Day](https://startupceo.com/2005/05/decoration_day) — `2005-05-30-2005-05-decoration_day.md` — 180w
+- 2005-05-26 — [Counter Cliche:  The VC Pass](https://startupceo.com/2005/05/counter_cliche_-11) — `2005-05-26-2005-05-counter_cliche_-11.md` — 256w
+- 2005-05-25 — [Email Articles This Week](https://startupceo.com/2005/05/email_articles_) — `2005-05-25-2005-05-email_articles_.md` — 655w
+- 2005-05-22 — [Mental Math](https://startupceo.com/2005/05/mental_math) — `2005-05-22-2005-05-mental_math.md` — 168w
+- 2005-05-06 — [Book Short:  More on Email Marketing](https://startupceo.com/2005/05/book_short_more) — `2005-05-06-2005-05-book_short_more.md` — 167w
+- 2005-05-06 — [Blogiversary](https://startupceo.com/2005/05/blogiversary) — `2005-05-06-2005-05-blogiversary.md` — 344w
+- 2005-04-27 — [Promiscuity](https://startupceo.com/2005/04/promiscuity) — `2005-04-27-2005-04-promiscuity.md` — 367w
+- 2005-04-27 — [Counter Cliche:  No Conflict, No Interest](https://startupceo.com/2005/04/counter_cliche__1-5) — `2005-04-27-2005-04-counter_cliche__1-5.md` — 227w
+- 2005-04-26 — [Book Short:  Are You Topgraded?](https://startupceo.com/2005/04/book_shorts_are) — `2005-04-26-2005-04-book_shorts_are.md` — 523w
+- 2005-04-21 — [Gmail, I Don’t Get It, Part III](https://startupceo.com/2005/04/gmail_i_dont_ge) — `2005-04-21-2005-04-gmail_i_dont_ge.md` — 298w
+- 2005-04-14 — [Go Ahead…Make My Day](https://startupceo.com/2005/04/go_aheadmake_my) — `2005-04-14-2005-04-go_aheadmake_my.md` — 213w
+- 2005-04-11 — [You Heard It Here First, Part II](https://startupceo.com/2005/04/you_heard_it_he) — `2005-04-11-2005-04-you_heard_it_he.md` — 594w
+- 2005-04-11 — [Counter Cliche:  Good Choices Are Made From Good Options](https://startupceo.com/2005/04/counter_cliche_-12) — `2005-04-11-2005-04-counter_cliche_-12.md` — 337w
+- 2005-03-30 — [Counter Cliche:  Ready, Set, Exit](https://startupceo.com/2005/03/counter_cliche__2) — `2005-03-30-2005-03-counter_cliche__2.md` — 253w
+- 2005-03-29 — [Prepping RSS for Prime Time, Part II](https://startupceo.com/2005/03/prepping_rss_fo) — `2005-03-29-2005-03-prepping_rss_fo.md` — 123w
+- 2005-03-28 — [Convergence Continues](https://startupceo.com/2005/03/convergence_con) — `2005-03-28-2005-03-convergence_con.md` — 289w
+- 2005-03-26 — [Playing To Win](https://startupceo.com/2005/03/playing_to_win) — `2005-03-26-2005-03-playing_to_win.md` — 339w
+- 2005-03-24 — [From Blog to Book – Beyond Bullets](https://startupceo.com/2005/03/from_blog_to_bo) — `2005-03-24-2005-03-from_blog_to_bo.md` — 141w
+- 2005-03-24 — [Dumb Money](https://startupceo.com/2005/03/dumb_money) — `2005-03-24-2005-03-dumb_money.md` — 241w
+- 2005-03-19 — [Email Deliverability Data](https://startupceo.com/2005/03/email_deliverab) — `2005-03-19-2005-03-email_deliverab.md` — 251w
+- 2005-03-19 — [Developer User Guide?](https://startupceo.com/2005/03/developer_user_) — `2005-03-19-2005-03-developer_user_.md` — 126w
+- 2005-03-09 — [Counter Cliche:  As Simple As the Wheel](https://startupceo.com/2005/03/counter_cliche__1-6) — `2005-03-09-2005-03-counter_cliche__1-6.md` — 283w
+- 2005-03-04 — [Counter Cliche:  Don’t Just Do Something, Stand There](https://startupceo.com/2005/03/counter_cliche_-13) — `2005-03-04-2005-03-counter_cliche_-13.md` — 308w
+- 2005-03-02 — [10 Candles](https://startupceo.com/2005/03/10_candles) — `2005-03-02-2005-03-10_candles.md` — 136w
+- 2005-02-27 — [A Different Take on The Gates](https://startupceo.com/2005/02/a_different_tak) — `2005-02-27-2005-02-a_different_tak.md` — 157w
+- 2005-02-25 — [Oh, Behave!](https://startupceo.com/2005/02/oh_behave) — `2005-02-25-2005-02-oh_behave.md` — 209w
+- 2005-02-24 — [Spam, Hot Spam, Now Only $0.10 Each!](https://startupceo.com/2005/02/spam_hot_spam_n) — `2005-02-24-2005-02-spam_hot_spam_n.md` — 208w
+- 2005-02-24 — [Everyone’s a Direct Marketer, Part III](https://startupceo.com/2005/02/everyones_a_dir) — `2005-02-24-2005-02-everyones_a_dir.md` — 337w
+- 2005-02-16 — [The Rumors of Email’s Demise Have Been Greatly Exaggerated, Part IV](https://startupceo.com/2005/02/the_rumors_of_e-2) — `2005-02-16-2005-02-the_rumors_of_e-2.md` — 794w
+- 2005-02-14 — [A New VC in Town…Sort of](https://startupceo.com/2005/02/a_new_vc_in_tow) — `2005-02-14-2005-02-a_new_vc_in_tow.md` — 292w
+- 2005-02-04 — [Everyone's a Direct Marketer, Part II](https://startupceo.com/2005/02/everyones_a_dir_1) — `2005-02-04-2005-02-everyones_a_dir_1.md` — 565w
+- 2005-02-01 — [Doing its Part](https://startupceo.com/2005/02/doing_its_part) — `2005-02-01-2005-02-doing_its_part.md` — 346w
+- 2005-01-27 — [The Rumors of Email’s Demise Have Been Greatly Exaggerated, Part III](https://startupceo.com/2005/01/the_rumors_of_e-3) — `2005-01-27-2005-01-the_rumors_of_e-3.md` — 123w
+- 2005-01-25 — [Everyone’s a Direct Marketer, Part I](https://startupceo.com/2005/01/everyones_a_dir-2) — `2005-01-25-2005-01-everyones_a_dir-2.md` — 449w
+- 2005-01-21 — [Ratcheting Up Is Hard To Do (or Boiling the Frog, Part II)](https://startupceo.com/2005/01/ratcheting_up_i) — `2005-01-21-2005-01-ratcheting_up_i.md` — 467w
+- 2005-01-13 — [Email Marketing 101](https://startupceo.com/2005/01/email_marketing-3) — `2005-01-13-2005-01-email_marketing-3.md` — 264w
+- 2005-01-09 — [Rejected by the Body](https://startupceo.com/2005/01/rejected_by_the) — `2005-01-09-2005-01-rejected_by_the.md` — 121w
+- 2005-01-09 — [Boiling the Frog](https://startupceo.com/2005/01/boiling_the_fro) — `2005-01-09-2005-01-boiling_the_fro.md` — 508w
+- 2005-01-06 — [Sometimes, There Is No Lesson To Be Learned](https://startupceo.com/2005/01/sometimes_there) — `2005-01-06-2005-01-sometimes_there.md` — 336w
 - 2005-01-05 — [Sometimes It's Worth Travelling 5,000 Miles for a 5 Minute Meeting](https://startupceo.com/2005/01/sometimes_its_w) — `2005-01-05-2005-01-sometimes_its_w.md` — 193w
 - 2004-12-22 — [How to Negotiate a Term Sheet with a VC, Part II](https://startupceo.com/2004/12/how_to_negotiat-2) — `2004-12-22-2004-12-how_to_negotiat-2.md` — 440w
-- 2004-12-17 — [Holiday Card Anon](https://startupceo.com/2004/12/holiday_card_an-2) — `2004-12-17-2004-12-holiday_card_an-2.md` — 139w
+- 2004-12-20 — [The Gift of Insight](https://startupceo.com/2004/12/the_gift_of_ins) — `2004-12-20-2004-12-the_gift_of_ins.md` — 499w
+- 2004-12-17 — [Holiday Card Anon](https://startupceo.com/2004/12/holiday_card_an-2) — `2004-12-17-2004-12-holiday_card_an-2.md` — 142w
 - 2004-12-12 — [The Hiring Challenge](https://startupceo.com/2004/12/the_hiring_chal) — `2004-12-12-2004-12-the_hiring_chal.md` — 156w
 - 2004-12-09 — [Being the Client](https://startupceo.com/2004/12/being_the_clien) — `2004-12-09-2004-12-being_the_clien.md` — 179w
-- 2004-11-30 — [Why Entrepreneurship is Like Windows](https://startupceo.com/2004/11/why_entrepreneu) — `2004-11-30-2004-11-why_entrepreneu.md` — 286w
+- 2004-11-30 — [Why Entrepreneurship is Like Windows](https://startupceo.com/2004/11/why_entrepreneu) — `2004-11-30-2004-11-why_entrepreneu.md` — 291w
 - 2004-11-30 — [The Rumors of Email's Demise Have Been Greatly Exaggerated, Part II](https://startupceo.com/2004/11/the_rumors_of_e-4) — `2004-11-30-2004-11-the_rumors_of_e-4.md` — 130w
-- 2004-10-25 — [Everyone's a Marketer, Part I](https://startupceo.com/2004/10/everyones_a_mar-3) — `2004-10-25-2004-10-everyones_a_mar-3.md` — 436w
-- 2004-10-17 — [Why Email Will Win the Day](https://startupceo.com/2004/10/why_email_will_) — `2004-10-17-2004-10-why_email_will_.md` — 228w
-- 2004-10-17 — [Giving Away State Secrets](https://startupceo.com/2004/10/giving_away_sta) — `2004-10-17-2004-10-giving_away_sta.md` — 133w
-- 2004-10-10 — [Angel and Strategic Investors](https://startupceo.com/2004/10/angel_and_strat) — `2004-10-10-2004-10-angel_and_strat.md` — 408w
-- 2004-09-29 — [Picking Your VC](https://startupceo.com/2004/09/picking_your_vc) — `2004-09-29-2004-09-picking_your_vc.md` — 133w
-- 2004-09-28 — [When Do You Hire a Real Head of Sales?](https://startupceo.com/2004/09/when_do_you_hir) — `2004-09-28-2004-09-when_do_you_hir.md` — 301w
-- 2004-09-15 — [Breaking Up Is Hard to Do, Continued](https://startupceo.com/2004/09/breaking_up_is__1) — `2004-09-15-2004-09-breaking_up_is__1.md` — 162w
-- 2004-09-11 — [Our Next July 4?](https://startupceo.com/2004/09/our_next_july_4) — `2004-09-11-2004-09-our_next_july_4.md` — 141w
-- 2004-08-25 — [Wrap](https://startupceo.com/2004/08/wrapup_on_prefe) — `2004-08-25-2004-08-wrapup_on_prefe.md` — 159w
-- 2004-08-18 — [What's Your Preference?](https://startupceo.com/2004/08/whats_your_pref) — `2004-08-18-2004-08-whats_your_pref.md` — 842w
-- 2004-08-18 — [A More Cynical View of VCs](https://startupceo.com/2004/08/a_more_cynical_) — `2004-08-18-2004-08-a_more_cynical_.md` — 148w
-- 2004-08-10 — [Why French Fries are Like Marketing](https://startupceo.com/2004/08/why_french_frie) — `2004-08-10-2004-08-why_french_frie.md` — 207w
-- 2004-08-02 — [Whatever Happened to 'The Customer is King'?](https://startupceo.com/2004/08/whatever_happen) — `2004-08-02-2004-08-whatever_happen.md` — 243w
-- 2004-07-05 — [American Entrepreneurs](https://startupceo.com/2004/07/american_entrep) — `2004-07-05-2004-07-american_entrep.md` — 327w
-- 2004-06-20 — [Good Question – How's the Blog Working Out So Far?](https://startupceo.com/2004/06/good_question_h) — `2004-06-20-2004-06-good_question_h.md` — 270w
-- 2004-06-15 — [FTC on Email – Missing the Point](https://startupceo.com/2004/06/today_the_ftc_v) — `2004-06-15-2004-06-today_the_ftc_v.md` — 334w
-- 2004-06-02 — [Anything Worth Doing is Worth Doing Well](https://startupceo.com/2004/06/anything_worth_-2) — `2004-06-02-2004-06-anything_worth_-2.md` — 210w
-- 2004-05-19 — [Blog Blacklists: A New View of Internet Vigilantes](https://startupceo.com/2004/05/blog_blacklists) — `2004-05-19-2004-05-blog_blacklists.md` — 343w
-- 2004-05-10 — [You're Only a First Time CEO Once](https://startupceo.com/2004/05/youre_only_a_fi) — `2004-05-10-2004-05-youre_only_a_fi.md` — 285w
+- 2004-11-18 — [Everyone’s a Marketer, Part II](https://startupceo.com/2004/11/everyones_a_mar-2) — `2004-11-18-2004-11-everyones_a_mar-2.md` — 329w
+- 2004-11-14 — [Reverse Engineering Venture Economics](https://startupceo.com/2004/11/reverse_enginee) — `2004-11-14-2004-11-reverse_enginee.md` — 742w
+- 2004-11-14 — [Complex Collaborations](https://startupceo.com/2004/11/complex_collabo) — `2004-11-14-2004-11-complex_collabo.md` — 205w
+- 2004-11-09 — [Gmail – I Don’t Get It, Part II](https://startupceo.com/2004/11/gmail_i_dont_ge-2) — `2004-11-09-2004-11-gmail_i_dont_ge-2.md` — 433w
+- 2004-11-04 — [Caught In Their Own Underwear](https://startupceo.com/2004/11/caught_in_their) — `2004-11-04-2004-11-caught_in_their.md` — 125w
+- 2004-10-30 — [For Whom the Bell Tolls](https://startupceo.com/2004/10/for_whom_the_be-4) — `2004-10-30-2004-10-for_whom_the_be-4.md` — 328w
+- 2004-10-27 — [Why is Seth Godin so Grumpy?](https://startupceo.com/2004/10/why_is_seth_god) — `2004-10-27-2004-10-why_is_seth_god.md` — 150w
+- 2004-10-25 — [Everyone's a Marketer, Part I](https://startupceo.com/2004/10/everyones_a_mar-3) — `2004-10-25-2004-10-everyones_a_mar-3.md` — 441w
+- 2004-10-20 — [The Bush Dilemma](https://startupceo.com/2004/10/the_bush_dilemm) — `2004-10-20-2004-10-the_bush_dilemm.md` — 141w
+- 2004-10-17 — [Why Email Will Win the Day](https://startupceo.com/2004/10/why_email_will_) — `2004-10-17-2004-10-why_email_will_.md` — 234w
+- 2004-10-17 — [Giving Away State Secrets](https://startupceo.com/2004/10/giving_away_sta) — `2004-10-17-2004-10-giving_away_sta.md` — 145w
+- 2004-10-10 — [Angel and Strategic Investors](https://startupceo.com/2004/10/angel_and_strat) — `2004-10-10-2004-10-angel_and_strat.md` — 412w
+- 2004-10-01 — [Political versus Corporate Leadership, Part III:  The First Debate](https://startupceo.com/2004/10/political_versu) — `2004-10-01-2004-10-political_versu.md` — 168w
+- 2004-09-29 — [Picking Your VC](https://startupceo.com/2004/09/picking_your_vc) — `2004-09-29-2004-09-picking_your_vc.md` — 137w
+- 2004-09-29 — [Comment on Political versus Corporate Leadership, Part II:  Admitting Mistakes](https://startupceo.com/2004/09/comment_on_poli) — `2004-09-29-2004-09-comment_on_poli.md` — 283w
+- 2004-09-28 — [When Do You Hire a Real Head of Sales?](https://startupceo.com/2004/09/when_do_you_hir) — `2004-09-28-2004-09-when_do_you_hir.md` — 310w
+- 2004-09-22 — [Political versus Corporate Leadership, Part II:  Admitting Mistakes](https://startupceo.com/2004/09/political_versu-2) — `2004-09-22-2004-09-political_versu-2.md` — 835w
+- 2004-09-15 — [Spam: Crisis, or Approaching Denoument?](https://startupceo.com/2004/09/spam_crisis_or_) — `2004-09-15-2004-09-spam_crisis_or_.md` — 298w
+- 2004-09-15 — [Change of Name?](https://startupceo.com/2004/09/change_of_name) — `2004-09-15-2004-09-change_of_name.md` — 518w
+- 2004-09-15 — [Breaking Up Is Hard to Do, Continued](https://startupceo.com/2004/09/breaking_up_is__1) — `2004-09-15-2004-09-breaking_up_is__1.md` — 169w

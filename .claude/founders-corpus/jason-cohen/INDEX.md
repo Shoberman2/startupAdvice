@@ -1,7 +1,7 @@
 # Jason Cohen corpus index
 
-Source: https://longform.asmartbear.com — fetched 2026-07-19
-100 posts, 179699 words. Format: date — [title](canonical url) — `file` — words.
+Source: https://longform.asmartbear.com — fetched 2026-07-20
+226 posts, 302829 words. Format: date — [title](canonical url) — `file` — words.
 
 - 2026-06-21 — [Lost confidence](https://longform.asmartbear.com/confidence/) — `2026-06-21-confidence.md` — 2429w
 - 2026-04-19 — [How to hire people who are better than you](https://longform.asmartbear.com/hire-better-than-you/) — `2026-04-19-hire-better-than-you.md` — 1964w
@@ -11,19 +11,38 @@ Source: https://longform.asmartbear.com — fetched 2026-07-19
 - 2025-11-09 — [Mission, Vision, poTAYto, poTAHto](https://longform.asmartbear.com/mission-vision/) — `2025-11-09-mission-vision.md` — 3257w
 - 2025-09-07 — [Your target market isn](https://longform.asmartbear.com/target-market/) — `2025-09-07-target-market.md` — 2000w
 - 2025-07-27 — [Max MRR: Your growth ceiling](https://longform.asmartbear.com/max-mrr/) — `2025-07-27-max-mrr.md` — 2092w
+- 2025-06-22 — [Ruthless prioritization while the dog pees on the floor](https://longform.asmartbear.com/prioritization/) — `2025-06-22-prioritization.md` — 2254w
 - 2025-06-01 — [More or less](https://longform.asmartbear.com/more-or-less/) — `2025-06-01-more-or-less.md` — 3692w
 - 2025-05-18 — [When customers buy your competitor](https://longform.asmartbear.com/buy-both/) — `2025-05-18-buy-both.md` — 1678w
 - 2025-05-04 — [Product Purgatory: When they love it but still don](https://longform.asmartbear.com/purgatory/) — `2025-05-04-purgatory.md` — 1617w
 - 2025-04-20 — [SSEBITDA⁠--A steady](https://longform.asmartbear.com/ssebitda/) — `2025-04-20-ssebitda.md` — 1496w
+- 2025-04-06 — [Sometimes never compete on price](https://longform.asmartbear.com/never-compete-on-price/) — `2025-04-06-never-compete-on-price.md` — 1591w
 - 2025-03-23 — [All pretty models are wrong, but some ugly models are useful](https://longform.asmartbear.com/models/) — `2025-03-23-models.md` — 1834w
 - 2025-03-02 — [“I scratched my own itch” isn’t good enough](https://longform.asmartbear.com/scratched-my-own-itch/) — `2025-03-02-scratched-my-own-itch.md` — 1629w
+- 2025-03-02 — [Bootstrapped beats VC?](https://longform.asmartbear.com/mailbag/bootstrapped-beats-vc/) — `2025-03-02-mailbag-bootstrapped-beats-vc.md` — 299w
+- 2025-02-18 — [Advice for a first](https://longform.asmartbear.com/mailbag/advice-first-time-manager/) — `2025-02-18-mailbag-advice-first-time-manager.md` — 471w
+- 2025-02-17 — [Emotional rollercoaster](https://longform.asmartbear.com/mailbag/emotional-rollercoaster/) — `2025-02-17-mailbag-emotional-rollercoaster.md` — 467w
+- 2025-02-16 — [Who should my target customer be?](https://longform.asmartbear.com/mailbag/who-should-my-target-customer-be/) — `2025-02-16-mailbag-who-should-my-target-customer-be.md` — 471w
+- 2025-02-16 — [Making plans when I can](https://longform.asmartbear.com/mailbag/making-plans-when-i-can-t-predict-anything/) — `2025-02-16-mailbag-making-plans-when-i-can-t-predict-anything.md` — 438w
 - 2025-02-16 — [How to select your first marketing channel](https://longform.asmartbear.com/first-marketing-channel/) — `2025-02-16-first-marketing-channel.md` — 1097w
+- 2025-02-15 — [How to motivate an employee](https://longform.asmartbear.com/mailbag/how-to-motivate-an-employee/) — `2025-02-15-mailbag-how-to-motivate-an-employee.md` — 321w
+- 2025-02-14 — [Should I price my product low?](https://longform.asmartbear.com/mailbag/price-low/) — `2025-02-14-mailbag-price-low.md` — 417w
+- 2025-02-14 — [My family thinks I](https://longform.asmartbear.com/mailbag/my-family-thinks-i-m-crazy-for-starting-a-business/) — `2025-02-14-mailbag-my-family-thinks-i-m-crazy-for-starting-a-business.md` — 551w
+- 2025-02-14 — [I need higher](https://longform.asmartbear.com/mailbag/higher-quality-marketing-leads/) — `2025-02-14-mailbag-higher-quality-marketing-leads.md` — 482w
+- 2025-02-14 — [How do I find customers to talk to?](https://longform.asmartbear.com/mailbag/finding-customers/) — `2025-02-14-mailbag-finding-customers.md` — 528w
+- 2025-02-14 — [Customers are cancelling. Help!](https://longform.asmartbear.com/mailbag/customers-are-cancelling/) — `2025-02-14-mailbag-customers-are-cancelling.md` — 371w
+- 2025-02-14 — [Am I cut out to be a founder?](https://longform.asmartbear.com/mailbag/am-i-founder/) — `2025-02-14-mailbag-am-i-founder.md` — 459w
 - 2025-02-02 — [The Startup Drake Equation](https://longform.asmartbear.com/startup-drake-equation/) — `2025-02-02-startup-drake-equation.md` — 2659w
+- 2025-01-19 — [“Stealth mode” and other f’ing brilliant strategies](https://longform.asmartbear.com/stealth-mode/) — `2025-01-19-stealth-mode.md` — 1185w
+- 2025-01-05 — [Explore vs Execute](https://longform.asmartbear.com/explore-execute/) — `2025-01-05-explore-execute.md` — 2354w
 - 2024-12-22 — [When you have nothing: How to find potential customers to interview](https://longform.asmartbear.com/find-customers-to-interview/) — `2024-12-22-find-customers-to-interview.md` — 3565w
 - 2024-12-08 — [Brittle Points: How to make companies robust](https://longform.asmartbear.com/brittle-points/) — `2024-12-08-brittle-points.md` — 1635w
 - 2024-11-17 — [p](https://longform.asmartbear.com/p-hacking/) — `2024-11-17-p-hacking.md` — 1862w
+- 2024-11-03 — [No wait, of course THAT is the single most important SaaS metric](https://longform.asmartbear.com/saas-metric/) — `2024-11-03-saas-metric.md` — 931w
+- 2024-10-20 — [The Serengeti Plain: Fallacies that aren](https://longform.asmartbear.com/fallacies/) — `2024-10-20-fallacies.md` — 1899w
 - 2024-09-29 — [Pivot Points](https://longform.asmartbear.com/pivot-points/) — `2024-09-29-pivot-points.md` — 3448w
 - 2024-09-08 — [Legacy](https://longform.asmartbear.com/legacy/) — `2024-09-08-legacy.md` — 1252w
+- 2024-08-25 — [Profitable on day one!](https://longform.asmartbear.com/ramen-profitable/) — `2024-08-25-ramen-profitable.md` — 820w
 - 2024-08-11 — [Individual efficiency vs administrative efficiency](https://longform.asmartbear.com/tension-autonomy-admin/) — `2024-08-11-tension-autonomy-admin.md` — 2297w
 - 2024-07-28 — [“Authentic” is dead. And so is “is dead.”](https://longform.asmartbear.com/authentic-is-dead/) — `2024-07-28-authentic-is-dead.md` — 1070w
 - 2024-07-14 — [How annual pre](https://longform.asmartbear.com/annual-prepay/) — `2024-07-14-annual-prepay.md` — 1735w
@@ -32,12 +51,24 @@ Source: https://longform.asmartbear.com — fetched 2026-07-19
 - 2024-05-05 — [Adjacency Matrix: How to expand after PMF](https://longform.asmartbear.com/adjacency/) — `2024-05-05-adjacency.md` — 1737w
 - 2024-04-21 — [It](https://longform.asmartbear.com/chaos-at-start/) — `2024-04-21-chaos-at-start.md` — 1127w
 - 2024-03-31 — [Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/) — `2024-03-31-avoid-blundering.md` — 2100w
+- 2024-03-17 — [Stubborn Visionaries & Pigheaded Fools](https://longform.asmartbear.com/perseverance/) — `2024-03-17-perseverance.md` — 1089w
 - 2024-03-03 — [AI startups require new strategies: This time it](https://longform.asmartbear.com/ai-startups/) — `2024-03-03-ai-startups.md` — 1530w
+- 2024-02-25 — [How startups beat incumbents](https://longform.asmartbear.com/startup-beats-incumbent/) — `2024-02-25-startup-beats-incumbent.md` — 4290w
+- 2024-02-04 — [Deciding whether an investment is worthwhile](https://longform.asmartbear.com/investment/) — `2024-02-04-investment.md` — 2623w
+- 2024-01-21 — [The](https://longform.asmartbear.com/good-problems-to-have/) — `2024-01-21-good-problems-to-have.md` — 1453w
 - 2024-01-07 — [Selling to Carol: Why targeting an ICP brings 10x more customers than you expected](https://longform.asmartbear.com/icp-ideal-customer-persona/) — `2024-01-07-icp-ideal-customer-persona.md` — 2657w
 - 2023-12-24 — [The roadmap to Product/Market Fit (PMF)… maybe](https://longform.asmartbear.com/product-market-fit-formula/) — `2023-12-24-product-market-fit-formula.md` — 5851w
+- 2023-12-10 — [How many things should there be? (Hint: Not 10)](https://longform.asmartbear.com/top-10/) — `2023-12-10-top-10.md` — 350w
+- 2023-11-26 — [Quarterly strategic planning using the fairytale structure](https://longform.asmartbear.com/strategic-planning/) — `2023-11-26-strategic-planning.md` — 3269w
 - 2023-11-05 — [Product/Market Fit (PMF): Experience & Data](https://longform.asmartbear.com/product-market-fit/) — `2023-11-05-product-market-fit.md` — 2351w
+- 2023-10-22 — [Metrics that cannot even be measured in retrospect](https://longform.asmartbear.com/unmeasurable-metrics/) — `2023-10-22-unmeasurable-metrics.md` — 1012w
 - 2023-09-24 — [The fundamental forces of scale](https://longform.asmartbear.com/scale/) — `2023-09-24-scale.md` — 4114w
+- 2023-09-10 — [Stop saying](https://longform.asmartbear.com/fail/) — `2023-09-10-fail.md` — 720w
+- 2023-08-27 — [Worse, but unique](https://longform.asmartbear.com/worse-but-unique/) — `2023-08-27-worse-but-unique.md` — 931w
 - 2023-08-13 — [What makes a strategy great](https://longform.asmartbear.com/great-strategy/) — `2023-08-13-great-strategy.md` — 5220w
+- 2023-07-30 — [In command](https://longform.asmartbear.com/in-command/) — `2023-07-30-in-command.md` — 1010w
+- 2023-07-16 — [Selecting the right product metrics (KPIs)](https://longform.asmartbear.com/product-metrics/) — `2023-07-16-product-metrics.md` — 1527w
+- 2023-07-02 — [For probabilities, use Fermi numbers, not words](https://longform.asmartbear.com/probability-words/) — `2023-07-02-probability-words.md` — 862w
 - 2023-06-18 — [The three kinds of leverage that anchor effective strategies](https://longform.asmartbear.com/leverage/) — `2023-06-18-leverage.md` — 3211w
 - 2023-06-04 — [Using the Needs Stack for competitive strategy](https://longform.asmartbear.com/needs-stack/) — `2023-06-04-needs-stack.md` — 3247w
 - 2023-05-21 — [Willingness-to-pay: Creating permanent competitive advantage for the right reasons](https://longform.asmartbear.com/willingness-to-pay/) — `2023-05-21-willingness-to-pay.md` — 3742w
@@ -47,52 +78,130 @@ Source: https://longform.asmartbear.com — fetched 2026-07-19
 - 2022-09-17 — [The Iterative](https://longform.asmartbear.com/customer-development/) — `2022-09-17-customer-development.md` — 3893w
 - 2022-08-23 — [JIT selection from independent streams: An alternative to the](https://longform.asmartbear.com/jit-backlogs/) — `2022-08-23-jit-backlogs.md` — 2422w
 - 2022-07-17 — [Rocks, Pebbles, Sand: How to implement in practice](https://longform.asmartbear.com/rocks-pebbles-sand/) — `2022-07-17-rocks-pebbles-sand.md` — 3040w
+- 2022-07-02 — [Binstack: Making a maximal multi](https://longform.asmartbear.com/maximized-decision/) — `2022-07-02-maximized-decision.md` — 3161w
+- 2022-06-20 — [Fermi ROI: Fixing the ROI rubric](https://longform.asmartbear.com/roi-rubric/) — `2022-06-20-roi-rubric.md` — 3795w
+- 2022-06-08 — [The](https://longform.asmartbear.com/talk-vs-walk/) — `2022-06-08-talk-vs-walk.md` — 1179w
 - 2022-05-24 — [Productive meeting activities: Leverage the team, empower the individual](https://longform.asmartbear.com/productive-meeting-activities/) — `2022-05-24-productive-meeting-activities.md` — 1144w
+- 2022-05-07 — [Moats: Durable competitive advantage](https://longform.asmartbear.com/moats/) — `2022-05-07-moats.md` — 1384w
 - 2022-04-23 — [The](https://longform.asmartbear.com/great-product-manager/) — `2022-04-23-great-product-manager.md` — 1482w
+- 2022-04-09 — [Failure to face the truth](https://longform.asmartbear.com/failure-to-face-the-truth/) — `2022-04-09-failure-to-face-the-truth.md` — 1779w
 - 2022-03-26 — [Extreme brainstorming questions to trigger new, better ideas](https://longform.asmartbear.com/extreme-questions/) — `2022-03-26-extreme-questions.md` — 3582w
 - 2022-03-05 — [The Elephant in the room: The myth of exponential hypergrowth](https://longform.asmartbear.com/exponential-growth/) — `2022-03-05-exponential-growth.md` — 4953w
+- 2022-02-26 — [Who](https://longform.asmartbear.com/whos-lying/) — `2022-02-26-whos-lying.md` — 772w
+- 2019-11-04 — [The Important Thing⁠--powerful enough to override all your deficiencies](https://longform.asmartbear.com/the-important-thing/) — `2019-11-04-the-important-thing.md` — 1132w
+- 2019-10-08 — [Capturing luck with](https://longform.asmartbear.com/capturing-luck/) — `2019-10-08-capturing-luck.md` — 763w
+- 2019-02-23 — [Distributed Logical Time](https://longform.asmartbear.com/distributed-logical-time/) — `2019-02-23-distributed-logical-time.md` — 2892w
+- 2018-09-05 — [When should a decision be fast, or slow?](https://longform.asmartbear.com/decisions-fast-slow/) — `2018-09-05-decisions-fast-slow.md` — 354w
 - 2018-06-05 — [How repositioning a product allows you to 8x its price](https://longform.asmartbear.com/more-value-not-save-money/) — `2018-06-05-more-value-not-save-money.md` — 665w
+- 2017-08-22 — [Your customers hate MVPs. Make a SLC instead.](https://longform.asmartbear.com/slc/) — `2017-08-22-slc.md` — 2062w
+- 2017-08-19 — [Change: Damned if you do, damned more if you don](https://longform.asmartbear.com/change/) — `2017-08-19-change.md` — 656w
+- 2017-05-10 — [Satisficing vs Maximizing](https://longform.asmartbear.com/maximizing/) — `2017-05-10-maximizing.md` — 435w
+- 2017-01-02 — [Look what we did](https://longform.asmartbear.com/proud-of-founding/) — `2017-01-02-proud-of-founding.md` — 530w
+- 2016-12-20 — [Building in public forces true competitive advantage](https://longform.asmartbear.com/building-in-public/) — `2016-12-20-building-in-public.md` — 684w
 - 2016-12-14 — [Laws of 10x found everywhere](https://longform.asmartbear.com/10x/) — `2016-12-14-10x.md` — 425w
 - 2016-12-06 — [Worrying is self](https://longform.asmartbear.com/worry/) — `2016-12-06-worry.md` — 468w
+- 2016-11-25 — [How to simplify complex decisions by cleaving the facts](https://longform.asmartbear.com/complex-decisions/) — `2016-11-25-complex-decisions.md` — 1988w
+- 2016-10-18 — [What if there isn](https://longform.asmartbear.com/another-10x/) — `2016-10-18-another-10x.md` — 526w
 - 2016-06-28 — [How to measure the accuracy of forecasts](https://longform.asmartbear.com/forecast/) — `2016-06-28-forecast.md` — 1958w
+- 2016-04-12 — [Invention is Drudgery](https://longform.asmartbear.com/drudgery/) — `2016-04-12-drudgery.md` — 496w
+- 2016-02-23 — [Darwin doesn](https://longform.asmartbear.com/darwinian-company-growth/) — `2016-02-23-darwinian-company-growth.md` — 933w
+- 2015-12-08 — [Your non](https://longform.asmartbear.com/utilization/) — `2015-12-08-utilization.md` — 802w
+- 2015-09-29 — [Refutation: An acquisition is always a failure](https://longform.asmartbear.com/acquisition-failure/) — `2015-09-29-acquisition-failure.md` — 651w
+- 2015-09-01 — [Balance is weak. Tension is strong.](https://longform.asmartbear.com/balance-vs-tension/) — `2015-09-01-balance-vs-tension.md` — 238w
+- 2015-08-18 — [Why it](https://longform.asmartbear.com/compete-on-profit/) — `2015-08-18-compete-on-profit.md` — 797w
+- 2015-08-04 — [Zero-sum marketing channels: Good or bad for a startup to pursue?](https://longform.asmartbear.com/zero-sum-marketing/) — `2015-08-04-zero-sum-marketing.md` — 365w
+- 2015-06-08 — [On the value of Judgement](https://longform.asmartbear.com/judgement/) — `2015-06-08-judgement.md` — 256w
 - 2015-02-24 — [Scaling by](https://longform.asmartbear.com/delegation/) — `2015-02-24-delegation.md` — 1031w
+- 2014-12-27 — [New Year](https://longform.asmartbear.com/new-years-resolutions/) — `2014-12-27-new-years-resolutions.md` — 603w
+- 2014-12-16 — [The wrongness of relativism](https://longform.asmartbear.com/relativism/) — `2014-12-16-relativism.md` — 609w
+- 2014-12-09 — [Marketing at early startups: Deep, not wide](https://longform.asmartbear.com/one-channel/) — `2014-12-09-one-channel.md` — 370w
+- 2014-11-29 — [The Lindy Effect on startup potential](https://longform.asmartbear.com/lindy-effect/) — `2014-11-29-lindy-effect.md` — 1035w
 - 2014-11-05 — [Pricing determines your business model](https://longform.asmartbear.com/pricing-determines-your-business-model/) — `2014-11-05-pricing-determines-your-business-model.md` — 1156w
+- 2014-08-12 — [In its emptiness, there is the function of a startup](https://longform.asmartbear.com/emptiness/) — `2014-08-12-emptiness.md` — 935w
+- 2014-07-29 — [The only way to guarantee startup success](https://longform.asmartbear.com/success-guaranteed/) — `2014-07-29-success-guaranteed.md` — 905w
+- 2014-04-28 — [Why startup biz dev deals almost never get done](https://longform.asmartbear.com/startup-biz-dev/) — `2014-04-28-startup-biz-dev.md` — 851w
+- 2014-01-28 — [Rare things become common at scale](https://longform.asmartbear.com/scale-rare/) — `2014-01-28-scale-rare.md` — 989w
 - 2014-01-07 — [You can have two Big Things, but not three](https://longform.asmartbear.com/two-big-things/) — `2014-01-07-two-big-things.md` — 384w
 - 2014-01-07 — [More money if you do, more money if you don](https://longform.asmartbear.com/more-money/) — `2014-01-07-more-money.md` — 439w
+- 2013-12-30 — [Stop chopping yourself to pieces](https://longform.asmartbear.com/stop-chopping-to-pieces/) — `2013-12-30-stop-chopping-to-pieces.md` — 220w
+- 2013-12-24 — [Ho Rudolph](https://longform.asmartbear.com/ho-rudolph/) — `2013-12-24-ho-rudolph.md` — 205w
+- 2013-11-05 — [The Code is your Enemy](https://longform.asmartbear.com/code-is-your-enemy/) — `2013-11-05-code-is-your-enemy.md` — 980w
+- 2013-10-22 — [Imbalanced People](https://longform.asmartbear.com/imbalanced-people/) — `2013-10-22-imbalanced-people.md` — 431w
 - 2013-10-07 — [Why I don](https://longform.asmartbear.com/ltv/) — `2013-10-07-ltv.md` — 1051w
+- 2013-08-27 — [Sandy Visions](https://longform.asmartbear.com/sandy-visions/) — `2013-08-27-sandy-visions.md` — 646w
 - 2013-08-06 — [COC: A new metric for measuring cancellations in SaaS business models](https://longform.asmartbear.com/coc/) — `2013-08-06-coc.md` — 1481w
+- 2013-05-14 — [Solving the Low](https://longform.asmartbear.com/low-budget-marketing/) — `2013-05-14-low-budget-marketing.md` — 1385w
+- 2013-04-29 — [Bootstrapped CPC rule of thumb: ARPU/25](https://longform.asmartbear.com/bootstrapped-cpc/) — `2013-04-29-bootstrapped-cpc.md` — 1254w
 - 2013-04-16 — [Reframing](https://longform.asmartbear.com/freemium/) — `2013-04-16-freemium.md` — 1625w
+- 2013-02-26 — [Startup identity & the sadness of a successful exit](https://longform.asmartbear.com/identity-selling-sadness/) — `2013-02-26-identity-selling-sadness.md` — 2329w
+- 2013-02-19 — ["Because that](https://longform.asmartbear.com/thats-the-way-its-done/) — `2013-02-19-thats-the-way-its-done.md` — 308w
+- 2013-02-05 — [Better for whom?](https://longform.asmartbear.com/better-for-whom/) — `2013-02-05-better-for-whom.md` — 610w
 - 2013-01-29 — [A compass is not a map](https://longform.asmartbear.com/compass/) — `2013-01-29-compass.md` — 430w
+- 2012-11-27 — [But I know that he knows that I know](https://longform.asmartbear.com/rock-paper-scissors/) — `2012-11-27-rock-paper-scissors.md` — 727w
+- 2012-10-23 — [The rise of the](https://longform.asmartbear.com/unsustainable-companies/) — `2012-10-23-unsustainable-companies.md` — 1233w
+- 2012-10-10 — [“ROI” is the wrong way to sell your product](https://longform.asmartbear.com/roi-selling/) — `2012-10-10-roi-selling.md` — 541w
+- 2012-07-31 — [A life](https://longform.asmartbear.com/pascals-wager/) — `2012-07-31-pascals-wager.md` — 795w
+- 2012-07-17 — [What a startup does to you. Or: A celebration of new life](https://longform.asmartbear.com/startup-life/) — `2012-07-17-startup-life.md` — 947w
+- 2012-06-26 — [The](https://longform.asmartbear.com/good-startup-ideas/) — `2012-06-26-good-startup-ideas.md` — 1430w
+- 2012-06-05 — [How do I know where to advertise?](https://longform.asmartbear.com/begin-advertising/) — `2012-06-05-begin-advertising.md` — 584w
+- 2012-05-22 — [The mid](https://longform.asmartbear.com/mid-market/) — `2012-05-22-mid-market.md` — 919w
+- 2012-05-08 — [How do I stop](https://longform.asmartbear.com/business-tiebreaker/) — `2012-05-08-business-tiebreaker.md` — 570w
+- 2012-05-01 — [Which is better: Many customers at low price](https://longform.asmartbear.com/price-vs-quantity/) — `2012-05-01-price-vs-quantity.md` — 1664w
+- 2012-03-20 — [Intense Asymmetry and Self](https://longform.asmartbear.com/feelings-of-inadequacy/) — `2012-03-20-feelings-of-inadequacy.md` — 1340w
+- 2012-02-28 — [Learn by Copy](https://longform.asmartbear.com/learn-by-copy/) — `2012-02-28-learn-by-copy.md` — 880w
 - 2012-01-31 — [Scars](https://longform.asmartbear.com/scars/) — `2012-01-31-scars.md` — 949w
 - 2012-01-10 — [What is the value of one hour of a startup founder](https://longform.asmartbear.com/value-time/) — `2012-01-10-value-time.md` — 717w
+- 2011-12-19 — [When being](https://longform.asmartbear.com/first-competitive-advantage/) — `2011-12-19-first-competitive-advantage.md` — 954w
 - 2011-12-12 — [Hiring Employee #1](https://longform.asmartbear.com/startup-hiring-advice/) — `2011-12-12-startup-hiring-advice.md` — 1894w
+- 2011-12-05 — [Easy to criticize, hard to create](https://longform.asmartbear.com/criticize-create/) — `2011-12-05-criticize-create.md` — 753w
 - 2011-10-03 — [The full story of](https://longform.asmartbear.com/one-priority/) — `2011-10-03-one-priority.md` — 1321w
+- 2011-09-26 — [Ballad of The Lean Startup](https://longform.asmartbear.com/lean-startup-ballad/) — `2011-09-26-lean-startup-ballad.md` — 169w
 - 2011-08-29 — [When being an](https://longform.asmartbear.com/expert-harmful/) — `2011-08-29-expert-harmful.md` — 1221w
+- 2011-08-22 — [Being who you are, while becoming better](https://longform.asmartbear.com/be-yourself/) — `2011-08-22-be-yourself.md` — 1352w
 - 2011-08-15 — [10 things I](https://longform.asmartbear.com/successful-founders-dont-say/) — `2011-08-15-successful-founders-dont-say.md` — 209w
+- 2011-07-25 — [Startup Weekend pep talk: It ain](https://longform.asmartbear.com/startup-weekend/) — `2011-07-25-startup-weekend.md` — 1083w
 - 2011-06-13 — [On the (un?)importance of design](https://longform.asmartbear.com/design/) — `2011-06-13-design.md` — 1194w
 - 2011-05-09 — [Do I dare call bullshit aloud? Do you?](https://longform.asmartbear.com/call-bullshit/) — `2011-05-09-call-bullshit.md` — 854w
+- 2011-04-25 — [Never say](https://longform.asmartbear.com/say-yes/) — `2011-04-25-say-yes.md` — 1464w
+- 2011-04-04 — [Our unhealthy fixation with emulating #1](https://longform.asmartbear.com/copy-number-one/) — `2011-04-04-copy-number-one.md` — 707w
 - 2011-03-28 — [Specificity: A weapon of mass effectiveness](https://longform.asmartbear.com/specificity/) — `2011-03-28-specificity.md` — 672w
+- 2011-03-21 — [Startup Exercise: What can](https://longform.asmartbear.com/startup-money/) — `2011-03-21-startup-money.md` — 984w
+- 2011-02-28 — [When you want to quit because it](https://longform.asmartbear.com/startups-emotionally-draining/) — `2011-02-28-startups-emotionally-draining.md` — 1565w
 - 2011-02-07 — [The unfortunate math behind consulting companies](https://longform.asmartbear.com/consulting-company-accounting/) — `2011-02-07-consulting-company-accounting.md` — 1945w
 - 2011-01-31 — [Color Wheels are wrong? How color vision actually works](https://longform.asmartbear.com/color-wheels/) — `2011-01-31-color-wheels.md` — 1827w
+- 2010-11-29 — [Marketing Platform Independence](https://longform.asmartbear.com/marketing-platform-independence/) — `2010-11-29-marketing-platform-independence.md` — 1056w
 - 2010-10-25 — [Reputation isn](https://longform.asmartbear.com/reputation/) — `2010-10-25-reputation.md` — 1107w
 - 2010-10-11 — [If you build it, they won](https://longform.asmartbear.com/startup-marketing-ideas/) — `2010-10-11-startup-marketing-ideas.md` — 1674w
 - 2010-08-09 — [Yes, but who said they](https://longform.asmartbear.com/customer-validation/) — `2010-08-09-customer-validation.md` — 1242w
 - 2010-07-19 — [Real Unfair Advantages](https://longform.asmartbear.com/unfair-advantages/) — `2010-07-19-unfair-advantages.md` — 2740w
+- 2010-06-28 — [Human + Fallible = Love; Corporate + Sterile = Refund](https://longform.asmartbear.com/authentic/) — `2010-06-28-authentic.md` — 799w
+- 2010-06-21 — [Out of the cesspool and into the sewer: A/B testing trap](https://longform.asmartbear.com/local-minimum/) — `2010-06-21-local-minimum.md` — 540w
 - 2010-06-14 — [The Pattern](https://longform.asmartbear.com/pattern-seeking-fallacy/) — `2010-06-14-pattern-seeking-fallacy.md` — 1455w
 - 2010-05-31 — [Telling the 800](https://longform.asmartbear.com/competing-big-companies/) — `2010-05-31-competing-big-companies.md` — 1252w
 - 2010-05-17 — [Tech Support is sales](https://longform.asmartbear.com/tech-support-is-sales/) — `2010-05-17-tech-support-is-sales.md` — 1173w
 - 2010-04-12 — [Not disruptive, and proud of it](https://longform.asmartbear.com/disruptive/) — `2010-04-12-disruptive.md` — 1529w
 - 2010-04-05 — [Maybe not so much with the](https://longform.asmartbear.com/creativity-over-optimization/) — `2010-04-05-creativity-over-optimization.md` — 843w
 - 2010-03-22 — [A butterfly flaps its wings and you make a sale](https://longform.asmartbear.com/butterfly-effect/) — `2010-03-22-butterfly-effect.md` — 918w
+- 2010-03-15 — [The true meaning of common idioms](https://longform.asmartbear.com/idioms/) — `2010-03-15-idioms.md` — 472w
 - 2010-03-08 — [Employed with a side of startup](https://longform.asmartbear.com/working-startup/) — `2010-03-08-working-startup.md` — 1575w
 - 2010-03-01 — [Pick one and own it](https://longform.asmartbear.com/one-benefit/) — `2010-03-01-one-benefit.md` — 1839w
+- 2010-02-22 — [Enough with the](https://longform.asmartbear.com/expert-distraction/) — `2010-02-22-expert-distraction.md` — 598w
+- 2010-02-15 — [Sunk Costs: An invisible, pervasive peril](https://longform.asmartbear.com/sunk-costs/) — `2010-02-15-sunk-costs.md` — 1237w
 - 2010-02-01 — [Rude Q&A: The constructive devil](https://longform.asmartbear.com/devils-advocate/) — `2010-02-01-devils-advocate.md` — 1226w
 - 2010-01-25 — [A Tradeshow Checklist, born of experience](https://longform.asmartbear.com/tradeshow-tips-checklist/) — `2010-01-25-tradeshow-tips-checklist.md` — 2575w
 - 2010-01-18 — [Impostor Syndrome: Why I felt like a fraud, and how I overcame it](https://longform.asmartbear.com/impostor-syndrome/) — `2010-01-18-impostor-syndrome.md` — 1391w
+- 2009-10-19 — [Rich vs. King in the Real World: Why I sold my company](https://longform.asmartbear.com/rich-vs-king-sold-company/) — `2009-10-19-rich-vs-king-sold-company.md` — 1483w
+- 2009-09-28 — [Discover what](https://longform.asmartbear.com/more-sales-customer-feedback/) — `2009-09-28-more-sales-customer-feedback.md` — 1989w
 - 2009-09-21 — [Put down the compiler until you learn why they](https://longform.asmartbear.com/put-down-the-compiler/) — `2009-09-21-put-down-the-compiler.md` — 385w
 - 2009-09-07 — [If Kindergarten were like Social Media Marketing](https://longform.asmartbear.com/social-media-marketing/) — `2009-09-07-social-media-marketing.md` — 312w
+- 2009-08-31 — [You](https://longform.asmartbear.com/little-company/) — `2009-08-31-little-company.md` — 961w
+- 2009-08-17 — [Business Advice Plagued by Survivor Bias](https://longform.asmartbear.com/survivor-bias/) — `2009-08-17-survivor-bias.md` — 1493w
+- 2009-08-03 — [Darwinian advice for](https://longform.asmartbear.com/going-viral/) — `2009-08-03-going-viral.md` — 1114w
 - 2009-06-29 — [Sacrifice your health for your startup](https://longform.asmartbear.com/sacrifice-your-health-for-your-startup/) — `2009-06-29-sacrifice-your-health-for-your-startup.md` — 1044w
+- 2009-06-16 — [Letters to Joel Spolsky](https://longform.asmartbear.com/letters-to-joel-spolsky/) — `2009-06-16-letters-to-joel-spolsky.md` — 960w
 - 2009-06-08 — [Too small to fail: How startups can grow in recessions](https://longform.asmartbear.com/startups-in-recessions/) — `2009-06-08-startups-in-recessions.md` — 689w
+- 2009-05-18 — [Communicating Values: Show, don](https://longform.asmartbear.com/show-dont-tell/) — `2009-05-18-show-dont-tell.md` — 631w
+- 2009-04-13 — [How to get customers who love you even when you screw up](https://longform.asmartbear.com/customer-love/) — `2009-04-13-customer-love.md` — 1120w
 - 2009-04-06 — [Easy statistics for A/B testing and hamsters](https://longform.asmartbear.com/ab-testing-statistics/) — `2009-04-06-ab-testing-statistics.md` — 1252w
 - 2009-03-30 — [How much of success is luck?](https://longform.asmartbear.com/lucky/) — `2009-03-30-lucky.md` — 1021w
 - 2009-03-09 — [Double your productivity without more work or stress](https://longform.asmartbear.com/double-your-productivity/) — `2009-03-09-double-your-productivity.md` — 1022w
@@ -100,6 +209,23 @@ Source: https://longform.asmartbear.com — fetched 2026-07-19
 - 2009-01-11 — [Ignoring the Wisdom of Crowds](https://longform.asmartbear.com/wisdom-of-crowds/) — `2009-01-11-wisdom-of-crowds.md` — 1039w
 - 2008-12-29 — [Distinguishing constructive criticism from bad business advice](https://longform.asmartbear.com/bad-advice/) — `2008-12-29-bad-advice.md` — 1204w
 - 2008-12-22 — [Your idea sucks, now go do it anyway](https://longform.asmartbear.com/your-idea-sucks-do-it-anyway/) — `2008-12-22-your-idea-sucks-do-it-anyway.md` — 788w
+- 2008-12-17 — [Breaking the Rules](https://longform.asmartbear.com/breaking-the-rules/) — `2008-12-17-breaking-the-rules.md` — 600w
+- 2008-12-12 — [Standing out from the noise](https://longform.asmartbear.com/standing-out-from-the-noise/) — `2008-12-12-standing-out-from-the-noise.md` — 450w
+- 2008-11-29 — [Bed, Bath, Linens, Things, Beyond, and More!](https://longform.asmartbear.com/and-more/) — `2008-11-29-and-more.md` — 506w
+- 2008-11-20 — [Strong opinions, somewhat weakly held](https://longform.asmartbear.com/strong-opinions-weakly-held/) — `2008-11-20-strong-opinions-weakly-held.md` — 560w
+- 2008-11-11 — [The leading provider of meaningless marketing solutions](https://longform.asmartbear.com/the-leading-provider/) — `2008-11-11-the-leading-provider.md` — 390w
+- 2008-11-01 — [Love the messenger](https://longform.asmartbear.com/love-the-messenger/) — `2008-11-01-love-the-messenger.md` — 583w
+- 2008-10-21 — [Is it OK to Sucks?](https://longform.asmartbear.com/is-it-ok-to-sucks/) — `2008-10-21-is-it-ok-to-sucks.md` — 275w
+- 2008-10-17 — [Procrastinate for Success!](https://longform.asmartbear.com/procrastinate/) — `2008-10-17-procrastinate.md` — 538w
+- 2008-09-08 — [Software Quality Mortgage](https://longform.asmartbear.com/software-quality-mortgage/) — `2008-09-08-software-quality-mortgage.md` — 550w
+- 2008-08-07 — [Hello, I](https://longform.asmartbear.com/hello-support/) — `2008-08-07-hello-support.md` — 152w
+- 2008-04-21 — [Limiting Options](https://longform.asmartbear.com/limiting-options/) — `2008-04-21-limiting-options.md` — 523w
 - 2008-04-06 — [The](https://longform.asmartbear.com/opposite-test/) — `2008-04-06-opposite-test.md` — 940w
+- 2008-03-22 — [Discount gambit](https://longform.asmartbear.com/discount-gambit/) — `2008-03-22-discount-gambit.md` — 1019w
+- 2008-02-06 — [Tell me a story](https://longform.asmartbear.com/tell-me-a-story/) — `2008-02-06-tell-me-a-story.md` — 880w
+- 2007-12-25 — [Outside](https://longform.asmartbear.com/outside-in/) — `2007-12-25-outside-in.md` — 393w
+- 2007-04-20 — [You](https://longform.asmartbear.com/real-company/) — `2007-04-20-real-company.md` — 601w
+- 2007-04-09 — [Guy in a bear suit](https://longform.asmartbear.com/guy-in-a-bear-suit/) — `2007-04-09-guy-in-a-bear-suit.md` — 582w
+- 2007-01-25 — [Selling to the Bottom](https://longform.asmartbear.com/selling-to-the-bottom/) — `2007-01-25-selling-to-the-bottom.md` — 674w
 - 2007-01-24 — [Idiot! Buying SmartBear.com](https://longform.asmartbear.com/idiot-buying-smartbear-com/) — `2007-01-24-idiot-buying-smartbear-com.md` — 408w
 - 2000-01-01 — [Jason Cohen: About the author](https://longform.asmartbear.com/jason-cohen/) — `2000-01-01-jason-cohen.md` — 461w

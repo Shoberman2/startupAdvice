@@ -1,8 +1,26 @@
 # Brian Balfour corpus index
 
-Source: https://brianbalfour.com — fetched 2026-07-19
-95 posts, 113307 words. Format: date — [title](canonical url) — `file` — words.
+Source: https://brianbalfour.com — fetched 2026-07-20
+120 posts, 138337 words. Format: date — [title](canonical url) — `file` — words.
 
+- undated — [Why Growth &mdash; Brian Balfour](https://brianbalfour.com/growth-machine/why-growth) — `undated-growth-machine-why-growth.md` — 1491w
+- undated — [Sample Job Description - Growth Marketer](https://brianbalfour.com/sample-growth-marketer-content-job-description) — `undated-sample-growth-marketer-content-job-description.md` — 328w
+- undated — [Principles Process Team Tactics &mdash; Brian Balfour](https://brianbalfour.com/growth-machine/principles-process-team-tactics) — `undated-growth-machine-principles-process-team-tactics.md` — 692w
+- undated — [Podcast &mdash; Brian Balfour](https://brianbalfour.com/podcast) — `undated-podcast.md` — 194w
+- undated — [Most Popular Content &mdash; Brian Balfour](https://brianbalfour.com/most-popular-content) — `undated-most-popular-content.md` — 160w
+- undated — [Maximize Learning &mdash; Brian Balfour](https://brianbalfour.com/growth-machine/maximize-learning) — `undated-growth-machine-maximize-learning.md` — 2487w
+- undated — [Learn Growth Marketing Landing &mdash; Brian Balfour](https://brianbalfour.com/landing/p-learn-growth-marketing) — `undated-landing-p-learn-growth-marketing.md` — 2909w
+- undated — [Growth Machine](https://brianbalfour.com/landing/p-growth-machine) — `undated-landing-p-growth-machine.md` — 1066w
+- undated — [Growth Culture &mdash; Brian Balfour](https://brianbalfour.com/growth-culture) — `undated-growth-culture.md` — 439w
+- undated — [Four Fits For $100M+ Growth &mdash; Brian Balfour](https://brianbalfour.com/four-fits-growth-framework) — `undated-four-fits-growth-framework.md` — 814w
+- undated — [Customer Acquisition](https://brianbalfour.com/landing/p-customer-acquisition-hybrid) — `undated-landing-p-customer-acquisition-hybrid.md` — 1224w
+- undated — [Customer Acquisition Page &mdash; Brian Balfour](https://brianbalfour.com/landing/p-customer-acquisition) — `undated-landing-p-customer-acquisition.md` — 2478w
+- undated — [Courses &mdash; Brian Balfour](https://brianbalfour.com/courses) — `undated-courses.md` — 212w
+- undated — [Coelevate Page &mdash; Brian Balfour](https://brianbalfour.com/landing/p-home-page) — `undated-landing-p-home-page.md` — 278w
+- undated — [Building A Growth Machine &mdash; Brian Balfour](https://brianbalfour.com/growth-machine) — `undated-growth-machine.md` — 816w
+- undated — [Brian Balfour | AI, Product, and Growth Strategy &mdash; Brian Balfour](https://brianbalfour.com/home) — `undated-home.md` — 583w
+- undated — [Authentic Growth &mdash; Brian Balfour](https://brianbalfour.com/growth-machine/authentic-growth) — `undated-growth-machine-authentic-growth.md` — 910w
+- undated — [$100M Frameworks](https://brianbalfour.com/landing/p-100m-frameworks) — `undated-landing-p-100m-frameworks.md` — 4566w
 - 2023-08-09 — [A Simple Tool To Create Effective Board Meetings &mdash; Brian Balfour](https://brianbalfour.com/essays/a-simple-tool-to-create-effective-board-meetings) — `2023-08-09-essays-a-simple-tool-to-create-effective-board-meetings.md` — 790w
 - 2023-07-31 — [A Breakdown of LinkedIn’s AI Assisted Growth Loop &mdash; Brian Balfour](https://brianbalfour.com/essays/a-breakdown-of-linkedins-ai-assisted-growth-loop) — `2023-07-31-essays-a-breakdown-of-linkedins-ai-assisted-growth-loop.md` — 831w
 - 2023-07-24 — [The Hypotheses Behind Reforge’s Journey From $0 to $30M &mdash; Brian Balfour](https://brianbalfour.com/essays/business-hypothesis-canvas-reforge) — `2023-07-24-essays-business-hypothesis-canvas-reforge.md` — 1340w
@@ -43,8 +61,15 @@ Source: https://brianbalfour.com — fetched 2026-07-19
 - 2020-07-08 — [Generalist vs Specialist &mdash; Brian Balfour](https://brianbalfour.com/quick-takes/generalist-vs-specialist) — `2020-07-08-quick-takes-generalist-vs-specialist.md` — 539w
 - 2020-07-08 — [Free Trial vs Freemium and Other Monetization Decisions &mdash; Brian Balfour](https://brianbalfour.com/quick-takes/free-trial-vs-freemium) — `2020-07-08-quick-takes-free-trial-vs-freemium.md` — 467w
 - 2020-07-08 — [Crossing The Marketing Leader Canyon &mdash; Brian Balfour](https://brianbalfour.com/quick-takes/crossing-the-marketing-leader-canyon) — `2020-07-08-quick-takes-crossing-the-marketing-leader-canyon.md` — 323w
+- 2020-07-01 — [Take Ownership Of Your Career &mdash; Brian Balfour](https://brianbalfour.com/quick-takes/take-ownership-of-your-career) — `2020-07-01-quick-takes-take-ownership-of-your-career.md` — 651w
 - 2020-07-01 — [Substack's Core Growth Loop &mdash; Brian Balfour](https://brianbalfour.com/quick-takes/substack-core-growth-loop) — `2020-07-01-quick-takes-substack-core-growth-loop.md` — 843w
 - 2020-07-01 — [Product Market Fit Expansion](https://brianbalfour.com/quick-takes/product-market-fit-expansion) — `2020-07-01-quick-takes-product-market-fit-expansion.md` — 628w
+- 2020-06-24 — [Don't Publish On Medium &mdash; Brian Balfour](https://brianbalfour.com/quick-takes/dont-publish-on-medium) — `2020-06-24-quick-takes-dont-publish-on-medium.md` — 538w
+- 2020-06-24 — [Crossing The Canyon To Product Leadership &mdash; Brian Balfour](https://brianbalfour.com/quick-takes/crossing-the-canyon-to-product-leadership) — `2020-06-24-quick-takes-crossing-the-canyon-to-product-leadership.md` — 349w
+- 2020-06-24 — [Alternatives, Not Competitors &mdash; Brian Balfour](https://brianbalfour.com/quick-takes/alternatives-not-competitors) — `2020-06-24-quick-takes-alternatives-not-competitors.md` — 394w
+- 2020-06-13 — [The Headwind Tailwind Spectrum &mdash; Brian Balfour](https://brianbalfour.com/quick-takes/the-headwind-tailwind-spectrum) — `2020-06-13-quick-takes-the-headwind-tailwind-spectrum.md` — 431w
+- 2020-06-13 — [Retention Benchmarks &mdash; Brian Balfour](https://brianbalfour.com/quick-takes/retention-benchmarks) — `2020-06-13-quick-takes-retention-benchmarks.md` — 740w
+- 2020-06-13 — [Defining Target Audiences &mdash; Brian Balfour](https://brianbalfour.com/quick-takes/defining-target-audiences) — `2020-06-13-quick-takes-defining-target-audiences.md` — 280w
 - 2019-01-24 — [How To Launch A Product or Feature To Maximize Growth &mdash; Brian Balfour](https://brianbalfour.com/essays/how-to-launch-a-product-or-feature-to-maximize-growth) — `2019-01-24-essays-how-to-launch-a-product-or-feature-to-maximize-growth.md` — 2150w
 - 2018-01-11 — [Don't Let Your North Star Metric Deceive You &mdash; Brian Balfour](https://brianbalfour.com/essays/north-star-metric-growth) — `2018-01-11-essays-north-star-metric-growth.md` — 2225w
 - 2017-10-13 — [Building a Growth Framework Towards a $100 Million Product &mdash; Brian Balfour](https://brianbalfour.com/essays/hubspot-growth-framework-100m) — `2017-10-13-essays-hubspot-growth-framework-100m.md` — 2759w

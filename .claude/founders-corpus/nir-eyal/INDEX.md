@@ -1,105 +1,414 @@
 # Nir Eyal corpus index
 
-Source: https://www.nirandfar.com — fetched 2026-07-19
-100 posts, 118624 words. Format: date — [title](canonical url) — `file` — words.
+Source: https://www.nirandfar.com — fetched 2026-07-20
+409 posts, 1135052 words. Format: date — [title](canonical url) — `file` — words.
 
-- 2024-02-26 — [Sales Psychology: Why You Make Terrible Buying Choices](https://www.nirandfar.com/sales-psychology/) — `2024-02-26-sales-psychology.md` — 1388w
-- 2023-11-27 — [How to Build a Habit](https://www.nirandfar.com/hooked-for-the-enterprise/) — `2023-11-27-hooked-for-the-enterprise.md` — 1053w
-- 2023-07-17 — [How to Build an Irresistible Product for VC Investors](https://www.nirandfar.com/irresistible-for-vc/) — `2023-07-17-irresistible-for-vc.md` — 915w
-- 2023-04-10 — [A Case Study in Implementing the Hooked Model: Gatorade's Gx App](https://www.nirandfar.com/hooked-example-gatorade-app/) — `2023-04-10-hooked-example-gatorade-app.md` — 1653w
-- 2021-10-03 — [The New Norms of Business: Interview with Nathalie Nahai](https://www.nirandfar.com/nathalie-nahai-interview/) — `2021-10-03-nathalie-nahai-interview.md` — 1359w
-- 2021-05-30 — [Cancel the New York Times? Good Luck Battling "Dark Patterns"](https://www.nirandfar.com/cancel-new-york-times/) — `2021-05-30-cancel-new-york-times.md` — 1389w
-- 2021-05-23 — [Can We Regulate Social Networks To Curb Addiction—Without Making Them Suck?](https://www.nirandfar.com/social-media-regulation/) — `2021-05-23-social-media-regulation.md` — 861w
-- 2021-05-11 — [So, You Want To Become a Great Product Manager? [Q&A with Jackie Bavaro]](https://www.nirandfar.com/becoming-a-product-manager/) — `2021-05-11-becoming-a-product-manager.md` — 1734w
-- 2021-04-05 — [Will Clubhouse be a Habit or Has](https://www.nirandfar.com/hooked-on-clubhouse-app/) — `2021-04-05-hooked-on-clubhouse-app.md` — 1827w
-- 2020-11-09 — [This is How the Media is Misleading You on “Technology Addiction”](https://www.nirandfar.com/technology-addiction/) — `2020-11-09-technology-addiction.md` — 1293w
-- 2019-08-02 — [The Addictive Products Myth: Who Is the Culprit Here?](https://www.nirandfar.com/addiction/) — `2019-08-02-addiction.md` — 5765w
-- 2018-07-23 — [Here's How Fortnite 'Hooked' Millions](https://www.nirandfar.com/fortnite-hooked-millions/) — `2018-07-23-fortnite-hooked-millions.md` — 1196w
-- 2018-04-04 — [How Netflix's Customer Obsession Created a Customer Obsession](https://www.nirandfar.com/customer-obsession/) — `2018-04-04-customer-obsession.md` — 3339w
-- 2017-08-15 — [Avoiding Bystander Effect: Getting People to Help Each Other](https://www.nirandfar.com/bystander-effect-get-people-to-help-each-other/) — `2017-08-15-bystander-effect-get-people-to-help-each-other.md` — 1492w
-- 2017-06-14 — [Here's How Amazon's Alexa Hooks You](https://www.nirandfar.com/how-amazons-alexa-hooks-you/) — `2017-06-14-how-amazons-alexa-hooks-you.md` — 1711w
-- 2017-05-09 — [How to Use Psychology to Make Persuasive Video](https://www.nirandfar.com/the-psychology-of-persuasive-video/) — `2017-05-09-the-psychology-of-persuasive-video.md` — 2453w
-- 2017-03-20 — [The Unbelievable Future of Habit](https://www.nirandfar.com/the-unbelievable-future-of-habit-forming-technology/) — `2017-03-20-the-unbelievable-future-of-habit-forming-technology.md` — 1616w
-- 2017-02-22 — [Don’t Ask People What They Want, Watch What They Do](https://www.nirandfar.com/dont-ask-people-what-they-want-observe-how-they-act/) — `2017-02-22-dont-ask-people-what-they-want-observe-how-they-act.md` — 1203w
-- 2017-02-02 — [How Cognitive Biases Can Help (and Hurt) Your Business](https://www.nirandfar.com/cognitive-biases/) — `2017-02-02-cognitive-biases.md` — 1062w
-- 2017-01-24 — [What Most People Don't Know About Behavioral Design](https://www.nirandfar.com/what-most-people-overlook-in-behavioral-design/) — `2017-01-24-what-most-people-overlook-in-behavioral-design.md` — 909w
-- 2016-12-21 — [How to Start a Career in Behavioral Design](https://www.nirandfar.com/behavioral-design/) — `2016-12-21-behavioral-design.md` — 3223w
-- 2016-10-18 — [How to Build Technology that Feels Like a Friend](https://www.nirandfar.com/ai-bot-technology-that-feels-like-a-friend/) — `2016-10-18-ai-bot-technology-that-feels-like-a-friend.md` — 2217w
-- 2016-10-05 — [3 Pillars of the Most Successful Tech Products](https://www.nirandfar.com/successful-tech-products/) — `2016-10-05-successful-tech-products.md` — 1480w
-- 2016-09-29 — [Here's How to Ethically Manipulate Other People](https://www.nirandfar.com/morality-of-manipulation/) — `2016-09-29-morality-of-manipulation.md` — 141w
-- 2016-08-16 — [How to Hook Users in 3 Steps: An Intro to Habit Testing](https://www.nirandfar.com/habit-testing/) — `2016-08-16-habit-testing.md` — 228w
-- 2016-08-01 — [Die Dashboards, Die! Why Conversations Will Reinvent Software](https://www.nirandfar.com/die-dashboards-die-why-conversations-will-reinvent-software-heres-what-your-boring-dashboard-would-look-like-as-a-conversational-interface/) — `2016-08-01-die-dashboards-die-why-conversations-will-reinvent-software-heres-what-your-bori.md` — 1579w
-- 2016-07-28 — ["Think Different" is Bad Advice](https://www.nirandfar.com/think-different-is-bad-advice/) — `2016-07-28-think-different-is-bad-advice.md` — 1855w
-- 2016-07-20 — [The Secret to Sending Emails and Notifications That Work](https://www.nirandfar.com/secret-sending-emails-notifications-work/) — `2016-07-20-secret-sending-emails-notifications-work.md` — 131w
-- 2016-05-13 — [How to Win Your Competition’s Customers](https://www.nirandfar.com/win-competitions-customers/) — `2016-05-13-win-competitions-customers.md` — 181w
-- 2016-03-28 — [Hooked for Good: How Habit](https://www.nirandfar.com/hooked-good-habit-forming-products-improve-lives/) — `2016-03-28-hooked-good-habit-forming-products-improve-lives.md` — 167w
-- 2016-03-17 — [Good Products Start With Good Questions](https://www.nirandfar.com/good-products-start-good-questions/) — `2016-03-17-good-products-start-good-questions.md` — 1018w
-- 2015-07-23 — [Human + A.I. = Your Digital Future](https://www.nirandfar.com/the-message-is-the-medium-3-reasons-apps-as-assistants-work/) — `2015-07-23-the-message-is-the-medium-3-reasons-apps-as-assistants-work.md` — 2099w
-- 2015-07-08 — [Why 'Assistant-As](https://www.nirandfar.com/why-assistant-as-an-app-might-be-the-next-big-tech-trend/) — `2015-07-08-why-assistant-as-an-app-might-be-the-next-big-tech-trend.md` — 1508w
-- 2015-06-17 — [People Don’t Want Something Truly New, They Want the Familiar Done Differently.](https://www.nirandfar.com/california-role-rule/) — `2015-06-17-california-role-rule.md` — 1157w
-- 2015-04-22 — [Here’s Why You'll Hate the Apple Watch (and the Important Business Lesson You Need to Know)](https://www.nirandfar.com/apple-watch-kano-model/) — `2015-04-22-apple-watch-kano-model.md` — 1492w
-- 2015-04-15 — [The Secret Psychology of Snapchat](https://www.nirandfar.com/psychology-of-snapchat/) — `2015-04-15-psychology-of-snapchat.md` — 193w
-- 2015-03-03 — [The Psychology of Notifications: How to Send Triggers that Work](https://www.nirandfar.com/notifications-that-work/) — `2015-03-03-notifications-that-work.md` — 925w
-- 2015-02-23 — [How Technology Tricks You Into Tipping More](https://www.nirandfar.com/tipping/) — `2015-02-23-tipping.md` — 1160w
-- 2015-02-12 — [Building Community Starts with Understanding People](https://www.nirandfar.com/building-community-starts-with-understanding-people/) — `2015-02-12-building-community-starts-with-understanding-people.md` — 405w
-- 2015-02-05 — [When Persuasion Becomes Deception](https://www.nirandfar.com/when-persuasion-becomes-deception/) — `2015-02-05-when-persuasion-becomes-deception.md` — 1077w
-- 2015-01-29 — [Mastering Pricing Principles](https://www.nirandfar.com/mastering-pricing-principles/) — `2015-01-29-mastering-pricing-principles.md` — 685w
-- 2015-01-08 — [Dual Process Theory: Is Your Product the Elephant or the Rider?](https://www.nirandfar.com/does-your-product-rely-on-intuition-or-deliberation/) — `2015-01-08-does-your-product-rely-on-intuition-or-deliberation.md` — 574w
-- 2015-01-07 — [4 Ways to Use Psychology to Win Your Competition's Customers](https://www.nirandfar.com/competitions-customers/) — `2015-01-07-competitions-customers.md` — 1293w
-- 2014-12-11 — [The Real Reason “Stupid” Startups Raise So Much Money](https://www.nirandfar.com/stupid-startups/) — `2014-12-11-stupid-startups.md` — 877w
-- 2014-12-04 — [The Psychology Behind Why We Can't Stop Messaging](https://www.nirandfar.com/the-psychology-behind-why-we-cant-stop-messaging/) — `2014-12-04-the-psychology-behind-why-we-cant-stop-messaging.md` — 1001w
-- 2014-11-26 — [Context Driven Design (The "Context Effect")](https://www.nirandfar.com/context-driven-design/) — `2014-11-26-context-driven-design.md` — 761w
-- 2014-11-25 — [The Psychology of a Billion-Dollar Enterprise App: Why is Slack so Habit](https://www.nirandfar.com/habit-forming/) — `2014-11-25-habit-forming.md` — 1147w
-- 2014-11-19 — [Writing Copy for Your Reader's Brain](https://www.nirandfar.com/writing-copy-for-your-readers-brain/) — `2014-11-19-writing-copy-for-your-readers-brain.md` — 745w
-- 2014-11-12 — [Designing Habit](https://www.nirandfar.com/designing-habit-forming-products/) — `2014-11-12-designing-habit-forming-products.md` — 599w
-- 2014-11-05 — [Games, Play, and Motivation](https://www.nirandfar.com/games-play-and-motivation/) — `2014-11-05-games-play-and-motivation.md` — 827w
-- 2014-10-22 — [Should You Listen To Your Users or Your Data?](https://www.nirandfar.com/should-you-listen-to-your-users-or-your-data/) — `2014-10-22-should-you-listen-to-your-users-or-your-data.md` — 698w
-- 2014-10-15 — [Emotional Engagement](https://www.nirandfar.com/emotional-engagement-designing-with-the-heart-in-mind/) — `2014-10-15-emotional-engagement-designing-with-the-heart-in-mind.md` — 604w
-- 2014-10-14 — [A Free Course on User Behavior](https://www.nirandfar.com/a-free-course-on-user-behavior/) — `2014-10-14-a-free-course-on-user-behavior.md` — 384w
-- 2014-09-04 — [Product Psychology: The 3 Things Everyone Should Know About](https://www.nirandfar.com/things-everyone-should-know-about-product-psychology/) — `2014-09-04-things-everyone-should-know-about-product-psychology.md` — 586w
-- 2014-08-28 — [Getting Traction: How to Hook New Users](https://www.nirandfar.com/traction/) — `2014-08-28-traction.md` — 1375w
-- 2014-08-23 — [Designing for Behavior Change Book Review](https://www.nirandfar.com/designing-for-behavior-change-book-review/) — `2014-08-23-designing-for-behavior-change-book-review.md` — 1662w
-- 2014-08-11 — [The Sneaky Trick Behind the Explosive Growth of the Kardashian Game](https://www.nirandfar.com/the-sneaky-trick-behind-the-explosive-growth-of-the-kardashian-game/) — `2014-08-11-the-sneaky-trick-behind-the-explosive-growth-of-the-kardashian-game.md` — 1268w
-- 2014-07-18 — [The Link Between Habits and User Satisfaction](https://www.nirandfar.com/frequent-habits-and-customer-satisfaction/) — `2014-07-18-frequent-habits-and-customer-satisfaction.md` — 1089w
-- 2014-03-27 — [Teach or Hook? What's the Real Goal of Online Education?](https://www.nirandfar.com/teach-or-hook-whats-the-real-goal-of-online-education/) — `2014-03-27-teach-or-hook-whats-the-real-goal-of-online-education.md` — 1433w
-- 2014-03-12 — [How To Build Habits In A Multi](https://www.nirandfar.com/multi-device/) — `2014-03-12-multi-device.md` — 1640w
-- 2014-02-24 — [How To Cope with Your Insane Jealousy Of The WhatsApp Deal](https://www.nirandfar.com/how-to-cope-with-your-insane-jealousy-of-the-whatsapp-deal/) — `2014-02-24-how-to-cope-with-your-insane-jealousy-of-the-whatsapp-deal.md` — 1009w
-- 2014-02-18 — [Why Do Fads Fade? The Inevitable Death Of Flappy Bird](https://www.nirandfar.com/why-do-fads-fade/) — `2014-02-18-why-do-fads-fade.md` — 1688w
-- 2014-02-10 — [You'd Be Surprised By What Really Motivates Users](https://www.nirandfar.com/youd-be-surprised/) — `2014-02-10-youd-be-surprised.md` — 1444w
-- 2014-01-20 — [How You Can Help Users Change Habits](https://www.nirandfar.com/how-you-can-help-users-change-habits/) — `2014-01-20-how-you-can-help-users-change-habits.md` — 1755w
-- 2014-01-11 — [Is “Lean Startup” Right for Your Idea?](https://www.nirandfar.com/right-for-your-idea/) — `2014-01-11-right-for-your-idea.md` — 1417w
-- 2013-11-12 — [Refresh: The App a Secret Agent Would Love](https://www.nirandfar.com/the-new-app-a-secret-agent-would-love/) — `2013-11-12-the-new-app-a-secret-agent-would-love.md` — 1276w
-- 2013-09-10 — ["Yes, And": The Two Words that Created a #1 App](https://www.nirandfar.com/the-two-words-that-created-a-1-app/) — `2013-09-10-the-two-words-that-created-a-1-app.md` — 1096w
-- 2013-08-22 — [What if In](https://www.nirandfar.com/what-if-in-app-purchase-entered-real-life/) — `2013-08-22-what-if-in-app-purchase-entered-real-life.md` — 1157w
-- 2013-08-09 — [Hooking Users One Snapchat at a Time](https://www.nirandfar.com/hooking-users-one-snapchat-at-a-time/) — `2013-08-09-hooking-users-one-snapchat-at-a-time.md` — 1199w
-- 2013-07-09 — [How to Boost Desire Using the Psychology of Scarcity](https://www.nirandfar.com/psychology-of-scarcity/) — `2013-07-09-psychology-of-scarcity.md` — 1530w
-- 2013-06-18 — [Marketplaces & The Curse of the Network Effect](https://www.nirandfar.com/the-curse-of-the-network-effect/) — `2013-06-18-the-curse-of-the-network-effect.md` — 1144w
-- 2013-06-06 — [Today's Behaviors, Tomorrow's Startups](https://www.nirandfar.com/todays-behaviors-tomorrows-startups/) — `2013-06-06-todays-behaviors-tomorrows-startups.md` — 759w
-- 2013-05-29 — [Venture Capital and The Superstitious Investor](https://www.nirandfar.com/the-superstitious-investor/) — `2013-05-29-the-superstitious-investor.md` — 1107w
-- 2013-05-06 — [The Roots of Temptation](https://www.nirandfar.com/temptation/) — `2013-05-06-temptation.md` — 1107w
-- 2013-04-02 — [Viral Loops Or Viral 'Oops'?](https://www.nirandfar.com/viral-loops-or-viral-oops/) — `2013-04-02-viral-loops-or-viral-oops.md` — 1122w
-- 2013-03-28 — [Making a Marketplace](https://www.nirandfar.com/making-a-marketplace/) — `2013-03-28-making-a-marketplace.md` — 282w
-- 2013-03-06 — [What You Don't Know About Human Intuition Can Hurt You](https://www.nirandfar.com/what-you-dont-know-about-intuition-can-hurt-you/) — `2013-03-06-what-you-dont-know-about-intuition-can-hurt-you.md` — 826w
-- 2013-02-12 — [Designing to Reward our Tribal Sides](https://www.nirandfar.com/designing-to-reward-our-tribal-sides/) — `2013-02-12-designing-to-reward-our-tribal-sides.md` — 1494w
-- 2012-12-03 — [Ways To Get People To Do Things They Don’t Want To Do](https://www.nirandfar.com/ways-to-get-people-to-do-things-they-dont-want-to-do/) — `2012-12-03-ways-to-get-people-to-do-things-they-dont-want-to-do.md` — 1541w
-- 2012-11-05 — [The Network Effect Isn’t Good Enough](https://www.nirandfar.com/the-network-effect-isnt-good-enough/) — `2012-11-05-the-network-effect-isnt-good-enough.md` — 1215w
-- 2012-10-04 — [Mass Persuasion, One User At A Time](https://www.nirandfar.com/mass-persuasion-one-user-at-a-time/) — `2012-10-04-mass-persuasion-one-user-at-a-time.md` — 1368w
-- 2012-09-21 — [How Investment Drives Engagement (Slides)](https://www.nirandfar.com/how-investment-drives-engagement-slides/) — `2012-09-21-how-investment-drives-engagement-slides.md` — 293w
-- 2012-09-04 — [Getting Your Product Into the Habit Zone](https://www.nirandfar.com/habit-zone/) — `2012-09-04-habit-zone.md` — 1207w
-- 2012-08-13 — [Designing User Habits Video](https://www.nirandfar.com/designing-user-habits-video/) — `2012-08-13-designing-user-habits-video.md` — 190w
-- 2012-07-20 — [Behavior by Design Video](https://www.nirandfar.com/behaviorbydesignvideo/) — `2012-07-20-behaviorbydesignvideo.md` — 189w
-- 2012-07-16 — [When Designing for Good Is Bad](https://www.nirandfar.com/when-designing-for-good-is-bad/) — `2012-07-16-when-designing-for-good-is-bad.md` — 1012w
-- 2012-06-25 — [The Next Secrets of the Internet](https://www.nirandfar.com/the-next-secrets-of-the-web/) — `2012-06-25-the-next-secrets-of-the-web.md` — 1109w
-- 2012-05-28 — [User Growth and Engagement: A Hacker Metric](https://www.nirandfar.com/never-take-your-eyes-off-this-hacker-metric/) — `2012-05-28-never-take-your-eyes-off-this-hacker-metric.md` — 1892w
-- 2012-04-18 — [Why Everyone Hates I.T. People](https://www.nirandfar.com/why-everyone-hates-it-people/) — `2012-04-18-why-everyone-hates-it-people.md` — 946w
-- 2012-03-27 — [Variable Rewards: Want To Hook Users? Drive Them Crazy](https://www.nirandfar.com/want-to-hook-your-users-drive-them-crazy/) — `2012-03-27-want-to-hook-your-users-drive-them-crazy.md` — 1282w
-- 2012-03-21 — [How to Design Behavior (The Behavior Change Matrix)](https://www.nirandfar.com/how-to-design-behavior/) — `2012-03-21-how-to-design-behavior.md` — 1259w
-- 2012-03-12 — [How To Design For “Normals”](https://www.nirandfar.com/go-ask-grandma-how-to-design-for-normals/) — `2012-03-12-go-ask-grandma-how-to-design-for-normals.md` — 976w
-- 2012-03-04 — [The Hooked Model: How to Manufacture Desire in 4 Steps](https://www.nirandfar.com/how-to-manufacture-desire/) — `2012-03-04-how-to-manufacture-desire.md` — 1790w
-- 2012-02-24 — [What Is, and Is Not, Your Product's Job](https://www.nirandfar.com/what-is-and-is-not-your-products-job/) — `2012-02-24-what-is-and-is-not-your-products-job.md` — 768w
-- 2012-02-07 — [Pinterest’s Obvious Secret](https://www.nirandfar.com/pinterests-obvious-secret/) — `2012-02-07-pinterests-obvious-secret.md` — 1014w
-- 2012-02-07 — [Personalized eCommerce Is Already Here, You Just Don’t Recognize It](https://www.nirandfar.com/personalized-ecommerce-is-already-here/) — `2012-02-07-personalized-ecommerce-is-already-here.md` — 1104w
-- 2012-01-31 — [Where is the Web Going?](https://www.nirandfar.com/where-is-web-going/) — `2012-01-31-where-is-web-going.md` — 847w
-- 2012-01-23 — [The Developer Divide: When Great Companies Can't Hire](https://www.nirandfar.com/developer-divide-when-great-companies/) — `2012-01-23-developer-divide-when-great-companies.md` — 1122w
-- 2012-01-06 — [Behavior by Design](https://www.nirandfar.com/behavior-by-design/) — `2012-01-06-behavior-by-design.md` — 191w
-- 2011-12-23 — [Are you a Startup Star, Wacko, or Wannabe?](https://www.nirandfar.com/are-you-startup-star-wacko-or-wannabe/) — `2011-12-23-are-you-startup-star-wacko-or-wannabe.md` — 195w
+- 2025-10-14 — [How Your Brain Sabotages Your Social Life—and Simple Ways to Fix It](https://www.nirandfar.com/antisocial-brain/) — `2025-10-14-antisocial-brain.md` — 1676w
+- 2025-09-23 — [The Truth About Emotions: What Parents Need To Know](https://www.nirandfar.com/parents-need-to-know/) — `2025-09-23-parents-need-to-know.md` — 1576w
+- 2025-07-21 — [Finding Your Footing When The Ground Shifts Beneath You](https://www.nirandfar.com/find-your-footing/) — `2025-07-21-find-your-footing.md` — 1486w
+- 2025-07-07 — [Unlock Your Potential With The Power Of Belief](https://www.nirandfar.com/power-of-belief/) — `2025-07-07-power-of-belief.md` — 1105w
+- 2025-06-23 — [The Pain Paradox: How Fear of Pain Creates More Pain](https://www.nirandfar.com/pain-paradox/) — `2025-06-23-pain-paradox.md` — 1753w
+- 2025-06-09 — [Let’s Not Decide Who Kids Are Before They Do](https://www.nirandfar.com/stop-labeling-kids/) — `2025-06-09-stop-labeling-kids.md` — 1706w
+- 2025-05-26 — [How to Find Fulfillment When Your Job Doesn’t Provide It](https://www.nirandfar.com/fulfillment-at-work/) — `2025-05-26-fulfillment-at-work.md` — 1669w
+- 2025-05-13 — [Why Seeking Approval is Killing your Potential](https://www.nirandfar.com/stop-seeking-approval/) — `2025-05-13-stop-seeking-approval.md` — 1257w
+- 2025-04-28 — [How Successful People Timebox](https://www.nirandfar.com/timeboxing-success/) — `2025-04-28-timeboxing-success.md` — 2167w
+- 2025-04-14 — [Stop Gaslighting Yourself: Why Your Memory Isn’t as Reliable as You Think](https://www.nirandfar.com/stop-gaslighting-yourself/) — `2025-04-14-stop-gaslighting-yourself.md` — 1151w
+- 2025-03-31 — [How to Protect  Your Focus Without Burning Bridges](https://www.nirandfar.com/protect-your-focus/) — `2025-03-31-protect-your-focus.md` — 1249w
+- 2025-03-24 — [The Real Culprit Behind Plummeting Children’s Mental Health](https://www.nirandfar.com/kids-mental-health-crisis/) — `2025-03-24-kids-mental-health-crisis.md` — 2875w
+- 2025-03-11 — [The 4 Secrets to Storytelling for Business](https://www.nirandfar.com/storytelling-for-business/) — `2025-03-11-storytelling-for-business.md` — 903w
+- 2025-03-03 — [The Hidden Power of Social Comparison](https://www.nirandfar.com/social-comparison/) — `2025-03-03-social-comparison.md` — 1624w
+- 2025-02-17 — [Is Psychiatry Keeping Us Sick?](https://www.nirandfar.com/psychiatry-keeping-us-sick/) — `2025-02-17-psychiatry-keeping-us-sick.md` — 2645w
+- 2025-02-04 — [Why You’re Always Busy but Never Productive (and How to Fix It)](https://www.nirandfar.com/busy-but-not-productive/) — `2025-02-04-busy-but-not-productive.md` — 1924w
+- 2025-01-20 — [The Surprisingly Strong Case for Luck in Sales](https://www.nirandfar.com/luck-in-sales/) — `2025-01-20-luck-in-sales.md` — 2113w
+- 2025-01-06 — [Fail! Fail a Lot! It’s Good for You](https://www.nirandfar.com/fail-a-lot/) — `2025-01-06-fail-a-lot.md` — 1758w
+- 2024-11-25 — [You Are Not Your Mental Health](https://www.nirandfar.com/mental-health-identity/) — `2024-11-25-mental-health-identity.md` — 2486w
+- 2024-11-04 — [Control Your Calendar (Not Your To-Do List) and Success Will Follow](https://www.nirandfar.com/control-your-calendar/) — `2024-11-04-control-your-calendar.md` — 1294w
+- 2024-09-10 — [Getting Great Sleep is Much Easier Than You Think](https://www.nirandfar.com/sleep-hacks/) — `2024-09-10-sleep-hacks.md` — 1879w
+- 2024-08-26 — [How to Be Lucky in Business and Life: 4 Science-Backed Principles](https://www.nirandfar.com/how-to-be-lucky/) — `2024-08-26-how-to-be-lucky.md` — 1191w
+- 2024-08-12 — [How to Stop Overthinking](https://www.nirandfar.com/stop-overthinking/) — `2024-08-12-stop-overthinking.md` — 1178w
+- 2024-07-29 — [How to Handle a Distracting Boss](https://www.nirandfar.com/handling-a-distracting-boss/) — `2024-07-29-handling-a-distracting-boss.md` — 1410w
+- 2024-07-15 — [Only People Who Believe in Luck Have It](https://www.nirandfar.com/believe-in-luck-for-success/) — `2024-07-15-believe-in-luck-for-success.md` — 1694w
+- 2024-07-01 — [Can You Think Yourself Thinner?](https://www.nirandfar.com/think-yourself-thin/) — `2024-07-01-think-yourself-thin.md` — 1572w
+- 2024-06-28 — [Work Productivity Hacks & Tips for Today’s Workplace](https://www.nirandfar.com/ways-to-be-productive-at-workplace/) — `2024-06-28-ways-to-be-productive-at-workplace.md` — 966w
+- 2024-06-17 — [Why Successful People Only Get More Successful](https://www.nirandfar.com/success-breeds-success/) — `2024-06-17-success-breeds-success.md` — 1509w
+- 2024-06-03 — [How to Become an Indistractable Reader](https://www.nirandfar.com/be-a-better-reader/) — `2024-06-03-be-a-better-reader.md` — 1637w
+- 2024-05-18 — [Want to Live Longer? Change Your Mind About Aging](https://www.nirandfar.com/live-longer/) — `2024-05-18-live-longer.md` — 1904w
+- 2024-05-08 — [How to Overcome Anxiety Forever](https://www.nirandfar.com/overcoming-anxiety/) — `2024-05-08-overcoming-anxiety.md` — 1201w
+- 2024-04-22 — [Referent Power: The Ultimate Form of Influence](https://www.nirandfar.com/referent-power/) — `2024-04-22-referent-power.md` — 1630w
+- 2024-04-08 — [Studies Show Self-Compassion is the Motivator You’re Missing](https://www.nirandfar.com/self-compassion-to-succeed/) — `2024-04-08-self-compassion-to-succeed.md` — 1253w
+- 2024-03-25 — [How to Banish Virtual Meeting Boredom](https://www.nirandfar.com/virtual-meeting-boredom/) — `2024-03-25-virtual-meeting-boredom.md` — 1410w
+- 2024-03-11 — [Limiting Beliefs: Ditch the 4 Dream Killers Holding You Back](https://www.nirandfar.com/limiting-beliefs/) — `2024-03-11-limiting-beliefs.md` — 1062w
+- 2024-02-26 — [Sales Psychology: Why You Make Terrible Buying Choices](https://www.nirandfar.com/sales-psychology/) — `2024-02-26-sales-psychology.md` — 1385w
+- 2024-02-12 — [Listening to Fitness Gurus is Making You Fat](https://www.nirandfar.com/fitness-guru-myth/) — `2024-02-12-fitness-guru-myth.md` — 1598w
+- 2024-01-30 — [The Magic of Now, Not How](https://www.nirandfar.com/now-not-how/) — `2024-01-30-now-not-how.md` — 1247w
+- 2024-01-22 — [The App that Transforms Drinking Habits: a Case Study](https://www.nirandfar.com/sunnyside-app/) — `2024-01-22-sunnyside-app.md` — 1349w
+- 2024-01-08 — [3 Steps to Master Your Emotions and Be Your Best Self](https://www.nirandfar.com/be-your-best-self/) — `2024-01-08-be-your-best-self.md` — 1027w
+- 2023-12-26 — [The Ultimate Guide to Unstoppable Motivation](https://www.nirandfar.com/unstoppable-motivation/) — `2023-12-26-unstoppable-motivation.md` — 2724w
+- 2023-12-11 — [Multitasking During Meetings? How to Make Your Colleagues Indistractable](https://www.nirandfar.com/multitasking-during-meetings/) — `2023-12-11-multitasking-during-meetings.md` — 1260w
+- 2023-11-27 — [How to Build a Habit-Forming Enterprise Product](https://www.nirandfar.com/hooked-for-the-enterprise/) — `2023-11-27-hooked-for-the-enterprise.md` — 1055w
+- 2023-11-13 — [Score Your Spats: How to Stop Fighting in a Relationship](https://www.nirandfar.com/how-to-stop-arguing/) — `2023-11-13-how-to-stop-arguing.md` — 1398w
+- 2023-10-30 — [Unlocking Focus with the Distraction Tracker](https://www.nirandfar.com/distraction-tracker/) — `2023-10-30-distraction-tracker.md` — 728w
+- 2023-10-17 — [The Crucial Difference Between Distraction and Diversion](https://www.nirandfar.com/distraction-vs-diversion/) — `2023-10-17-distraction-vs-diversion.md` — 753w
+- 2023-10-03 — [Decoding Self-Serving Bias: A Spy’s Guide to Clear Thinking](https://www.nirandfar.com/self-serving-bias/) — `2023-10-03-self-serving-bias.md` — 1744w
+- 2023-09-25 — [This Meeting Could Have Been an Email: Top Tips on How to Have Fewer Meetings](https://www.nirandfar.com/meeting-could-be-an-email/) — `2023-09-25-meeting-could-be-an-email.md` — 1390w
+- 2023-09-11 — [When Do You Feel Most Creative? Why Ideas Bloom at Bedtime](https://www.nirandfar.com/when-do-you-feel-most-creative/) — `2023-09-11-when-do-you-feel-most-creative.md` — 733w
+- 2023-08-28 — [32 Morning Affirmations: Rise & Shine! [Science-Backed]](https://www.nirandfar.com/morning-affirmations/) — `2023-08-28-morning-affirmations.md` — 1685w
+- 2023-08-14 — [Scheduling for Life’s Surprises: When Timeboxing is Toast](https://www.nirandfar.com/scheduling-for-surprises/) — `2023-08-14-scheduling-for-surprises.md` — 908w
+- 2023-07-31 — [Messaging App Madness: How To Stay Productive [and Sane]](https://www.nirandfar.com/messaging-madness/) — `2023-07-31-messaging-madness.md` — 1164w
+- 2023-07-17 — [How to Build an Irresistible Product for VC Investors](https://www.nirandfar.com/irresistible-for-vc/) — `2023-07-17-irresistible-for-vc.md` — 4334w
+- 2023-07-03 — [You Don’t Have to Follow the Same Routines Forever](https://www.nirandfar.com/short-term-routines/) — `2023-07-03-short-term-routines.md` — 1174w
+- 2023-06-19 — [You Can Have Your Retirement Fantasy Today](https://www.nirandfar.com/retirement-fantasy/) — `2023-06-19-retirement-fantasy.md` — 851w
+- 2023-06-05 — [How to Craft an ‘Indistractable’ Summer Schedule for Your Kids](https://www.nirandfar.com/summer-schedule-for-kids/) — `2023-06-05-summer-schedule-for-kids.md` — 1787w
+- 2023-05-22 — [The 4-Day Workweek: How To Do More With Less](https://www.nirandfar.com/4-day-workweek/) — `2023-05-22-4-day-workweek.md` — 1471w
+- 2023-05-08 — [Managers, Stop Distracting Your Employees](https://www.nirandfar.com/managers-distracting-employees/) — `2023-05-08-managers-distracting-employees.md` — 1505w
+- 2023-04-24 — [Here’s How I Made the Time to Write 2 Bestselling Books](https://www.nirandfar.com/writing-routine/) — `2023-04-24-writing-routine.md` — 2137w
+- 2023-04-10 — [A Case Study in Implementing the Hooked Model: Gatorade’s Gx App](https://www.nirandfar.com/hooked-example-gatorade-app/) — `2023-04-10-hooked-example-gatorade-app.md` — 5042w
+- 2023-03-23 — [Money Buddies: Don’t Go It Alone with Your Wallet](https://www.nirandfar.com/money-buddy/) — `2023-03-23-money-buddy.md` — 4724w
+- 2023-03-13 — [5 Productivity Myths Ruining Your Life](https://www.nirandfar.com/productivity-myths/) — `2023-03-13-productivity-myths.md` — 1315w
+- 2023-02-27 — [How to Stop Habits that Secretly Make You Miserable](https://www.nirandfar.com/6-habits-making-you-miserable/) — `2023-02-27-6-habits-making-you-miserable.md` — 2001w
+- 2023-02-13 — [One Question to Ask Yourself to Know Your Future](https://www.nirandfar.com/one-question-to-know-future/) — `2023-02-13-one-question-to-know-future.md` — 1055w
+- 2023-01-30 — [Make Time for Procrastination](https://www.nirandfar.com/make-time-for-procrastination/) — `2023-01-30-make-time-for-procrastination.md` — 979w
+- 2023-01-16 — [People Make Time for What They Want — Rightfully So](https://www.nirandfar.com/people-make-time-for-what-they-want/) — `2023-01-16-people-make-time-for-what-they-want.md` — 833w
+- 2023-01-02 — [Kickstart the New Year with a Self-Audit](https://www.nirandfar.com/new-year-self-audit/) — `2023-01-02-new-year-self-audit.md` — 1107w
+- 2022-12-19 — [’Tis the Season for Reexamining Your Values](https://www.nirandfar.com/examining-your-values/) — `2022-12-19-examining-your-values.md` — 1210w
+- 2022-12-06 — [4 Mental Traps That Kill Productivity](https://www.nirandfar.com/productivity-mindset/) — `2022-12-06-productivity-mindset.md` — 1636w
+- 2022-11-24 — [Labeling Yourself is Keeping You Down, Do This Instead](https://www.nirandfar.com/labeling-yourself/) — `2022-11-24-labeling-yourself.md` — 1056w
+- 2022-11-07 — [Not Enough Hours in the Day To Slay Your To-Do List](https://www.nirandfar.com/not-enough-hours/) — `2022-11-07-not-enough-hours.md` — 1271w
+- 2022-10-24 — [3 Reasons Why Subscription Businesses Fail](https://www.nirandfar.com/why-subscription-businesses-fail/) — `2022-10-24-why-subscription-businesses-fail.md` — 1879w
+- 2022-10-10 — [Skip the Digital Detox—Abstinence Won’t Work (But This Does)](https://www.nirandfar.com/digital-detox-failure/) — `2022-10-10-digital-detox-failure.md` — 1294w
+- 2022-09-29 — [The Surprising Science of “Manifestation”](https://www.nirandfar.com/science-of-manifestation/) — `2022-09-29-science-of-manifestation.md` — 1186w
+- 2022-09-12 — [Best Productivity Tools: 6 That Stuck With Me](https://www.nirandfar.com/best-productivity-tools/) — `2022-09-12-best-productivity-tools.md` — 1358w
+- 2022-08-29 — [Schedule Maker: a Google Sheet to Plan Your Week](https://www.nirandfar.com/schedule-maker/) — `2022-08-29-schedule-maker.md` — 4570w
+- 2022-08-29 — [A Fail-Safe Trick in your Search for the Right Productivity Apps](https://www.nirandfar.com/the-right-productivity-apps/) — `2022-08-29-the-right-productivity-apps.md` — 1218w
+- 2022-08-22 — [You’re Not Addicted to Technology. Here’s What’s Happening Instead.](https://www.nirandfar.com/technology-addiction-or-not/) — `2022-08-22-technology-addiction-or-not.md` — 4976w
+- 2022-08-15 — [Locus of Control: How It Affects Your Life and How To Manage It](https://www.nirandfar.com/locus-of-control/) — `2022-08-15-locus-of-control.md` — 1502w
+- 2022-08-08 — [Distraction at Work Is a Symptom of Dysfunction](https://www.nirandfar.com/distraction-at-work/) — `2022-08-08-distraction-at-work.md` — 1458w
+- 2022-08-01 — [27 Best Productivity Hacks & Tips That Actually Work in 2025](https://www.nirandfar.com/productivity-hacks/) — `2022-08-01-productivity-hacks.md` — 2175w
+- 2022-07-25 — [Why Values In a Relationship Are What Make It Last (Or Not)](https://www.nirandfar.com/values-in-a-relationship/) — `2022-07-25-values-in-a-relationship.md` — 5042w
+- 2022-07-18 — [Why People See Problems Where There Are None](https://www.nirandfar.com/problems-that-dont-exist/) — `2022-07-18-problems-that-dont-exist.md` — 846w
+- 2022-07-11 — [3 Ways to Filter Your Friends](https://www.nirandfar.com/quality-over-quantity-of-friends/) — `2022-07-11-quality-over-quantity-of-friends.md` — 4516w
+- 2022-07-04 — [How Products Shape Our Mindsets and Change Our Reality](https://www.nirandfar.com/how-products-shape-mindsets/) — `2022-07-04-how-products-shape-mindsets.md` — 5252w
+- 2022-06-27 — [How to Prevent Burnout](https://www.nirandfar.com/how-to-prevent-burnout/) — `2022-06-27-how-to-prevent-burnout.md` — 1876w
+- 2022-06-20 — [Fear of Being Alone is Natural. Embrace It.](https://www.nirandfar.com/how-to-embrace-being-alone/) — `2022-06-20-how-to-embrace-being-alone.md` — 1315w
+- 2022-06-13 — [Get Comfortable With Being Uncomfortable](https://www.nirandfar.com/comfortable-with-discomfort/) — `2022-06-13-comfortable-with-discomfort.md` — 1334w
+- 2022-06-06 — [Surprise! There’s a Right Way to Multitask](https://www.nirandfar.com/multitask-the-right-way/) — `2022-06-06-multitask-the-right-way.md` — 1088w
+- 2022-05-30 — [Can Someone with ADHD be ‘Indistractable’?](https://www.nirandfar.com/adhd-but-indistractable/) — `2022-05-30-adhd-but-indistractable.md` — 1573w
+- 2022-05-24 — [Planning a Vacation Is Practice for a Great Life](https://www.nirandfar.com/ultimate-vacation-hack/) — `2022-05-24-ultimate-vacation-hack.md` — 1167w
+- 2022-05-16 — [Why It’s So Hard to Shake the Way People Make You Feel](https://www.nirandfar.com/trapped-priors-and-your-relationships/) — `2022-05-16-trapped-priors-and-your-relationships.md` — 1319w
+- 2022-05-09 — [Don’t Write About What You Already Know — Instead, I’m “Writing To Learn”](https://www.nirandfar.com/writing-to-learn/) — `2022-05-09-writing-to-learn.md` — 4082w
+- 2022-05-02 — [Are We Really Having Fun at Bars or Just Escaping Reality?](https://www.nirandfar.com/why-do-people-go-to-bars/) — `2022-05-02-why-do-people-go-to-bars.md` — 1670w
+- 2022-04-25 — [The 6 Behavioral Design Books That Paved My Career](https://www.nirandfar.com/behavioral-design-books/) — `2022-04-25-behavioral-design-books.md` — 5767w
+- 2022-04-18 — [The 4 Steps to Becoming Indistractable](https://www.nirandfar.com/how-to-be-indistractable/) — `2022-04-18-how-to-be-indistractable.md` — 1677w
+- 2022-04-11 — [Why You’re Never Going to Be Satisfied With Life](https://www.nirandfar.com/why-you-are-never-satisfied/) — `2022-04-11-why-you-are-never-satisfied.md` — 1361w
+- 2022-03-28 — [How a Morning Brain Dump Helps You Stay on Track All Day](https://www.nirandfar.com/morning-brain-dump/) — `2022-03-28-morning-brain-dump.md` — 1442w
+- 2022-03-21 — [The Key to Behavior Change is Identity Change](https://www.nirandfar.com/behavior-change-is-identity-change/) — `2022-03-21-behavior-change-is-identity-change.md` — 936w
+- 2022-03-14 — [How to Make Sure Working From Home Doesn’t Mean You’re Always Working](https://www.nirandfar.com/work-from-home-productivity-tips/) — `2022-03-14-work-from-home-productivity-tips.md` — 1255w
+- 2022-03-07 — [Planning Ahead Is the Key to Living With More Spontaneity](https://www.nirandfar.com/planning-for-spontaneity/) — `2022-03-07-planning-for-spontaneity.md` — 1155w
+- 2022-02-28 — [To Fix Your Problems, Find the Root Cause](https://www.nirandfar.com/find-the-root-cause/) — `2022-02-28-find-the-root-cause.md` — 1026w
+- 2022-02-21 — [One Question to Help You Get More Done](https://www.nirandfar.com/one-question-to-get-more-done/) — `2022-02-21-one-question-to-get-more-done.md` — 1195w
+- 2022-02-14 — [The Pursuit of ‘Flow’ Is Overrated](https://www.nirandfar.com/the-pursuit-of-flow-is-overrated/) — `2022-02-14-the-pursuit-of-flow-is-overrated.md` — 1170w
+- 2022-02-07 — [How to Survive in a World of Information Overload](https://www.nirandfar.com/dealing-with-information-overload/) — `2022-02-07-dealing-with-information-overload.md` — 1580w
+- 2022-01-31 — [How to Get a Friend to Put Away Their Phone Without Being a Jerk](https://www.nirandfar.com/how-to-get-a-friend-off-their-phone/) — `2022-01-31-how-to-get-a-friend-off-their-phone.md` — 4308w
+- 2022-01-24 — [How to Tame Your Wandering Mind and Actually Get Some Work Done](https://www.nirandfar.com/taming-a-wandering-mind/) — `2022-01-24-taming-a-wandering-mind.md` — 1778w
+- 2022-01-17 — [If You Don’t Plan Your Time, Someone Else Will](https://www.nirandfar.com/plan-your-time-or-someone-else-will/) — `2022-01-17-plan-your-time-or-someone-else-will.md` — 1284w
+- 2022-01-10 — [You Don’t Need a Mentor. You Need a Buddy.](https://www.nirandfar.com/you-need-an-accountability-buddy/) — `2022-01-10-you-need-an-accountability-buddy.md` — 1359w
+- 2022-01-03 — [Would You Rather Give Up Sex or Your Phone?](https://www.nirandfar.com/give-up-sex-or-phone/) — `2022-01-03-give-up-sex-or-phone.md` — 4336w
+- 2021-12-27 — [Habit Tracker Template in Google Sheets](https://www.nirandfar.com/habit-tracker/) — `2021-12-27-habit-tracker.md` — 1803w
+- 2021-12-22 — [Here’s How to Ensure Your Kids Don’t Spend the Entire Break Staring at Screens](https://www.nirandfar.com/kids-on-screens-during-break/) — `2021-12-22-kids-on-screens-during-break.md` — 5012w
+- 2021-12-13 — [I Changed My Mind About Saying “Merry Christmas,” and You Should Too](https://www.nirandfar.com/saying-merry-christmas/) — `2021-12-13-saying-merry-christmas.md` — 1409w
+- 2021-12-06 — [How the Ancient Greeks Beat Distraction](https://www.nirandfar.com/tantalizing-distractions/) — `2021-12-06-tantalizing-distractions.md` — 1497w
+- 2021-11-29 — [Habits Are Overrated](https://www.nirandfar.com/habit-trap/) — `2021-11-29-habit-trap.md` — 863w
+- 2021-11-22 — [Need Motivation? Make a Price Pact](https://www.nirandfar.com/price-pact/) — `2021-11-22-price-pact.md` — 1776w
+- 2021-11-15 — [Researchers Say We’re Trapped in a “Cycle of Distraction.” Here’s How to Break Free.](https://www.nirandfar.com/mental-abstinence/) — `2021-11-15-mental-abstinence.md` — 1295w
+- 2021-11-08 — [The Pinky Promise: Stick To It – Or Shed Some Blood](https://www.nirandfar.com/pinky-promise/) — `2021-11-08-pinky-promise.md` — 4300w
+- 2021-11-01 — [Tame Daily Distractions With a ‘Precommitment Pact’](https://www.nirandfar.com/precommitment-pacts/) — `2021-11-01-precommitment-pacts.md` — 1842w
+- 2021-10-24 — [“Digital Body Language” Is Everything: Interview with Erica Dhawan](https://www.nirandfar.com/digital-body-language/) — `2021-10-24-digital-body-language.md` — 1463w
+- 2021-10-16 — [Good News! Your Willpower Isn’t Limited–Don’t Believe the “Ego Depletion” Theory](https://www.nirandfar.com/ego-depletion/) — `2021-10-16-ego-depletion.md` — 4474w
+- 2021-10-12 — [Getting Over FOMO, the Fear of Missing Out](https://www.nirandfar.com/fomo/) — `2021-10-12-fomo.md` — 1200w
+- 2021-10-10 — [Choice Architecture: Your Decisions Aren’t Entirely Yours (Interview with Eric Johnson)](https://www.nirandfar.com/choice-architecture/) — `2021-10-10-choice-architecture.md` — 4542w
+- 2021-10-03 — [The New Norms of Business: Interview with Nathalie Nahai](https://www.nirandfar.com/nathalie-nahai-interview/) — `2021-10-03-nathalie-nahai-interview.md` — 4849w
+- 2021-09-26 — [How to Play The Long Game: Interview with Dorie Clark](https://www.nirandfar.com/long-game-dorie-clark/) — `2021-09-26-long-game-dorie-clark.md` — 4020w
+- 2021-09-21 — [Here Are The 4 Simple Introspection Steps That Will Boost Self Awareness](https://www.nirandfar.com/introspection/) — `2021-09-21-introspection.md` — 2667w
+- 2021-09-19 — [Can’t Seem to Stick With Your Commitments? Try Making a Pact.](https://www.nirandfar.com/making-accountability-pacts/) — `2021-09-19-making-accountability-pacts.md` — 1133w
+- 2021-09-12 — [The Real Reason Why You Sabotage Your Own Goals](https://www.nirandfar.com/psychological-reactance/) — `2021-09-12-psychological-reactance.md` — 794w
+- 2021-09-05 — [How to Stick to a Schedule Even When You Go Off Track](https://www.nirandfar.com/how-to-stay-on-schedule/) — `2021-09-05-how-to-stay-on-schedule.md` — 5401w
+- 2021-08-29 — [Breaking the Cycle: Strategies to Overcome Bad Habits](https://www.nirandfar.com/thinking-about-bad-habits/) — `2021-08-29-thinking-about-bad-habits.md` — 1685w
+- 2021-08-22 — [Steal These 3 Advertising Secrets–To Use As Motivation Hacks](https://www.nirandfar.com/motivation-hacks/) — `2021-08-22-motivation-hacks.md` — 1305w
+- 2021-08-08 — [How to Escape the Vicious Cycle of Distraction](https://www.nirandfar.com/vicious-distraction-cycle/) — `2021-08-08-vicious-distraction-cycle.md` — 1001w
+- 2021-08-01 — [The Ultimate Core Values List: Your Guide to Personal Growth](https://www.nirandfar.com/common-values/) — `2021-08-01-common-values.md` — 1009w
+- 2021-07-21 — [Can We Please Stop Calling Everyone “Addicted”?](https://www.nirandfar.com/stop-calling-everyone-addicted/) — `2021-07-21-stop-calling-everyone-addicted.md` — 1332w
+- 2021-07-19 — [Why Do People Believe the ‘Social Media is Mind Control’ Myth?](https://www.nirandfar.com/social-media-and-mind-control/) — `2021-07-19-social-media-and-mind-control.md` — 4491w
+- 2021-07-11 — [Timeboxing: Why It Works and How to Get Started in 2025](https://www.nirandfar.com/timeboxing/) — `2021-07-11-timeboxing.md` — 5056w
+- 2021-07-04 — [Children and Technology: 3 Things Parents Need To Know](https://www.nirandfar.com/children-and-technology/) — `2021-07-04-children-and-technology.md` — 5184w
+- 2021-06-23 — [The Influencers Dinner: An Interview with Jon Levy](https://www.nirandfar.com/influencers-dinner-jon-levy/) — `2021-06-23-influencers-dinner-jon-levy.md` — 1737w
+- 2021-06-13 — [What Is Motivation? You’ve Probably Been Thinking About It All Wrong](https://www.nirandfar.com/what-is-motivation/) — `2021-06-13-what-is-motivation.md` — 1501w
+- 2021-06-06 — [“Just Say No” Is Bad Productivity Advice](https://www.nirandfar.com/productivity-and-saying-no/) — `2021-06-06-productivity-and-saying-no.md` — 1194w
+- 2021-05-30 — [Cancel the New York Times? Good Luck Battling “Dark Patterns”](https://www.nirandfar.com/cancel-new-york-times/) — `2021-05-30-cancel-new-york-times.md` — 4891w
+- 2021-05-23 — [Can We Regulate Social Networks To Curb Addiction—Without Making Them Suck?](https://www.nirandfar.com/social-media-regulation/) — `2021-05-23-social-media-regulation.md` — 4234w
+- 2021-05-11 — [So, You Want To Become a Great Product Manager? [Q&A with Jackie Bavaro]](https://www.nirandfar.com/becoming-a-product-manager/) — `2021-05-11-becoming-a-product-manager.md` — 5211w
+- 2021-05-09 — [Why the Illusion of Control Is Hurting Your Goals](https://www.nirandfar.com/illusion-of-control/) — `2021-05-09-illusion-of-control.md` — 4455w
+- 2021-05-02 — [Are You a Wage Slave?](https://www.nirandfar.com/wage-slaves/) — `2021-05-02-wage-slaves.md` — 1462w
+- 2021-04-26 — [What is the Opposite of “Distraction?” The Single Word that Will Change Your Life This Year](https://www.nirandfar.com/opposite-of-distraction/) — `2021-04-26-opposite-of-distraction.md` — 900w
+- 2021-04-18 — [Don’t Fall for This Excuse Trap: Why “That Won’t Work for Me” is Self-Sabotaging](https://www.nirandfar.com/mental-blocks-to-productivity-techniques/) — `2021-04-18-mental-blocks-to-productivity-techniques.md` — 1009w
+- 2021-04-08 — [Maybe Social Media Isn’t Making Teens Depressed, After All. And Here’s What Likely Is.](https://www.nirandfar.com/social-media-and-teens/) — `2021-04-08-social-media-and-teens.md` — 4809w
+- 2021-04-04 — [Will Clubhouse be a Habit or Has-Been?](https://www.nirandfar.com/hooked-on-clubhouse-app/) — `2021-04-04-hooked-on-clubhouse-app.md` — 5215w
+- 2021-03-30 — [How to “Listen Like you Mean It”](https://www.nirandfar.com/ximena-vengoechea-interview/) — `2021-03-30-ximena-vengoechea-interview.md` — 5257w
+- 2021-03-17 — [Smartphone Too Distracting? Here’s How to Reclaim Your Focus](https://www.nirandfar.com/hack-back-phone-distractions/) — `2021-03-17-hack-back-phone-distractions.md` — 3368w
+- 2021-03-09 — [“Tech Addiction” Is the New Reefer Madness](https://www.nirandfar.com/tech-addiction-laws/) — `2021-03-09-tech-addiction-laws.md` — 1364w
+- 2021-03-02 — [Love is Measured By the Benefit of the Doubt: The Secret to True Kindness](https://www.nirandfar.com/secret-to-kindness/) — `2021-03-02-secret-to-kindness.md` — 1011w
+- 2021-02-22 — [An Illustrated Guide to the 4 Types of Liars](https://www.nirandfar.com/types-of-liars/) — `2021-02-22-types-of-liars.md` — 6983w
+- 2021-02-08 — [Why You Might Need a Humor Audit: the Benefits of Laughter](https://www.nirandfar.com/benefits-of-laughter/) — `2021-02-08-benefits-of-laughter.md` — 2560w
+- 2021-02-01 — [Hypocrites: How to Survive in a World that’s Full of Them](https://www.nirandfar.com/hypocrite/) — `2021-02-01-hypocrite.md` — 5940w
+- 2021-01-18 — [How to Finally Find the Motivation You’ve Been Missing](https://www.nirandfar.com/how-to-find-motivation/) — `2021-01-18-how-to-find-motivation.md` — 2383w
+- 2021-01-18 — [Ashley Stahl: Former National Security Expert Helps Us Get Unstuck](https://www.nirandfar.com/ashley-stahl-career-insights/) — `2021-01-18-ashley-stahl-career-insights.md` — 4348w
+- 2021-01-06 — [David Burkus: The One Thing Remote Leaders Need to Know](https://www.nirandfar.com/remote-leadership-david-burkus/) — `2021-01-06-remote-leadership-david-burkus.md` — 1454w
+- 2020-12-20 — [Hindsight Bias: Why You Make Terrible Life Choices](https://www.nirandfar.com/hindsight-bias/) — `2020-12-20-hindsight-bias.md` — 7146w
+- 2020-12-08 — [How to Turn Off Harmful Stress Like a Switch](https://www.nirandfar.com/handling-stress/) — `2020-12-08-handling-stress.md` — 2538w
+- 2020-11-22 — [Review of The Social Dilemma: No, Social Media Is Not “Hijacking” Your Brain](https://www.nirandfar.com/social-dilemma-review/) — `2020-11-22-social-dilemma-review.md` — 4190w
+- 2020-11-09 — [This is How the Media is Misleading You on “Technology Addiction”](https://www.nirandfar.com/technology-addiction/) — `2020-11-09-technology-addiction.md` — 4748w
+- 2020-10-26 — [Be a Schedule Builder, Not a To-Do List Maker](https://www.nirandfar.com/todo-vs-schedule-builder/) — `2020-10-26-todo-vs-schedule-builder.md` — 6117w
+- 2020-10-08 — [Handling Life Transitions: Interview with Bruce Feiler](https://www.nirandfar.com/life-transitions-bruce-feiler/) — `2020-10-08-life-transitions-bruce-feiler.md` — 1336w
+- 2020-09-26 — [Indistractable Schedule Maker Tool](https://www.nirandfar.com/schedule-maker-tool/) — `2020-09-26-schedule-maker-tool.md` — 3583w
+- 2020-09-21 — [Screen Time for Kids: Give Them What They Need](https://www.nirandfar.com/screen-time-for-kids/) — `2020-09-21-screen-time-for-kids.md` — 4433w
+- 2020-09-01 — [Changing Habits: Interview with Dr. Amy Bucher, a Behavior Change Designer](https://www.nirandfar.com/changing-habits-amy-bucher/) — `2020-09-01-changing-habits-amy-bucher.md` — 2254w
+- 2020-08-04 — [From Friday Forward to Monday Motivation: Q&A with Robert Glazer](https://www.nirandfar.com/monday-motivation-robert-glazer/) — `2020-08-04-monday-motivation-robert-glazer.md` — 2087w
+- 2020-07-16 — [Email Management: How to Hack Back and Cure Inbox Insanity](https://www.nirandfar.com/email-management/) — `2020-07-16-email-management.md` — 2611w
+- 2020-07-13 — [The Surprising Benefits of Unconditional Positive Regard](https://www.nirandfar.com/upr-unexpected-benefits-beyond-therapy/) — `2020-07-13-upr-unexpected-benefits-beyond-therapy.md` — 1938w
+- 2020-06-01 — [How to Raise Distraction-Free Kids](https://www.nirandfar.com/distraction-free-kids/) — `2020-06-01-distraction-free-kids.md` — 5772w
+- 2020-05-26 — [How to Get the Most Out of Your Calendar](https://www.nirandfar.com/your-calendar/) — `2020-05-26-your-calendar.md` — 4201w
+- 2020-05-11 — [Extrinsic Motivation: Why You Make Terrible Life Choices](https://www.nirandfar.com/extrinsic-motivation/) — `2020-05-11-extrinsic-motivation.md` — 2146w
+- 2020-04-27 — [Don’t Follow Your Gut (and What to Do Instead)](https://www.nirandfar.com/follow-your-gut/) — `2020-04-27-follow-your-gut.md` — 5305w
+- 2020-04-13 — [Why You Don’t Have to Be a Rocket Scientist to Think Like One](https://www.nirandfar.com/rocket-scientist/) — `2020-04-13-rocket-scientist.md` — 4871w
+- 2020-04-01 — [Why We Should All Be Wearing (and Making) Face Masks Right Now](https://www.nirandfar.com/face-masks/) — `2020-04-01-face-masks.md` — 4418w
+- 2020-03-23 — [[Survival Tips] Homeschooling During Coronavirus Closings](https://www.nirandfar.com/coronavirus-homeschooling/) — `2020-03-23-coronavirus-homeschooling.md` — 3632w
+- 2020-03-11 — [Why You’re Not Good at Changing Minds (and What You Can Do About It)](https://www.nirandfar.com/changing-minds/) — `2020-03-11-changing-minds.md` — 1137w
+- 2020-02-24 — [This is How to be Less Distracted By Having Fun in Tedious Tasks](https://www.nirandfar.com/tedious-tasks/) — `2020-02-24-tedious-tasks.md` — 1451w
+- 2020-02-10 — [“Addicted” to Technology? Why You Need To Turn The Tables And Hack Back!](https://www.nirandfar.com/addicted-to-technology/) — `2020-02-10-addicted-to-technology.md` — 1407w
+- 2020-01-27 — [What You Need to Know When Visualizing Your Goals](https://www.nirandfar.com/visualizing/) — `2020-01-27-visualizing.md` — 1474w
+- 2020-01-13 — [This is What Most People Get Wrong About Willpower](https://www.nirandfar.com/about-willpower/) — `2020-01-13-about-willpower.md` — 1091w
+- 2019-12-30 — [Is Tech Ruining Kids? How to Safely Manage Screen Time](https://www.nirandfar.com/manage-screen-time/) — `2019-12-30-manage-screen-time.md` — 1477w
+- 2019-12-23 — [5 Ways to Distraction-Train Your Mind](https://www.nirandfar.com/distraction-train/) — `2019-12-23-distraction-train.md` — 1019w
+- 2019-12-17 — [Here Is How to Practice Stillness and Increase Focus](https://www.nirandfar.com/stillness/) — `2019-12-17-stillness.md` — 1286w
+- 2019-12-03 — [This is How to Repair a Toxic Work Culture](https://www.nirandfar.com/toxic-work-culture/) — `2019-12-03-toxic-work-culture.md` — 1470w
+- 2019-11-19 — [How to (Finally) Put an End to Pointless Arguments](https://www.nirandfar.com/pointless-arguments/) — `2019-11-19-pointless-arguments.md` — 2131w
+- 2019-10-30 — [Progressive Extremism: How To Be A Better You](https://www.nirandfar.com/be-a-better-you/) — `2019-10-30-be-a-better-you.md` — 1263w
+- 2019-10-16 — [The Most Important Skill of the Future is Being ‘Indistractable’](https://www.nirandfar.com/skill-of-the-future/) — `2019-10-16-skill-of-the-future.md` — 5957w
+- 2019-09-30 — [How To Disarm Internal Triggers and Improve Focus](https://www.nirandfar.com/internal-triggers/) — `2019-09-30-internal-triggers.md` — 1030w
+- 2019-09-16 — [This Is The Most Important Skill Parents Should Teach Their Kids](https://www.nirandfar.com/most-important-skill/) — `2019-09-16-most-important-skill.md` — 1216w
+- 2019-09-02 — [How to Master Hard Skills Quickly with “Ultralearning”](https://www.nirandfar.com/master-hard-skills/) — `2019-09-02-master-hard-skills.md` — 610w
+- 2019-08-02 — [The Addictive Products Myth: Who Is the Culprit Here?](https://www.nirandfar.com/addiction/) — `2019-08-02-addiction.md` — 5836w
+- 2019-07-17 — [1 Thing You Need To Know To Save You From Your Email Inbox](https://www.nirandfar.com/email-inbox-office-hours/) — `2019-07-17-email-inbox-office-hours.md` — 1275w
+- 2019-07-08 — [If Tech Is So Distracting, How Do Slack Employees Stay So Focused?](https://www.nirandfar.com/slack-use/) — `2019-07-08-slack-use.md` — 1386w
+- 2019-07-01 — [Stop Confusing Habits for Routines: What You Need To Know](https://www.nirandfar.com/habits/) — `2019-07-01-habits.md` — 2579w
+- 2019-06-25 — [Learn How To Avoid Distraction In A World That Is Full Of It](https://www.nirandfar.com/distractions/) — `2019-06-25-distractions.md` — 3493w
+- 2019-05-20 — [[Focus Guide] How To Make The Most Out Of Your Time And Your Life](https://www.nirandfar.com/focus/) — `2019-05-20-focus.md` — 380w
+- 2019-02-20 — [The One Fitness App That Hooked Me For Good](https://www.nirandfar.com/fitness-app-hooked-me-for-good/) — `2019-02-20-fitness-app-hooked-me-for-good.md` — 1300w
+- 2018-11-08 — [The Truth About Kids and Technology: Jean Twenge (iGen) and Nir Eyal (Hooked) Discuss Tech’s Effect on Children’s Mental Health](https://www.nirandfar.com/kids-and-technology-truth/) — `2018-11-08-kids-and-technology-truth.md` — 294w
+- 2018-09-04 — [Fundamental Attribution Error: Why You Make Lousy Life Choices](https://www.nirandfar.com/fundamental-attribution-error/) — `2018-09-04-fundamental-attribution-error.md` — 1407w
+- 2018-07-31 — [Kids’ Video Game Obsession Isn’t Really About Video Games. It’s About Unmet Psychological Needs.](https://www.nirandfar.com/kids-video-game-obsession/) — `2018-07-31-kids-video-game-obsession.md` — 4727w
+- 2018-07-23 — [Here’s How Fortnite ‘Hooked’ Millions](https://www.nirandfar.com/fortnite-hooked-millions/) — `2018-07-23-fortnite-hooked-millions.md` — 4574w
+- 2018-06-04 — [The Real Reason Apple and Google Want You to Use Your Phone Less](https://www.nirandfar.com/google-apple-less-phone-use/) — `2018-06-04-google-apple-less-phone-use.md` — 756w
+- 2018-05-21 — [How Bad is Tech Use for Kids, Really?](https://www.nirandfar.com/social-media-depression-potatoes/) — `2018-05-21-social-media-depression-potatoes.md` — 3041w
+- 2018-05-01 — [How Apps Can Shape Your Future Self](https://www.nirandfar.com/apps-shaping-future-self/) — `2018-05-01-apps-shaping-future-self.md` — 5516w
+- 2018-04-22 — [How to Be Indistractable: Video by Nir Eyal](https://www.nirandfar.com/indistractable-video/) — `2018-04-22-indistractable-video.md` — 403w
+- 2018-04-17 — [Peak-End Rule: Why You Make Terrible Life Choices](https://www.nirandfar.com/peak-end-rule/) — `2018-04-17-peak-end-rule.md` — 1376w
+- 2018-04-04 — [How Netflix’s Customer Obsession Created a Customer Obsession](https://www.nirandfar.com/customer-obsession/) — `2018-04-04-customer-obsession.md` — 6713w
+- 2018-02-19 — [Distinction Bias: Why You Make Terrible Life Choices](https://www.nirandfar.com/distinction-bias/) — `2018-02-19-distinction-bias.md` — 1306w
+- 2018-01-05 — [Want to Design User Behavior? Pass the ‘Regret Test’ First](https://www.nirandfar.com/regret-test/) — `2018-01-05-regret-test.md` — 4432w
+- 2017-10-11 — [Confirmation Bias: Why You Make Terrible Life Choices](https://www.nirandfar.com/confirmation-bias-terrible-life-choices/) — `2017-10-11-confirmation-bias-terrible-life-choices.md` — 1359w
+- 2017-10-04 — [How to Regain Focus at Work by Slaying the Messaging Monster](https://www.nirandfar.com/regain-focus-by-slaying-messaging-monster/) — `2017-10-04-regain-focus-by-slaying-messaging-monster.md` — 3871w
+- 2017-09-11 — [How to Trigger Product Usage that Sticks](https://www.nirandfar.com/how-to-trigger-product-usage-that-sticks/) — `2017-09-11-how-to-trigger-product-usage-that-sticks.md` — 4952w
+- 2017-08-15 — [Avoiding Bystander Effect: Getting People to Help Each Other](https://www.nirandfar.com/bystander-effect-get-people-to-help-each-other/) — `2017-08-15-bystander-effect-get-people-to-help-each-other.md` — 4888w
+- 2017-08-09 — [Hyperbolic Discounting: Why You Make Terrible Life Choices](https://www.nirandfar.com/hyperbolic-discounting-why-you-make-terrible-life-choices/) — `2017-08-09-hyperbolic-discounting-why-you-make-terrible-life-choices.md` — 943w
+- 2017-06-14 — [Here’s How Amazon’s Alexa Hooks You](https://www.nirandfar.com/how-amazons-alexa-hooks-you/) — `2017-06-14-how-amazons-alexa-hooks-you.md` — 5121w
+- 2017-06-08 — [Technology Is Not Hijacking Your Brain (video)](https://www.nirandfar.com/technology-addiction-video/) — `2017-06-08-technology-addiction-video.md` — 445w
+- 2017-06-01 — [When Distraction is a Good Thing](https://www.nirandfar.com/when-distraction-is-a-good-thing/) — `2017-06-01-when-distraction-is-a-good-thing.md` — 2206w
+- 2017-05-09 — [How to Use Psychology to Make Persuasive Video](https://www.nirandfar.com/the-psychology-of-persuasive-video/) — `2017-05-09-the-psychology-of-persuasive-video.md` — 5840w
+- 2017-05-03 — [Tech Companies are Addicting People! But Should They Stop?](https://www.nirandfar.com/tech-companies-addicting-people-stop/) — `2017-05-03-tech-companies-addicting-people-stop.md` — 6073w
+- 2017-04-26 — [How to Use Personality Science to Drive Online Conversions](https://www.nirandfar.com/how-to-use-personality-science-to-drive-online-conversions/) — `2017-04-26-how-to-use-personality-science-to-drive-online-conversions.md` — 5740w
+- 2017-04-19 — [Technology Is Distracting. Here’s How to Fix It. (Video)](https://www.nirandfar.com/deal-persuasive-technology-video/) — `2017-04-19-deal-persuasive-technology-video.md` — 474w
+- 2017-04-10 — [The Strange Way Being “Good” Hurts Your Willpower](https://www.nirandfar.com/the-strange-way-good-habits-hurt-your-willpower/) — `2017-04-10-the-strange-way-good-habits-hurt-your-willpower.md` — 1668w
+- 2017-03-30 — [Research Reveals How to Take a Better Break](https://www.nirandfar.com/how-to-spend-your-breaks-wisely-and-have-a-better-workday/) — `2017-03-30-how-to-spend-your-breaks-wisely-and-have-a-better-workday.md` — 1722w
+- 2017-03-20 — [The Unbelievable Future of Habit-Forming Technology](https://www.nirandfar.com/the-unbelievable-future-of-habit-forming-technology/) — `2017-03-20-the-unbelievable-future-of-habit-forming-technology.md` — 4983w
+- 2017-03-16 — [Why Our Tech Obsession Might Be a Work Obsession](https://www.nirandfar.com/why-our-tech-obsession-might-be-a-work-obsession/) — `2017-03-16-why-our-tech-obsession-might-be-a-work-obsession.md` — 3164w
+- 2017-03-06 — [The Secret Marketing Power of Evolutionary Psychology](https://www.nirandfar.com/the-secret-marketing-power-of-evolutionary-psychology/) — `2017-03-06-the-secret-marketing-power-of-evolutionary-psychology.md` — 4463w
+- 2017-02-27 — [Your Ability to Focus Has Probably Peaked: Here’s How to Stay Sharp](https://www.nirandfar.com/your-ability-to-focus-has-probably-peaked-heres-how-to-stay-sharp/) — `2017-02-27-your-ability-to-focus-has-probably-peaked-heres-how-to-stay-sharp.md` — 1654w
+- 2017-02-22 — [Don’t Ask People What They Want, Watch What They Do](https://www.nirandfar.com/dont-ask-people-what-they-want-observe-how-they-act/) — `2017-02-22-dont-ask-people-what-they-want-observe-how-they-act.md` — 4570w
+- 2017-02-06 — [How to Achieve Your Goals By Creating an Enemy](https://www.nirandfar.com/goals-enemy/) — `2017-02-06-goals-enemy.md` — 1385w
+- 2017-02-02 — [How Cognitive Biases Can Help (and Hurt) Your Business](https://www.nirandfar.com/cognitive-biases/) — `2017-02-02-cognitive-biases.md` — 4446w
+- 2017-01-24 — [What Most People Don’t Know About Behavioral Design](https://www.nirandfar.com/what-most-people-overlook-in-behavioral-design/) — `2017-01-24-what-most-people-overlook-in-behavioral-design.md` — 4276w
+- 2016-12-21 — [How to Start a Career in Behavioral Design](https://www.nirandfar.com/behavioral-design/) — `2016-12-21-behavioral-design.md` — 6646w
+- 2016-12-06 — [How to Stay Informed Without Losing Your Mind](https://www.nirandfar.com/how-to-stay-informed-without-losing-your-mind/) — `2016-12-06-how-to-stay-informed-without-losing-your-mind.md` — 4669w
+- 2016-11-29 — [What Do You Do When Someone “Steals” Your Amazing Idea?](https://www.nirandfar.com/think-you-have-a-good-idea-someone-else-has-it-too/) — `2016-11-29-think-you-have-a-good-idea-someone-else-has-it-too.md` — 1210w
+- 2016-11-21 — [The Way You Think About Willpower Is Hurting You](https://www.nirandfar.com/the-way-you-think-about-willpower-is-hurting-you/) — `2016-11-21-the-way-you-think-about-willpower-is-hurting-you.md` — 2227w
+- 2016-10-27 — [Your World is Full of Placebo Buttons (and That’s a Good Thing)](https://www.nirandfar.com/your-world-is-full-of-placebo-buttons-and-thats-a-good-thing/) — `2016-10-27-your-world-is-full-of-placebo-buttons-and-thats-a-good-thing.md` — 4540w
+- 2016-10-18 — [How to Build Technology that Feels Like a Friend](https://www.nirandfar.com/ai-bot-technology-that-feels-like-a-friend/) — `2016-10-18-ai-bot-technology-that-feels-like-a-friend.md` — 5612w
+- 2016-10-17 — [This Weird Research-Backed Goal Setting Hack Actually Works](https://www.nirandfar.com/goal-setting-hack/) — `2016-10-17-goal-setting-hack.md` — 1502w
+- 2016-10-05 — [3 Pillars of the Most Successful Tech Products](https://www.nirandfar.com/successful-tech-products/) — `2016-10-05-successful-tech-products.md` — 4867w
+- 2016-09-29 — [Here’s How to Ethically Manipulate Other People](https://www.nirandfar.com/morality-of-manipulation/) — `2016-09-29-morality-of-manipulation.md` — 3510w
+- 2016-09-14 — [How Two Companies Hooked Customers On Products They Rarely Use](https://www.nirandfar.com/hooked-customers/) — `2016-09-14-hooked-customers.md` — 5389w
+- 2016-09-07 — [Don’t Let Friendships Starve to Death: Use This Happiness Hack to Keep People Close](https://www.nirandfar.com/happiness-hack/) — `2016-09-07-happiness-hack.md` — 130w
+- 2016-08-31 — [Conquer Distractions With This Simple Chart](https://www.nirandfar.com/tech-distractions-addictions/) — `2016-08-31-tech-distractions-addictions.md` — 1962w
+- 2016-08-23 — [Should We Worry About the World Becoming More Addictive? Q&A with Nir Eyal](https://www.nirandfar.com/addictive-world/) — `2016-08-23-addictive-world.md` — 3208w
+- 2016-08-15 — [How to Hook Users in 3 Steps: An Intro to Habit Testing](https://www.nirandfar.com/habit-testing/) — `2016-08-15-habit-testing.md` — 3602w
+- 2016-08-02 — [The Four People Addicting You to Technology](https://www.nirandfar.com/4-people-addicting-you/) — `2016-08-02-4-people-addicting-you.md` — 536w
+- 2016-08-01 — [Die Dashboards, Die! Why Conversations Will Reinvent Software](https://www.nirandfar.com/die-dashboards-die-why-conversations-will-reinvent-software-heres-what-your-boring-dashboard-would-look-like-as-a-conversational-interface/) — `2016-08-01-die-dashboards-die-why-conversations-will-reinvent-software-heres-what-your-bori.md` — 4995w
+- 2016-07-28 — [“Think Different” is Bad Advice](https://www.nirandfar.com/think-different-is-bad-advice/) — `2016-07-28-think-different-is-bad-advice.md` — 1819w
+- 2016-07-20 — [The Secret to Sending Emails and Notifications That Work](https://www.nirandfar.com/secret-sending-emails-notifications-work/) — `2016-07-20-secret-sending-emails-notifications-work.md` — 3498w
+- 2016-07-13 — [Three Steps To Get Up To Speed On Any Subject Quickly](https://www.nirandfar.com/three-steps-get-speed-subject-quickly/) — `2016-07-13-three-steps-get-speed-subject-quickly.md` — 1825w
+- 2016-07-06 — [It’s How You React to Failure that Matters: Why Ego is the Enemy](https://www.nirandfar.com/react-failure-matters-ego-enemy/) — `2016-07-06-react-failure-matters-ego-enemy.md` — 2180w
+- 2016-05-13 — [How to Win Your Competition’s Customers](https://www.nirandfar.com/win-competitions-customers/) — `2016-05-13-win-competitions-customers.md` — 3573w
+- 2016-03-28 — [Hooked for Good: How Habit-Forming Products Improve Lives](https://www.nirandfar.com/hooked-good-habit-forming-products-improve-lives/) — `2016-03-28-hooked-good-habit-forming-products-improve-lives.md` — 3534w
+- 2016-03-17 — [Good Products Start With Good Questions](https://www.nirandfar.com/good-products-start-good-questions/) — `2016-03-17-good-products-start-good-questions.md` — 4401w
+- 2016-03-05 — [Why People Check Their Tech at the Wrong Times (and the Simple Trick to Stop It)](https://www.nirandfar.com/why-people-check-their-phones-at-the-wrong-times/) — `2016-03-05-why-people-check-their-phones-at-the-wrong-times.md` — 4697w
+- 2016-02-16 — [Happiness Hack: This One Ritual Made Me Much Happier](https://www.nirandfar.com/happiness-hack-one-ritual-made-much-happier/) — `2016-02-16-happiness-hack-one-ritual-made-much-happier.md` — 1777w
+- 2016-02-02 — [Who’s Really Addicting You to Technology?](https://www.nirandfar.com/4-people-addicting-technology/) — `2016-02-02-4-people-addicting-technology.md` — 1934w
+- 2016-01-28 — [How to Clear Your Computer of Focus-Draining Distraction](https://www.nirandfar.com/laptop-zen-creating-distraction-free-desktop/) — `2016-01-28-laptop-zen-creating-distraction-free-desktop.md` — 1335w
+- 2015-07-23 — [Human + A.I. = Your Digital Future](https://www.nirandfar.com/the-message-is-the-medium-3-reasons-apps-as-assistants-work/) — `2015-07-23-the-message-is-the-medium-3-reasons-apps-as-assistants-work.md` — 5519w
+- 2015-07-08 — [Why ‘Assistant-As-App’ Might Be the Next Big Tech Trend](https://www.nirandfar.com/why-assistant-as-an-app-might-be-the-next-big-tech-trend/) — `2015-07-08-why-assistant-as-an-app-might-be-the-next-big-tech-trend.md` — 4892w
+- 2015-06-17 — [People Don’t Want Something Truly New, They Want the Familiar Done Differently.](https://www.nirandfar.com/california-role-rule/) — `2015-06-17-california-role-rule.md` — 4541w
+- 2015-06-11 — [Un-Hooked: Increasing Focus in the Age of Distraction](https://www.nirandfar.com/un-hooked-increasing-focus-in-the-age-of-distraction-video/) — `2015-06-11-un-hooked-increasing-focus-in-the-age-of-distraction-video.md` — 403w
+- 2015-06-03 — [Would You Take A Bet That Would Change Your Life? Probably Not. Here’s Why](https://www.nirandfar.com/habits-bet/) — `2015-06-03-habits-bet.md` — 997w
+- 2015-05-26 — [The Behavioral Economics Diet: The Science of Killing a Bad Habit](https://www.nirandfar.com/behavioral-economics-diet-the-science-of-killing-a-bad-habit/) — `2015-05-26-behavioral-economics-diet-the-science-of-killing-a-bad-habit.md` — 1609w
+- 2015-05-20 — [The Mind-Hack I Used to Help My Father Lose Weight](https://www.nirandfar.com/father-lose-weight/) — `2015-05-20-father-lose-weight.md` — 1077w
+- 2015-05-11 — [4 Ways to Win Your Competitor’s Customer Habits (Slides)](https://www.nirandfar.com/win-your-competitors-habits/) — `2015-05-11-win-your-competitors-habits.md` — 3556w
+- 2015-05-01 — [4 Cures for Feeling Overwhelmed: A Book Review](https://www.nirandfar.com/overwhelmed-a-book-review/) — `2015-05-01-overwhelmed-a-book-review.md` — 1789w
+- 2015-04-22 — [Here’s Why You’ll Hate the Apple Watch (and the Important Business Lesson You Need to Know)](https://www.nirandfar.com/apple-watch-kano-model/) — `2015-04-22-apple-watch-kano-model.md` — 4871w
+- 2015-04-15 — [The Secret Psychology of Snapchat](https://www.nirandfar.com/psychology-of-snapchat/) — `2015-04-15-psychology-of-snapchat.md` — 3560w
+- 2015-04-02 — [Can’t Kick a Bad Habit? You’re Probably Doing It Wrong](https://www.nirandfar.com/bad-habits/) — `2015-04-02-bad-habits.md` — 1994w
+- 2015-03-25 — [Everything Is Obvious (Once You Know The Answer) Book Review](https://www.nirandfar.com/obvious/) — `2015-03-25-obvious.md` — 1907w
+- 2015-03-16 — [Your Fitness App is Making You Fat, Here’s Why](https://www.nirandfar.com/fitness-apps-is-making-you-fat/) — `2015-03-16-fitness-apps-is-making-you-fat.md` — 1730w
+- 2015-03-03 — [The Psychology of Notifications: How to Send Triggers that Work](https://www.nirandfar.com/notifications-that-work/) — `2015-03-03-notifications-that-work.md` — 4355w
+- 2015-02-23 — [How Technology Tricks You Into Tipping More](https://www.nirandfar.com/tipping/) — `2015-02-23-tipping.md` — 4536w
+- 2015-02-12 — [Building Community Starts with Understanding People](https://www.nirandfar.com/building-community-starts-with-understanding-people/) — `2015-02-12-building-community-starts-with-understanding-people.md` — 391w
+- 2015-02-05 — [When Persuasion Becomes Deception](https://www.nirandfar.com/when-persuasion-becomes-deception/) — `2015-02-05-when-persuasion-becomes-deception.md` — 1059w
+- 2015-02-03 — [Latest Tech Trends: Products to Eliminate Distractions and Increase Willpower](https://www.nirandfar.com/distraction-tech/) — `2015-02-03-distraction-tech.md` — 1733w
+- 2015-01-28 — [Mastering Pricing Principles](https://www.nirandfar.com/mastering-pricing-principles/) — `2015-01-28-mastering-pricing-principles.md` — 676w
+- 2015-01-28 — [3 Ways to Make Better Decisions Using “The Power of Noticing”](https://www.nirandfar.com/powerofnoticing/) — `2015-01-28-powerofnoticing.md` — 1582w
+- 2015-01-22 — [A Handy Behavioral Design Toolkit](https://www.nirandfar.com/behavioral-design-toolkit/) — `2015-01-22-behavioral-design-toolkit.md` — 4386w
+- 2015-01-14 — [Onboarding Matters – Getting Users Engaged in your Product](https://www.nirandfar.com/onboarding-matters-getting-users-engaged-in-your-product/) — `2015-01-14-onboarding-matters-getting-users-engaged-in-your-product.md` — 620w
+- 2015-01-12 — [The Limits of Loyalty: When Habits Change, You’re Toast](https://www.nirandfar.com/loyaltylimits/) — `2015-01-12-loyaltylimits.md` — 4787w
+- 2015-01-07 — [Dual Process Theory: Is Your Product the Elephant or the Rider?](https://www.nirandfar.com/does-your-product-rely-on-intuition-or-deliberation/) — `2015-01-07-does-your-product-rely-on-intuition-or-deliberation.md` — 544w
+- 2015-01-07 — [4 Ways to Use Psychology to Win Your Competition’s Customers](https://www.nirandfar.com/competitions-customers/) — `2015-01-07-competitions-customers.md` — 4702w
+- 2014-12-24 — [Web Psychology – The Science of Online Persuasion](https://www.nirandfar.com/web-psychology-the-science-of-online-persuasion/) — `2014-12-24-web-psychology-the-science-of-online-persuasion.md` — 589w
+- 2014-12-22 — [Email Habits: How to Use Psychology to Regain Control](https://www.nirandfar.com/emailhabits/) — `2014-12-22-emailhabits.md` — 1710w
+- 2014-12-17 — [Developing User Empathy with Design Sprints](https://www.nirandfar.com/developing-user-empathy-with-design-sprints/) — `2014-12-17-developing-user-empathy-with-design-sprints.md` — 513w
+- 2014-12-11 — [The Real Reason “Stupid” Startups Raise So Much Money](https://www.nirandfar.com/stupid-startups/) — `2014-12-11-stupid-startups.md` — 4250w
+- 2014-12-10 — [Want To Be A Game Psychologist? What You Need to Know](https://www.nirandfar.com/understanding-the-psychology-behind-game-design/) — `2014-12-10-understanding-the-psychology-behind-game-design.md` — 676w
+- 2014-12-04 — [The Psychology Behind Why We Can’t Stop Messaging](https://www.nirandfar.com/the-psychology-behind-why-we-cant-stop-messaging/) — `2014-12-04-the-psychology-behind-why-we-cant-stop-messaging.md` — 4379w
+- 2014-12-03 — [How to Do Effective User Research](https://www.nirandfar.com/how-to-do-effective-user-research/) — `2014-12-03-how-to-do-effective-user-research.md` — 341w
+- 2014-11-26 — [Context Driven Design (The “Context Effect”)](https://www.nirandfar.com/context-driven-design/) — `2014-11-26-context-driven-design.md` — 742w
+- 2014-11-25 — [The Psychology of a Billion-Dollar Enterprise App: Why is Slack so Habit-Forming?](https://www.nirandfar.com/habit-forming/) — `2014-11-25-habit-forming.md` — 4565w
+- 2014-11-19 — [Writing Copy for Your Reader’s Brain](https://www.nirandfar.com/writing-copy-for-your-readers-brain/) — `2014-11-19-writing-copy-for-your-readers-brain.md` — 722w
+- 2014-11-17 — [Mind Hacking a Book](https://www.nirandfar.com/mind-hacking-a-book-deal/) — `2014-11-17-mind-hacking-a-book-deal.md` — 1315w
+- 2014-11-12 — [Designing Habit-Forming Products](https://www.nirandfar.com/designing-habit-forming-products/) — `2014-11-12-designing-habit-forming-products.md` — 584w
+- 2014-11-10 — [Framing Reward is as Important as Reward Itself](https://www.nirandfar.com/framing/) — `2014-11-10-framing.md` — 4416w
+- 2014-11-05 — [Games, Play, and Motivation](https://www.nirandfar.com/games-play-and-motivation/) — `2014-11-05-games-play-and-motivation.md` — 814w
+- 2014-10-29 — [How Scarcity & Impatience Drive Irrational User Behavior](https://www.nirandfar.com/how-scarcity-impatience-drive-irrational-user-behavior/) — `2014-10-29-how-scarcity-impatience-drive-irrational-user-behavior.md` — 543w
+- 2014-10-24 — [Habits, Obstacles, and Media Manipulation with Ryan Holiday](https://www.nirandfar.com/ryan-holiday/) — `2014-10-24-ryan-holiday.md` — 417w
+- 2014-10-22 — [Should You Listen To Your Users or Your Data?](https://www.nirandfar.com/should-you-listen-to-your-users-or-your-data/) — `2014-10-22-should-you-listen-to-your-users-or-your-data.md` — 725w
+- 2014-10-15 — [Emotional Engagement – Designing with the Heart in Mind](https://www.nirandfar.com/emotional-engagement-designing-with-the-heart-in-mind/) — `2014-10-15-emotional-engagement-designing-with-the-heart-in-mind.md` — 591w
+- 2014-10-14 — [A Free Course on User Behavior](https://www.nirandfar.com/a-free-course-on-user-behavior/) — `2014-10-14-a-free-course-on-user-behavior.md` — 3761w
+- 2014-09-18 — [This Simple Equation Reveals How Habits Shape Your Health, Happiness, and Wealth](https://www.nirandfar.com/this-simple-equation-reveals-how-habits-shape-your-health-happiness-and-wealth/) — `2014-09-18-this-simple-equation-reveals-how-habits-shape-your-health-happiness-and-wealth.md` — 1466w
+- 2014-09-08 — [It’s Not All Fun And Games: The Pros and Cons of Gamification at Work](https://www.nirandfar.com/its-not-all-fun/) — `2014-09-08-its-not-all-fun.md` — 4529w
+- 2014-09-04 — [Product Psychology: The 3 Things Everyone Should Know About](https://www.nirandfar.com/things-everyone-should-know-about-product-psychology/) — `2014-09-04-things-everyone-should-know-about-product-psychology.md` — 571w
+- 2014-08-28 — [Getting Traction: How to Hook New Users](https://www.nirandfar.com/traction/) — `2014-08-28-traction.md` — 4748w
+- 2014-08-23 — [Designing for Behavior Change Book Review](https://www.nirandfar.com/designing-for-behavior-change-book-review/) — `2014-08-23-designing-for-behavior-change-book-review.md` — 5058w
+- 2014-08-11 — [The Sneaky Trick Behind the Explosive Growth of the Kardashian Game](https://www.nirandfar.com/the-sneaky-trick-behind-the-explosive-growth-of-the-kardashian-game/) — `2014-08-11-the-sneaky-trick-behind-the-explosive-growth-of-the-kardashian-game.md` — 1242w
+- 2014-08-04 — [The Sweet Spot: Where Technology Meets the Motivational Brain](https://www.nirandfar.com/the-sweet-spot-where-technology-meets-the-motivational-brain/) — `2014-08-04-the-sweet-spot-where-technology-meets-the-motivational-brain.md` — 1710w
+- 2014-07-31 — [The Number One Reason Good Habits Don’t Last](https://www.nirandfar.com/the-number-one-reason-good-habits-dont-last/) — `2014-07-31-the-number-one-reason-good-habits-dont-last.md` — 1825w
+- 2014-07-22 — [How Successful Companies Design for Users’ Multi-Device Lives](https://www.nirandfar.com/how-successful-companies-design-for-users-multi-device-lives/) — `2014-07-22-how-successful-companies-design-for-users-multi-device-lives.md` — 4656w
+- 2014-07-18 — [The Link Between Habits and User Satisfaction](https://www.nirandfar.com/frequent-habits-and-customer-satisfaction/) — `2014-07-18-frequent-habits-and-customer-satisfaction.md` — 4482w
+- 2014-06-17 — [What Triggers The Best Word of Mouth Marketing?](https://www.nirandfar.com/triggerhump/) — `2014-06-17-triggerhump.md` — 4345w
+- 2014-06-02 — [Is Some Tech Too Engaging?](https://www.nirandfar.com/tooaddictive/) — `2014-06-02-tooaddictive.md` — 1828w
+- 2014-05-15 — [Can Online Apps Change Real-Life Behavior?](https://www.nirandfar.com/can-online-apps-change-real-life-behavior/) — `2014-05-15-can-online-apps-change-real-life-behavior.md` — 1936w
+- 2014-04-20 — [What Tech Companies Can Learn from Rehab](https://www.nirandfar.com/rehab/) — `2014-04-20-rehab.md` — 4467w
+- 2014-04-01 — [Auction Addiction: This Online Industry’s Dirty Secrets](https://www.nirandfar.com/online-auctions/) — `2014-04-01-online-auctions.md` — 5087w
+- 2014-03-27 — [Teach or Hook? What’s the Real Goal of Online Education?](https://www.nirandfar.com/teach-or-hook-whats-the-real-goal-of-online-education/) — `2014-03-27-teach-or-hook-whats-the-real-goal-of-online-education.md` — 4823w
+- 2014-03-17 — [Using Mind Control to Raise Startup Cash](https://www.nirandfar.com/raisemoney/) — `2014-03-17-raisemoney.md` — 4627w
+- 2014-03-12 — [How To Build Habits In A Multi-Device World](https://www.nirandfar.com/multi-device/) — `2014-03-12-multi-device.md` — 5020w
+- 2014-02-24 — [How To Cope with Your Insane Jealousy Of The WhatsApp Deal](https://www.nirandfar.com/how-to-cope-with-your-insane-jealousy-of-the-whatsapp-deal/) — `2014-02-24-how-to-cope-with-your-insane-jealousy-of-the-whatsapp-deal.md` — 4376w
+- 2014-02-18 — [Why Do Fads Fade? The Inevitable Death Of Flappy Bird](https://www.nirandfar.com/why-do-fads-fade/) — `2014-02-18-why-do-fads-fade.md` — 5065w
+- 2014-02-10 — [You’d Be Surprised By What Really Motivates Users](https://www.nirandfar.com/youd-be-surprised/) — `2014-02-10-youd-be-surprised.md` — 4841w
+- 2014-01-27 — [Nostalgia: A Product Designer’s Secret Weapon](https://www.nirandfar.com/nostalgia-a-product-designers-secret-weapon/) — `2014-01-27-nostalgia-a-product-designers-secret-weapon.md` — 4627w
+- 2014-01-20 — [How You Can Help Users Change Habits](https://www.nirandfar.com/how-you-can-help-users-change-habits/) — `2014-01-20-how-you-can-help-users-change-habits.md` — 5165w
+- 2014-01-11 — [Is “Lean Startup” Right for Your Idea?](https://www.nirandfar.com/right-for-your-idea/) — `2014-01-11-right-for-your-idea.md` — 4807w
+- 2013-12-19 — [Hunting for Habits: Keying in on smart design to make a product irresistible](https://www.nirandfar.com/hunting-for-habits-keying-in-on-smart-design-to-make-a-product-irresistible/) — `2013-12-19-hunting-for-habits-keying-in-on-smart-design-to-make-a-product-irresistible.md` — 5543w
+- 2013-12-15 — [Are Companies Too Obsessed With Growth? How to Measure Habits](https://www.nirandfar.com/are-you-focusing-too-much-on-growth-how-to-measure-habits/) — `2013-12-15-are-you-focusing-too-much-on-growth-how-to-measure-habits.md` — 4380w
+- 2013-11-12 — [Refresh: The App a Secret Agent Would Love](https://www.nirandfar.com/the-new-app-a-secret-agent-would-love/) — `2013-11-12-the-new-app-a-secret-agent-would-love.md` — 4643w
+- 2013-11-01 — [Angel or Devil: Who’s Really Investing In Your Start-Up?](https://www.nirandfar.com/angel-or-devil-whos-really-investing-in-your-start-up/) — `2013-11-01-angel-or-devil-whos-really-investing-in-your-start-up.md` — 4919w
+- 2013-10-25 — [3 Ways I Use Technology to Find Happiness](https://www.nirandfar.com/5-ways-to-use-your-tech-habits-for-good/) — `2013-10-25-5-ways-to-use-your-tech-habits-for-good.md` — 1363w
+- 2013-10-09 — [In 10 Years, We Won’t Use Personal Technology](https://www.nirandfar.com/in-10-years-we-wont-use-personal-technology/) — `2013-10-09-in-10-years-we-wont-use-personal-technology.md` — 5341w
+- 2013-10-02 — [How to Break 5 Soul-Sucking Technology Habits](https://www.nirandfar.com/how-to-break-5-soul-sucking-technology-habits/) — `2013-10-02-how-to-break-5-soul-sucking-technology-habits.md` — 2818w
+- 2013-09-25 — [4 Simple Things I Did to Control My Bad Tech Habits](https://www.nirandfar.com/4-simple-things-i-did-to-control-my-bad-tech-habits/) — `2013-09-25-4-simple-things-i-did-to-control-my-bad-tech-habits.md` — 1940w
+- 2013-09-18 — [The Real Reason You’re Addicted to Your Phone](https://www.nirandfar.com/the-real-reason-youre-hooked-to-your-phone/) — `2013-09-18-the-real-reason-youre-hooked-to-your-phone.md` — 1637w
+- 2013-09-10 — [“Yes, And”: The Two Words that Created a #1 App](https://www.nirandfar.com/the-two-words-that-created-a-1-app/) — `2013-09-10-the-two-words-that-created-a-1-app.md` — 4463w
+- 2013-09-03 — [The Power of No](https://www.nirandfar.com/the-power-of-no/) — `2013-09-03-the-power-of-no.md` — 970w
+- 2013-08-28 — [From Laid to Paid: How Tinder Set Fire to Online Dating](https://www.nirandfar.com/from-laid-to-paid-how-tinder-set-fire-to-online-dating/) — `2013-08-28-from-laid-to-paid-how-tinder-set-fire-to-online-dating.md` — 4479w
+- 2013-08-22 — [What if In-App Purchases Came to Real Life?](https://www.nirandfar.com/what-if-in-app-purchase-entered-real-life/) — `2013-08-22-what-if-in-app-purchase-entered-real-life.md` — 4530w
+- 2013-08-13 — [To Become a Superstar, Improve Your Strengths (Not Your Faults)](https://www.nirandfar.com/to-become-a-superstar-improve-your-strengths-not-your-faults/) — `2013-08-13-to-become-a-superstar-improve-your-strengths-not-your-faults.md` — 1346w
+- 2013-08-08 — [Hooking Users One Snapchat at a Time](https://www.nirandfar.com/hooking-users-one-snapchat-at-a-time/) — `2013-08-08-hooking-users-one-snapchat-at-a-time.md` — 4578w
+- 2013-07-31 — [How To Save Your Startup From The “Spotlight Effect”](https://www.nirandfar.com/how-to-save-your-startup-from-the-spotlight-effect/) — `2013-07-31-how-to-save-your-startup-from-the-spotlight-effect.md` — 4970w
+- 2013-07-24 — [Bible App: Getting 100M Downloads is Psychology, Not a Miracle](https://www.nirandfar.com/the-app-of-god-getting-100-million-downloads-is-more-psychology-than-miracles/) — `2013-07-24-the-app-of-god-getting-100-million-downloads-is-more-psychology-than-miracles.md` — 6337w
+- 2013-07-15 — [Why Behavior Change Apps Fail to Change Behavior](https://www.nirandfar.com/why-behavior-change-apps-fail-to-change-behavior/) — `2013-07-15-why-behavior-change-apps-fail-to-change-behavior.md` — 2100w
+- 2013-07-09 — [How to Boost Desire Using the Psychology of Scarcity](https://www.nirandfar.com/psychology-of-scarcity/) — `2013-07-09-psychology-of-scarcity.md` — 4939w
+- 2013-06-18 — [Marketplaces & The Curse of the Network Effect](https://www.nirandfar.com/the-curse-of-the-network-effect/) — `2013-06-18-the-curse-of-the-network-effect.md` — 4528w
+- 2013-06-06 — [Today’s Behaviors, Tomorrow’s Startups](https://www.nirandfar.com/todays-behaviors-tomorrows-startups/) — `2013-06-06-todays-behaviors-tomorrows-startups.md` — 4129w
+- 2013-05-29 — [Venture Capital and The Superstitious Investor](https://www.nirandfar.com/the-superstitious-investor/) — `2013-05-29-the-superstitious-investor.md` — 4481w
+- 2013-05-20 — [Think You Like What You Like? Think Again](https://www.nirandfar.com/think-you-like-what-you-like-think-again/) — `2013-05-20-think-you-like-what-you-like-think-again.md` — 872w
+- 2013-05-06 — [The Roots of Temptation](https://www.nirandfar.com/temptation/) — `2013-05-06-temptation.md` — 4479w
+- 2013-04-22 — [Our More Engaging World](https://www.nirandfar.com/our-more-addictive-world/) — `2013-04-22-our-more-addictive-world.md` — 869w
+- 2013-04-15 — [The Future is Driven by Interface Changes](https://www.nirandfar.com/driven-by-interface-changes/) — `2013-04-15-driven-by-interface-changes.md` — 3979w
+- 2013-04-09 — [Why Business Is Obsessed With Habits](https://www.nirandfar.com/why-business-is-addicted-to-habits/) — `2013-04-09-why-business-is-addicted-to-habits.md` — 4125w
+- 2013-04-02 — [Viral Loops Or Viral ‘Oops’?](https://www.nirandfar.com/viral-loops-or-viral-oops/) — `2013-04-02-viral-loops-or-viral-oops.md` — 4522w
+- 2013-03-27 — [Making a Marketplace](https://www.nirandfar.com/making-a-marketplace/) — `2013-03-27-making-a-marketplace.md` — 3654w
+- 2013-03-21 — [Why Positive Thinking is Bad For You](https://www.nirandfar.com/why-positive-thinking-is-bad-for-you/) — `2013-03-21-why-positive-thinking-is-bad-for-you.md` — 153w
+- 2013-03-12 — [What Killed Turntable.fm?](https://www.nirandfar.com/what-killed-turntable-fm/) — `2013-03-12-what-killed-turntable-fm.md` — 4075w
+- 2013-03-06 — [What You Don’t Know About Human Intuition Can Hurt You](https://www.nirandfar.com/what-you-dont-know-about-intuition-can-hurt-you/) — `2013-03-06-what-you-dont-know-about-intuition-can-hurt-you.md` — 4193w
+- 2013-02-12 — [Designing to Reward our Tribal Sides](https://www.nirandfar.com/designing-to-reward-our-tribal-sides/) — `2013-02-12-designing-to-reward-our-tribal-sides.md` — 4872w
+- 2013-02-08 — [New Video – “Hooked: Building Habit-Forming Products”](https://www.nirandfar.com/new-video-hooked-the-psychology-of-how-products-engage-us/) — `2013-02-08-new-video-hooked-the-psychology-of-how-products-engage-us.md` — 3506w
+- 2013-01-22 — [This Will Be the Last Article You Read](https://www.nirandfar.com/this-will-be-the-last-article-you-read/) — `2013-01-22-this-will-be-the-last-article-you-read.md` — 1115w
+- 2013-01-10 — [How Technology is Like Bug Sex](https://www.nirandfar.com/how-technology-is-like-bug-sex/) — `2013-01-10-how-technology-is-like-bug-sex.md` — 4790w
+- 2012-12-09 — [Time for Digital Hat Racks](https://www.nirandfar.com/we-need-a-digital-hat-rack-2/) — `2012-12-09-we-need-a-digital-hat-rack-2.md` — 4992w
+- 2012-12-03 — [Ways To Get People To Do Things They Don’t Want To Do](https://www.nirandfar.com/ways-to-get-people-to-do-things-they-dont-want-to-do/) — `2012-12-03-ways-to-get-people-to-do-things-they-dont-want-to-do.md` — 4938w
+- 2012-11-05 — [The Network Effect Isn’t Good Enough](https://www.nirandfar.com/the-network-effect-isnt-good-enough/) — `2012-11-05-the-network-effect-isnt-good-enough.md` — 4599w
+- 2012-10-08 — [Escape From Message Hell](https://www.nirandfar.com/escape/) — `2012-10-08-escape.md` — 1247w
+- 2012-10-04 — [Mass Persuasion, One User At A Time](https://www.nirandfar.com/mass-persuasion-one-user-at-a-time/) — `2012-10-04-mass-persuasion-one-user-at-a-time.md` — 4759w
+- 2012-09-21 — [How Investment Drives Engagement (Slides)](https://www.nirandfar.com/how-investment-drives-engagement-slides/) — `2012-09-21-how-investment-drives-engagement-slides.md` — 3660w
+- 2012-09-04 — [Getting Your Product Into the Habit Zone](https://www.nirandfar.com/habit-zone/) — `2012-09-04-habit-zone.md` — 4595w
+- 2012-08-27 — [Where Have The Users Gone?](https://www.nirandfar.com/where-have-the-users-gone/) — `2012-08-27-where-have-the-users-gone.md` — 4978w
+- 2012-08-20 — [Infinite Scroll: The Web’s Slot Machine](https://www.nirandfar.com/the-webs-slot-machine/) — `2012-08-20-the-webs-slot-machine.md` — 4318w
+- 2012-08-13 — [Designing User Habits Video](https://www.nirandfar.com/designing-user-habits-video/) — `2012-08-13-designing-user-habits-video.md` — 3557w
+- 2012-08-06 — [Psychology of Sports: How Sports Infect Your Brain](https://www.nirandfar.com/how-sports-infect-your-brain/) — `2012-08-06-how-sports-infect-your-brain.md` — 5156w
+- 2012-07-29 — [This is Your Brain On Boarding: How to Turn Visitors Into Users](https://www.nirandfar.com/thisisyourbrainonboarding/) — `2012-07-29-thisisyourbrainonboarding.md` — 5127w
+- 2012-07-23 — [User Investment: Make Your Users Do the Work](https://www.nirandfar.com/makeyourusersdothework/) — `2012-07-23-makeyourusersdothework.md` — 4796w
+- 2012-07-20 — [Behavior by Design Video](https://www.nirandfar.com/behaviorbydesignvideo/) — `2012-07-20-behaviorbydesignvideo.md` — 3556w
+- 2012-07-16 — [When Designing for Good Is Bad](https://www.nirandfar.com/when-designing-for-good-is-bad/) — `2012-07-16-when-designing-for-good-is-bad.md` — 4393w
+- 2012-07-09 — [Stop Building Apps, Start Building User Behaviors](https://www.nirandfar.com/stop-building-apps-and-start-building-behaviors/) — `2012-07-09-stop-building-apps-and-start-building-behaviors.md` — 4186w
+- 2012-07-03 — [The Morality of Manipulation](https://www.nirandfar.com/the-art-of-manipulation/) — `2012-07-03-the-art-of-manipulation.md` — 1926w
+- 2012-06-25 — [The Next Secrets of the Internet](https://www.nirandfar.com/the-next-secrets-of-the-web/) — `2012-06-25-the-next-secrets-of-the-web.md` — 4497w
+- 2012-06-12 — [(ARCHIVE) The First Thing to Know When Creating a Habit](https://www.nirandfar.com/before-changing-behavior-know-your-type/) — `2012-06-12-before-changing-behavior-know-your-type.md` — 379w
+- 2012-05-28 — [User Growth and Engagement: A Hacker Metric](https://www.nirandfar.com/never-take-your-eyes-off-this-hacker-metric/) — `2012-05-28-never-take-your-eyes-off-this-hacker-metric.md` — 1850w
+- 2012-05-18 — [Spotting the Next Facebook: Why Emotions are Big Business](https://www.nirandfar.com/spotting-the-next-facebook-why-emotions-are-big-business/) — `2012-05-18-spotting-the-next-facebook-why-emotions-are-big-business.md` — 4922w
+- 2012-05-04 — [Strange Sex Habits of Silicon Valley](https://www.nirandfar.com/strange-sex-habits-of-silicon-valley/) — `2012-05-04-strange-sex-habits-of-silicon-valley.md` — 4774w
+- 2012-04-23 — [The Billion Dollar Mind Trick: An Intro to Triggers](https://www.nirandfar.com/billion-dollar-mind-trick-2/) — `2012-04-23-billion-dollar-mind-trick-2.md` — 4260w
+- 2012-04-17 — [Why Everyone Hates I.T. People](https://www.nirandfar.com/why-everyone-hates-it-people/) — `2012-04-17-why-everyone-hates-it-people.md` — 4333w
+- 2012-04-11 — [Hooking Users In 3 Steps: An Intro to Habit Testing](https://www.nirandfar.com/hooking-users-in-3-steps/) — `2012-04-11-hooking-users-in-3-steps.md` — 4806w
+- 2012-04-02 — [Abolish The Reference Check](https://www.nirandfar.com/abolish-the-reference-check/) — `2012-04-02-abolish-the-reference-check.md` — 4415w
+- 2012-03-27 — [Variable Rewards: Want To Hook Users? Drive Them Crazy](https://www.nirandfar.com/want-to-hook-your-users-drive-them-crazy/) — `2012-03-27-want-to-hook-your-users-drive-them-crazy.md` — 4695w
+- 2012-03-21 — [How to Design Behavior (The Behavior Change Matrix)](https://www.nirandfar.com/how-to-design-behavior/) — `2012-03-21-how-to-design-behavior.md` — 4652w
+- 2012-03-12 — [How To Design For “Normals”](https://www.nirandfar.com/go-ask-grandma-how-to-design-for-normals/) — `2012-03-12-go-ask-grandma-how-to-design-for-normals.md` — 4354w
+- 2012-03-04 — [The Hooked Model: How to Manufacture Desire in 4 Steps](https://www.nirandfar.com/how-to-manufacture-desire/) — `2012-03-04-how-to-manufacture-desire.md` — 5250w
+- 2012-02-26 — [User Habits: Why Startups Must Be Behavior Experts](https://www.nirandfar.com/habits-are-new-viral-why-startups-must/) — `2012-02-26-habits-are-new-viral-why-startups-must.md` — 4315w
+- 2012-02-23 — [What Is, and Is Not, Your Product’s Job](https://www.nirandfar.com/what-is-and-is-not-your-products-job/) — `2012-02-23-what-is-and-is-not-your-products-job.md` — 4148w
+- 2012-02-14 — [Forming New Habits: Train to be an Amateur, Not an Expert](https://www.nirandfar.com/train-to-be-amateur-not-expert/) — `2012-02-14-train-to-be-amateur-not-expert.md` — 1400w
+- 2012-02-06 — [Pinterest’s Obvious Secret](https://www.nirandfar.com/pinterests-obvious-secret/) — `2012-02-06-pinterests-obvious-secret.md` — 4402w
+- 2012-02-06 — [Personalized eCommerce Is Already Here, You Just Don’t Recognize It](https://www.nirandfar.com/personalized-ecommerce-is-already-here/) — `2012-02-06-personalized-ecommerce-is-already-here.md` — 4487w
+- 2012-01-30 — [Where is the Web Going?](https://www.nirandfar.com/where-is-web-going/) — `2012-01-30-where-is-web-going.md` — 4222w
+- 2012-01-23 — [The Developer Divide: When Great Companies Can’t Hire](https://www.nirandfar.com/developer-divide-when-great-companies/) — `2012-01-23-developer-divide-when-great-companies.md` — 4509w
+- 2012-01-18 — [Being a Quitter Makes You a Good Entrepreneur](https://www.nirandfar.com/being-good-quitter-makes-you-good/) — `2012-01-18-being-good-quitter-makes-you-good.md` — 1074w
+- 2012-01-10 — [Why Your Goals Will Fail, and What You Can Do About It](https://www.nirandfar.com/your-new-years-resolution-is-bound-to/) — `2012-01-10-your-new-years-resolution-is-bound-to.md` — 4845w
+- 2012-01-05 — [Behavior by Design](https://www.nirandfar.com/behavior-by-design/) — `2012-01-05-behavior-by-design.md` — 3558w
+- 2012-01-03 — [What A-Players Do That You Don’t](https://www.nirandfar.com/what-players-do-that-you-dont/) — `2012-01-03-what-players-do-that-you-dont.md` — 577w
+- 2011-12-26 — [Why You Should Run Your Business Barefoot](https://www.nirandfar.com/why-you-should-run-your-business/) — `2011-12-26-why-you-should-run-your-business.md` — 1452w
+- 2011-12-22 — [Are you a Startup Star, Wacko, or Wannabe?](https://www.nirandfar.com/are-you-startup-star-wacko-or-wannabe/) — `2011-12-22-are-you-startup-star-wacko-or-wannabe.md` — 3562w

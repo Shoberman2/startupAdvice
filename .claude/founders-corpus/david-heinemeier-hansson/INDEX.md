@@ -1,7 +1,7 @@
 # David Heinemeier Hansson corpus index
 
-Source: https://world.hey.com/dhh — fetched 2026-07-19
-98 posts, 50543 words. Format: date — [title](canonical url) — `file` — words.
+Source: https://world.hey.com/dhh — fetched 2026-07-20
+494 posts, 282565 words. Format: date — [title](canonical url) — `file` — words.
 
 - 2026-07-16 — [Three sacred cows that must die so Europe can live](https://world.hey.com/dhh/three-sacred-cows-that-must-die-so-europe-can-live-1afb203d) — `2026-07-16-dhh-three-sacred-cows-that-must-die-so-europe-can-live-1afb203d.md` — 843w
 - 2026-07-14 — [Dell is on a roll with the XPS](https://world.hey.com/dhh/dell-is-on-a-roll-with-the-xps-5a09a84e) — `2026-07-14-dhh-dell-is-on-a-roll-with-the-xps-5a09a84e.md` — 1051w
@@ -101,3 +101,399 @@ Source: https://world.hey.com/dhh — fetched 2026-07-19
 - 2025-02-08 — [Serving the country](https://world.hey.com/dhh/serving-the-country-9faa5ef3) — `2025-02-08-dhh-serving-the-country-9faa5ef3.md` — 931w
 - 2025-02-07 — [Servers can last a long time](https://world.hey.com/dhh/servers-can-last-a-long-time-165c955c) — `2025-02-07-dhh-servers-can-last-a-long-time-165c955c.md` — 345w
 - 2025-01-31 — [It burns](https://world.hey.com/dhh/it-burns-9576a115) — `2025-01-31-dhh-it-burns-9576a115.md` — 866w
+- 2025-01-21 — [Waiting on red](https://world.hey.com/dhh/waiting-on-red-6894032f) — `2025-01-21-dhh-waiting-on-red-6894032f.md` — 625w
+- 2025-01-20 — [MEGA](https://world.hey.com/dhh/mega-a0f62cd4) — `2025-01-20-dhh-mega-a0f62cd4.md` — 346w
+- 2025-01-20 — [Failed integration and the fall of multiculturalism](https://world.hey.com/dhh/failed-integration-and-the-fall-of-multiculturalism-77296314) — `2025-01-20-dhh-failed-integration-and-the-fall-of-multiculturalism-77296314.md` — 810w
+- 2025-01-06 — [Delusional dreams of excess freedom](https://world.hey.com/dhh/delusional-dreams-of-excess-freedom-e7507662) — `2025-01-06-dhh-delusional-dreams-of-excess-freedom-e7507662.md` — 399w
+- 2024-12-16 — [The premise trap](https://world.hey.com/dhh/the-premise-trap-924b8cd9) — `2024-12-16-dhh-the-premise-trap-924b8cd9.md` — 615w
+- 2024-11-21 — [Jaguar is lost but Volvo knows the way](https://world.hey.com/dhh/jaguar-is-lost-but-volvo-knows-the-way-9601033c) — `2024-11-21-dhh-jaguar-is-lost-but-volvo-knows-the-way-9601033c.md` — 422w
+- 2024-11-19 — [Joining the Shopify board of directors](https://world.hey.com/dhh/joining-the-shopify-board-of-directors-3c351fbb) — `2024-11-19-dhh-joining-the-shopify-board-of-directors-3c351fbb.md` — 508w
+- 2024-11-13 — [Obsessive problem solving followed by aimless wandering](https://world.hey.com/dhh/obsessive-problem-solving-followed-by-aimless-wandering-b8e94e0a) — `2024-11-13-dhh-obsessive-problem-solving-followed-by-aimless-wandering-b8e94e0a.md` — 539w
+- 2024-11-11 — [Too much therapy at work](https://world.hey.com/dhh/too-much-therapy-at-work-f79ac95c) — `2024-11-11-dhh-too-much-therapy-at-work-f79ac95c.md` — 558w
+- 2024-11-06 — [The spells are spent](https://world.hey.com/dhh/the-spells-are-spent-beaa675b) — `2024-11-06-dhh-the-spells-are-spent-beaa675b.md` — 268w
+- 2024-11-05 — [What you know that just ain't so](https://world.hey.com/dhh/what-you-know-that-just-ain-t-so-ab6f4bb1) — `2024-11-05-dhh-what-you-know-that-just-ain-t-so-ab6f4bb1.md` — 444w
+- 2024-10-17 — [Our cloud-exit savings will now top ten million over five years](https://world.hey.com/dhh/our-cloud-exit-savings-will-now-top-ten-million-over-five-years-c7d9b5bd) — `2024-10-17-dhh-our-cloud-exit-savings-will-now-top-ten-million-over-five-years-c7d9b5bd.md` — 930w
+- 2024-10-14 — [Capture less than you create](https://world.hey.com/dhh/capture-less-than-you-create-c30e462e) — `2024-10-14-dhh-capture-less-than-you-create-c30e462e.md` — 381w
+- 2024-10-13 — [To the crazy ones](https://world.hey.com/dhh/to-the-crazy-ones-e43822c7) — `2024-10-13-dhh-to-the-crazy-ones-e43822c7.md` — 467w
+- 2024-10-13 — [Open source royalty and mad kings](https://world.hey.com/dhh/open-source-royalty-and-mad-kings-a8f79d16) — `2024-10-13-dhh-open-source-royalty-and-mad-kings-a8f79d16.md` — 929w
+- 2024-10-08 — [Automattic is doing open source dirty](https://world.hey.com/dhh/automattic-is-doing-open-source-dirty-b95cf128) — `2024-10-08-dhh-automattic-is-doing-open-source-dirty-b95cf128.md` — 611w
+- 2024-10-03 — [Kamal 2: Thou need not PaaS](https://world.hey.com/dhh/kamal-2-thou-need-not-paas-c9e8bd53) — `2024-10-03-dhh-kamal-2-thou-need-not-paas-c9e8bd53.md` — 314w
+- 2024-09-30 — [Wonderful Rails World Vibes](https://world.hey.com/dhh/wonderful-rails-world-vibes-7a6141d2) — `2024-09-30-dhh-wonderful-rails-world-vibes-7a6141d2.md` — 1126w
+- 2024-09-19 — [Ears rarely open until a rapport is established](https://world.hey.com/dhh/ears-rarely-open-until-a-rapport-is-established-ae913bfd) — `2024-09-19-dhh-ears-rarely-open-until-a-rapport-is-established-ae913bfd.md` — 356w
+- 2024-09-17 — [Wonderful vi](https://world.hey.com/dhh/wonderful-vi-a1d034d3) — `2024-09-17-dhh-wonderful-vi-a1d034d3.md` — 985w
+- 2024-09-10 — [Back in the market (Sonos Edition)](https://world.hey.com/dhh/back-in-the-market-sonos-edition-b8b3c0b2) — `2024-09-10-dhh-back-in-the-market-sonos-edition-b8b3c0b2.md` — 938w
+- 2024-09-09 — [Passwords have problems, but passkeys have more](https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9) — `2024-09-09-dhh-passwords-have-problems-but-passkeys-have-more-95285df9.md` — 588w
+- 2024-09-06 — [Optimize for bio cores first, silicon cores second](https://world.hey.com/dhh/optimize-for-bio-cores-first-silicon-cores-second-112a6c3f) — `2024-09-06-dhh-optimize-for-bio-cores-first-silicon-cores-second-112a6c3f.md` — 737w
+- 2024-09-02 — [Why don't more people use Linux?](https://world.hey.com/dhh/why-don-t-more-people-use-linux-33b75f53) — `2024-09-02-dhh-why-don-t-more-people-use-linux-33b75f53.md` — 393w
+- 2024-09-01 — [Free speech isn't guaranteed to be forever](https://world.hey.com/dhh/free-speech-isn-t-guaranteed-to-be-forever-e7654685) — `2024-09-01-dhh-free-speech-isn-t-guaranteed-to-be-forever-e7654685.md` — 1018w
+- 2024-08-31 — [For what it'll make of you](https://world.hey.com/dhh/for-what-it-ll-make-of-you-9469db5c) — `2024-08-31-dhh-for-what-it-ll-make-of-you-9469db5c.md` — 458w
+- 2024-08-30 — [We once more have no full-time managers at 37signals](https://world.hey.com/dhh/we-once-more-have-no-full-time-managers-at-37signals-f8611085) — `2024-08-30-dhh-we-once-more-have-no-full-time-managers-at-37signals-f8611085.md` — 799w
+- 2024-08-27 — [Children of You](https://world.hey.com/dhh/children-of-you-a2f93dfa) — `2024-08-27-dhh-children-of-you-a2f93dfa.md` — 1068w
+- 2024-08-24 — [Merchants of complexity](https://world.hey.com/dhh/merchants-of-complexity-4851301b) — `2024-08-24-dhh-merchants-of-complexity-4851301b.md` — 310w
+- 2024-08-19 — [Software estimates have never worked and never will](https://world.hey.com/dhh/software-estimates-have-never-worked-and-never-will-a41a9c71) — `2024-08-19-dhh-software-estimates-have-never-worked-and-never-will-a41a9c71.md` — 472w
+- 2024-08-18 — [Where at least I know I'm free](https://world.hey.com/dhh/where-at-least-i-know-i-m-free-da04f873) — `2024-08-18-dhh-where-at-least-i-know-i-m-free-da04f873.md` — 560w
+- 2024-08-14 — [The Framework 13 has a new high-res screen!](https://world.hey.com/dhh/the-framework-13-has-a-new-high-res-screen-e1a5ebb8) — `2024-08-14-dhh-the-framework-13-has-a-new-high-res-screen-e1a5ebb8.md` — 703w
+- 2024-08-05 — [Cookie banners show everything that's wrong with the EU](https://world.hey.com/dhh/cookie-banners-show-everything-that-s-wrong-with-the-eu-3bfcf03d) — `2024-08-05-dhh-cookie-banners-show-everything-that-s-wrong-with-the-eu-3bfcf03d.md` — 339w
+- 2024-07-31 — [Finding acoustical delight in THE THOCK](https://world.hey.com/dhh/finding-acoustical-delight-in-the-thock-aa84f70b) — `2024-07-31-dhh-finding-acoustical-delight-in-the-thock-aa84f70b.md` — 823w
+- 2024-07-12 — [Living with Linux and Android after two decades of Apple](https://world.hey.com/dhh/living-with-linux-and-android-after-two-decades-of-apple-4f730084) — `2024-07-12-dhh-living-with-linux-and-android-after-two-decades-of-apple-4f730084.md` — 744w
+- 2024-06-08 — [Visions of the future](https://world.hey.com/dhh/visions-of-the-future-2e23ff85) — `2024-06-08-dhh-visions-of-the-future-2e23ff85.md` — 400w
+- 2024-06-06 — [Introducing Omakub](https://world.hey.com/dhh/introducing-omakub-354db366) — `2024-06-06-dhh-introducing-omakub-354db366.md` — 488w
+- 2024-06-02 — [Why I retired from the tech crusades](https://world.hey.com/dhh/why-i-retired-from-the-tech-crusades-107a51ea) — `2024-06-02-dhh-why-i-retired-from-the-tech-crusades-107a51ea.md` — 710w
+- 2024-05-24 — [Linux as the new developer default at 37signals](https://world.hey.com/dhh/linux-as-the-new-developer-default-at-37signals-ef0823b7) — `2024-05-24-dhh-linux-as-the-new-developer-default-at-37signals-ef0823b7.md` — 480w
+- 2024-05-20 — [Beautiful motivations](https://world.hey.com/dhh/beautiful-motivations-6fef7c73) — `2024-05-20-dhh-beautiful-motivations-6fef7c73.md` — 355w
+- 2024-05-17 — [System tests have failed](https://world.hey.com/dhh/system-tests-have-failed-d90af718) — `2024-05-17-dhh-system-tests-have-failed-d90af718.md` — 476w
+- 2024-05-17 — [Paranoia and desperation in the AI gold rush](https://world.hey.com/dhh/paranoia-and-desperation-in-the-ai-gold-rush-33042dbc) — `2024-05-17-dhh-paranoia-and-desperation-in-the-ai-gold-rush-33042dbc.md` — 369w
+- 2024-05-16 — [Open source is neither a community nor a democracy](https://world.hey.com/dhh/open-source-is-neither-a-community-nor-a-democracy-606abdab) — `2024-05-16-dhh-open-source-is-neither-a-community-nor-a-democracy-606abdab.md` — 726w
+- 2024-05-14 — [The endangered state of normality](https://world.hey.com/dhh/the-endangered-state-of-normality-d632a7fe) — `2024-05-14-dhh-the-endangered-state-of-normality-d632a7fe.md` — 308w
+- 2024-05-14 — [Meta is shutting down Workplace](https://world.hey.com/dhh/meta-is-shutting-down-workplace-3e24bca5) — `2024-05-14-dhh-meta-is-shutting-down-workplace-3e24bca5.md` — 238w
+- 2024-05-10 — [DEI is done (minus the mop up)](https://world.hey.com/dhh/dei-is-done-minus-the-mop-up-b3bbbb64) — `2024-05-10-dhh-dei-is-done-minus-the-mop-up-b3bbbb64.md` — 286w
+- 2024-05-09 — [Hating Apple goes mainstream](https://world.hey.com/dhh/hating-apple-goes-mainstream-fe740007) — `2024-05-09-dhh-hating-apple-goes-mainstream-fe740007.md` — 477w
+- 2024-05-07 — [The last RailsConf](https://world.hey.com/dhh/the-last-railsconf-c6188593) — `2024-05-07-dhh-the-last-railsconf-c6188593.md` — 529w
+- 2024-04-30 — [Magic machines](https://world.hey.com/dhh/magic-machines-10c534bd) — `2024-04-30-dhh-magic-machines-10c534bd.md` — 434w
+- 2024-04-29 — [We're moving continuous integration back to developer machines](https://world.hey.com/dhh/we-re-moving-continuous-integration-back-to-developer-machines-3ac6c611) — `2024-04-29-dhh-we-re-moving-continuous-integration-back-to-developer-machines-3ac6c611.md` — 460w
+- 2024-04-26 — [I could have been happy with Windows](https://world.hey.com/dhh/i-could-have-been-happy-with-windows-bd4a7d01) — `2024-04-26-dhh-i-could-have-been-happy-with-windows-bd4a7d01.md` — 735w
+- 2024-04-25 — [Villains may live long enough to become heroes](https://world.hey.com/dhh/villains-may-live-long-enough-to-become-heroes-6405ae8c) — `2024-04-25-dhh-villains-may-live-long-enough-to-become-heroes-6405ae8c.md` — 865w
+- 2024-04-25 — [The gift of ambition](https://world.hey.com/dhh/the-gift-of-ambition-e7b41ffc) — `2024-04-25-dhh-the-gift-of-ambition-e7b41ffc.md` — 770w
+- 2024-04-23 — [As we forgive those who trespass against us](https://world.hey.com/dhh/as-we-forgive-those-who-trespass-against-us-c5979c81) — `2024-04-23-dhh-as-we-forgive-those-who-trespass-against-us-c5979c81.md` — 656w
+- 2024-04-19 — [We are a place of business](https://world.hey.com/dhh/we-are-a-place-of-business-a451eddf) — `2024-04-19-dhh-we-are-a-place-of-business-a451eddf.md` — 583w
+- 2024-04-15 — [Forcing master to main was a good faith exploit](https://world.hey.com/dhh/forcing-master-to-main-was-a-good-faith-exploit-b21ee30c) — `2024-04-15-dhh-forcing-master-to-main-was-a-good-faith-exploit-b21ee30c.md` — 166w
+- 2024-04-12 — [Imperfections create connections](https://world.hey.com/dhh/imperfections-create-connections-bc87d630) — `2024-04-12-dhh-imperfections-create-connections-bc87d630.md` — 978w
+- 2024-04-11 — [Enough problems to go around](https://world.hey.com/dhh/enough-problems-to-go-around-c10b887d) — `2024-04-11-dhh-enough-problems-to-go-around-c10b887d.md` — 389w
+- 2024-04-10 — [You're not guaranteed a spot on the team](https://world.hey.com/dhh/you-re-not-guaranteed-a-spot-on-the-team-95080248) — `2024-04-10-dhh-you-re-not-guaranteed-a-spot-on-the-team-95080248.md` — 607w
+- 2024-04-03 — [Le Mans 2024](https://world.hey.com/dhh/le-mans-2024-1f87d732) — `2024-04-03-dhh-le-mans-2024-1f87d732.md` — 873w
+- 2024-03-31 — [Bad Therapy](https://world.hey.com/dhh/bad-therapy-08849dc9) — `2024-03-31-dhh-bad-therapy-08849dc9.md` — 676w
+- 2024-03-15 — [Chart the course, set the pace, hold the line](https://world.hey.com/dhh/chart-the-course-set-the-pace-hold-the-line-0f3ea916) — `2024-03-15-dhh-chart-the-course-set-the-pace-hold-the-line-0f3ea916.md` — 641w
+- 2024-03-15 — [Beware the leviathans](https://world.hey.com/dhh/beware-the-leviathans-56db3d48) — `2024-03-15-dhh-beware-the-leviathans-56db3d48.md` — 1459w
+- 2024-03-13 — [Developers are on edge](https://world.hey.com/dhh/developers-are-on-edge-4dfcf9c1) — `2024-03-13-dhh-developers-are-on-edge-4dfcf9c1.md` — 626w
+- 2024-03-12 — [Be less precious](https://world.hey.com/dhh/be-less-precious-b20bf8c3) — `2024-03-12-dhh-be-less-precious-b20bf8c3.md` — 504w
+- 2024-03-08 — [Google's sad ideological capture was exactly what we were trying to avoid](https://world.hey.com/dhh/google-s-sad-ideological-capture-was-exactly-what-we-were-trying-to-avoid-67fad361) — `2024-03-08-dhh-google-s-sad-ideological-capture-was-exactly-what-we-were-trying-to-avoid-67.md` — 1171w
+- 2024-03-07 — [Could Apple leave Europe?](https://world.hey.com/dhh/could-apple-leave-europe-76441933) — `2024-03-07-dhh-could-apple-leave-europe-76441933.md` — 471w
+- 2024-03-07 — [Committing to Windows](https://world.hey.com/dhh/committing-to-windows-2d6388fd) — `2024-03-07-dhh-committing-to-windows-2d6388fd.md` — 612w
+- 2024-03-05 — [Apple is in its Ballmer era](https://world.hey.com/dhh/apple-is-in-its-ballmer-era-339b0713) — `2024-03-05-dhh-apple-is-in-its-ballmer-era-339b0713.md` — 740w
+- 2024-03-02 — [You can own more than one type of computer!](https://world.hey.com/dhh/you-can-own-more-than-one-type-of-computer-73439146) — `2024-03-02-dhh-you-can-own-more-than-one-type-of-computer-73439146.md` — 598w
+- 2024-02-29 — [Fonts don't have to look awful on Windows](https://world.hey.com/dhh/fonts-don-t-have-to-look-awful-on-windows-564c9d2f) — `2024-02-29-dhh-fonts-don-t-have-to-look-awful-on-windows-564c9d2f.md` — 956w
+- 2024-02-27 — [Finding The Last Editor](https://world.hey.com/dhh/finding-the-last-editor-dae701cc) — `2024-02-27-dhh-finding-the-last-editor-dae701cc.md` — 881w
+- 2024-02-25 — [VSCode + WSL makes Windows awesome for web development](https://world.hey.com/dhh/vscode-wsl-makes-windows-awesome-for-web-development-9bc4d528) — `2024-02-25-dhh-vscode-wsl-makes-windows-awesome-for-web-development-9bc4d528.md` — 1086w
+- 2024-02-25 — [Switching to Android was easy](https://world.hey.com/dhh/switching-to-android-was-easy-4bf28577) — `2024-02-25-dhh-switching-to-android-was-easy-4bf28577.md` — 864w
+- 2024-02-13 — [Every generation needs their own apocalypse](https://world.hey.com/dhh/every-generation-needs-their-own-apocalypse-194b2413) — `2024-02-13-dhh-every-generation-needs-their-own-apocalypse-194b2413.md` — 403w
+- 2024-02-12 — [The compounding seeds of creativity](https://world.hey.com/dhh/the-compounding-seeds-of-creativity-e7e212c0) — `2024-02-12-dhh-the-compounding-seeds-of-creativity-e7e212c0.md` — 382w
+- 2024-02-07 — [Campfire is SaaS without the aaS](https://world.hey.com/dhh/campfire-is-saas-without-the-aas-182b4849) — `2024-02-07-dhh-campfire-is-saas-without-the-aas-182b4849.md` — 438w
+- 2024-02-06 — [Celebrating a million copies of REWORK](https://world.hey.com/dhh/celebrating-a-million-copies-of-rework-9d5eb543) — `2024-02-06-dhh-celebrating-a-million-copies-of-rework-9d5eb543.md` — 544w
+- 2024-02-05 — [It’s easier to forgive a human than a robot](https://world.hey.com/dhh/it-s-easier-to-forgive-a-human-than-a-robot-d4a97b3a) — `2024-02-05-dhh-it-s-easier-to-forgive-a-human-than-a-robot-d4a97b3a.md` — 524w
+- 2024-02-05 — [Basecamp turns 20](https://world.hey.com/dhh/basecamp-turns-20-091d07b7) — `2024-02-05-dhh-basecamp-turns-20-091d07b7.md` — 622w
+- 2024-02-02 — [Dare to connect a server to the internet](https://world.hey.com/dhh/dare-to-connect-a-server-to-the-internet-01d25a07) — `2024-02-02-dhh-dare-to-connect-a-server-to-the-internet-01d25a07.md` — 453w
+- 2024-02-01 — [Campfire is now for sale](https://world.hey.com/dhh/campfire-is-now-for-sale-51a19fc9) — `2024-02-01-dhh-campfire-is-now-for-sale-51a19fc9.md` — 507w
+- 2024-01-26 — [We need a Right To Compute](https://world.hey.com/dhh/we-need-a-right-to-compute-0add65df) — `2024-01-26-dhh-we-need-a-right-to-compute-0add65df.md` — 490w
+- 2024-01-25 — [Apple’s new extortion regime to keep big app makers](https://world.hey.com/dhh/apple-s-new-extortion-regime-to-keep-big-app-makers-d4d03ea9) — `2024-01-25-dhh-apple-s-new-extortion-regime-to-keep-big-app-makers-d4d03ea9.md` — 457w
+- 2024-01-23 — [There are no secrets left](https://world.hey.com/dhh/there-are-no-secrets-left-c8c95de0) — `2024-01-23-dhh-there-are-no-secrets-left-c8c95de0.md` — 478w
+- 2024-01-23 — [Is greed really seasonal?](https://world.hey.com/dhh/is-greed-really-seasonal-6ab86be0) — `2024-01-23-dhh-is-greed-really-seasonal-6ab86be0.md` — 528w
+- 2024-01-22 — [The benefit of seniority ought to be bandwidth](https://world.hey.com/dhh/the-benefit-of-seniority-ought-to-be-bandwidth-ff8ee736) — `2024-01-22-dhh-the-benefit-of-seniority-ought-to-be-bandwidth-ff8ee736.md` — 415w
+- 2024-01-19 — [Campfire is ONCE #1](https://world.hey.com/dhh/campfire-is-once-1-d2cebd12) — `2024-01-19-dhh-campfire-is-once-1-d2cebd12.md` — 666w
+- 2024-01-17 — [Microsoft taught Apple nothing](https://world.hey.com/dhh/microsoft-taught-apple-nothing-592d398d) — `2024-01-17-dhh-microsoft-taught-apple-nothing-592d398d.md` — 513w
+- 2024-01-17 — [Apple actually lost a court case for once, but they refuse to comply in good faith](https://world.hey.com/dhh/apple-actually-lost-a-court-case-for-once-but-they-refuse-to-comply-in-good-faith-2bc316a5) — `2024-01-17-dhh-apple-actually-lost-a-court-case-for-once-but-they-refuse-to-comply-in-good-.md` — 232w
+- 2024-01-14 — [Multi-tenancy is what’s hard about scaling web services](https://world.hey.com/dhh/multi-tenancy-is-what-s-hard-about-scaling-web-services-dd1e0e81) — `2024-01-14-dhh-multi-tenancy-is-what-s-hard-about-scaling-web-services-dd1e0e81.md` — 457w
+- 2024-01-13 — [Rails World and Rails 8 in 2024](https://world.hey.com/dhh/rails-world-and-rails-8-in-2024-c7b090ba) — `2024-01-13-dhh-rails-world-and-rails-8-in-2024-c7b090ba.md` — 1231w
+- 2024-01-12 — [The tech layoffs continue](https://world.hey.com/dhh/the-tech-layoffs-continue-1b124e7b) — `2024-01-12-dhh-the-tech-layoffs-continue-1b124e7b.md` — 609w
+- 2024-01-11 — [Google Cloud cuts egress and promotes cloud exits](https://world.hey.com/dhh/google-cloud-cuts-egress-and-promotes-cloud-exits-01dbe9f3) — `2024-01-11-dhh-google-cloud-cuts-egress-and-promotes-cloud-exits-01dbe9f3.md` — 166w
+- 2024-01-09 — [Apple approves the HEY Calendar](https://world.hey.com/dhh/apple-approves-the-hey-calendar-c76ebd9c) — `2024-01-09-dhh-apple-approves-the-hey-calendar-c76ebd9c.md` — 668w
+- 2024-01-08 — [We’ve resubmitted the HEY Calendar app to Apple](https://world.hey.com/dhh/we-ve-resubmitted-the-hey-calendar-app-to-apple-57240fbb) — `2024-01-08-dhh-we-ve-resubmitted-the-hey-calendar-app-to-apple-57240fbb.md` — 599w
+- 2024-01-07 — [Pessimism is on the retreat](https://world.hey.com/dhh/pessimism-is-on-the-retreat-e67dbd7e) — `2024-01-07-dhh-pessimism-is-on-the-retreat-e67dbd7e.md` — 379w
+- 2024-01-07 — [Keeping the lights on while leaving the cloud](https://world.hey.com/dhh/keeping-the-lights-on-while-leaving-the-cloud-be7c2d67) — `2024-01-07-dhh-keeping-the-lights-on-while-leaving-the-cloud-be7c2d67.md` — 534w
+- 2024-01-06 — [Happiness is never having to ask for permission](https://world.hey.com/dhh/happiness-is-never-having-to-ask-for-permission-20962d41) — `2024-01-06-dhh-happiness-is-never-having-to-ask-for-permission-20962d41.md` — 1184w
+- 2024-01-05 — [Apple rejects the HEY Calendar from their App Store](https://world.hey.com/dhh/apple-rejects-the-hey-calendar-from-their-app-store-4316dc03) — `2024-01-05-dhh-apple-rejects-the-hey-calendar-from-their-app-store-4316dc03.md` — 698w
+- 2024-01-04 — [The reality of the Danish fairytale](https://world.hey.com/dhh/the-reality-of-the-danish-fairytale-78069fbf) — `2024-01-04-dhh-the-reality-of-the-danish-fairytale-78069fbf.md` — 2207w
+- 2024-01-04 — [A writer's Ruby](https://world.hey.com/dhh/a-writer-s-ruby-2050b634) — `2024-01-04-dhh-a-writer-s-ruby-2050b634.md` — 703w
+- 2024-01-02 — [New year, new calendar](https://world.hey.com/dhh/new-year-new-calendar-58d70855) — `2024-01-02-dhh-new-year-new-calendar-58d70855.md` — 460w
+- 2023-12-30 — [We’re so back](https://world.hey.com/dhh/we-re-so-back-50c3390d) — `2023-12-30-dhh-we-re-so-back-50c3390d.md` — 349w
+- 2023-12-24 — [Picking a purpose](https://world.hey.com/dhh/picking-a-purpose-bd8ff341) — `2023-12-24-dhh-picking-a-purpose-bd8ff341.md` — 754w
+- 2023-12-24 — [Finished software](https://world.hey.com/dhh/finished-software-8ee43637) — `2023-12-24-dhh-finished-software-8ee43637.md` — 601w
+- 2023-12-22 — [Commit to competence in this coming year](https://world.hey.com/dhh/commit-to-competence-in-this-coming-year-feb7d7c5) — `2023-12-22-dhh-commit-to-competence-in-this-coming-year-feb7d7c5.md` — 1219w
+- 2023-12-21 — [Challenging the guardians of the paradigm](https://world.hey.com/dhh/challenging-the-guardians-of-the-paradigm-90665252) — `2023-12-21-dhh-challenging-the-guardians-of-the-paradigm-90665252.md` — 504w
+- 2023-12-20 — [ONCE #1 is entirely #nobuild for the front-end](https://world.hey.com/dhh/once-1-is-entirely-nobuild-for-the-front-end-ce56f6d7) — `2023-12-20-dhh-once-1-is-entirely-nobuild-for-the-front-end-ce56f6d7.md` — 582w
+- 2023-12-20 — [Five big open source gifts from us](https://world.hey.com/dhh/five-big-open-source-gifts-from-us-c1b42c1b) — `2023-12-20-dhh-five-big-open-source-gifts-from-us-c1b42c1b.md` — 1691w
+- 2023-12-19 — [The Big Cloud Exit FAQ](https://world.hey.com/dhh/the-big-cloud-exit-faq-20274010) — `2023-12-19-dhh-the-big-cloud-exit-faq-20274010.md` — 2351w
+- 2023-12-18 — [Patek levels of finishing](https://world.hey.com/dhh/patek-levels-of-finishing-467e5dc0) — `2023-12-18-dhh-patek-levels-of-finishing-467e5dc0.md` — 367w
+- 2023-12-17 — [Native mobile apps are optional for B2B startups in 2024](https://world.hey.com/dhh/native-mobile-apps-are-optional-for-b2b-startups-in-2024-4c870d3e) — `2023-12-17-dhh-native-mobile-apps-are-optional-for-b2b-startups-in-2024-4c870d3e.md` — 985w
+- 2023-12-14 — [The early bird sees the sunrise](https://world.hey.com/dhh/the-early-bird-sees-the-sunrise-aa97c012) — `2023-12-14-dhh-the-early-bird-sees-the-sunrise-aa97c012.md` — 359w
+- 2023-12-10 — [What is HiFi](https://world.hey.com/dhh/what-is-hifi-dddab2ae) — `2023-12-10-dhh-what-is-hifi-dddab2ae.md` — 720w
+- 2023-11-10 — [The origin of Ruby on Rails](https://world.hey.com/dhh/the-origin-of-ruby-on-rails-b3dab24e) — `2023-11-10-dhh-the-origin-of-ruby-on-rails-b3dab24e.md` — 368w
+- 2023-10-31 — [Workfeed goes to America](https://world.hey.com/dhh/workfeed-goes-to-america-84b381d9) — `2023-10-31-dhh-workfeed-goes-to-america-84b381d9.md` — 429w
+- 2023-10-31 — [That Model S Plaid](https://world.hey.com/dhh/that-model-s-plaid-9e3a6a5a) — `2023-10-31-dhh-that-model-s-plaid-9e3a6a5a.md` — 995w
+- 2023-10-30 — [Negative visualization in practice](https://world.hey.com/dhh/negative-visualization-in-practice-60f11cb7) — `2023-10-30-dhh-negative-visualization-in-practice-60f11cb7.md` — 579w
+- 2023-10-27 — [X celebrates 60% savings from cloud exit](https://world.hey.com/dhh/x-celebrates-60-savings-from-cloud-exit-7cc26895) — `2023-10-27-dhh-x-celebrates-60-savings-from-cloud-exit-7cc26895.md` — 409w
+- 2023-10-20 — [Buying the seller](https://world.hey.com/dhh/buying-the-seller-1520e9dd) — `2023-10-20-dhh-buying-the-seller-1520e9dd.md` — 389w
+- 2023-10-19 — [The open source gift exchange](https://world.hey.com/dhh/the-open-source-gift-exchange-2171e0f0) — `2023-10-19-dhh-the-open-source-gift-exchange-2171e0f0.md` — 430w
+- 2023-10-16 — [The price of managed cloud services](https://world.hey.com/dhh/the-price-of-managed-cloud-services-4f33d67e) — `2023-10-16-dhh-the-price-of-managed-cloud-services-4f33d67e.md` — 520w
+- 2023-10-13 — [We tried that, didn’t work](https://world.hey.com/dhh/we-tried-that-didn-t-work-d9c42fe1) — `2023-10-13-dhh-we-tried-that-didn-t-work-d9c42fe1.md` — 592w
+- 2023-10-11 — [You can't get faster than No Build](https://world.hey.com/dhh/you-can-t-get-faster-than-no-build-7a44131c) — `2023-10-11-dhh-you-can-t-get-faster-than-no-build-7a44131c.md` — 275w
+- 2023-10-07 — [One happy Rails World](https://world.hey.com/dhh/one-happy-rails-world-96c46506) — `2023-10-07-dhh-one-happy-rails-world-96c46506.md` — 846w
+- 2023-09-25 — [The Musk Algorithm](https://world.hey.com/dhh/the-musk-algorithm-977bf312) — `2023-09-25-dhh-the-musk-algorithm-977bf312.md` — 239w
+- 2023-09-20 — [Finishing Hotwire with the introduction of Strada](https://world.hey.com/dhh/finishing-hotwire-with-the-introduction-of-strada-9efdf091) — `2023-09-20-dhh-finishing-hotwire-with-the-introduction-of-strada-9efdf091.md` — 581w
+- 2023-09-19 — [Kamal 1.0](https://world.hey.com/dhh/kamal-1-0-5304ff9e) — `2023-09-19-dhh-kamal-1-0-5304ff9e.md` — 428w
+- 2023-09-15 — [Our cloud exit has already yielded $1m/year in savings](https://world.hey.com/dhh/our-cloud-exit-has-already-yielded-1m-year-in-savings-db358dea) — `2023-09-15-dhh-our-cloud-exit-has-already-yielded-1m-year-in-savings-db358dea.md` — 407w
+- 2023-09-11 — [Tesla wins](https://world.hey.com/dhh/tesla-wins-e2d68ff3) — `2023-09-11-dhh-tesla-wins-e2d68ff3.md` — 304w
+- 2023-09-07 — [Open source hooliganism and the TypeScript meltdown](https://world.hey.com/dhh/open-source-hooliganism-and-the-typescript-meltdown-a474bfda) — `2023-09-07-dhh-open-source-hooliganism-and-the-typescript-meltdown-a474bfda.md` — 858w
+- 2023-09-06 — [Turbo 8 is dropping TypeScript](https://world.hey.com/dhh/turbo-8-is-dropping-typescript-70165c01) — `2023-09-06-dhh-turbo-8-is-dropping-typescript-70165c01.md` — 501w
+- 2023-09-01 — [You can't fix core competency with a stern conversation](https://world.hey.com/dhh/you-can-t-fix-core-competency-with-a-stern-conversation-b8a2f31f) — `2023-09-01-dhh-you-can-t-fix-core-competency-with-a-stern-conversation-b8a2f31f.md` — 533w
+- 2023-08-11 — [Learning to accept defeat against reality](https://world.hey.com/dhh/learning-to-accept-defeat-against-reality-141fb093) — `2023-08-11-dhh-learning-to-accept-defeat-against-reality-141fb093.md` — 525w
+- 2023-08-10 — [Turns out nobody cared about panel gaps](https://world.hey.com/dhh/turns-out-nobody-cared-about-panel-gaps-914127d5) — `2023-08-10-dhh-turns-out-nobody-cared-about-panel-gaps-914127d5.md` — 409w
+- 2023-08-08 — [The curing value of creation](https://world.hey.com/dhh/the-curing-value-of-creation-98736f9f) — `2023-08-08-dhh-the-curing-value-of-creation-98736f9f.md` — 295w
+- 2023-08-07 — [Et tu, Zoom?](https://world.hey.com/dhh/et-tu-zoom-b90a0a0a) — `2023-08-07-dhh-et-tu-zoom-b90a0a0a.md` — 278w
+- 2023-08-04 — [Not everyone can be the best](https://world.hey.com/dhh/not-everyone-can-be-the-best-ef9ebacd) — `2023-08-04-dhh-not-everyone-can-be-the-best-ef9ebacd.md` — 615w
+- 2023-07-27 — [X marks the motivated reasoning](https://world.hey.com/dhh/x-marks-the-motivated-reasoning-13450584) — `2023-07-27-dhh-x-marks-the-motivated-reasoning-13450584.md` — 494w
+- 2023-07-26 — [Working remotely is a competitive hiring advantage again](https://world.hey.com/dhh/working-remotely-is-a-competitive-hiring-advantage-again-c182250e) — `2023-07-26-dhh-working-remotely-is-a-competitive-hiring-advantage-again-c182250e.md` — 367w
+- 2023-07-25 — [Pick promise over proof](https://world.hey.com/dhh/pick-promise-over-proof-756604d3) — `2023-07-25-dhh-pick-promise-over-proof-756604d3.md` — 452w
+- 2023-07-24 — [Clear the barnacles](https://world.hey.com/dhh/clear-the-barnacles-b9558830) — `2023-07-24-dhh-clear-the-barnacles-b9558830.md` — 250w
+- 2023-07-20 — [Don't lose your unreasonable sense of urgency](https://world.hey.com/dhh/don-t-lose-your-unreasonable-sense-of-urgency-b381699c) — `2023-07-20-dhh-don-t-lose-your-unreasonable-sense-of-urgency-b381699c.md` — 332w
+- 2023-07-19 — [There's no rebound in sight for unprofitable SaaS](https://world.hey.com/dhh/there-s-no-rebound-in-sight-for-unprofitable-saas-49a06b4d) — `2023-07-19-dhh-there-s-no-rebound-in-sight-for-unprofitable-saas-49a06b4d.md` — 565w
+- 2023-06-30 — [The law of the land](https://world.hey.com/dhh/the-law-of-the-land-c2231109) — `2023-06-30-dhh-the-law-of-the-land-c2231109.md` — 651w
+- 2023-06-29 — [Design for the web without Figma](https://world.hey.com/dhh/design-for-the-web-without-figma-4bc3a218) — `2023-06-29-dhh-design-for-the-web-without-figma-4bc3a218.md` — 475w
+- 2023-06-27 — [Staying in the arena](https://world.hey.com/dhh/staying-in-the-arena-1ff9f285) — `2023-06-27-dhh-staying-in-the-arena-1ff9f285.md` — 662w
+- 2023-06-26 — [Wisdom is not what you know](https://world.hey.com/dhh/wisdom-is-not-what-you-know-e8cf9191) — `2023-06-26-dhh-wisdom-is-not-what-you-know-e8cf9191.md` — 407w
+- 2023-06-25 — [Back to America](https://world.hey.com/dhh/back-to-america-7e878fa2) — `2023-06-25-dhh-back-to-america-7e878fa2.md` — 690w
+- 2023-06-24 — [Rails World sold out in less than 45 minutes](https://world.hey.com/dhh/rails-world-sold-out-in-less-than-45-minutes-78a0b276) — `2023-06-24-dhh-rails-world-sold-out-in-less-than-45-minutes-78a0b276.md` — 376w
+- 2023-06-23 — [We have left the cloud](https://world.hey.com/dhh/we-have-left-the-cloud-251760fb) — `2023-06-23-dhh-we-have-left-the-cloud-251760fb.md` — 976w
+- 2023-06-22 — [Breaking the inertia of mediocrity](https://world.hey.com/dhh/breaking-the-inertia-of-mediocrity-88048743) — `2023-06-22-dhh-breaking-the-inertia-of-mediocrity-88048743.md` — 355w
+- 2023-06-20 — [Until the end of the internet](https://world.hey.com/dhh/until-the-end-of-the-internet-439ccfce) — `2023-06-20-dhh-until-the-end-of-the-internet-439ccfce.md` — 636w
+- 2023-06-19 — [You can't trust Google](https://world.hey.com/dhh/you-can-t-trust-google-f7d64064) — `2023-06-19-dhh-you-can-t-trust-google-f7d64064.md` — 332w
+- 2023-06-19 — [Turn down the volume on the world](https://world.hey.com/dhh/turn-down-the-volume-on-the-world-14131d30) — `2023-06-19-dhh-turn-down-the-volume-on-the-world-14131d30.md` — 303w
+- 2023-06-15 — [Acting your wage will atrophy your abilities](https://world.hey.com/dhh/acting-your-wage-will-atrophy-your-abilities-1ca261c4) — `2023-06-15-dhh-acting-your-wage-will-atrophy-your-abilities-1ca261c4.md` — 230w
+- 2023-06-13 — [The Le Mans Centenary](https://world.hey.com/dhh/the-le-mans-centenary-a0802694) — `2023-06-13-dhh-the-le-mans-centenary-a0802694.md` — 1551w
+- 2023-06-08 — [Hybrid combines the worst of office and remote work](https://world.hey.com/dhh/hybrid-combines-the-worst-of-office-and-remote-work-d3174e50) — `2023-06-08-dhh-hybrid-combines-the-worst-of-office-and-remote-work-d3174e50.md` — 486w
+- 2023-06-02 — [We need not all be connected, all the time](https://world.hey.com/dhh/we-need-not-all-be-connected-all-the-time-a4633c0e) — `2023-06-02-dhh-we-need-not-all-be-connected-all-the-time-a4633c0e.md` — 447w
+- 2023-06-01 — [When promotions become punishment](https://world.hey.com/dhh/when-promotions-become-punishment-b1cc1430) — `2023-06-01-dhh-when-promotions-become-punishment-b1cc1430.md` — 428w
+- 2023-05-31 — [Start them in the deep end](https://world.hey.com/dhh/start-them-in-the-deep-end-8c9c77fe) — `2023-05-31-dhh-start-them-in-the-deep-end-8c9c77fe.md` — 383w
+- 2023-05-30 — [360 degrees of phony back-patting](https://world.hey.com/dhh/360-degrees-of-phony-back-patting-ec915f47) — `2023-05-30-dhh-360-degrees-of-phony-back-patting-ec915f47.md` — 532w
+- 2023-05-26 — [Recharging trust batteries with meetups in a remote company](https://world.hey.com/dhh/recharging-trust-batteries-with-meetups-in-a-remote-company-5ad0cbeb) — `2023-05-26-dhh-recharging-trust-batteries-with-meetups-in-a-remote-company-5ad0cbeb.md` — 375w
+- 2023-05-25 — [Manage process before people](https://world.hey.com/dhh/manage-process-before-people-20736695) — `2023-05-25-dhh-manage-process-before-people-20736695.md` — 649w
+- 2023-05-23 — [The luxury of working without metrics](https://world.hey.com/dhh/the-luxury-of-working-without-metrics-02e5dbac) — `2023-05-23-dhh-the-luxury-of-working-without-metrics-02e5dbac.md` — 484w
+- 2023-05-22 — [But what if you're wrong?](https://world.hey.com/dhh/but-what-if-you-re-wrong-6de2168c) — `2023-05-22-dhh-but-what-if-you-re-wrong-6de2168c.md` — 465w
+- 2023-05-15 — [Sitting on the bench](https://world.hey.com/dhh/sitting-on-the-bench-ba937b84) — `2023-05-15-dhh-sitting-on-the-bench-ba937b84.md` — 218w
+- 2023-05-12 — [That underdog DNA](https://world.hey.com/dhh/that-underdog-dna-62795a00) — `2023-05-12-dhh-that-underdog-dna-62795a00.md` — 329w
+- 2023-05-11 — [It's not just cloud costs that are out of control](https://world.hey.com/dhh/it-s-not-just-cloud-costs-that-are-out-of-control-efcd098c) — `2023-05-11-dhh-it-s-not-just-cloud-costs-that-are-out-of-control-efcd098c.md` — 361w
+- 2023-05-09 — [The misallocation of tech talent](https://world.hey.com/dhh/the-misallocation-of-tech-talent-6c3b4403) — `2023-05-09-dhh-the-misallocation-of-tech-talent-6c3b4403.md` — 509w
+- 2023-05-08 — [In defense of the office](https://world.hey.com/dhh/in-defense-of-the-office-450fc177) — `2023-05-08-dhh-in-defense-of-the-office-450fc177.md` — 370w
+- 2023-05-07 — [Programming types and mindsets](https://world.hey.com/dhh/programming-types-and-mindsets-5b8490bc) — `2023-05-07-dhh-programming-types-and-mindsets-5b8490bc.md` — 573w
+- 2023-05-06 — [Escaping creative downturns](https://world.hey.com/dhh/escaping-creative-downturns-15281997) — `2023-05-06-dhh-escaping-creative-downturns-15281997.md` — 295w
+- 2023-05-05 — [How to recover from microservices](https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc) — `2023-05-05-dhh-how-to-recover-from-microservices-ce3803cc.md` — 1167w
+- 2023-05-04 — [Even Amazon can't make sense of serverless or microservices](https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580) — `2023-05-04-dhh-even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580.md` — 129w
+- 2023-05-03 — [Sovereign clouds](https://world.hey.com/dhh/sovereign-clouds-661eb5e4) — `2023-05-03-dhh-sovereign-clouds-661eb5e4.md` — 475w
+- 2023-05-02 — [The responsibility is the reward](https://world.hey.com/dhh/the-responsibility-is-the-reward-69e5b73f) — `2023-05-02-dhh-the-responsibility-is-the-reward-69e5b73f.md` — 424w
+- 2023-05-02 — [Cloud exit pays off in performance too](https://world.hey.com/dhh/cloud-exit-pays-off-in-performance-too-4c53b697) — `2023-05-02-dhh-cloud-exit-pays-off-in-performance-too-4c53b697.md` — 482w
+- 2023-04-26 — [Getting America's mojo back](https://world.hey.com/dhh/getting-america-s-mojo-back-7889dec1) — `2023-04-26-dhh-getting-america-s-mojo-back-7889dec1.md` — 899w
+- 2023-04-18 — [How to continue making kerosene lamps on the eve of electricity](https://world.hey.com/dhh/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity-5a8b8e1a) — `2023-04-18-dhh-how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity-5a8b8e1a.md` — 462w
+- 2023-04-10 — [We spent $300K on billboards in Boston and it was a bust](https://world.hey.com/dhh/we-spent-300k-on-billboards-in-boston-and-it-was-a-bust-2ae8c9dd) — `2023-04-10-dhh-we-spent-300k-on-billboards-in-boston-and-it-was-a-bust-2ae8c9dd.md` — 307w
+- 2023-04-07 — [Go Rails World](https://world.hey.com/dhh/go-rails-world-4f3c42e6) — `2023-04-07-dhh-go-rails-world-4f3c42e6.md` — 558w
+- 2023-04-06 — [The hardware we need for our cloud exit has arrived](https://world.hey.com/dhh/the-hardware-we-need-for-our-cloud-exit-has-arrived-99d66966) — `2023-04-06-dhh-the-hardware-we-need-for-our-cloud-exit-has-arrived-99d66966.md` — 774w
+- 2023-04-05 — [Standing up to golems](https://world.hey.com/dhh/standing-up-to-golems-c98dd4a8) — `2023-04-05-dhh-standing-up-to-golems-c98dd4a8.md` — 549w
+- 2023-03-31 — [How to have buckets of time](https://world.hey.com/dhh/how-to-have-buckets-of-time-38693993) — `2023-03-31-dhh-how-to-have-buckets-of-time-38693993.md` — 559w
+- 2023-03-30 — [America is never "getting to Denmark"](https://world.hey.com/dhh/america-is-never-getting-to-denmark-e471ae91) — `2023-03-30-dhh-america-is-never-getting-to-denmark-e471ae91.md` — 1088w
+- 2023-03-28 — [Why is paid social media a bad idea?](https://world.hey.com/dhh/why-is-paid-social-media-a-bad-idea-623a9c76) — `2023-03-28-dhh-why-is-paid-social-media-a-bad-idea-623a9c76.md` — 584w
+- 2023-03-23 — [Cut cloud before payroll](https://world.hey.com/dhh/cut-cloud-before-payroll-a4530ebd) — `2023-03-23-dhh-cut-cloud-before-payroll-a4530ebd.md` — 577w
+- 2023-03-22 — [Angry customers are a gift](https://world.hey.com/dhh/angry-customers-are-a-gift-1949c52b) — `2023-03-22-dhh-angry-customers-are-a-gift-1949c52b.md` — 291w
+- 2023-03-21 — [Compressing a million-dollar commercial into $37,000](https://world.hey.com/dhh/compressing-a-million-dollar-commercial-into-37-000-0a99a38e) — `2023-03-21-dhh-compressing-a-million-dollar-commercial-into-37-000-0a99a38e.md` — 372w
+- 2023-03-08 — [Actions beat arguments](https://world.hey.com/dhh/actions-beat-arguments-2aa1da34) — `2023-03-08-dhh-actions-beat-arguments-2aa1da34.md` — 263w
+- 2023-03-03 — [SaaS startups will have to care about productivity again](https://world.hey.com/dhh/saas-startups-will-have-to-care-about-productivity-again-78d4bd1a) — `2023-03-03-dhh-saas-startups-will-have-to-care-about-productivity-again-78d4bd1a.md` — 684w
+- 2023-03-01 — [The simplest thing that could possibly work](https://world.hey.com/dhh/the-simplest-thing-that-could-possibly-work-8f0d8b43) — `2023-03-01-dhh-the-simplest-thing-that-could-possibly-work-8f0d8b43.md` — 513w
+- 2023-02-28 — [When prophecy fails](https://world.hey.com/dhh/when-prophecy-fails-65c0c34f) — `2023-02-28-dhh-when-prophecy-fails-65c0c34f.md` — 619w
+- 2023-02-28 — [Introducing Kamal](https://world.hey.com/dhh/introducing-kamal-9330a267) — `2023-02-28-dhh-introducing-kamal-9330a267.md` — 449w
+- 2023-02-27 — [Don't be fooled by serverless](https://world.hey.com/dhh/don-t-be-fooled-by-serverless-776cd730) — `2023-02-27-dhh-don-t-be-fooled-by-serverless-776cd730.md` — 554w
+- 2023-02-24 — [Get out of momentum's way](https://world.hey.com/dhh/get-out-of-momentum-s-way-765248d2) — `2023-02-24-dhh-get-out-of-momentum-s-way-765248d2.md` — 297w
+- 2023-02-23 — [Caring about costs is cool](https://world.hey.com/dhh/caring-about-costs-is-cool-7fe09c0c) — `2023-02-23-dhh-caring-about-costs-is-cool-7fe09c0c.md` — 334w
+- 2023-02-22 — [Five values guiding our cloud exit](https://world.hey.com/dhh/five-values-guiding-our-cloud-exit-638add47) — `2023-02-22-dhh-five-values-guiding-our-cloud-exit-638add47.md` — 380w
+- 2023-02-21 — [We stand to save $7m over five years from our cloud exit](https://world.hey.com/dhh/we-stand-to-save-7m-over-five-years-from-our-cloud-exit-53996caa) — `2023-02-21-dhh-we-stand-to-save-7m-over-five-years-from-our-cloud-exit-53996caa.md` — 566w
+- 2023-02-16 — [My all-time dream car](https://world.hey.com/dhh/my-all-time-dream-car-1b28942d) — `2023-02-16-dhh-my-all-time-dream-car-1b28942d.md` — 1633w
+- 2023-02-14 — [Hey, is that a CRM?](https://world.hey.com/dhh/hey-is-that-a-crm-eac61ae9) — `2023-02-14-dhh-hey-is-that-a-crm-eac61ae9.md` — 491w
+- 2023-02-13 — [Inspiration is perishable](https://world.hey.com/dhh/inspiration-is-perishable-f2c8652e) — `2023-02-13-dhh-inspiration-is-perishable-f2c8652e.md` — 224w
+- 2023-02-10 — [Invest in things that don't change](https://world.hey.com/dhh/invest-in-things-that-don-t-change-6f7f19e1) — `2023-02-10-dhh-invest-in-things-that-don-t-change-6f7f19e1.md` — 527w
+- 2023-02-09 — [How it started / how it's going](https://world.hey.com/dhh/how-it-started-how-it-s-going-baefaf09) — `2023-02-09-dhh-how-it-started-how-it-s-going-baefaf09.md` — 430w
+- 2023-02-07 — [Software has bugs. This is normal.](https://world.hey.com/dhh/software-has-bugs-this-is-normal-26d5fd06) — `2023-02-07-dhh-software-has-bugs-this-is-normal-26d5fd06.md` — 790w
+- 2023-01-31 — [Just let me do my job](https://world.hey.com/dhh/just-let-me-do-my-job-b7b9819c) — `2023-01-31-dhh-just-let-me-do-my-job-b7b9819c.md` — 430w
+- 2023-01-26 — [Hardware is fun again](https://world.hey.com/dhh/hardware-is-fun-again-b819d0b4) — `2023-01-26-dhh-hardware-is-fun-again-b819d0b4.md` — 505w
+- 2023-01-23 — [Glorious days like these](https://world.hey.com/dhh/glorious-days-like-these-09854f74) — `2023-01-23-dhh-glorious-days-like-these-09854f74.md` — 294w
+- 2023-01-20 — [Another Android](https://world.hey.com/dhh/another-android-de53085c) — `2023-01-20-dhh-another-android-de53085c.md` — 516w
+- 2023-01-16 — [You can always go faster (if you know where to risk it)](https://world.hey.com/dhh/you-can-always-go-faster-if-you-know-where-to-risk-it-f62fcca4) — `2023-01-16-dhh-you-can-always-go-faster-if-you-know-where-to-risk-it-f62fcca4.md` — 1070w
+- 2023-01-12 — [They're rebuilding the Death Star of complexity](https://world.hey.com/dhh/they-re-rebuilding-the-death-star-of-complexity-4fb5d08d) — `2023-01-12-dhh-they-re-rebuilding-the-death-star-of-complexity-4fb5d08d.md` — 1034w
+- 2023-01-10 — [The only thing worse than cloud pricing is the enterprisey alternatives](https://world.hey.com/dhh/the-only-thing-worse-than-cloud-pricing-is-the-enterprisey-alternatives-854e98f3) — `2023-01-10-dhh-the-only-thing-worse-than-cloud-pricing-is-the-enterprisey-alternatives-854e.md` — 412w
+- 2023-01-09 — [We don't A/B test core values](https://world.hey.com/dhh/we-don-t-a-b-test-core-values-91b5f562) — `2023-01-09-dhh-we-don-t-a-b-test-core-values-91b5f562.md` — 394w
+- 2023-01-04 — [A high bar is high respect](https://world.hey.com/dhh/a-high-bar-is-high-respect-b2ee7862) — `2023-01-04-dhh-a-high-bar-is-high-respect-b2ee7862.md` — 301w
+- 2022-12-16 — [Throw Twitter into the fire of Mount Doom](https://world.hey.com/dhh/throw-twitter-into-the-fire-of-mount-doom-67685e95) — `2022-12-16-dhh-throw-twitter-into-the-fire-of-mount-doom-67685e95.md` — 340w
+- 2022-12-14 — [Apple's big monopoly loss comes curtesy of the EU](https://world.hey.com/dhh/apple-s-big-monopoly-loss-comes-curtesy-of-the-eu-feead335) — `2022-12-14-dhh-apple-s-big-monopoly-loss-comes-curtesy-of-the-eu-feead335.md` — 664w
+- 2022-12-09 — [Meta goes no politics at work (and nobody cares)](https://world.hey.com/dhh/meta-goes-no-politics-at-work-and-nobody-cares-d6409209) — `2022-12-09-dhh-meta-goes-no-politics-at-work-and-nobody-cares-d6409209.md` — 604w
+- 2022-12-09 — [European Digital Sovereignty](https://world.hey.com/dhh/european-digital-sovereignty-fb963e5d) — `2022-12-09-dhh-european-digital-sovereignty-fb963e5d.md` — 2313w
+- 2022-12-08 — [Your estimates suck](https://world.hey.com/dhh/your-estimates-suck-2b9f8445) — `2022-12-08-dhh-your-estimates-suck-2b9f8445.md` — 342w
+- 2022-12-07 — [We can't have good faith on a flat social battery](https://world.hey.com/dhh/we-can-t-have-good-faith-on-a-flat-social-battery-6bd0d4ef) — `2022-12-07-dhh-we-can-t-have-good-faith-on-a-flat-social-battery-6bd0d4ef.md` — 399w
+- 2022-12-05 — [More creative than mere humans](https://world.hey.com/dhh/more-creative-than-mere-humans-af8e6220) — `2022-12-05-dhh-more-creative-than-mere-humans-af8e6220.md` — 590w
+- 2022-12-05 — [An ode to software products over software services](https://world.hey.com/dhh/an-ode-to-software-products-over-software-services-c2705aff) — `2022-12-05-dhh-an-ode-to-software-products-over-software-services-c2705aff.md` — 1403w
+- 2022-12-02 — [Nobody Knows Anything](https://world.hey.com/dhh/nobody-knows-anything-9c773a5a) — `2022-12-02-dhh-nobody-knows-anything-9c773a5a.md` — 503w
+- 2022-11-29 — [May Shopify's immunity spread to the whole herd](https://world.hey.com/dhh/may-shopify-s-immunity-spread-to-the-whole-herd-7bd855ce) — `2022-11-29-dhh-may-shopify-s-immunity-spread-to-the-whole-herd-7bd855ce.md` — 676w
+- 2022-11-25 — [Equating responsibility with busyness](https://world.hey.com/dhh/equating-responsibility-with-busyness-bf0a7fa0) — `2022-11-25-dhh-equating-responsibility-with-busyness-bf0a7fa0.md` — 476w
+- 2022-11-24 — [We must say no to these people](https://world.hey.com/dhh/we-must-say-no-to-these-people-e0fb301c) — `2022-11-24-dhh-we-must-say-no-to-these-people-e0fb301c.md` — 592w
+- 2022-11-21 — [The waning days of DEI's dominance](https://world.hey.com/dhh/the-waning-days-of-dei-s-dominance-9a5b656c) — `2022-11-21-dhh-the-waning-days-of-dei-s-dominance-9a5b656c.md` — 1018w
+- 2022-11-18 — [Heads we win, tails he loses](https://world.hey.com/dhh/heads-we-win-tails-he-loses-16ba4116) — `2022-11-18-dhh-heads-we-win-tails-he-loses-16ba4116.md` — 238w
+- 2022-11-17 — [You can either buy attention or earn it](https://world.hey.com/dhh/you-can-either-buy-attention-or-earn-it-d1ab404b) — `2022-11-17-dhh-you-can-either-buy-attention-or-earn-it-d1ab404b.md` — 374w
+- 2022-11-16 — [The Current Villain](https://world.hey.com/dhh/the-current-villain-63710982) — `2022-11-16-dhh-the-current-villain-63710982.md` — 145w
+- 2022-11-14 — [Why is Spotify still linking to the CDC?](https://world.hey.com/dhh/why-is-spotify-still-linking-to-the-cdc-7f612036) — `2022-11-14-dhh-why-is-spotify-still-linking-to-the-cdc-7f612036.md` — 384w
+- 2022-11-09 — [The bubble has popped for unprofitable software companies](https://world.hey.com/dhh/the-bubble-has-popped-for-unprofitable-software-companies-2a0a5f57) — `2022-11-09-dhh-the-bubble-has-popped-for-unprofitable-software-companies-2a0a5f57.md` — 1265w
+- 2022-11-04 — [Setting the pace](https://world.hey.com/dhh/setting-the-pace-03d4539a) — `2022-11-04-dhh-setting-the-pace-03d4539a.md` — 486w
+- 2022-10-31 — [The best teacher is a bad boss](https://world.hey.com/dhh/the-best-teacher-is-a-bad-boss-9e027042) — `2022-10-31-dhh-the-best-teacher-is-a-bad-boss-9e027042.md` — 368w
+- 2022-10-31 — [Here's how to fix Twitter](https://world.hey.com/dhh/here-s-how-to-fix-twitter-79632ecb) — `2022-10-31-dhh-here-s-how-to-fix-twitter-79632ecb.md` — 121w
+- 2022-10-28 — [The delusional demands of some Twitter employees](https://world.hey.com/dhh/the-delusional-demands-of-some-twitter-employees-a98c4b0f) — `2022-10-28-dhh-the-delusional-demands-of-some-twitter-employees-a98c4b0f.md` — 167w
+- 2022-10-28 — [American data spies will never care where the servers are](https://world.hey.com/dhh/american-data-spies-will-never-care-where-the-servers-are-371d4016) — `2022-10-28-dhh-american-data-spies-will-never-care-where-the-servers-are-371d4016.md` — 994w
+- 2022-10-27 — [Make politics private again](https://world.hey.com/dhh/make-politics-private-again-9b47aaaf) — `2022-10-27-dhh-make-politics-private-again-9b47aaaf.md` — 297w
+- 2022-10-24 — [Move the needle or move on](https://world.hey.com/dhh/move-the-needle-or-move-on-7102cc0e) — `2022-10-24-dhh-move-the-needle-or-move-on-7102cc0e.md` — 230w
+- 2022-10-21 — [Need it take 7,500 people to run Twitter?](https://world.hey.com/dhh/need-it-take-7-500-people-to-run-twitter-a8cb36a6) — `2022-10-21-dhh-need-it-take-7-500-people-to-run-twitter-a8cb36a6.md` — 364w
+- 2022-10-20 — [Don’t tell someone how to feel](https://world.hey.com/dhh/don-t-tell-someone-how-to-feel-b3fd3c25) — `2022-10-20-dhh-don-t-tell-someone-how-to-feel-b3fd3c25.md` — 207w
+- 2022-10-19 — [Why we're leaving the cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0) — `2022-10-19-dhh-why-we-re-leaving-the-cloud-654b47e0.md` — 1016w
+- 2022-10-19 — [LinkedIn?!](https://world.hey.com/dhh/linkedin-71ee75d9) — `2022-10-19-dhh-linkedin-71ee75d9.md` — 507w
+- 2022-10-18 — [The scarcity scarecrows of Open Source](https://world.hey.com/dhh/the-scarcity-scarecrows-of-open-source-325f6d2b) — `2022-10-18-dhh-the-scarcity-scarecrows-of-open-source-325f6d2b.md` — 763w
+- 2022-09-26 — [Expectations are everything](https://world.hey.com/dhh/expectations-are-everything-7491801a) — `2022-09-26-dhh-expectations-are-everything-7491801a.md` — 231w
+- 2022-09-22 — [Misery starts when the struggle ends](https://world.hey.com/dhh/misery-starts-when-the-struggle-ends-390c700f) — `2022-09-22-dhh-misery-starts-when-the-struggle-ends-390c700f.md` — 813w
+- 2022-09-15 — [Unreasonable people](https://world.hey.com/dhh/unreasonable-people-41a5f471) — `2022-09-15-dhh-unreasonable-people-41a5f471.md` — 283w
+- 2022-09-14 — [I love being wrong](https://world.hey.com/dhh/i-love-being-wrong-862e5ef5) — `2022-09-14-dhh-i-love-being-wrong-862e5ef5.md` — 252w
+- 2022-09-07 — [The faith of Andrew Tate](https://world.hey.com/dhh/the-faith-of-andrew-tate-a8a4d448) — `2022-09-07-dhh-the-faith-of-andrew-tate-a8a4d448.md` — 282w
+- 2022-09-06 — [The path to meaning is paved with responsibility](https://world.hey.com/dhh/the-path-to-meaning-is-paved-with-responsibility-bdbd0ebd) — `2022-09-06-dhh-the-path-to-meaning-is-paved-with-responsibility-bdbd0ebd.md` — 364w
+- 2022-09-05 — [God's will](https://world.hey.com/dhh/god-s-will-6df347fb) — `2022-09-05-dhh-god-s-will-6df347fb.md` — 469w
+- 2022-08-29 — [Don't keep all your digital services with one company](https://world.hey.com/dhh/don-t-keep-all-your-digital-services-with-one-company-6de8bdbd) — `2022-08-29-dhh-don-t-keep-all-your-digital-services-with-one-company-6de8bdbd.md` — 215w
+- 2022-08-23 — [Cultural intuition](https://world.hey.com/dhh/cultural-intuition-a73483f5) — `2022-08-23-dhh-cultural-intuition-a73483f5.md` — 239w
+- 2022-08-22 — [Mission statements are worse than worthless](https://world.hey.com/dhh/mission-statements-are-worse-than-worthless-8bce03f9) — `2022-08-22-dhh-mission-statements-are-worse-than-worthless-8bce03f9.md` — 288w
+- 2022-08-17 — [Let it slide](https://world.hey.com/dhh/let-it-slide-9e40f11a) — `2022-08-17-dhh-let-it-slide-9e40f11a.md` — 338w
+- 2022-08-16 — [Try hard not to solve hard problems](https://world.hey.com/dhh/try-hard-not-to-solve-hard-problems-9e6550a2) — `2022-08-16-dhh-try-hard-not-to-solve-hard-problems-9e6550a2.md` — 304w
+- 2022-08-10 — [Turning the phone into a tool again](https://world.hey.com/dhh/turning-the-phone-into-a-tool-again-ba520bd0) — `2022-08-10-dhh-turning-the-phone-into-a-tool-again-ba520bd0.md` — 407w
+- 2022-08-08 — [Stay with the pain, don't shut this out](https://world.hey.com/dhh/stay-with-the-pain-don-t-shut-this-out-11021763) — `2022-08-08-dhh-stay-with-the-pain-don-t-shut-this-out-11021763.md` — 204w
+- 2022-08-05 — [I can't save you, nobody can](https://world.hey.com/dhh/i-can-t-save-you-nobody-can-2ddba79d) — `2022-08-05-dhh-i-can-t-save-you-nobody-can-2ddba79d.md` — 464w
+- 2022-08-01 — [A way out of the danger zone](https://world.hey.com/dhh/a-way-out-of-the-danger-zone-234b4e48) — `2022-08-01-dhh-a-way-out-of-the-danger-zone-234b4e48.md` — 390w
+- 2022-07-29 — [There is no iceberg](https://world.hey.com/dhh/there-is-no-iceberg-d34f45bb) — `2022-07-29-dhh-there-is-no-iceberg-d34f45bb.md` — 227w
+- 2022-06-01 — [I ain't no angel but I have made some startup investments](https://world.hey.com/dhh/i-ain-t-no-angel-but-i-have-made-some-startup-investments-c9ad4dd0) — `2022-06-01-dhh-i-ain-t-no-angel-but-i-have-made-some-startup-investments-c9ad4dd0.md` — 850w
+- 2022-05-31 — [Employee surveillance software is managerial bankruptcy](https://world.hey.com/dhh/employee-surveillance-software-is-managerial-bankruptcy-94e48a08) — `2022-05-31-dhh-employee-surveillance-software-is-managerial-bankruptcy-94e48a08.md` — 541w
+- 2022-05-26 — [Who's been swimming naked?](https://world.hey.com/dhh/who-s-been-swimming-naked-b7904ccc) — `2022-05-26-dhh-who-s-been-swimming-naked-b7904ccc.md` — 537w
+- 2022-05-24 — [Bullshit jobs hide more easily in big companies](https://world.hey.com/dhh/bullshit-jobs-hide-more-easily-in-big-companies-d53bcbc4) — `2022-05-24-dhh-bullshit-jobs-hide-more-easily-in-big-companies-d53bcbc4.md` — 589w
+- 2022-05-20 — [This might not be the place for you](https://world.hey.com/dhh/this-might-not-be-the-place-for-you-87800c5a) — `2022-05-20-dhh-this-might-not-be-the-place-for-you-87800c5a.md` — 397w
+- 2022-05-11 — [The founder's gamble](https://world.hey.com/dhh/the-founder-s-gamble-24d11ef2) — `2022-05-11-dhh-the-founder-s-gamble-24d11ef2.md` — 463w
+- 2022-05-09 — [Everybody loses when legitimate power isn't exercised](https://world.hey.com/dhh/everybody-loses-when-legitimate-power-isn-t-exercised-1f22cdc6) — `2022-05-09-dhh-everybody-loses-when-legitimate-power-isn-t-exercised-1f22cdc6.md` — 321w
+- 2022-05-06 — [Celebrating the end of The Good Times](https://world.hey.com/dhh/celebrating-the-end-of-the-good-times-12a715f2) — `2022-05-06-dhh-celebrating-the-end-of-the-good-times-12a715f2.md` — 406w
+- 2022-05-05 — [Bring your work self to work](https://world.hey.com/dhh/bring-your-work-self-to-work-f5fbc2eb) — `2022-05-05-dhh-bring-your-work-self-to-work-f5fbc2eb.md` — 376w
+- 2022-05-03 — [Growing apart and losing touch is human and healthy](https://world.hey.com/dhh/growing-apart-and-losing-touch-is-human-and-healthy-f0f962a8) — `2022-05-03-dhh-growing-apart-and-losing-touch-is-human-and-healthy-f0f962a8.md` — 503w
+- 2022-05-02 — [It's hard to escape being ordinary in a connected world](https://world.hey.com/dhh/it-s-hard-to-escape-being-ordinary-in-a-connected-world-317fe611) — `2022-05-02-dhh-it-s-hard-to-escape-being-ordinary-in-a-connected-world-317fe611.md` — 851w
+- 2022-04-29 — [Breaking from the news](https://world.hey.com/dhh/breaking-from-the-news-bb599adf) — `2022-04-29-dhh-breaking-from-the-news-bb599adf.md` — 844w
+- 2022-04-28 — [Rogan popped the cancel balloon](https://world.hey.com/dhh/rogan-popped-the-cancel-balloon-d6bba875) — `2022-04-28-dhh-rogan-popped-the-cancel-balloon-d6bba875.md` — 659w
+- 2022-04-27 — [Where are all the kids in America](https://world.hey.com/dhh/where-are-all-the-kids-in-america-ed0eebec) — `2022-04-27-dhh-where-are-all-the-kids-in-america-ed0eebec.md` — 855w
+- 2022-04-25 — [Either/or with Mr Spaceman](https://world.hey.com/dhh/either-or-with-mr-spaceman-bda60bf9) — `2022-04-25-dhh-either-or-with-mr-spaceman-bda60bf9.md` — 137w
+- 2022-03-25 — [A state of sunshine](https://world.hey.com/dhh/a-state-of-sunshine-17d0cb31) — `2022-03-25-dhh-a-state-of-sunshine-17d0cb31.md` — 695w
+- 2022-03-18 — [Always provide a way out](https://world.hey.com/dhh/always-provide-a-way-out-2d5d8efb) — `2022-03-18-dhh-always-provide-a-way-out-2d5d8efb.md` — 507w
+- 2022-03-16 — [I can't tell the difference](https://world.hey.com/dhh/i-can-t-tell-the-difference-80c20167) — `2022-03-16-dhh-i-can-t-tell-the-difference-80c20167.md` — 624w
+- 2022-03-11 — [Back to Le Mans](https://world.hey.com/dhh/back-to-le-mans-ba0f281c) — `2022-03-11-dhh-back-to-le-mans-ba0f281c.md` — 630w
+- 2022-03-10 — [The silent majority's reply](https://world.hey.com/dhh/the-silent-majority-s-reply-3dcdc03e) — `2022-03-10-dhh-the-silent-majority-s-reply-3dcdc03e.md` — 757w
+- 2022-03-09 — [You could be wrong](https://world.hey.com/dhh/you-could-be-wrong-f122be59) — `2022-03-09-dhh-you-could-be-wrong-f122be59.md` — 533w
+- 2022-03-08 — [The antidote to social media is being more social](https://world.hey.com/dhh/the-antidote-to-social-media-is-being-more-social-983eac16) — `2022-03-08-dhh-the-antidote-to-social-media-is-being-more-social-983eac16.md` — 678w
+- 2022-03-07 — [The long argument](https://world.hey.com/dhh/the-long-argument-92458868) — `2022-03-07-dhh-the-long-argument-92458868.md` — 372w
+- 2022-03-04 — [Weak principles, strong tribes](https://world.hey.com/dhh/weak-principles-strong-tribes-fead41e9) — `2022-03-04-dhh-weak-principles-strong-tribes-fead41e9.md` — 547w
+- 2022-03-03 — [No RailsConf](https://world.hey.com/dhh/no-railsconf-faa7935e) — `2022-03-03-dhh-no-railsconf-faa7935e.md` — 1509w
+- 2022-03-02 — [Diversify your life](https://world.hey.com/dhh/diversify-your-life-d7fd8020) — `2022-03-02-dhh-diversify-your-life-d7fd8020.md` — 251w
+- 2022-02-28 — [The other side of social media](https://world.hey.com/dhh/the-other-side-of-social-media-da8c63e6) — `2022-02-28-dhh-the-other-side-of-social-media-da8c63e6.md` — 534w
+- 2022-02-26 — [Dangerous conversations going private](https://world.hey.com/dhh/dangerous-conversations-going-private-db84b6b3) — `2022-02-26-dhh-dangerous-conversations-going-private-db84b6b3.md` — 529w
+- 2022-02-25 — [Russell Brand is grand](https://world.hey.com/dhh/russell-brand-is-grand-ce7bbe99) — `2022-02-25-dhh-russell-brand-is-grand-ce7bbe99.md` — 388w
+- 2022-02-24 — [The advantages of large, long-running pull requests](https://world.hey.com/dhh/the-advantages-of-large-long-running-pull-requests-c33d913c) — `2022-02-24-dhh-the-advantages-of-large-long-running-pull-requests-c33d913c.md` — 564w
+- 2022-02-23 — [Equating blasphemy with violence legitimizes the inquisition](https://world.hey.com/dhh/equating-blasphemy-with-violence-legitimizes-the-inquisition-5b271760) — `2022-02-23-dhh-equating-blasphemy-with-violence-legitimizes-the-inquisition-5b271760.md` — 479w
+- 2022-02-22 — [Simulacra](https://world.hey.com/dhh/simulacra-33e81a8e) — `2022-02-22-dhh-simulacra-33e81a8e.md` — 496w
+- 2022-02-21 — [I was wrong, we need crypto](https://world.hey.com/dhh/i-was-wrong-we-need-crypto-587ccb03) — `2022-02-21-dhh-i-was-wrong-we-need-crypto-587ccb03.md` — 1040w
+- 2022-02-16 — [Gritting your teeth, biding your time](https://world.hey.com/dhh/gritting-your-teeth-biding-your-time-6d38aefd) — `2022-02-16-dhh-gritting-your-teeth-biding-your-time-6d38aefd.md` — 823w
+- 2022-02-15 — [This just wouldn't happen on Twitter](https://world.hey.com/dhh/this-just-wouldn-t-happen-on-twitter-b32dbd06) — `2022-02-15-dhh-this-just-wouldn-t-happen-on-twitter-b32dbd06.md` — 700w
+- 2022-02-11 — [Introducing Propshaft](https://world.hey.com/dhh/introducing-propshaft-ee60f4f6) — `2022-02-11-dhh-introducing-propshaft-ee60f4f6.md` — 697w
+- 2022-02-10 — [After two weeks with no covid restrictions in Denmark](https://world.hey.com/dhh/after-two-weeks-with-no-covid-restrictions-in-denmark-923dd9a2) — `2022-02-10-dhh-after-two-weeks-with-no-covid-restrictions-in-denmark-923dd9a2.md` — 785w
+- 2022-02-09 — [Go truck yourself](https://world.hey.com/dhh/go-truck-yourself-a14306d9) — `2022-02-09-dhh-go-truck-yourself-a14306d9.md` — 783w
+- 2022-02-05 — [How to mint a crypto fan](https://world.hey.com/dhh/how-to-mint-a-crypto-fan-b482ede2) — `2022-02-05-dhh-how-to-mint-a-crypto-fan-b482ede2.md` — 559w
+- 2022-02-04 — [Apple reveals road map to tax any business with an app at 27%](https://world.hey.com/dhh/apple-reveals-road-map-to-tax-any-business-with-an-app-at-27-0644ff3a) — `2022-02-04-dhh-apple-reveals-road-map-to-tax-any-business-with-an-app-at-27-0644ff3a.md` — 613w
+- 2022-02-03 — [The second-hand stress of social media](https://world.hey.com/dhh/the-second-hand-stress-of-social-media-26178dd0) — `2022-02-03-dhh-the-second-hand-stress-of-social-media-26178dd0.md` — 268w
+- 2022-02-02 — [Work unites what politics divide](https://world.hey.com/dhh/work-unites-what-politics-divide-a43f8688) — `2022-02-02-dhh-work-unites-what-politics-divide-a43f8688.md` — 257w
+- 2022-02-02 — [The infuriating ease of Rogan's popularity](https://world.hey.com/dhh/the-infuriating-ease-of-rogan-s-popularity-625e4cf0) — `2022-02-02-dhh-the-infuriating-ease-of-rogan-s-popularity-625e4cf0.md` — 357w
+- 2022-01-31 — [There are no all-knowing, all-seeing oracles](https://world.hey.com/dhh/there-are-no-all-knowing-all-seeing-oracles-bc6ed1fc) — `2022-01-31-dhh-there-are-no-all-knowing-all-seeing-oracles-bc6ed1fc.md` — 713w
+- 2022-01-29 — [Spotify's completely reasonable healthcare content policy](https://world.hey.com/dhh/spotify-s-completely-reasonable-healthcare-content-policy-e145f400) — `2022-01-29-dhh-spotify-s-completely-reasonable-healthcare-content-policy-e145f400.md` — 121w
+- 2022-01-28 — [We can't thrive without friction](https://world.hey.com/dhh/we-can-t-thrive-without-friction-6cb38fd3) — `2022-01-28-dhh-we-can-t-thrive-without-friction-6cb38fd3.md` — 1793w
+- 2022-01-28 — [Spotify must be afraid of canceling Rogan, right? Right?!](https://world.hey.com/dhh/spotify-must-be-afraid-of-canceling-rogan-right-right-8fc9f1f6) — `2022-01-28-dhh-spotify-must-be-afraid-of-canceling-rogan-right-right-8fc9f1f6.md` — 620w
+- 2022-01-26 — [A pandemic dispatch from Denmark](https://world.hey.com/dhh/a-pandemic-dispatch-from-denmark-80dc7aca) — `2022-01-26-dhh-a-pandemic-dispatch-from-denmark-80dc7aca.md` — 555w
+- 2022-01-25 — [Just the cost of doing business [crimes]](https://world.hey.com/dhh/just-the-cost-of-doing-business-crimes-c9a0316e) — `2022-01-25-dhh-just-the-cost-of-doing-business-crimes-c9a0316e.md` — 313w
+- 2022-01-21 — [The Mac proves Apple can safely open the iPhone](https://world.hey.com/dhh/the-mac-proves-apple-can-safely-open-the-iphone-cfa68a72) — `2022-01-21-dhh-the-mac-proves-apple-can-safely-open-the-iphone-cfa68a72.md` — 270w
+- 2022-01-20 — [Free is never forever](https://world.hey.com/dhh/free-is-never-forever-b2e8f8df) — `2022-01-20-dhh-free-is-never-forever-b2e8f8df.md` — 326w
+- 2022-01-19 — [Apple turns the legislative contempt up to 11](https://world.hey.com/dhh/apple-turns-the-legislative-contempt-up-to-11-7c65eeec) — `2022-01-19-dhh-apple-turns-the-legislative-contempt-up-to-11-7c65eeec.md` — 778w
+- 2022-01-17 — [Case study in motivated reasoning](https://world.hey.com/dhh/case-study-in-motivated-reasoning-53507329) — `2022-01-17-dhh-case-study-in-motivated-reasoning-53507329.md` — 426w
+- 2022-01-14 — [This swapping of roles is making me dizzy](https://world.hey.com/dhh/this-swapping-of-roles-is-making-me-dizzy-2d91d1d9) — `2022-01-14-dhh-this-swapping-of-roles-is-making-me-dizzy-2d91d1d9.md` — 667w
+- 2022-01-14 — [HEY is running its JavaScript off import maps](https://world.hey.com/dhh/hey-is-running-its-javascript-off-import-maps-2abcf203) — `2022-01-14-dhh-hey-is-running-its-javascript-off-import-maps-2abcf203.md` — 550w
+- 2022-01-13 — [The monopoly playbook is depressingly uniform across big tech](https://world.hey.com/dhh/the-monopoly-playbook-is-depressingly-uniform-across-big-tech-1616501f) — `2022-01-13-dhh-the-monopoly-playbook-is-depressingly-uniform-across-big-tech-1616501f.md` — 1025w
+- 2022-01-12 — [Why is Denmark able to have these vaccine debates?](https://world.hey.com/dhh/why-is-denmark-able-to-have-these-vaccine-debates-b5e4301d) — `2022-01-12-dhh-why-is-denmark-able-to-have-these-vaccine-debates-b5e4301d.md` — 511w
+- 2022-01-12 — [The thrill of changing your mind](https://world.hey.com/dhh/the-thrill-of-changing-your-mind-88ff9063) — `2022-01-12-dhh-the-thrill-of-changing-your-mind-88ff9063.md` — 202w
+- 2022-01-10 — [The merit of hiring by merit](https://world.hey.com/dhh/the-merit-of-hiring-by-merit-0400f4af) — `2022-01-10-dhh-the-merit-of-hiring-by-merit-0400f4af.md` — 1169w
+- 2022-01-06 — [It's not a lottery](https://world.hey.com/dhh/it-s-not-a-lottery-8d378442) — `2022-01-06-dhh-it-s-not-a-lottery-8d378442.md` — 351w
+- 2022-01-06 — [It's harder hiring managers](https://world.hey.com/dhh/it-s-harder-hiring-managers-c0a41014) — `2022-01-06-dhh-it-s-harder-hiring-managers-c0a41014.md` — 660w
+- 2022-01-04 — [It could be worse](https://world.hey.com/dhh/it-could-be-worse-3833156b) — `2022-01-04-dhh-it-could-be-worse-3833156b.md` — 196w
+- 2022-01-03 — [Celebrating the silence of high uptimes](https://world.hey.com/dhh/celebrating-the-silence-of-high-uptimes-056c4887) — `2022-01-03-dhh-celebrating-the-silence-of-high-uptimes-056c4887.md` — 427w
+- 2022-01-01 — [Should you vaccinate your kids?](https://world.hey.com/dhh/should-you-vaccinate-your-kids-16933c37) — `2022-01-01-dhh-should-you-vaccinate-your-kids-16933c37.md` — 1005w
+- 2021-12-22 — [How we manage programming projects in Basecamp](https://world.hey.com/dhh/how-we-manage-programming-projects-in-basecamp-33454b4c) — `2021-12-22-dhh-how-we-manage-programming-projects-in-basecamp-33454b4c.md` — 712w
+- 2021-12-21 — [Email is the antidote](https://world.hey.com/dhh/email-is-the-antidote-d9d53c10) — `2021-12-21-dhh-email-is-the-antidote-d9d53c10.md` — 399w
+- 2021-12-21 — [Are we past peak "woke"?](https://world.hey.com/dhh/are-we-past-peak-woke-c313b7d1) — `2021-12-21-dhh-are-we-past-peak-woke-c313b7d1.md` — 640w
+- 2021-12-17 — [That shipping feeling](https://world.hey.com/dhh/that-shipping-feeling-b7c8c565) — `2021-12-17-dhh-that-shipping-feeling-b7c8c565.md` — 219w
+- 2021-12-16 — [The One Person Framework](https://world.hey.com/dhh/the-one-person-framework-711e6318) — `2021-12-16-dhh-the-one-person-framework-711e6318.md` — 483w
+- 2021-12-15 — [The art of not having a take](https://world.hey.com/dhh/the-art-of-not-having-a-take-7c1d9d1e) — `2021-12-15-dhh-the-art-of-not-having-a-take-7c1d9d1e.md` — 382w
+- 2021-12-13 — [I won't let you pay me for my open source](https://world.hey.com/dhh/i-won-t-let-you-pay-me-for-my-open-source-d7cf4568) — `2021-12-13-dhh-i-won-t-let-you-pay-me-for-my-open-source-d7cf4568.md` — 303w
+- 2021-12-13 — [Heaven is hazy](https://world.hey.com/dhh/heaven-is-hazy-369cb6ca) — `2021-12-13-dhh-heaven-is-hazy-369cb6ca.md` — 1076w
+- 2021-12-10 — [Everything popular is problematic](https://world.hey.com/dhh/everything-popular-is-problematic-eb039e2b) — `2021-12-10-dhh-everything-popular-is-problematic-eb039e2b.md` — 613w
+- 2021-12-07 — [The time is right for Hotwire](https://world.hey.com/dhh/the-time-is-right-for-hotwire-ecdb9b33) — `2021-12-07-dhh-the-time-is-right-for-hotwire-ecdb9b33.md` — 642w
+- 2021-12-02 — [Worrying yourself into excess](https://world.hey.com/dhh/worrying-yourself-into-excess-37e06863) — `2021-12-02-dhh-worrying-yourself-into-excess-37e06863.md` — 487w
+- 2021-12-01 — [Books that bust bubbles](https://world.hey.com/dhh/books-that-bust-bubbles-35c46be2) — `2021-12-01-dhh-books-that-bust-bubbles-35c46be2.md` — 2703w
+- 2021-11-25 — [Programmers should stop celebrating incompetence](https://world.hey.com/dhh/programmers-should-stop-celebrating-incompetence-de1a4725) — `2021-11-25-dhh-programmers-should-stop-celebrating-incompetence-de1a4725.md` — 615w
+- 2021-11-22 — [Authoritarian hippie parents](https://world.hey.com/dhh/authoritarian-hippie-parents-3a479d21) — `2021-11-22-dhh-authoritarian-hippie-parents-3a479d21.md` — 605w
+- 2021-11-17 — [It must be worth it even if it doesn't work](https://world.hey.com/dhh/it-must-be-worth-it-even-if-it-doesn-t-work-1e7f49fc) — `2021-11-17-dhh-it-must-be-worth-it-even-if-it-doesn-t-work-1e7f49fc.md` — 170w
+- 2021-10-06 — [How do you know what people have been working on?](https://world.hey.com/dhh/how-do-you-know-what-people-have-been-working-on-48b8986d) — `2021-10-06-dhh-how-do-you-know-what-people-have-been-working-on-48b8986d.md` — 617w
+- 2021-09-24 — [Stimulus 3 + Turbo 7 = Hotwire 1.0](https://world.hey.com/dhh/stimulus-3-turbo-7-hotwire-1-0-9d507133) — `2021-09-24-dhh-stimulus-3-turbo-7-hotwire-1-0-9d507133.md` — 651w
+- 2021-09-20 — [Conceptual compression is lossy (and loss hurts)](https://world.hey.com/dhh/conceptual-compression-is-lossy-and-loss-hurts-c62d027a) — `2021-09-20-dhh-conceptual-compression-is-lossy-and-loss-hurts-c62d027a.md` — 202w
+- 2021-09-16 — [Your likes, hearts, and flattering comments are bad for my brain](https://world.hey.com/dhh/your-likes-hearts-and-flattering-comments-are-bad-for-my-brain-649e9010) — `2021-09-16-dhh-your-likes-hearts-and-flattering-comments-are-bad-for-my-brain-649e9010.md` — 555w
+- 2021-09-14 — [Apple's forced IAP is either dead, a joke, or illegal](https://world.hey.com/dhh/apple-s-forced-iap-is-either-dead-a-joke-or-illegal-110e1c5e) — `2021-09-14-dhh-apple-s-forced-iap-is-either-dead-a-joke-or-illegal-110e1c5e.md` — 1250w
+- 2021-09-06 — [Rails 7 will have three great answers to JavaScript in 2021+](https://world.hey.com/dhh/rails-7-will-have-three-great-answers-to-javascript-in-2021-8d68191b) — `2021-09-06-dhh-rails-7-will-have-three-great-answers-to-javascript-in-2021-8d68191b.md` — 1525w
+- 2021-09-03 — [No one wants to be a code monkey](https://world.hey.com/dhh/no-one-wants-to-be-a-code-monkey-151478dd) — `2021-09-03-dhh-no-one-wants-to-be-a-code-monkey-151478dd.md` — 362w
+- 2021-09-02 — [Japan bends Apple another inch on the App Store](https://world.hey.com/dhh/japan-bends-apple-another-inch-on-the-app-store-9692d1c9) — `2021-09-02-dhh-japan-bends-apple-another-inch-on-the-app-store-9692d1c9.md` — 914w
+- 2021-08-31 — [South Korea just killed the 30% app-store cut](https://world.hey.com/dhh/south-korea-just-killed-the-30-app-store-cut-232d2b16) — `2021-08-31-dhh-south-korea-just-killed-the-30-app-store-cut-232d2b16.md` — 682w
+- 2021-08-27 — [Apple's new settlement is a corrupt joke](https://world.hey.com/dhh/apple-s-new-settlement-is-a-corrupt-joke-bd8b9c1e) — `2021-08-27-dhh-apple-s-new-settlement-is-a-corrupt-joke-bd8b9c1e.md` — 1163w
+- 2021-08-12 — [Modern web apps without JavaScript bundling or transpiling](https://world.hey.com/dhh/modern-web-apps-without-javascript-bundling-or-transpiling-a20f2755) — `2021-08-12-dhh-modern-web-apps-without-javascript-bundling-or-transpiling-a20f2755.md` — 1399w
+- 2021-08-11 — [Too many fights on too many fronts](https://world.hey.com/dhh/too-many-fights-on-too-many-fronts-df6e2e2d) — `2021-08-11-dhh-too-many-fights-on-too-many-fronts-df6e2e2d.md` — 465w
+- 2021-07-01 — [Broken software invites collaboration](https://world.hey.com/dhh/broken-software-invites-collaboration-02b881a2) — `2021-07-01-dhh-broken-software-invites-collaboration-02b881a2.md` — 231w
+- 2021-06-23 — [Here comes the law](https://world.hey.com/dhh/here-comes-the-law-eb302a46) — `2021-06-23-dhh-here-comes-the-law-eb302a46.md` — 296w
+- 2021-06-15 — [Bringing Hotwire to Basecamp](https://world.hey.com/dhh/bringing-hotwire-to-basecamp-91a442d6) — `2021-06-15-dhh-bringing-hotwire-to-basecamp-91a442d6.md` — 667w
+- 2021-06-08 — [Email spy pixels are dead now that Apple will follow HEY](https://world.hey.com/dhh/email-spy-pixels-are-dead-now-that-apple-will-follow-hey-eb66b759) — `2021-06-08-dhh-email-spy-pixels-are-dead-now-that-apple-will-follow-hey-eb66b759.md` — 561w
+- 2021-06-03 — [We're hiring!](https://world.hey.com/dhh/we-re-hiring-ab4c9430) — `2021-06-03-dhh-we-re-hiring-ab4c9430.md` — 445w
+- 2021-06-03 — [Building Basecamp 4](https://world.hey.com/dhh/building-basecamp-4-405a347f) — `2021-06-03-dhh-building-basecamp-4-405a347f.md` — 848w
+- 2021-05-28 — [You'll pay for it either way](https://world.hey.com/dhh/you-ll-pay-for-it-either-way-9d09bbb3) — `2021-05-28-dhh-you-ll-pay-for-it-either-way-9d09bbb3.md` — 315w
+- 2021-05-25 — [Targeted ads are staggeringly unpopular so we should ban them](https://world.hey.com/dhh/targeted-ads-are-staggeringly-unpopular-so-we-should-ban-them-01c13a9c) — `2021-05-25-dhh-targeted-ads-are-staggeringly-unpopular-so-we-should-ban-them-01c13a9c.md` — 344w
+- 2021-05-24 — [Who owns your iPhone?](https://world.hey.com/dhh/who-owns-your-iphone-50fe821d) — `2021-05-24-dhh-who-owns-your-iphone-50fe821d.md` — 1031w
+- 2021-05-20 — [Speeding up HEY's The Feed](https://world.hey.com/dhh/speeding-up-hey-s-the-feed-82e4d2ee) — `2021-05-20-dhh-speeding-up-hey-s-the-feed-82e4d2ee.md` — 619w
+- 2021-05-20 — [After the storm](https://world.hey.com/dhh/after-the-storm-9370f871) — `2021-05-20-dhh-after-the-storm-9370f871.md` — 227w
+- 2021-04-28 — [Let it all out](https://world.hey.com/dhh/let-it-all-out-78485e8e) — `2021-04-28-dhh-let-it-all-out-78485e8e.md` — 1021w
+- 2021-04-26 — [Don't promise, just ship](https://world.hey.com/dhh/don-t-promise-just-ship-1fa077f5) — `2021-04-26-dhh-don-t-promise-just-ship-1fa077f5.md` — 325w
+- 2021-04-26 — [Basecamp's new etiquette regarding societal politics at work](https://world.hey.com/dhh/basecamp-s-new-etiquette-regarding-societal-politics-at-work-b44bef69) — `2021-04-26-dhh-basecamp-s-new-etiquette-regarding-societal-politics-at-work-b44bef69.md` — 739w
+- 2021-04-23 — [Legacy without nostalgia](https://world.hey.com/dhh/legacy-without-nostalgia-b19708c9) — `2021-04-23-dhh-legacy-without-nostalgia-b19708c9.md` — 542w
+- 2021-04-23 — [HEY will soon let you recycle your emails](https://world.hey.com/dhh/hey-will-soon-let-you-recycle-your-emails-9ea2890d) — `2021-04-23-dhh-hey-will-soon-let-you-recycle-your-emails-9ea2890d.md` — 581w
+- 2021-04-21 — [Apple is an accomplice to fraud](https://world.hey.com/dhh/apple-is-an-accomplice-to-fraud-b4197da7) — `2021-04-21-dhh-apple-is-an-accomplice-to-fraud-b4197da7.md` — 510w
+- 2021-04-20 — [What is a computer?](https://world.hey.com/dhh/what-is-a-computer-a44bf3f3) — `2021-04-20-dhh-what-is-a-computer-a44bf3f3.md` — 716w
+- 2021-04-09 — [The App Store is broken because it wasn't designed to work](https://world.hey.com/dhh/the-app-store-is-broken-because-it-wasn-t-designed-to-work-aa479eb5) — `2021-04-09-dhh-the-app-store-is-broken-because-it-wasn-t-designed-to-work-aa479eb5.md` — 838w
+- 2021-04-05 — [Stop talking about product](https://world.hey.com/dhh/stop-talking-about-product-b57ab7d8) — `2021-04-05-dhh-stop-talking-about-product-b57ab7d8.md` — 373w
+- 2021-03-31 — [It's hard to draw lessons from your own failures](https://world.hey.com/dhh/it-s-hard-to-draw-lessons-from-your-own-failures-d4608094) — `2021-03-31-dhh-it-s-hard-to-draw-lessons-from-your-own-failures-d4608094.md` — 245w
+- 2021-03-26 — [No more platforms please](https://world.hey.com/dhh/no-more-platforms-please-8f01445e) — `2021-03-26-dhh-no-more-platforms-please-8f01445e.md` — 193w
+- 2021-03-19 — [A world without trust is not better](https://world.hey.com/dhh/a-world-without-trust-is-not-better-93d1c7b5) — `2021-03-19-dhh-a-world-without-trust-is-not-better-93d1c7b5.md` — 382w
+- 2021-03-17 — [Google affirms the duopoly grip by following Apple's 15%-on-the-first-million scheme](https://world.hey.com/dhh/google-affirms-the-duopoly-grip-by-following-apple-s-15-on-the-first-million-scheme-c772c319) — `2021-03-17-dhh-google-affirms-the-duopoly-grip-by-following-apple-s-15-on-the-first-million.md` — 336w
+- 2021-03-17 — [Apple in China: Privacy, principles, purses, and pickles](https://world.hey.com/dhh/apple-in-china-privacy-principles-purses-and-pickles-94ea1c2a) — `2021-03-17-dhh-apple-in-china-privacy-principles-purses-and-pickles-94ea1c2a.md` — 967w
+- 2021-03-16 — [What you read is none of their business](https://world.hey.com/dhh/what-you-read-is-none-of-their-business-fc9be7d0) — `2021-03-16-dhh-what-you-read-is-none-of-their-business-fc9be7d0.md` — 863w
+- 2021-03-12 — [The totalitarians of the attention economy](https://world.hey.com/dhh/the-totalitarians-of-the-attention-economy-3e239524) — `2021-03-12-dhh-the-totalitarians-of-the-attention-economy-3e239524.md` — 275w
+- 2021-03-11 — [Memento mori illuminator](https://world.hey.com/dhh/memento-mori-illuminator-30840b2b) — `2021-03-11-dhh-memento-mori-illuminator-30840b2b.md` — 369w
+- 2021-03-10 — [It all began with an email](https://world.hey.com/dhh/it-all-began-with-an-email-a6cfe431) — `2021-03-10-dhh-it-all-began-with-an-email-a6cfe431.md` — 314w
+- 2021-03-09 — [Keep HEY weird](https://world.hey.com/dhh/keep-hey-weird-de3e912c) — `2021-03-09-dhh-keep-hey-weird-de3e912c.md` — 285w
+- 2021-03-08 — [The enclosure of internet commons](https://world.hey.com/dhh/the-enclosure-of-internet-commons-613ed798) — `2021-03-08-dhh-the-enclosure-of-internet-commons-613ed798.md` — 945w
+- 2021-03-08 — [Google suffers from a digital petro curse](https://world.hey.com/dhh/google-suffers-from-a-digital-petro-curse-908e919a) — `2021-03-08-dhh-google-suffers-from-a-digital-petro-curse-908e919a.md` — 574w
+- 2021-03-04 — [The Arizona House stands up to Apple and Google](https://world.hey.com/dhh/the-arizona-house-stands-up-to-apple-and-google-be3fd3bd) — `2021-03-04-dhh-the-arizona-house-stands-up-to-apple-and-google-be3fd3bd.md` — 654w
+- 2021-03-03 — [You gotta read Less Is More](https://world.hey.com/dhh/you-gotta-read-less-is-more-88a4f37f) — `2021-03-03-dhh-you-gotta-read-less-is-more-88a4f37f.md` — 577w
+- 2021-03-03 — [Thinking about HEY World's potential for abuse](https://world.hey.com/dhh/thinking-about-hey-world-s-potential-for-abuse-bd404998) — `2021-03-03-dhh-thinking-about-hey-world-s-potential-for-abuse-bd404998.md` — 1120w
+- 2021-03-02 — [Apple can brick your computer if you miss a payment to Goldman Sachs on the Apple Card](https://world.hey.com/dhh/apple-can-brick-your-computer-if-you-miss-a-payment-to-goldman-sachs-on-the-apple-card-87ef1755) — `2021-03-02-dhh-apple-can-brick-your-computer-if-you-miss-a-payment-to-goldman-sachs-on-the-.md` — 150w
+- 2021-03-01 — [Remote-work surveillance software is vile](https://world.hey.com/dhh/remote-work-surveillance-software-is-vile-ad46e58f) — `2021-03-01-dhh-remote-work-surveillance-software-is-vile-ad46e58f.md` — 750w
+- 2021-02-26 — [Antitrust comes slowly then all at once](https://world.hey.com/dhh/antitrust-comes-slowly-then-all-at-once-5f5eb129) — `2021-02-26-dhh-antitrust-comes-slowly-then-all-at-once-5f5eb129.md` — 1332w
+- 2021-02-25 — [Why Apple, Google, and the rest of email's big players let spy pixels happen](https://world.hey.com/dhh/why-apple-google-and-the-rest-of-email-s-big-players-let-spy-pixels-happen-d2b64208) — `2021-02-25-dhh-why-apple-google-and-the-rest-of-email-s-big-players-let-spy-pixels-happen-d.md` — 838w
+- 2021-02-24 — [We will monetize by charging money](https://world.hey.com/dhh/we-will-monetize-by-charging-money-a1f71413) — `2021-02-24-dhh-we-will-monetize-by-charging-money-a1f71413.md` — 548w
+- 2021-02-24 — [Organic food used to be niche like privacy is today](https://world.hey.com/dhh/organic-food-used-to-be-niche-like-privacy-is-today-7f7a968b) — `2021-02-24-dhh-organic-food-used-to-be-niche-like-privacy-is-today-7f7a968b.md` — 425w
+- 2021-02-22 — [Testimony before the Arizona House of Representatives](https://world.hey.com/dhh/testimony-before-the-arizona-house-of-representatives-e48f3e89) — `2021-02-22-dhh-testimony-before-the-arizona-house-of-representatives-e48f3e89.md` — 744w

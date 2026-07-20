@@ -1,7 +1,7 @@
 # Patrick McKenzie corpus index
 
-Source: https://www.kalzumeus.com — fetched 2026-07-19
-9 posts, 30213 words. Format: date — [title](canonical url) — `file` — words.
+Source: https://www.kalzumeus.com — fetched 2026-07-20
+10 posts, 40968 words. Format: date — [title](canonical url) — `file` — words.
 
 - undated — [What Working At Stripe Has Been Like](https://www.kalzumeus.com/2020/10/09/four-years-at-stripe/) — `undated-2020-10-09-four-years-at-stripe.md` — 6058w
 - undated — [The Working Group's White paper on Japan and covid-19](https://www.kalzumeus.com/covid19-japan-white-paper/) — `undated-covid19-japan-white-paper.md` — 2928w
@@ -12,3 +12,4 @@ Source: https://www.kalzumeus.com — fetched 2026-07-19
 - undated — [Dropping hashes: an idiom used to demonstrate provenance of documents](https://www.kalzumeus.com/essays/dropping-hashes/) — `undated-essays-dropping-hashes.md` — 968w
 - undated — [Bank CEO: Retract your debanking piece? Me: No.](https://www.kalzumeus.com/2025/02/10/retraction-request-denied/) — `undated-2025-02-10-retraction-request-denied.md` — 5529w
 - undated — [App Store Payments Will Have Increased Competition](https://www.kalzumeus.com/2021/08/27/app-store-payment-competition/) — `undated-2021-08-27-app-store-payment-competition.md` — 1975w
+- undated — [An update on a pre-registered result about the coronavirus](https://www.kalzumeus.com/2020/04/21/japan-coronavirus/) — `undated-2020-04-21-japan-coronavirus.md` — 10755w

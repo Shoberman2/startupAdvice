@@ -1,11 +1,13 @@
 # Sam Altman corpus index
 
-Source: https://blog.samaltman.com — fetched 2026-07-19
-54 posts, 41480 words. Format: date — [title](canonical url) — `file` — words.
+Source: https://blog.samaltman.com — fetched 2026-07-20
+116 posts, 98257 words. Format: date — [title](canonical url) — `file` — words.
 
 - 2026-04-10 — [-](https://blog.samaltman.com/2279512) — `2026-04-10-2279512.md` — 1061w
 - 2025-10-04 — [Sora update #1](https://blog.samaltman.com/sora-update-number-1) — `2025-10-04-sora-update-number-1.md` — 393w
 - 2025-09-30 — [Sora 2](https://blog.samaltman.com/sora-2) — `2025-09-30-sora-2.md` — 663w
+- 2025-09-23 — [Abundant Intelligence](https://blog.samaltman.com/abundant-intelligence) — `2025-09-23-abundant-intelligence.md` — 356w
+- 2025-09-09 — [Jakub and Szymon](https://blog.samaltman.com/jakub-and-szymon) — `2025-09-09-jakub-and-szymon.md` — 309w
 - 2025-06-10 — [The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity) — `2025-06-10-the-gentle-singularity.md` — 1738w
 - 2025-02-09 — [Three Observations](https://blog.samaltman.com/three-observations) — `2025-02-09-three-observations.md` — 1320w
 - 2025-01-06 — [Reflections](https://blog.samaltman.com/reflections) — `2025-01-06-reflections.md` — 1950w
@@ -33,14 +35,17 @@ Source: https://blog.samaltman.com — fetched 2026-07-19
 - 2017-12-07 — [The Merge](https://blog.samaltman.com/the-merge) — `2017-12-07-the-merge.md` — 716w
 - 2017-11-27 — [American Equity](https://blog.samaltman.com/american-equity) — `2017-11-27-american-equity.md` — 678w
 - 2017-07-12 — [The United Slate](https://blog.samaltman.com/the-united-slate) — `2017-07-12-the-united-slate.md` — 166w
+- 2017-05-19 — [Join the YC Software Team](https://blog.samaltman.com/join-the-yc-software-team) — `2017-05-19-join-the-yc-software-team.md` — 144w
 - 2017-04-21 — [Quora](https://blog.samaltman.com/quora) — `2017-04-21-quora.md` — 290w
 - 2017-03-31 — [Tech Workers' Values](https://blog.samaltman.com/tech-workers-values) — `2017-03-31-tech-workers-values.md` — 245w
+- 2017-03-14 — [Keep the Internet Open](https://blog.samaltman.com/keep-the-internet-open) — `2017-03-14-keep-the-internet-open.md` — 533w
 - 2017-03-07 — [Greg](https://blog.samaltman.com/greg) — `2017-03-07-greg.md` — 484w
 - 2017-02-21 — [What I Heard From Trump Supporters](https://blog.samaltman.com/what-i-heard-from-trump-supporters) — `2017-02-21-what-i-heard-from-trump-supporters.md` — 2148w
 - 2017-02-16 — [2017 YC Annual Letter](https://blog.samaltman.com/2017-yc-annual-letter) — `2017-02-16-2017-yc-annual-letter.md` — 3136w
 - 2017-01-28 — [Time to Take a Stand](https://blog.samaltman.com/time-to-take-a-stand) — `2017-01-28-time-to-take-a-stand.md` — 620w
 - 2017-01-13 — [Affordable Care](https://blog.samaltman.com/affordable-care) — `2017-01-13-affordable-care.md` — 2096w
 - 2016-10-17 — [The 2016 Election](https://blog.samaltman.com/the-2016-election) — `2016-10-17-the-2016-election.md` — 584w
+- 2016-09-26 — [$1 Million VotePlz Sweepstakes](https://blog.samaltman.com/1-dollars-million-voteplz-sweepstakes) — `2016-09-26-1-dollars-million-voteplz-sweepstakes.md` — 215w
 - 2016-06-20 — [Trump](https://blog.samaltman.com/trump) — `2016-06-20-trump.md` — 685w
 - 2016-06-15 — ['We're in a Bubble'](https://blog.samaltman.com/were-in-a-bubble) — `2016-06-15-were-in-a-bubble.md` — 378w
 - 2016-05-26 — [Housing in the Bay Area](https://blog.samaltman.com/housing-in-the-bay-area) — `2016-05-26-housing-in-the-bay-area.md` — 256w
@@ -57,3 +62,60 @@ Source: https://blog.samaltman.com — fetched 2026-07-19
 - 2015-08-12 — [Projects and Companies](https://blog.samaltman.com/projects-and-companies) — `2015-08-12-projects-and-companies.md` — 532w
 - 2015-06-29 — [Energy](https://blog.samaltman.com/energy) — `2015-06-29-energy.md` — 523w
 - 2015-04-28 — [The days are long but the decades are short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short) — `2015-04-28-the-days-are-long-but-the-decades-are-short.md` — 1284w
+- 2015-03-24 — [Bubble talk](https://blog.samaltman.com/bubble-talk) — `2015-03-24-bubble-talk.md` — 526w
+- 2015-03-03 — [Technology predictions](https://blog.samaltman.com/technology-predictions) — `2015-03-03-technology-predictions.md` — 201w
+- 2015-03-02 — [Machine intelligence, part 2](https://blog.samaltman.com/machine-intelligence-part-2) — `2015-03-02-machine-intelligence-part-2.md` — 1329w
+- 2015-02-25 — [Machine intelligence, part 1](https://blog.samaltman.com/machine-intelligence-part-1) — `2015-02-25-machine-intelligence-part-1.md` — 1095w
+- 2015-02-20 — [Startup advice, briefly](https://blog.samaltman.com/startup-advice-briefly) — `2015-02-20-startup-advice-briefly.md` — 878w
+- 2015-02-16 — [The Software Revolution](https://blog.samaltman.com/the-software-revolution) — `2015-02-16-the-software-revolution.md` — 948w
+- 2015-02-11 — [China](https://blog.samaltman.com/china) — `2015-02-11-china.md` — 1006w
+- 2015-02-10 — [FarmLogs](https://blog.samaltman.com/farmlogs) — `2015-02-10-farmlogs.md` — 273w
+- 2015-01-14 — [Policy for Growth and Innovation](https://blog.samaltman.com/policy-for-growth-and-innovation) — `2015-01-14-policy-for-growth-and-innovation.md` — 2064w
+- 2014-11-13 — [A new team at reddit](https://blog.samaltman.com/a-new-team-at-reddit) — `2014-11-13-a-new-team-at-reddit.md` — 314w
+- 2014-11-12 — [A Question](https://blog.samaltman.com/a-question) — `2014-11-12-a-question.md` — 256w
+- 2014-11-11 — [Board Members](https://blog.samaltman.com/board-members) — `2014-11-11-board-members.md` — 458w
+- 2014-11-03 — [Why Silicon Valley Works](https://blog.samaltman.com/why-silicon-valley-works) — `2014-11-03-why-silicon-valley-works.md` — 675w
+- 2014-09-30 — [reddit](https://blog.samaltman.com/reddit) — `2014-09-30-reddit.md` — 367w
+- 2014-09-15 — [Applying to YC](https://blog.samaltman.com/applying-to-yc) — `2014-09-15-applying-to-yc.md` — 281w
+- 2014-08-07 — [Stupid Apps and Changing the World](https://blog.samaltman.com/stupid-apps-and-changing-the-world) — `2014-08-07-stupid-apps-and-changing-the-world.md` — 420w
+- 2014-07-29 — [Uber vs Car Ownership](https://blog.samaltman.com/uber-vs-car-ownership) — `2014-07-29-uber-vs-car-ownership.md` — 319w
+- 2014-07-28 — [Black Swan Seed Rounds](https://blog.samaltman.com/black-swan-seed-rounds) — `2014-07-28-black-swan-seed-rounds.md` — 598w
+- 2014-07-14 — [Net neutrality](https://blog.samaltman.com/net-neutrality) — `2014-07-14-net-neutrality.md` — 410w
+- 2014-06-30 — [The Economy](https://blog.samaltman.com/the-economy) — `2014-06-30-the-economy.md` — 651w
+- 2014-06-29 — [You and Your Research, by Richard Hamming](https://blog.samaltman.com/you-and-your-research) — `2014-06-29-you-and-your-research.md` — 13124w
+- 2014-06-20 — [Valuations](https://blog.samaltman.com/valuations) — `2014-06-20-valuations.md` — 1130w
+- 2014-06-13 — [Founder Depression](https://blog.samaltman.com/founder-depression) — `2014-06-13-founder-depression.md` — 272w
+- 2014-04-30 — [Bitcoin Price Pressure](https://blog.samaltman.com/bitcoin-price-pressure) — `2014-04-30-bitcoin-price-pressure.md` — 515w
+- 2014-04-18 — [Employee Equity](https://blog.samaltman.com/employee-equity) — `2014-04-18-employee-equity.md` — 1619w
+- 2014-04-16 — [The Worst Part of YC](https://blog.samaltman.com/the-worst-part-of-yc) — `2014-04-16-the-worst-part-of-yc.md` — 261w
+- 2014-03-25 — [Startups, Role Models, Risk, and Y Combinator](https://blog.samaltman.com/startups-role-models-risk-and-y-combinator) — `2014-03-25-startups-role-models-risk-and-y-combinator.md` — 766w
+- 2014-03-21 — [What I've Learned From Female Founders So Far](https://blog.samaltman.com/what-ive-learned-from-female-founders-so-far) — `2014-03-21-what-ive-learned-from-female-founders-so-far.md` — 876w
+- 2014-03-19 — [New RFS -- Breakthrough Technologies](https://blog.samaltman.com/new-rfs-breakthrough-technologies) — `2014-03-19-new-rfs-breakthrough-technologies.md` — 1270w
+- 2014-03-17 — [The Founder Visa (again)](https://blog.samaltman.com/the-founder-visa-again) — `2014-03-17-the-founder-visa-again.md` — 390w
+- 2014-02-20 — [Fundraising Mistakes Founders Make](https://blog.samaltman.com/fundraising-mistakes-founder-make) — `2014-02-20-fundraising-mistakes-founder-make.md` — 165w
+- 2014-02-19 — [AI](https://blog.samaltman.com/ai) — `2014-02-19-ai.md` — 652w
+- 2014-02-18 — [The Engineer Crunch](https://blog.samaltman.com/the-engineer-crunch) — `2014-02-18-the-engineer-crunch.md` — 711w
+- 2014-02-10 — [Anonymity](https://blog.samaltman.com/anonymity) — `2014-02-10-anonymity.md` — 291w
+- 2014-01-28 — [Technology and wealth inequality](https://blog.samaltman.com/technology-and-wealth-inequality) — `2014-01-28-technology-and-wealth-inequality.md` — 1397w
+- 2014-01-16 — [Value is created by doing](https://blog.samaltman.com/value-is-created-by-doing) — `2014-01-16-value-is-created-by-doing.md` — 754w
+- 2014-01-15 — [Super successful companies](https://blog.samaltman.com/super-successful-companies) — `2014-01-15-super-successful-companies.md` — 1222w
+- 2013-12-11 — [H5N1](https://blog.samaltman.com/h5n1) — `2013-12-11-h5n1.md` — 728w
+- 2013-12-09 — [Employee Retention](https://blog.samaltman.com/employee-retention) — `2013-12-09-employee-retention.md` — 1057w
+- 2013-12-03 — [The Only Way to Grow Huge](https://blog.samaltman.com/the-only-way-to-grow-huge) — `2013-12-03-the-only-way-to-grow-huge.md` — 279w
+- 2013-12-01 — [Thoughts on Bitcoin](https://blog.samaltman.com/thoughts-on-bitcoin) — `2013-12-01-thoughts-on-bitcoin.md` — 937w
+- 2013-10-31 — [Non-technical founder? Learn to hack](https://blog.samaltman.com/non-technical-founder-learn-to-hack) — `2013-10-31-non-technical-founder-learn-to-hack.md` — 529w
+- 2013-10-08 — [The separation of advice and money](https://blog.samaltman.com/the-separation-of-advice-and-money) — `2013-10-08-the-separation-of-advice-and-money.md` — 544w
+- 2013-09-24 — [What to do if a bubble is starting](https://blog.samaltman.com/what-to-do-if-a-bubble-is-starting) — `2013-09-24-what-to-do-if-a-bubble-is-starting.md` — 474w
+- 2013-09-23 — [How to hire](https://blog.samaltman.com/how-to-hire) — `2013-09-23-how-to-hire.md` — 2738w
+- 2013-08-28 — [Electrons and Atoms](https://blog.samaltman.com/electrons-and-atoms) — `2013-08-28-electrons-and-atoms.md` — 454w
+- 2013-07-17 — [How things get done](https://blog.samaltman.com/how-things-get-done) — `2013-07-17-how-things-get-done.md` — 614w
+- 2013-06-24 — [Advice for ambitious 19 year olds](https://blog.samaltman.com/advice-for-ambitious-19-year-olds) — `2013-06-24-advice-for-ambitious-19-year-olds.md` — 974w
+- 2013-06-20 — [What happened to innovation?](https://blog.samaltman.com/what-happened-to-innovation-1) — `2013-06-20-what-happened-to-innovation-1.md` — 2159w
+- 2013-06-06 — [Premature optimization](https://blog.samaltman.com/premature-optimization) — `2013-06-06-premature-optimization.md` — 224w
+- 2013-06-05 — [Party rounds](https://blog.samaltman.com/party-rounds) — `2013-06-05-party-rounds.md` — 422w
+- 2013-06-04 — [A founder-friendly term sheet](https://blog.samaltman.com/a-founder-friendly-term-sheet) — `2013-06-04-a-founder-friendly-term-sheet.md` — 404w
+- 2013-06-03 — [Startup Advice](https://blog.samaltman.com/startup-advice) — `2013-06-03-startup-advice.md` — 1384w
+- 2013-03-28 — [By endurance we conquer](https://blog.samaltman.com/by-endurance-we-conquer) — `2013-03-28-by-endurance-we-conquer.md` — 163w
+- 2013-03-25 — [Upside risk](https://blog.samaltman.com/upside-risk) — `2013-03-25-upside-risk.md` — 359w
+- 2013-03-18 — [Software to avoid the software people](https://blog.samaltman.com/software-to-avoid-the-software-people) — `2013-03-18-software-to-avoid-the-software-people.md` — 151w
+- 2013-03-05 — [Growth and Government](https://blog.samaltman.com/growth-and-government) — `2013-03-05-growth-and-government.md` — 2142w

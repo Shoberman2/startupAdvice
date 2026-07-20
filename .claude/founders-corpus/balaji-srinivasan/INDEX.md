@@ -1,13 +1,11 @@
 # Balaji Srinivasan corpus index
 
-Source: https://balajis.com — fetched 2026-07-19
-97 posts, 175671 words. Format: date — [title](canonical url) — `file` — words.
+Source: https://balajis.com — fetched 2026-07-20
+96 posts, 171152 words. Format: date — [title](canonical url) — `file` — words.
 
 - undated — [Zcash, the HTTPS of Blockchains](https://balajis.com/p/zcash-the-https-of-blockchains) — `undated-p-zcash-the-https-of-blockchains.md` — 1077w
 - undated — [Yes, You May Need a Blockchain](https://balajis.com/p/yes-you-may-need-a-blockchain) — `undated-p-yes-you-may-need-a-blockchain.md` — 2445w
 - undated — [Why India Should Buy Bitcoin](https://balajis.com/p/why-india-should-buy-bitcoin) — `undated-p-why-india-should-buy-bitcoin.md` — 4700w
-- undated — [What will happen to cryptocurrency in the 2020s?](https://balajis.com/p/crypto-in-the-2020s) — `undated-p-crypto-in-the-2020s.md` — 1782w
-- undated — [What are the Key Properties of Bitcoin?](https://balajis.com/p/what-are-the-key-properties-of-bitcoin) — `undated-p-what-are-the-key-properties-of-bitcoin.md` — 3412w
 - undated — [Voluntary Governments](https://balajis.com/p/voluntary-governments) — `undated-p-voluntary-governments.md` — 1665w
 - undated — [Tweet an Invention Worthy of BoredElonMusk](https://balajis.com/p/boredelonmusk) — `undated-p-boredelonmusk.md` — 243w
 - undated — [Too Fake to Tell](https://balajis.com/p/too-fake-to-tell) — `undated-p-too-fake-to-tell.md` — 3059w
@@ -38,10 +36,10 @@ Source: https://balajis.com — fetched 2026-07-19
 - undated — [Summary: The Network State](https://balajis.com/p/summary) — `undated-p-summary.md` — 1245w
 - undated — [Spatial Software](https://balajis.com/p/spatial-software) — `undated-p-spatial-software.md` — 2721w
 - undated — [Spatial Interfaces](https://balajis.com/p/spatial-interfaces) — `undated-p-spatial-interfaces.md` — 3089w
+- undated — [Software is Reorganizing the World [2013]](https://balajis.com/p/software-is-reorganizing-the-world) — `undated-p-software-is-reorganizing-the-world.md` — 2464w
 - undated — [Satoshi Nakamoto](https://balajis.com/p/satoshi-nakamoto) — `undated-p-satoshi-nakamoto.md` — 1583w
 - undated — [Refer Task Sponsors](https://balajis.com/p/refer-task-sponsors) — `undated-p-refer-task-sponsors.md` — 778w
 - undated — [Quantum computing and proof-of](https://balajis.com/p/quantum-computing-and-proof-of-memory) — `undated-p-quantum-computing-and-proof-of-memory.md` — 1075w
-- undated — [Public](https://balajis.com/p/public-key-cryptography) — `undated-p-public-key-cryptography.md` — 4014w
 - undated — [Proof-of](https://balajis.com/p/proof-of-workout-habit) — `undated-p-proof-of-workout-habit.md` — 349w
 - undated — [Proof-of](https://balajis.com/p/proof-of-workout-fitness-dashboards) — `undated-p-proof-of-workout-fitness-dashboards.md` — 413w
 - undated — [Proof-of](https://balajis.com/p/proof-of-workout) — `undated-p-proof-of-workout.md` — 1039w
@@ -87,6 +85,7 @@ Source: https://balajis.com — fetched 2026-07-19
 - undated — [Bond Villain](https://balajis.com/p/bond-villain) — `undated-p-bond-villain.md` — 1646w
 - undated — [Bitcoin's P2P Network](https://balajis.com/p/bitcoins-p2p-network) — `undated-p-bitcoins-p2p-network.md` — 1465w
 - undated — [Bitcoin becomes the Flag of Technology](https://balajis.com/p/bitcoin-becomes-the-flag-of-technology) — `undated-p-bitcoin-becomes-the-flag-of-technology.md` — 3154w
+- undated — [And What Has the Blockchain Ever Done for Us?](https://balajis.com/p/and-what-has-the-blockchain-ever-done-for-us) — `undated-p-and-what-has-the-blockchain-ever-done-for-us.md` — 2225w
 - undated — [America's $175T Problem](https://balajis.com/p/americas-175-trillion-problem) — `undated-p-americas-175-trillion-problem.md` — 1287w
 - undated — [All Property Becomes Cryptography](https://balajis.com/p/all-property-becomes-cryptography) — `undated-p-all-property-becomes-cryptography.md` — 408w
 - undated — [All It Takes Is All You Got](https://balajis.com/p/all-it-takes-is-all-you-got) — `undated-p-all-it-takes-is-all-you-got.md` — 1316w

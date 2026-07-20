@@ -1,6 +1,6 @@
 # Marc Andreessen corpus index
 
-Source: https://pmarca.substack.com — fetched 2026-07-19
+Source: https://pmarca.substack.com — fetched 2026-07-20
 13 posts, 21379 words. Format: date — [title](canonical url) — `file` — words.
 
 - undated — [Why AI Won't Cause Unemployment](https://pmarca.substack.com/p/why-ai-wont-cause-unemployment) — `undated-p-why-ai-wont-cause-unemployment.md` — 624w

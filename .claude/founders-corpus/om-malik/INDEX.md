@@ -1,7 +1,7 @@
 # Om Malik corpus index
 
 Source: https://om.co — fetched 2026-07-20
-97 posts, 98021 words. Format: date — [title](canonical url) — `file` — words.
+863 posts, 554532 words. Format: date — [title](canonical url) — `file` — words.
 
 - 2026-06-08 — [Taking a Few Days Off](https://om.co/2026/06/08/taking-a-few-days-off/) — `2026-06-08-2026-06-08-taking-a-few-days-off.md` — 129w
 - 2026-06-07 — [The Myth, the Mythos and the Man](https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/) — `2026-06-07-2026-06-07-the-myth-the-mythos-and-the-man.md` — 2028w
@@ -100,3 +100,769 @@ Source: https://om.co — fetched 2026-07-20
 - 2025-12-30 — [A Morning (Photo) Walk](https://om.co/2025/12/30/a-morning-photo-walk/) — `2025-12-30-2025-12-30-a-morning-photo-walk.md` — 215w
 - 2025-12-27 — [#18 & AI: 2025 Reading List](https://om.co/2025/12/27/18-ai-2025-reading-list/) — `2025-12-27-2025-12-27-18-ai-2025-reading-list.md` — 905w
 - 2025-12-17 — [Lady In Red](https://om.co/2025/12/17/lady-in-red/) — `2025-12-17-2025-12-17-lady-in-red.md` — 211w
+- 2025-11-28 — [Leftovers](https://om.co/2025/11/28/leftovers/) — `2025-11-28-2025-11-28-leftovers.md` — 221w
+- 2025-11-25 — [An Accidental Grail](https://om.co/2025/11/25/an-accidental-grail/) — `2025-11-25-2025-11-25-an-accidental-grail.md` — 360w
+- 2025-11-13 — [The Harmonic](https://om.co/2025/11/13/the-harmonic/) — `2025-11-13-2025-11-13-the-harmonic.md` — 391w
+- 2025-11-07 — [The Patina of Words](https://om.co/2025/11/07/the-patina-of-words/) — `2025-11-07-2025-11-07-the-patina-of-words.md` — 456w
+- 2025-11-06 — [Why Value Outlasts Valuation](https://om.co/2025/11/06/why-value-outlasts-valuation/) — `2025-11-06-2025-11-06-why-value-outlasts-valuation.md` — 1206w
+- 2025-11-05 — [The Unseen Joy of Hooligan](https://om.co/2025/11/05/the-unseen-joy-of-hooligan/) — `2025-11-05-2025-11-05-the-unseen-joy-of-hooligan.md` — 758w
+- 2025-11-02 — [The World Series & The Weekend Reader](https://om.co/2025/11/02/the-world-series-the-weekend-reader/) — `2025-11-02-2025-11-02-the-world-series-the-weekend-reader.md` — 1145w
+- 2025-10-29 — [Why Tech Needs Personalization](https://om.co/2025/10/29/why-tech-needs-personalization/) — `2025-10-29-2025-10-29-why-tech-needs-personalization.md` — 907w
+- 2025-10-20 — [Fall Classic, 5 GoodReads & Happy Diwali](https://om.co/2025/10/20/fall-classic-5-goodreads-happy-diwali/) — `2025-10-20-2025-10-20-fall-classic-5-goodreads-happy-diwali.md` — 767w
+- 2025-10-11 — [The Inverse Law of Conference Speaking](https://om.co/2025/10/11/the-inverse-law-of-conference-speaking/) — `2025-10-11-2025-10-11-the-inverse-law-of-conference-speaking.md` — 1096w
+- 2025-10-08 — [Sunset in Saint Malo](https://om.co/2025/10/08/sunset-in-saint-malo/) — `2025-10-08-2025-10-08-sunset-in-saint-malo.md` — 161w
+- 2025-10-08 — [My Pilot (pen) gets a new life](https://om.co/2025/10/08/my-pilot-pen-gets-a-new-life/) — `2025-10-08-2025-10-08-my-pilot-pen-gets-a-new-life.md` — 776w
+- 2025-10-04 — [Pen Review – Leonardo Momento Zero Brooks   Bohemian Twilight (Pen Chalet x Leonardo, 2022)](https://om.co/2025/10/04/pen-review-leonardo-momento-zero-pen-chalet-x-leonardo-2019/) — `2025-10-04-2025-10-04-pen-review-leonardo-momento-zero-pen-chalet-x-leonardo-2019.md` — 497w
+- 2025-09-29 — [A Symphony in Green and Gold](https://om.co/2025/09/29/a-symphony-in-green-and-gold/) — `2025-09-29-2025-09-29-a-symphony-in-green-and-gold.md` — 381w
+- 2025-09-22 — [Go Out & Get Some Air](https://om.co/2025/09/22/go-out-get-some-air/) — `2025-09-22-2025-09-22-go-out-get-some-air.md` — 843w
+- 2025-09-10 — [What Ben & John Don’t Get](https://om.co/2025/09/10/what-ben-john-dont-get/) — `2025-09-10-2025-09-10-what-ben-john-dont-get.md` — 525w
+- 2025-09-10 — [The iPhone 17 Event: Less Awe, More Unsexy & That’s A Good Thing](https://om.co/2025/09/10/the-iphone-17-event-less-awe-more-unsexy-thats-a-good-thing/) — `2025-09-10-2025-09-10-the-iphone-17-event-less-awe-more-unsexy-thats-a-good-thing.md` — 2018w
+- 2025-09-09 — [A Meditation on iPhone, Time, & FOMO](https://om.co/2025/09/09/a-meditation-on-iphone-time-fomo/) — `2025-09-09-2025-09-09-a-meditation-on-iphone-time-fomo.md` — 611w
+- 2025-09-06 — [Why I Started This Newsletter](https://om.co/2025/09/06/why-i-started-this-newsletter/) — `2025-09-06-2025-09-06-why-i-started-this-newsletter.md` — 645w
+- 2025-09-01 — [An End to Summer](https://om.co/2025/09/01/an-end-to-summer/) — `2025-09-01-2025-09-01-an-end-to-summer.md` — 1022w
+- 2025-08-06 — [Why AI Disrupts Software First](https://om.co/2025/08/06/why-ai-disrupts-software-first/) — `2025-08-06-2025-08-06-why-ai-disrupts-software-first.md` — 405w
+- 2025-08-03 — [The Why of Substack](https://om.co/2025/08/03/the-why-of-substack/) — `2025-08-03-2025-08-03-the-why-of-substack.md` — 1462w
+- 2025-07-31 — [Meta’s Favorite Product Isn’t AI. It’s the Copy Button.](https://om.co/2025/07/31/metas-favorite-product-isnt-ai-its-the-copy-button/) — `2025-07-31-2025-07-31-metas-favorite-product-isnt-ai-its-the-copy-button.md` — 1120w
+- 2025-07-30 — [Decoding Zuck’s Superintelligence Memo](https://om.co/2025/07/30/decoding-zucks-superintelligence-memo/) — `2025-07-30-2025-07-30-decoding-zucks-superintelligence-memo.md` — 1712w
+- 2025-07-26 — [The Satya of Satya’s Layoff Memo](https://om.co/2025/07/26/the-satya-of-satyas-layoff-memo/) — `2025-07-26-2025-07-26-the-satya-of-satyas-layoff-memo.md` — 827w
+- 2025-07-20 — [Exit Stage Colbert](https://om.co/2025/07/20/exit-stage-colbert/) — `2025-07-20-2025-07-20-exit-stage-colbert.md` — 239w
+- 2025-07-20 — [Et. Tu FT?](https://om.co/2025/07/20/et-tu-ft/) — `2025-07-20-2025-07-20-et-tu-ft.md` — 135w
+- 2025-07-19 — [07.19.2025: The Weekend Edition](https://om.co/2025/07/19/07-19-2025-the-weekend-edition/) — `2025-07-19-2025-07-19-07-19-2025-the-weekend-edition.md` — 463w
+- 2025-07-17 — [Uber’s Robotaxi Is No Quick Delivery](https://om.co/2025/07/17/ubers-robotaxi-is-no-quick-delivery/) — `2025-07-17-2025-07-17-ubers-robotaxi-is-no-quick-delivery.md` — 813w
+- 2025-07-16 — [An&nbsp;Immigrant Story&nbsp;](https://om.co/2025/07/16/an-immigrant-story/) — `2025-07-16-2025-07-16-an-immigrant-story.md` — 149w
+- 2025-06-30 — [What Founders Can Learn From Topaz Labs](https://om.co/2025/06/30/what-founder-can-learn-from-topaz-labs/) — `2025-06-30-2025-06-30-what-founder-can-learn-from-topaz-labs.md` — 445w
+- 2025-06-26 — [Mac Finder Redesign? Snooze](https://om.co/2025/06/26/mac-finder-redesign-snooze/) — `2025-06-26-2025-06-26-mac-finder-redesign-snooze.md` — 169w
+- 2025-06-24 — [Here comes the Internet of “tolls”](https://om.co/2025/06/24/here-come-the-internet-of-tolls/) — `2025-06-24-2025-06-24-here-come-the-internet-of-tolls.md` — 400w
+- 2025-06-23 — [My Big Beta Weekend](https://om.co/2025/06/23/my-big-beta-weekend/) — `2025-06-23-2025-06-23-my-big-beta-weekend.md` — 893w
+- 2025-06-23 — [Back after a break](https://om.co/2025/06/23/back-after-a-break/) — `2025-06-23-2025-06-23-back-after-a-break.md` — 141w
+- 2025-06-16 — [Is Sigma BF worth the hype?](https://om.co/2025/06/16/is-sigma-bp-worth-the-hype/) — `2025-06-16-2025-06-16-is-sigma-bp-worth-the-hype.md` — 458w
+- 2025-06-11 — [Will Apple Stream Live F1 (Racing)?](https://om.co/2025/06/11/will-apple-stream-live-f1-racing/) — `2025-06-11-2025-06-11-will-apple-stream-live-f1-racing.md` — 354w
+- 2025-05-28 — [George Dyson on AI](https://om.co/2025/05/28/george-dyson-on-ai/) — `2025-05-28-2025-05-28-george-dyson-on-ai.md` — 271w
+- 2025-05-23 — [What’s Half of Nothing?](https://om.co/2025/05/23/fujix-half-camera-is-dumb/) — `2025-05-23-2025-05-23-fujix-half-camera-is-dumb.md` — 364w
+- 2025-05-22 — [OpenAI, Jony Ive & the Art of the Deal](https://om.co/2025/05/22/openai-ive-the-art-of-the-deal/) — `2025-05-22-2025-05-22-openai-ive-the-art-of-the-deal.md` — 585w
+- 2025-05-21 — [Why did OpenAI buy Jony Ive & Co](https://om.co/2025/05/21/why-did-openai-buy-jony-ive-co/) — `2025-05-21-2025-05-21-why-did-openai-buy-jony-ive-co.md` — 191w
+- 2025-05-20 — [The Method of the Monster](https://om.co/2025/05/20/gravitas-pens-ben-walsh-monster-pen/) — `2025-05-20-2025-05-20-gravitas-pens-ben-walsh-monster-pen.md` — 2335w
+- 2025-05-19 — [The Real Cost of Chinese Open-Source AI](https://om.co/2025/05/19/the-real-cost-of-chinese-open-source-ai/) — `2025-05-19-2025-05-19-the-real-cost-of-chinese-open-source-ai.md` — 523w
+- 2025-05-18 — [Designing a Life](https://om.co/2025/05/18/designing-a-life/) — `2025-05-18-2025-05-18-designing-a-life.md` — 1130w
+- 2025-05-17 — [What an Unusual Week](https://om.co/2025/05/17/what-an-unusual-week/) — `2025-05-17-2025-05-17-what-an-unusual-week.md` — 1338w
+- 2025-05-07 — [Satellites, Fixed Wireless Reshape Global Broadband Landscape”](https://om.co/2025/05/07/satellites-fixed-wireless-reshape-global-broadband-landscape/) — `2025-05-07-2025-05-07-satellites-fixed-wireless-reshape-global-broadband-landscape.md` — 833w
+- 2025-05-06 — [R.I.P. Skype!](https://om.co/2025/05/06/r-i-p-skype/) — `2025-05-06-2025-05-06-r-i-p-skype.md` — 487w
+- 2025-05-04 — [Spring has sprung](https://om.co/2025/05/04/a-letter-from-om-may-2025-edition/) — `2025-05-04-2025-05-04-a-letter-from-om-may-2025-edition.md` — 757w
+- 2025-04-28 — [What ChatGPT Saw in My Handwriting](https://om.co/2025/04/28/what-chatgpt-saw-in-my-handwriting/) — `2025-04-28-2025-04-28-what-chatgpt-saw-in-my-handwriting.md` — 666w
+- 2025-04-28 — [No Gruber, this is why Facebook renamed itself](https://om.co/2025/04/28/no-gruber-this-is-why-facebook-renamed-itself/) — `2025-04-28-2025-04-28-no-gruber-this-is-why-facebook-renamed-itself.md` — 217w
+- 2025-04-25 — [Why Was Brad Feld Hibernating](https://om.co/2025/04/25/why-was-brad-feld-hibernating/) — `2025-04-25-2025-04-25-why-was-brad-feld-hibernating.md` — 218w
+- 2025-04-25 — [A Questionable Transition into Summer](https://om.co/2025/04/25/a-questionable-transition-into-summer/) — `2025-04-25-2025-04-25-a-questionable-transition-into-summer.md` — 183w
+- 2025-04-23 — [Where did SF’s Homeless Go?](https://om.co/2025/04/23/where-did-sfs-homeless-go/) — `2025-04-23-2025-04-23-where-did-sfs-homeless-go.md` — 181w
+- 2025-04-23 — [The Upside of Google, the SEO Cop](https://om.co/2025/04/23/the-upside-of-google-the-seo-cop/) — `2025-04-23-2025-04-23-the-upside-of-google-the-seo-cop.md` — 173w
+- 2025-04-23 — [The End of the Paper Passport?](https://om.co/2025/04/23/the-end-of-the-paper-passport/) — `2025-04-23-2025-04-23-the-end-of-the-paper-passport.md` — 269w
+- 2025-04-23 — [So iPhone Worth More Than Samsung for Google?](https://om.co/2025/04/23/so-iphone-worth-more-than-samsung-for-google/) — `2025-04-23-2025-04-23-so-iphone-worth-more-than-samsung-for-google.md` — 121w
+- 2025-04-08 — [The Silent Collapse of Photo Licensing](https://om.co/2025/04/08/the-silent-collapse-generative-ais-erosion-of-photo-licensing-revenue-kaptur/) — `2025-04-08-2025-04-08-the-silent-collapse-generative-ais-erosion-of-photo-licensing-revenue.md` — 231w
+- 2025-04-08 — [The Return of the Dire Wolf (or not)](https://om.co/2025/04/08/the-return-of-the-dire-wolf/) — `2025-04-08-2025-04-08-the-return-of-the-dire-wolf.md` — 366w
+- 2025-04-08 — [Meta Fudging Facts Again. This time about AI](https://om.co/2025/04/08/meta-fudging-facts-again-this-time-about-ai-3/) — `2025-04-08-2025-04-08-meta-fudging-facts-again-this-time-about-ai-3.md` — 176w
+- 2025-04-05 — [Why AI is at “Tariff” risk](https://om.co/2025/04/05/why-ai-is-at-tariff-risk/) — `2025-04-05-2025-04-05-why-ai-is-at-tariff-risk.md` — 240w
+- 2025-04-05 — [Telecom braces for “Tariff” Storm](https://om.co/2025/04/05/telecom-braces-for-tarriff-storm/) — `2025-04-05-2025-04-05-telecom-braces-for-tarriff-storm.md` — 191w
+- 2025-04-04 — [A torpedo “bat” of innovation?](https://om.co/2025/04/04/a-torpedo-bat-of-innovation/) — `2025-04-04-2025-04-04-a-torpedo-bat-of-innovation.md` — 747w
+- 2025-03-31 — [Why some people love AI and others don’t](https://om.co/2025/03/31/why-some-people-love-ai-and-others-dont/) — `2025-03-31-2025-03-31-why-some-people-love-ai-and-others-dont.md` — 208w
+- 2025-03-29 — [When AI Whispers in Ink](https://om.co/2025/03/29/when-ai-whispers-in-ink/) — `2025-03-29-2025-03-29-when-ai-whispers-in-ink.md` — 692w
+- 2025-03-29 — [The Mediocrity of Modern Google](https://om.co/2025/03/29/the-mediocrity-of-modern-google/) — `2025-03-29-2025-03-29-the-mediocrity-of-modern-google.md` — 955w
+- 2025-03-25 — [Why Style Needs Consitency?](https://om.co/2025/03/25/why-style-needs-consitency/) — `2025-03-25-2025-03-25-why-style-needs-consitency.md` — 207w
+- 2025-03-25 — [Why BlueSky is Winning](https://om.co/2025/03/25/why-bluesky-is-winning/) — `2025-03-25-2025-03-25-why-bluesky-is-winning.md` — 338w
+- 2025-03-25 — [Bijan on the blog again](https://om.co/2025/03/25/bijan-on-the-blog-again/) — `2025-03-25-2025-03-25-bijan-on-the-blog-again.md` — 183w
+- 2025-03-24 — [How to delete for 23andMe data & Test Sample](https://om.co/2025/03/24/how-to-delete-for-23andme-data-test-sample/) — `2025-03-24-2025-03-24-how-to-delete-for-23andme-data-test-sample.md` — 198w
+- 2025-03-20 — [SoftBank Acquires Ampere by ex-Intel Team for $6.5 billion](https://om.co/2025/03/20/big-payout-day-for-ex-intel-team/) — `2025-03-20-2025-03-20-big-payout-day-for-ex-intel-team.md` — 213w
+- 2025-03-20 — [Has Search Become Just a Feature?](https://om.co/2025/03/20/has-search-become-just-a-feature/) — `2025-03-20-2025-03-20-has-search-become-just-a-feature.md` — 852w
+- 2025-03-19 — [Who Shot This? An anonymous photographer who captured the 60s](https://om.co/2025/03/19/who-shot-this-an-anonymous-photographer-who-captured-the-60s/) — `2025-03-19-2025-03-19-who-shot-this-an-anonymous-photographer-who-captured-the-60s.md` — 187w
+- 2025-03-19 — [Impact of Cardiovascular Diseases based on income](https://om.co/2025/03/19/impact-of-cardiovascular-diseases-based-on-income/) — `2025-03-19-2025-03-19-impact-of-cardiovascular-diseases-based-on-income.md` — 122w
+- 2025-03-19 — [Are we coming to a point of broadband saturation?](https://om.co/2025/03/19/are-we-coming-to-a-point-of-broadband-saturation/) — `2025-03-19-2025-03-19-are-we-coming-to-a-point-of-broadband-saturation.md` — 147w
+- 2025-03-19 — [American Midwest Dreams of Making Chips](https://om.co/2025/03/19/american-midwest-dreams-of-making-chips/) — `2025-03-19-2025-03-19-american-midwest-dreams-of-making-chips.md` — 121w
+- 2025-03-18 — [Goodbye Torque. Hello TeraFLOPS!](https://om.co/2025/03/18/goodbye-torque-hello-teraflops/) — `2025-03-18-2025-03-18-goodbye-torque-hello-teraflops.md` — 443w
+- 2025-03-16 — [San Francisco Losing Its Youth](https://om.co/2025/03/16/san-francisco-losing-its-youth/) — `2025-03-16-2025-03-16-san-francisco-losing-its-youth.md` — 189w
+- 2025-03-16 — [My (New) Daily Blog](https://om.co/2025/03/16/my-new-daily-blog/) — `2025-03-16-2025-03-16-my-new-daily-blog.md` — 295w
+- 2025-03-14 — [](https://om.co/2025/03/14/2020-to-2025-how-music-has-changed/) — `2025-03-14-2025-03-14-2020-to-2025-how-music-has-changed.md` — 145w
+- 2025-03-14 — [Why is Mars red?](https://om.co/2025/03/14/why-is-mars-red/) — `2025-03-14-2025-03-14-why-is-mars-red.md` — 156w
+- 2025-03-14 — [The World’s Most Invasive Apps](https://om.co/2025/03/14/the-worlds-most-invasive-apps/) — `2025-03-14-2025-03-14-the-worlds-most-invasive-apps.md` — 153w
+- 2025-03-14 — [Instagram is now a (photo) information network.](https://om.co/2025/03/14/instagram-is-now-a-photo-information-network/) — `2025-03-14-2025-03-14-instagram-is-now-a-photo-information-network.md` — 761w
+- 2025-03-13 — [Apple Intelligence: Fud, Dud or Both](https://om.co/2025/03/13/apple-intelligence-fud-dud-or-both/) — `2025-03-13-2025-03-13-apple-intelligence-fud-dud-or-both.md` — 960w
+- 2025-03-11 — [[Early Impressions] the M4 MacBook Air](https://om.co/2025/03/11/the-new-m4-macbook-air/) — `2025-03-11-2025-03-11-the-new-m4-macbook-air.md` — 891w
+- 2025-03-11 — [Ten Years Later](https://om.co/2025/03/11/ten-years-later/) — `2025-03-11-2025-03-11-ten-years-later.md` — 959w
+- 2025-03-10 — [Smart Home is an illusion](https://om.co/2025/03/10/smart-home-is-an-illusion/) — `2025-03-10-2025-03-10-smart-home-is-an-illusion.md` — 129w
+- 2025-02-28 — [Skype is dead. What happened?](https://om.co/2025/02/28/skype-is-dead-what-happened/) — `2025-02-28-2025-02-28-skype-is-dead-what-happened.md` — 990w
+- 2025-02-23 — [What You See Is “Not” What You Get!](https://om.co/2025/02/23/why-everythings-apple-cider-vinegar/) — `2025-02-23-2025-02-23-why-everythings-apple-cider-vinegar.md` — 778w
+- 2025-02-11 — [AI, China & Copium](https://om.co/2025/02/11/ai-china-copium/) — `2025-02-11-2025-02-11-ai-china-copium.md` — 1017w
+- 2025-02-09 — [Risk Aversion](https://om.co/2025/02/09/risk-aversion/) — `2025-02-09-2025-02-09-risk-aversion.md` — 285w
+- 2025-02-06 — [The Real Upside of DeepSeek: Cheaper Inference](https://om.co/2025/02/06/the-meaning-of-deepseek/) — `2025-02-06-2025-02-06-the-meaning-of-deepseek.md` — 741w
+- 2025-02-02 — [1.5 Billion Broadband Connections](https://om.co/2025/02/02/1-5-billion-broadband-connections/) — `2025-02-02-2025-02-02-1-5-billion-broadband-connections.md` — 367w
+- 2025-01-28 — [iPad at 15: Hit or a Miss?](https://om.co/2025/01/28/ipad-at-15-hit-or-a-miss/) — `2025-01-28-2025-01-28-ipad-at-15-hit-or-a-miss.md` — 929w
+- 2025-01-27 — [Why NotebookLM Matters](https://om.co/2025/01/27/why-notebooklm-matters/) — `2025-01-27-2025-01-27-why-notebooklm-matters.md` — 325w
+- 2025-01-25 — [The Weekend (Is Here) Reader](https://om.co/2025/01/25/the-weekend-is-here-reader/) — `2025-01-25-2025-01-25-the-weekend-is-here-reader.md` — 445w
+- 2025-01-21 — [Terminal Fever](https://om.co/2025/01/21/terminal-fever/) — `2025-01-21-2025-01-21-terminal-fever.md` — 451w
+- 2025-01-16 — [Vision Pro & Lessons of the MacBook Air](https://om.co/2025/01/16/vision-pro-lessons-of-the-macbook-air/) — `2025-01-16-2025-01-16-vision-pro-lessons-of-the-macbook-air.md` — 1240w
+- 2025-01-14 — [Wait, is it 2025 already?](https://om.co/2025/01/14/a-letter-from-om-wait-is-it-2025-already/) — `2025-01-14-2025-01-14-a-letter-from-om-wait-is-it-2025-already.md` — 884w
+- 2025-01-14 — [Can AI reinvent biology?](https://om.co/2025/01/14/can-ai-reinvent-biology/) — `2025-01-14-2025-01-14-can-ai-reinvent-biology.md` — 253w
+- 2024-12-31 — [My Favorite Photos of 2024](https://om.co/2024/12/31/my-favorite-photos-of-2024/) — `2024-12-31-2024-12-31-my-favorite-photos-of-2024.md` — 436w
+- 2024-12-28 — [The Story of Stent](https://om.co/2024/12/28/the-story-of-stent/) — `2024-12-28-2024-12-28-the-story-of-stent.md` — 2116w
+- 2024-12-25 — [Perception is reality.](https://om.co/2024/12/25/perception-is-reality/) — `2024-12-25-2024-12-25-perception-is-reality.md` — 861w
+- 2024-12-23 — [A Dog’s Life](https://om.co/2024/12/23/a-dogs-life/) — `2024-12-23-2024-12-23-a-dogs-life.md` — 638w
+- 2024-12-21 — [Musings on Media in the Age of AI](https://om.co/2024/12/21/dark-musings-on-media-ai/) — `2024-12-21-2024-12-21-dark-musings-on-media-ai.md` — 1220w
+- 2024-12-16 — [Wah Ustad! Zakir Hussain’s Lasting Lessons](https://om.co/2024/12/16/wah-ustad-zakir-hussains-lasting-lessons/) — `2024-12-16-2024-12-16-wah-ustad-zakir-hussains-lasting-lessons.md` — 1041w
+- 2024-12-14 — [What Really Matters: Memories](https://om.co/2024/12/14/what-really-matters-memories/) — `2024-12-14-2024-12-14-what-really-matters-memories.md` — 501w
+- 2024-12-08 — [Why AI will eat the browser](https://om.co/2024/12/08/why-ai-will-eat-the-browser/) — `2024-12-08-2024-12-08-why-ai-will-eat-the-browser.md` — 178w
+- 2024-12-02 — [California’s Top Broadband Cities](https://om.co/2024/12/02/californias-top-broadband-cities/) — `2024-12-02-2024-12-02-californias-top-broadband-cities.md` — 161w
+- 2024-11-30 — [Wabi-Sabi of Vintage Digicams](https://om.co/2024/11/30/wabi-sabi-of-vintage-digicams/) — `2024-11-30-2024-11-30-wabi-sabi-of-vintage-digicams.md` — 909w
+- 2024-11-29 — [Robot(taxi)s Are Coming! No seriously!](https://om.co/2024/11/29/robottaxis-are-coming-no-seriously/) — `2024-11-29-2024-11-29-robottaxis-are-coming-no-seriously.md` — 383w
+- 2024-11-25 — [The Best “Digital City” in America is….](https://om.co/2024/11/25/the-best-digital-city-in-america-is/) — `2024-11-25-2024-11-25-the-best-digital-city-in-america-is.md` — 164w
+- 2024-11-24 — [Why IoT Failed & Can AI Fix It?](https://om.co/2024/11/24/why-iot-failed-can-ai-fix-it/) — `2024-11-24-2024-11-24-why-iot-failed-can-ai-fix-it.md` — 287w
+- 2024-11-23 — [[Weekend Edition] Field Notes](https://om.co/2024/11/23/weekend-edition-field-notes/) — `2024-11-23-2024-11-23-weekend-edition-field-notes.md` — 285w
+- 2024-11-18 — [Carl Sagan on Books](https://om.co/2024/11/18/carl-sagan-on-books/) — `2024-11-18-2024-11-18-carl-sagan-on-books.md` — 439w
+- 2024-11-18 — [Can We “SEO “AI?](https://om.co/2024/11/18/can-we-seo-ai/) — `2024-11-18-2024-11-18-can-we-seo-ai.md` — 143w
+- 2024-11-17 — [The End.](https://om.co/2024/11/17/the-end/) — `2024-11-17-2024-11-17-the-end.md` — 555w
+- 2024-11-17 — [Some Minimalist Views of Vietnam](https://om.co/2024/11/17/some-minimalist-views-of-vietnam/) — `2024-11-17-2024-11-17-some-minimalist-views-of-vietnam.md` — 370w
+- 2024-11-14 — [Is the (US) Internet Really Slowing?](https://om.co/2024/11/14/is-the-us-internet-really-slowing/) — `2024-11-14-2024-11-14-is-the-us-internet-really-slowing.md` — 1051w
+- 2024-11-12 — [Ai, Big Tech, & Markets](https://om.co/2024/11/12/ai-big-tech-markets/) — `2024-11-12-2024-11-12-ai-big-tech-markets.md` — 471w
+- 2024-11-11 — [Content vs. Content](https://om.co/2024/11/11/content-vs-content/) — `2024-11-11-2024-11-11-content-vs-content.md` — 533w
+- 2024-11-10 — [Mute, Block, Breathe: How to deal with (un)Social Media](https://om.co/2024/11/10/mute-block-breathe-how-to-deal-with-unsocial-media/) — `2024-11-10-2024-11-10-mute-block-breathe-how-to-deal-with-unsocial-media.md` — 408w
+- 2024-11-09 — [Future of AR is in Your Ears](https://om.co/2024/11/09/future-of-ar-is-in-your-ears/) — `2024-11-09-2024-11-09-future-of-ar-is-in-your-ears.md` — 443w
+- 2024-11-06 — [How I Followed the Election Results](https://om.co/2024/11/06/how-i-followed-the-election-results/) — `2024-11-06-2024-11-06-how-i-followed-the-election-results.md` — 388w
+- 2024-11-06 — [(The Day After) Field Notes](https://om.co/2024/11/06/the-day-after-field-notes/) — `2024-11-06-2024-11-06-the-day-after-field-notes.md` — 297w
+- 2024-11-05 — [Why Carnegie’s Rules Are Evergreen](https://om.co/2024/11/05/why-carnegies-rules-are-evergreen/) — `2024-11-05-2024-11-05-why-carnegies-rules-are-evergreen.md` — 762w
+- 2024-11-04 — [Apple Intelligence’s Transcriptions Are Very Good](https://om.co/2024/11/04/apple-intelligences-transcriptions-are-very-good/) — `2024-11-04-2024-11-04-apple-intelligences-transcriptions-are-very-good.md` — 327w
+- 2024-11-03 — [Why Failure is the best teacher.](https://om.co/2024/11/03/failure-and-perspective/) — `2024-11-03-2024-11-03-failure-and-perspective.md` — 827w
+- 2024-10-23 — [Siri Sucks, Even By Apple’s Numbers](https://om.co/2024/10/23/siri-sucks-even-by-apples-numbers/) — `2024-10-23-2024-10-23-siri-sucks-even-by-apples-numbers.md` — 395w
+- 2024-10-23 — [Humane has a plan for its AI-first Operating System](https://om.co/2024/10/23/humane-has-a-plan-for-its-ai-first-operating-system/) — `2024-10-23-2024-10-23-humane-has-a-plan-for-its-ai-first-operating-system.md` — 149w
+- 2024-10-22 — [The Problem with Podcasts](https://om.co/2024/10/22/the-problem-with-podcasts/) — `2024-10-22-2024-10-22-the-problem-with-podcasts.md` — 169w
+- 2024-10-20 — [Waiting for Apple’s Intelligence](https://om.co/2024/10/20/waiting-for-apples-intelligence/) — `2024-10-20-2024-10-20-waiting-for-apples-intelligence.md` — 680w
+- 2024-10-20 — [Derek Jeter Still Manifesting Yankees Wins](https://om.co/2024/10/20/derek-jeter-still-manifesting-yankees-wins/) — `2024-10-20-2024-10-20-derek-jeter-still-manifesting-yankees-wins.md` — 402w
+- 2024-10-18 — [What AI will do to the Internet?](https://om.co/2024/10/18/what-ai-will-do-to-the-internet/) — `2024-10-18-2024-10-18-what-ai-will-do-to-the-internet.md` — 176w
+- 2024-10-16 — [Minimalissimo, R.I.P.](https://om.co/2024/10/16/minimalissimo-r-i-p/) — `2024-10-16-2024-10-16-minimalissimo-r-i-p.md` — 411w
+- 2024-10-14 — [Are Kids Screenable?](https://om.co/2024/10/14/are-kids-screenable/) — `2024-10-14-2024-10-14-are-kids-screenable.md` — 913w
+- 2024-10-08 — [Dave, Happy 30th Blog Birthday](https://om.co/2024/10/08/dave-happy-30th-blog-birthday/) — `2024-10-08-2024-10-08-dave-happy-30th-blog-birthday.md` — 336w
+- 2024-10-03 — [Meet My New Editorial Project](https://om.co/2024/10/03/meet-my-new-editorial-project/) — `2024-10-03-2024-10-03-meet-my-new-editorial-project.md` — 554w
+- 2024-09-28 — [Lessons from MKBHD’s App Brouhaha](https://om.co/2024/09/28/lessons-from-mkbhds-app-brouhaha/) — `2024-09-28-2024-09-28-lessons-from-mkbhds-app-brouhaha.md` — 395w
+- 2024-09-11 — [The Camera Is In Control](https://om.co/2024/09/11/the-camera-is-in-control/) — `2024-09-11-2024-09-11-the-camera-is-in-control.md` — 992w
+- 2024-09-10 — [The iPhone Content Machine: A Visual Essay](https://om.co/2024/09/10/the-iphone-content-machine-a-visual-essay/) — `2024-09-10-2024-09-10-the-iphone-content-machine-a-visual-essay.md` — 182w
+- 2024-09-10 — [My Thoughts About Apple’s iPhone 16 “Glowtime” Event](https://om.co/2024/09/10/my-thoughts-about-apples-iphone-16-glowtime-event/) — `2024-09-10-2024-09-10-my-thoughts-about-apples-iphone-16-glowtime-event.md` — 1540w
+- 2024-09-07 — [Jony Made a Button](https://om.co/2024/09/07/jony-made-a-button/) — `2024-09-07-2024-09-07-jony-made-a-button.md` — 671w
+- 2024-09-05 — [Out of Time](https://om.co/2024/09/05/out-of-time/) — `2024-09-05-2024-09-05-out-of-time.md` — 299w
+- 2024-09-02 — [A Letter From Om #4 (The End of Summer Edition)](https://om.co/2024/09/02/a-letter-from-om-4-the-end-of-summer-edition/) — `2024-09-02-2024-09-02-a-letter-from-om-4-the-end-of-summer-edition.md` — 1064w
+- 2024-08-31 — [Fogust is over](https://om.co/2024/08/31/fogust-is-over/) — `2024-08-31-2024-08-31-fogust-is-over.md` — 241w
+- 2024-08-26 — [Can Crypto, China cause Dollardrums?](https://om.co/2024/08/26/dollardrums/) — `2024-08-26-2024-08-26-dollardrums.md` — 329w
+- 2024-08-26 — [Big Tech’s LLM Bets is Trillion-Dollar Poker](https://om.co/2024/08/26/big-techs-llm-bets-is-trillion-dollar-poker/) — `2024-08-26-2024-08-26-big-techs-llm-bets-is-trillion-dollar-poker.md` — 451w
+- 2024-08-22 — [AI and Data Centers: What Do the Numbers Say?](https://om.co/2024/08/22/ai-and-data-centers-what-do-the-numbers-say/) — `2024-08-22-2024-08-22-ai-and-data-centers-what-do-the-numbers-say.md` — 467w
+- 2024-08-21 — [For photos collages & crops, try Series](https://om.co/2024/08/21/for-photos-collages-crops-try-series/) — `2024-08-21-2024-08-21-for-photos-collages-crops-try-series.md` — 305w
+- 2024-08-21 — [Field Notes, The Exabyte Edition](https://om.co/2024/08/21/field-notes-the-exabyte-edition/) — `2024-08-21-2024-08-21-field-notes-the-exabyte-edition.md` — 469w
+- 2024-08-20 — [Influencers, Media and Relevance](https://om.co/2024/08/20/influencers-media-and-relevance/) — `2024-08-20-2024-08-20-influencers-media-and-relevance.md` — 525w
+- 2024-08-17 — [Sometimes a review is not really a review](https://om.co/2024/08/17/not-all-reviews-are-a-review/) — `2024-08-17-2024-08-17-not-all-reviews-are-a-review.md` — 605w
+- 2024-08-13 — [AI Unicorns Are Running Amok](https://om.co/2024/08/13/ai-unicorns-are-running-amok/) — `2024-08-13-2024-08-13-ai-unicorns-are-running-amok.md` — 492w
+- 2024-08-09 — [Why Fixed Wireless is Stealing the Broadband Show](https://om.co/2024/08/09/why-fixed-wireless-is-stealing-the-broadband-show/) — `2024-08-09-2024-08-09-why-fixed-wireless-is-stealing-the-broadband-show.md` — 872w
+- 2024-08-09 — [That Time When Twitter CEO Said Smart Things](https://om.co/2024/08/09/that-time-when-twitter-ceo-said-smart-things/) — `2024-08-09-2024-08-09-that-time-when-twitter-ceo-said-smart-things.md` — 178w
+- 2024-08-07 — [Google’s Real Googly. No Not The Anti-Trust!](https://om.co/2024/08/07/googles-real-googly-no-not-the-anti-trust/) — `2024-08-07-2024-08-07-googles-real-googly-no-not-the-anti-trust.md` — 3349w
+- 2024-08-04 — [Field Notes. 08.04.2024](https://om.co/2024/08/04/field-notes-08-04-2024/) — `2024-08-04-2024-08-04-field-notes-08-04-2024.md` — 566w
+- 2024-07-30 — [Intermittent Social media fasting&nbsp;](https://om.co/2024/07/30/intermittent-social-media-fasting/) — `2024-07-30-2024-07-30-intermittent-social-media-fasting.md` — 635w
+- 2024-07-24 — [Climbing a Mountain on a Foggy Morning](https://om.co/2024/07/24/climbing-a-mountain-on-a-foggy-morning/) — `2024-07-24-2024-07-24-climbing-a-mountain-on-a-foggy-morning.md` — 278w
+- 2024-07-23 — [Musk, the Foxy Kingmaker](https://om.co/2024/07/23/musk-the-foxy-kingmaker/) — `2024-07-23-2024-07-23-musk-the-foxy-kingmaker.md` — 689w
+- 2024-07-22 — [Surely Microsoft Isn’t Blaming EU for Its Problems?](https://om.co/2024/07/22/surely-microsoft-isnt-blaming-eu-for-its-problems/) — `2024-07-22-2024-07-22-surely-microsoft-isnt-blaming-eu-for-its-problems.md` — 808w
+- 2024-07-20 — [What CrowdStrike teaches us about risks & resilience](https://om.co/2024/07/20/what-crowdstrike-crisis-teaches-us-about-risks-resilience/) — `2024-07-20-2024-07-20-what-crowdstrike-crisis-teaches-us-about-risks-resilience.md` — 514w
+- 2024-07-19 — [Google Is Mind-Bogglingly Bad](https://om.co/2024/07/19/google-is-mind-bogglingly-bad/) — `2024-07-19-2024-07-19-google-is-mind-bogglingly-bad.md` — 370w
+- 2024-07-17 — [Social internet has ED](https://om.co/2024/07/17/social-internet-has-ed/) — `2024-07-17-2024-07-17-social-internet-has-ed.md` — 217w
+- 2024-07-17 — [Field Notes. 07.17.2024](https://om.co/2024/07/17/field-notes-07-17-2024/) — `2024-07-17-2024-07-17-field-notes-07-17-2024.md` — 485w
+- 2024-07-16 — [Why FTC Needs to Rethink Tech Regulation](https://om.co/2024/07/16/why-ftc-needs-to-rethink-tech-regulation/) — `2024-07-16-2024-07-16-why-ftc-needs-to-rethink-tech-regulation.md` — 1049w
+- 2024-07-16 — [Taboola + Apple News? No thanks](https://om.co/2024/07/16/taboola-apple-news-no-thanks/) — `2024-07-16-2024-07-16-taboola-apple-news-no-thanks.md` — 362w
+- 2024-07-09 — [Why (& How) IPL Could Save Test Cricket](https://om.co/2024/07/09/why-how-ipl-could-save-test-cricket/) — `2024-07-09-2024-07-09-why-how-ipl-could-save-test-cricket.md` — 1728w
+- 2024-07-03 — [Field Notes 07.03.2024](https://om.co/2024/07/03/field-notes-07-03-2024/) — `2024-07-03-2024-07-03-field-notes-07-03-2024.md` — 673w
+- 2024-07-02 — [The Future of Writing: How AI Will Reshape Our Tools](https://om.co/2024/07/02/from-wordperfect-to-perfect-word-with-ai/) — `2024-07-02-2024-07-02-from-wordperfect-to-perfect-word-with-ai.md` — 1320w
+- 2024-07-01 — [Individual vs AI: Why Personal Matters](https://om.co/2024/07/01/individual-vs-ai-why-personal-matters/) — `2024-07-01-2024-07-01-individual-vs-ai-why-personal-matters.md` — 226w
+- 2024-07-01 — [FCC (Finally) Has a Good Idea](https://om.co/2024/07/01/fcc-finally-has-a-good-idea/) — `2024-07-01-2024-07-01-fcc-finally-has-a-good-idea.md` — 297w
+- 2024-06-30 — [A Letter From Om #3 (07.1.2024)](https://om.co/2024/06/30/a-letter-from-om-3-07-1-2024/) — `2024-06-30-2024-06-30-a-letter-from-om-3-07-1-2024.md` — 799w
+- 2024-06-26 — [Field Notes 06.26.2024](https://om.co/2024/06/26/midweek-edition-field-notes-06-26-2024/) — `2024-06-26-2024-06-26-midweek-edition-field-notes-06-26-2024.md` — 738w
+- 2024-06-26 — [AI Poetry Camera? Seriously?](https://om.co/2024/06/26/a-poetic-ai-camera/) — `2024-06-26-2024-06-26-a-poetic-ai-camera.md` — 694w
+- 2024-06-25 — [Why I love Underdogs](https://om.co/2024/06/25/why-i-love-underdogs/) — `2024-06-25-2024-06-25-why-i-love-underdogs.md` — 590w
+- 2024-06-23 — [Field Notes: June 23, 2024](https://om.co/2024/06/23/weekend-edition-field-notes-june-23-2024/) — `2024-06-23-2024-06-23-weekend-edition-field-notes-june-23-2024.md` — 760w
+- 2024-06-19 — [OpenAI Co-Founder Launches New Startup](https://om.co/2024/06/19/openai-co-founder-launches-new-startup/) — `2024-06-19-2024-06-19-openai-co-founder-launches-new-startup.md` — 412w
+- 2024-06-19 — [Los Angeles (Photo) Vibes](https://om.co/2024/06/19/los-angeles-vibes/) — `2024-06-19-2024-06-19-los-angeles-vibes.md` — 423w
+- 2024-06-11 — [Why Apple Should Support National Parks](https://om.co/2024/06/11/why-apple-should-support-national-parks/) — `2024-06-11-2024-06-11-why-apple-should-support-national-parks.md` — 267w
+- 2024-06-09 — [What’s Friendship](https://om.co/2024/06/09/whats-friendship/) — `2024-06-09-2024-06-09-whats-friendship.md` — 148w
+- 2024-06-08 — [Apple + AI: What to Expect at WWDC 2024](https://om.co/2024/06/08/apple-ai-what-to-expect-at-wwdc-2024/) — `2024-06-08-2024-06-08-apple-ai-what-to-expect-at-wwdc-2024.md` — 1587w
+- 2024-06-07 — [End of Tech’s Easy Growth](https://om.co/2024/06/07/techs-end-of-easy-growth/) — `2024-06-07-2024-06-07-techs-end-of-easy-growth.md` — 386w
+- 2024-06-06 — [Baseball’s Gambling Hypocrisy](https://om.co/2024/06/06/baseballs-gambling-hypocrisy/) — `2024-06-06-2024-06-06-baseballs-gambling-hypocrisy.md` — 1201w
+- 2024-06-03 — [This is the  future of media with AI](https://om.co/2024/06/03/why-i-want-my-ai-tv/) — `2024-06-03-2024-06-03-why-i-want-my-ai-tv.md` — 1735w
+- 2024-06-02 — [I have a beef with “content”](https://om.co/2024/06/02/creativity-has-no-shelf-life/) — `2024-06-02-2024-06-02-creativity-has-no-shelf-life.md` — 562w
+- 2024-05-29 — [F*C*K](https://om.co/2024/05/29/fck/) — `2024-05-29-2024-05-29-fck.md` — 194w
+- 2024-05-27 — [Silicon Valley’s Empathy Vacuum](https://om.co/2024/05/27/silicon-valleys-empathy-vacuum/) — `2024-05-27-2024-05-27-silicon-valleys-empathy-vacuum.md` — 340w
+- 2024-05-27 — [AI Slop is the new spam!](https://om.co/2024/05/27/ai-slop-is-the-new-spam/) — `2024-05-27-2024-05-27-ai-slop-is-the-new-spam.md` — 216w
+- 2024-05-24 — [AI has an “Anus” Problem.](https://om.co/2024/05/24/ai-has-an-anus-problem/) — `2024-05-24-2024-05-24-ai-has-an-anus-problem.md` — 527w
+- 2024-05-18 — [A startup’s “tablet” gears up to take on Apple’s iPad](https://om.co/2024/05/18/daylight-tablet/) — `2024-05-18-2024-05-18-daylight-tablet.md` — 678w
+- 2024-05-17 — [Interviewed: my creative process](https://om.co/2024/05/17/interview-my-blogging-process/) — `2024-05-17-2024-05-17-interview-my-blogging-process.md` — 141w
+- 2024-05-17 — [How & Why of Introductions](https://om.co/2024/05/17/social-capital-of-bullshit/) — `2024-05-17-2024-05-17-social-capital-of-bullshit.md` — 175w
+- 2024-05-16 — [The Age of AI Ambiguity](https://om.co/2024/05/16/the-age-of-ai-ambiguity/) — `2024-05-16-2024-05-16-the-age-of-ai-ambiguity.md` — 127w
+- 2024-05-16 — [How OpenAI Stole Google’s Thunder](https://om.co/2024/05/16/how-openai-stole-googles-thunder/) — `2024-05-16-2024-05-16-how-openai-stole-googles-thunder.md` — 1381w
+- 2024-05-13 — [Some Thoughts About The M4 Chip](https://om.co/2024/05/13/some-thoughts-about-the-m4-chip/) — `2024-05-13-2024-05-13-some-thoughts-about-the-m4-chip.md` — 977w
+- 2024-05-12 — [Subtle Magic of San Francisco.](https://om.co/2024/05/12/subtle-magic-of-san-francisco/) — `2024-05-12-2024-05-12-subtle-magic-of-san-francisco.md` — 409w
+- 2024-05-09 — [Apple (like big tech is) primed to stumble.](https://om.co/2024/05/09/apple-is-primed-to-stumble/) — `2024-05-09-2024-05-09-apple-is-primed-to-stumble.md` — 429w
+- 2024-05-04 — [Billions in profits, millions in fines!](https://om.co/2024/05/04/billion-in-profits-million-in-fines-why-bigcos-dont-care-about-our-data-privacy/) — `2024-05-04-2024-05-04-billion-in-profits-million-in-fines-why-bigcos-dont-care-about-our-da.md` — 300w
+- 2024-05-01 — [How “AI” is helping my writing process](https://om.co/2024/05/01/how-ai-has-helped-my-writing-process/) — `2024-05-01-2024-05-01-how-ai-has-helped-my-writing-process.md` — 394w
+- 2024-04-30 — [AI Hardware is experimental & it’s okay!](https://om.co/2024/04/30/the-reality-optimism-of-ai-hardware/) — `2024-04-30-2024-04-30-the-reality-optimism-of-ai-hardware.md` — 1597w
+- 2024-04-25 — [You are worth&nbsp;$47.&nbsp;](https://om.co/2024/04/25/ftc-settles-with-ring/) — `2024-04-25-2024-04-25-ftc-settles-with-ring.md` — 174w
+- 2024-04-22 — [Sometimes a camera is not just a camera!](https://om.co/2024/04/22/sometimes-a-camera-is-not-just-a-camera/) — `2024-04-22-2024-04-22-sometimes-a-camera-is-not-just-a-camera.md` — 754w
+- 2024-04-22 — [Post(news) Script](https://om.co/2024/04/22/postnews-script/) — `2024-04-22-2024-04-22-postnews-script.md` — 274w
+- 2024-04-22 — [Lost Penguin](https://om.co/2024/04/22/lost-penguin/) — `2024-04-22-2024-04-22-lost-penguin.md` — 145w
+- 2024-04-21 — [What I read this weekend](https://om.co/2024/04/21/what-i-read-this-weekend/) — `2024-04-21-2024-04-21-what-i-read-this-weekend.md` — 363w
+- 2024-04-19 — [China vs US: Social Media Edition](https://om.co/2024/04/19/china-vs-us-social-media-edition/) — `2024-04-19-2024-04-19-china-vs-us-social-media-edition.md` — 470w
+- 2024-04-15 — [I’m AirChatting](https://om.co/2024/04/15/im-airchatting/) — `2024-04-15-2024-04-15-im-airchatting.md` — 731w
+- 2024-04-14 — [A letter from Om #02/2024](https://om.co/2024/04/14/a-letter-from-om-02-2024/) — `2024-04-14-2024-04-14-a-letter-from-om-02-2024.md` — 571w
+- 2024-04-07 — [The Tyranny of Content Algorithms](https://om.co/2024/04/07/tyranny-of-content-algorithms/) — `2024-04-07-2024-04-07-tyranny-of-content-algorithms.md` — 991w
+- 2024-04-02 — [Why Yahoo bought Artifact’s leftovers](https://om.co/2024/04/02/why-yahoo-bought-artifact-leftovers/) — `2024-04-02-2024-04-02-why-yahoo-bought-artifact-leftovers.md` — 362w
+- 2024-03-31 — [Why Corporations Fail to Protect Our Data](https://om.co/2024/03/31/why-corporations-fail-to-protect-our-data/) — `2024-03-31-2024-03-31-why-corporations-fail-to-protect-our-data.md` — 684w
+- 2024-03-31 — [Obsessions vs Hobbies](https://om.co/2024/03/31/obsessions-vs-hobbies/) — `2024-03-31-2024-03-31-obsessions-vs-hobbies.md` — 667w
+- 2024-03-29 — [Why are Easter eggs so expensive?](https://om.co/2024/03/29/why-easter-eggs-are-so-expensive/) — `2024-03-29-2024-03-29-why-easter-eggs-are-so-expensive.md` — 348w
+- 2024-03-25 — [Can EU be tough on China Inc?](https://om.co/2024/03/25/can-eu-be-tough-on-china-inc/) — `2024-03-25-2024-03-25-can-eu-be-tough-on-china-inc.md` — 581w
+- 2024-03-24 — [Weekend Leftovers: Good Reads & More](https://om.co/2024/03/24/weekend-leftovers-good-reads-more/) — `2024-03-24-2024-03-24-weekend-leftovers-good-reads-more.md` — 328w
+- 2024-03-22 — [Microsoft’s Brazen AI Inflection](https://om.co/2024/03/22/microsofts-brazen-ai-inflection/) — `2024-03-22-2024-03-22-microsofts-brazen-ai-inflection.md` — 553w
+- 2024-03-19 — [Week 10, Project 365(+1) Recap](https://om.co/2024/03/19/week-10-project-3651-recap/) — `2024-03-19-2024-03-19-week-10-project-3651-recap.md` — 133w
+- 2024-03-19 — [AI is changing writing](https://om.co/2024/03/19/ai-is-changing-writing-here-is-what-to-do-about-it/) — `2024-03-19-2024-03-19-ai-is-changing-writing-here-is-what-to-do-about-it.md` — 784w
+- 2024-03-17 — [VK One](https://om.co/2024/03/17/vk-one/) — `2024-03-17-2024-03-17-vk-one.md` — 785w
+- 2024-03-17 — [Old Tools, New Ideas](https://om.co/2024/03/17/old-tools-new-ideas/) — `2024-03-17-2024-03-17-old-tools-new-ideas.md` — 408w
+- 2024-03-16 — [Why I redesigned my home page?](https://om.co/2024/03/16/why-i-redesigned-my-home-page/) — `2024-03-16-2024-03-16-why-i-redesigned-my-home-page.md` — 1360w
+- 2024-03-13 — [Why both Vision Pro & Quest are Good & Great?](https://om.co/2024/03/13/why-both-vision-pro-quest-are-good-great/) — `2024-03-13-2024-03-13-why-both-vision-pro-quest-are-good-great.md` — 258w
+- 2024-03-12 — [My most used apps have “AI” inside](https://om.co/2024/03/12/my-most-used-apps-have-ai-inside/) — `2024-03-12-2024-03-12-my-most-used-apps-have-ai-inside.md` — 373w
+- 2024-03-11 — [SVB Crisis: A Year Later](https://om.co/2024/03/11/svb-bank-collapse-one-year-later/) — `2024-03-11-2024-03-11-svb-bank-collapse-one-year-later.md` — 317w
+- 2024-03-07 — [Leica SL3: First Impressions](https://om.co/2024/03/07/leica-sl3-first-impressions/) — `2024-03-07-2024-03-07-leica-sl3-first-impressions.md` — 1806w
+- 2024-03-05 — [Future, Civilization & Change](https://om.co/2024/03/05/future-civilization-change/) — `2024-03-05-2024-03-05-future-civilization-change.md` — 434w
+- 2024-03-03 — [Week 8, Project 365(+1) Recap](https://om.co/2024/03/03/week-8-project-3651-recap/) — `2024-03-03-2024-03-03-week-8-project-3651-recap.md` — 242w
+- 2024-02-26 — [Week 7, Project 365(+1) Recap](https://om.co/2024/02/26/week-7-project-3651-recap/) — `2024-02-26-2024-02-26-week-7-project-3651-recap.md` — 181w
+- 2024-02-20 — [5G is ‘ now’ eating cables lunch](https://om.co/2024/02/20/5g-is-now-eating-cables-lunch/) — `2024-02-20-2024-02-20-5g-is-now-eating-cables-lunch.md` — 313w
+- 2024-02-19 — [Week 6 & 7, Project 365 (+1)](https://om.co/2024/02/19/week-6-7-project-365-1/) — `2024-02-19-2024-02-19-week-6-7-project-365-1.md` — 130w
+- 2024-02-19 — [Reunited with Vision Pro](https://om.co/2024/02/19/reunited-with-vision-pro/) — `2024-02-19-2024-02-19-reunited-with-vision-pro.md` — 706w
+- 2024-02-15 — [Travel (Tech) Notes, Delhi Edition](https://om.co/2024/02/15/travel-tech-notes-delhi-edition/) — `2024-02-15-2024-02-15-travel-tech-notes-delhi-edition.md` — 1143w
+- 2024-02-07 — [Cool tools to boost your browser](https://om.co/2024/02/07/tools-to-boost-your-browser/) — `2024-02-07-2024-02-07-tools-to-boost-your-browser.md` — 300w
+- 2024-02-06 — [In tech, magic becomes mundane!](https://om.co/2024/02/06/in-tech-magic-becomes-mundane-fast/) — `2024-02-06-2024-02-06-in-tech-magic-becomes-mundane-fast.md` — 206w
+- 2024-02-01 — [What does Vision Pro have in common with a T1 connection?](https://om.co/2024/02/01/what-does-vision-pro-t1-connection-have-in-common/) — `2024-02-01-2024-02-01-what-does-vision-pro-t1-connection-have-in-common.md` — 1095w
+- 2024-01-31 — [My 4 magic moments with Vision Pro](https://om.co/2024/01/31/my-4-magic-moments-with-vision-pro/) — `2024-01-31-2024-01-31-my-4-magic-moments-with-vision-pro.md` — 1735w
+- 2024-01-30 — [Apple’s Vision Pro -The Meta-Review.](https://om.co/2024/01/30/apples-vision-pro-the-meta-review/) — `2024-01-30-2024-01-30-apples-vision-pro-the-meta-review.md` — 951w
+- 2024-01-28 — [Week 4, Project 365 (+1)](https://om.co/2024/01/28/week-4-project-365-1/) — `2024-01-28-2024-01-28-week-4-project-365-1.md` — 200w
+- 2024-01-28 — [The Real Problem With Spotify](https://om.co/2024/01/28/spotify-is-garbage/) — `2024-01-28-2024-01-28-spotify-is-garbage.md` — 390w
+- 2024-01-28 — [A Letter from Om Issue #01/2024](https://om.co/2024/01/28/a-letter-from-om-issue-01-2024/) — `2024-01-28-2024-01-28-a-letter-from-om-issue-01-2024.md` — 1010w
+- 2024-01-26 — [Shattered Glass Of Modern Media](https://om.co/2024/01/26/shattered-glass-of-modern-media/) — `2024-01-26-2024-01-26-shattered-glass-of-modern-media.md` — 416w
+- 2024-01-22 — [Pitchfork & The Death of the critic](https://om.co/2024/01/22/death-of-the-critic/) — `2024-01-22-2024-01-22-death-of-the-critic.md` — 812w
+- 2024-01-22 — [Bell Labs & Google: bookends of the same sad story?](https://om.co/2024/01/22/bell-labs-google-same-sad-story/) — `2024-01-22-2024-01-22-bell-labs-google-same-sad-story.md` — 840w
+- 2024-01-21 — [Week 3, Project 365 Wrap Up](https://om.co/2024/01/21/week-3-project-365-wrap-up/) — `2024-01-21-2024-01-21-week-3-project-365-wrap-up.md` — 186w
+- 2024-01-19 — [A New Vision (Pro) Day](https://om.co/2024/01/19/a-new-vision-pro-day/) — `2024-01-19-2024-01-19-a-new-vision-pro-day.md` — 1106w
+- 2024-01-15 — [Vision Pro’s Long Shadow Over A Boring CES 2024](https://om.co/2024/01/15/vision-pro-looms-over-ces-2024/) — `2024-01-15-2024-01-15-vision-pro-looms-over-ces-2024.md` — 781w
+- 2024-01-14 — [Week 2, 366 Project Wrap Up](https://om.co/2024/01/14/week-2-366-project-wrap-up/) — `2024-01-14-2024-01-14-week-2-366-project-wrap-up.md` — 392w
+- 2024-01-12 — [Why Platforms Do Platform Things](https://om.co/2024/01/12/why-platforms-do-platform-things/) — `2024-01-12-2024-01-12-why-platforms-do-platform-things.md` — 499w
+- 2024-01-08 — [I want my Vision Pro(TV)!](https://om.co/2024/01/08/vision-pro-is-coming/) — `2024-01-08-2024-01-08-vision-pro-is-coming.md` — 834w
+- 2024-01-07 — [Week 1/366 Photo Project](https://om.co/2024/01/07/week-1-366-photo-project/) — `2024-01-07-2024-01-07-week-1-366-photo-project.md` — 174w
+- 2024-01-04 — [The Greatest Gift is Time](https://om.co/2024/01/04/the-greatest-gift-is-time/) — `2024-01-04-2024-01-04-the-greatest-gift-is-time.md` — 354w
+- 2024-01-04 — [Jim Courtney, RIP](https://om.co/2024/01/04/jim-courtney-founder-of-skype-journal-rip/) — `2024-01-04-2024-01-04-jim-courtney-founder-of-skype-journal-rip.md` — 142w
+- 2024-01-04 — [Facebook’s new old way to follow you around!](https://om.co/2024/01/04/facebook-doing-facebook-things/) — `2024-01-04-2024-01-04-facebook-doing-facebook-things.md` — 363w
+- 2024-01-02 — [Is Optimism Wired or Tired?](https://om.co/2024/01/02/is-optimism-wired-or-tired/) — `2024-01-02-2024-01-02-is-optimism-wired-or-tired.md` — 894w
+- 2024-01-02 — [Canceled Streams](https://om.co/2024/01/02/canceled-streams/) — `2024-01-02-2024-01-02-canceled-streams.md` — 403w
+- 2024-01-01 — [A New Year. A New 365 “Photo” Project.](https://om.co/2024/01/01/a-new-year-a-new-365-photo-project/) — `2024-01-01-2024-01-01-a-new-year-a-new-365-photo-project.md` — 272w
+- 2023-12-31 — [Goodbye, 2023. Hello, 2024.](https://om.co/2023/12/31/goodbye-2023-hello-2024/) — `2023-12-31-2023-12-31-goodbye-2023-hello-2024.md` — 803w
+- 2023-12-29 — [A Letter from Om. Issue #17/2023](https://om.co/2023/12/29/a-letter-from-om-issue-17-2023/) — `2023-12-29-2023-12-29-a-letter-from-om-issue-17-2023.md` — 993w
+- 2023-12-28 — [Second Chances](https://om.co/2023/12/28/second-chances/) — `2023-12-28-2023-12-28-second-chances.md` — 375w
+- 2023-12-26 — [New Episode: Stuck@Om Podcast: The GeoPolitical Implications of A.I. a discussion w/scientist Sean Gourley](https://om.co/2023/12/26/new-episode-stuckom-podcast-the-geopolitical-implications-of-a-i-a-discussion-w-scientist-sean-gourley/) — `2023-12-26-2023-12-26-new-episode-stuckom-podcast-the-geopolitical-implications-of-a-i-a-di.md` — 693w
+- 2023-12-20 — [New Episode of Stuck@Om: The Reality of Self-Driving Dreams](https://om.co/2023/12/20/new-episode-of-stuckom-the-reality-of-self-driving-dreams/) — `2023-12-20-2023-12-20-new-episode-of-stuckom-the-reality-of-self-driving-dreams.md` — 347w
+- 2023-12-18 — [Implications of the failure of the Adobe-Figma deal.](https://om.co/2023/12/18/implications-of-the-adobe-figma-deal-failure/) — `2023-12-18-2023-12-18-implications-of-the-adobe-figma-deal-failure.md` — 643w
+- 2023-12-17 — [What do French artists, Wright Brothers & AI have in common?](https://om.co/2023/12/17/what-do-french-artists-wright-brothers-ai-have-in-common/) — `2023-12-17-2023-12-17-what-do-french-artists-wright-brothers-ai-have-in-common.md` — 930w
+- 2023-12-16 — [10 Quick Last-Minute Gift Ideas](https://om.co/2023/12/16/10-quick-last-minute-gift-ideas/) — `2023-12-16-2023-12-16-10-quick-last-minute-gift-ideas.md` — 624w
+- 2023-12-14 — [Why Vision Pro Will Change Photography](https://om.co/2023/12/14/why-vision-pro-will-change-photography/) — `2023-12-14-2023-12-14-why-vision-pro-will-change-photography.md` — 2144w
+- 2023-12-12 — [So What’s The Latest with Apple’s VisionPro?](https://om.co/2023/12/12/so-whats-the-latest-with-apples-visionpro/) — `2023-12-12-2023-12-12-so-whats-the-latest-with-apples-visionpro.md` — 679w
+- 2023-12-11 — [The Reality of AI: Vanishing White Collar Jobs](https://om.co/2023/12/11/microsoft-afl-cio-ai-deal/) — `2023-12-11-2023-12-11-microsoft-afl-cio-ai-deal.md` — 1032w
+- 2023-12-08 — [Nosocomial](https://om.co/2023/12/08/nosocomial/) — `2023-12-08-2023-12-08-nosocomial.md` — 182w
+- 2023-12-08 — [14 years of Uber](https://om.co/2023/12/08/14-years-of-uber/) — `2023-12-08-2023-12-08-14-years-of-uber.md` — 382w
+- 2023-12-06 — [Apple Makes a Quiet AI Move](https://om.co/2023/12/06/apple-makes-a-quiet-ai-move/) — `2023-12-06-2023-12-06-apple-makes-a-quiet-ai-move.md` — 332w
+- 2023-12-04 — [Finding Beauty in the Ordinary](https://om.co/2023/12/04/finding-beauty-in-the-ordinary/) — `2023-12-04-2023-12-04-finding-beauty-in-the-ordinary.md` — 349w
+- 2023-12-03 — [A Letter from Om. Issue #16/2023](https://om.co/2023/12/03/a-letter-from-om-issue-16-2023/) — `2023-12-03-2023-12-03-a-letter-from-om-issue-16-2023.md` — 747w
+- 2023-11-30 — [Nostalgia is a curse in life and tech.](https://om.co/2023/11/30/nostalgia-is-a-curse-in-life-and-tech/) — `2023-11-30-2023-11-30-nostalgia-is-a-curse-in-life-and-tech.md` — 925w
+- 2023-11-30 — [Framed](https://om.co/2023/11/30/framed/) — `2023-11-30-2023-11-30-framed.md` — 189w
+- 2023-11-29 — [Charlie Munger & Social Theater](https://om.co/2023/11/29/charlie-munger-social-theater/) — `2023-11-29-2023-11-29-charlie-munger-social-theater.md` — 210w
+- 2023-11-27 — [Amazon’s Thin Client: Wrong Idea, Wrong Time. Here’s Why.](https://om.co/2023/11/27/amazons-thin-client-wrong-idea-wrong-time-heres-why/) — `2023-11-27-2023-11-27-amazons-thin-client-wrong-idea-wrong-time-heres-why.md` — 1164w
+- 2023-11-24 — [Black Friday Musings: Internet’s Scale + 5 Good Reads](https://om.co/2023/11/24/black-friday-musings-internets-scale-5-good-reads/) — `2023-11-24-2023-11-24-black-friday-musings-internets-scale-5-good-reads.md` — 1182w
+- 2023-11-22 — [OpenAI drama is over.](https://om.co/2023/11/22/openai-drama-is-over/) — `2023-11-22-2023-11-22-openai-drama-is-over.md` — 575w
+- 2023-11-21 — [Even After Freaky Friday, Microsoft is Still the AI King](https://om.co/2023/11/21/even-after-freaky-friday-microsoft-is-still-the-ai-king/) — `2023-11-21-2023-11-21-even-after-freaky-friday-microsoft-is-still-the-ai-king.md` — 1003w
+- 2023-11-18 — [Foundational Risks of OpenAI](https://om.co/2023/11/18/foundational-risks-of-openai/) — `2023-11-18-2023-11-18-foundational-risks-of-openai.md` — 863w
+- 2023-11-18 — [A letter from Om. Issue #15/2023](https://om.co/2023/11/18/a-letter-from-om-issue-15-2023/) — `2023-11-18-2023-11-18-a-letter-from-om-issue-15-2023.md` — 694w
+- 2023-11-14 — [A Fixed Wireless Boom 20 Years In The Making](https://om.co/2023/11/14/what-5g-fixed-wireless-boom-can-teach-us-about-technology/) — `2023-11-14-2023-11-14-what-5g-fixed-wireless-boom-can-teach-us-about-technology.md` — 1499w
+- 2023-11-12 — [A Visvim in my backyard?](https://om.co/2023/11/12/a-visvim-in-carmel-by-the-sea/) — `2023-11-12-2023-11-12-a-visvim-in-carmel-by-the-sea.md` — 389w
+- 2023-11-09 — [The Real Personal (AI) Computer](https://om.co/2023/11/09/ai-pin-humane/) — `2023-11-09-2023-11-09-ai-pin-humane.md` — 1711w
+- 2023-11-09 — [Imran Chaudhri](https://om.co/2023/11/09/imran-chaudhri-humane-interview/) — `2023-11-09-2023-11-09-imran-chaudhri-humane-interview.md` — 4513w
+- 2023-11-06 — [My Quick M3 Macbook Review](https://om.co/2023/11/06/my-quick-m3-macbook-review/) — `2023-11-06-2023-11-06-my-quick-m3-macbook-review.md` — 1260w
+- 2023-11-05 — [SBF Saga & “The Process” Breakdown](https://om.co/2023/11/05/sbf-saga-the-process-breakdown/) — `2023-11-05-2023-11-05-sbf-saga-the-process-breakdown.md` — 619w
+- 2023-11-05 — [A letter from Om. Issue #14/2023](https://om.co/2023/11/05/a-letter-from-om-issue-14-2023/) — `2023-11-05-2023-11-05-a-letter-from-om-issue-14-2023.md` — 1120w
+- 2023-11-01 — [Still Waters](https://om.co/2023/11/01/still-waters/) — `2023-11-01-2023-11-01-still-waters.md` — 176w
+- 2023-10-30 — [With its New M3 Chips, Apple joins the AI party.](https://om.co/2023/10/30/apple-launches-m3-chips-with-ai/) — `2023-10-30-2023-10-30-apple-launches-m3-chips-with-ai.md` — 2054w
+- 2023-10-26 — [iPoddery](https://om.co/2023/10/26/ipoddery/) — `2023-10-26-2023-10-26-ipoddery.md` — 282w
+- 2023-10-23 — [Spinning Memories](https://om.co/2023/10/23/bishen-bedi-spinning-memories/) — `2023-10-23-2023-10-23-bishen-bedi-spinning-memories.md` — 553w
+- 2023-10-23 — [A Lovely October Evening](https://om.co/2023/10/23/a-lovely-october-evening/) — `2023-10-23-2023-10-23-a-lovely-october-evening.md` — 160w
+- 2023-10-20 — [Today’s Reading List](https://om.co/2023/10/20/todays-reading-list/) — `2023-10-20-2023-10-20-todays-reading-list.md` — 140w
+- 2023-10-19 — [For kids, Social Media is kaput.](https://om.co/2023/10/19/social-media-is-history-just-ask-the-kids/) — `2023-10-19-2023-10-19-social-media-is-history-just-ask-the-kids.md` — 830w
+- 2023-10-16 — [A letter from Om. Issue #13/2023](https://om.co/2023/10/16/a-letter-from-om-issue-13-2023/) — `2023-10-16-2023-10-16-a-letter-from-om-issue-13-2023.md` — 967w
+- 2023-10-15 — [Social Internet Is Dead. Get Over It.](https://om.co/2023/10/15/social-internet-is-dead-get-used-to-it/) — `2023-10-15-2023-10-15-social-internet-is-dead-get-used-to-it.md` — 1851w
+- 2023-10-15 — [A Game of Cricket, A Friendship Remembered](https://om.co/2023/10/15/a-game-of-cricket-a-friendship-remembered/) — `2023-10-15-2023-10-15-a-game-of-cricket-a-friendship-remembered.md` — 1534w
+- 2023-10-13 — [The Magic of iPhone 15’s Zoom](https://om.co/2023/10/13/magic-of-iphone-15s-zoom/) — `2023-10-13-2023-10-13-magic-of-iphone-15s-zoom.md` — 278w
+- 2023-10-10 — [A Perfect Morning Drive](https://om.co/2023/10/10/a-perfect-morning-drive/) — `2023-10-10-2023-10-10-a-perfect-morning-drive.md` — 321w
+- 2023-10-06 — [What Would Steve Jobs Have Thought of Our Industry Now?](https://om.co/2023/10/06/what-would-steve-jobs-have-thought-of-our-industry-now/) — `2023-10-06-2023-10-06-what-would-steve-jobs-have-thought-of-our-industry-now.md` — 1150w
+- 2023-09-29 — [The Symphony of Nature’s Gradients](https://om.co/2023/09/29/gradients-in-the-sky/) — `2023-09-29-2023-09-29-gradients-in-the-sky.md` — 506w
+- 2023-09-25 — [Apple’s Launch Events: A Scripted Symphony?](https://om.co/2023/09/25/apples-launch-events-a-scripted-symphony/) — `2023-09-25-2023-09-25-apples-launch-events-a-scripted-symphony.md` — 412w
+- 2023-09-24 — [ChatGPT & Friends: The Cool Kids boosting my productivity](https://om.co/2023/09/24/chatgpt-friends-the-cool-kids-boosting-my-productivity/) — `2023-09-24-2023-09-24-chatgpt-friends-the-cool-kids-boosting-my-productivity.md` — 902w
+- 2023-09-22 — [Jet Lag and the Joy of Being Offline](https://om.co/2023/09/22/jet-lag-and-the-joy-of-being-offline/) — `2023-09-22-2023-09-22-jet-lag-and-the-joy-of-being-offline.md` — 405w
+- 2023-09-01 — [Why do companies become hostile to their customers?](https://om.co/2023/09/01/why-do-companies-become-hostile-to-their-customers/) — `2023-09-01-2023-09-01-why-do-companies-become-hostile-to-their-customers.md` — 1128w
+- 2023-09-01 — [A letter from Om. Issue #12/2023](https://om.co/2023/09/01/a-letter-from-om-issue-12-2023/) — `2023-09-01-2023-09-01-a-letter-from-om-issue-12-2023.md` — 604w
+- 2023-08-30 — [Threads, Twitter, & Social Photos](https://om.co/2023/08/30/threads-twitter-social-photos/) — `2023-08-30-2023-08-30-threads-twitter-social-photos.md` — 354w
+- 2023-08-29 — [Field Notes](https://om.co/2023/08/29/field-notes/) — `2023-08-29-2023-08-29-field-notes.md` — 175w
+- 2023-08-28 — [Why Camera Makers Will Be Dead (Soonish)](https://om.co/2023/08/28/why-camera-makers-will-be-dead/) — `2023-08-28-2023-08-28-why-camera-makers-will-be-dead.md` — 1049w
+- 2023-08-27 — [How do we fix the “Too Many Newsletters” problem?](https://om.co/2023/08/27/how-do-we-fix-the-too-many-newsletters-problem/) — `2023-08-27-2023-08-27-how-do-we-fix-the-too-many-newsletters-problem.md` — 726w
+- 2023-08-23 — [Dark side of the moon + 5 good reads](https://om.co/2023/08/23/dark-side-of-the-moon-5-good-reads/) — `2023-08-23-2023-08-23-dark-side-of-the-moon-5-good-reads.md` — 294w
+- 2023-08-21 — [What I am Reading Today](https://om.co/2023/08/21/what-i-am-reading-today-73/) — `2023-08-21-2023-08-21-what-i-am-reading-today-73.md` — 564w
+- 2023-08-20 — [The Land of Imperfect Data.](https://om.co/2023/08/20/in-the-land-of-imperfect-data/) — `2023-08-20-2023-08-20-in-the-land-of-imperfect-data.md` — 1177w
+- 2023-08-15 — [A Letter from Om. Issue #11/2023](https://om.co/2023/08/15/a-letter-from-om-issue-11-2023/) — `2023-08-15-2023-08-15-a-letter-from-om-issue-11-2023.md` — 1646w
+- 2023-08-14 — [Baby Gull 2.0](https://om.co/2023/08/14/baby-gull-2-0/) — `2023-08-14-2023-08-14-baby-gull-2-0.md` — 282w
+- 2023-08-10 — [Time For Rentry](https://om.co/2023/08/10/time-for-rentry/) — `2023-08-10-2023-08-10-time-for-rentry.md` — 681w
+- 2023-08-07 — [Fine Fogust Finds](https://om.co/2023/08/07/fine-fogust-finds/) — `2023-08-07-2023-08-07-fine-fogust-finds.md` — 247w
+- 2023-08-01 — [A Letter from Om. Issue #10/2023](https://om.co/2023/08/01/a-letter-from-om-issue-09-2023-2/) — `2023-08-01-2023-08-01-a-letter-from-om-issue-09-2023-2.md` — 389w
+- 2023-07-26 — [What’s the Truth?](https://om.co/2023/07/26/sinead-o-connor-rip/) — `2023-07-26-2023-07-26-sinead-o-connor-rip.md` — 202w
+- 2023-07-24 — [With X, it is Twitter R.I.P!](https://om.co/2023/07/24/is-musk-off-the-mark-with-xtwitter-rip/) — `2023-07-24-2023-07-24-is-musk-off-the-mark-with-xtwitter-rip.md` — 1221w
+- 2023-07-17 — [AI & Internet’s Existential Crisis](https://om.co/2023/07/17/ai-internets-existential-crisis/) — `2023-07-17-2023-07-17-ai-internets-existential-crisis.md` — 778w
+- 2023-07-16 — [Grid Storage vs Transmission: Will Batteries Win?](https://om.co/2023/07/16/grid-storage-vs-transmission-will-batteries-win/) — `2023-07-16-2023-07-16-grid-storage-vs-transmission-will-batteries-win.md` — 230w
+- 2023-07-16 — [A Letter from Om. Issue #09/2023](https://om.co/2023/07/16/a-letter-from-om-issue-09-2023/) — `2023-07-16-2023-07-16-a-letter-from-om-issue-09-2023.md` — 1097w
+- 2023-07-11 — [Zuck Threads The Needle,  Pricks Musk](https://om.co/2023/07/11/zuck-threads-the-needle-pricks-musk/) — `2023-07-11-2023-07-11-zuck-threads-the-needle-pricks-musk.md` — 980w
+- 2023-07-10 — [Lasers Light Up Sutro Tower](https://om.co/2023/07/10/lasers-light-up-sutro-tower/) — `2023-07-10-2023-07-10-lasers-light-up-sutro-tower.md` — 552w
+- 2023-07-07 — [My top 5 articles for 2023 (so far)](https://om.co/2023/07/07/my-top-5-articles-for-2023-so-far/) — `2023-07-07-2023-07-07-my-top-5-articles-for-2023-so-far.md` — 476w
+- 2023-07-06 — [A New Podcast: Me & Brunello Cucinelli](https://om.co/2023/07/06/a-new-podcast-me-brunello-cucinelli/) — `2023-07-06-2023-07-06-a-new-podcast-me-brunello-cucinelli.md` — 238w
+- 2023-07-03 — [Ethernet is 50](https://om.co/2023/07/03/ethernet-is-50/) — `2023-07-03-2023-07-03-ethernet-is-50.md` — 646w
+- 2023-07-01 — [A letter from Om Issue #08/2023](https://om.co/2023/07/01/a-letter-from-om-issue-08-2023/) — `2023-07-01-2023-07-01-a-letter-from-om-issue-08-2023.md` — 665w
+- 2023-06-29 — [Like everything, data, too, needs power & water.](https://om.co/2023/06/29/like-everything-data-too-needs-power-water/) — `2023-06-29-2023-06-29-like-everything-data-too-needs-power-water.md` — 622w
+- 2023-06-28 — [AI Hype: Smoke and Mirrors](https://om.co/2023/06/28/ai-hype-smoke-and-mirrors/) — `2023-06-28-2023-06-28-ai-hype-smoke-and-mirrors.md` — 524w
+- 2023-06-26 — [Why Apple’s Vision Pro Will Change Movie-Watching](https://om.co/2023/06/26/why-apples-vision-pro-will-change-movie-watching/) — `2023-06-26-2023-06-26-why-apples-vision-pro-will-change-movie-watching.md` — 1584w
+- 2023-06-25 — [On the Beach with Leica M9](https://om.co/2023/06/25/on-the-beach-with-leica-m9/) — `2023-06-25-2023-06-25-on-the-beach-with-leica-m9.md` — 398w
+- 2023-06-24 — [Arnold’s Docuseries: A Case Study in Online Content Pollution](https://om.co/2023/06/24/arnolds-docuseries-a-case-study-in-online-content-pollution/) — `2023-06-24-2023-06-24-arnolds-docuseries-a-case-study-in-online-content-pollution.md` — 1045w
+- 2023-06-21 — [Is AI a snake that eats itself?](https://om.co/2023/06/21/is-ai-is-a-snake-that-eats-itself/) — `2023-06-21-2023-06-21-is-ai-is-a-snake-that-eats-itself.md` — 257w
+- 2023-06-20 — [Why Elon isn’t paying his bills?](https://om.co/2023/06/20/in-for-penny-in-for-pound-of-flesh/) — `2023-06-20-2023-06-20-in-for-penny-in-for-pound-of-flesh.md` — 484w
+- 2023-06-19 — [Why I love MacWhisper](https://om.co/2023/06/19/why-i-love-macwhisper/) — `2023-06-19-2023-06-19-why-i-love-macwhisper.md` — 568w
+- 2023-06-18 — [The Weekend Reader](https://om.co/2023/06/18/the-weekend-reader/) — `2023-06-18-2023-06-18-the-weekend-reader.md` — 344w
+- 2023-06-16 — [Cord Cutting Doom Loop](https://om.co/2023/06/16/cord-cutting-doom-loop/) — `2023-06-16-2023-06-16-cord-cutting-doom-loop.md` — 209w
+- 2023-06-15 — [A letter from Om Issue #07/2023](https://om.co/2023/06/15/a-letter-from-om-issue-07-2023/) — `2023-06-15-2023-06-15-a-letter-from-om-issue-07-2023.md` — 698w
+- 2023-06-14 — [Lessons to learn from Cormac McCarthy](https://om.co/2023/06/14/lessons-to-learn-from-cormac-mccarthy/) — `2023-06-14-2023-06-14-lessons-to-learn-from-cormac-mccarthy.md` — 224w
+- 2023-06-14 — [How do humans spend their “day?”](https://om.co/2023/06/14/how-do-humans-spend-their-day-daily/) — `2023-06-14-2023-06-14-how-do-humans-spend-their-day-daily.md` — 185w
+- 2023-06-12 — [The Why of Reddit Protests](https://om.co/2023/06/12/people-make-the-platform/) — `2023-06-12-2023-06-12-people-make-the-platform.md` — 848w
+- 2023-06-09 — [Did Apple Watch save the Swiss Watch Industry?](https://om.co/2023/06/09/did-apple-watch-save-the-swiss-watch-industry/) — `2023-06-09-2023-06-09-did-apple-watch-save-the-swiss-watch-industry.md` — 472w
+- 2023-06-08 — [Of Media & Monsters](https://om.co/2023/06/08/of-media-monsters/) — `2023-06-08-2023-06-08-of-media-monsters.md` — 536w
+- 2023-06-07 — [Hot or Not: Our Dystopian Vision](https://om.co/2023/06/07/hot-or-not-our-dystopian-vision/) — `2023-06-07-2023-06-07-hot-or-not-our-dystopian-vision.md` — 603w
+- 2023-06-05 — [My ten takeaways from WWDC 2023](https://om.co/2023/06/05/my-big-takeaways-from-wwdc-2023/) — `2023-06-05-2023-06-05-my-big-takeaways-from-wwdc-2023.md` — 1758w
+- 2023-06-04 — [Your Weekend AI Reader](https://om.co/2023/06/04/your-weekend-ai-reader-7-links/) — `2023-06-04-2023-06-04-your-weekend-ai-reader-7-links.md` — 360w
+- 2023-06-03 — [In Search of Shadows](https://om.co/2023/06/03/in-search-of-shadows/) — `2023-06-03-2023-06-03-in-search-of-shadows.md` — 323w
+- 2023-06-02 — [The Why of Apple XR Headset](https://om.co/2023/06/02/the-why-of-apple-xr-headset/) — `2023-06-02-2023-06-02-the-why-of-apple-xr-headset.md` — 170w
+- 2023-06-01 — [A Letter from Om Issue #06/2023](https://om.co/2023/06/01/a-letter-from-om-issue-06-2023/) — `2023-06-01-2023-06-01-a-letter-from-om-issue-06-2023.md` — 1495w
+- 2023-05-30 — [Ben Smith’s Traffic](https://om.co/2023/05/30/ben-smiths-traffic/) — `2023-05-30-2023-05-30-ben-smiths-traffic.md` — 129w
+- 2023-05-29 — [Reflections of New York](https://om.co/2023/05/29/reflections-of-new-york/) — `2023-05-29-2023-05-29-reflections-of-new-york.md` — 203w
+- 2023-05-27 — [Wow, WordPress is 20](https://om.co/2023/05/27/wordpress-is-20/) — `2023-05-27-2023-05-27-wordpress-is-20.md` — 203w
+- 2023-05-27 — [The Number of Songs Uploaded Every Day Will Shock You](https://om.co/2023/05/27/the-number-of-songs-uploaded-every-day-will-shock-you/) — `2023-05-27-2023-05-27-the-number-of-songs-uploaded-every-day-will-shock-you.md` — 391w
+- 2023-05-26 — [What’s wrong with Leica Q3](https://om.co/2023/05/26/whats-wrong-with-leica-q3/) — `2023-05-26-2023-05-26-whats-wrong-with-leica-q3.md` — 1150w
+- 2023-05-25 — [The Musk of a Fox](https://om.co/2023/05/25/twitter-is-new-fox/) — `2023-05-25-2023-05-25-twitter-is-new-fox.md` — 451w
+- 2023-05-15 — [The Musky Fox](https://om.co/2023/05/15/the-musky-fox/) — `2023-05-15-2023-05-15-the-musky-fox.md` — 940w
+- 2023-05-15 — [The Future of Fast Food](https://om.co/2023/05/15/the-future-of-fast-food/) — `2023-05-15-2023-05-15-the-future-of-fast-food.md` — 715w
+- 2023-05-15 — [Resale](https://om.co/2023/05/15/resale/) — `2023-05-15-2023-05-15-resale.md` — 553w
+- 2023-05-15 — [A Letter from Om. Issue #05/2023](https://om.co/2023/05/15/a-letter-from-om-issue-05-2023/) — `2023-05-15-2023-05-15-a-letter-from-om-issue-05-2023.md` — 924w
+- 2023-05-14 — [Substack Spam](https://om.co/2023/05/14/substack-spam/) — `2023-05-14-2023-05-14-substack-spam.md` — 352w
+- 2023-05-13 — [A Good Teacher](https://om.co/2023/05/13/a-good-teacher/) — `2023-05-13-2023-05-13-a-good-teacher.md` — 149w
+- 2023-05-08 — [Random Thoughts While I Was Away](https://om.co/2023/05/08/random-thoughts-while-i-was-away/) — `2023-05-08-2023-05-08-random-thoughts-while-i-was-away.md` — 494w
+- 2023-05-08 — [Just A Little Longer](https://om.co/2023/05/08/just-a-little-longer/) — `2023-05-08-2023-05-08-just-a-little-longer.md` — 241w
+- 2023-05-08 — [Global Broadband Still Growing. Just Slower](https://om.co/2023/05/08/global-broadband-still-growing-just-slower/) — `2023-05-08-2023-05-08-global-broadband-still-growing-just-slower.md` — 232w
+- 2023-04-11 — [The House that Curry Built](https://om.co/2023/04/11/the-house-that-curry-built/) — `2023-04-11-2023-04-11-the-house-that-curry-built.md` — 171w
+- 2023-04-11 — [A trillion streams!](https://om.co/2023/04/11/916238/) — `2023-04-11-2023-04-11-916238.md` — 220w
+- 2023-04-10 — [Wait what? Even millennials don’t like algorithms](https://om.co/2023/04/10/wait-what-even-millennials-dont-like-algorithms/) — `2023-04-10-2023-04-10-wait-what-even-millennials-dont-like-algorithms.md` — 437w
+- 2023-04-09 — [Why Media Can’t Quit Twitter](https://om.co/2023/04/09/why-media-cant-quit-twitter/) — `2023-04-09-2023-04-09-why-media-cant-quit-twitter.md` — 257w
+- 2023-04-03 — [Moore on Moore’s Law](https://om.co/2023/04/03/moore-on-moores-law/) — `2023-04-03-2023-04-03-moore-on-moores-law.md` — 129w
+- 2023-04-03 — [A letter from Om, issue #4/2023](https://om.co/2023/04/03/a-letter-from-om-issue-4-2023-2/) — `2023-04-03-2023-04-03-a-letter-from-om-issue-4-2023-2.md` — 974w
+- 2023-03-27 — [Photography’s future is software & computation](https://om.co/2023/03/27/sigma-ceo-on-camera-phones-computational-photography/) — `2023-03-27-2023-03-27-sigma-ceo-on-camera-phones-computational-photography.md` — 839w
+- 2023-03-26 — [Two Decades Later](https://om.co/2023/03/26/two-decades-later/) — `2023-03-26-2023-03-26-two-decades-later.md` — 724w
+- 2023-03-22 — [Putting some AI in an Oasis](https://om.co/2023/03/22/putting-some-ai-in-an-oasis/) — `2023-03-22-2023-03-22-putting-some-ai-in-an-oasis.md` — 549w
+- 2023-03-21 — [Amazon shuts down DPReview](https://om.co/2023/03/21/amazon-shuts-down-dpreview/) — `2023-03-21-2023-03-21-amazon-shuts-down-dpreview.md` — 1044w
+- 2023-03-20 — [So much AI, so little time!](https://om.co/2023/03/20/generative-ai-is-addictive/) — `2023-03-20-2023-03-20-generative-ai-is-addictive.md` — 591w
+- 2023-03-20 — [On social, it’s a fine line between idiot & genius](https://om.co/2023/03/20/on-social-the-line-between-idiot-genius-is-porus/) — `2023-03-20-2023-03-20-on-social-the-line-between-idiot-genius-is-porus.md` — 459w
+- 2023-03-17 — [SVB, a week later](https://om.co/2023/03/17/svb-a-week-later/) — `2023-03-17-2023-03-17-svb-a-week-later.md` — 393w
+- 2023-03-17 — [Permanent Elegance of NY’s Flatiron Building](https://om.co/2023/03/17/the-permanent-elegance-of-nys-flatiron-building/) — `2023-03-17-2023-03-17-the-permanent-elegance-of-nys-flatiron-building.md` — 361w
+- 2023-03-16 — [A Letter from Om, Issue #3/2023](https://om.co/2023/03/16/a-letter-from-om-issue-3-2023/) — `2023-03-16-2023-03-16-a-letter-from-om-issue-3-2023.md` — 1611w
+- 2023-03-14 — [Streaks of Gold](https://om.co/2023/03/14/streaks-of-gold/) — `2023-03-14-2023-03-14-streaks-of-gold.md` — 437w
+- 2023-03-14 — [Kottke turns 25](https://om.co/2023/03/14/kottke-turns-25/) — `2023-03-14-2023-03-14-kottke-turns-25.md` — 273w
+- 2023-03-12 — [Yellen offers (some) clarity on SVB](https://om.co/2023/03/12/yellen-offers-some-clarity-on-svb/) — `2023-03-12-2023-03-12-yellen-offers-some-clarity-on-svb.md` — 409w
+- 2023-03-11 — [A Tough Weekend](https://om.co/2023/03/11/svb-collapses-founders-face-a-tough-road-ahead/) — `2023-03-11-2023-03-11-svb-collapses-founders-face-a-tough-road-ahead.md` — 1271w
+- 2023-03-04 — [ChatGPT is here! Now what?](https://om.co/2023/03/04/chatgpt/) — `2023-03-04-2023-03-04-chatgpt.md` — 690w
+- 2023-03-03 — [What about AI?](https://om.co/2023/03/03/whats-about-ai/) — `2023-03-03-2023-03-03-whats-about-ai.md` — 267w
+- 2023-03-01 — [A Letter from Om. Issue #02/2023](https://om.co/2023/03/01/a-letter-from-om-issue-02-2023/) — `2023-03-01-2023-03-01-a-letter-from-om-issue-02-2023.md` — 1986w
+- 2023-02-27 — [Writing Shouldn’t Be Hard](https://om.co/2023/02/27/writing-shouldnt-be-hard/) — `2023-02-27-2023-02-27-writing-shouldnt-be-hard.md` — 474w
+- 2023-02-27 — [The Gigabit Generation](https://om.co/2023/02/27/the-gigabit-generation/) — `2023-02-27-2023-02-27-the-gigabit-generation.md` — 716w
+- 2023-02-22 — [An Alaskan Sojourn](https://om.co/2023/02/22/an-alaskan-sojourn/) — `2023-02-22-2023-02-22-an-alaskan-sojourn.md` — 351w
+- 2023-02-14 — [Just say no!](https://om.co/2023/02/14/just-say-no/) — `2023-02-14-2023-02-14-just-say-no.md` — 193w
+- 2023-02-13 — [Sweet Streams are made of this](https://om.co/2023/02/13/streams-are-not-dead0yet/) — `2023-02-13-2023-02-13-streams-are-not-dead0yet.md` — 381w
+- 2023-02-13 — [Surfing in Alaska!](https://om.co/2023/02/13/surfing-in-alaska-seriously/) — `2023-02-13-2023-02-13-surfing-in-alaska-seriously.md` — 248w
+- 2023-02-12 — [Podcast Overload](https://om.co/2023/02/12/podcast-overload/) — `2023-02-12-2023-02-12-podcast-overload.md` — 639w
+- 2023-02-11 — [Plover Ahead](https://om.co/2023/02/11/plover-ahead/) — `2023-02-11-2023-02-11-plover-ahead.md` — 246w
+- 2023-02-08 — [Does Google need a new CEO?](https://om.co/2023/02/08/does-google-need-a-new-ceo/) — `2023-02-08-2023-02-08-does-google-need-a-new-ceo.md` — 523w
+- 2023-02-05 — [A landscape photography adventure with Leica M&hellip;](https://om.co/2023/02/05/why-modern-leica-m-is-a-great-landscape-camera/) — `2023-02-05-2023-02-05-why-modern-leica-m-is-a-great-landscape-camera.md` — 2489w
+- 2023-02-04 — [A bit of weekend reading](https://om.co/2023/02/04/a-bit-of-weekend-reading/) — `2023-02-04-2023-02-04-a-bit-of-weekend-reading.md` — 389w
+- 2023-02-02 — [The Why of Tech Layoffs](https://om.co/2023/02/02/the-why-of-tech-layoffs/) — `2023-02-02-2023-02-02-the-why-of-tech-layoffs.md` — 339w
+- 2023-02-01 — [How Spotify is changing dance music](https://om.co/2023/02/01/how-spotify-is-changing-dance-music/) — `2023-02-01-2023-02-01-how-spotify-is-changing-dance-music.md` — 143w
+- 2023-02-01 — [A Letter from Om. Issue #01/2023](https://om.co/2023/02/01/a-letter-from-om-january-2023/) — `2023-02-01-2023-02-01-a-letter-from-om-january-2023.md` — 908w
+- 2023-01-31 — [Big Emps, Low Temps!](https://om.co/2023/01/31/big-emps-low-temps/) — `2023-01-31-2023-01-31-big-emps-low-temps.md` — 150w
+- 2023-01-30 — [WiFi is super fast on 2023  Macbook Pros](https://om.co/2023/01/30/wifi6e-is-the-fastest-wifi/) — `2023-01-30-2023-01-30-wifi6e-is-the-fastest-wifi.md` — 652w
+- 2023-01-30 — [Glacier’s Edge](https://om.co/2023/01/30/glaciers-edge/) — `2023-01-30-2023-01-30-glaciers-edge.md` — 142w
+- 2023-01-26 — [Scenes from Winter Wonderlands](https://om.co/2023/01/26/scenes-from-winter-wonderlands/) — `2023-01-26-2023-01-26-scenes-from-winter-wonderlands.md` — 249w
+- 2023-01-25 — [Is “stream” as a design paradigm over?](https://om.co/2023/01/25/is-stream-as-a-design-paradigm-over/) — `2023-01-25-2023-01-25-is-stream-as-a-design-paradigm-over.md` — 550w
+- 2023-01-18 — [The Smartphone Megapixel Race!](https://om.co/2023/01/18/the-smartphone-megapixel-race/) — `2023-01-18-2023-01-18-the-smartphone-megapixel-race.md` — 428w
+- 2023-01-17 — [Apple launches new (M2) chips](https://om.co/2023/01/17/how-much-better-are-apples-new-m2-chips/) — `2023-01-17-2023-01-17-how-much-better-are-apples-new-m2-chips.md` — 907w
+- 2023-01-16 — [Trip down the memory lane](https://om.co/2023/01/16/trip-down-the-memory-lane/) — `2023-01-16-2023-01-16-trip-down-the-memory-lane.md` — 298w
+- 2023-01-12 — [Tough Start to 2023](https://om.co/2023/01/12/tough-start-to-2023/) — `2023-01-12-2023-01-12-tough-start-to-2023.md` — 225w
+- 2023-01-11 — [Love What You Do](https://om.co/2023/01/11/love-what-you-do/) — `2023-01-11-2023-01-11-love-what-you-do.md` — 322w
+- 2023-01-04 — [Why internet silos win](https://om.co/2023/01/04/why-internet-silos-win/) — `2023-01-04-2023-01-04-why-internet-silos-win.md` — 626w
+- 2023-01-04 — [(Mis)adventures in flying](https://om.co/2023/01/04/misadventures-in-flying/) — `2023-01-04-2023-01-04-misadventures-in-flying.md` — 408w
+- 2022-12-31 — [Goodbye, 2022. Hello, 2023.](https://om.co/2022/12/31/goodbye-2022-hello-2023/) — `2022-12-31-2022-12-31-goodbye-2022-hello-2023.md` — 499w
+- 2022-12-27 — [In 2022, my visual vocabulary found appreciation&hellip;](https://om.co/2022/12/27/my-favorite-photos-of-2022/) — `2022-12-27-2022-12-27-my-favorite-photos-of-2022.md` — 785w
+- 2022-12-26 — [Sometimes a shoe is not just a shoe](https://om.co/2022/12/26/sometimes-a-shoe-is-not-just-a-shoe/) — `2022-12-26-2022-12-26-sometimes-a-shoe-is-not-just-a-shoe.md` — 1340w
+- 2022-12-17 — [A December Note](https://om.co/2022/12/17/a-december-note/) — `2022-12-17-2022-12-17-a-december-note.md` — 624w
+- 2022-12-16 — [Will ChatGPT kill search & software + a few good reads](https://om.co/2022/12/16/will-chatgpt-kill-search-software-a-few-good-reads/) — `2022-12-16-2022-12-16-will-chatgpt-kill-search-software-a-few-good-reads.md` — 255w
+- 2022-12-13 — [The (Positive) Energy of Fusion](https://om.co/2022/12/13/the-positive-energy-of-fusion/) — `2022-12-13-2022-12-13-the-positive-energy-of-fusion.md` — 697w
+- 2022-12-12 — [Bully doing bullying](https://om.co/2022/12/12/bully-doing-bullying/) — `2022-12-12-2022-12-12-bully-doing-bullying.md` — 203w
+- 2022-12-09 — [Why Context Matters](https://om.co/2022/12/09/why-context-matters/) — `2022-12-09-2022-12-09-why-context-matters.md` — 452w
+- 2022-12-05 — [Disney Minus](https://om.co/2022/12/05/disney-plus-sucks-thanks-to-hulu/) — `2022-12-05-2022-12-05-disney-plus-sucks-thanks-to-hulu.md` — 759w
+- 2022-12-01 — [Goodbye Spotify](https://om.co/2022/12/01/goodbye-spotify/) — `2022-12-01-2022-12-01-goodbye-spotify.md` — 1046w
+- 2022-11-30 — [Aerial magic with iPhone 14 Pro](https://om.co/2022/11/30/aerial-magic-with-iphone-14-pro/) — `2022-11-30-2022-11-30-aerial-magic-with-iphone-14-pro.md` — 319w
+- 2022-11-29 — [What I am reading today](https://om.co/2022/11/29/what-i-am-reading-today-72/) — `2022-11-29-2022-11-29-what-i-am-reading-today-72.md` — 303w
+- 2022-11-29 — [Musk overload](https://om.co/2022/11/29/musk-overload/) — `2022-11-29-2022-11-29-musk-overload.md` — 1013w
+- 2022-11-28 — [TikTok & The Tiny Tune Trend](https://om.co/2022/11/28/tiktok-the-tiny-tune-trend/) — `2022-11-28-2022-11-28-tiktok-the-tiny-tune-trend.md` — 343w
+- 2022-11-27 — [What’s Worth Reading: Thanksgiving Weekend Edition](https://om.co/2022/11/27/whats-worth-reading-thanksgiving-weekend-edition/) — `2022-11-27-2022-11-27-whats-worth-reading-thanksgiving-weekend-edition.md` — 404w
+- 2022-11-17 — [How FTX built a house of cards](https://om.co/2022/11/17/how-ftx-built-a-house-of-cards/) — `2022-11-17-2022-11-17-how-ftx-built-a-house-of-cards.md` — 939w
+- 2022-11-15 — [In My Newsletter I Trust](https://om.co/2022/11/15/in-my-newsletter-i-trust/) — `2022-11-15-2022-11-15-in-my-newsletter-i-trust.md` — 543w
+- 2022-11-10 — [In Good Times, FOMO beats Diligence](https://om.co/2022/11/10/in-good-times-fomo-beats-diligence/) — `2022-11-10-2022-11-10-in-good-times-fomo-beats-diligence.md` — 566w
+- 2022-11-07 — [A very misty weekend](https://om.co/2022/11/07/a-very-misty-weekend/) — `2022-11-07-2022-11-07-a-very-misty-weekend.md` — 235w
+- 2022-11-01 — [Adobe's Future Adobe has to embrace AI&hellip;](https://om.co/2022/11/01/adobes-future-copy-paste-ai/) — `2022-11-01-2022-11-01-adobes-future-copy-paste-ai.md` — 1370w
+- 2022-10-26 — [So is the On Demand Economy Dead?](https://om.co/2022/10/26/so-is-the-on-demand-economy-dead/) — `2022-10-26-2022-10-26-so-is-the-on-demand-economy-dead.md` — 912w
+- 2022-10-24 — [The Forever Immigrant Challenge](https://om.co/2022/10/24/for-somewhere-else/) — `2022-10-24-2022-10-24-for-somewhere-else.md` — 318w
+- 2022-10-21 — [Who’s Streaming’s Top of The Pops?](https://om.co/2022/10/21/whos-streamings-top-of-the-pops/) — `2022-10-21-2022-10-21-whos-streamings-top-of-the-pops.md` — 172w
+- 2022-10-21 — [Lana has lost her drive](https://om.co/2022/10/21/lana-has-lost-her-drive/) — `2022-10-21-2022-10-21-lana-has-lost-her-drive.md` — 425w
+- 2022-10-19 — [TikTok, New York Times, Charlatans & the Nobel Prizes](https://om.co/2022/10/19/tiktok-new-york-times-charlatans-the-nobel-prizes/) — `2022-10-19-2022-10-19-tiktok-new-york-times-charlatans-the-nobel-prizes.md` — 699w
+- 2022-10-11 — [Weathergraph](https://om.co/2022/10/11/weathergraph/) — `2022-10-11-2022-10-11-weathergraph.md` — 306w
+- 2022-10-11 — [Of Monsters & Media](https://om.co/2022/10/11/of-monsters-media/) — `2022-10-11-2022-10-11-of-monsters-media.md` — 512w
+- 2022-10-09 — [Delhi Minimal](https://om.co/2022/10/09/delhi-minimal/) — `2022-10-09-2022-10-09-delhi-minimal.md` — 312w
+- 2022-10-06 — [You Got No Mail (aka Bulletin)](https://om.co/2022/10/06/you-got-no-mail-aka-bulletin/) — `2022-10-06-2022-10-06-you-got-no-mail-aka-bulletin.md` — 294w
+- 2022-10-05 — [Recovery Mode](https://om.co/2022/10/05/recovery-mode/) — `2022-10-05-2022-10-05-recovery-mode.md` — 283w
+- 2022-10-05 — [My Verizon + Apple eSIM Problem](https://om.co/2022/10/05/the-esim-problem/) — `2022-10-05-2022-10-05-the-esim-problem.md` — 1423w
+- 2022-10-02 — [October 2022: A Personal Update + Some Good Reads](https://om.co/2022/10/02/october-2022-a-personal-update-some-good-reads/) — `2022-10-02-2022-10-02-october-2022-a-personal-update-some-good-reads.md` — 1166w
+- 2022-09-26 — [The joy of paper](https://om.co/2022/09/26/the-joy-of-paper/) — `2022-09-26-2022-09-26-the-joy-of-paper.md` — 219w
+- 2022-09-22 — [What do sensors know?](https://om.co/2022/09/22/what-do-sensors-know/) — `2022-09-22-2022-09-22-what-do-sensors-know.md` — 170w
+- 2022-09-22 — [The sorry state of the web](https://om.co/2022/09/22/the-sorry-state-of-the-web/) — `2022-09-22-2022-09-22-the-sorry-state-of-the-web.md` — 198w
+- 2022-09-16 — [Why (and how) of blogging](https://om.co/2022/09/16/why-and-how-of-blogging/) — `2022-09-16-2022-09-16-why-and-how-of-blogging.md` — 145w
+- 2022-09-05 — [Some thoughts on the 2022 MacBook Air](https://om.co/2022/09/05/is-the-2022-macbook-air-good-for-photography/) — `2022-09-05-2022-09-05-is-the-2022-macbook-air-good-for-photography.md` — 2666w
+- 2022-09-03 — [Cool Gray City, Take Two](https://om.co/2022/09/03/cool-gray-city-take-two/) — `2022-09-03-2022-09-03-cool-gray-city-take-two.md` — 154w
+- 2022-08-30 — [Apple’s missing “augmented” intelligence](https://om.co/2022/08/30/apples-missing-augmented-intelligence/) — `2022-08-30-2022-08-30-apples-missing-augmented-intelligence.md` — 855w
+- 2022-08-24 — [Apple’s Golden Noose](https://om.co/2022/08/24/apples-golden-noose/) — `2022-08-24-2022-08-24-apples-golden-noose.md` — 179w
+- 2022-08-23 — [There is no “social” in “social media”](https://om.co/2022/08/23/there-is-no-social-in-social-media/) — `2022-08-23-2022-08-23-there-is-no-social-in-social-media.md` — 195w
+- 2022-08-21 — [My Cool Gray City of Love](https://om.co/2022/08/21/my-cool-gray-city-of-love/) — `2022-08-21-2022-08-21-my-cool-gray-city-of-love.md` — 265w
+- 2022-08-16 — [One needs ‘Social Silence’](https://om.co/2022/08/16/social-silence/) — `2022-08-16-2022-08-16-social-silence.md` — 310w
+- 2022-08-15 — [AirTags: what are they good for?](https://om.co/2022/08/15/airtags-what-are-they-good-for-2/) — `2022-08-15-2022-08-15-airtags-what-are-they-good-for-2.md` — 432w
+- 2022-08-10 — [[Video] Bill Gurley on Surviving Downturns](https://om.co/2022/08/10/benchmark-vc-bill-gurley-on-surviving-downturn-video/) — `2022-08-10-2022-08-10-benchmark-vc-bill-gurley-on-surviving-downturn-video.md` — 312w
+- 2022-08-08 — [A final goodbye](https://om.co/2022/08/08/goodbye-vijay-gill-dear-friend/) — `2022-08-08-2022-08-08-goodbye-vijay-gill-dear-friend.md` — 1765w
+- 2022-08-04 — [In Beyoncé we trust?](https://om.co/2022/08/04/how-good-is-beyonce-renaissance-really/) — `2022-08-04-2022-08-04-how-good-is-beyonce-renaissance-really.md` — 712w
+- 2022-08-03 — [A rough, sleepless night](https://om.co/2022/08/03/a-rough-sleepless-night/) — `2022-08-03-2022-08-03-a-rough-sleepless-night.md` — 210w
+- 2022-07-31 — [A (personal) midsummer update](https://om.co/2022/07/31/a-personal-midsummer-update/) — `2022-07-31-2022-07-31-a-personal-midsummer-update.md` — 636w
+- 2022-07-30 — [The problem with Facebook](https://om.co/2022/07/30/the-problem-with-facebook/) — `2022-07-30-2022-07-30-the-problem-with-facebook.md` — 325w
+- 2022-07-26 — [Why Kylie is mad at Instagram?](https://om.co/2022/07/26/why-kylie-is-mad-at-instagram-explained/) — `2022-07-26-2022-07-26-why-kylie-is-mad-at-instagram-explained.md` — 1241w
+- 2022-07-26 — [When the birds go home](https://om.co/2022/07/26/when-the-birds-go-home/) — `2022-07-26-2022-07-26-when-the-birds-go-home.md` — 198w
+- 2022-07-22 — [Mark Vanhoenacker’s new book](https://om.co/2022/07/22/imagine-a-city-a-new-book-by-mark-vanhoenacker/) — `2022-07-22-2022-07-22-imagine-a-city-a-new-book-by-mark-vanhoenacker.md` — 201w
+- 2022-07-21 — [The future of tech as I see it](https://om.co/2022/07/21/tech-future-four-trends-2022/) — `2022-07-21-2022-07-21-tech-future-four-trends-2022.md` — 1460w
+- 2022-07-21 — [An Icelandic Friend](https://om.co/2022/07/21/an-icelandic-friend/) — `2022-07-21-2022-07-21-an-icelandic-friend.md` — 269w
+- 2022-07-20 — [The Weight Of Creativity](https://om.co/2022/07/20/the-weight-of-creativity/) — `2022-07-20-2022-07-20-the-weight-of-creativity.md` — 1255w
+- 2022-07-18 — [Instagram is dead](https://om.co/2022/07/18/instagram-is-dead/) — `2022-07-18-2022-07-18-instagram-is-dead.md` — 734w
+- 2022-06-15 — [36 hours in Porto](https://om.co/2022/06/15/36-hours-in-porto/) — `2022-06-15-2022-06-15-36-hours-in-porto.md` — 164w
+- 2022-06-10 — [Some Observations on WWDC 2022](https://om.co/2022/06/10/wwdc-2022/) — `2022-06-10-2022-06-10-wwdc-2022.md` — 429w
+- 2022-05-25 — [Garbage](https://om.co/2022/05/25/twitter-is-garbage/) — `2022-05-25-2022-05-25-twitter-is-garbage.md` — 498w
+- 2022-05-23 — [A new lick of paint](https://om.co/2022/05/23/a-new-lick-of-paint/) — `2022-05-23-2022-05-23-a-new-lick-of-paint.md` — 195w
+- 2022-05-13 — [Everyone (including Elon) wants a better deal](https://om.co/2022/05/13/everyone-including-elon-wants-a-better-deal/) — `2022-05-13-2022-05-13-everyone-including-elon-wants-a-better-deal.md` — 408w
+- 2022-04-25 — [Bully Pulpit](https://om.co/2022/04/25/why-elon-is-buying-twitter/) — `2022-04-25-2022-04-25-why-elon-is-buying-twitter.md` — 1011w
+- 2022-04-18 — [“Flow”](https://om.co/2022/04/18/flow/) — `2022-04-18-2022-04-18-flow.md` — 476w
+- 2022-04-16 — [So who else can buy Twitter?](https://om.co/2022/04/16/so-who-else-can-buy-twitter/) — `2022-04-16-2022-04-16-so-who-else-can-buy-twitter.md` — 477w
+- 2022-04-15 — [Musk or Not, Twitter CEO Needs To Go](https://om.co/2022/04/15/musk-or-not-twitter-ceo-needs-to-go/) — `2022-04-15-2022-04-15-musk-or-not-twitter-ceo-needs-to-go.md` — 1157w
+- 2022-04-12 — [What is the future of social media?](https://om.co/2022/04/12/future-of-social-media/) — `2022-04-12-2022-04-12-future-of-social-media.md` — 587w
+- 2022-04-06 — [04.06.2022 Musings](https://om.co/2022/04/06/04-06-2022-musings/) — `2022-04-06-2022-04-06-04-06-2022-musings.md` — 593w
+- 2022-04-04 — [04.04.2023 Musings](https://om.co/2022/04/04/04-04-2023-musings/) — `2022-04-04-2022-04-04-04-04-2023-musings.md` — 376w
+- 2022-04-03 — [Slow Horses](https://om.co/2022/04/03/slow-horses/) — `2022-04-03-2022-04-03-slow-horses.md` — 944w
+- 2022-03-30 — [Boostered Break](https://om.co/2022/03/30/boostered-break/) — `2022-03-30-2022-03-30-boostered-break.md` — 287w
+- 2022-03-29 — [Happy Piano Day](https://om.co/2022/03/29/happy-piano-day/) — `2022-03-29-2022-03-29-happy-piano-day.md` — 173w
+- 2022-03-27 — [Are the Oscars over?](https://om.co/2022/03/27/are-the-oscars-over/) — `2022-03-27-2022-03-27-are-the-oscars-over.md` — 140w
+- 2022-03-24 — [Internet Waypoints](https://om.co/2022/03/24/internet-waypoints/) — `2022-03-24-2022-03-24-internet-waypoints.md` — 510w
+- 2022-03-22 — [The Password Defense](https://om.co/2022/03/22/the-password-defense/) — `2022-03-22-2022-03-22-the-password-defense.md` — 575w
+- 2022-03-21 — [Old Processes vs. New Behaviors](https://om.co/2022/03/21/old-processes-vs-new-behaviors/) — `2022-03-21-2022-03-21-old-processes-vs-new-behaviors.md` — 993w
+- 2022-03-19 — [“The Great Resignation” is Clickbait](https://om.co/2022/03/19/the-great-resignation-is-clickbait/) — `2022-03-19-2022-03-19-the-great-resignation-is-clickbait.md` — 240w
+- 2022-03-19 — [Why Camera isn’t just a camera](https://om.co/2022/03/19/why-camera-isnt-just-a-camera/) — `2022-03-19-2022-03-19-why-camera-isnt-just-a-camera.md` — 415w
+- 2022-03-18 — [Community Saves the World?](https://om.co/2022/03/18/community-saves-the-world/) — `2022-03-18-2022-03-18-community-saves-the-world.md` — 142w
+- 2022-03-17 — [This is how the world ends](https://om.co/2022/03/17/this-is-how-the-world-ends/) — `2022-03-17-2022-03-17-this-is-how-the-world-ends.md` — 133w
+- 2022-03-17 — [It’s (always) the camera, stupid](https://om.co/2022/03/17/its-always-the-camera-stupid/) — `2022-03-17-2022-03-17-its-always-the-camera-stupid.md` — 556w
+- 2022-02-27 — [Who’s Reading Anyway](https://om.co/2022/02/27/whos-reading-anyway/) — `2022-02-27-2022-02-27-whos-reading-anyway.md` — 708w
+- 2022-02-21 — [President’s Day](https://om.co/2022/02/21/presidents-day/) — `2022-02-21-2022-02-21-presidents-day.md` — 719w
+- 2022-02-17 — [Why Spotify bought Chartable & Podsights](https://om.co/2022/02/17/why-spotify-bought-chartable-podsights/) — `2022-02-17-2022-02-17-why-spotify-bought-chartable-podsights.md` — 819w
+- 2022-02-12 — [Looking back at my week](https://om.co/2022/02/12/looking-back-at-my-week/) — `2022-02-12-2022-02-12-looking-back-at-my-week.md` — 667w
+- 2022-02-06 — [Who do you want to be?](https://om.co/2022/02/06/social-media-is/) — `2022-02-06-2022-02-06-social-media-is.md` — 197w
+- 2022-02-06 — [Lata Mangeshkar, RIP](https://om.co/2022/02/06/lata-mangeshkar-rip/) — `2022-02-06-2022-02-06-lata-mangeshkar-rip.md` — 232w
+- 2022-02-03 — [Trust & Very Personal Computing](https://om.co/2022/02/03/trust-very-personal-computing/) — `2022-02-03-2022-02-03-trust-very-personal-computing.md` — 172w
+- 2022-02-01 — [The Metaverse Reader](https://om.co/2022/02/01/the-metaverse-reader/) — `2022-02-01-2022-02-01-the-metaverse-reader.md` — 457w
+- 2022-02-01 — [The Daily Om: 02.01.2022](https://om.co/2022/02/01/the-daily-om-02-01-2022/) — `2022-02-01-2022-02-01-the-daily-om-02-01-2022.md` — 341w
+- 2022-01-31 — [The age of very personal computing](https://om.co/2022/01/31/the-age-of-very-personal-computing/) — `2022-01-31-2022-01-31-the-age-of-very-personal-computing.md` — 895w
+- 2022-01-26 — [PhoToday](https://om.co/2022/01/26/photoday/) — `2022-01-26-2022-01-26-photoday.md` — 240w
+- 2022-01-24 — [Everyone Loves Wordle! Why?](https://om.co/2022/01/24/why-everyone-loves-wordle/) — `2022-01-24-2022-01-24-why-everyone-loves-wordle.md` — 178w
+- 2022-01-17 — [What’s the difference between USB 4.0  & Thunderbolt 4.0](https://om.co/2022/01/17/usb-4-0-vs-thunderbolt-4-0/) — `2022-01-17-2022-01-17-usb-4-0-vs-thunderbolt-4-0.md` — 453w
+- 2022-01-12 — [Can we ever become Post-Social?](https://om.co/2022/01/12/can-we-ever-become-post-social/) — `2022-01-12-2022-01-12-can-we-ever-become-post-social.md` — 600w
+- 2022-01-09 — [iPhone & its impact on mobile](https://om.co/2022/01/09/looking-back-iphone-its-impact-on-mobile-industry-us/) — `2022-01-09-2022-01-09-looking-back-iphone-its-impact-on-mobile-industry-us.md` — 1222w
+- 2022-01-04 — [Facebook’s Role in Capitol Attacks](https://om.co/2022/01/04/facebooks-role-in-capitol-attacks/) — `2022-01-04-2022-01-04-facebooks-role-in-capitol-attacks.md` — 235w
+- 2022-01-03 — [Tourists vs Purists](https://om.co/2022/01/03/tourists-vs-purists/) — `2022-01-03-2022-01-03-tourists-vs-purists.md` — 264w
+- 2022-01-03 — [Reflecting!](https://om.co/2022/01/03/reflecting-on-2021-the-year-ahead/) — `2022-01-03-2022-01-03-reflecting-on-2021-the-year-ahead.md` — 662w
+- 2021-12-30 — [Broadband & Internet is Growing Everywhere](https://om.co/2021/12/30/broadband-internet-is-growing-everywhere/) — `2021-12-30-2021-12-30-broadband-internet-is-growing-everywhere.md` — 377w
+- 2021-12-28 — [#14](https://om.co/2021/12/28/14/) — `2021-12-28-2021-12-28-14.md` — 290w
+- 2021-12-21 — [The Newest Variant](https://om.co/2021/12/21/the-newest-variant/) — `2021-12-21-2021-12-21-the-newest-variant.md` — 257w
+- 2021-12-13 — [What’s on my Spotify 2021 list?](https://om.co/2021/12/13/whats-on-my-spotify-2021-list/) — `2021-12-13-2021-12-13-whats-on-my-spotify-2021-list.md` — 287w
+- 2021-12-11 — [Re-entry](https://om.co/2021/12/11/re-entry/) — `2021-12-11-2021-12-11-re-entry.md` — 344w
+- 2021-11-20 — [A good place to work](https://om.co/2021/11/20/a-good-place-to-work/) — `2021-11-20-2021-11-20-a-good-place-to-work.md` — 347w
+- 2021-11-19 — [How important is “now”](https://om.co/2021/11/19/how-important-is-now/) — `2021-11-19-2021-11-19-how-important-is-now.md` — 172w
+- 2021-11-15 — [A quiet foggy morning over Lake Merced](https://om.co/2021/11/15/a-quiet-foggy-morning-over-lake-merced/) — `2021-11-15-2021-11-15-a-quiet-foggy-morning-over-lake-merced.md` — 121w
+- 2021-11-13 — [Learning to Drive](https://om.co/2021/11/13/learning-to-drive/) — `2021-11-13-2021-11-13-learning-to-drive.md` — 1123w
+- 2021-11-10 — [Twitter Blue](https://om.co/2021/11/10/is-twitter-blue-worth-it/) — `2021-11-10-2021-11-10-is-twitter-blue-worth-it.md` — 597w
+- 2021-11-09 — [That Boat in the Bay](https://om.co/2021/11/09/that-boat-in-the-bay/) — `2021-11-09-2021-11-09-that-boat-in-the-bay.md` — 261w
+- 2021-11-05 — [Happy Fountain Pen Day](https://om.co/2021/11/05/happy-fountain-pen-day-2/) — `2021-11-05-2021-11-05-happy-fountain-pen-day-2.md` — 303w
+- 2021-11-01 — [Odds-on](https://om.co/2021/11/01/theathetic-fanduel-draftkings/) — `2021-11-01-2021-11-01-theathetic-fanduel-draftkings.md` — 690w
+- 2021-10-31 — [MetaJob](https://om.co/2021/10/31/facebook-is-now-meta/) — `2021-10-31-2021-10-31-facebook-is-now-meta.md` — 633w
+- 2021-10-24 — [iPod: 20 Years Later](https://om.co/2021/10/24/ipod-20-years-later/) — `2021-10-24-2021-10-24-ipod-20-years-later.md` — 1071w
+- 2021-10-24 — [Azeem’s Exponential Views](https://om.co/2021/10/24/azeems-exponential-views/) — `2021-10-24-2021-10-24-azeems-exponential-views.md` — 1149w
+- 2021-10-17 — [Sitting In Place](https://om.co/2021/10/17/sitting-in-place/) — `2021-10-17-2021-10-17-sitting-in-place.md` — 609w
+- 2021-10-06 — [10 years later](https://om.co/2021/10/06/steve-jobs-death-anniversary-10-years-later/) — `2021-10-06-2021-10-06-steve-jobs-death-anniversary-10-years-later.md` — 223w
+- 2021-10-04 — [55](https://om.co/2021/10/04/yet-another-birthday/) — `2021-10-04-2021-10-04-yet-another-birthday.md` — 405w
+- 2021-09-26 — [Remains of the Tweek](https://om.co/2021/09/26/remains-of-the-tweek/) — `2021-09-26-2021-09-26-remains-of-the-tweek.md` — 474w
+- 2021-09-26 — [A view with a bridge](https://om.co/2021/09/26/a-view-with-a-bridge/) — `2021-09-26-2021-09-26-a-view-with-a-bridge.md` — 442w
+- 2021-09-22 — [The iPad Mini (2021) Review](https://om.co/2021/09/22/the-ipad-mini-2021-review/) — `2021-09-22-2021-09-22-the-ipad-mini-2021-review.md` — 1433w
+- 2021-09-21 — [Of all the iPhone(s) 13, Pro seems to be perfect.](https://om.co/2021/09/21/the-iphone-13-pro-review/) — `2021-09-21-2021-09-21-the-iphone-13-pro-review.md` — 845w
+- 2021-09-21 — [Capitalism is about discontent](https://om.co/2021/09/21/capitalism-is-about-discontent/) — `2021-09-21-2021-09-21-capitalism-is-about-discontent.md` — 130w
+- 2021-09-05 — [A Very Foggy Tweek](https://om.co/2021/09/05/a-very-foggy-tweek/) — `2021-09-05-2021-09-05-a-very-foggy-tweek.md` — 439w
+- 2021-09-03 — [Why are tech stocks are so expensive?](https://om.co/2021/09/03/why-are-tech-stocks-are-so-expensive/) — `2021-09-03-2021-09-03-why-are-tech-stocks-are-so-expensive.md` — 191w
+- 2021-09-03 — [Van Gogh of Typewriter Art](https://om.co/2021/09/03/van-gogh-of-typewriter-art/) — `2021-09-03-2021-09-03-van-gogh-of-typewriter-art.md` — 257w
+- 2021-09-03 — [VC business is nuts](https://om.co/2021/09/03/vc-business-is-nuts/) — `2021-09-03-2021-09-03-vc-business-is-nuts.md` — 120w
+- 2021-09-03 — [Ambition has failed us.](https://om.co/2021/09/03/ambition-has-failed-us/) — `2021-09-03-2021-09-03-ambition-has-failed-us.md` — 182w
+- 2021-09-02 — [September](https://om.co/2021/09/02/september/) — `2021-09-02-2021-09-02-september.md` — 362w
+- 2021-08-31 — [Unicorn to Unicorny](https://om.co/2021/08/31/startup-names-unicorns-to-dragons/) — `2021-08-31-2021-08-31-startup-names-unicorns-to-dragons.md` — 253w
+- 2021-08-26 — [A Transactional Society](https://om.co/2021/08/26/a-transactional-society/) — `2021-08-26-2021-08-26-a-transactional-society.md` — 160w
+- 2021-08-24 — [The Perils of Data Categorization](https://om.co/2021/08/24/the-perils-of-data-categorization/) — `2021-08-24-2021-08-24-the-perils-of-data-categorization.md` — 728w
+- 2021-08-22 — [10 years ago](https://om.co/2021/08/22/10-years-ago/) — `2021-08-22-2021-08-22-10-years-ago.md` — 275w
+- 2021-08-21 — [My Tweek That Was](https://om.co/2021/08/21/my-tweek-that-was/) — `2021-08-21-2021-08-21-my-tweek-that-was.md` — 307w
+- 2021-08-17 — [Gone in 60 minutes](https://om.co/2021/08/17/gone-in-60-minutes/) — `2021-08-17-2021-08-17-gone-in-60-minutes.md` — 2191w
+- 2021-08-16 — [Will Spotify become Facebook of streaming?](https://om.co/2021/08/16/will-spotify-become-facebook-of-streaming/) — `2021-08-16-2021-08-16-will-spotify-become-facebook-of-streaming.md` — 210w
+- 2021-08-15 — [A Tinker Tailor Sunday](https://om.co/2021/08/15/a-tinker-tailor-sunday/) — `2021-08-15-2021-08-15-a-tinker-tailor-sunday.md` — 388w
+- 2021-08-13 — [Magic Keyboard w/TouchID: is it worth it?](https://om.co/2021/08/13/magic-keyboard-touchid-review/) — `2021-08-13-2021-08-13-magic-keyboard-touchid-review.md` — 570w
+- 2021-08-10 — [So why is SpaceX buying Swarm?](https://om.co/2021/08/10/why-is-spacex-buying-swarm/) — `2021-08-10-2021-08-10-why-is-spacex-buying-swarm.md` — 493w
+- 2021-08-10 — [GLASS’ Tom Watson](https://om.co/2021/08/10/glass/) — `2021-08-10-2021-08-10-glass.md` — 1826w
+- 2021-08-09 — [Analog Pens, Apple’s Pencil & Talking Machines: writing & its future](https://om.co/2021/08/09/pens-pencils-ai-its-all-so-complicated/) — `2021-08-09-2021-08-09-pens-pencils-ai-its-all-so-complicated.md` — 677w
+- 2021-08-08 — [Leaf](https://om.co/2021/08/08/leaf/) — `2021-08-08-2021-08-08-leaf.md` — 203w
+- 2021-08-07 — [Where did the words go?](https://om.co/2021/08/07/where-did-the-words-go/) — `2021-08-07-2021-08-07-where-did-the-words-go.md` — 648w
+- 2021-08-07 — [Covid & its unseen effects](https://om.co/2021/08/07/covid-unintended-effects/) — `2021-08-07-2021-08-07-covid-unintended-effects.md` — 172w
+- 2021-08-03 — [Out of water](https://om.co/2021/08/03/out-of-water/) — `2021-08-03-2021-08-03-out-of-water.md` — 1043w
+- 2021-08-02 — [The 31-day challenge](https://om.co/2021/08/02/the-31-day-challenge/) — `2021-08-02-2021-08-02-the-31-day-challenge.md` — 132w
+- 2021-08-01 — [What’s so great about summer?](https://om.co/2021/08/01/whats-so-great-about-summer/) — `2021-08-01-2021-08-01-whats-so-great-about-summer.md` — 432w
+- 2021-07-28 — [What does the Internet & Zoom have to do with Nam June Paik?](https://om.co/2021/07/28/nam-june-paik/) — `2021-07-28-2021-07-28-nam-june-paik.md` — 473w
+- 2021-07-26 — [What the heck is The Hundred? Should&hellip;](https://om.co/2021/07/26/the-hundred-vs-ipl-cricket/) — `2021-07-26-2021-07-26-the-hundred-vs-ipl-cricket.md` — 2428w
+- 2021-07-24 — [What goes before wisdom?](https://om.co/2021/07/24/what-goes-before-wisdom/) — `2021-07-24-2021-07-24-what-goes-before-wisdom.md` — 713w
+- 2021-07-18 — [An unusual week](https://om.co/2021/07/18/an-unusual-week/) — `2021-07-18-2021-07-18-an-unusual-week.md` — 622w
+- 2021-07-17 — [15 years on Twitter](https://om.co/2021/07/17/15-years-on-twitter/) — `2021-07-17-2021-07-17-15-years-on-twitter.md` — 384w
+- 2021-07-12 — [Startups & the funding (news) question](https://om.co/2021/07/12/startups-the-funding-news-question/) — `2021-07-12-2021-07-12-startups-the-funding-news-question.md` — 725w
+- 2021-07-11 — [Vinyl Conundrum + other notables](https://om.co/2021/07/11/the-vinyl-conundrum-some-notables/) — `2021-07-11-2021-07-11-the-vinyl-conundrum-some-notables.md` — 476w
+- 2021-07-08 — [Ken Kocienda](https://om.co/2021/07/08/ken-kocienda/) — `2021-07-08-2021-07-08-ken-kocienda.md` — 508w
+- 2021-07-07 — [40 kilometers later](https://om.co/2021/07/07/40-kilometers-later/) — `2021-07-07-2021-07-07-40-kilometers-later.md` — 592w
+- 2021-07-05 — [Alaska on my mind](https://om.co/2021/07/05/alaska-on-my-mind/) — `2021-07-05-2021-07-05-alaska-on-my-mind.md` — 250w
+- 2021-07-04 — [Tweek: Recap of my week on Twitter](https://om.co/2021/07/04/tweek-recap-of-my-week-on-twitter/) — `2021-07-04-2021-07-04-tweek-recap-of-my-week-on-twitter.md` — 448w
+- 2021-06-29 — [Synchronicity](https://om.co/2021/06/29/synchronicity/) — `2021-06-29-2021-06-29-synchronicity.md` — 948w
+- 2021-06-28 — [Yellowstone & Climate Change](https://om.co/2021/06/28/yellowstone-climate-change/) — `2021-06-28-2021-06-28-yellowstone-climate-change.md` — 564w
+- 2021-06-25 — [What (a) Disaster](https://om.co/2021/06/25/what-a-disaster/) — `2021-06-25-2021-06-25-what-a-disaster.md` — 179w
+- 2021-06-22 — [The Devils You Don’t Know](https://om.co/2021/06/22/the-devils-you-dont-know/) — `2021-06-22-2021-06-22-the-devils-you-dont-know.md` — 961w
+- 2021-06-22 — [Janet Malcolm on writing, journalism](https://om.co/2021/06/22/janet-malcolm-on-writing-journalism/) — `2021-06-22-2021-06-22-janet-malcolm-on-writing-journalism.md` — 464w
+- 2021-06-22 — [Happy 50th, SouthWest](https://om.co/2021/06/22/happy-50th-birthday-southwest/) — `2021-06-22-2021-06-22-happy-50th-birthday-southwest.md` — 198w
+- 2021-06-19 — [06.19.2021: The Tweek That Was](https://om.co/2021/06/19/06-19-2021-the-tweek-that-was/) — `2021-06-19-2021-06-19-06-19-2021-the-tweek-that-was.md` — 310w
+- 2021-06-15 — [Reopening Day](https://om.co/2021/06/15/reopening-day/) — `2021-06-15-2021-06-15-reopening-day.md` — 221w
+- 2021-06-13 — [Tweek: recap of my week on Twitter](https://om.co/2021/06/13/tweek-my-recap-of-my-week-on-twitter/) — `2021-06-13-2021-06-13-tweek-my-recap-of-my-week-on-twitter.md` — 543w
+- 2021-06-09 — [Five Photography Tips Worth Remembering](https://om.co/2021/06/09/five-photography-tips-worth-remembering/) — `2021-06-09-2021-06-09-five-photography-tips-worth-remembering.md` — 222w
+- 2021-06-07 — [Future of Media – a quick reality check](https://om.co/2021/06/07/future-of-media-a-quick-reality-check/) — `2021-06-07-2021-06-07-future-of-media-a-quick-reality-check.md` — 942w
+- 2021-05-31 — [Some Changes](https://om.co/2021/05/31/some-changes-2/) — `2021-05-31-2021-05-31-some-changes-2.md` — 630w
+- 2021-05-31 — [Mallmann, Oh Man!](https://om.co/2021/05/31/mallmann-oh-man/) — `2021-05-31-2021-05-31-mallmann-oh-man.md` — 449w
+- 2021-05-28 — [The Paradigm Shift](https://om.co/2021/05/28/the-paradigm-shift/) — `2021-05-28-2021-05-28-the-paradigm-shift.md` — 590w
+- 2021-05-26 — [Why AI will never write a great song](https://om.co/2021/05/26/why-ai-will-never-write-a-great-song/) — `2021-05-26-2021-05-26-why-ai-will-never-write-a-great-song.md` — 120w
+- 2021-05-23 — [The Long Arc of Time](https://om.co/2021/05/23/the-long-arc-of-time/) — `2021-05-23-2021-05-23-the-long-arc-of-time.md` — 596w
+- 2021-05-19 — [Weapons of mass (value) destruction](https://om.co/2021/05/19/weapons-of-mass-value-destruction/) — `2021-05-19-2021-05-19-weapons-of-mass-value-destruction.md` — 1505w
+- 2021-05-16 — [Top 10 crime movies (based on crime novels)](https://om.co/2021/05/16/top-10-crime-movies-based-on-crime-novels/) — `2021-05-16-2021-05-16-top-10-crime-movies-based-on-crime-novels.md` — 232w
+- 2021-05-16 — [Shapes of San Francisco](https://om.co/2021/05/16/shapes-of-san-francisco/) — `2021-05-16-2021-05-16-shapes-of-san-francisco.md` — 287w
+- 2021-05-13 — [Thinking about the new iPad](https://om.co/2021/05/13/2021-ipad-pro-most-expensive-m1-portable/) — `2021-05-13-2021-05-13-2021-ipad-pro-most-expensive-m1-portable.md` — 832w
+- 2021-05-12 — [AirTags: What Are They Good For?](https://om.co/2021/05/12/airtags-what-are-they-good-for/) — `2021-05-12-2021-05-12-airtags-what-are-they-good-for.md` — 336w
+- 2021-05-11 — [Patek Philippe vs Apple Watch](https://om.co/2021/05/11/patek-philippe-vs-apple-watch/) — `2021-05-11-2021-05-11-patek-philippe-vs-apple-watch.md` — 197w
+- 2021-05-10 — [The real attention crisis](https://om.co/2021/05/10/the-real-attention-crisis/) — `2021-05-10-2021-05-10-the-real-attention-crisis.md` — 184w
+- 2021-05-04 — [Twitter Scrolls](https://om.co/2021/05/04/twitter-scrolls/) — `2021-05-04-2021-05-04-twitter-scrolls.md` — 563w
+- 2021-05-03 — [How to help with India’s COVID-19 Crisis?](https://om.co/2021/05/03/how-to-help-with-indias-covid-19-crisis/) — `2021-05-03-2021-05-03-how-to-help-with-indias-covid-19-crisis.md` — 185w
+- 2021-04-29 — [Why handwriting beats typing](https://om.co/2021/04/29/why-handwriting-beats-typing/) — `2021-04-29-2021-04-29-why-handwriting-beats-typing.md` — 529w
+- 2021-04-29 — [The Civil War of Haircuts?](https://om.co/2021/04/29/what-is-a-mullet/) — `2021-04-29-2021-04-29-what-is-a-mullet.md` — 200w
+- 2021-04-25 — [Warzel’s Brain](https://om.co/2021/04/25/charlie-warzel-newsletter-galaxy-brain/) — `2021-04-25-2021-04-25-charlie-warzel-newsletter-galaxy-brain.md` — 567w
+- 2021-04-25 — [India’s Coronavirus Crisis](https://om.co/2021/04/25/indias-corona-crisis/) — `2021-04-25-2021-04-25-indias-corona-crisis.md` — 221w
+- 2021-04-22 — [Walking Among The Giants](https://om.co/2021/04/22/coastal-redwoods-the-northern-california-coast-a-photo-essay/) — `2021-04-22-2021-04-22-coastal-redwoods-the-northern-california-coast-a-photo-essay.md` — 3542w
+- 2021-04-22 — [Can Stem Cells Save Food?](https://om.co/2021/04/22/stem-cells-future-of-food/) — `2021-04-22-2021-04-22-stem-cells-future-of-food.md` — 151w
+- 2021-04-20 — [Apple’s new hardware is built for our visual future](https://om.co/2021/04/20/apple-event-april-2021-ipad-pro-imac-zoom-life/) — `2021-04-20-2021-04-20-apple-event-april-2021-ipad-pro-imac-zoom-life.md` — 1099w
+- 2021-04-08 — [10 notable tech things](https://om.co/2021/04/08/10-notable-tech-things/) — `2021-04-08-2021-04-08-10-notable-tech-things.md` — 531w
+- 2021-04-05 — [Bandcamp vs Streaming](https://om.co/2021/04/05/bandcamp-vs-streaming/) — `2021-04-05-2021-04-05-bandcamp-vs-streaming.md` — 450w
+- 2021-04-04 — [Apple ProRAW + Adobe Super Resolution = Amazing!](https://om.co/2021/04/04/apple-proraw-adobe-super-resolution-amazing/) — `2021-04-04-2021-04-04-apple-proraw-adobe-super-resolution-amazing.md` — 445w
+- 2021-04-04 — [3 Good Reads (for today)](https://om.co/2021/04/04/3-good-reads-for-today/) — `2021-04-04-2021-04-04-3-good-reads-for-today.md` — 431w
+- 2021-04-01 — [The Wrong Kind of Splash](https://om.co/2021/04/01/the-wrong-kind-of-splash/) — `2021-04-01-2021-04-01-the-wrong-kind-of-splash.md` — 734w
+- 2021-03-23 — [What Adobe isn’t telling you about Photoshop for M1 Macs](https://om.co/2021/03/23/what-adobe-isnt-telling-you-about-photoshop-for-m1-macs/) — `2021-03-23-2021-03-23-what-adobe-isnt-telling-you-about-photoshop-for-m1-macs.md` — 661w
+- 2021-03-23 — [Mick Herron’s Slough House](https://om.co/2021/03/23/mick-herron-slough-house/) — `2021-03-23-2021-03-23-mick-herron-slough-house.md` — 280w
+- 2021-03-22 — [The Battle of Thacker Pass](https://om.co/2021/03/22/the-battle-of-thacker-pass/) — `2021-03-22-2021-03-22-the-battle-of-thacker-pass.md` — 195w
+- 2021-03-19 — [Nitin Sawhney](https://om.co/2021/03/19/nitin-sawhney-interview/) — `2021-03-19-2021-03-19-nitin-sawhney-interview.md` — 4985w
+- 2021-03-16 — [How Apple Watch Got Its Faces](https://om.co/2021/03/16/how-apple-watch-got-its-faces/) — `2021-03-16-2021-03-16-how-apple-watch-got-its-faces.md` — 144w
+- 2021-03-15 — [Lone Surfer: the story of one photo.](https://om.co/2021/03/15/lone-surfer-the-story-of-one-photo/) — `2021-03-15-2021-03-15-lone-surfer-the-story-of-one-photo.md` — 554w
+- 2021-03-14 — [5 Good Reads](https://om.co/2021/03/14/5-good-reads/) — `2021-03-14-2021-03-14-5-good-reads.md` — 366w
+- 2021-03-12 — [Starlink on wheels, ships, and planes](https://om.co/2021/03/12/starlink-on-wheels-ships-and-planes/) — `2021-03-12-2021-03-12-starlink-on-wheels-ships-and-planes.md` — 213w
+- 2021-03-11 — [HEY World makes what’s old new again with blogging.](https://om.co/2021/03/11/hey-world-makes-whats-old-new-again-with-blogging/) — `2021-03-11-2021-03-11-hey-world-makes-whats-old-new-again-with-blogging.md` — 934w
+- 2021-03-06 — [What is Emotive Industrial Design?](https://om.co/2021/03/06/what-is-emotive-industrial-design/) — `2021-03-06-2021-03-06-what-is-emotive-industrial-design.md` — 159w
+- 2021-03-04 — [Is Tidal worth Jack?](https://om.co/2021/03/04/is-tidal-worth-jack/) — `2021-03-04-2021-03-04-is-tidal-worth-jack.md` — 606w
+- 2021-03-03 — [What’s in a name? Sometimes everything.](https://om.co/2021/03/03/whats-in-a-name-sometimes-everything/) — `2021-03-03-2021-03-03-whats-in-a-name-sometimes-everything.md` — 697w
+- 2021-03-01 — [The M1 effect on Mac resale prices](https://om.co/2021/03/01/the-m1-effect-on-mac-resale-prices/) — `2021-03-01-2021-03-01-the-m1-effect-on-mac-resale-prices.md` — 531w
+- 2021-02-25 — [The Death of a Retailer](https://om.co/2021/02/25/the-death-of-a-retailer/) — `2021-02-25-2021-02-25-the-death-of-a-retailer.md` — 1239w
+- 2021-02-24 — [Shared (un)Realities](https://om.co/2021/02/24/shared-unrealities/) — `2021-02-24-2021-02-24-shared-unrealities.md` — 1573w
+- 2021-02-21 — [A rainy day (photo) walk](https://om.co/2021/02/21/a-rainy-day-photo-walk/) — `2021-02-21-2021-02-21-a-rainy-day-photo-walk.md` — 180w
+- 2021-02-17 — [The Texas Cold Snap](https://om.co/2021/02/17/the-texas-cold-snap/) — `2021-02-17-2021-02-17-the-texas-cold-snap.md` — 216w
+- 2021-02-10 — [Podcasts had a bumper 2020](https://om.co/2021/02/10/podcasts-had-a-bumper-2020/) — `2021-02-10-2021-02-10-podcasts-had-a-bumper-2020.md` — 300w
+- 2021-02-08 — [The (present) state of Starlink’s network](https://om.co/2021/02/08/the-present-state-of-starlinks-network/) — `2021-02-08-2021-02-08-the-present-state-of-starlinks-network.md` — 241w
+- 2021-02-07 — [iPhone vs Camera: No Contest](https://om.co/2021/02/07/iphone-vs-camera-no-contest/) — `2021-02-07-2021-02-07-iphone-vs-camera-no-contest.md` — 916w
+- 2021-02-07 — [The how & why of Jeff Bezos’ exit from Amazon](https://om.co/2021/02/07/the-how-why-of-jeff-bezos-exit-from-amazon/) — `2021-02-07-2021-02-07-the-how-why-of-jeff-bezos-exit-from-amazon.md` — 453w
+- 2021-02-07 — [Horsing Around](https://om.co/2021/02/07/leica-m-10-monochrome-photos/) — `2021-02-07-2021-02-07-leica-m-10-monochrome-photos.md` — 219w
+- 2021-02-05 — [What is the definition of a friend?](https://om.co/2021/02/05/what-is-the-definition-of-a-friend/) — `2021-02-05-2021-02-05-what-is-the-definition-of-a-friend.md` — 169w
+- 2021-02-02 — [An Amazonian Transition](https://om.co/2021/02/02/andy-jassy-ceo-amazon/) — `2021-02-02-2021-02-02-andy-jassy-ceo-amazon.md` — 934w
+- 2021-01-31 — [Too much Internet?](https://om.co/2021/01/31/too-much-internet/) — `2021-01-31-2021-01-31-too-much-internet.md` — 153w
+- 2021-01-31 — [Living in the sentiment reality](https://om.co/2021/01/31/living-in-the-sentiment-reality/) — `2021-01-31-2021-01-31-living-in-the-sentiment-reality.md` — 275w
+- 2021-01-31 — [A memo to myself](https://om.co/2021/01/31/a-memo-to-myself/) — `2021-01-31-2021-01-31-a-memo-to-myself.md` — 460w
+- 2021-01-27 — [Twitter vs Substack](https://om.co/2021/01/27/twitter-vs-substack/) — `2021-01-27-2021-01-27-twitter-vs-substack.md` — 610w
+- 2021-01-24 — [Why iPhone is today’s Kodak Brownie Camera](https://om.co/2021/01/24/why-iphone-is-todays-kodak-brownie-camera/) — `2021-01-24-2021-01-24-why-iphone-is-todays-kodak-brownie-camera.md` — 2235w
+- 2021-01-19 — [Short Strategic Retreat](https://om.co/2021/01/19/short-strategic-retreat/) — `2021-01-19-2021-01-19-short-strategic-retreat.md` — 183w
+- 2021-01-14 — [Bitcoin has lost that loving feeling](https://om.co/2021/01/14/bitcoin-has-lost-that-loving-feeling/) — `2021-01-14-2021-01-14-bitcoin-has-lost-that-loving-feeling.md` — 150w
+- 2021-01-11 — [Tech & the American Crisis](https://om.co/2021/01/11/tech-the-american-crisis/) — `2021-01-11-2021-01-11-tech-the-american-crisis.md` — 481w
+- 2021-01-10 — [Sunset in Pacifica, CA.](https://om.co/2021/01/10/sunset-in-pacifica-ca/) — `2021-01-10-2021-01-10-sunset-in-pacifica-ca.md` — 177w
+- 2021-01-07 — [The Day After](https://om.co/2021/01/07/the-day-after/) — `2021-01-07-2021-01-07-the-day-after.md` — 611w
+- 2021-01-03 — [Chill New Year Weekend](https://om.co/2021/01/03/a-chill-new-year-weekend/) — `2021-01-03-2021-01-03-a-chill-new-year-weekend.md` — 176w
+- 2021-01-01 — [Photos By Om Newsletter](https://om.co/2021/01/01/photos-by-om-newsletter/) — `2021-01-01-2021-01-01-photos-by-om-newsletter.md` — 136w
+- 2020-12-31 — [Longest Read for the longest year](https://om.co/2020/12/31/longest-read-for-the-longest-year/) — `2020-12-31-2020-12-31-longest-read-for-the-longest-year.md` — 187w
+- 2020-12-22 — [ProRaw and the Gradual Gradation of Grays](https://om.co/2020/12/22/proraw-black-and-white/) — `2020-12-22-2020-12-22-proraw-black-and-white.md` — 1106w
+- 2020-12-18 — [Who else is not leaving San Francisco](https://om.co/2020/12/18/who-else-is-not-leaving-san-francisco/) — `2020-12-18-2020-12-18-who-else-is-not-leaving-san-francisco.md` — 168w
+- 2020-12-14 — [Our sadness is really selfishness](https://om.co/2020/12/14/our-sadness-is-really-selfishness/) — `2020-12-14-2020-12-14-our-sadness-is-really-selfishness.md` — 725w
+- 2020-12-13 — [A visual re-interpretation of self](https://om.co/2020/12/13/self-interpretation/) — `2020-12-13-2020-12-13-self-interpretation.md` — 443w
+- 2020-12-11 — [Hard goodbye to M1 MacBook](https://om.co/2020/12/11/hard-goodbye-to-m1-macbook/) — `2020-12-11-2020-12-11-hard-goodbye-to-m1-macbook.md` — 508w
+- 2020-12-10 — [My advice to the attorneys general: It’s not about Zuck](https://om.co/2020/12/10/my-advice-to-the-attorney-generals-its-not-about-zuck/) — `2020-12-10-2020-12-10-my-advice-to-the-attorney-generals-its-not-about-zuck.md` — 1387w
+- 2020-12-08 — [The great white hope of media](https://om.co/2020/12/08/the-great-white-hope-of-media/) — `2020-12-08-2020-12-08-the-great-white-hope-of-media.md` — 206w
+- 2020-12-07 — [What Twitter Can Learn From Spotify](https://om.co/2020/12/07/what-twitter-can-learn-from-spotify/) — `2020-12-07-2020-12-07-what-twitter-can-learn-from-spotify.md` — 1981w
+- 2020-12-03 — [The Truth about M1 MacBooks](https://om.co/2020/12/03/the-truth-about-m1-macbooks/) — `2020-12-03-2020-12-03-the-truth-about-m1-macbooks.md` — 300w
+- 2020-12-02 — [Something about Slack (+ Salesforce)](https://om.co/2020/12/02/something-about-slack-salesforce/) — `2020-12-02-2020-12-02-something-about-slack-salesforce.md` — 1168w
+- 2020-11-30 — [Indian Coffee](https://om.co/2020/11/30/indian-coffee/) — `2020-11-30-2020-11-30-indian-coffee.md` — 394w
+- 2020-11-28 — [Tony Hsieh, RIP](https://om.co/2020/11/28/tony-hseih-rip/) — `2020-11-28-2020-11-28-tony-hseih-rip.md` — 614w
+- 2020-11-27 — [What’s in a name? A lot.](https://om.co/2020/11/27/whats-in-a-name-a-lot/) — `2020-11-27-2020-11-27-whats-in-a-name-a-lot.md` — 657w
+- 2020-11-27 — [Field Notes: 11.27.2020](https://om.co/2020/11/27/field-notes-11-27-2020/) — `2020-11-27-2020-11-27-field-notes-11-27-2020.md` — 153w
+- 2020-11-25 — [Why we are  underestimating Zoom & it’s impact?](https://om.co/2020/11/25/zoom-its-long-term-impact/) — `2020-11-25-2020-11-25-zoom-its-long-term-impact.md` — 1950w
+- 2020-11-24 — [On (not) leaving San Francisco](https://om.co/2020/11/24/on-not-leaving-san-francisco/) — `2020-11-24-2020-11-24-on-not-leaving-san-francisco.md` — 990w
+- 2020-11-22 — [Sunday Musings](https://om.co/2020/11/22/894421/) — `2020-11-22-2020-11-22-894421.md` — 484w
+- 2020-11-17 — [Steve Jobs’s last gambit: Apple’s M1 Chip](https://om.co/2020/11/17/why-m1-chip-by-apple-matters/) — `2020-11-17-2020-11-17-why-m1-chip-by-apple-matters.md` — 3322w
+- 2020-11-17 — [My Shortish M1-based MacBook Pro 13-inch review](https://om.co/2020/11/17/m1-based-macbook-pro-13-inch-review/) — `2020-11-17-2020-11-17-m1-based-macbook-pro-13-inch-review.md` — 891w
+- 2020-11-17 — [Is it time to SoC the CPU?](https://om.co/2020/11/17/is-it-time-to-soc-the-cpu/) — `2020-11-17-2020-11-17-is-it-time-to-soc-the-cpu.md` — 934w
+- 2020-11-14 — [Parents](https://om.co/2020/11/14/parents/) — `2020-11-14-2020-11-14-parents.md` — 249w
+- 2020-11-13 — [Books! Books! Books!](https://om.co/2020/11/13/gen-z-millennials-love-books/) — `2020-11-13-2020-11-13-gen-z-millennials-love-books.md` — 196w
+- 2020-11-12 — [The Brouhaha over Google Photos](https://om.co/2020/11/12/google-photos/) — `2020-11-12-2020-11-12-google-photos.md` — 864w
+- 2020-11-12 — [QVC 2.0](https://om.co/2020/11/12/qvc-2-0/) — `2020-11-12-2020-11-12-qvc-2-0.md` — 198w
+- 2020-11-10 — [What I am reading today](https://om.co/2020/11/10/what-i-am-reading-today-71/) — `2020-11-10-2020-11-10-what-i-am-reading-today-71.md` — 137w
+- 2020-11-10 — [My notes on Apple’s M1 Chip](https://om.co/2020/11/10/apple-one-more-thing-keynote-notes/) — `2020-11-10-2020-11-10-apple-one-more-thing-keynote-notes.md` — 544w
+- 2020-11-09 — [Field Notes: 11.09.2020](https://om.co/2020/11/09/field-notes-11-09-2020/) — `2020-11-09-2020-11-09-field-notes-11-09-2020.md` — 261w
+- 2020-11-09 — [15 Years on WordPress.com](https://om.co/2020/11/09/15-years-on-wordpress-com/) — `2020-11-09-2020-11-09-15-years-on-wordpress-com.md` — 158w
+- 2020-11-08 — [Relaxing the Little Grey Cells](https://om.co/2020/11/08/relaxing-the-little-grey-cells/) — `2020-11-08-2020-11-08-relaxing-the-little-grey-cells.md` — 606w
+- 2020-11-04 — [Why Bother with Film](https://om.co/2020/11/04/does-film-matter-in-photography/) — `2020-11-04-2020-11-04-does-film-matter-in-photography.md` — 994w
+- 2020-11-03 — [The Need for (Gigabit) Speed](https://om.co/2020/11/03/the-need-for-gigabit-speed/) — `2020-11-03-2020-11-03-the-need-for-gigabit-speed.md` — 272w
+- 2020-11-01 — [Change is a threat](https://om.co/2020/11/01/change-is-a-threat/) — `2020-11-01-2020-11-01-change-is-a-threat.md` — 370w
+- 2020-10-31 — [Thinking About Apple One](https://om.co/2020/10/31/thinking-about-apple-one/) — `2020-10-31-2020-10-31-thinking-about-apple-one.md` — 618w
+- 2020-10-29 — [Incoherence](https://om.co/2020/10/29/incoherence/) — `2020-10-29-2020-10-29-incoherence.md` — 733w
+- 2020-10-27 — [Droppings](https://om.co/2020/10/27/droppings/) — `2020-10-27-2020-10-27-droppings.md` — 179w
+- 2020-10-26 — [The 5G Hocus Pocus](https://om.co/2020/10/26/the-5g-hocus-pocus/) — `2020-10-26-2020-10-26-the-5g-hocus-pocus.md` — 1851w
+- 2020-10-25 — [Changing Mission](https://om.co/2020/10/25/changing-mission/) — `2020-10-25-2020-10-25-changing-mission.md` — 134w
+- 2020-10-23 — [Why great design is timeless](https://om.co/2020/10/23/iphone-12-and-why-great-design-is-timeless/) — `2020-10-23-2020-10-23-iphone-12-and-why-great-design-is-timeless.md` — 1297w
+- 2020-10-21 — [Don’t be surprised that Quibi failed](https://om.co/2020/10/21/dont-be-surprised-that-quibi-failed/) — `2020-10-21-2020-10-21-dont-be-surprised-that-quibi-failed.md` — 788w
+- 2020-10-20 — [Infatuation](https://om.co/2020/10/20/infatuation/) — `2020-10-20-2020-10-20-infatuation.md` — 573w
+- 2020-10-16 — [3 Good Reads](https://om.co/2020/10/16/3-good-reads-2/) — `2020-10-16-2020-10-16-3-good-reads-2.md` — 232w
+- 2020-10-15 — [Poor Comms…](https://om.co/2020/10/15/poor-comms/) — `2020-10-15-2020-10-15-poor-comms.md` — 535w
+- 2020-10-14 — [Some news today](https://om.co/2020/10/14/some-news-today/) — `2020-10-14-2020-10-14-some-news-today.md` — 165w
+- 2020-10-13 — [The New Medium](https://om.co/2020/10/13/the-new-medium/) — `2020-10-13-2020-10-13-the-new-medium.md` — 257w
+- 2020-10-13 — [Sorry (State of) Siri](https://om.co/2020/10/13/sorry-state-of-siri/) — `2020-10-13-2020-10-13-sorry-state-of-siri.md` — 415w
+- 2020-10-12 — [Pandemic Silence](https://om.co/2020/10/12/pandemic-silence/) — `2020-10-12-2020-10-12-pandemic-silence.md` — 440w
+- 2020-10-11 — [Pandemic will change money](https://om.co/2020/10/11/pandemic-will-change-money/) — `2020-10-11-2020-10-11-pandemic-will-change-money.md` — 981w
+- 2020-10-11 — [7 Sunday Reads](https://om.co/2020/10/11/7-sunday-reads/) — `2020-10-11-2020-10-11-7-sunday-reads.md` — 379w
+- 2020-10-07 — [Talking Apple Watch on Hodinkee Podcast](https://om.co/2020/10/07/talking-apple-watch-on-hodinkee-podcast/) — `2020-10-07-2020-10-07-talking-apple-watch-on-hodinkee-podcast.md` — 184w
+- 2020-10-07 — [America in decline?](https://om.co/2020/10/07/america-in-decline/) — `2020-10-07-2020-10-07-america-in-decline.md` — 213w
+- 2020-10-05 — [The future of movie theaters is in your face!](https://om.co/2020/10/05/the-future-of-movie-theaters-is-in-your-face/) — `2020-10-05-2020-10-05-the-future-of-movie-theaters-is-in-your-face.md` — 399w
+- 2020-10-05 — [Our October Symphony](https://om.co/2020/10/05/the-october-symphony/) — `2020-10-05-2020-10-05-the-october-symphony.md` — 878w
+- 2020-09-28 — [In the air tonight](https://om.co/2020/09/28/in-the-air-tonight/) — `2020-09-28-2020-09-28-in-the-air-tonight.md` — 622w
+- 2020-09-21 — [#205](https://om.co/2020/09/21/205/) — `2020-09-21-2020-09-21-205.md` — 361w
+- 2020-09-20 — [A bridge in the fog.](https://om.co/2020/09/20/a-bridge-in-the-fog/) — `2020-09-20-2020-09-20-a-bridge-in-the-fog.md` — 268w
+- 2020-09-15 — [Apple Watch’s Sensory Overload](https://om.co/2020/09/15/apple-watchs-sensory-overload/) — `2020-09-15-2020-09-15-apple-watchs-sensory-overload.md` — 919w
+- 2020-09-14 — [Getting Smoked in San Francisco](https://om.co/2020/09/14/getting-smoked-in-san-francisco/) — `2020-09-14-2020-09-14-getting-smoked-in-san-francisco.md` — 385w
+- 2020-09-14 — [All About Reviews & Referrals](https://om.co/2020/09/14/all-about-reviews-referrals/) — `2020-09-14-2020-09-14-all-about-reviews-referrals.md` — 454w
+- 2020-09-13 — [No TikTok For You](https://om.co/2020/09/13/no-tiktok-for-you/) — `2020-09-13-2020-09-13-no-tiktok-for-you.md` — 370w
+- 2020-09-11 — [San Francisco under a shroud](https://om.co/2020/09/11/san-francisco-in-a-shroud/) — `2020-09-11-2020-09-11-san-francisco-in-a-shroud.md` — 196w
+- 2020-09-10 — [In Convenience We Trust](https://om.co/2020/09/10/in-convenience-we-trust/) — `2020-09-10-2020-09-10-in-convenience-we-trust.md` — 751w
+- 2020-09-09 — [A Buffett of Snowflake](https://om.co/2020/09/09/why-warren-buffett-wants-a-scoop-of-snowflake/) — `2020-09-09-2020-09-09-why-warren-buffett-wants-a-scoop-of-snowflake.md` — 741w
+- 2020-09-08 — [Faster & faster it goes as the seasons’ change](https://om.co/2020/09/08/essay-on-oceanic-seasons-nature-tine/) — `2020-09-08-2020-09-08-essay-on-oceanic-seasons-nature-tine.md` — 932w
+- 2020-09-04 — [How I stay sane in 2020](https://om.co/2020/09/04/how-i-stay-sane-in-2020/) — `2020-09-04-2020-09-04-how-i-stay-sane-in-2020.md` — 554w
+- 2020-09-03 — [Unmasking the Wirecard fraud](https://om.co/2020/09/03/how-fts-dan-mccrum-unmasked-the-wirecard-fraud/) — `2020-09-03-2020-09-03-how-fts-dan-mccrum-unmasked-the-wirecard-fraud.md` — 431w
+- 2020-09-03 — [Homestead](https://om.co/2020/09/03/homestead/) — `2020-09-03-2020-09-03-homestead.md` — 205w
+- 2020-09-02 — [Rethinking Care](https://om.co/2020/09/02/rethinking-care/) — `2020-09-02-2020-09-02-rethinking-care.md` — 300w
+- 2020-09-02 — [Good advice from Ansel Adams](https://om.co/2020/09/02/good-advice-from-ansel-adams/) — `2020-09-02-2020-09-02-good-advice-from-ansel-adams.md` — 120w
+- 2020-08-31 — [Windows 95 & the Web made each other a hit](https://om.co/2020/08/31/25-years-later-the-should-send-windows-95-a-thank-you-card/) — `2020-08-31-2020-08-31-25-years-later-the-should-send-windows-95-a-thank-you-card.md` — 1265w
+- 2020-08-26 — [Forget what, where is the news?](https://om.co/2020/08/26/forget-what-where-is-the-news/) — `2020-08-26-2020-08-26-forget-what-where-is-the-news.md` — 567w
+- 2020-08-25 — [Yelp! No Help!](https://om.co/2020/08/25/yelp-sucks/) — `2020-08-25-2020-08-25-yelp-sucks.md` — 643w
+- 2020-08-24 — [Why the shift to online  commerce is here to stay](https://om.co/2020/08/24/why-the-shift-to-online-commerce-is-here-to-stay/) — `2020-08-24-2020-08-24-why-the-shift-to-online-commerce-is-here-to-stay.md` — 255w
+- 2020-08-24 — [Let’s hang by the Poolside](https://om.co/2020/08/24/poolside-fm/) — `2020-08-24-2020-08-24-poolside-fm.md` — 289w
+- 2020-08-24 — [From a distance](https://om.co/2020/08/24/san-francisco-smoke-wildfires/) — `2020-08-24-2020-08-24-san-francisco-smoke-wildfires.md` — 639w
+- 2020-08-21 — [Home Alone](https://om.co/2020/08/21/home-alone/) — `2020-08-21-2020-08-21-home-alone.md` — 528w
+- 2020-08-20 — [Why United States Political Shitshow (USPS) is far from over](https://om.co/2020/08/20/why-united-states-political-shitshow-usps-is-far-from-over/) — `2020-08-20-2020-08-20-why-united-states-political-shitshow-usps-is-far-from-over.md` — 1338w
+- 2020-08-19 — [Where did Mac’s Resale Value Go](https://om.co/2020/08/19/where-did-macs-resale-value-go/) — `2020-08-19-2020-08-19-where-did-macs-resale-value-go.md` — 298w
+- 2020-08-17 — [What’s Worth Reading](https://om.co/2020/08/17/whats-worth-reading-4/) — `2020-08-17-2020-08-17-whats-worth-reading-4.md` — 152w
+- 2020-08-17 — [The Baby Gull](https://om.co/2020/08/17/the-baby-gull/) — `2020-08-17-2020-08-17-the-baby-gull.md` — 179w
+- 2020-08-17 — [Future Shocked](https://om.co/2020/08/17/future-shocked/) — `2020-08-17-2020-08-17-future-shocked.md` — 591w
+- 2020-08-14 — [Covid-19 vs Past Pandemics](https://om.co/2020/08/14/covid-19-vs-past-pandemics/) — `2020-08-14-2020-08-14-covid-19-vs-past-pandemics.md` — 213w
+- 2020-08-13 — [What Work](https://om.co/2020/08/13/gig-economy-work/) — `2020-08-13-2020-08-13-gig-economy-work.md` — 571w
+- 2020-08-12 — [Surface Duo or DuOh?](https://om.co/2020/08/12/surface-duo/) — `2020-08-12-2020-08-12-surface-duo.md` — 709w
+- 2020-08-11 — [It all feels so mundane](https://om.co/2020/08/11/it-all-feels-so-mundane/) — `2020-08-11-2020-08-11-it-all-feels-so-mundane.md` — 405w
+- 2020-08-10 — [US-China Tech War: Apple is in the eye of a hurricane.](https://om.co/2020/08/10/us-china-tech-war-apple-is-in-the-eye-of-a-hurricane/) — `2020-08-10-2020-08-10-us-china-tech-war-apple-is-in-the-eye-of-a-hurricane.md` — 789w
+- 2020-08-09 — [What is worth reading this weekend](https://om.co/2020/08/09/what-is-worth-reading/) — `2020-08-09-2020-08-09-what-is-worth-reading.md` — 268w
+- 2020-08-06 — [Imagined Landscapes](https://om.co/2020/08/06/imagined-landscapes/) — `2020-08-06-2020-08-06-imagined-landscapes.md` — 777w
+- 2020-08-05 — [What do Instagram & TikTok have to do with Asparagus?](https://om.co/2020/08/05/what-do-instagram-tiktok-have-to-do-with-asparagus/) — `2020-08-05-2020-08-05-what-do-instagram-tiktok-have-to-do-with-asparagus.md` — 1159w
+- 2020-08-05 — [Pete Hamill, RIP](https://om.co/2020/08/05/pete-hamill-rip/) — `2020-08-05-2020-08-05-pete-hamill-rip.md` — 373w
+- 2020-08-04 — [HomePod as a speakerphone](https://om.co/2020/08/04/homepod-as-a-speakerphone/) — `2020-08-04-2020-08-04-homepod-as-a-speakerphone.md` — 280w
+- 2020-08-04 — [Cooking the books](https://om.co/2020/08/04/cooking-the-books/) — `2020-08-04-2020-08-04-cooking-the-books.md` — 659w
+- 2020-08-04 — [Ansel Adams & looking from mind’s eye](https://om.co/2020/08/04/ansel-adams-looking-from-minds-eye/) — `2020-08-04-2020-08-04-ansel-adams-looking-from-minds-eye.md` — 236w
+- 2020-08-03 — [Social media’s out of control growth](https://om.co/2020/08/03/social-medias-out-of-control-growth/) — `2020-08-03-2020-08-03-social-medias-out-of-control-growth.md` — 460w
+- 2020-08-03 — [Microsoft’s TikTok: But why?](https://om.co/2020/08/03/microsofts-tiktok-but-why/) — `2020-08-03-2020-08-03-microsofts-tiktok-but-why.md` — 714w
+- 2020-07-30 — [Write like a human](https://om.co/2020/07/30/write-like-a-human/) — `2020-07-30-2020-07-30-write-like-a-human.md` — 358w
+- 2020-07-28 — [Why Tech CEOs in DC is a waste of time](https://om.co/2020/07/28/why-tech-ceos-in-dc-is-a-waste-of-time/) — `2020-07-28-2020-07-28-why-tech-ceos-in-dc-is-a-waste-of-time.md` — 1649w
+- 2020-07-27 — [Signals: The Pandemic Edition](https://om.co/2020/07/27/signals-the-pandemic-edition/) — `2020-07-27-2020-07-27-signals-the-pandemic-edition.md` — 179w
+- 2020-07-27 — [Hero, Hub & Help: How to be an online brand](https://om.co/2020/07/27/hero-hub-help-how-to-be-an-online-brand/) — `2020-07-27-2020-07-27-hero-hub-help-how-to-be-an-online-brand.md` — 378w
+- 2020-07-25 — [The Essayist](https://om.co/2020/07/25/the-essayist/) — `2020-07-25-2020-07-25-the-essayist.md` — 133w
+- 2020-07-24 — [Best Instant Noodles are not on this list](https://om.co/2020/07/24/best-instant-noodles-are-not-on-this-list/) — `2020-07-24-2020-07-24-best-instant-noodles-are-not-on-this-list.md` — 374w
+- 2020-07-21 — [21 weeks](https://om.co/2020/07/21/21-weeks/) — `2020-07-21-2020-07-21-21-weeks.md` — 568w
+- 2020-07-19 — [It all started with a single tweet](https://om.co/2020/07/19/it-all-started-with-a-single-tweet/) — `2020-07-19-2020-07-19-it-all-started-with-a-single-tweet.md` — 842w
+- 2020-07-19 — [Give AirPods Pro A Boost](https://om.co/2020/07/19/dekoni-bulletz-for-airpods-pro/) — `2020-07-19-2020-07-19-dekoni-bulletz-for-airpods-pro.md` — 567w
+- 2020-07-17 — [Netflix is (almost) doing the right thing](https://om.co/2020/07/17/netflixs-almost-doing-the-right-thing/) — `2020-07-17-2020-07-17-netflixs-almost-doing-the-right-thing.md` — 370w
+- 2020-07-16 — [More than just a Twitter hack](https://om.co/2020/07/16/more-than-just-a-twitter-hack/) — `2020-07-16-2020-07-16-more-than-just-a-twitter-hack.md` — 324w
+- 2020-07-15 — [Big Tech is big in Japan (& everywhere except China)](https://om.co/2020/07/15/big-tech-is-big-in-japan-everywhere-except-china/) — `2020-07-15-2020-07-15-big-tech-is-big-in-japan-everywhere-except-china.md` — 347w
+- 2020-07-14 — [Podcast Reality Check (by the numbers)](https://om.co/2020/07/14/podcast-reality-check-by-the-numbers/) — `2020-07-14-2020-07-14-podcast-reality-check-by-the-numbers.md` — 408w
+- 2020-07-13 — [The illusion of improving social media platforms](https://om.co/2020/07/13/the-illusion-of-improving-social-media-platforms/) — `2020-07-13-2020-07-13-the-illusion-of-improving-social-media-platforms.md` — 260w
+- 2020-07-10 — [In praise of Feedbin](https://om.co/2020/07/10/in-praise-of-feedbin/) — `2020-07-10-2020-07-10-in-praise-of-feedbin.md` — 478w
+- 2020-07-07 — [Living inside patchwork Future](https://om.co/2020/07/07/living-inside-patchwork-future/) — `2020-07-07-2020-07-07-living-inside-patchwork-future.md` — 531w
+- 2020-07-06 — [Conflict Culture is making social Unsocial](https://om.co/2020/07/06/conflict-culture-is-making-social-unsocial/) — `2020-07-06-2020-07-06-conflict-culture-is-making-social-unsocial.md` — 984w
+- 2020-07-04 — [Oh hello, it is July 4 already](https://om.co/2020/07/04/oh-hello-it-is-july-4-already/) — `2020-07-04-2020-07-04-oh-hello-it-is-july-4-already.md` — 777w
+- 2020-07-02 — [Time redefines our horizons](https://om.co/2020/07/02/time-redefines-our-horizons/) — `2020-07-02-2020-07-02-time-redefines-our-horizons.md` — 259w
+- 2020-07-01 — [The Pain of Distance](https://om.co/2020/07/01/the-pain-of-distance/) — `2020-07-01-2020-07-01-the-pain-of-distance.md` — 814w
+- 2020-07-01 — [From writer to a professional poker player. A Stuck@Om chat with best selling author, Maria Konnikova](https://om.co/2020/07/01/from-writer-to-a-professional-poker-player-a-stuckom-chat-with-best-selling-author-maria-konnikova/) — `2020-07-01-2020-07-01-from-writer-to-a-professional-poker-player-a-stuckom-chat-with-best-s.md` — 474w
+- 2020-06-30 — [Why Microsoft had to close its retail stores](https://om.co/2020/06/30/why-microsoft-had-to-close-its-retail-stores/) — `2020-06-30-2020-06-30-why-microsoft-had-to-close-its-retail-stores.md` — 849w
+- 2020-06-29 — [Omakase Now](https://om.co/2020/06/29/omakase-now/) — `2020-06-29-2020-06-29-omakase-now.md` — 216w
+- 2020-06-27 — [The antithesis of streaming music](https://om.co/2020/06/27/the-antithesis-of-streaming-music/) — `2020-06-27-2020-06-27-the-antithesis-of-streaming-music.md` — 623w

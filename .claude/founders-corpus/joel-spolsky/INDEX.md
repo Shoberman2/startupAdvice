@@ -1,45 +1,572 @@
 # Joel Spolsky corpus index
 
-Source: https://www.joelonsoftware.com — fetched 2026-07-19
-40 posts, 9545 words. Format: date — [title](canonical url) — `file` — words.
+Source: https://www.joelonsoftware.com — fetched 2026-07-20
+567 posts, 415958 words. Format: date — [title](canonical url) — `file` — words.
 
+- 2022-12-19 — [Progress on the Block Protocol](https://www.joelonsoftware.com/2022/12/19/progress-on-the-block-protocol/) — `2022-12-19-2022-12-19-progress-on-the-block-protocol.md` — 1384w
+- 2022-01-27 — [Making the web better. With blocks!](https://www.joelonsoftware.com/2022/01/27/making-the-web-better-with-blocks/) — `2022-01-27-2022-01-27-making-the-web-better-with-blocks.md` — 861w
+- 2021-06-02 — [Kinda a big announcement](https://www.joelonsoftware.com/2021/06/02/kinda-a-big-announcement/) — `2021-06-02-2021-06-02-kinda-a-big-announcement.md` — 1139w
+- 2020-06-18 — [HASH: a free, online platform for modeling the world](https://www.joelonsoftware.com/2020/06/18/hash-a-free-online-platform-for-modeling-the-world/) — `2020-06-18-2020-06-18-hash-a-free-online-platform-for-modeling-the-world.md` — 203w
+- 2019-12-05 — [So, how’s that retirement thing going, anyway?](https://www.joelonsoftware.com/2019/12/05/so-hows-that-retirement-thing-going-anyway/) — `2019-12-05-2019-12-05-so-hows-that-retirement-thing-going-anyway.md` — 770w
+- 2019-09-24 — [Welcome, Prashanth!](https://www.joelonsoftware.com/2019/09/24/announcing-stack-overflows-new-ceo/) — `2019-09-24-2019-09-24-announcing-stack-overflows-new-ceo.md` — 481w
+- 2019-03-28 — [The next CEO of Stack Overflow](https://www.joelonsoftware.com/2019/03/28/the-next-ceo-of-stack-overflow/) — `2019-03-28-2019-03-28-the-next-ceo-of-stack-overflow.md` — 981w
+- 2018-05-03 — [Announcing Stack Overflow for Teams](https://www.joelonsoftware.com/2018/05/03/announcing-stack-overflow-for-teams/) — `2018-05-03-2018-05-03-announcing-stack-overflow-for-teams.md` — 705w
+- 2018-04-23 — [Strange and maddening rules](https://www.joelonsoftware.com/2018/04/23/strange-and-maddening-rules/) — `2018-04-23-2018-04-23-strange-and-maddening-rules.md` — 1425w
+- 2018-04-13 — [A Dusting of Gamification](https://www.joelonsoftware.com/2018/04/13/gamification/) — `2018-04-13-2018-04-13-gamification.md` — 1162w
+- 2018-04-06 — [The Stack Overflow Age](https://www.joelonsoftware.com/2018/04/06/the-stack-overflow-age/) — `2018-04-06-2018-04-06-the-stack-overflow-age.md` — 1491w
+- 2018-01-12 — [Birdcage liners](https://www.joelonsoftware.com/2018/01/12/birdcage-liners/) — `2018-01-12-2018-01-12-birdcage-liners.md` — 1497w
+- 2016-12-09 — [RIP CityDesk](https://www.joelonsoftware.com/2016/12/09/rip-citydesk/) — `2016-12-09-2016-12-09-rip-citydesk.md` — 572w
+- 2016-12-09 — [Developers’ side projects](https://www.joelonsoftware.com/2016/12/09/developers-side-projects/) — `2016-12-09-2016-12-09-developers-side-projects.md` — 1738w
+- 2016-12-06 — [Anil Dash is the new CEO of Fog Creek Software](https://www.joelonsoftware.com/2016/12/06/anil-dash-is-the-new-ceo-of-fog-creek-software/) — `2016-12-06-2016-12-06-anil-dash-is-the-new-ceo-of-fog-creek-software.md` — 664w
+- 2016-05-31 — [Introducing HyperDev](https://www.joelonsoftware.com/2016/05/31/introducing-hyperdev/) — `2016-05-31-2016-05-31-introducing-hyperdev.md` — 1421w
+- 2015-01-20 — [Stack Exchange Raises $40m](https://www.joelonsoftware.com/2015/01/20/stack-exchange-raises-40m/) — `2015-01-20-2015-01-20-stack-exchange-raises-40m.md` — 1416w
+- 2014-07-24 — [Trello, Inc.](https://www.joelonsoftware.com/2014/07/24/trello-inc/) — `2014-07-24-2014-07-24-trello-inc.md` — 1317w
+- 2013-07-22 — [Victory Lap for Ask Patents](https://www.joelonsoftware.com/2013/07/22/victory-lap-for-ask-patents/) — `2013-07-22-2013-07-22-victory-lap-for-ask-patents.md` — 1805w
+- 2013-04-30 — [Free as in Fortune Cookies](https://www.joelonsoftware.com/2013/04/30/free-as-in-fortune-cookies/) — `2013-04-30-2013-04-30-free-as-in-fortune-cookies.md` — 620w
+- 2013-04-02 — [The Patent Protection Racket](https://www.joelonsoftware.com/2013/04/02/the-patent-protection-racket/) — `2013-04-02-2013-04-02-the-patent-protection-racket.md` — 455w
+- 2013-03-11 — [Town Car Version Control](https://www.joelonsoftware.com/2013/03/11/town-car-version-control/) — `2013-03-11-2013-03-11-town-car-version-control.md` — 1021w
+- 2012-07-09 — [Software Inventory](https://www.joelonsoftware.com/2012/07/09/software-inventory/) — `2012-07-09-2012-07-09-software-inventory.md` — 1501w
+- 2012-03-27 — [The Founder’s Dilemmas](https://www.joelonsoftware.com/2012/03/27/the-founders-dilemmas/) — `2012-03-27-2012-03-27-the-founders-dilemmas.md` — 128w
+- 2012-01-13 — [New York City gets a Software Engineering High School](https://www.joelonsoftware.com/2012/01/13/new-york-city-gets-a-software-engineering-high-school/) — `2012-01-13-2012-01-13-new-york-city-gets-a-software-engineering-high-school.md` — 521w
+- 2012-01-06 — [How Trello is different](https://www.joelonsoftware.com/2012/01/06/how-trello-is-different/) — `2012-01-06-2012-01-06-how-trello-is-different.md` — 1741w
+- 2011-09-15 — [Should you launch at a conference?](https://www.joelonsoftware.com/2011/09/15/should-you-launch-at-a-conference/) — `2011-09-15-2011-09-15-should-you-launch-at-a-conference.md` — 2070w
+- 2011-09-13 — [Announcing Trello](https://www.joelonsoftware.com/2011/09/13/announcing-trello/) — `2011-09-13-2011-09-13-announcing-trello.md` — 412w
+- 2011-06-27 — [Stack Overflow DevDays is Back!](https://www.joelonsoftware.com/2011/06/27/stack-overflow-devdays-is-back/) — `2011-06-27-2011-06-27-stack-overflow-devdays-is-back.md` — 526w
+- 2011-05-26 — [Modern community building](https://www.joelonsoftware.com/2011/05/26/modern-community-building/) — `2011-05-26-2011-05-26-modern-community-building.md` — 614w
+- 2011-04-28 — [Lunch](https://www.joelonsoftware.com/2011/04/28/lunch/) — `2011-04-28-2011-04-28-lunch.md` — 545w
+- 2011-04-27 — [The podcast is back!](https://www.joelonsoftware.com/2011/04/27/the-podcast-is-back/) — `2011-04-27-2011-04-27-the-podcast-is-back.md` — 155w
+- 2011-01-24 — [Stack Overflow 2010 recap](https://www.joelonsoftware.com/2011/01/24/stack-overflow-2010-recap/) — `2011-01-24-2011-01-24-stack-overflow-2010-recap.md` — 1077w
+- 2010-10-21 — [World Tour – last chance](https://www.joelonsoftware.com/2010/10/21/world-tour-last-chance/) — `2010-10-21-2010-10-21-world-tour-last-chance.md` — 213w
+- 2010-09-29 — [FogBugz and Kiln (coming soon to a city near you)](https://www.joelonsoftware.com/2010/09/29/fogbugz-and-kiln-coming-soon-to-a-city-near-you/) — `2010-09-29-2010-09-29-fogbugz-and-kiln-coming-soon-to-a-city-near-you.md` — 146w
+- 2010-08-31 — [A new WordPress Stack Exchange](https://www.joelonsoftware.com/2010/08/31/a-new-wordpress-stack-exchange/) — `2010-08-31-2010-08-31-a-new-wordpress-stack-exchange.md` — 261w
+- 2010-06-28 — [Don Norman at the Business of Software 2009](https://www.joelonsoftware.com/2010/06/28/don-norman-at-the-business-of-software-2009/) — `2010-06-28-2010-06-28-don-norman-at-the-business-of-software-2009.md` — 130w
+- 2010-06-22 — [Area 51 is now in beta](https://www.joelonsoftware.com/2010/06/22/area-51-is-now-in-beta/) — `2010-06-22-2010-06-22-area-51-is-now-in-beta.md` — 158w
+- 2010-04-19 — [Sites for experts](https://www.joelonsoftware.com/2010/04/19/sites-for-experts/) — `2010-04-19-2010-04-19-sites-for-experts.md` — 287w
+- 2010-04-13 — [Stack Exchange 2.0](https://www.joelonsoftware.com/2010/04/13/stack-exchange-20/) — `2010-04-13-2010-04-13-stack-exchange-20.md` — 222w
+- 2010-03-31 — [Stack Overflow Party](https://www.joelonsoftware.com/2010/03/31/stack-overflow-party/) — `2010-03-31-2010-03-31-stack-overflow-party.md` — 134w
+- 2010-03-17 — [Distributed Version Control is here to stay, baby](https://www.joelonsoftware.com/2010/03/17/distributed-version-control-is-here-to-stay-baby/) — `2010-03-17-2010-03-17-distributed-version-control-is-here-to-stay-baby.md` — 1176w
+- 2010-03-14 — [Puppy!](https://www.joelonsoftware.com/2010/03/14/puppy/) — `2010-03-14-2010-03-14-puppy.md` — 803w
+- 2010-02-14 — [Raising money for StackOverflow](https://www.joelonsoftware.com/2010/02/14/raising-money-for-stackoverflow/) — `2010-02-14-2010-02-14-raising-money-for-stackoverflow.md` — 808w
+- 2010-02-11 — [Headcount](https://www.joelonsoftware.com/2010/02/11/headcount/) — `2010-02-11-2010-02-11-headcount.md` — 545w
+- 2010-01-26 — [Why testers?](https://www.joelonsoftware.com/2010/01/26/why-testers/) — `2010-01-26-2010-01-26-why-testers.md` — 611w
+- 2009-12-30 — [Secret language](https://www.joelonsoftware.com/2009/12/30/secret-language/) — `2009-12-30-2009-12-30-secret-language.md` — 302w
+- 2009-12-14 — [Let’s stop talking about “backups”](https://www.joelonsoftware.com/2009/12/14/lets-stop-talking-about-backups/) — `2009-12-14-2009-12-14-lets-stop-talking-about-backups.md` — 257w
+- 2009-12-13 — [Stack stats](https://www.joelonsoftware.com/2009/12/13/stack-stats/) — `2009-12-13-2009-12-13-stack-stats.md` — 456w
+- 2009-12-02 — [Programmer search engine](https://www.joelonsoftware.com/2009/12/02/programmer-search-engine/) — `2009-12-02-2009-12-02-programmer-search-engine.md` — 593w
+- 2009-11-05 — [Upgrade your career](https://www.joelonsoftware.com/2009/11/05/upgrade-your-career/) — `2009-11-05-2009-11-05-upgrade-your-career.md` — 850w
+- 2009-11-01 — [Figuring out what your company is all about](https://www.joelonsoftware.com/2009/11/01/figuring-out-what-your-company-is-all-about/) — `2009-11-01-2009-11-01-figuring-out-what-your-company-is-all-about.md` — 840w
+- 2009-10-26 — [Capstone projects and time management](https://www.joelonsoftware.com/2009/10/26/capstone-projects-and-time-management/) — `2009-10-26-2009-10-26-capstone-projects-and-time-management.md` — 1012w
+- 2009-10-08 — [The “WiFi At Conferences” Problem](https://www.joelonsoftware.com/2009/10/08/the-wifi-at-conferences-problem/) — `2009-10-08-2009-10-08-the-wifi-at-conferences-problem.md` — 733w
+- 2009-09-23 — [The Duct Tape Programmer](https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/) — `2009-09-23-2009-09-23-the-duct-tape-programmer.md` — 1260w
+- 2009-09-02 — [Upcoming startup workshop in San Francisco](https://www.joelonsoftware.com/2009/09/02/upcoming-startup-workshop-in-san-francisco/) — `2009-09-02-2009-09-02-upcoming-startup-workshop-in-san-francisco.md` — 694w
+- 2009-09-01 — [Being Number One](https://www.joelonsoftware.com/2009/09/01/being-number-one/) — `2009-09-01-2009-09-01-being-number-one.md` — 126w
+- 2009-07-20 — [Fruity treats, customization, and supersonics: FogBugz 7 is here](https://www.joelonsoftware.com/2009/07/20/fruity-treats-customization-and-supersonics-fogbugz-7-is-here/) — `2009-07-20-2009-07-20-fruity-treats-customization-and-supersonics-fogbugz-7-is-here.md` — 1449w
+- 2009-06-23 — [The eternal optimism of the Clear mind](https://www.joelonsoftware.com/2009/06/23/the-eternal-optimism-of-the-clear-mind/) — `2009-06-23-2009-06-23-the-eternal-optimism-of-the-clear-mind.md` — 449w
+- 2009-06-10 — [Platform vendors](https://www.joelonsoftware.com/2009/06/10/platform-vendors/) — `2009-06-10-2009-06-10-platform-vendors.md` — 267w
+- 2009-06-10 — [Conferences in New York](https://www.joelonsoftware.com/2009/06/10/conferences-in-new-york/) — `2009-06-10-2009-06-10-conferences-in-new-york.md` — 201w
+- 2009-06-09 — [StackOverflow DevDays: Five New Cities](https://www.joelonsoftware.com/2009/06/09/stackoverflow-devdays-five-new-cities/) — `2009-06-09-2009-06-09-stackoverflow-devdays-five-new-cities.md` — 358w
+- 2009-06-03 — [Get a job](https://www.joelonsoftware.com/2009/06/03/get-a-job/) — `2009-06-03-2009-06-03-get-a-job.md` — 374w
+- 2009-05-29 — [Server Fault now in public beta](https://www.joelonsoftware.com/2009/05/29/server-fault-now-in-public-beta/) — `2009-05-29-2009-05-29-server-fault-now-in-public-beta.md` — 208w
+- 2009-05-12 — [Stack Overflow DevDays](https://www.joelonsoftware.com/2009/05/12/stack-overflow-devdays/) — `2009-05-12-2009-05-12-stack-overflow-devdays.md` — 968w
+- 2009-04-07 — [The Business of Software 2009 speaker lineup](https://www.joelonsoftware.com/2009/04/07/the-business-of-software-2009-speaker-lineup/) — `2009-04-07-2009-04-07-the-business-of-software-2009-speaker-lineup.md` — 512w
+- 2009-03-27 — [Solid State Disks](https://www.joelonsoftware.com/2009/03/27/solid-state-disks/) — `2009-03-27-2009-03-27-solid-state-disks.md` — 638w
+- 2009-03-09 — [How to be a program manager](https://www.joelonsoftware.com/2009/03/09/how-to-be-a-program-manager/) — `2009-03-09-2009-03-09-how-to-be-a-program-manager.md` — 2871w
+- 2009-02-11 — [Is the tech recession over?](https://www.joelonsoftware.com/2009/02/11/is-the-tech-recession-over/) — `2009-02-11-2009-02-11-is-the-tech-recession-over.md` — 130w
+- 2009-02-05 — [New, faster Copilot](https://www.joelonsoftware.com/2009/02/05/new-faster-copilot/) — `2009-02-05-2009-02-05-new-faster-copilot.md` — 489w
+- 2009-01-31 — [From Podcast 38](https://www.joelonsoftware.com/2009/01/31/from-podcast-38/) — `2009-01-31-2009-01-31-from-podcast-38.md` — 1958w
+- 2009-01-08 — [Goals](https://www.joelonsoftware.com/2009/01/08/goals/) — `2009-01-08-2009-01-08-goals.md` — 136w
+- 2009-01-07 — [Copilot OneClick for Macintosh](https://www.joelonsoftware.com/2009/01/07/copilot-oneclick-for-macintosh/) — `2009-01-07-2009-01-07-copilot-oneclick-for-macintosh.md` — 247w
+- 2009-01-02 — [Another resume tip](https://www.joelonsoftware.com/2009/01/02/another-resume-tip/) — `2009-01-02-2009-01-02-another-resume-tip.md` — 472w
+- 2009-01-02 — [Animoto](https://www.joelonsoftware.com/2009/01/02/animoto/) — `2009-01-02-2009-01-02-animoto.md` — 181w
+- 2008-12-29 — [The new Fog Creek office](https://www.joelonsoftware.com/2008/12/29/the-new-fog-creek-office/) — `2008-12-29-2008-12-29-the-new-fog-creek-office.md` — 823w
+- 2008-12-28 — [Stack Overflow is a Wiki](https://www.joelonsoftware.com/2008/12/28/stack-overflow-is-a-wiki/) — `2008-12-28-2008-12-28-stack-overflow-is-a-wiki.md` — 286w
+- 2008-12-19 — [Snowy day in New York](https://www.joelonsoftware.com/2008/12/19/snowy-day-in-new-york/) — `2008-12-19-2008-12-19-snowy-day-in-new-york.md` — 243w
+- 2008-12-10 — [Amnesia](https://www.joelonsoftware.com/2008/12/10/amnesia/) — `2008-12-10-2008-12-10-amnesia.md` — 791w
+- 2008-11-26 — [Exploding Offer Season](https://www.joelonsoftware.com/2008/11/26/exploding-offer-season/) — `2008-11-26-2008-11-26-exploding-offer-season.md` — 782w
+- 2008-11-18 — [Anecdotes](https://www.joelonsoftware.com/2008/11/18/anecdotes/) — `2008-11-18-2008-11-18-anecdotes.md` — 701w
+- 2008-10-08 — [Hair on fire](https://www.joelonsoftware.com/2008/10/08/hair-on-fire/) — `2008-10-08-2008-10-08-hair-on-fire.md` — 529w
+- 2008-09-15 — [Stack Overflow Launches](https://www.joelonsoftware.com/2008/09/15/stack-overflow-launches/) — `2008-09-15-2008-09-15-stack-overflow-launches.md` — 1670w
+- 2008-09-11 — [Password management finally possible](https://www.joelonsoftware.com/2008/09/11/password-management-finally-possible/) — `2008-09-11-2008-09-11-password-management-finally-possible.md` — 303w
+- 2008-09-10 — [We’re finally moving!](https://www.joelonsoftware.com/2008/09/10/were-finally-moving/) — `2008-09-10-2008-09-10-were-finally-moving.md` — 139w
+- 2008-09-05 — [StackOverflow Podcast #20](https://www.joelonsoftware.com/2008/09/05/stackoverflow-podcast-20/) — `2008-09-05-2008-09-05-stackoverflow-podcast-20.md` — 194w
+- 2008-08-22 — [A review of the Nokia E71](https://www.joelonsoftware.com/2008/08/22/a-review-of-the-nokia-e71/) — `2008-08-22-2008-08-22-a-review-of-the-nokia-e71.md` — 1503w
+- 2008-07-29 — [Good System, Bad System](https://www.joelonsoftware.com/2008/07/29/good-system-bad-system/) — `2008-07-29-2008-07-29-good-system-bad-system.md` — 129w
+- 2008-07-18 — [Pecha Kucha](https://www.joelonsoftware.com/2008/07/18/pecha-kucha/) — `2008-07-18-2008-07-18-pecha-kucha.md` — 235w
+- 2008-07-14 — [Annual Fog Creek Open House](https://www.joelonsoftware.com/2008/07/14/annual-fog-creek-open-house/) — `2008-07-14-2008-07-14-annual-fog-creek-open-house.md` — 169w
+- 2008-06-06 — [Desks](https://www.joelonsoftware.com/2008/06/06/desks/) — `2008-06-06-2008-06-06-desks.md` — 225w
+- 2008-05-01 — [Architecture astronauts take over](https://www.joelonsoftware.com/2008/05/01/architecture-astronauts-take-over/) — `2008-05-01-2008-05-01-architecture-astronauts-take-over.md` — 1046w
+- 2008-04-22 — [Stack Overflow Podcast #2](https://www.joelonsoftware.com/2008/04/22/stack-overflow-podcast-2/) — `2008-04-22-2008-04-22-stack-overflow-podcast-2.md` — 326w
+- 2008-04-16 — [stackoverflow.com](https://www.joelonsoftware.com/2008/04/16/stackoverflowcom/) — `2008-04-16-2008-04-16-stackoverflowcom.md` — 483w
+- 2008-04-14 — [First Joel on Software conference](https://www.joelonsoftware.com/2008/04/14/first-joel-on-software-conference/) — `2008-04-14-2008-04-14-first-joel-on-software-conference.md` — 308w
+- 2008-03-17 — [Martian Headsets](https://www.joelonsoftware.com/2008/03/17/martian-headsets/) — `2008-03-17-2008-03-17-martian-headsets.md` — 4730w
+- 2008-03-07 — [Some interesting jobs](https://www.joelonsoftware.com/2008/03/07/some-interesting-jobs/) — `2008-03-07-2008-03-07-some-interesting-jobs.md` — 1426w
+- 2008-02-22 — [A correction to the correction](https://www.joelonsoftware.com/2008/02/22/a-correction-to-the-correction/) — `2008-02-22-2008-02-22-a-correction-to-the-correction.md` — 177w
+- 2008-02-21 — [Some corrections](https://www.joelonsoftware.com/2008/02/21/some-corrections/) — `2008-02-21-2008-02-21-some-corrections.md` — 805w
+- 2008-02-19 — [Why are the Microsoft Office file formats so complicated? (And some workarounds)](https://www.joelonsoftware.com/2008/02/19/why-are-the-microsoft-office-file-formats-so-complicated-and-some-workarounds/) — `2008-02-19-2008-02-19-why-are-the-microsoft-office-file-formats-so-complicated-and-some-wor.md` — 2379w
+- 2008-01-31 — [TripIt is awesome](https://www.joelonsoftware.com/2008/01/31/tripit-is-awesome/) — `2008-01-31-2008-01-31-tripit-is-awesome.md` — 345w
+- 2008-01-29 — [Microsoft can’t speak straight any more](https://www.joelonsoftware.com/2008/01/29/microsoft-cant-speak-straight-any-more/) — `2008-01-29-2008-01-29-microsoft-cant-speak-straight-any-more.md` — 176w
+- 2008-01-29 — [:CueCat is back!](https://www.joelonsoftware.com/2008/01/29/cuecat-is-back/) — `2008-01-29-2008-01-29-cuecat-is-back.md` — 244w
+- 2008-01-25 — [Copilot is now free on weekends](https://www.joelonsoftware.com/2008/01/25/copilot-is-now-free-on-weekends/) — `2008-01-25-2008-01-25-copilot-is-now-free-on-weekends.md` — 211w
+- 2008-01-22 — [Five whys](https://www.joelonsoftware.com/2008/01/22/five-whys/) — `2008-01-22-2008-01-22-five-whys.md` — 1854w
+- 2008-01-20 — [This year’s Business of Software conference](https://www.joelonsoftware.com/2008/01/20/this-years-business-of-software-conference/) — `2008-01-20-2008-01-20-this-years-business-of-software-conference.md` — 181w
+- 2008-01-08 — [Undergraduate programming](https://www.joelonsoftware.com/2008/01/08/undergraduate-programming/) — `2008-01-08-2008-01-08-undergraduate-programming.md` — 435w
+- 2007-12-24 — [Getting Lookout to run on Outlook 2007 again](https://www.joelonsoftware.com/2007/12/24/getting-lookout-to-run-on-outlook-2007-again/) — `2007-12-24-2007-12-24-getting-lookout-to-run-on-outlook-2007-again.md` — 283w
+- 2007-12-06 — [Where there’s muck, there’s brass](https://www.joelonsoftware.com/2007/12/06/where-theres-muck-theres-brass/) — `2007-12-06-2007-12-06-where-theres-muck-theres-brass.md` — 1306w
+- 2007-12-05 — [Talk at Yale: Part 3 of 3](https://www.joelonsoftware.com/2007/12/05/talk-at-yale-part-3-of-3/) — `2007-12-05-2007-12-05-talk-at-yale-part-3-of-3.md` — 1142w
+- 2007-12-04 — [Talk at Yale: Part 2 of 3](https://www.joelonsoftware.com/2007/12/04/talk-at-yale-part-2-of-3/) — `2007-12-04-2007-12-04-talk-at-yale-part-2-of-3.md` — 1599w
+- 2007-12-03 — [Talk at Yale: Part 1 of 3](https://www.joelonsoftware.com/2007/12/03/talk-at-yale-part-1-of-3/) — `2007-12-03-2007-12-03-talk-at-yale-part-1-of-3.md` — 2965w
+- 2007-11-16 — [How to demo software](https://www.joelonsoftware.com/2007/11/16/how-to-demo-software/) — `2007-11-16-2007-11-16-how-to-demo-software.md` — 2348w
+- 2007-10-30 — [New websites](https://www.joelonsoftware.com/2007/10/30/new-websites/) — `2007-10-30-2007-10-30-new-websites.md` — 1131w
+- 2007-10-29 — [Some feedback on EBS](https://www.joelonsoftware.com/2007/10/29/some-feedback-on-ebs/) — `2007-10-29-2007-10-29-some-feedback-on-ebs.md` — 180w
+- 2007-10-26 — [Evidence Based Scheduling](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) — `2007-10-26-2007-10-26-evidence-based-scheduling.md` — 3387w
+- 2007-10-24 — [FogBugz World Tour video now available](https://www.joelonsoftware.com/2007/10/24/fogbugz-world-tour-video-now-available/) — `2007-10-24-2007-10-24-fogbugz-world-tour-video-now-available.md` — 292w
+- 2007-10-23 — [Eurotour](https://www.joelonsoftware.com/2007/10/23/eurotour/) — `2007-10-23-2007-10-23-eurotour.md` — 141w
+- 2007-10-22 — [Introducing FogBugz 6.0](https://www.joelonsoftware.com/2007/10/22/introducing-fogbugz-60/) — `2007-10-22-2007-10-22-introducing-fogbugz-60.md` — 277w
+- 2007-10-17 — [Well, if it hurts, you drive.](https://www.joelonsoftware.com/2007/10/17/well-if-it-hurts-emyouem-drive/) — `2007-10-17-2007-10-17-well-if-it-hurts-emyouem-drive.md` — 476w
+- 2007-10-17 — [Atlanta!](https://www.joelonsoftware.com/2007/10/17/atlanta/) — `2007-10-17-2007-10-17-atlanta.md` — 148w
+- 2007-10-16 — [Washington](https://www.joelonsoftware.com/2007/10/16/washington/) — `2007-10-16-2007-10-16-washington.md` — 181w
+- 2007-10-09 — [Hello from San Francisco?](https://www.joelonsoftware.com/2007/10/09/hello-from-san-francisco/) — `2007-10-09-2007-10-09-hello-from-san-francisco.md` — 151w
+- 2007-10-05 — [California](https://www.joelonsoftware.com/2007/10/05/california/) — `2007-10-05-2007-10-05-california.md` — 523w
+- 2007-09-26 — [Unfocused and Unabashed](https://www.joelonsoftware.com/2007/09/26/unfocused-and-unabashed/) — `2007-09-26-2007-09-26-unfocused-and-unabashed.md` — 214w
+- 2007-09-26 — [Explaining the Excel Bug](https://www.joelonsoftware.com/2007/09/26/explaining-the-excel-bug/) — `2007-09-26-2007-09-26-explaining-the-excel-bug.md` — 1087w
+- 2007-09-19 — [Princeton, Philadelphia, Boston](https://www.joelonsoftware.com/2007/09/19/princeton-philadelphia-boston/) — `2007-09-19-2007-09-19-princeton-philadelphia-boston.md` — 915w
+- 2007-09-18 — [Strategy Letter VI](https://www.joelonsoftware.com/2007/09/18/strategy-letter-vi/) — `2007-09-18-2007-09-18-strategy-letter-vi.md` — 2118w
+- 2007-09-11 — [There’s no place like 127.0.0.1](https://www.joelonsoftware.com/2007/09/11/theres-no-place-like-127001/) — `2007-09-11-2007-09-11-theres-no-place-like-127001.md` — 604w
+- 2007-09-08 — [Chicago](https://www.joelonsoftware.com/2007/09/08/chicago/) — `2007-09-08-2007-09-08-chicago.md` — 608w
+- 2007-09-07 — [Seattle](https://www.joelonsoftware.com/2007/09/07/seattle/) — `2007-09-07-2007-09-07-seattle.md` — 991w
+- 2007-09-05 — [Vancouver, BC](https://www.joelonsoftware.com/2007/09/05/vancouver-bc/) — `2007-09-05-2007-09-05-vancouver-bc.md` — 998w
+- 2007-08-28 — [From the utopia department](https://www.joelonsoftware.com/2007/08/28/from-the-utopia-department/) — `2007-08-28-2007-08-28-from-the-utopia-department.md` — 129w
+- 2007-08-20 — [Even the Office 2007 box has a learning curve](https://www.joelonsoftware.com/2007/08/20/even-the-office-2007-box-has-a-learning-curve/) — `2007-08-20-2007-08-20-even-the-office-2007-box-has-a-learning-curve.md` — 416w
+- 2007-08-16 — [World tour: North America](https://www.joelonsoftware.com/2007/08/16/world-tour-north-america/) — `2007-08-16-2007-08-16-world-tour-north-america.md` — 606w
+- 2007-07-25 — [Year-end chaos](https://www.joelonsoftware.com/2007/07/25/year-end-chaos/) — `2007-07-25-2007-07-25-year-end-chaos.md` — 204w
+- 2007-07-20 — [The universe aligns to prove my point](https://www.joelonsoftware.com/2007/07/20/the-universe-aligns-to-prove-my-point/) — `2007-07-20-2007-07-20-the-universe-aligns-to-prove-my-point.md` — 394w
+- 2007-07-20 — [Learning from Dave Winer](https://www.joelonsoftware.com/2007/07/20/learning-from-dave-winer/) — `2007-07-20-2007-07-20-learning-from-dave-winer.md` — 747w
+- 2007-07-16 — [Vesting](https://www.joelonsoftware.com/2007/07/16/vesting/) — `2007-07-16-2007-07-16-vesting.md` — 344w
+- 2007-07-16 — [Gearing up](https://www.joelonsoftware.com/2007/07/16/gearing-up/) — `2007-07-16-2007-07-16-gearing-up.md` — 225w
+- 2007-07-13 — [Business of Software Conference](https://www.joelonsoftware.com/2007/07/13/business-of-software-conference/) — `2007-07-13-2007-07-13-business-of-software-conference.md` — 201w
+- 2007-07-10 — [Mixed environment](https://www.joelonsoftware.com/2007/07/10/mixed-environment/) — `2007-07-10-2007-07-10-mixed-environment.md` — 235w
+- 2007-07-09 — [Announcing FogBugz On Demand](https://www.joelonsoftware.com/2007/07/09/announcing-fogbugz-on-demand/) — `2007-07-09-2007-07-09-announcing-fogbugz-on-demand.md` — 1066w
+- 2007-06-29 — [Management books](https://www.joelonsoftware.com/2007/06/29/management-books/) — `2007-06-29-2007-06-29-management-books.md` — 1140w
+- 2007-06-21 — [FogBugz World Tour](https://www.joelonsoftware.com/2007/06/21/fogbugz-world-tour/) — `2007-06-21-2007-06-21-fogbugz-world-tour.md` — 169w
+- 2007-06-12 — [Font smoothing, anti-aliasing, and sub-pixel rendering](https://www.joelonsoftware.com/2007/06/12/font-smoothing-anti-aliasing-and-sub-pixel-rendering/) — `2007-06-12-2007-06-12-font-smoothing-anti-aliasing-and-sub-pixel-rendering.md` — 666w
+- 2007-06-11 — [Apple Safari for Windows: The world’s slowest web browser](https://www.joelonsoftware.com/2007/06/11/apple-safari-for-windows-the-worlds-slowest-web-browser/) — `2007-06-11-2007-06-11-apple-safari-for-windows-the-worlds-slowest-web-browser.md` — 528w
+- 2007-06-08 — [Paying for recruiting trips?](https://www.joelonsoftware.com/2007/06/08/paying-for-recruiting-trips/) — `2007-06-08-2007-06-08-paying-for-recruiting-trips.md` — 317w
+- 2007-06-07 — [A game of inches](https://www.joelonsoftware.com/2007/06/07/a-game-of-inches/) — `2007-06-07-2007-06-07-a-game-of-inches.md` — 1330w
+- 2007-06-05 — [Smart and Gets Things Done](https://www.joelonsoftware.com/2007/06/05/smart-and-gets-things-done/) — `2007-06-05-2007-06-05-smart-and-gets-things-done.md` — 231w
+- 2007-05-10 — [Typical Econ 101 management](https://www.joelonsoftware.com/2007/05/10/typical-econ-101-management/) — `2007-05-10-2007-05-10-typical-econ-101-management.md` — 121w
+- 2007-05-09 — [Registered users on the discussion groups](https://www.joelonsoftware.com/2007/05/09/registered-users-on-the-discussion-groups/) — `2007-05-09-2007-05-09-registered-users-on-the-discussion-groups.md` — 150w
+- 2007-05-03 — [New software for discussion groups](https://www.joelonsoftware.com/2007/05/03/new-software-for-discussion-groups/) — `2007-05-03-2007-05-03-new-software-for-discussion-groups.md` — 242w
+- 2007-05-03 — [More about elevators](https://www.joelonsoftware.com/2007/05/03/more-about-elevators/) — `2007-05-03-2007-05-03-more-about-elevators.md` — 162w
+- 2007-04-30 — [New elevator technology](https://www.joelonsoftware.com/2007/04/30/new-elevator-technology/) — `2007-04-30-2007-04-30-new-elevator-technology.md` — 260w
+- 2007-04-26 — [Zagreb / Edinburgh](https://www.joelonsoftware.com/2007/04/26/zagreb-edinburgh/) — `2007-04-26-2007-04-26-zagreb-edinburgh.md` — 126w
+- 2007-04-25 — [VBA for Macintosh goes away](https://www.joelonsoftware.com/2007/04/25/vba-for-macintosh-goes-away/) — `2007-04-25-2007-04-25-vba-for-macintosh-goes-away.md` — 839w
+- 2007-04-24 — [Deriving your demand curve using exchange rate fluctuations](https://www.joelonsoftware.com/2007/04/24/deriving-your-demand-curve-using-exchange-rate-fluctuations/) — `2007-04-24-2007-04-24-deriving-your-demand-curve-using-exchange-rate-fluctuations.md` — 493w
+- 2007-04-19 — [Outlook 2007: downgrade no longer](https://www.joelonsoftware.com/2007/04/19/outlook-2007-downgrade-no-longer/) — `2007-04-19-2007-04-19-outlook-2007-downgrade-no-longer.md` — 341w
+- 2007-04-13 — [Moveable walls](https://www.joelonsoftware.com/2007/04/13/moveable-walls/) — `2007-04-13-2007-04-13-moveable-walls.md` — 505w
+- 2007-03-26 — [Office search continues](https://www.joelonsoftware.com/2007/03/26/office-search-continues/) — `2007-03-26-2007-03-26-office-search-continues.md` — 397w
+- 2007-03-26 — [Localizing the job board](https://www.joelonsoftware.com/2007/03/26/localizing-the-job-board/) — `2007-03-26-2007-03-26-localizing-the-job-board.md` — 126w
+- 2007-03-13 — [Wanted: Tech Writer](https://www.joelonsoftware.com/2007/03/13/wanted-tech-writer/) — `2007-03-13-2007-03-13-wanted-tech-writer.md` — 157w
+- 2007-03-02 — [Office Space Calculations](https://www.joelonsoftware.com/2007/03/02/office-space-calculations/) — `2007-03-02-2007-03-02-office-space-calculations.md` — 582w
+- 2007-02-23 — [Chargebacks](https://www.joelonsoftware.com/2007/02/23/chargebacks/) — `2007-02-23-2007-02-23-chargebacks.md` — 147w
+- 2007-02-19 — [Seven steps to remarkable customer service](https://www.joelonsoftware.com/2007/02/19/seven-steps-to-remarkable-customer-service/) — `2007-02-19-2007-02-19-seven-steps-to-remarkable-customer-service.md` — 3219w
+- 2007-01-30 — [Founders at Work](https://www.joelonsoftware.com/2007/01/30/founders-at-work/) — `2007-01-30-2007-01-30-founders-at-work.md` — 166w
+- 2007-01-26 — [Some reviews…](https://www.joelonsoftware.com/2007/01/26/some-reviews/) — `2007-01-26-2007-01-26-some-reviews.md` — 126w
+- 2007-01-26 — [Copilot 2.0 ships!](https://www.joelonsoftware.com/2007/01/26/copilot-20-ships/) — `2007-01-26-2007-01-26-copilot-20-ships.md` — 856w
+- 2007-01-21 — [The Big Picture](https://www.joelonsoftware.com/2007/01/21/the-big-picture/) — `2007-01-21-2007-01-21-the-big-picture.md` — 1682w
+- 2007-01-02 — [Dreaming in Code](https://www.joelonsoftware.com/2007/01/02/dreaming-in-code/) — `2007-01-02-2007-01-02-dreaming-in-code.md` — 311w
+- 2006-12-28 — [Bribing Bloggers](https://www.joelonsoftware.com/2006/12/28/bribing-bloggers/) — `2006-12-28-2006-12-28-bribing-bloggers.md` — 1307w
+- 2006-12-23 — [Explaining Steve Gillmor](https://www.joelonsoftware.com/2006/12/23/explaining-steve-gillmor/) — `2006-12-23-2006-12-23-explaining-steve-gillmor.md` — 3752w
+- 2006-12-20 — [New year’s resolution: get a better job!](https://www.joelonsoftware.com/2006/12/20/new-years-resolution-get-a-better-job/) — `2006-12-20-2006-12-20-new-years-resolution-get-a-better-job.md` — 478w
+- 2006-12-18 — [New Stuff!](https://www.joelonsoftware.com/2006/12/18/new-stuff/) — `2006-12-18-2006-12-18-new-stuff.md` — 215w
+- 2006-12-15 — [Elegance](https://www.joelonsoftware.com/2006/12/15/elegance/) — `2006-12-15-2006-12-15-elegance.md` — 832w
+- 2006-12-09 — [Simplicity](https://www.joelonsoftware.com/2006/12/09/simplicity/) — `2006-12-09-2006-12-09-simplicity.md` — 907w
+- 2006-12-05 — [Lego Programming](https://www.joelonsoftware.com/2006/12/05/lego-programming/) — `2006-12-05-2006-12-05-lego-programming.md` — 364w
+- 2006-11-30 — [Pump ‘n’ dump spam](https://www.joelonsoftware.com/2006/11/30/pump-n-dump-spam/) — `2006-11-30-2006-11-30-pump-n-dump-spam.md` — 161w
+- 2006-11-29 — [Using source control tools on huge projects](https://www.joelonsoftware.com/2006/11/29/using-source-control-tools-on-huge-projects/) — `2006-11-29-2006-11-29-using-source-control-tools-on-huge-projects.md` — 634w
+- 2006-11-24 — [How many Microsofties does it take to implement the Off menu?](https://www.joelonsoftware.com/2006/11/24/how-many-microsofties-does-it-take-to-implement-the-off-menu/) — `2006-11-24-2006-11-24-how-many-microsofties-does-it-take-to-implement-the-off-menu.md` — 127w
+- 2006-11-21 — [Choices = Headaches](https://www.joelonsoftware.com/2006/11/21/choices-headaches/) — `2006-11-21-2006-11-21-choices-headaches.md` — 856w
+- 2006-11-15 — [From the “you call this agile?” department](https://www.joelonsoftware.com/2006/11/15/from-the-you-call-this-agile-department/) — `2006-11-15-2006-11-15-from-the-you-call-this-agile-department.md` — 602w
+- 2006-11-09 — [The infinite music collection](https://www.joelonsoftware.com/2006/11/09/the-infinite-music-collection/) — `2006-11-09-2006-11-09-the-infinite-music-collection.md` — 1170w
+- 2006-11-09 — [Oh, the emails you’ll get…](https://www.joelonsoftware.com/2006/11/09/oh-the-emails-youll-get/) — `2006-11-09-2006-11-09-oh-the-emails-youll-get.md` — 573w
+- 2006-11-01 — [What’s a SQL Injection Bug?](https://www.joelonsoftware.com/2006/11/01/whats-a-sql-injection-bug/) — `2006-11-01-2006-11-01-whats-a-sql-injection-bug.md` — 301w
+- 2006-10-30 — [Job seeker statistics](https://www.joelonsoftware.com/2006/10/30/job-seeker-statistics/) — `2006-10-30-2006-10-30-job-seeker-statistics.md` — 460w
+- 2006-10-25 — [The Guerrilla Guide to Interviewing: version 3.0 now shipping!](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30-now-shipping/) — `2006-10-25-2006-10-25-the-guerrilla-guide-to-interviewing-version-30-now-shipping.md` — 150w
+- 2006-10-25 — [The Guerrilla Guide to Interviewing (version 3.0)](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) — `2006-10-25-2006-10-25-the-guerrilla-guide-to-interviewing-version-30.md` — 5564w
+- 2006-10-12 — [Book Review: Beyond Java](https://www.joelonsoftware.com/2006/10/12/book-review-beyond-java/) — `2006-10-12-2006-10-12-book-review-beyond-java.md` — 509w
+- 2006-10-09 — [New Feature: Job Search](https://www.joelonsoftware.com/2006/10/09/new-feature-job-search/) — `2006-10-09-2006-10-09-new-feature-job-search.md` — 337w
+- 2006-09-21 — [Followup on freezing MacBook Pro](https://www.joelonsoftware.com/2006/09/21/followup-on-freezing-macbook-pro/) — `2006-09-21-2006-09-21-followup-on-freezing-macbook-pro.md` — 263w
+- 2006-09-19 — [Getting MarkDown and SmartyPants working with EditPad Pro](https://www.joelonsoftware.com/2006/09/19/getting-markdown-and-smartypants-working-with-editpad-pro/) — `2006-09-19-2006-09-19-getting-markdown-and-smartypants-working-with-editpad-pro.md` — 277w
+- 2006-09-19 — [Amazing X-Ray Glasses from Sprint!](https://www.joelonsoftware.com/2006/09/19/amazing-x-ray-glasses-from-sprint/) — `2006-09-19-2006-09-19-amazing-x-ray-glasses-from-sprint.md` — 3086w
+- 2006-09-12 — [Ruby Performance Revisited](https://www.joelonsoftware.com/2006/09/12/ruby-performance-revisited/) — `2006-09-12-2006-09-12-ruby-performance-revisited.md` — 898w
+- 2006-09-11 — [Composing in TextMate with MarkDown](https://www.joelonsoftware.com/2006/09/11/composing-in-textmate-with-markdown/) — `2006-09-11-2006-09-11-composing-in-textmate-with-markdown.md` — 393w
+- 2006-09-08 — [Sorting Resumes](https://www.joelonsoftware.com/2006/09/08/sorting-resumes/) — `2006-09-08-2006-09-08-sorting-resumes.md` — 173w
+- 2006-09-08 — [Installing Vista RC1 in VMWare Workstation](https://www.joelonsoftware.com/2006/09/08/installing-vista-rc1-in-vmware-workstation/) — `2006-09-08-2006-09-08-installing-vista-rc1-in-vmware-workstation.md` — 249w
+- 2006-09-07 — [Company Name = Quality Jobs](https://www.joelonsoftware.com/2006/09/07/company-name-quality-jobs/) — `2006-09-07-2006-09-07-company-name-quality-jobs.md` — 134w
+- 2006-09-07 — [Commissioned Headhunters on the Job Board: Good or Bad?](https://www.joelonsoftware.com/2006/09/07/commissioned-headhunters-on-the-job-board-good-or-bad/) — `2006-09-07-2006-09-07-commissioned-headhunters-on-the-job-board-good-or-bad.md` — 316w
+- 2006-09-07 — [A Field Guide to Developers](https://www.joelonsoftware.com/2006/09/07/a-field-guide-to-developers/) — `2006-09-07-2006-09-07-a-field-guide-to-developers.md` — 4268w
+- 2006-09-05 — [Introducing jobs.joelonsoftware.com](https://www.joelonsoftware.com/2006/09/05/introducing-jobsjoelonsoftwarecom/) — `2006-09-05-2006-09-05-introducing-jobsjoelonsoftwarecom.md` — 1184w
+- 2006-09-01 — [Wasabi](https://www.joelonsoftware.com/2006/09/01/wasabi/) — `2006-09-01-2006-09-01-wasabi.md` — 805w
+- 2006-09-01 — [Language Wars](https://www.joelonsoftware.com/2006/09/01/language-wars/) — `2006-09-01-2006-09-01-language-wars.md` — 1205w
+- 2006-08-25 — [My three favorite Firefox extensions](https://www.joelonsoftware.com/2006/08/25/my-three-favorite-firefox-extensions/) — `2006-08-25-2006-08-25-my-three-favorite-firefox-extensions.md` — 546w
+- 2006-08-23 — [Superstitious FAQ Writers](https://www.joelonsoftware.com/2006/08/23/superstitious-faq-writers/) — `2006-08-23-2006-08-23-superstitious-faq-writers.md` — 325w
+- 2006-08-22 — [Library Apps for Macintosh](https://www.joelonsoftware.com/2006/08/22/library-apps-for-macintosh/) — `2006-08-22-2006-08-22-library-apps-for-macintosh.md` — 419w
+- 2006-08-21 — [There’s got to be a way to do this…](https://www.joelonsoftware.com/2006/08/21/theres-got-to-be-a-way-to-do-this/) — `2006-08-21-2006-08-21-theres-got-to-be-a-way-to-do-this.md` — 149w
+- 2006-08-10 — [The Identity Management Method](https://www.joelonsoftware.com/2006/08/10/the-identity-management-method/) — `2006-08-10-2006-08-10-the-identity-management-method.md` — 824w
+- 2006-08-09 — [The Econ 101 Management Method](https://www.joelonsoftware.com/2006/08/09/the-econ-101-management-method/) — `2006-08-09-2006-08-09-the-econ-101-management-method.md` — 1477w
+- 2006-08-08 — [The Command and Control Management Method](https://www.joelonsoftware.com/2006/08/08/the-command-and-control-management-method/) — `2006-08-08-2006-08-08-the-command-and-control-management-method.md` — 1087w
+- 2006-08-07 — [Three Management Methods (Introduction)](https://www.joelonsoftware.com/2006/08/07/three-management-methods-introduction/) — `2006-08-07-2006-08-07-three-management-methods-introduction.md` — 436w
+- 2006-08-05 — [News](https://www.joelonsoftware.com/2006/08/05/news-125/) — `2006-08-05-2006-08-05-news-125.md` — 338w
+- 2006-08-01 — [Can Your Programming Language Do This?](https://www.joelonsoftware.com/2006/08/01/can-your-programming-language-do-this/) — `2006-08-01-2006-08-01-can-your-programming-language-do-this.md` — 1122w
+- 2006-07-31 — [Why Dell.com Still Feels Like Buying a Used Car](https://www.joelonsoftware.com/2006/07/31/why-dellcom-still-feels-like-buying-a-used-car/) — `2006-07-31-2006-07-31-why-dellcom-still-feels-like-buying-a-used-car.md` — 499w
+- 2006-07-30 — [Private Offices Redux](https://www.joelonsoftware.com/2006/07/30/private-offices-redux/) — `2006-07-30-2006-07-30-private-offices-redux.md` — 394w
+- 2006-07-29 — [Travelers Insurance: Drop Dead.](https://www.joelonsoftware.com/2006/07/29/travelers-insurance-drop-dead/) — `2006-07-29-2006-07-29-travelers-insurance-drop-dead.md` — 405w
+- 2006-07-28 — [Search Box](https://www.joelonsoftware.com/2006/07/28/search-box/) — `2006-07-28-2006-07-28-search-box.md` — 384w
+- 2006-07-20 — [Wanted: System / Network Administrator](https://www.joelonsoftware.com/2006/07/20/wanted-system-network-administrator/) — `2006-07-20-2006-07-20-wanted-system-network-administrator.md` — 413w
+- 2006-06-16 — [My First BillG Review](https://www.joelonsoftware.com/2006/06/16/my-first-billg-review/) — `2006-06-16-2006-06-16-my-first-billg-review.md` — 1963w
+- 2006-05-16 — [FogBugz 4½ and Subjective Well-Being](https://www.joelonsoftware.com/2006/05/16/fogbugz-412-and-subjective-well-being/) — `2006-05-16-2006-05-16-fogbugz-412-and-subjective-well-being.md` — 1205w
+- 2006-05-05 — [Lazy Programmer, Didn’t Handle Exception](https://www.joelonsoftware.com/2006/05/05/lazy-programmer-didnt-handle-exception/) — `2006-05-05-2006-05-05-lazy-programmer-didnt-handle-exception.md` — 382w
+- 2006-05-02 — [Aardvark’d Screening in New York](https://www.joelonsoftware.com/2006/05/02/aardvarkd-screening-in-new-york/) — `2006-05-02-2006-05-02-aardvarkd-screening-in-new-york.md` — 199w
+- 2006-04-15 — [Muriel Spark, 1918-2006](https://www.joelonsoftware.com/2006/04/15/muriel-spark-1918-2006/) — `2006-04-15-2006-04-15-muriel-spark-1918-2006.md` — 192w
+- 2006-04-07 — [Foreword to “Eric Sink on the Business of Software”](https://www.joelonsoftware.com/2006/04/07/foreword-to-8220eric-sink-on-the-business-of-software8221/) — `2006-04-07-2006-04-07-foreword-to-8220eric-sink-on-the-business-of-software8221.md` — 824w
+- 2006-04-07 — [Eric Sink on the Business of Software](https://www.joelonsoftware.com/2006/04/07/eric-sink-on-the-business-of-software/) — `2006-04-07-2006-04-07-eric-sink-on-the-business-of-software.md` — 120w
+- 2006-03-31 — [Best Software Writing – Volume II](https://www.joelonsoftware.com/2006/03/31/best-software-writing-volume-ii/) — `2006-03-31-2006-03-31-best-software-writing-volume-ii.md` — 218w
+- 2006-03-20 — [What’s the Joel Reddit?](https://www.joelonsoftware.com/2006/03/20/whats-the-joel-reddit/) — `2006-03-20-2006-03-20-whats-the-joel-reddit.md` — 315w
+- 2006-03-16 — [Software Development Productivity Awards](https://www.joelonsoftware.com/2006/03/16/software-development-productivity-awards/) — `2006-03-16-2006-03-16-software-development-productivity-awards.md` — 162w
+- 2006-03-07 — [Usability in One Easy Step (First Draft)](https://www.joelonsoftware.com/2006/03/07/usability-in-one-easy-step-first-draft/) — `2006-03-07-2006-03-07-usability-in-one-easy-step-first-draft.md` — 1152w
+- 2006-03-05 — [A lot of travelling](https://www.joelonsoftware.com/2006/03/05/a-lot-of-travelling/) — `2006-03-05-2006-03-05-a-lot-of-travelling.md` — 153w
+- 2006-02-10 — [Processing Internship Applications](https://www.joelonsoftware.com/2006/02/10/processing-internship-applications/) — `2006-02-10-2006-02-10-processing-internship-applications.md` — 994w
+- 2006-02-09 — [More on Calendars](https://www.joelonsoftware.com/2006/02/09/more-on-calendars/) — `2006-02-09-2006-02-09-more-on-calendars.md` — 146w
+- 2006-02-08 — [Too Many Ajax Calendars](https://www.joelonsoftware.com/2006/02/08/too-many-ajax-calendars/) — `2006-02-08-2006-02-08-too-many-ajax-calendars.md` — 636w
+- 2006-01-30 — [What Makes It Great? (First Draft)](https://www.joelonsoftware.com/2006/01/30/what-makes-it-great-first-draft/) — `2006-01-30-2006-01-30-what-makes-it-great-first-draft.md` — 1018w
+- 2006-01-30 — [What Makes It Great? (First Draft)](https://www.joelonsoftware.com/2006/01/30/what-makes-it-great-first-draft-2/) — `2006-01-30-2006-01-30-what-makes-it-great-first-draft-2.md` — 1122w
+- 2006-01-30 — [Great Design – Table of Contents](https://www.joelonsoftware.com/2006/01/30/great-design-table-of-contents/) — `2006-01-30-2006-01-30-great-design-table-of-contents.md` — 147w
+- 2006-01-27 — [Translations](https://www.joelonsoftware.com/2006/01/27/translations/) — `2006-01-27-2006-01-27-translations.md` — 569w
+- 2006-01-26 — [Great Design: What is Design? (First Draft)](https://www.joelonsoftware.com/2006/01/26/great-design-what-is-design-first-draft/) — `2006-01-26-2006-01-26-great-design-what-is-design-first-draft.md` — 1348w
+- 2006-01-25 — [News, and, the end of ?off](https://www.joelonsoftware.com/2006/01/25/news-and-the-end-of-off/) — `2006-01-25-2006-01-25-news-and-the-end-of-off.md` — 405w
+- 2006-01-25 — [Introduction to Great Design (Second Draft, In Progress)](https://www.joelonsoftware.com/2006/01/25/introduction-to-great-design-second-draft-in-progress/) — `2006-01-25-2006-01-25-introduction-to-great-design-second-draft-in-progress.md` — 930w
+- 2006-01-25 — [Introduction to Great Design (First Draft)](https://www.joelonsoftware.com/2006/01/25/introduction-to-great-design-first-draft/) — `2006-01-25-2006-01-25-introduction-to-great-design-first-draft.md` — 1058w
+- 2005-12-29 — [Test Yourself](https://www.joelonsoftware.com/2005/12/29/test-yourself/) — `2005-12-29-2005-12-29-test-yourself.md` — 266w
+- 2005-12-28 — [Saporasaki](https://www.joelonsoftware.com/2005/12/28/saporasaki/) — `2005-12-28-2005-12-28-saporasaki.md` — 204w
+- 2005-12-14 — [Shipping Update](https://www.joelonsoftware.com/2005/12/14/shipping-update/) — `2005-12-14-2005-12-14-shipping-update.md` — 221w
+- 2005-12-14 — [Interesting Links](https://www.joelonsoftware.com/2005/12/14/interesting-links/) — `2005-12-14-2005-12-14-interesting-links.md` — 308w
+- 2005-12-13 — [How to Ship Anything](https://www.joelonsoftware.com/2005/12/13/how-to-ship-anything/) — `2005-12-13-2005-12-13-how-to-ship-anything.md` — 1917w
+- 2005-12-01 — [Aardvark’d DVDs Ship; Final P&L](https://www.joelonsoftware.com/2005/12/01/aardvarkd-dvds-ship-final-pampl/) — `2005-12-01-2005-12-01-aardvarkd-dvds-ship-final-pampl.md` — 749w
+- 2005-11-22 — [Reading List](https://www.joelonsoftware.com/2005/11/22/reading-list/) — `2005-11-22-2005-11-22-reading-list.md` — 414w
+- 2005-11-18 — [Price as Signal](https://www.joelonsoftware.com/2005/11/18/price-as-signal/) — `2005-11-18-2005-11-18-price-as-signal.md` — 863w
+- 2005-11-07 — [Aardvark’d DVD Goes on Sale](https://www.joelonsoftware.com/2005/11/07/aardvarkd-dvd-goes-on-sale/) — `2005-11-07-2005-11-07-aardvarkd-dvd-goes-on-sale.md` — 549w
+- 2005-11-02 — [Massive Frontal PR is incompatible with Ship Early and Often](https://www.joelonsoftware.com/2005/11/02/massive-frontal-pr-is-incompatible-with-ship-early-and-often/) — `2005-11-02-2005-11-02-massive-frontal-pr-is-incompatible-with-ship-early-and-often.md` — 595w
+- 2005-10-30 — [A Minor Redesign](https://www.joelonsoftware.com/2005/10/30/a-minor-redesign/) — `2005-10-30-2005-10-30-a-minor-redesign.md` — 409w
+- 2005-10-25 — [Why eBay Bought Skype](https://www.joelonsoftware.com/2005/10/25/why-ebay-bought-skype/) — `2005-10-25-2005-10-25-why-ebay-bought-skype.md` — 505w
+- 2005-10-24 — [Something Rotten in AdSense](https://www.joelonsoftware.com/2005/10/24/something-rotten-in-adsense/) — `2005-10-24-2005-10-24-something-rotten-in-adsense.md` — 934w
+- 2005-10-21 — [Architecture Astronauts Are Back](https://www.joelonsoftware.com/2005/10/21/architecture-astronauts-are-back/) — `2005-10-21-2005-10-21-architecture-astronauts-are-back.md` — 439w
+- 2005-10-17 — [News](https://www.joelonsoftware.com/2005/10/17/news-121/) — `2005-10-17-2005-10-17-news-121.md` — 571w
+- 2005-10-16 — [News](https://www.joelonsoftware.com/2005/10/16/news-120/) — `2005-10-16-2005-10-16-news-120.md` — 615w
+- 2005-10-15 — [News](https://www.joelonsoftware.com/2005/10/15/news-119/) — `2005-10-15-2005-10-15-news-119.md` — 429w
+- 2005-10-14 — [News](https://www.joelonsoftware.com/2005/10/14/news-118/) — `2005-10-14-2005-10-14-news-118.md` — 471w
+- 2005-10-12 — [Set Your Priorities](https://www.joelonsoftware.com/2005/10/12/set-your-priorities/) — `2005-10-12-2005-10-12-set-your-priorities.md` — 2660w
+- 2005-10-12 — [News](https://www.joelonsoftware.com/2005/10/12/news-117/) — `2005-10-12-2005-10-12-news-117.md` — 145w
+- 2005-10-03 — [News](https://www.joelonsoftware.com/2005/10/03/news-116/) — `2005-10-03-2005-10-03-news-116.md` — 183w
+- 2005-08-17 — [The Project Aardvark Spec](https://www.joelonsoftware.com/2005/08/17/the-project-aardvark-spec/) — `2005-08-17-2005-08-17-the-project-aardvark-spec.md` — 726w
+- 2005-08-17 — [News](https://www.joelonsoftware.com/2005/08/17/news-113/) — `2005-08-17-2005-08-17-news-113.md` — 131w
+- 2005-08-16 — [News](https://www.joelonsoftware.com/2005/08/16/news-112/) — `2005-08-16-2005-08-16-news-112.md` — 129w
+- 2005-08-10 — [News](https://www.joelonsoftware.com/2005/08/10/news-111/) — `2005-08-10-2005-08-10-news-111.md` — 265w
+- 2005-07-30 — [Usability Testing with Morae](https://www.joelonsoftware.com/2005/07/30/usability-testing-with-morae/) — `2005-07-30-2005-07-30-usability-testing-with-morae.md` — 837w
+- 2005-07-25 — [Hitting the High Notes](https://www.joelonsoftware.com/2005/07/25/hitting-the-high-notes/) — `2005-07-25-2005-07-25-hitting-the-high-notes.md` — 2640w
+- 2005-07-15 — [News](https://www.joelonsoftware.com/2005/07/15/news-103/) — `2005-07-15-2005-07-15-news-103.md` — 190w
+- 2005-07-14 — [News](https://www.joelonsoftware.com/2005/07/14/news-102/) — `2005-07-14-2005-07-14-news-102.md` — 129w
+- 2005-07-07 — [Project Aardvark Midterm Report](https://www.joelonsoftware.com/2005/07/07/project-aardvark-midterm-report/) — `2005-07-07-2005-07-07-project-aardvark-midterm-report.md` — 1996w
+- 2005-06-24 — [News](https://www.joelonsoftware.com/2005/06/24/news-100/) — `2005-06-24-2005-06-24-news-100.md` — 245w
+- 2005-06-21 — [News](https://www.joelonsoftware.com/2005/06/21/news-98/) — `2005-06-21-2005-06-21-news-98.md` — 322w
+- 2005-06-20 — [News](https://www.joelonsoftware.com/2005/06/20/news-97/) — `2005-06-20-2005-06-20-news-97.md` — 148w
+- 2005-06-17 — [News](https://www.joelonsoftware.com/2005/06/17/news-96/) — `2005-06-17-2005-06-17-news-96.md` — 574w
+- 2005-06-15 — [News](https://www.joelonsoftware.com/2005/06/15/news-95/) — `2005-06-15-2005-06-15-news-95.md` — 599w
+- 2005-06-02 — [News](https://www.joelonsoftware.com/2005/06/02/news-93/) — `2005-06-02-2005-06-02-news-93.md` — 260w
+- 2005-05-21 — [News](https://www.joelonsoftware.com/2005/05/21/news-89/) — `2005-05-21-2005-05-21-news-89.md` — 168w
+- 2005-05-20 — [News](https://www.joelonsoftware.com/2005/05/20/news-88/) — `2005-05-20-2005-05-20-news-88.md` — 142w
+- 2005-05-19 — [News](https://www.joelonsoftware.com/2005/05/19/news-87/) — `2005-05-19-2005-05-19-news-87.md` — 318w
+- 2005-05-11 — [News](https://www.joelonsoftware.com/2005/05/11/news-84/) — `2005-05-11-2005-05-11-news-84.md` — 146w
+- 2005-05-11 — [Making Wrong Code Look Wrong](https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/) — `2005-05-11-2005-05-11-making-wrong-code-look-wrong.md` — 5059w
+- 2005-05-03 — [News](https://www.joelonsoftware.com/2005/05/03/news-83/) — `2005-05-03-2005-05-03-news-83.md` — 427w
+- 2005-05-02 — [News](https://www.joelonsoftware.com/2005/05/02/news-82/) — `2005-05-02-2005-05-02-news-82.md` — 498w
+- 2005-04-01 — [The Road to FogBugz 4.0: Part V](https://www.joelonsoftware.com/2005/04/01/the-road-to-fogbugz-40-part-v/) — `2005-04-01-2005-04-01-the-road-to-fogbugz-40-part-v.md` — 439w
+- 2005-03-31 — [The Road to FogBugz 4.0: Part IV](https://www.joelonsoftware.com/2005/03/31/the-road-to-fogbugz-40-part-iv/) — `2005-03-31-2005-03-31-the-road-to-fogbugz-40-part-iv.md` — 1772w
+- 2005-03-30 — [The Road to FogBugz 4.0: Part III](https://www.joelonsoftware.com/2005/03/30/the-road-to-fogbugz-40-part-iii/) — `2005-03-30-2005-03-30-the-road-to-fogbugz-40-part-iii.md` — 2209w
+- 2005-03-29 — [The Road to FogBugz 4.0: Part II](https://www.joelonsoftware.com/2005/03/29/the-road-to-fogbugz-40-part-ii/) — `2005-03-29-2005-03-29-the-road-to-fogbugz-40-part-ii.md` — 1440w
+- 2005-03-28 — [The Road to FogBugz 4.0: Part I](https://www.joelonsoftware.com/2005/03/28/the-road-to-fogbugz-40-part-i/) — `2005-03-28-2005-03-28-the-road-to-fogbugz-40-part-i.md` — 1135w
+- 2005-03-23 — [News](https://www.joelonsoftware.com/2005/03/23/news-72/) — `2005-03-23-2005-03-23-news-72.md` — 133w
+- 2005-03-14 — [News](https://www.joelonsoftware.com/2005/03/14/news-69/) — `2005-03-14-2005-03-14-news-69.md` — 470w
+- 2005-03-08 — [News](https://www.joelonsoftware.com/2005/03/08/news-67/) — `2005-03-08-2005-03-08-news-67.md` — 229w
+- 2005-03-02 — [News](https://www.joelonsoftware.com/2005/03/02/news-66/) — `2005-03-02-2005-03-02-news-66.md` — 196w
+- 2005-02-17 — [News](https://www.joelonsoftware.com/2005/02/17/news-64/) — `2005-02-17-2005-02-17-news-64.md` — 397w
+- 2005-02-11 — [Foreword to Painless Project Management with FogBugz, by Mike Gunderloy](https://www.joelonsoftware.com/2005/02/11/foreword-to-painless-project-management-with-fogbugz-by-mike-gunderloy/) — `2005-02-11-2005-02-11-foreword-to-painless-project-management-with-fogbugz-by-mike-gunderlo.md` — 1206w
+- 2005-02-07 — [News](https://www.joelonsoftware.com/2005/02/07/news-60/) — `2005-02-07-2005-02-07-news-60.md` — 188w
+- 2005-02-05 — [News](https://www.joelonsoftware.com/2005/02/05/news-59/) — `2005-02-05-2005-02-05-news-59.md` — 165w
+- 2005-02-05 — [Colo Expansion Version 2.0](https://www.joelonsoftware.com/2005/02/05/colo-expansion-version-20/) — `2005-02-05-2005-02-05-colo-expansion-version-20.md` — 3267w
+- 2005-01-27 — [News](https://www.joelonsoftware.com/2005/01/27/news-58/) — `2005-01-27-2005-01-27-news-58.md` — 813w
+- 2005-01-02 — [Advice for Computer Science College Students](https://www.joelonsoftware.com/2005/01/02/advice-for-computer-science-college-students/) — `2005-01-02-2005-01-02-advice-for-computer-science-college-students.md` — 3224w
+- 2004-12-17 — [News](https://www.joelonsoftware.com/2004/12/17/news-51/) — `2004-12-17-2004-12-17-news-51.md` — 142w
+- 2004-12-15 — [News](https://www.joelonsoftware.com/2004/12/15/news-49/) — `2004-12-15-2004-12-15-news-49.md` — 391w
+- 2004-12-15 — [Camels and Rubber Duckies](https://www.joelonsoftware.com/2004/12/15/camels-and-rubber-duckies/) — `2004-12-15-2004-12-15-camels-and-rubber-duckies.md` — 5351w
+- 2004-12-10 — [News](https://www.joelonsoftware.com/2004/12/10/news-47/) — `2004-12-10-2004-12-10-news-47.md` — 162w
+- 2004-12-06 — [News](https://www.joelonsoftware.com/2004/12/06/news-45/) — `2004-12-06-2004-12-06-news-45.md` — 1125w
+- 2004-12-04 — [News](https://www.joelonsoftware.com/2004/12/04/news-44/) — `2004-12-04-2004-12-04-news-44.md` — 220w
+- 2004-11-29 — [News](https://www.joelonsoftware.com/2004/11/29/news-41/) — `2004-11-29-2004-11-29-news-41.md` — 436w
+- 2004-11-18 — [News](https://www.joelonsoftware.com/2004/11/18/news-38/) — `2004-11-18-2004-11-18-news-38.md` — 151w
+- 2004-11-03 — [News](https://www.joelonsoftware.com/2004/11/03/news-37/) — `2004-11-03-2004-11-03-news-37.md` — 327w
+- 2004-10-27 — [News](https://www.joelonsoftware.com/2004/10/27/news-34/) — `2004-10-27-2004-10-27-news-34.md` — 356w
+- 2004-10-26 — [News](https://www.joelonsoftware.com/2004/10/26/news-32/) — `2004-10-26-2004-10-26-news-32.md` — 786w
+- 2004-10-20 — [News](https://www.joelonsoftware.com/2004/10/20/news-30/) — `2004-10-20-2004-10-20-news-30.md` — 290w
+- 2004-09-14 — [News](https://www.joelonsoftware.com/2004/09/14/news-28/) — `2004-09-14-2004-09-14-news-28.md` — 594w
+- 2004-09-06 — [News](https://www.joelonsoftware.com/2004/09/06/news-26/) — `2004-09-06-2004-09-06-news-26.md` — 133w
+- 2004-09-06 — [It’s Not Just Usability](https://www.joelonsoftware.com/2004/09/06/its-not-just-usability/) — `2004-09-06-2004-09-06-its-not-just-usability.md` — 2507w
+- 2004-09-02 — [News](https://www.joelonsoftware.com/2004/09/02/news-24/) — `2004-09-02-2004-09-02-news-24.md` — 228w
+- 2004-09-02 — [News](https://www.joelonsoftware.com/2004/09/02/news-23/) — `2004-09-02-2004-09-02-news-23.md` — 196w
+- 2004-08-27 — [News](https://www.joelonsoftware.com/2004/08/27/news-22/) — `2004-08-27-2004-08-27-news-22.md` — 207w
+- 2004-08-25 — [News](https://www.joelonsoftware.com/2004/08/25/news-21/) — `2004-08-25-2004-08-25-news-21.md` — 219w
+- 2004-08-19 — [News](https://www.joelonsoftware.com/2004/08/19/news-20/) — `2004-08-19-2004-08-19-news-20.md` — 339w
+- 2004-08-19 — [News](https://www.joelonsoftware.com/2004/08/19/news-19/) — `2004-08-19-2004-08-19-news-19.md` — 425w
+- 2004-07-25 — [News](https://www.joelonsoftware.com/2004/07/25/news-15/) — `2004-07-25-2004-07-25-news-15.md` — 191w
+- 2004-07-19 — [News](https://www.joelonsoftware.com/2004/07/19/news-13/) — `2004-07-19-2004-07-19-news-13.md` — 356w
+- 2004-07-16 — [News](https://www.joelonsoftware.com/2004/07/16/news-12/) — `2004-07-16-2004-07-16-news-12.md` — 121w
+- 2004-06-25 — [News](https://www.joelonsoftware.com/2004/06/25/news-11/) — `2004-06-25-2004-06-25-news-11.md` — 288w
+- 2004-06-23 — [News](https://www.joelonsoftware.com/2004/06/23/news-10/) — `2004-06-23-2004-06-23-news-10.md` — 403w
+- 2004-06-18 — [News](https://www.joelonsoftware.com/2004/06/18/news-9/) — `2004-06-18-2004-06-18-news-9.md` — 213w
+- 2004-06-17 — [News](https://www.joelonsoftware.com/2004/06/17/news-8/) — `2004-06-17-2004-06-17-news-8.md` — 657w
+- 2004-06-15 — [News](https://www.joelonsoftware.com/2004/06/15/news-6/) — `2004-06-15-2004-06-15-news-6.md` — 186w
+- 2004-06-13 — [How Microsoft Lost the API War](https://www.joelonsoftware.com/2004/06/13/how-microsoft-lost-the-api-war/) — `2004-06-13-2004-06-13-how-microsoft-lost-the-api-war.md` — 6060w
+- 2004-05-05 — [Mike Gunderloy’s Coder to Developer](https://www.joelonsoftware.com/2004/05/05/mike-gunderloys-coder-to-developer/) — `2004-05-05-2004-05-05-mike-gunderloys-coder-to-developer.md` — 944w
+- 2004-04-22 — [News](https://www.joelonsoftware.com/2004/04/22/news-4/) — `2004-04-22-2004-04-22-news-4.md` — 727w
+- 2004-04-16 — [News](https://www.joelonsoftware.com/2004/04/16/news-3/) — `2004-04-16-2004-04-16-news-3.md` — 763w
+- 2004-03-25 — [25](https://www.joelonsoftware.com/2004/03/25/25-2/) — `2004-03-25-2004-03-25-25-2.md` — 548w
+- 2004-03-02 — [Top Twelve Tips for Running a Beta Test](https://www.joelonsoftware.com/2004/03/02/top-twelve-tips-for-running-a-beta-test/) — `2004-03-02-2004-03-02-top-twelve-tips-for-running-a-beta-test.md` — 687w
+- 2004-02-27 — [27](https://www.joelonsoftware.com/2004/02/27/27-2/) — `2004-02-27-2004-02-27-27-2.md` — 594w
+- 2004-02-20 — [20](https://www.joelonsoftware.com/2004/02/20/20-4/) — `2004-02-20-2004-02-20-20-4.md` — 750w
+- 2004-01-27 — [27](https://www.joelonsoftware.com/2004/01/27/27/) — `2004-01-27-2004-01-27-27.md` — 537w
+- 2004-01-26 — [Getting Your Résumé Read](https://www.joelonsoftware.com/2004/01/26/getting-your-resume-read/) — `2004-01-26-2004-01-26-getting-your-resume-read.md` — 1598w
+- 2004-01-26 — [26](https://www.joelonsoftware.com/2004/01/26/26-2/) — `2004-01-26-2004-01-26-26-2.md` — 221w
+- 2004-01-19 — [19](https://www.joelonsoftware.com/2004/01/19/19-3/) — `2004-01-19-2004-01-19-19-3.md` — 565w
+- 2004-01-08 — [08](https://www.joelonsoftware.com/2004/01/08/08-3/) — `2004-01-08-2004-01-08-08-3.md` — 140w
+- 2003-12-22 — [22](https://www.joelonsoftware.com/2003/12/22/22-3/) — `2003-12-22-2003-12-22-22-3.md` — 166w
+- 2003-12-14 — [Biculturalism](https://www.joelonsoftware.com/2003/12/14/biculturalism/) — `2003-12-14-2003-12-14-biculturalism.md` — 2347w
+- 2003-12-01 — [01](https://www.joelonsoftware.com/2003/12/01/01-4/) — `2003-12-01-2003-12-01-01-4.md` — 124w
+- 2003-11-30 — [30](https://www.joelonsoftware.com/2003/11/30/30/) — `2003-11-30-2003-11-30-30.md` — 365w
+- 2003-11-14 — [14](https://www.joelonsoftware.com/2003/11/14/14-3/) — `2003-11-14-2003-11-14-14-3.md` — 616w
+- 2003-11-06 — [06](https://www.joelonsoftware.com/2003/11/06/06/) — `2003-11-06-2003-11-06-06.md` — 557w
+- 2003-10-31 — [31](https://www.joelonsoftware.com/2003/10/31/31/) — `2003-10-31-2003-10-31-31.md` — 298w
+- 2003-10-23 — [24](https://www.joelonsoftware.com/2003/10/23/24-2/) — `2003-10-23-2003-10-23-24-2.md` — 258w
+- 2003-10-17 — [17](https://www.joelonsoftware.com/2003/10/17/17-3/) — `2003-10-17-2003-10-17-17-3.md` — 612w
+- 2003-10-15 — [15](https://www.joelonsoftware.com/2003/10/15/15-2/) — `2003-10-15-2003-10-15-15-2.md` — 417w
+- 2003-10-13 — [13](https://www.joelonsoftware.com/2003/10/13/13/) — `2003-10-13-2003-10-13-13.md` — 567w
+- 2003-10-08 — [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) — `2003-10-08-2003-10-08-the-absolute-minimum-every-software-developer-absolutely-positively-m.md` — 3660w
+- 2003-09-24 — [Bionic Office](https://www.joelonsoftware.com/2003/09/24/bionic-office/) — `2003-09-24-2003-09-24-bionic-office.md` — 1254w
+- 2003-09-18 — [19](https://www.joelonsoftware.com/2003/09/18/19-2/) — `2003-09-18-2003-09-18-19-2.md` — 265w
+- 2003-08-26 — [26](https://www.joelonsoftware.com/2003/08/26/26/) — `2003-08-26-2003-08-26-26.md` — 253w
+- 2003-08-22 — [22](https://www.joelonsoftware.com/2003/08/22/22/) — `2003-08-22-2003-08-22-22.md` — 264w
+- 2003-08-21 — [21](https://www.joelonsoftware.com/2003/08/21/21/) — `2003-08-21-2003-08-21-21.md` — 164w
+- 2003-08-20 — [20](https://www.joelonsoftware.com/2003/08/20/20-2/) — `2003-08-20-2003-08-20-20-2.md` — 150w
+- 2003-08-02 — [02](https://www.joelonsoftware.com/2003/08/02/02/) — `2003-08-02-2003-08-02-02.md` — 252w
+- 2003-08-01 — [Rick Chapman is In Search of Stupidity](https://www.joelonsoftware.com/2003/08/01/rick-chapman-is-in-search-of-stupidity/) — `2003-08-01-2003-08-01-rick-chapman-is-in-search-of-stupidity.md` — 1037w
+- 2003-08-01 — [01](https://www.joelonsoftware.com/2003/08/01/01-2/) — `2003-08-01-2003-08-01-01-2.md` — 120w
+- 2003-07-17 — [17](https://www.joelonsoftware.com/2003/07/17/17-2/) — `2003-07-17-2003-07-17-17-2.md` — 249w
+- 2003-07-16 — [16](https://www.joelonsoftware.com/2003/07/16/16-2/) — `2003-07-16-2003-07-16-16-2.md` — 282w
+- 2003-07-14 — [14](https://www.joelonsoftware.com/2003/07/14/14/) — `2003-07-14-2003-07-14-14.md` — 314w
+- 2003-07-01 — [01](https://www.joelonsoftware.com/2003/07/01/01/) — `2003-07-01-2003-07-01-01.md` — 205w
+- 2003-06-20 — [20](https://www.joelonsoftware.com/2003/06/20/20/) — `2003-06-20-2003-06-20-20.md` — 172w
+- 2003-06-15 — [15](https://www.joelonsoftware.com/2003/06/15/15/) — `2003-06-15-2003-06-15-15.md` — 486w
+- 2003-06-04 — [News](https://www.joelonsoftware.com/2003/06/04/news-2/) — `2003-06-04-2003-06-04-news-2.md` — 243w
+- 2003-06-03 — [Fixing Venture Capital](https://www.joelonsoftware.com/2003/06/03/fixing-venture-capital/) — `2003-06-03-2003-06-03-fixing-venture-capital.md` — 2622w
+- 2003-06-02 — [News](https://www.joelonsoftware.com/2003/06/02/news/) — `2003-06-02-2003-06-02-news.md` — 585w
+- 2003-06-01 — [2003/06/01](https://www.joelonsoftware.com/2003/06/01/20030601/) — `2003-06-01-2003-06-01-20030601.md` — 637w
+- 2003-05-16 — [2003/05/16](https://www.joelonsoftware.com/2003/05/16/20030516/) — `2003-05-16-2003-05-16-20030516.md` — 259w
+- 2003-04-22 — [2003/04/22](https://www.joelonsoftware.com/2003/04/22/20030422/) — `2003-04-22-2003-04-22-20030422.md` — 137w
+- 2003-04-21 — [2003/04/21](https://www.joelonsoftware.com/2003/04/21/20030421/) — `2003-04-21-2003-04-21-20030421.md` — 514w
+- 2003-04-18 — [2003/04/18](https://www.joelonsoftware.com/2003/04/18/20030418/) — `2003-04-18-2003-04-18-20030418.md` — 255w
+- 2003-04-16 — [2003/04/16](https://www.joelonsoftware.com/2003/04/16/20030416/) — `2003-04-16-2003-04-16-20030416.md` — 253w
+- 2003-03-28 — [Finding an Office in New York City](https://www.joelonsoftware.com/2003/03/28/finding-an-office-in-new-york-city/) — `2003-03-28-2003-03-28-finding-an-office-in-new-york-city.md` — 4764w
+- 2003-03-28 — [2003/03/28](https://www.joelonsoftware.com/2003/03/28/20030328/) — `2003-03-28-2003-03-28-20030328.md` — 145w
+- 2003-03-24 — [2003/03/24](https://www.joelonsoftware.com/2003/03/24/20030324/) — `2003-03-24-2003-03-24-20030324.md` — 171w
+- 2003-03-14 — [2003/03/14](https://www.joelonsoftware.com/2003/03/14/20030314/) — `2003-03-14-2003-03-14-20030314.md` — 345w
+- 2003-03-03 — [Building Communities with Software](https://www.joelonsoftware.com/2003/03/03/building-communities-with-software/) — `2003-03-03-2003-03-03-building-communities-with-software.md` — 3987w
+- 2003-03-03 — [2003/03/03](https://www.joelonsoftware.com/2003/03/03/20030303/) — `2003-03-03-2003-03-03-20030303.md` — 121w
+- 2003-02-28 — [2003/02/28](https://www.joelonsoftware.com/2003/02/28/20030228/) — `2003-02-28-2003-02-28-20030228.md` — 473w
+- 2003-02-25 — [2003/02/25](https://www.joelonsoftware.com/2003/02/25/20030225/) — `2003-02-25-2003-02-25-20030225.md` — 174w
+- 2003-02-14 — [2003/02/14](https://www.joelonsoftware.com/2003/02/14/20030214/) — `2003-02-14-2003-02-14-20030214.md` — 320w
+- 2003-02-05 — [2003/02/05](https://www.joelonsoftware.com/2003/02/05/20030205/) — `2003-02-05-2003-02-05-20030205.md` — 287w
+- 2003-02-03 — [New Server at Peer 1 Network](https://www.joelonsoftware.com/2003/02/03/new-server-at-peer-1-network/) — `2003-02-03-2003-02-03-new-server-at-peer-1-network.md` — 1843w
+- 2003-02-03 — [2003/02/03](https://www.joelonsoftware.com/2003/02/03/20030203/) — `2003-02-03-2003-02-03-20030203.md` — 215w
+- 2003-01-28 — [2003/01/28](https://www.joelonsoftware.com/2003/01/28/20030128/) — `2003-01-28-2003-01-28-20030128.md` — 332w
+- 2003-01-25 — [2003/01/25](https://www.joelonsoftware.com/2003/01/25/20030125/) — `2003-01-25-2003-01-25-20030125.md` — 1285w
+- 2003-01-15 — [Mouth Wide Shut](https://www.joelonsoftware.com/2003/01/15/mouth-wide-shut/) — `2003-01-15-2003-01-15-mouth-wide-shut.md` — 877w
+- 2003-01-15 — [2003/01/15](https://www.joelonsoftware.com/2003/01/15/20030115/) — `2003-01-15-2003-01-15-20030115.md` — 535w
+- 2003-01-09 — [2003/01/09](https://www.joelonsoftware.com/2003/01/09/20030109/) — `2003-01-09-2003-01-09-20030109.md` — 194w
+- 2003-01-03 — [2003/01/03](https://www.joelonsoftware.com/2003/01/03/20030103/) — `2003-01-03-2003-01-03-20030103.md` — 142w
+- 2003-01-02 — [2003/01/02](https://www.joelonsoftware.com/2003/01/02/20030102/) — `2003-01-02-2003-01-02-20030102.md` — 279w
+- 2002-12-24 — [2002/12/24](https://www.joelonsoftware.com/2002/12/24/20021224/) — `2002-12-24-2002-12-24-20021224.md` — 862w
+- 2002-12-11 — [Lord Palmerston on Programming](https://www.joelonsoftware.com/2002/12/11/lord-palmerston-on-programming/) — `2002-12-11-2002-12-11-lord-palmerston-on-programming.md` — 2232w
+- 2002-11-19 — [2002/11/19](https://www.joelonsoftware.com/2002/11/19/20021119/) — `2002-11-19-2002-11-19-20021119.md` — 487w
+- 2002-11-14 — [2002/11/14](https://www.joelonsoftware.com/2002/11/14/20021114/) — `2002-11-14-2002-11-14-20021114.md` — 365w
+- 2002-11-11 — [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) — `2002-11-11-2002-11-11-the-law-of-leaky-abstractions.md` — 2159w
+- 2002-11-08 — [2002/11/08](https://www.joelonsoftware.com/2002/11/08/20021108/) — `2002-11-08-2002-11-08-20021108.md` — 617w
+- 2002-11-04 — [2002/11/04](https://www.joelonsoftware.com/2002/11/04/20021104/) — `2002-11-04-2002-11-04-20021104.md` — 623w
+- 2002-10-23 — [2002/10/23](https://www.joelonsoftware.com/2002/10/23/20021023/) — `2002-10-23-2002-10-23-20021023.md` — 348w
+- 2002-10-21 — [2002/10/21](https://www.joelonsoftware.com/2002/10/21/20021021/) — `2002-10-21-2002-10-21-20021021.md` — 172w
+- 2002-10-19 — [2002/10/19](https://www.joelonsoftware.com/2002/10/19/20021019/) — `2002-10-19-2002-10-19-20021019.md` — 1448w
+- 2002-10-08 — [2002/10/08](https://www.joelonsoftware.com/2002/10/08/20021008/) — `2002-10-08-2002-10-08-20021008.md` — 1141w
+- 2002-10-02 — [2002/10/02](https://www.joelonsoftware.com/2002/10/02/20021002/) — `2002-10-02-2002-10-02-20021002.md` — 240w
+- 2002-09-25 — [2002/09/25](https://www.joelonsoftware.com/2002/09/25/20020925/) — `2002-09-25-2002-09-25-20020925.md` — 141w
+- 2002-09-18 — [2002/09/18](https://www.joelonsoftware.com/2002/09/18/20020918/) — `2002-09-18-2002-09-18-20020918.md` — 373w
+- 2002-09-17 — [2002/09/17](https://www.joelonsoftware.com/2002/09/17/20020917/) — `2002-09-17-2002-09-17-20020917.md` — 216w
+- 2002-09-13 — [2002/09/13](https://www.joelonsoftware.com/2002/09/13/20020913/) — `2002-09-13-2002-09-13-20020913.md` — 146w
+- 2002-09-12 — [2002/09/12](https://www.joelonsoftware.com/2002/09/12/20020912/) — `2002-09-12-2002-09-12-20020912.md` — 757w
+- 2002-09-10 — [2002/09/10](https://www.joelonsoftware.com/2002/09/10/20020910/) — `2002-09-10-2002-09-10-20020910.md` — 363w
+- 2002-09-03 — [2002/09/03](https://www.joelonsoftware.com/2002/09/03/20020903/) — `2002-09-03-2002-09-03-20020903.md` — 146w
+- 2002-08-30 — [Platforms](https://www.joelonsoftware.com/2002/08/30/platforms/) — `2002-08-30-2002-08-30-platforms.md` — 1613w
+- 2002-08-25 — [2002/08/25](https://www.joelonsoftware.com/2002/08/25/20020825/) — `2002-08-25-2002-08-25-20020825.md` — 214w
+- 2002-08-19 — [2002/08/19](https://www.joelonsoftware.com/2002/08/19/20020819/) — `2002-08-19-2002-08-19-20020819.md` — 174w
+- 2002-08-13 — [2002/08/13](https://www.joelonsoftware.com/2002/08/13/20020813/) — `2002-08-13-2002-08-13-20020813.md` — 232w
+- 2002-07-30 — [2002/07/30](https://www.joelonsoftware.com/2002/07/30/20020730/) — `2002-07-30-2002-07-30-20020730.md` — 413w
+- 2002-07-18 — [2002/07/18](https://www.joelonsoftware.com/2002/07/18/20020718/) — `2002-07-18-2002-07-18-20020718.md` — 308w
+- 2002-07-15 — [2002/07/15](https://www.joelonsoftware.com/2002/07/15/20020715/) — `2002-07-15-2002-07-15-20020715.md` — 579w
+- 2002-06-15 — [2002/06/15](https://www.joelonsoftware.com/2002/06/15/20020615/) — `2002-06-15-2002-06-15-20020615.md` — 189w
+- 2002-06-12 — [Strategy Letter V](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/) — `2002-06-12-2002-06-12-strategy-letter-v.md` — 2706w
+- 2002-06-10 — [2002/06/10](https://www.joelonsoftware.com/2002/06/10/20020610/) — `2002-06-10-2002-06-10-20020610.md` — 139w
+- 2002-05-08 — [2002/05/08](https://www.joelonsoftware.com/2002/05/08/20020508/) — `2002-05-08-2002-05-08-20020508.md` — 149w
+- 2002-05-07 — [2002/05/07](https://www.joelonsoftware.com/2002/05/07/20020507/) — `2002-05-07-2002-05-07-20020507.md` — 158w
+- 2002-05-06 — [Five Worlds](https://www.joelonsoftware.com/2002/05/06/five-worlds/) — `2002-05-06-2002-05-06-five-worlds.md` — 1872w
+- 2002-05-06 — [2002/05/06](https://www.joelonsoftware.com/2002/05/06/20020506/) — `2002-05-06-2002-05-06-20020506.md` — 466w
+- 2002-05-05 — [2002/05/05](https://www.joelonsoftware.com/2002/05/05/20020505/) — `2002-05-05-2002-05-05-20020505.md` — 337w
+- 2002-04-30 — [2002/04/30](https://www.joelonsoftware.com/2002/04/30/20020430/) — `2002-04-30-2002-04-30-20020430.md` — 435w
+- 2002-04-28 — [2002/04/28](https://www.joelonsoftware.com/2002/04/28/20020428/) — `2002-04-28-2002-04-28-20020428.md` — 320w
+- 2002-04-27 — [2002/04/27](https://www.joelonsoftware.com/2002/04/27/20020427/) — `2002-04-27-2002-04-27-20020427.md` — 237w
+- 2002-04-25 — [2002/04/25](https://www.joelonsoftware.com/2002/04/25/20020425/) — `2002-04-25-2002-04-25-20020425.md` — 750w
+- 2002-04-19 — [2002/04/19](https://www.joelonsoftware.com/2002/04/19/20020419/) — `2002-04-19-2002-04-19-20020419.md` — 279w
+- 2002-04-12 — [2002/04/12](https://www.joelonsoftware.com/2002/04/12/20020412/) — `2002-04-12-2002-04-12-20020412.md` — 235w
+- 2002-04-11 — [2002/04/11](https://www.joelonsoftware.com/2002/04/11/20020411/) — `2002-04-11-2002-04-11-20020411.md` — 144w
+- 2002-04-10 — [2002/04/10](https://www.joelonsoftware.com/2002/04/10/20020410/) — `2002-04-10-2002-04-10-20020410.md` — 302w
+- 2002-04-09 — [Picking a Ship Date](https://www.joelonsoftware.com/2002/04/09/picking-a-ship-date/) — `2002-04-09-2002-04-09-picking-a-ship-date.md` — 2074w
+- 2002-04-07 — [2002/04/07](https://www.joelonsoftware.com/2002/04/07/20020407/) — `2002-04-07-2002-04-07-20020407.md` — 158w
+- 2002-04-02 — [2002/04/02](https://www.joelonsoftware.com/2002/04/02/20020402/) — `2002-04-02-2002-04-02-20020402.md` — 126w
+- 2002-03-04 — [Nothing is as Simple as it Seems](https://www.joelonsoftware.com/2002/03/04/nothing-is-as-simple-as-it-seems/) — `2002-03-04-2002-03-04-nothing-is-as-simple-as-it-seems.md` — 1225w
+- 2002-02-13 — [The Iceberg Secret, Revealed](https://www.joelonsoftware.com/2002/02/13/the-iceberg-secret-revealed/) — `2002-02-13-2002-02-13-the-iceberg-secret-revealed.md` — 2002w
+- 2002-02-08 — [2002/02/08](https://www.joelonsoftware.com/2002/02/08/20020208/) — `2002-02-08-2002-02-08-20020208.md` — 236w
+- 2002-02-06 — [2002/02/06](https://www.joelonsoftware.com/2002/02/06/20020206/) — `2002-02-06-2002-02-06-20020206.md` — 192w
+- 2002-01-31 — [2002/01/31](https://www.joelonsoftware.com/2002/01/31/20020131/) — `2002-01-31-2002-01-31-20020131.md` — 269w
+- 2002-01-24 — [2002/01/24](https://www.joelonsoftware.com/2002/01/24/20020124/) — `2002-01-24-2002-01-24-20020124.md` — 233w
+- 2002-01-23 — [Rub a dub dub](https://www.joelonsoftware.com/2002/01/23/rub-a-dub-dub/) — `2002-01-23-2002-01-23-rub-a-dub-dub.md` — 1671w
+- 2002-01-06 — [Fire And Motion](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/) — `2002-01-06-2002-01-06-fire-and-motion.md` — 1500w
+- 2001-12-30 — [2001/12/30](https://www.joelonsoftware.com/2001/12/30/20011230/) — `2001-12-30-2001-12-30-20011230.md` — 357w
+- 2001-12-25 — [Getting Things Done When You’re Only a Grunt](https://www.joelonsoftware.com/2001/12/25/getting-things-done-when-youre-only-a-grunt/) — `2001-12-25-2001-12-25-getting-things-done-when-youre-only-a-grunt.md` — 1554w
+- 2001-12-25 — [2001/12/25](https://www.joelonsoftware.com/2001/12/25/20011225/) — `2001-12-25-2001-12-25-20011225.md` — 331w
+- 2001-12-19 — [2001/12/19](https://www.joelonsoftware.com/2001/12/19/20011219/) — `2001-12-19-2001-12-19-20011219.md` — 575w
+- 2001-12-15 — [Humane Programming](https://www.joelonsoftware.com/2001/12/15/humane-programming/) — `2001-12-15-2001-12-15-humane-programming.md` — 237w
+- 2001-12-13 — [2001/12/13](https://www.joelonsoftware.com/2001/12/13/20011213/) — `2001-12-13-2001-12-13-20011213.md` — 167w
+- 2001-12-11 — [Back to Basics](https://www.joelonsoftware.com/2001/12/11/back-to-basics/) — `2001-12-11-2001-12-11-back-to-basics.md` — 2948w
+- 2001-11-28 — [2001/11/29](https://www.joelonsoftware.com/2001/11/28/20011129/) — `2001-11-28-2001-11-28-20011129.md` — 325w
+- 2001-11-20 — [A Hard Drill Makes an Easy Battle](https://www.joelonsoftware.com/2001/11/20/a-hard-drill-makes-an-easy-battle/) — `2001-11-20-2001-11-20-a-hard-drill-makes-an-easy-battle.md` — 1145w
+- 2001-11-20 — [2001/11/20](https://www.joelonsoftware.com/2001/11/20/20011120/) — `2001-11-20-2001-11-20-20011120.md` — 273w
+- 2001-11-16 — [2001/11/16](https://www.joelonsoftware.com/2001/11/16/20011116/) — `2001-11-16-2001-11-16-20011116.md` — 437w
+- 2001-11-14 — [2001/11/14](https://www.joelonsoftware.com/2001/11/14/20011114/) — `2001-11-14-2001-11-14-20011114.md` — 408w
+- 2001-11-13 — [Working on CityDesk, Part Five](https://www.joelonsoftware.com/2001/11/13/working-on-citydesk-part-five/) — `2001-11-13-2001-11-13-working-on-citydesk-part-five.md` — 1678w
+- 2001-11-09 — [2001/11/09](https://www.joelonsoftware.com/2001/11/09/20011109/) — `2001-11-09-2001-11-09-20011109.md` — 213w
+- 2001-11-06 — [2001/11/06](https://www.joelonsoftware.com/2001/11/06/20011106/) — `2001-11-06-2001-11-06-20011106.md` — 349w
+- 2001-10-29 — [Working on CityDesk, Part Four](https://www.joelonsoftware.com/2001/10/29/working-on-citydesk-part-four/) — `2001-10-29-2001-10-29-working-on-citydesk-part-four.md` — 1652w
+- 2001-10-29 — [2001/10/29](https://www.joelonsoftware.com/2001/10/29/20011029/) — `2001-10-29-2001-10-29-20011029.md` — 220w
+- 2001-10-23 — [2001/10/23](https://www.joelonsoftware.com/2001/10/23/20011023/) — `2001-10-23-2001-10-23-20011023.md` — 245w
+- 2001-10-17 — [Working on CityDesk, Part Three](https://www.joelonsoftware.com/2001/10/17/working-on-citydesk-part-three/) — `2001-10-17-2001-10-17-working-on-citydesk-part-three.md` — 1322w
+- 2001-10-15 — [2001/10/15](https://www.joelonsoftware.com/2001/10/15/20011015/) — `2001-10-15-2001-10-15-20011015.md` — 244w
+- 2001-10-14 — [In Defense of Not-Invented-Here Syndrome](https://www.joelonsoftware.com/2001/10/14/in-defense-of-not-invented-here-syndrome/) — `2001-10-14-2001-10-14-in-defense-of-not-invented-here-syndrome.md` — 1056w
+- 2001-10-14 — [2001/10/14](https://www.joelonsoftware.com/2001/10/14/20011014/) — `2001-10-14-2001-10-14-20011014.md` — 203w
+- 2001-10-13 — [Working on CityDesk, Part Two](https://www.joelonsoftware.com/2001/10/13/working-on-citydesk-part-two/) — `2001-10-13-2001-10-13-working-on-citydesk-part-two.md` — 1195w
+- 2001-10-12 — [Working on CityDesk, Part One](https://www.joelonsoftware.com/2001/10/12/working-on-citydesk-part-one/) — `2001-10-12-2001-10-12-working-on-citydesk-part-one.md` — 750w
+- 2001-09-24 — [2001/09/24](https://www.joelonsoftware.com/2001/09/24/20010924/) — `2001-09-24-2001-09-24-20010924.md` — 185w
+- 2001-09-11 — [2001/09/11](https://www.joelonsoftware.com/2001/09/11/20010911/) — `2001-09-11-2001-09-11-20010911.md` — 315w
+- 2001-08-14 — [2001/08/14](https://www.joelonsoftware.com/2001/08/14/20010814/) — `2001-08-14-2001-08-14-20010814.md` — 341w
+- 2001-08-13 — [2001/08/13](https://www.joelonsoftware.com/2001/08/13/20010813/) — `2001-08-13-2001-08-13-20010813.md` — 362w
+- 2001-08-08 — [2001/08/08](https://www.joelonsoftware.com/2001/08/08/20010808/) — `2001-08-08-2001-08-08-20010808.md` — 186w
+- 2001-08-05 — [2001/08/05](https://www.joelonsoftware.com/2001/08/05/20010805/) — `2001-08-05-2001-08-05-20010805.md` — 448w
+- 2001-07-31 — [Hard-assed Bug Fixin’](https://www.joelonsoftware.com/2001/07/31/hard-assed-bug-fixin/) — `2001-07-31-2001-07-31-hard-assed-bug-fixin.md` — 1985w
+- 2001-07-21 — [Good Software Takes Ten Years. Get Used To it.](https://www.joelonsoftware.com/2001/07/21/good-software-takes-ten-years-get-used-to-it/) — `2001-07-21-2001-07-21-good-software-takes-ten-years-get-used-to-it.md` — 1904w
+- 2001-06-27 — [2001/06/27](https://www.joelonsoftware.com/2001/06/27/20010627/) — `2001-06-27-2001-06-27-20010627.md` — 377w
+- 2001-06-22 — [2001/06/24](https://www.joelonsoftware.com/2001/06/22/20010624/) — `2001-06-22-2001-06-22-20010624.md` — 374w
+- 2001-06-17 — [2001/06/17](https://www.joelonsoftware.com/2001/06/17/20010617/) — `2001-06-17-2001-06-17-20010617.md` — 138w
+- 2001-06-07 — [2001/06/07](https://www.joelonsoftware.com/2001/06/07/20010607/) — `2001-06-07-2001-06-07-20010607.md` — 268w
+- 2001-05-29 — [2001/05/29](https://www.joelonsoftware.com/2001/05/29/20010529/) — `2001-05-29-2001-05-29-20010529.md` — 274w
+- 2001-05-28 — [2001/05/28](https://www.joelonsoftware.com/2001/05/28/20010528/) — `2001-05-28-2001-05-28-20010528.md` — 159w
+- 2001-05-08 — [2001/05/08](https://www.joelonsoftware.com/2001/05/08/20010508/) — `2001-05-08-2001-05-08-20010508.md` — 180w
+- 2001-05-05 — [What is the Work of Dogs in this Country?](https://www.joelonsoftware.com/2001/05/05/what-is-the-work-of-dogs-in-this-country/) — `2001-05-05-2001-05-05-what-is-the-work-of-dogs-in-this-country.md` — 1717w
+- 2001-05-03 — [2001/05/03](https://www.joelonsoftware.com/2001/05/03/20010503/) — `2001-05-03-2001-05-03-20010503.md` — 153w
+- 2001-04-22 — [2001/04/21](https://www.joelonsoftware.com/2001/04/22/20010421/) — `2001-04-22-2001-04-22-20010421.md` — 156w
+- 2001-04-21 — [Don’t Let Architecture Astronauts Scare You](https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/) — `2001-04-21-2001-04-21-dont-let-architecture-astronauts-scare-you.md` — 1017w
+- 2001-04-20 — [2001/04/20](https://www.joelonsoftware.com/2001/04/20/20010420/) — `2001-04-20-2001-04-20-20010420.md` — 204w
+- 2001-04-18 — [2001/04/18](https://www.joelonsoftware.com/2001/04/18/20010418/) — `2001-04-18-2001-04-18-20010418.md` — 277w
+- 2001-04-06 — [2001/04/06](https://www.joelonsoftware.com/2001/04/06/20010406/) — `2001-04-06-2001-04-06-20010406.md` — 210w
+- 2001-03-24 — [How Many Lies Can You Find In One Direct Mail Piece?](https://www.joelonsoftware.com/2001/03/24/how-many-lies-can-you-find-in-one-direct-mail-piece/) — `2001-03-24-2001-03-24-how-many-lies-can-you-find-in-one-direct-mail-piece.md` — 675w
+- 2001-03-24 — [2001/03/24](https://www.joelonsoftware.com/2001/03/24/20010324/) — `2001-03-24-2001-03-24-20010324.md` — 245w
+- 2001-03-23 — [Strategy Letter IV: Bloatware and the 80/20 Myth](https://www.joelonsoftware.com/2001/03/23/strategy-letter-iv-bloatware-and-the-8020-myth/) — `2001-03-23-2001-03-23-strategy-letter-iv-bloatware-and-the-8020-myth.md` — 1168w
+- 2001-03-19 — [Spring in Cambridge](https://www.joelonsoftware.com/2001/03/19/spring-in-cambridge/) — `2001-03-19-2001-03-19-spring-in-cambridge.md` — 1354w
+- 2001-02-21 — [2001/02/21](https://www.joelonsoftware.com/2001/02/21/20010221/) — `2001-02-21-2001-02-21-20010221.md` — 286w
+- 2001-02-12 — [Human Task Switches Considered Harmful](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/) — `2001-02-12-2001-02-12-human-task-switches-considered-harmful.md` — 987w
+- 2001-02-12 — [2001/02/12](https://www.joelonsoftware.com/2001/02/12/20010212/) — `2001-02-12-2001-02-12-20010212.md` — 141w
+- 2001-01-27 — [Daily Builds Are Your Friend](https://www.joelonsoftware.com/2001/01/27/daily-builds-are-your-friend/) — `2001-01-27-2001-01-27-daily-builds-are-your-friend.md` — 1846w
 - 2001-01-27 — [2001/01/27](https://www.joelonsoftware.com/2001/01/27/20010127/) — `2001-01-27-2001-01-27-20010127.md` — 239w
-- 2001-01-19 — [2001/01/19](https://www.joelonsoftware.com/2001/01/19/20010119/) — `2001-01-19-2001-01-19-20010119.md` — 336w
-- 2000-12-20 — [2000/12/20](https://www.joelonsoftware.com/2000/12/20/20001220/) — `2000-12-20-2000-12-20-20001220.md` — 158w
+- 2001-01-19 — [2001/01/19](https://www.joelonsoftware.com/2001/01/19/20010119/) — `2001-01-19-2001-01-19-20010119.md` — 340w
+- 2001-01-18 — [Big Macs vs. The Naked Chef](https://www.joelonsoftware.com/2001/01/18/big-macs-vs-the-naked-chef/) — `2001-01-18-2001-01-18-big-macs-vs-the-naked-chef.md` — 1869w
+- 2000-12-20 — [2000/12/20](https://www.joelonsoftware.com/2000/12/20/20001220/) — `2000-12-20-2000-12-20-20001220.md` — 160w
 - 2000-12-09 — [2000/12/09](https://www.joelonsoftware.com/2000/12/09/20001209/) — `2000-12-09-2000-12-09-20001209.md` — 207w
 - 2000-12-07 — [2000/12/07](https://www.joelonsoftware.com/2000/12/07/20001207/) — `2000-12-07-2000-12-07-20001207.md` — 141w
-- 2000-12-05 — [2000/12/05](https://www.joelonsoftware.com/2000/12/05/20001205/) — `2000-12-05-2000-12-05-20001205.md` — 206w
-- 2000-11-27 — [2000/11/27](https://www.joelonsoftware.com/2000/11/27/20001127/) — `2000-11-27-2000-11-27-20001127.md` — 185w
-- 2000-11-22 — [2000/11/22](https://www.joelonsoftware.com/2000/11/22/20001122/) — `2000-11-22-2000-11-22-20001122.md` — 500w
-- 2000-11-20 — [2000/11/20](https://www.joelonsoftware.com/2000/11/20/20001120/) — `2000-11-20-2000-11-20-20001120.md` — 472w
-- 2000-11-14 — [2000/11/14](https://www.joelonsoftware.com/2000/11/14/20001114/) — `2000-11-14-2000-11-14-20001114.md` — 602w
-- 2000-11-12 — [2000/11/12](https://www.joelonsoftware.com/2000/11/12/20001112/) — `2000-11-12-2000-11-12-20001112.md` — 485w
-- 2000-11-09 — [2000/11/09](https://www.joelonsoftware.com/2000/11/09/20001109/) — `2000-11-09-2000-11-09-20001109.md` — 203w
-- 2000-11-07 — [2000/11/07](https://www.joelonsoftware.com/2000/11/07/20001107/) — `2000-11-07-2000-11-07-20001107.md` — 496w
-- 2000-11-04 — [2000/11/04](https://www.joelonsoftware.com/2000/11/04/20001104/) — `2000-11-04-2000-11-04-20001104.md` — 199w
+- 2000-12-05 — [2000/12/05](https://www.joelonsoftware.com/2000/12/05/20001205/) — `2000-12-05-2000-12-05-20001205.md` — 211w
+- 2000-11-27 — [2000/11/27](https://www.joelonsoftware.com/2000/11/27/20001127/) — `2000-11-27-2000-11-27-20001127.md` — 189w
+- 2000-11-22 — [2000/11/22](https://www.joelonsoftware.com/2000/11/22/20001122/) — `2000-11-22-2000-11-22-20001122.md` — 504w
+- 2000-11-20 — [2000/11/20](https://www.joelonsoftware.com/2000/11/20/20001120/) — `2000-11-20-2000-11-20-20001120.md` — 487w
+- 2000-11-14 — [2000/11/14](https://www.joelonsoftware.com/2000/11/14/20001114/) — `2000-11-14-2000-11-14-20001114.md` — 605w
+- 2000-11-12 — [2000/11/12](https://www.joelonsoftware.com/2000/11/12/20001112/) — `2000-11-12-2000-11-12-20001112.md` — 499w
+- 2000-11-09 — [2000/11/09](https://www.joelonsoftware.com/2000/11/09/20001109/) — `2000-11-09-2000-11-09-20001109.md` — 206w
+- 2000-11-08 — [Painless Bug Tracking](https://www.joelonsoftware.com/2000/11/08/painless-bug-tracking/) — `2000-11-08-2000-11-08-painless-bug-tracking.md` — 2290w
+- 2000-11-07 — [2000/11/07](https://www.joelonsoftware.com/2000/11/07/20001107/) — `2000-11-07-2000-11-07-20001107.md` — 510w
+- 2000-11-04 — [2000/11/04](https://www.joelonsoftware.com/2000/11/04/20001104/) — `2000-11-04-2000-11-04-20001104.md` — 203w
+- 2000-11-03 — [2000/11/03](https://www.joelonsoftware.com/2000/11/03/20001103/) — `2000-11-03-2000-11-03-20001103.md` — 121w
 - 2000-11-02 — [2000/11/02](https://www.joelonsoftware.com/2000/11/02/20001102/) — `2000-11-02-2000-11-02-20001102.md` — 123w
-- 2000-10-27 — [2000/10/27](https://www.joelonsoftware.com/2000/10/27/20001027/) — `2000-10-27-2000-10-27-20001027.md` — 201w
+- 2000-10-27 — [2000/10/27](https://www.joelonsoftware.com/2000/10/27/20001027/) — `2000-10-27-2000-10-27-20001027.md` — 204w
+- 2000-10-15 — [Painless Functional Specifications – Part 4: Tips](https://www.joelonsoftware.com/2000/10/15/painless-functional-specifications-part-4-tips/) — `2000-10-15-2000-10-15-painless-functional-specifications-part-4-tips.md` — 2257w
 - 2000-10-15 — [2000/10/15](https://www.joelonsoftware.com/2000/10/15/20001015/) — `2000-10-15-2000-10-15-20001015.md` — 183w
 - 2000-10-12 — [2000/10/12](https://www.joelonsoftware.com/2000/10/12/20001012/) — `2000-10-12-2000-10-12-20001012.md` — 171w
-- 2000-09-25 — [2000/09/25](https://www.joelonsoftware.com/2000/09/25/20000925/) — `2000-09-25-2000-09-25-20000925.md` — 281w
-- 2000-09-18 — [2000/09/18](https://www.joelonsoftware.com/2000/09/18/20000918/) — `2000-09-18-2000-09-18-20000918.md` — 346w
-- 2000-08-31 — [2000/08/31](https://www.joelonsoftware.com/2000/08/31/20000831/) — `2000-08-31-2000-08-31-20000831.md` — 169w
-- 2000-08-28 — [2000/08/28](https://www.joelonsoftware.com/2000/08/28/20000828/) — `2000-08-28-2000-08-28-20000828.md` — 126w
-- 2000-08-14 — [2000/08/14](https://www.joelonsoftware.com/2000/08/14/20000814/) — `2000-08-14-2000-08-14-20000814.md` — 124w
-- 2000-08-10 — [2000/08/10](https://www.joelonsoftware.com/2000/08/10/20000810/) — `2000-08-10-2000-08-10-20000810.md` — 250w
-- 2000-08-09 — [2000/08/09](https://www.joelonsoftware.com/2000/08/09/20000809/) — `2000-08-09-2000-08-09-20000809.md` — 158w
-- 2000-07-26 — [2000/07/26](https://www.joelonsoftware.com/2000/07/26/20000726/) — `2000-07-26-2000-07-26-20000726.md` — 192w
+- 2000-10-04 — [Painless Functional Specifications – Part 3: But… How?](https://www.joelonsoftware.com/2000/10/04/painless-functional-specifications-part-3-but-how/) — `2000-10-04-2000-10-04-painless-functional-specifications-part-3-but-how.md` — 1180w
+- 2000-10-03 — [Painless Functional Specifications – Part 2: What’s a Spec?](https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/) — `2000-10-03-2000-10-03-painless-functional-specifications-part-2-whats-a-spec.md` — 1432w
+- 2000-10-02 — [Painless Functional Specifications – Part 1: Why Bother?](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/) — `2000-10-02-2000-10-02-painless-functional-specifications-part-1-why-bother.md` — 2366w
+- 2000-09-25 — [2000/09/25](https://www.joelonsoftware.com/2000/09/25/20000925/) — `2000-09-25-2000-09-25-20000925.md` — 286w
+- 2000-09-18 — [2000/09/18](https://www.joelonsoftware.com/2000/09/18/20000918/) — `2000-09-18-2000-09-18-20000918.md` — 352w
+- 2000-09-12 — [Wasting Money on Cats](https://www.joelonsoftware.com/2000/09/12/wasting-money-on-cats/) — `2000-09-12-2000-09-12-wasting-money-on-cats.md` — 1104w
+- 2000-08-31 — [2000/08/31](https://www.joelonsoftware.com/2000/08/31/20000831/) — `2000-08-31-2000-08-31-20000831.md` — 172w
+- 2000-08-28 — [2000/08/28](https://www.joelonsoftware.com/2000/08/28/20000828/) — `2000-08-28-2000-08-28-20000828.md` — 137w
+- 2000-08-14 — [2000/08/14](https://www.joelonsoftware.com/2000/08/14/20000814/) — `2000-08-14-2000-08-14-20000814.md` — 130w
+- 2000-08-10 — [2000/08/10](https://www.joelonsoftware.com/2000/08/10/20000810/) — `2000-08-10-2000-08-10-20000810.md` — 270w
+- 2000-08-09 — [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) — `2000-08-09-2000-08-09-the-joel-test-12-steps-to-better-code.md` — 3567w
+- 2000-08-09 — [2000/08/09](https://www.joelonsoftware.com/2000/08/09/20000809/) — `2000-08-09-2000-08-09-20000809.md` — 167w
+- 2000-07-26 — [2000/07/26](https://www.joelonsoftware.com/2000/07/26/20000726/) — `2000-07-26-2000-07-26-20000726.md` — 199w
 - 2000-07-25 — [2000/07/25](https://www.joelonsoftware.com/2000/07/25/20000725/) — `2000-07-25-2000-07-25-20000725.md` — 164w
 - 2000-07-24 — [2000/07/24](https://www.joelonsoftware.com/2000/07/24/20000724/) — `2000-07-24-2000-07-24-20000724.md` — 130w
-- 2000-05-26 — [2000/05/26](https://www.joelonsoftware.com/2000/05/26/20000526/) — `2000-05-26-2000-05-26-20000526.md` — 475w
+- 2000-06-15 — [Whaddaya Mean, You Can’t Find Programmers?](https://www.joelonsoftware.com/2000/06/15/whaddaya-mean-you-cant-find-programmers/) — `2000-06-15-2000-06-15-whaddaya-mean-you-cant-find-programmers.md` — 2494w
+- 2000-06-03 — [Strategy Letter III: Let Me Go Back!](https://www.joelonsoftware.com/2000/06/03/strategy-letter-iii-let-me-go-back/) — `2000-06-03-2000-06-03-strategy-letter-iii-let-me-go-back.md` — 1829w
+- 2000-05-26 — [2000/05/26](https://www.joelonsoftware.com/2000/05/26/20000526/) — `2000-05-26-2000-05-26-20000526.md` — 481w
+- 2000-05-24 — [Strategy Letter II: Chicken and Egg Problems](https://www.joelonsoftware.com/2000/05/24/strategy-letter-ii-chicken-and-egg-problems/) — `2000-05-24-2000-05-24-strategy-letter-ii-chicken-and-egg-problems.md` — 2690w
+- 2000-05-12 — [Strategy Letter I: Ben and Jerry’s vs. Amazon](https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/) — `2000-05-12-2000-05-12-strategy-letter-i-ben-and-jerrys-vs-amazon.md` — 2919w
 - 2000-05-10 — [2000/05/10](https://www.joelonsoftware.com/2000/05/10/20000510/) — `2000-05-10-2000-05-10-20000510.md` — 241w
+- 2000-05-09 — [The Process of Designing a Product](https://www.joelonsoftware.com/2000/05/09/the-process-of-designing-a-product/) — `2000-05-09-2000-05-09-the-process-of-designing-a-product.md` — 2036w
 - 2000-05-09 — [2000/05/09](https://www.joelonsoftware.com/2000/05/09/20000509/) — `2000-05-09-2000-05-09-20000509.md` — 190w
 - 2000-05-08 — [2000/05/08](https://www.joelonsoftware.com/2000/05/08/20000508/) — `2000-05-08-2000-05-08-20000508.md` — 151w
+- 2000-04-30 — [Top Five (Wrong) Reasons You Don’t Have Testers](https://www.joelonsoftware.com/2000/04/30/top-five-wrong-reasons-you-dont-have-testers/) — `2000-04-30-2000-04-30-top-five-wrong-reasons-you-dont-have-testers.md` — 2158w
 - 2000-04-30 — [2000/04/30](https://www.joelonsoftware.com/2000/04/30/20000430/) — `2000-04-30-2000-04-30-20000430.md` — 267w
 - 2000-04-28 — [2000/04/28](https://www.joelonsoftware.com/2000/04/28/20000428/) — `2000-04-28-2000-04-28-20000428.md` — 138w
 - 2000-04-23 — [2000/04/23](https://www.joelonsoftware.com/2000/04/23/20000423/) — `2000-04-23-2000-04-23-20000423.md` — 194w
+- 2000-04-19 — [Where do These People Get Their (Unoriginal) Ideas?](https://www.joelonsoftware.com/2000/04/19/where-do-these-people-get-their-unoriginal-ideas/) — `2000-04-19-2000-04-19-where-do-these-people-get-their-unoriginal-ideas.md` — 1183w
 - 2000-04-12 — [2000/04/12](https://www.joelonsoftware.com/2000/04/12/20000412/) — `2000-04-12-2000-04-12-20000412.md` — 158w
-- 2000-04-06 — [2000/04/06](https://www.joelonsoftware.com/2000/04/06/20000406/) — `2000-04-06-2000-04-06-20000406.md` — 139w
+- 2000-04-06 — [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) — `2000-04-06-2000-04-06-things-you-should-never-do-part-i.md` — 1425w
+- 2000-04-06 — [2000/04/06](https://www.joelonsoftware.com/2000/04/06/20000406/) — `2000-04-06-2000-04-06-20000406.md` — 146w
+- 2000-04-03 — [Incentive Pay Considered Harmful](https://www.joelonsoftware.com/2000/04/03/incentive-pay-considered-harmful/) — `2000-04-03-2000-04-03-incentive-pay-considered-harmful.md` — 1052w
 - 2000-03-30 — [2000/03/30](https://www.joelonsoftware.com/2000/03/30/20000330/) — `2000-03-30-2000-03-30-20000330.md` — 173w
 - 2000-03-29 — [2000/03/29](https://www.joelonsoftware.com/2000/03/29/20000329/) — `2000-03-29-2000-03-29-20000329.md` — 123w
+- 2000-03-28 — [NDAs and Contracts That You Should Never Sign](https://www.joelonsoftware.com/2000/03/28/ndas-and-contracts-that-you-should-never-sign/) — `2000-03-28-2000-03-28-ndas-and-contracts-that-you-should-never-sign.md` — 749w
+- 2000-03-23 — [Command and Conquer and the Herd of Coconuts](https://www.joelonsoftware.com/2000/03/23/command-and-conquer-and-the-herd-of-coconuts/) — `2000-03-23-2000-03-23-command-and-conquer-and-the-herd-of-coconuts.md` — 1391w
+- 2000-03-19 — [Two Stories](https://www.joelonsoftware.com/2000/03/19/two-stories/) — `2000-03-19-2000-03-19-two-stories.md` — 1826w
+- 2000-03-18 — [More on Sabbaticals…](https://www.joelonsoftware.com/2000/03/18/more-on-sabbaticals/) — `2000-03-18-2000-03-18-more-on-sabbaticals.md` — 1032w
 - 2000-03-18 — [2000/03/18](https://www.joelonsoftware.com/2000/03/18/20000318/) — `2000-03-18-2000-03-18-20000318.md` — 249w

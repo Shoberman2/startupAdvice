@@ -1,24 +1,919 @@
 # Tomasz Tunguz corpus index
 
-Source: https://tomtunguz.com — fetched 2026-07-19
-19 posts, 8075 words. Format: date — [title](canonical url) — `file` — words.
+Source: https://tomtunguz.com — fetched 2026-07-20
+914 posts, 363750 words. Format: date — [title](canonical url) — `file` — words.
 
+- undated — [Why Synthetic Data Is the Secret Weapon for AI Startups in 2025](https://www.tomtunguz.com/synthetic-data-secret-weapon-2025/) — `undated-synthetic-data-secret-weapon-2025.md` — 887w
+- undated — [Web3](https://www.tomtunguz.com/categories/web3/) — `undated-categories-web3.md` — 238w
 - undated — [Venture](https://www.tomtunguz.com/categories/venture-capital/) — `undated-categories-venture-capital.md` — 228w
+- undated — [Trust is at the Core of Software Marketing](https://www.tomtunguz.com/trust-core-marketing/) — `undated-trust-core-marketing.md` — 307w
+- undated — [Trends](https://www.tomtunguz.com/categories/trends/) — `undated-categories-trends.md` — 261w
+- undated — [Transcript of Redpoint Office Hours with Stripe’s Chief Corporate Advisor and former COO, Claire Hughes Johnson and Redpoint Managing Director, Tomasz Tunguz](https://www.tomtunguz.com/transcripts/claire-hughes-johnson/) — `undated-transcripts-claire-hughes-johnson.md` — 10121w
 - undated — [Three Years In](https://www.tomtunguz.com/three-years-in/) — `undated-three-years-in.md` — 1245w
+- undated — [Three Little Puzzles about Infinity](https://www.tomtunguz.com/three-puzzles-about-infinity/) — `undated-three-puzzles-about-infinity.md` — 456w
+- undated — [This Week's Sign the Apocalypse Isn't Upon Us](https://www.tomtunguz.com/what-ai-did-in-the-last-two-weeks/) — `undated-what-ai-did-in-the-last-two-weeks.md` — 509w
+- undated — [The Thriving Ecosystem of Open Models](https://www.tomtunguz.com/the-thriving-ecosystem-of-open-models/) — `undated-the-thriving-ecosystem-of-open-models.md` — 255w
+- undated — [The Scaling Wall Was A Mirage](https://www.tomtunguz.com/gemini-3-proves-pretraining-scaling-laws-intact/) — `undated-gemini-3-proves-pretraining-scaling-laws-intact.md` — 358w
+- undated — [The Premise of a New S](https://www.tomtunguz.com/elo-improvement/) — `undated-elo-improvement.md` — 249w
+- undated — [The Org Chart Math Behind AI](https://www.tomtunguz.com/communication-tax-small-orgs/) — `undated-communication-tax-small-orgs.md` — 370w
+- undated — [The Next 30 Years of Geopolitics](https://www.tomtunguz.com/disunited-nations/) — `undated-disunited-nations.md` — 448w
+- undated — [The AI Skepticism Map](https://www.tomtunguz.com/ai-shorts/) — `undated-ai-shorts.md` — 395w
+- undated — [The 2026 Rotation](https://www.tomtunguz.com/rotation-software-energy-materials/) — `undated-rotation-software-energy-materials.md` — 263w
+- undated — [Streaming Comes into the Fold](https://www.tomtunguz.com/ibm-confluent-acquisition-analysis/) — `undated-ibm-confluent-acquisition-analysis.md` — 446w
 - undated — [Strategy](https://www.tomtunguz.com/categories/strategy/) — `undated-categories-strategy.md` — 261w
 - undated — [Startups](https://www.tomtunguz.com/categories/startups/) — `undated-categories-startups.md` — 226w
+- undated — [SpaceX, OpenAI & Anthropic IPOs : A $3 Trillion Stress Test](https://www.tomtunguz.com/spacex-openai-anthropic-ipo-2026/) — `undated-spacex-openai-anthropic-ipo-2026.md` — 384w
+- undated — [SpaceX's Limitless Ambition : An AI Conglomerate](https://www.tomtunguz.com/spacex-s1-analysis/) — `undated-spacex-s1-analysis.md` — 624w
+- undated — [Sales](https://www.tomtunguz.com/categories/sales/) — `undated-categories-sales.md` — 237w
 - undated — [Saas](https://www.tomtunguz.com/categories/saas/) — `undated-categories-saas.md` — 242w
+- undated — [S](https://www.tomtunguz.com/categories/s-1-analysis/) — `undated-categories-s-1-analysis.md` — 238w
+- undated — [Productivity](https://www.tomtunguz.com/categories/productivity/) — `undated-categories-productivity.md` — 215w
+- undated — [Product](https://www.tomtunguz.com/categories/product/) — `undated-categories-product.md` — 252w
+- undated — [Pricing](https://www.tomtunguz.com/categories/pricing/) — `undated-categories-pricing.md` — 237w
+- undated — [Office Hours](https://www.tomtunguz.com/categories/office-hours/) — `undated-categories-office-hours.md` — 240w
+- undated — [Observations on Writing with AI](https://www.tomtunguz.com/observations-on-writing-with-ai/) — `undated-observations-on-writing-with-ai.md` — 351w
+- undated — [My Favorite Books of 2025](https://www.tomtunguz.com/10-best-books-of-2025/) — `undated-10-best-books-of-2025.md` — 462w
+- undated — [My Favorite Books of 2024](https://www.tomtunguz.com/favorite-books-2024/) — `undated-favorite-books-2024.md` — 564w
+- undated — [Marketing](https://www.tomtunguz.com/categories/marketing/) — `undated-categories-marketing.md` — 224w
+- undated — [Market Analysis](https://www.tomtunguz.com/categories/market-analysis/) — `undated-categories-market-analysis.md` — 215w
+- undated — [Management](https://www.tomtunguz.com/categories/management/) — `undated-categories-management.md` — 258w
+- undated — [Intelligence Per Dollar](https://www.tomtunguz.com/tokens-per-result/) — `undated-tokens-per-result.md` — 421w
 - undated — [Infrastructure](https://www.tomtunguz.com/categories/infrastructure/) — `undated-categories-infrastructure.md` — 262w
+- undated — [History](https://www.tomtunguz.com/categories/history/) — `undated-categories-history.md` — 242w
+- undated — [Hello, Claude? Are You There?](https://www.tomtunguz.com/what-if-we-run-out-of-capacity/) — `undated-what-if-we-run-out-of-capacity.md` — 154w
+- undated — [Guide](https://www.tomtunguz.com/categories/guide/) — `undated-categories-guide.md` — 198w
+- undated — [General](https://www.tomtunguz.com/categories/general/) — `undated-categories-general.md` — 227w
+- undated — [Fundraising](https://www.tomtunguz.com/categories/fundraising/) — `undated-categories-fundraising.md` — 258w
+- undated — [From A to B Without Inventing Letters](https://www.tomtunguz.com/john-mcphee-four-draft-writing-method/) — `undated-john-mcphee-four-draft-writing-method.md` — 385w
+- undated — [Financials](https://www.tomtunguz.com/categories/financials/) — `undated-categories-financials.md` — 244w
+- undated — [Exits](https://www.tomtunguz.com/categories/exits/) — `undated-categories-exits.md` — 252w
+- undated — [Engineering](https://www.tomtunguz.com/categories/engineering/) — `undated-categories-engineering.md` — 254w
+- undated — [Dead Companies Walking](https://www.tomtunguz.com/dead-companies-walking/) — `undated-dead-companies-walking.md` — 406w
+- undated — [Data](https://www.tomtunguz.com/categories/data/) — `undated-categories-data.md` — 228w
+- undated — [Data Analysis](https://www.tomtunguz.com/categories/data-analysis/) — `undated-categories-data-analysis.md` — 258w
+- undated — [Customer Success](https://www.tomtunguz.com/categories/customer-success/) — `undated-categories-customer-success.md` — 237w
+- undated — [Crypto](https://www.tomtunguz.com/categories/crypto/) — `undated-categories-crypto.md` — 239w
+- undated — [Congratulations, Robot. You've Been Promoted!](https://www.tomtunguz.com/congratulations-robot-youve-been-promoted/) — `undated-congratulations-robot-youve-been-promoted.md` — 295w
+- undated — [Compensation](https://www.tomtunguz.com/categories/compensation/) — `undated-categories-compensation.md` — 173w
+- undated — [Channel](https://www.tomtunguz.com/categories/channel/) — `undated-categories-channel.md` — 133w
+- undated — [Books](https://www.tomtunguz.com/categories/books/) — `undated-categories-books.md` — 243w
+- undated — [Best Practices](https://www.tomtunguz.com/categories/best-practices/) — `undated-categories-best-practices.md` — 242w
+- undated — [Benchmarks](https://www.tomtunguz.com/categories/benchmarks/) — `undated-categories-benchmarks.md` — 239w
 - undated — [Ai](https://www.tomtunguz.com/categories/ai/) — `undated-categories-ai.md` — 243w
+- undated — [Agents](https://www.tomtunguz.com/categories/agents/) — `undated-categories-agents.md` — 215w
+- undated — [A Founder's Guide to AI Implementation](https://www.tomtunguz.com/ai-implementation-guide/) — `undated-ai-implementation-guide.md` — 1571w
+- undated — [A Founder's Guide to AI & Technology Trends](https://www.tomtunguz.com/ai-technology-trends/) — `undated-ai-technology-trends.md` — 146w
+- undated — [A $10 Billion Call Option](https://www.tomtunguz.com/spacex-cursor-10b-call-option/) — `undated-spacex-cursor-10b-call-option.md` — 333w
+- undated — [1/9/90 in Crypto](https://www.tomtunguz.com/dao-population-patterns/) — `undated-dao-population-patterns.md` — 626w
 - 2026-07-09 — [The Blank Slate AI Strategy](https://www.tomtunguz.com/the-blank-slate-ai-strategy/) — `2026-07-09-the-blank-slate-ai-strategy.md` — 245w
 - 2026-06-24 — [The AI Colander](https://www.tomtunguz.com/the-ai-colander/) — `2026-06-24-the-ai-colander.md` — 447w
 - 2026-06-22 — [Full Sail on Asynchronous Inference](https://www.tomtunguz.com/sail-inference-queue/) — `2026-06-22-sail-inference-queue.md` — 443w
+- 2026-06-17 — [So You Want to Sell Inference](https://www.tomtunguz.com/so-you-want-to-sell-inference/) — `2026-06-17-so-you-want-to-sell-inference.md` — 516w
 - 2026-06-10 — [The Harness Is the New Battleground](https://www.tomtunguz.com/the-harness-is-the-new-battleground/) — `2026-06-10-the-harness-is-the-new-battleground.md` — 530w
 - 2026-05-29 — [The AI Preflight Check](https://www.tomtunguz.com/the-ai-preflight-check/) — `2026-05-29-the-ai-preflight-check.md` — 403w
+- 2026-05-28 — [Defending Against AI](https://www.tomtunguz.com/sunil-agrawal-office-hours/) — `2026-05-28-sunil-agrawal-office-hours.md` — 155w
+- 2026-05-26 — [The AI Glass Ceiling](https://www.tomtunguz.com/upper-bound-corporate-ai/) — `2026-05-26-upper-bound-corporate-ai.md` — 279w
+- 2026-05-18 — [The Unsustainable Subsidy](https://www.tomtunguz.com/ai-model-inflation/) — `2026-05-18-ai-model-inflation.md` — 148w
+- 2026-05-12 — [The Substitution Wave in AI](https://www.tomtunguz.com/inflation-deflation-ai/) — `2026-05-12-inflation-deflation-ai.md` — 295w
+- 2026-05-12 — [Plastic User Interfaces](https://www.tomtunguz.com/plastic-user-interfaces/) — `2026-05-12-plastic-user-interfaces.md` — 343w
+- 2026-05-11 — [What Would AI Email Cost?](https://www.tomtunguz.com/cost-of-ai-email/) — `2026-05-11-cost-of-ai-email.md` — 248w
+- 2026-05-11 — [The Minimill of AI](https://www.tomtunguz.com/using-local-ai-to-work-faster/) — `2026-05-11-using-local-ai-to-work-faster.md` — 400w
+- 2026-05-11 — [Skill Distillation](https://www.tomtunguz.com/the-pi-agent-skill-distillation/) — `2026-05-11-the-pi-agent-skill-distillation.md` — 378w
 - 2026-05-11 — [8.9 Million AI Users](https://www.tomtunguz.com/ollama-series-b/) — `2026-05-11-ollama-series-b.md` — 344w
+- 2026-05-11 — [5x for Free : The Local Coding Stack](https://www.tomtunguz.com/local-coding-models/) — `2026-05-11-local-coding-models.md` — 343w
+- 2026-05-08 — [Security in the Age of AI Agents: Office Hours with Jonathan Jaffe](https://www.tomtunguz.com/jonathan-jaffe-office-hours-post-event/) — `2026-05-08-jonathan-jaffe-office-hours-post-event.md` — 383w
 - 2026-04-30 — [Most AI Work Can Wait](https://www.tomtunguz.com/ai-execution-routing/) — `2026-04-30-ai-execution-routing.md` — 547w
+- 2026-04-30 — [All the AI You Need for 8 Ads per Day](https://www.tomtunguz.com/ad-supported-ai-works/) — `2026-04-30-ad-supported-ai-works.md` — 597w
+- 2026-04-27 — [The 6 Messages That Actually Matter](https://www.tomtunguz.com/the-disappearance-of-email/) — `2026-04-27-the-disappearance-of-email.md` — 244w
+- 2026-04-14 — [Securing the Agentic Enterprise](https://www.tomtunguz.com/jonathan-jaffe-office-hours/) — `2026-04-14-jonathan-jaffe-office-hours.md` — 186w
 - 2026-04-13 — [The $10B FDE Boom](https://www.tomtunguz.com/the-10b-fde-boom/) — `2026-04-13-the-10b-fde-boom.md` — 436w
+- 2026-04-13 — [GPU Spot Prices Surge 114% in Six Weeks](https://www.tomtunguz.com/b200-gpu-pricing-spot-market-model-releases/) — `2026-04-13-b200-gpu-pricing-spot-market-model-releases.md` — 430w
+- 2026-04-09 — [Founders, Equip Your Agents](https://www.tomtunguz.com/lena-waters-office-hours/) — `2026-04-09-lena-waters-office-hours.md` — 329w
+- 2026-04-05 — [The Golden Age of AI Applications](https://www.tomtunguz.com/golden-age-of-applications/) — `2026-04-05-golden-age-of-applications.md` — 493w
+- 2026-04-05 — [Darwinian Specialization in AI](https://www.tomtunguz.com/inference-market-segmentation/) — `2026-04-05-inference-market-segmentation.md` — 452w
+- 2026-04-01 — [Agent Gravity : Who's Running Your Agents](https://www.tomtunguz.com/agent-gravity/) — `2026-04-01-agent-gravity.md` — 254w
+- 2026-03-30 — [Emerging from the Mythos](https://www.tomtunguz.com/mythos-glasswing/) — `2026-03-30-mythos-glasswing.md` — 485w
+- 2026-03-26 — [Veblen & Jevon Walk Into a Data Center](https://www.tomtunguz.com/jevons-to-veblen/) — `2026-03-26-jevons-to-veblen.md` — 494w
+- 2026-03-23 — [Localmaxxing](https://www.tomtunguz.com/localmaxxing/) — `2026-03-23-localmaxxing.md` — 350w
 - 2026-03-23 — [AI Worldviews](https://www.tomtunguz.com/godless-hippies-ai-models-values/) — `2026-03-23-godless-hippies-ai-models-values.md` — 380w
+- 2026-03-20 — [AI's Bundling Moment](https://www.tomtunguz.com/2026-03-24-saas-unbundled-ai-rebundled/) — `2026-03-20-2026-03-24-saas-unbundled-ai-rebundled.md` — 314w
+- 2026-03-08 — [One Billion Lost Packages](https://www.tomtunguz.com/backops-theory/) — `2026-03-08-backops-theory.md` — 370w
+- 2026-03-05 — [Pocket Power : From State of the Art to Your Phone in 23 Months](https://www.tomtunguz.com/gemma-4-vs-gpt-4o/) — `2026-03-05-gemma-4-vs-gpt-4o.md` — 249w
+- 2026-03-02 — [The Beginning of Scarcity in AI](https://www.tomtunguz.com/ai-compute-crisis-2026/) — `2026-03-02-ai-compute-crisis-2026.md` — 348w
+- 2026-03-01 — [Databricks Widens the Lead on the Yellow Brick Token Path](https://www.tomtunguz.com/databricks-widens-lead/) — `2026-03-01-databricks-widens-lead.md` — 261w
+- 2026-02-26 — [Is This Tomasz's Agent?](https://www.tomtunguz.com/is-this-tomaszs-agent/) — `2026-02-26-is-this-tomaszs-agent.md` — 252w
+- 2026-02-23 — [AI at Discount](https://www.tomtunguz.com/ai-at-discount/) — `2026-02-23-ai-at-discount.md` — 280w
+- 2026-02-19 — [Tokenmaxxing](https://www.tomtunguz.com/tokenmaxxing/) — `2026-02-19-tokenmaxxing.md` — 244w
+- 2026-02-19 — [The Sword of Damocles in Software](https://www.tomtunguz.com/software-ndr-decline-2026/) — `2026-02-19-software-ndr-decline-2026.md` — 342w
+- 2026-02-19 — [Is AI Doing Less & Less?](https://www.tomtunguz.com/hybrid-state-machine-agents/) — `2026-02-19-hybrid-state-machine-agents.md` — 386w
+- 2026-02-17 — [The Robotic Tortoise & the Robotic Hare](https://www.tomtunguz.com/local-vs-cloud-speed/) — `2026-02-17-local-vs-cloud-speed.md` — 202w
+- 2026-02-13 — [The 12x Bet on AI](https://www.tomtunguz.com/12x-bet-on-ai/) — `2026-02-13-12x-bet-on-ai.md` — 410w
+- 2026-02-09 — [The Pricing Power of Agents](https://www.tomtunguz.com/observations-about-agent-pricing/) — `2026-02-09-observations-about-agent-pricing.md` — 451w
+- 2026-01-29 — [Can You Fly That Thing?](https://www.tomtunguz.com/can-you-fly-that-thing/) — `2026-01-29-can-you-fly-that-thing.md` — 366w
+- 2026-01-26 — [Is Your Margin My Opportunity in Software?](https://www.tomtunguz.com/is-your-margin-my-opportunity-software/) — `2026-01-26-is-your-margin-my-opportunity-software.md` — 448w
+- 2026-01-16 — [9 Observations from Building with AI Agents](https://www.tomtunguz.com/9-observations-using-ai-agents/) — `2026-01-16-9-observations-using-ai-agents.md` — 509w
+- 2026-01-10 — [The Model T Comes to Silicon Valley](https://www.tomtunguz.com/the-model-t-comes-to-silicon-valley/) — `2026-01-10-the-model-t-comes-to-silicon-valley.md` — 530w
+- 2026-01-05 — [Eleven Steps to the Epiphany[^1]](https://www.tomtunguz.com/thoughts-on-claude-coworker/) — `2026-01-05-thoughts-on-claude-coworker.md` — 279w
+- 2025-12-30 — [Would You Buy Generic AI?](https://www.tomtunguz.com/white-label-ai/) — `2025-12-30-white-label-ai.md` — 434w
 - 2025-12-30 — [When AI Costs More Than the Engineer](https://www.tomtunguz.com/ai-spend-breakeven-2029/) — `2025-12-30-ai-spend-breakeven-2029.md` — 682w
+- 2025-12-30 — [The First Derivative of Inference](https://www.tomtunguz.com/first-derivative-of-inference/) — `2025-12-30-first-derivative-of-inference.md` — 375w
+- 2025-12-30 — [Cursor, Kimi & the Open Source Imperative](https://www.tomtunguz.com/cursor-kimi-open-source-ai-imperative/) — `2025-12-30-cursor-kimi-open-source-ai-imperative.md` — 523w
+- 2025-12-28 — [Gross Profit per Token](https://www.tomtunguz.com/gross-profit-per-token/) — `2025-12-28-gross-profit-per-token.md` — 507w
+- 2025-12-23 — [When the Market Questions Relevance](https://www.tomtunguz.com/2016-vs-2026-saas-crash/) — `2025-12-23-2016-vs-2026-saas-crash.md` — 296w
+- 2025-12-23 — [Scoring 2025's Predictions](https://www.tomtunguz.com/scoring-2025-predictions/) — `2025-12-23-scoring-2025-predictions.md` — 1004w
+- 2025-12-23 — [Scoring 2025's Predictions](https://www.tomtunguz.com/grading-2025-predictions/) — `2025-12-23-grading-2025-predictions.md` — 1004w
+- 2025-12-22 — [The Done List](https://www.tomtunguz.com/coding-kanban/) — `2025-12-22-coding-kanban.md` — 373w
+- 2025-12-22 — [The $112 Billion Quarter](https://www.tomtunguz.com/2026-04-29-the-112-billion-quarter-hyperscalers-bet-the-farm-on-ai/) — `2025-12-22-2026-04-29-the-112-billion-quarter-hyperscalers-bet-the-farm-on-ai.md` — 698w
+- 2025-12-22 — [Software After AI](https://www.tomtunguz.com/harnessing-ai/) — `2025-12-22-harnessing-ai.md` — 629w
+- 2025-12-22 — [Not Prompts, Blueprints](https://www.tomtunguz.com/filling-the-queue-for-ai/) — `2025-12-22-filling-the-queue-for-ai.md` — 211w
+- 2025-12-22 — [Dissecting the Internet's Most Novel Creature](https://www.tomtunguz.com/moltbook-participation-inequality/) — `2025-12-22-moltbook-participation-inequality.md` — 846w
+- 2025-12-15 — [The Other Leverage in Software & AI](https://www.tomtunguz.com/the-other-leverage-in-software-and-ai/) — `2025-12-15-the-other-leverage-in-software-and-ai.md` — 512w
+- 2025-12-10 — [Trajectory](https://www.tomtunguz.com/ai-trajectories/) — `2025-12-10-ai-trajectories.md` — 424w
+- 2025-12-10 — [12 Predictions for 2026](https://www.tomtunguz.com/2026-predictions/) — `2025-12-10-2026-predictions.md` — 659w
+- 2025-12-05 — [Software That Debugs Itself While I Sleep](https://www.tomtunguz.com/implicit-feedback-loops/) — `2025-12-05-implicit-feedback-loops.md` — 238w
+- 2025-12-05 — [AdSense for AI](https://www.tomtunguz.com/koah-theory/) — `2025-12-05-koah-theory.md` — 412w
+- 2025-11-20 — [A Third Time Up the Roller Coaster](https://www.tomtunguz.com/nvidia-pe-predicts-growth/) — `2025-11-20-nvidia-pe-predicts-growth.md` — 217w
+- 2025-11-13 — [What 375 AI Builders Actually Ship](https://www.tomtunguz.com/ai-builders-survey-2025/) — `2025-11-13-ai-builders-survey-2025.md` — 308w
+- 2025-11-06 — [Google's 52x AI Growth](https://www.tomtunguz.com/google-earnings-q4-2025/) — `2025-11-06-google-earnings-q4-2025.md` — 373w
+- 2025-11-05 — [The Marginal Hire](https://www.tomtunguz.com/marginal-hire/) — `2025-11-05-marginal-hire.md` — 232w
+- 2025-11-03 — [Is Your AI Funded by Junk Bonds?](https://www.tomtunguz.com/is-your-ai-funded-by-junk-bonds/) — `2025-11-03-is-your-ai-funded-by-junk-bonds.md` — 1572w
+- 2025-10-31 — [Thursday is Podcast Day](https://www.tomtunguz.com/thursday-is-podcast-day/) — `2025-10-31-thursday-is-podcast-day.md` — 209w
+- 2025-10-30 — [Are We Being Railroaded by AI?](https://www.tomtunguz.com/llm-impact-gdp/) — `2025-10-30-llm-impact-gdp.md` — 423w
+- 2025-10-23 — [Running Out of AI](https://www.tomtunguz.com/running-out-of-ai/) — `2025-10-23-running-out-of-ai.md` — 319w
+- 2025-10-17 — [The Two Context Databases Powering Enterprise AI](https://www.tomtunguz.com/operational-analytical-context-databases/) — `2025-10-17-operational-analytical-context-databases.md` — 421w
+- 2025-10-17 — [From Columns to Rewards: Automating the Two Pillars That Drive Modern AI](https://www.tomtunguz.com/reinforcement-learning-feature-engineering-era/) — `2025-10-17-reinforcement-learning-feature-engineering-era.md` — 351w
+- 2025-10-17 — [Data Center Intelligence at the Price of a Laptop](https://www.tomtunguz.com/qwen-9b-matches-frontier-models/) — `2025-10-17-qwen-9b-matches-frontier-models.md` — 305w
+- 2025-10-17 — [AI Managing AI](https://www.tomtunguz.com/the-scaffolding-shift/) — `2025-10-17-the-scaffolding-shift.md` — 425w
+- 2025-10-16 — [Will I Be Paid in Tokens?](https://www.tomtunguz.com/inference-as-compensation/) — `2025-10-16-inference-as-compensation.md` — 311w
+- 2025-10-09 — [Private Equity : The New Distribution Channel for AI Startups](https://www.tomtunguz.com/the-great-reversal-private-equity-corporate-ownership/) — `2025-10-09-the-great-reversal-private-equity-corporate-ownership.md` — 373w
+- 2025-10-09 — [Open APIs Are Over](https://www.tomtunguz.com/defense-comes-to-software/) — `2025-10-09-defense-comes-to-software.md` — 347w
+- 2025-10-09 — [A 1 in 15,787 Chance Blog Post](https://www.tomtunguz.com/a-1-in-15787-chance-blog-post/) — `2025-10-09-a-1-in-15787-chance-blog-post.md` — 329w
+- 2025-10-03 — [OpenAI's $1 Trillion Infrastructure Spend](https://www.tomtunguz.com/openai-hardware-spending-2025-2035/) — `2025-10-03-openai-hardware-spending-2025-2035.md` — 1996w
+- 2025-10-02 — [Where Is Your AI Running?](https://www.tomtunguz.com/where-is-your-ai-running/) — `2025-10-02-where-is-your-ai-running.md` — 395w
+- 2025-09-26 — [The Text Box Isn't Enough](https://www.tomtunguz.com/if-dos-spoke-english/) — `2025-09-26-if-dos-spoke-english.md` — 501w
+- 2025-09-26 — [Data & AI Infrastructure Are Fusing](https://www.tomtunguz.com/data--ai-infrastructure-are-fusing/) — `2025-09-26-data--ai-infrastructure-are-fusing.md` — 283w
+- 2025-09-19 — [Is Token Consumption Growth Slowing Down?](https://www.tomtunguz.com/is-token-consumption-slowing-down/) — `2025-09-19-is-token-consumption-slowing-down.md` — 327w
+- 2025-09-18 — [The Post](https://www.tomtunguz.com/pyramids-to-cylinders/) — `2025-09-18-pyramids-to-cylinders.md` — 382w
+- 2025-09-15 — [Adding Complexity Reduced My AI Cost by 41%](https://www.tomtunguz.com/adding-complexity-reduced-my-ai-cost-by-41-percent/) — `2025-09-15-adding-complexity-reduced-my-ai-cost-by-41-percent.md` — 345w
+- 2025-09-12 — [Beyond a Trillion : The Token Race](https://www.tomtunguz.com/trillion-token-race/) — `2025-09-12-trillion-token-race.md` — 418w
+- 2025-09-09 — [Engineering for the AI-Native Era : Office Hours with Calvin French](https://www.tomtunguz.com/engineering-for-ai-native-era-office-hours/) — `2025-09-09-engineering-for-ai-native-era-office-hours.md` — 208w
+- 2025-09-09 — [Building Developer Infrastructure at Scale : Office Hours with Jim Everingham](https://www.tomtunguz.com/office-hours-jim-everingham-developer-infrastructure/) — `2025-09-09-office-hours-jim-everingham-developer-infrastructure.md` — 285w
+- 2025-09-04 — [Developer Relations at Theory](https://www.tomtunguz.com/devrel-at-theory/) — `2025-09-04-devrel-at-theory.md` — 152w
+- 2025-08-31 — [Optimizing Software Factories](https://www.tomtunguz.com/optimizing-software-factories/) — `2025-08-31-optimizing-software-factories.md` — 340w
+- 2025-08-18 — [The Second](https://www.tomtunguz.com/mdb-earnings-2025-08-27/) — `2025-08-18-mdb-earnings-2025-08-27.md` — 482w
+- 2025-08-15 — [A Founder's Guide to Product Management](https://www.tomtunguz.com/product-management-guide/) — `2025-08-15-product-management-guide.md` — 2034w
+- 2025-08-14 — [When One AI Grades Another's Work](https://www.tomtunguz.com/evolution-of-ai-judges-improving-evoblog/) — `2025-08-14-evolution-of-ai-judges-improving-evoblog.md` — 301w
+- 2025-08-13 — [Good Morning & Good Luck](https://www.tomtunguz.com/good-morning-and-good-luck/) — `2025-08-13-good-morning-and-good-luck.md` — 264w
+- 2025-08-08 — [The Three Questions in AI Sales](https://www.tomtunguz.com/your-margin-is-my-software-opportunity/) — `2025-08-08-your-margin-is-my-software-opportunity.md` — 306w
+- 2025-08-08 — [Teaching Local Models to Call Tools Like Claude](https://www.tomtunguz.com/distilling-claude-into-local-models/) — `2025-08-08-distilling-claude-into-local-models.md` — 753w
+- 2025-08-08 — [A Flash of Deflation](https://www.tomtunguz.com/gemini-3-flash-price-performance/) — `2025-08-08-gemini-3-flash-price-performance.md` — 537w
+- 2025-07-20 — [Who is Talking to My Users?](https://www.tomtunguz.com/who-is-talking-to-my-users/) — `2025-07-20-who-is-talking-to-my-users.md` — 223w
+- 2025-07-20 — [From Knowledge to Action](https://www.tomtunguz.com/gpt5-tool-calling-revolution/) — `2025-07-20-gpt5-tool-calling-revolution.md` — 419w
+- 2025-07-14 — [Small Action Models Are the Future of AI Agents](https://www.tomtunguz.com/local-instructions/) — `2025-07-14-local-instructions.md` — 397w
+- 2025-07-05 — [Is T3D2 Dead? Has AI Killed It?](https://www.tomtunguz.com/t3d2-ai-era/) — `2025-07-05-t3d2-ai-era.md` — 431w
+- 2025-06-27 — [Achieving Flow with AI](https://www.tomtunguz.com/discover-ai-workflows-for-peak-productivity-at-flo/) — `2025-06-27-discover-ai-workflows-for-peak-productivity-at-flo.md` — 241w
+- 2025-06-25 — [Voice, Context & Control: The Three Pillars of Useful AI Email](https://www.tomtunguz.com/my-own-ai-email-generator/) — `2025-06-25-my-own-ai-email-generator.md` — 325w
+- 2025-06-25 — [Coffee, Omelettes, and Five](https://www.tomtunguz.com/ephemeral-software/) — `2025-06-25-ephemeral-software.md` — 323w
+- 2025-06-25 — [A Founder's Guide to Data Strategy & Analytics](https://www.tomtunguz.com/data-strategy-guide/) — `2025-06-25-data-strategy-guide.md` — 1743w
+- 2025-06-20 — [How Markets Price AI Risk](https://www.tomtunguz.com/ai-sector-pricing-2026-02-06/) — `2025-06-20-ai-sector-pricing-2026-02-06.md` — 363w
+- 2025-06-16 — [Two Data Giants, One Revenue Milestone](https://www.tomtunguz.com/databricks-center-ai/) — `2025-06-16-databricks-center-ai.md` — 266w
+- 2025-06-13 — [The Multimodal Lake House : Partnering with Lance](https://www.tomtunguz.com/partnering-with-lance/) — `2025-06-13-partnering-with-lance.md` — 297w
+- 2025-06-13 — [Budgeting for AI in Your Startup](https://www.tomtunguz.com/ai-rd-percent/) — `2025-06-13-ai-rd-percent.md` — 293w
+- 2025-06-05 — [A Living Market Map](https://www.tomtunguz.com/living-market-map/) — `2025-06-05-living-market-map.md` — 156w
+- 2025-05-29 — [The AI Search Tipping Point](https://www.tomtunguz.com/search-patterns-2025/) — `2025-05-29-search-patterns-2025.md` — 243w
+- 2025-05-21 — [The Efficient Frontier of AI](https://www.tomtunguz.com/gepa-evo-blog/) — `2025-05-21-gepa-evo-blog.md` — 314w
+- 2025-05-16 — [How AI Redefines User Experience](https://www.tomtunguz.com/english-as-input/) — `2025-05-16-english-as-input.md` — 448w
+- 2025-05-10 — [A Coxswain on Your Shoulder](https://www.tomtunguz.com/a-coxswain-on-your-shoulder/) — `2025-05-10-a-coxswain-on-your-shoulder.md` — 328w
+- 2025-05-07 — [The Groupon Era of AI](https://www.tomtunguz.com/the-groupon-era-of-ai/) — `2025-05-07-the-groupon-era-of-ai.md` — 444w
+- 2025-05-07 — [Figma's S](https://www.tomtunguz.com/figma-s1-analysis/) — `2025-05-07-figma-s1-analysis.md` — 477w
+- 2025-05-07 — [10 Months into AI Agents : Which Are Used Most?](https://www.tomtunguz.com/mcp-server-activity/) — `2025-05-07-mcp-server-activity.md` — 242w
+- 2025-05-01 — [The AI Tide Lifts Databases](https://www.tomtunguz.com/snow-earnings-2025-08-28/) — `2025-05-01-snow-earnings-2025-08-28.md` — 334w
+- 2025-04-28 — [Building Sales Teams in the Age of AI : Office Hours with Chris Klayko of Databricks](https://www.tomtunguz.com/chris-klayko-office-hours/) — `2025-04-28-chris-klayko-office-hours.md` — 238w
+- 2025-04-18 — [What Level of AI?](https://www.tomtunguz.com/which-level-ai/) — `2025-04-18-which-level-ai.md` — 336w
+- 2025-04-18 — [Stuck in the Middle of AI Workflows](https://www.tomtunguz.com/agentic-workflows/) — `2025-04-18-agentic-workflows.md` — 503w
+- 2025-04-18 — [Rabbits on Firetrucks Redux](https://www.tomtunguz.com/rabbits-on-firetrucks-redux/) — `2025-04-18-rabbits-on-firetrucks-redux.md` — 369w
+- 2025-04-03 — [Social AI](https://www.tomtunguz.com/openai-social-network/) — `2025-04-03-openai-social-network.md` — 280w
+- 2025-03-28 — [Top 10 Posts of 2025](https://www.tomtunguz.com/top-10-posts-2025/) — `2025-03-28-top-10-posts-2025.md` — 648w
+- 2025-03-28 — [The AI Acqui](https://www.tomtunguz.com/ai-acqui-hire-wave/) — `2025-03-28-ai-acqui-hire-wave.md` — 230w
+- 2025-03-28 — [A Third, A Third, A Surprising Third](https://www.tomtunguz.com/a-third-a-third-a-surprising-third/) — `2025-03-28-a-third-a-third-a-surprising-third.md` — 408w
+- 2025-03-28 — [A Narrative Violation on a Friday Morning](https://www.tomtunguz.com/vc_pe_exit_timelines_blog_post/) — `2025-03-28-vc_pe_exit_timelines_blog_post.md` — 303w
+- 2025-03-18 — [Why Saudi Aramco Isn't a Proxy for SpaceX](https://www.tomtunguz.com/largest-ipos-market-cap-and-float/) — `2025-03-18-largest-ipos-market-cap-and-float.md` — 283w
+- 2025-03-18 — [Datadog: As Reliable as Your Golden Retriever](https://www.tomtunguz.com/datadog-q3-2025-earnings/) — `2025-03-18-datadog-q3-2025-earnings.md` — 787w
+- 2025-03-18 — [A Banner Year for M&A only Five Months In](https://www.tomtunguz.com/2025-ma-informatica/) — `2025-03-18-2025-ma-informatica.md` — 226w
+- 2025-03-09 — [The Implications of the Wiz/Google Deal](https://www.tomtunguz.com/wiz-acquisition/) — `2025-03-09-wiz-acquisition.md` — 276w
+- 2025-02-28 — [An Explosive New Distribution Channel](https://www.tomtunguz.com/a-new-distribution-channel/) — `2025-02-28-a-new-distribution-channel.md` — 242w
+- 2025-02-23 — [Partnering with Maze Security](https://www.tomtunguz.com/partnering-with-maze/) — `2025-02-23-partnering-with-maze.md` — 374w
+- 2025-02-21 — [Positioning Startups in the Age of AI](https://www.tomtunguz.com/office-hours-alan-hsia/) — `2025-02-21-office-hours-alan-hsia.md` — 135w
+- 2025-02-21 — [A CEO's Cost of Capital Advantage](https://www.tomtunguz.com/personal-cost-of-capital/) — `2025-02-21-personal-cost-of-capital.md` — 239w
+- 2025-02-13 — [Marketing in the Agentic Era](https://www.tomtunguz.com/office-hours-rebuilt/) — `2025-02-13-office-hours-rebuilt.md` — 213w
+- 2025-02-09 — [The AI Elbow's Impact : What Reasoning Means for Business](https://www.tomtunguz.com/the-impact-of-reasoning/) — `2025-02-09-the-impact-of-reasoning.md` — 239w
+- 2025-01-26 — [Circular Financing: Does Nvidia's $110B Bet Echo the Telecom Bubble?](https://www.tomtunguz.com/nvidia_nortel_vendor_financing_comparison/) — `2025-01-26-nvidia_nortel_vendor_financing_comparison.md` — 2506w
+- 2025-01-21 — [The AI Cost Curve Just Collapsed Again](https://www.tomtunguz.com/deepseek-sputnik/) — `2025-01-21-deepseek-sputnik.md` — 647w
+- 2025-01-17 — [Top Themes in Data Transcript](https://www.tomtunguz.com/top-themes-in-data-transcript/) — `2025-01-17-top-themes-in-data-transcript.md` — 2066w
+- 2025-01-17 — [The Question I Ask Myself Before I AI](https://www.tomtunguz.com/context-and-automation/) — `2025-01-17-context-and-automation.md` — 314w
+- 2025-01-17 — [My Prompt, My Reality](https://www.tomtunguz.com/user-perception-quality/) — `2025-01-17-user-perception-quality.md` — 272w
+- 2025-01-12 — [$13b Run Rate & Doubling](https://www.tomtunguz.com/microsoft-earnings-2025-01-30/) — `2025-01-12-microsoft-earnings-2025-01-30.md` — 526w
+- 2025-01-01 — [Startup Guides & Resources](https://www.tomtunguz.com/guides/) — `2025-01-01-guides.md` — 329w
+- 2024-12-20 — [The IPO Door is Swinging Open](https://www.tomtunguz.com/ipo-window-opening-2025/) — `2024-12-20-ipo-window-opening-2025.md` — 238w
+- 2024-12-20 — [From Blank Canvas to a Brilliant Presentation with AI](https://www.tomtunguz.com/presentations-with-ai/) — `2024-12-20-presentations-with-ai.md` — 420w
+- 2024-12-13 — [Tech's $370B Paradox: Why Cash-Rich Giants Might Not Lead 2025's M&A Race](https://www.tomtunguz.com/ma-dry-powder/) — `2024-12-13-ma-dry-powder.md` — 343w
+- 2024-12-13 — [Halving R&D with AI & the Impact to Valuation](https://www.tomtunguz.com/what-if-cut-rd-50-percent/) — `2024-12-13-what-if-cut-rd-50-percent.md` — 274w
+- 2024-12-13 — [Desktop, Touch, Browser, Now AI? The Next OS in Computing](https://www.tomtunguz.com/the-ai-os/) — `2024-12-13-the-ai-os.md` — 383w
+- 2024-12-04 — [My Bottleneck with AI](https://www.tomtunguz.com/working-with-ai-2/) — `2024-12-04-working-with-ai-2.md` — 382w
+- 2024-12-02 — [The AI Problem Matrix](https://www.tomtunguz.com/ai-problem-matrix/) — `2024-12-02-ai-problem-matrix.md` — 366w
+- 2024-12-02 — [From 10 to 31 Tasks Daily : The Agent Inflection Point](https://www.tomtunguz.com/agent-asana-inflection/) — `2024-12-02-agent-asana-inflection.md` — 468w
+- 2024-12-02 — [Finding the Midnight Snacker : Agentic Marketing](https://www.tomtunguz.com/aampe/) — `2024-12-02-aampe.md` — 349w
+- 2024-11-08 — [Patterns Across 5 Years of YC Investing](https://www.tomtunguz.com/yc-trends-last-five-years/) — `2024-11-08-yc-trends-last-five-years.md` — 264w
+- 2024-10-29 — [What is Chrome Worth?](https://www.tomtunguz.com/chrome-valuation-safari-comparison/) — `2024-10-29-chrome-valuation-safari-comparison.md` — 302w
+- 2024-10-29 — [Top Themes in Data in 2025](https://www.tomtunguz.com/top-themes-in-data-2025/) — `2024-10-29-top-themes-in-data-2025.md` — 603w
+- 2024-10-29 — [Revenue Comes to Crypto](https://www.tomtunguz.com/if-i-have-a-dollar-to-invest/) — `2024-10-29-if-i-have-a-dollar-to-invest.md` — 375w
+- 2024-10-29 — [PageRank in the Age of AI](https://www.tomtunguz.com/ai-ads-come-to-websites/) — `2024-10-29-ai-ads-come-to-websites.md` — 319w
+- 2024-10-28 — [This Analysis Cost 27 Cents](https://www.tomtunguz.com/cost-of-this/) — `2024-10-28-cost-of-this.md` — 369w
+- 2024-10-28 — [The White Collar Revolution](https://www.tomtunguz.com/the-white-collar-revolution/) — `2024-10-28-the-white-collar-revolution.md` — 212w
+- 2024-10-28 — [AI Fluency : The Next Interviewing Skill](https://www.tomtunguz.com/the-interview-of-the-future/) — `2024-10-28-the-interview-of-the-future.md` — 305w
+- 2024-10-21 — [From Books to Prompts: The Instant Future of Productivity](https://www.tomtunguz.com/ai-enables-instant-workflow-adoption/) — `2024-10-21-ai-enables-instant-workflow-adoption.md` — 343w
+- 2024-10-16 — [What DeepSeek's Newest Model Means for AI](https://www.tomtunguz.com/deepseek-r2/) — `2024-10-16-deepseek-r2.md` — 355w
+- 2024-10-01 — [Why War & Peace Is Killing Your Data Budget](https://www.tomtunguz.com/tobiko-databricks-benchmark/) — `2024-10-01-tobiko-databricks-benchmark.md` — 211w
+- 2024-09-30 — [Google's Future in Search & AI](https://www.tomtunguz.com/google-q1-2025/) — `2024-09-30-google-q1-2025.md` — 611w
+- 2024-09-20 — [AI Advantage for Startups : Changing the Workflow through Services](https://www.tomtunguz.com/services-as-vector-sor/) — `2024-09-20-services-as-vector-sor.md` — 238w
+- 2024-09-19 — [I Use AI 100 Times Per Hour](https://www.tomtunguz.com/ai-use-in-one-afternoon/) — `2024-09-19-ai-use-in-one-afternoon.md` — 560w
+- 2024-09-11 — [Explore vs. Exploit in Agentic Coding](https://www.tomtunguz.com/explore-vs-exploit-in-agentic-coding/) — `2024-09-11-explore-vs-exploit-in-agentic-coding.md` — 456w
+- 2024-09-11 — [A Founder's Guide to SaaS Strategy & Growth](https://www.tomtunguz.com/saas-strategy-guide/) — `2024-09-11-saas-strategy-guide.md` — 267w
+- 2024-09-09 — [EvoBlog: Building an Evolutionary AI Content Generation System](https://www.tomtunguz.com/evoblog-evolutionary-ai-content-generation/) — `2024-09-09-evoblog-evolutionary-ai-content-generation.md` — 727w
+- 2024-08-29 — [Which Design Era Are We In?](https://www.tomtunguz.com/which-design-era/) — `2024-08-29-which-design-era.md` — 241w
+- 2024-08-29 — [The Impact of Tariffs on Series As](https://www.tomtunguz.com/crashes-public-and-private/) — `2024-08-29-crashes-public-and-private.md` — 310w
+- 2024-08-23 — [What Will You Reinvent Today?](https://www.tomtunguz.com/what-will-you-reinvent-today/) — `2024-08-23-what-will-you-reinvent-today.md` — 203w
+- 2024-08-23 — [Small but Mighty AI](https://www.tomtunguz.com/small-but-mighty-ai/) — `2024-08-23-small-but-mighty-ai.md` — 275w
+- 2024-08-16 — [The Growth Premium Persists in SaaS Valuations](https://www.tomtunguz.com/2025-10-27-growth-premium-multiples/) — `2024-08-16-2025-10-27-growth-premium-multiples.md` — 214w
+- 2024-08-16 — [1000x Increase in AI Demand](https://www.tomtunguz.com/nvda-2025-05-29/) — `2024-08-16-nvda-2025-05-29.md` — 380w
+- 2024-08-12 — [Trends in the Post](https://www.tomtunguz.com/disrupt-2024/) — `2024-08-12-disrupt-2024.md` — 397w
+- 2024-08-05 — [The Year Algorithms Learn to Act](https://www.tomtunguz.com/agents/) — `2024-08-05-agents.md` — 389w
+- 2024-07-29 — [Why I Let AI Grade My Writing (Just Like My AP English Teacher)](https://www.tomtunguz.com/ap-english/) — `2024-07-29-ap-english.md` — 207w
+- 2024-07-29 — [Why Data is More Valuable than Code](https://www.tomtunguz.com/ai-apps-saas-apps/) — `2024-07-29-ai-apps-saas-apps.md` — 287w
+- 2024-07-29 — [Where is the Budget for AI Coming From?](https://www.tomtunguz.com/budget-for-ai/) — `2024-07-29-budget-for-ai.md` — 239w
+- 2024-07-29 — [When Every Employee Becomes an Agent Boss](https://www.tomtunguz.com/work-trend-index/) — `2024-07-29-work-trend-index.md` — 360w
+- 2024-07-22 — [When Will We Pay a Premium for AI Labor?](https://www.tomtunguz.com/premium-ai-labor/) — `2024-07-22-premium-ai-labor.md` — 403w
+- 2024-07-17 — [The Quietest Part of Startupland isn't so Quiet](https://www.tomtunguz.com/crypto-is-the-quietest-part-of-the-vc-market/) — `2024-07-17-crypto-is-the-quietest-part-of-the-vc-market.md` — 245w
+- 2024-07-17 — [Fulfilling Crypto's Original Promise](https://www.tomtunguz.com/stablecoins/) — `2024-07-17-stablecoins.md` — 223w
+- 2024-07-15 — [Darwin's Finches in AI](https://www.tomtunguz.com/time-to-replicate/) — `2024-07-15-time-to-replicate.md` — 302w
+- 2024-07-15 — [Agentic Systems' Sales Cycles](https://www.tomtunguz.com/agentic-procurement/) — `2024-07-15-agentic-procurement.md` — 420w
+- 2024-07-12 — [The 3 Attributes of an Attractive Market for AI](https://www.tomtunguz.com/toil-and-labor-markets/) — `2024-07-12-toil-and-labor-markets.md` — 384w
+- 2024-07-11 — [The AI Value Gap : Where Does the $7,000 Per Seat Go?](https://www.tomtunguz.com/ai-value-gap-bundling/) — `2024-07-11-ai-value-gap-bundling.md` — 291w
+- 2024-07-01 — [The New Software GTM Playbook](https://www.tomtunguz.com/software-playbook/) — `2024-07-01-software-playbook.md` — 421w
+- 2024-06-25 — [Fast-Track Your Growth: GTM & Marketing Office Hours for SF Founders](https://www.tomtunguz.com/kady-srinivasan-office-hours/) — `2024-06-25-kady-srinivasan-office-hours.md` — 170w
+- 2024-06-25 — [2026 Theory GTM Survey](https://www.tomtunguz.com/2026-gtm-survey/) — `2024-06-25-2026-gtm-survey.md` — 389w
+- 2024-06-24 — [The Four Barriers to AI Adoption](https://www.tomtunguz.com/why-ai-adoption-slower/) — `2024-06-24-why-ai-adoption-slower.md` — 378w
+- 2024-06-21 — [The Coming Wave of Acquihires](https://www.tomtunguz.com/the-coming-wave-of-acquihires/) — `2024-06-21-the-coming-wave-of-acquihires.md` — 237w
+- 2024-06-13 — [Databricks Overtakes Snowflake](https://www.tomtunguz.com/databricks-overtakes-snowflake/) — `2024-06-13-databricks-overtakes-snowflake.md` — 319w
+- 2024-06-03 — [The First of Your Newsletters](https://www.tomtunguz.com/the-first-of-your-newsletters/) — `2024-06-03-the-first-of-your-newsletters.md` — 407w
+- 2024-06-02 — [How M&A Fosters Innovation](https://www.tomtunguz.com/ma-impact-money-movement/) — `2024-06-02-ma-impact-money-movement.md` — 330w
+- 2024-05-19 — [Why AI Can't Crack Your Database](https://www.tomtunguz.com/spider-2-benchmark-trends/) — `2024-05-19-spider-2-benchmark-trends.md` — 372w
+- 2024-05-19 — [The Third UI : The Rise & Fall of the Keyboard](https://www.tomtunguz.com/no-keyboard-ui/) — `2024-05-19-no-keyboard-ui.md` — 270w
 - 2024-05-13 — [The CIO's Choices are Clear in 2026](https://www.tomtunguz.com/cio-choices-clear-2026/) — `2024-05-13-cio-choices-clear-2026.md` — 542w
+- 2024-05-09 — [A Series of Unfortunate Decisions](https://www.tomtunguz.com/compounding-error-llms/) — `2024-05-09-compounding-error-llms.md` — 399w
+- 2024-05-01 — [The Battle for AI Gravity](https://www.tomtunguz.com/ai-gravity/) — `2024-05-01-ai-gravity.md` — 424w
+- 2024-05-01 — [NVIDIA](https://www.tomtunguz.com/nvidia-2024-05-23/) — `2024-05-01-nvidia-2024-05-23.md` — 629w
+- 2024-05-01 — [$555B of Cloud Spend](https://www.tomtunguz.com/msft-gcp-earnings-2025-10-30/) — `2024-05-01-msft-gcp-earnings-2025-10-30.md` — 684w
+- 2024-04-26 — [100 Trillion Tokens](https://www.tomtunguz.com/earnings-microsoft-2025-04-30/) — `2024-04-26-earnings-microsoft-2025-04-30.md` — 322w
+- 2024-04-26 — [$281b From One Customer](https://www.tomtunguz.com/281b-from-one-customer/) — `2024-04-26-281b-from-one-customer.md` — 445w
+- 2024-04-23 — [Small Data Becomes Big Data](https://www.tomtunguz.com/small-data-becomes-big-data-motherduck/) — `2024-04-23-small-data-becomes-big-data-motherduck.md` — 234w
+- 2024-04-23 — [DuckLake](https://www.tomtunguz.com/ducklake/) — `2024-04-23-ducklake.md` — 223w
+- 2024-04-22 — [Massive Acquisitions in Software Startups](https://www.tomtunguz.com/ma_software_2024/) — `2024-04-22-ma_software_2024.md` — 249w
+- 2024-04-18 — [$1.2b of Revenue in 30 Days](https://www.tomtunguz.com/revenue-web3/) — `2024-04-18-revenue-web3.md` — 323w
+- 2024-04-14 — [My AI Rube Goldberg Machine](https://www.tomtunguz.com/mech-turking-ai/) — `2024-04-14-mech-turking-ai.md` — 235w
+- 2024-04-12 — [Product](https://www.tomtunguz.com/product-market-fit-not-static/) — `2024-04-12-product-market-fit-not-static.md` — 289w
+- 2024-04-12 — [My Favorite Uses of AI](https://www.tomtunguz.com/my-favorite-uses-of-ai/) — `2024-04-12-my-favorite-uses-of-ai.md` — 357w
+- 2024-04-07 — [The AI Trust Fall](https://www.tomtunguz.com/acceptable-level-of-error/) — `2024-04-07-acceptable-level-of-error.md` — 452w
+- 2024-04-05 — [The Art of Product Management in the Fog of AI](https://www.tomtunguz.com/art-of-pm-in-ai/) — `2024-04-05-art-of-pm-in-ai.md` — 361w
+- 2024-04-04 — [Select avg(Moby Dick) limit 2 sentences](https://www.tomtunguz.com/select-average-moby-dick-limit-2/) — `2024-04-04-select-average-moby-dick-limit-2.md` — 302w
+- 2024-04-04 — [Micromanaging AI](https://www.tomtunguz.com/micromanaging-ai/) — `2024-04-04-micromanaging-ai.md` — 255w
+- 2024-03-26 — [The Postmodern Data Stack is AI](https://www.tomtunguz.com/the-postmodern-data-stack-is-ai/) — `2024-03-26-the-postmodern-data-stack-is-ai.md` — 281w
+- 2024-03-21 — [The Game on the Field Has Changed](https://www.tomtunguz.com/are-we-seeing-layoffs-from-ai/) — `2024-03-21-are-we-seeing-layoffs-from-ai.md` — 273w
+- 2024-03-20 — [One Line of Code Can Wipe a Billion Rows : Investing in Tobiko](https://www.tomtunguz.com/tobiko/) — `2024-03-20-tobiko.md` — 332w
+- 2024-03-20 — [Intelligence About Business](https://www.tomtunguz.com/omni-series-c/) — `2024-03-20-omni-series-c.md` — 262w
+- 2024-03-20 — [BI's Third Form : Office Hours with Benn Stancil](https://www.tomtunguz.com/office-hours-benn-stancil/) — `2024-03-20-office-hours-benn-stancil.md` — 187w
+- 2024-03-12 — [The PostModern Data Stack](https://www.tomtunguz.com/the-postmodern-data-stack/) — `2024-03-12-the-postmodern-data-stack.md` — 255w
+- 2024-03-12 — [Modern Data Architectures : Jordan Tigani of MotherDuck on Office Hours](https://www.tomtunguz.com/office-hour-jordan-tigani/) — `2024-03-12-office-hour-jordan-tigani.md` — 218w
+- 2024-03-12 — [A Shift in LLM Marketing : The Rise of the B2B Model](https://www.tomtunguz.com/snowflake-arctic-model/) — `2024-03-12-snowflake-arctic-model.md` — 264w
+- 2024-03-03 — [The Vector Computer Company](https://www.tomtunguz.com/superlinked/) — `2024-03-03-superlinked.md` — 316w
+- 2024-02-21 — [Partnering with Dropzone: Automating Security Operations with AI](https://www.tomtunguz.com/dropzone/) — `2024-02-21-dropzone.md` — 278w
+- 2024-02-21 — [A Proactive System of Intelligence for Security](https://www.tomtunguz.com/artemis/) — `2024-02-21-artemis.md` — 412w
+- 2024-02-19 — [Interwoven with Initia](https://www.tomtunguz.com/partnering-with-initia/) — `2024-02-19-partnering-with-initia.md` — 311w
+- 2024-02-14 — [The Secrets to Building Vibrant Communities in Web3 Open](https://www.tomtunguz.com/building-communities-at-scale/) — `2024-02-14-building-communities-at-scale.md` — 355w
+- 2024-02-09 — [It Pays to be an AI Company](https://www.tomtunguz.com/private_valuations_2025/) — `2024-02-09-private_valuations_2025.md` — 285w
+- 2024-02-05 — [The Ghost in the Machine : Invisible Ads in Generative Search](https://www.tomtunguz.com/invisible-ads/) — `2024-02-05-invisible-ads.md` — 392w
+- 2024-01-18 — [Rewriting the RFP for AI](https://www.tomtunguz.com/ai-upend-rfp/) — `2024-01-18-ai-upend-rfp.md` — 412w
+- 2024-01-07 — [Will We See a Better Exit Market Next Year?](https://www.tomtunguz.com/rates-and-exits/) — `2024-01-07-rates-and-exits.md` — 361w
+- 2024-01-07 — [The Future of Blockchain Data : Our Investment in Allium](https://www.tomtunguz.com/allium/) — `2024-01-07-allium.md` — 401w
+- 2024-01-07 — [The Class Missing from Business School](https://www.tomtunguz.com/the-missing-bschool-class/) — `2024-01-07-the-missing-bschool-class.md` — 426w
+- 2024-01-07 — [Gordian Knots in Software Engineering](https://www.tomtunguz.com/linkedin-developer-productivity-metrics/) — `2024-01-07-linkedin-developer-productivity-metrics.md` — 273w
+- 2024-01-01 — [Top 10 Posts of 2024](https://www.tomtunguz.com/top-10-posts-2024/) — `2024-01-01-top-10-posts-2024.md` — 697w
+- 2024-01-01 — [5th Grade Outlining in Mrs. L's Class : Metawriting before the Age of AI](https://www.tomtunguz.com/metawriting/) — `2024-01-01-metawriting.md` — 294w
+- 2024-01-01 — [2025 Predictions](https://www.tomtunguz.com/2025_predictions/) — `2024-01-01-2025_predictions.md` — 951w
+- 2023-12-20 — [The Mirage in the Software Clouds](https://www.tomtunguz.com/mirage-saas-clouds/) — `2023-12-20-mirage-saas-clouds.md` — 159w
+- 2023-12-18 — [Netflix's New AI Role](https://www.tomtunguz.com/netflix-new-ai-role/) — `2023-12-18-netflix-new-ai-role.md` — 236w
+- 2023-12-14 — [To Be or Not To Be an Agent](https://www.tomtunguz.com/to-be-or-not-to-be-an-agent/) — `2023-12-14-to-be-or-not-to-be-an-agent.md` — 261w
+- 2023-12-14 — [2024 Theory GTM Survey](https://www.tomtunguz.com/2024-gtm-survey/) — `2023-12-14-2024-gtm-survey.md` — 175w
+- 2023-12-06 — [How to Improve Your LLM : Combine Evaluations with Analytics](https://www.tomtunguz.com/how-good-is-your-ml-model/) — `2023-12-06-how-good-is-your-ml-model.md` — 237w
+- 2023-12-04 — [Would You Listen to AI Generated Podcasts?](https://www.tomtunguz.com/machine-generated-podcasts/) — `2023-12-04-machine-generated-podcasts.md` — 300w
+- 2023-12-04 — [The Sudden Repricing of Startups in Early 2024](https://www.tomtunguz.com/the-ai-premium-multiples-2024/) — `2023-12-04-the-ai-premium-multiples-2024.md` — 208w
+- 2023-11-29 — [The Data Decacorn Derby](https://www.tomtunguz.com/dbx-snow/) — `2023-11-29-dbx-snow.md` — 331w
+- 2023-11-29 — [Data Product Teams : Best Practices for a Modern Data Team](https://www.tomtunguz.com/data-product-teams/) — `2023-11-29-data-product-teams.md` — 394w
+- 2023-11-22 — [What about Human Training?](https://www.tomtunguz.com/what-about-training/) — `2023-11-22-what-about-training.md` — 330w
+- 2023-11-20 — [Chatting With Her](https://www.tomtunguz.com/chatgpt-app/) — `2023-11-20-chatgpt-app.md` — 385w
+- 2023-11-16 — [What Happens When AI Performance Asymptotes?](https://www.tomtunguz.com/what-happens-when-model-performance-asymptotes/) — `2023-11-16-what-happens-when-model-performance-asymptotes.md` — 335w
+- 2023-11-16 — [Punctuated Equilibrium in AI : Is it Better to Be A First Mover or A Last Mover?](https://www.tomtunguz.com/where-are-we-in-ai/) — `2023-11-16-where-are-we-in-ai.md` — 301w
+- 2023-11-16 — [A CEO of AI Applications Marks a New Era of AI Competition](https://www.tomtunguz.com/era-of-ai-lockin/) — `2023-11-16-era-of-ai-lockin.md` — 271w
+- 2023-11-14 — [How Much Does it Cost to Use an LLM?](https://www.tomtunguz.com/gm-saas/) — `2023-11-14-gm-saas.md` — 277w
+- 2023-11-13 — [This Message Will Self](https://www.tomtunguz.com/this-message-will-self-destruct-33-seconds/) — `2023-11-13-this-message-will-self-destruct-33-seconds.md` — 233w
+- 2023-11-10 — [AI in the Hands of Software Buyers](https://www.tomtunguz.com/ai-enabled-buyers/) — `2023-11-10-ai-enabled-buyers.md` — 303w
+- 2023-11-09 — [The New Threat to a Data Leader's Career](https://www.tomtunguz.com/cisos-and-cdos/) — `2023-11-09-cisos-and-cdos.md` — 293w
+- 2023-11-09 — [Hidden Technical Debt in AI](https://www.tomtunguz.com/hidden-technical-debt-in-ai/) — `2023-11-09-hidden-technical-debt-in-ai.md` — 420w
+- 2023-11-09 — [AI Design Patterns](https://www.tomtunguz.com/ai-design-patterns/) — `2023-11-09-ai-design-patterns.md` — 599w
+- 2023-11-07 — [Rubrik S-1](https://www.tomtunguz.com/rubrik-s1/) — `2023-11-07-rubrik-s1.md` — 441w
+- 2023-11-07 — [A Challenge to SaaS Orthodoxy](https://www.tomtunguz.com/klarna-ai/) — `2023-11-07-klarna-ai.md` — 405w
+- 2023-10-31 — [Why Startup M&A in 2024 Will Rebound](https://www.tomtunguz.com/alteryx/) — `2023-10-31-alteryx.md` — 259w
+- 2023-10-31 — [The Market Size Mistake](https://www.tomtunguz.com/tobi-lutke-market-size/) — `2023-10-31-tobi-lutke-market-size.md` — 282w
+- 2023-10-31 — [The Great Liquidity Shift](https://www.tomtunguz.com/the-exit-path-of-2024/) — `2023-10-31-the-exit-path-of-2024.md` — 369w
+- 2023-10-27 — [AI Pricing Strategies for SaaS Companies Offering Copilots](https://www.tomtunguz.com/ai-copilot-premium-pricing/) — `2023-10-27-ai-copilot-premium-pricing.md` — 365w
+- 2023-10-24 — [When 1% Market Share Shifts Represent $5b of Market Cap](https://www.tomtunguz.com/q124-cloud-earnings/) — `2023-10-24-q124-cloud-earnings.md` — 581w
+- 2023-10-24 — [Only The Dogged Thrive : More Good News in Startupland](https://www.tomtunguz.com/only-the-dogged-thrive/) — `2023-10-24-only-the-dogged-thrive.md` — 385w
+- 2023-10-24 — [Faster Sales Cycles & Software Buyer Confidence](https://www.tomtunguz.com/cloudflare-2025-02-10/) — `2023-10-24-cloudflare-2025-02-10.md` — 371w
+- 2023-10-24 — [AI Drove the Largest New Bookings of Any New Product](https://www.tomtunguz.com/now-earnings/) — `2023-10-24-now-earnings.md` — 406w
+- 2023-10-23 — [Back to Text: How AI Might Reverse Web Design](https://www.tomtunguz.com/back-to-text/) — `2023-10-23-back-to-text.md` — 268w
+- 2023-10-20 — [Top 10 Trends for Data in 2024](https://www.tomtunguz.com/top-10-trends-data-2023/) — `2023-10-20-top-10-trends-data-2023.md` — 734w
+- 2023-10-20 — [AI Prompts as PRDs : Why Prompts Will Become Important IP Assets](https://www.tomtunguz.com/the-prompt-as-prd/) — `2023-10-20-the-prompt-as-prd.md` — 998w
+- 2023-10-15 — [What's Measured is Managed : Earnings Surprise in Public Software in Q3 2023](https://www.tomtunguz.com/earnings-outperformance-q3-2023/) — `2023-10-15-earnings-outperformance-q3-2023.md` — 248w
+- 2023-10-12 — [Beyond ARR: How Monte Carlo Reinvented Their Business with Daily Revenue](https://www.tomtunguz.com/daily-pricing-office-hours-barr/) — `2023-10-12-daily-pricing-office-hours-barr.md` — 215w
+- 2023-09-25 — [The PLG Trap : Lessons Learned from Oliver Jay, former CRO at Asana](https://www.tomtunguz.com/plg-trap/) — `2023-09-25-plg-trap.md` — 386w
+- 2023-09-17 — [The Data Pendulum Swings to Consolidation](https://www.tomtunguz.com/fivetran-dbt-merger-bundling-phase/) — `2023-09-17-fivetran-dbt-merger-bundling-phase.md` — 454w
+- 2023-09-10 — [What Loom & Klaviyo Indicate about Exit Valuations](https://www.tomtunguz.com/initial-exits-2023/) — `2023-09-10-initial-exits-2023.md` — 387w
+- 2023-09-10 — [A Founder's Guide to Startup Management & Leadership](https://www.tomtunguz.com/startup-management-guide/) — `2023-09-10-startup-management-guide.md` — 160w
+- 2023-08-30 — [Building Applications with AI - Lessons from LangChain, Hearth, & Context.ai](https://www.tomtunguz.com/tc_disrupt/) — `2023-08-30-tc_disrupt.md` — 388w
+- 2023-08-27 — [3 Key Marketing Tactics for Early-Stage Startups: Lessons from a Former Klaviyo & Lightspeed Executive](https://www.tomtunguz.com/marketing-tactics-early-stage/) — `2023-08-27-marketing-tactics-early-stage.md` — 543w
+- 2023-08-25 — [Context.ai - Unlocking Insight into LLM](https://www.tomtunguz.com/context-announcement/) — `2023-08-25-context-announcement.md` — 370w
+- 2023-08-23 — [The Bifurcation in the AI Market](https://www.tomtunguz.com/2025-12-16-open-router-insights/) — `2023-08-23-2025-12-16-open-router-insights.md` — 369w
+- 2023-08-23 — [Lopsided AI Revenues](https://www.tomtunguz.com/ai-hardware-software/) — `2023-08-23-ai-hardware-software.md` — 319w
+- 2023-08-23 — [Centaurs & Cyborgs : The Jagged Frontier of AI](https://www.tomtunguz.com/bcg_ai_paper/) — `2023-08-23-bcg_ai_paper.md` — 301w
+- 2023-08-21 — [The Dawn of AI : Pricing Power & Profits in NVidia's Business](https://www.tomtunguz.com/early-days-ai/) — `2023-08-21-early-days-ai.md` — 283w
+- 2023-08-15 — [From Prompt to Paper in 60 Seconds](https://www.tomtunguz.com/metawriting-example/) — `2023-08-15-metawriting-example.md` — 407w
+- 2023-08-07 — [Teaching a Computer to Ghoti](https://www.tomtunguz.com/teaching-a-computer-to-ghoti/) — `2023-08-07-teaching-a-computer-to-ghoti.md` — 228w
+- 2023-08-07 — [AI Public & Private Premia for AI Companies](https://www.tomtunguz.com/ai-premium-2024-08-16/) — `2023-08-07-ai-premium-2024-08-16.md` — 249w
+- 2023-07-28 — [What Has Your GPU Done For You Today?](https://www.tomtunguz.com/what-has-your-gpu-done-for-you-today/) — `2023-07-28-what-has-your-gpu-done-for-you-today.md` — 355w
+- 2023-07-26 — [AI Reaccelerating Cloud Growth](https://www.tomtunguz.com/ai_reacceleration/) — `2023-07-26-ai_reacceleration.md` — 581w
+- 2023-07-11 — [The Promise and Pitfalls of Chaining Large Language Models for Email](https://www.tomtunguz.com/chaining-llms-together/) — `2023-07-11-chaining-llms-together.md` — 412w
+- 2023-07-11 — [The Hungry, Hungry AI Model](https://www.tomtunguz.com/input-output-ratio/) — `2023-07-11-input-output-ratio.md` — 295w
+- 2023-07-09 — [The Paradox of AI and Data Roles: How Automation Will Increase Demand for Data Professionals](https://www.tomtunguz.com/why-data-teams-will-grow-ai/) — `2023-07-09-why-data-teams-will-grow-ai.md` — 261w
+- 2023-07-09 — [Productivity One Year from Now](https://www.tomtunguz.com/if-ai-keep-accelerating-impact-business/) — `2023-07-09-if-ai-keep-accelerating-impact-business.md` — 229w
+- 2023-06-26 — [Whispers of the Future](https://www.tomtunguz.com/running-llms-locally/) — `2023-06-26-running-llms-locally.md` — 468w
+- 2023-06-26 — [The Evolution of Open Source Business Models](https://www.tomtunguz.com/evolution-of-open-source-business-models/) — `2023-06-26-evolution-of-open-source-business-models.md` — 348w
+- 2023-06-26 — [Sudden Disturbances in Rapidly Moving Objects : The Implications of the OpenAI Fiasco](https://www.tomtunguz.com/disturbing-rockets-in-flight/) — `2023-06-26-disturbing-rockets-in-flight.md` — 429w
+- 2023-06-26 — [4 Key Takeaways from the AI Panel at Saastr 2023](https://www.tomtunguz.com/4-takeaways-ai-at-saastr/) — `2023-06-26-4-takeaways-ai-at-saastr.md` — 410w
+- 2023-06-21 — [Outbound Marketing Fury : Office Hours with Raj Sarkar](https://www.tomtunguz.com/unleashing-outbound-marketing-fury-office-hours/) — `2023-06-21-unleashing-outbound-marketing-fury-office-hours.md` — 186w
+- 2023-06-15 — [Experience as a Status Symbol](https://www.tomtunguz.com/ai-strategy-hiring/) — `2023-06-15-ai-strategy-hiring.md` — 265w
+- 2023-06-08 — [Nobody Knows : Steel & Blockchains](https://www.tomtunguz.com/read-write-own/) — `2023-06-08-read-write-own.md` — 341w
+- 2023-06-08 — [Make Hay When the Sun Shines : Liquidity in Startup Exits](https://www.tomtunguz.com/liquidity-exit-markets/) — `2023-06-08-liquidity-exit-markets.md` — 145w
+- 2023-06-02 — [The Convergence of Data & Software Engineering in the Age of AI](https://www.tomtunguz.com/data-engineering/) — `2023-06-02-data-engineering.md` — 236w
+- 2023-05-30 — [Top 10 Trends in Data & AI at the Impact Summit](https://www.tomtunguz.com/10-trends-data-2023/) — `2023-05-30-10-trends-data-2023.md` — 161w
+- 2023-05-30 — [The Rarity Shibboleth](https://www.tomtunguz.com/tfidf-in-llms/) — `2023-05-30-tfidf-in-llms.md` — 447w
+- 2023-05-26 — [In Like a Lamb, Out Like a Lion](https://www.tomtunguz.com/mongo-earnings-q423/) — `2023-05-26-mongo-earnings-q423.md` — 218w
+- 2023-05-25 — [When Will SaaS Budgets Increase Again?](https://www.tomtunguz.com/mongo-earnings-2023q1/) — `2023-05-25-mongo-earnings-2023q1.md` — 441w
+- 2023-05-25 — [Snow Angels Come Early to Data : Snowflake's Strength Spells Success for Startups](https://www.tomtunguz.com/snowflake-earnings-q4-2023/) — `2023-05-25-snowflake-earnings-q4-2023.md` — 422w
+- 2023-05-16 — [Standard Issue AI](https://www.tomtunguz.com/ai-standard-issue/) — `2023-05-16-ai-standard-issue.md` — 337w
+- 2023-05-12 — [Which AI Model Should You Pick for Your Startup?](https://www.tomtunguz.com/which-model-is-best/) — `2023-05-12-which-model-is-best.md` — 417w
+- 2023-05-08 — [The AI API : The Twilio Moment for Machine Learning](https://www.tomtunguz.com/ai-ease-of-dx/) — `2023-05-08-ai-ease-of-dx.md` — 235w
+- 2023-05-08 — [SaaS Competitive Advantage Through Elegant LLM Feedback Mechanisms](https://www.tomtunguz.com/easy-feedback-ml-bard/) — `2023-05-08-easy-feedback-ml-bard.md` — 216w
+- 2023-05-04 — [Web3 in SaaS Clothing](https://www.tomtunguz.com/web3-in-saas-clothing/) — `2023-05-04-web3-in-saas-clothing.md` — 230w
+- 2023-05-04 — [Tokenization as a SaaS Liquidity Option](https://www.tomtunguz.com/tokenization-ipo/) — `2023-05-04-tokenization-ipo.md` — 386w
+- 2023-05-04 — [The Most Profitable Software Company in Q1 2024](https://www.tomtunguz.com/ethereum-profit-token-terminal/) — `2023-05-04-ethereum-profit-token-terminal.md` — 198w
+- 2023-05-04 — [Building a $20b Behemoth : Office Hours with Steven Goldfeder of Offchain Labs](https://www.tomtunguz.com/office-hours-steven-goldfeder-announcement/) — `2023-05-04-office-hours-steven-goldfeder-announcement.md` — 210w
+- 2023-05-03 — [The Impact of AI on Education & What It Means for Work](https://www.tomtunguz.com/ai-transforming-education-nature-research/) — `2023-05-03-ai-transforming-education-nature-research.md` — 266w
+- 2023-05-03 — [How Should You Staff Your Startup in 2023](https://www.tomtunguz.com/et30-headcount-analysis/) — `2023-05-03-et30-headcount-analysis.md` — 314w
+- 2023-04-24 — [When 1 is Bigger than 4 for AI](https://www.tomtunguz.com/yes-or-no-chatgpt/) — `2023-04-24-yes-or-no-chatgpt.md` — 341w
+- 2023-04-24 — [There is No Such Thing as Series A Metrics](https://www.tomtunguz.com/series-a-metrics-2023/) — `2023-04-24-series-a-metrics-2023.md` — 304w
+- 2023-04-24 — [How Much Should Quotas Increase Next Year?](https://www.tomtunguz.com/how-much-should-quotas-increase-next-year/) — `2023-04-24-how-much-should-quotas-increase-next-year.md` — 396w
+- 2023-04-17 — [The First Mac Predates Modern Central Banking](https://www.tomtunguz.com/the-fed-history/) — `2023-04-17-the-fed-history.md` — 309w
+- 2023-04-17 — [Surprising Data Points about the Venture Capital Market](https://www.tomtunguz.com/carta-state-of-the-market-report/) — `2023-04-17-carta-state-of-the-market-report.md` — 280w
+- 2023-04-09 — [ChatGPT & Taylor Swift](https://www.tomtunguz.com/user-acquisition-curiosity/) — `2023-04-09-user-acquisition-curiosity.md` — 230w
+- 2023-04-07 — [Picking Teams in AI](https://www.tomtunguz.com/ai-consolidation/) — `2023-04-07-ai-consolidation.md` — 365w
+- 2023-04-04 — [The Fracking of Information](https://www.tomtunguz.com/km-with-llm/) — `2023-04-04-km-with-llm.md` — 513w
+- 2023-04-04 — [Economics in the Sometimes Strange World of Web3](https://www.tomtunguz.com/l2s-l1s-marketshare-q2-23/) — `2023-04-04-l2s-l1s-marketshare-q2-23.md` — 264w
 - 2023-03-31 — [What If There Is No Moat Yet?](https://www.tomtunguz.com/what-if-there-is-no-moat/) — `2023-03-31-what-if-there-is-no-moat.md` — 369w
+- 2023-03-31 — [Tinkering with LLMs](https://www.tomtunguz.com/llm-tinkering/) — `2023-03-31-llm-tinkering.md` — 303w
+- 2023-03-31 — [Theory](https://www.tomtunguz.com/theory/) — `2023-03-31-theory.md` — 290w
+- 2023-03-31 — [The Intelligence Imperative: How AI Went From Feature to Foundation](https://www.tomtunguz.com/vc-market-ai-2024/) — `2023-03-31-vc-market-ai-2024.md` — 176w
+- 2023-03-31 — [The 4 Questions Startups Should Ask Themselves about Building with Generative AI](https://www.tomtunguz.com/generative-ai-saastr/) — `2023-03-31-generative-ai-saastr.md` — 369w
+- 2023-03-31 — [Does an AI Premium Exist in the Fundraising Market?](https://www.tomtunguz.com/the-ai-premium/) — `2023-03-31-the-ai-premium.md` — 185w
+- 2023-03-20 — [Usage as the Moat in AI](https://www.tomtunguz.com/moats-in-ml/) — `2023-03-20-moats-in-ml.md` — 315w
+- 2023-03-07 — [Welcome, Bryan and Philip!](https://www.tomtunguz.com/welcome-bryan-and-philip/) — `2023-03-07-welcome-bryan-and-philip.md` — 171w
+- 2023-02-21 — [The Opposite of a Good Idea is a Good Idea](https://www.tomtunguz.com/the-opposite-of-a-good-idea-is-a-good-idea/) — `2023-02-21-the-opposite-of-a-good-idea-is-a-good-idea.md` — 245w
+- 2023-02-21 — [Signs We've Touched the Bottom](https://www.tomtunguz.com/cloud-earnings-q323/) — `2023-02-21-cloud-earnings-q323.md` — 562w
+- 2023-02-10 — [2024 Predictions](https://www.tomtunguz.com/2024-predictions/) — `2023-02-10-2024-predictions.md` — 619w
+- 2023-02-10 — [2023 Go-to-Market Survey - Understanding How Startups Have Shifted in 2023](https://www.tomtunguz.com/2023-gtm-survey/) — `2023-02-10-2023-gtm-survey.md` — 177w
+- 2023-02-06 — [The Math of Hypergrowth: Two Paths to the Same Goal](https://www.tomtunguz.com/hypergrowth-vs-steady-compounding/) — `2023-02-06-hypergrowth-vs-steady-compounding.md` — 262w
+- 2023-02-03 — [Profit Dollars per GPU Dollar](https://www.tomtunguz.com/cloud-earnings-q3-24/) — `2023-02-03-cloud-earnings-q3-24.md` — 470w
+- 2023-01-24 — [Microsoft's Billion Dollar AI Business](https://www.tomtunguz.com/cloud-earnings-q223/) — `2023-01-24-cloud-earnings-q223.md` — 479w
+- 2023-01-11 — [Purchasing Patterns in Software : Positivity Punctuating Q3](https://www.tomtunguz.com/vendr-q3-report/) — `2023-01-11-vendr-q3-report.md` — 216w
+- 2023-01-11 — [Extreme PMF : Sustaining Success with Scale](https://www.tomtunguz.com/extreme-pmf/) — `2023-01-11-extreme-pmf.md` — 254w
+- 2023-01-11 — [Cisco & Splunk Continue the Trend of SaaS Take Privates](https://www.tomtunguz.com/splunk-cisco-acquisition/) — `2023-01-11-splunk-cisco-acquisition.md` — 253w
+- 2023-01-05 — [The Implications of Increased Regulatory Scrutiny for Startup Acquisitions](https://www.tomtunguz.com/regulatory-scrunity-startup-ma/) — `2023-01-05-regulatory-scrunity-startup-ma.md` — 469w
+- 2023-01-05 — [The Impact of Anti](https://www.tomtunguz.com/antitrust-impact-ma/) — `2023-01-05-antitrust-impact-ma.md` — 327w
+- 2023-01-05 — [How Layoffs in Startupland Differ Between B2B & B2C Companies](https://www.tomtunguz.com/whats-different-in-this-layoff-cycle/) — `2023-01-05-whats-different-in-this-layoff-cycle.md` — 264w
+- 2022-12-27 — [The Most Acquisitive Acquihirers in Software](https://www.tomtunguz.com/most-active-small-acquirers/) — `2022-12-27-most-active-small-acquirers.md` — 271w
+- 2022-12-18 — [Which Customer Segments are Healthiest During the Downturn?](https://www.tomtunguz.com/growth-patterns-public-software/) — `2022-12-18-growth-patterns-public-software.md` — 204w
+- 2022-12-14 — [The Series A Crunch or the Seedpocalypse of 2024](https://www.tomtunguz.com/seedpocalypse-2024/) — `2022-12-14-seedpocalypse-2024.md` — 330w
+- 2022-12-14 — [The Pilgrims Raised 4 Rounds of Financing](https://www.tomtunguz.com/the-pilgrims-raised-4-rounds-of-funding/) — `2022-12-14-the-pilgrims-raised-4-rounds-of-funding.md` — 344w
+- 2022-12-12 — [What the New Relic Sale Means for SaaS](https://www.tomtunguz.com/newr_acquisition/) — `2022-12-12-newr_acquisition.md` — 252w
+- 2022-12-12 — [Rabbits on Firetrucks : Generating Images for B2B Blog Posts Using AI](https://www.tomtunguz.com/gpt-stock-images/) — `2022-12-12-gpt-stock-images.md` — 313w
+- 2022-12-04 — [From a $200k Annual Burn to Raising $80m+ : Notes from Office Hours with Fredrik Haga](https://www.tomtunguz.com/fredrik-haga-office-hours-notes/) — `2022-12-04-fredrik-haga-office-hours-notes.md` — 281w
+- 2022-11-21 — [The Typical Startup Saw a 24% Increase in Sales Cycle in 2023](https://www.tomtunguz.com/sales_cycle_changes/) — `2022-11-21-sales_cycle_changes.md` — 242w
+- 2022-11-21 — [Software Spending Growth Will Accelerate by 40% in 2023, But it Doesn't Feel that Way](https://www.tomtunguz.com/software-spending-2023/) — `2022-11-21-software-spending-2023.md` — 246w
+- 2022-11-21 — [My Favorite 10 Books of 2022](https://www.tomtunguz.com/best-books-2022/) — `2022-11-21-best-books-2022.md` — 577w
+- 2022-11-21 — [Mean Reversion: When Will Startup Investing Return to Normal?](https://www.tomtunguz.com/reversion-to-mean-venture-activity/) — `2022-11-21-reversion-to-mean-venture-activity.md` — 220w
+- 2022-11-21 — [Busting the Myth: Higher Funding Doesn't Mean Faster Hiring in Startups](https://www.tomtunguz.com/headcount_growth_and_capital_raised/) — `2022-11-21-headcount_growth_and_capital_raised.md` — 270w
+- 2022-11-18 — [Five Predictions for 2023](https://www.tomtunguz.com/2023-predictions/) — `2022-11-18-2023-predictions.md` — 687w
+- 2022-11-18 — [Around the World in 21 Days](https://www.tomtunguz.com/around-the-world-in-21-days/) — `2022-11-18-around-the-world-in-21-days.md` — 431w
+- 2022-11-11 — [A Founder's Guide: Essential Management Advice for Startups](https://www.tomtunguz.com/management-advice-for-startups/) — `2022-11-11-management-advice-for-startups.md` — 515w
+- 2022-11-09 — [Office Hours with Fredrik Haga of Dune : What is the Future of Web3 post](https://www.tomtunguz.com/office-hours-fredrik-haga/) — `2022-11-09-office-hours-fredrik-haga.md` — 146w
+- 2022-11-06 — [A Funny Thing Happened on the Way to Sand Hill Road](https://www.tomtunguz.com/series-a-headcount-runway-years/) — `2022-11-06-series-a-headcount-runway-years.md` — 376w
+- 2022-11-02 — [How to Build Your Startup like Google & Stripe](https://www.tomtunguz.com/operational-principles-vs-values/) — `2022-11-02-operational-principles-vs-values.md` — 441w
+- 2022-10-30 — [PLG & Profitability : More Product Doesn't Necessarily Mean Greater Profits](https://www.tomtunguz.com/plg-less-profitable/) — `2022-10-30-plg-less-profitable.md` — 387w
+- 2022-10-28 — [A Flare Across the Clouds : Cloudflare's Earnings Report](https://www.tomtunguz.com/cloudflare-earnings-2023q1/) — `2022-10-28-cloudflare-earnings-2023q1.md` — 608w
+- 2022-10-19 — [Avoiding the PLG Trap : Office Hours with Oliver Jay](https://www.tomtunguz.com/oliver-jay-office-hours/) — `2022-10-19-oliver-jay-office-hours.md` — 204w
+- 2022-10-16 — [A $30B Software Company from a $15m Investment](https://www.tomtunguz.com/mark-leonard/) — `2022-10-16-mark-leonard.md` — 270w
+- 2022-10-13 — [The Fastest Growing Software Sectors in 2024](https://www.tomtunguz.com/fastest-growing-software-category-2024/) — `2022-10-13-fastest-growing-software-category-2024.md` — 195w
+- 2022-09-26 — [Microsoft as a Mirror](https://www.tomtunguz.com/microsoft-as-a-mirror/) — `2022-09-26-microsoft-as-a-mirror.md` — 438w
+- 2022-09-23 — [Is the Suite Strategy Right for Your SaaS Startup?](https://www.tomtunguz.com/suite-strategy/) — `2022-09-23-suite-strategy.md` — 481w
+- 2022-09-23 — [A Founder's Guide: Essential Sales Advice for Startups](https://www.tomtunguz.com/sales-implementation-guide/) — `2022-09-23-sales-implementation-guide.md` — 695w
+- 2022-09-12 — [How Monte Carlo's Daily Revenue Model Rewrote Their Strategy](https://www.tomtunguz.com/moving-to-daily-pricing/) — `2022-09-12-moving-to-daily-pricing.md` — 400w
+- 2022-09-02 — [A Founder's Guide to Customer Success](https://www.tomtunguz.com/customer-success-guide/) — `2022-09-02-customer-success-guide.md` — 1573w
+- 2022-08-30 — [Why We'll See More New Types of Web3 Apps in the Next Year](https://www.tomtunguz.com/the-change-in-crypto-revenue/) — `2022-08-30-the-change-in-crypto-revenue.md` — 330w
+- 2022-08-30 — [What the FTX Fiasco Means for Web3](https://www.tomtunguz.com/ftx-binance/) — `2022-08-30-ftx-binance.md` — 427w
+- 2022-08-30 — [The State of Web3 in 2022 through Data](https://www.tomtunguz.com/state-of-crypto-2022-dunecon/) — `2022-08-30-state-of-crypto-2022-dunecon.md` — 544w
+- 2022-08-30 — [No Asterisk Needed](https://www.tomtunguz.com/web3-post-investment-election/) — `2022-08-30-web3-post-investment-election.md` — 353w
+- 2022-08-30 — [Don't Look Now But Web3 Companies are Beginning to Trade Like their Web2 Counterparts](https://www.tomtunguz.com/crypto-multiples-2022-08-29/) — `2022-08-30-crypto-multiples-2022-08-29.md` — 496w
+- 2022-08-16 — [Magical Metrics with Omni](https://www.tomtunguz.com/omni-solving-metric-management/) — `2022-08-16-omni-solving-metric-management.md` — 374w
+- 2022-08-16 — [Analyze All the Things : Data Omniscience with Omni](https://www.tomtunguz.com/data-omniscience-with-omni/) — `2022-08-16-data-omniscience-with-omni.md` — 322w
+- 2022-08-10 — [How Low Could Valuations Go?](https://www.tomtunguz.com/rates-and-multiples-2022/) — `2022-08-10-rates-and-multiples-2022.md` — 193w
+- 2022-08-02 — [Top 10 Posts of 2022](https://www.tomtunguz.com/top-posts-2022/) — `2022-08-02-top-posts-2022.md` — 507w
+- 2022-08-02 — [Fundraising in 2022: Where We Are & Where We're Going](https://www.tomtunguz.com/fundraising-environment-2022-08-19/) — `2022-08-02-fundraising-environment-2022-08-19.md` — 410w
+- 2022-08-02 — [Cutting R&D to Grow GTM Spend : Is it Happening Across Software Companies?](https://www.tomtunguz.com/cutting_rd_to_grow/) — `2022-08-02-cutting_rd_to_grow.md` — 324w
+- 2022-07-29 — [Predicting Cloud Growth Rates for 2023](https://www.tomtunguz.com/q42022-cloud-earnings/) — `2022-07-29-q42022-cloud-earnings.md` — 388w
+- 2022-07-28 — [How to Structure a Startup Sales Team for Optimal Land & Expand](https://www.tomtunguz.com/how-to-structure-land-and-expand-ae/) — `2022-07-28-how-to-structure-land-and-expand-ae.md` — 392w
+- 2022-07-28 — [A Founder's Guide to Go-to](https://www.tomtunguz.com/go-to-market-guide/) — `2022-07-28-go-to-market-guide.md` — 1573w
+- 2022-07-26 — [Grey Skies in Cloud Earnings](https://www.tomtunguz.com/q32022-cloud-earnings/) — `2022-07-26-q32022-cloud-earnings.md` — 279w
+- 2022-07-20 — [The Rise of Data Lakes in Software Architecture](https://www.tomtunguz.com/data-lakes-in-saas/) — `2022-07-20-data-lakes-in-saas.md` — 344w
+- 2022-07-13 — [Spot the Difference](https://www.tomtunguz.com/spot-the-difference/) — `2022-07-13-spot-the-difference.md` — 271w
+- 2022-07-12 — [Are We Seeing the Beginning of SaaS Consolidation?](https://www.tomtunguz.com/saas-fragmentation-cycle/) — `2022-07-12-saas-fragmentation-cycle.md` — 624w
+- 2022-07-08 — [The Most Successful Web3 Launch in 2022](https://www.tomtunguz.com/the-most-successful-web3-launch-in-2022/) — `2022-07-08-the-most-successful-web3-launch-in-2022.md` — 347w
+- 2022-07-08 — [How Much Should You Expect Your Startup to Slow in 2022? About 21%.](https://www.tomtunguz.com/average-expected-arr-decline-2022/) — `2022-07-08-average-expected-arr-decline-2022.md` — 181w
+- 2022-07-08 — [Gas Gas Revolution](https://www.tomtunguz.com/aws-eth-cost-reductions/) — `2022-07-08-aws-eth-cost-reductions.md` — 384w
+- 2022-07-06 — [A Masterclass in Sales Development from Lars Nilsson at Snowflake](https://www.tomtunguz.com/lars-nilsson-office-hours-notes/) — `2022-07-06-lars-nilsson-office-hours-notes.md` — 371w
+- 2022-06-28 — [Web3 Users Are Just Like Web2 Users](https://www.tomtunguz.com/web3-users-are-web2-users/) — `2022-06-28-web3-users-are-web2-users.md` — 211w
+- 2022-06-28 — [The Uniswap Token Launch : Tokens as CAC Part II](https://www.tomtunguz.com/uniswap-airdrop-analysis/) — `2022-06-28-uniswap-airdrop-analysis.md` — 378w
+- 2022-06-23 — [1% of Salesforce's Revenue Makes a Unicorn](https://www.tomtunguz.com/time-to-disrupt-incumbents/) — `2022-06-23-time-to-disrupt-incumbents.md` — 329w
+- 2022-06-22 — [Dissecting Delegation: Diving Deep on The Missing B](https://www.tomtunguz.com/delegation-learnings/) — `2022-06-22-delegation-learnings.md` — 311w
+- 2022-06-21 — [The Bid/Ask Spread in Venture Capital](https://www.tomtunguz.com/bid-ask-spread-vc/) — `2022-06-21-bid-ask-spread-vc.md` — 255w
+- 2022-06-21 — [How Markets Value Software Companies in 2023](https://www.tomtunguz.com/how-markets-value-saas-in-mid-2023/) — `2022-06-21-how-markets-value-saas-in-mid-2023.md` — 327w
+- 2022-06-14 — [Defending a Startups Greatest Asset through Recession & Recovery](https://www.tomtunguz.com/lee-kirkpatrick-office-hours-notes/) — `2022-06-14-lee-kirkpatrick-office-hours-notes.md` — 452w
+- 2022-06-13 — [The Web3 Marketing Stack: The Next Big Wave in Crypto](https://www.tomtunguz.com/web3-marketing-stack/) — `2022-06-13-web3-marketing-stack.md` — 575w
+- 2022-06-13 — [Sales Efficiency through Covid : Reading the Tea Leaves for Startups](https://www.tomtunguz.com/sales-efficiency-through-covid/) — `2022-06-13-sales-efficiency-through-covid.md` — 419w
+- 2022-06-13 — [How AI Tools Differ from Human Tools](https://www.tomtunguz.com/tools-evolution/) — `2022-06-13-tools-evolution.md` — 378w
+- 2022-06-06 — [Is a 10% Reduction in Staff a Layoff?](https://www.tomtunguz.com/is-10-percent-really-a-layoff/) — `2022-06-06-is-10-percent-really-a-layoff.md` — 222w
+- 2022-06-01 — [The AI](https://www.tomtunguz.com/cloud-market-share-shift-2025/) — `2022-06-01-cloud-market-share-shift-2025.md` — 349w
+- 2022-05-31 — [Office Hours with Lars Nilsson, VP of Global Sales Development at Snowflake](https://www.tomtunguz.com/lars-nilsson-office-hours/) — `2022-05-31-lars-nilsson-office-hours.md` — 151w
+- 2022-05-25 — [Take a Breath](https://www.tomtunguz.com/take-a-breath/) — `2022-05-25-take-a-breath.md` — 300w
+- 2022-05-24 — [The Trillion Dollar Empire that Started with a Coupon](https://www.tomtunguz.com/bond-king/) — `2022-05-24-bond-king.md` — 268w
+- 2022-05-24 — [Selling AI : Category Creation of a Different Flavor](https://www.tomtunguz.com/selling-agents/) — `2022-05-24-selling-agents.md` — 325w
+- 2022-05-24 — [200% NDR: What Does it Take to Achieve this Stellar Milestone?](https://www.tomtunguz.com/two-hundred-percent-ndr/) — `2022-05-24-two-hundred-percent-ndr.md` — 377w
+- 2022-05-18 — [Would You Leave the Cloud to Improve Sales Efficiency by 11%?](https://www.tomtunguz.com/moving-to-self-managed-to-optimize-sales-efficiency/) — `2022-05-18-moving-to-self-managed-to-optimize-sales-efficiency.md` — 322w
+- 2022-05-18 — [Seeking a Distribution Advantage with AI](https://www.tomtunguz.com/distribution-advantage-ai/) — `2022-05-18-distribution-advantage-ai.md` — 330w
+- 2022-05-18 — [Office Hours with Carilu Dietrich](https://www.tomtunguz.com/carilu-dietrich-office-hours/) — `2022-05-18-carilu-dietrich-office-hours.md` — 150w
+- 2022-05-16 — [So You Want to Improve Your Sales Efficiency](https://www.tomtunguz.com/so-you-want-to-improve-your-sales-efficiency/) — `2022-05-16-so-you-want-to-improve-your-sales-efficiency.md` — 428w
+- 2022-05-16 — [Operating in the Dark](https://www.tomtunguz.com/its-supposed-to-be-hard-2/) — `2022-05-16-its-supposed-to-be-hard-2.md` — 182w
+- 2022-05-16 — [Losing a Month of Runway to Inflation](https://www.tomtunguz.com/eight-percent-inflation-yield/) — `2022-05-16-eight-percent-inflation-yield.md` — 269w
+- 2022-05-03 — [The 4 Startup States During a Recession](https://www.tomtunguz.com/the-4-types-of-startup-states-in-a-recession/) — `2022-05-03-the-4-types-of-startup-states-in-a-recession.md` — 405w
+- 2022-05-03 — [2022 Startup Market Conditions Survey](https://www.tomtunguz.com/2022-startup-market-conditions-survey/) — `2022-05-03-2022-startup-market-conditions-survey.md` — 123w
+- 2022-04-29 — [What's in Your Bank's Wallet?](https://www.tomtunguz.com/250b-stablecoins/) — `2022-04-29-250b-stablecoins.md` — 238w
+- 2022-04-28 — [The Macroeconomic Signal to Watch for Software & Infrastructure Startups](https://www.tomtunguz.com/the-index-of-software-buyers/) — `2022-04-28-the-index-of-software-buyers.md` — 280w
+- 2022-04-28 — [5 Key Data Points about the Early Venture Market in Q1 2022](https://www.tomtunguz.com/angellist-q1-report/) — `2022-04-28-angellist-q1-report.md` — 343w
+- 2022-04-07 — [The Rhyming Protocol Wars of 2022](https://www.tomtunguz.com/protocol_wars/) — `2022-04-07-protocol_wars.md` — 410w
+- 2022-03-17 — [No SaaS! How AI Agents Will Change Software Pricing](https://www.tomtunguz.com/ai-agent-pricing/) — `2022-03-17-ai-agent-pricing.md` — 440w
+- 2022-03-17 — [75 Cents per Month](https://www.tomtunguz.com/the-cost-of-her/) — `2022-03-17-the-cost-of-her.md` — 219w
+- 2022-03-17 — [$112m of Market Cap per Engineer](https://www.tomtunguz.com/programming-languages-web3/) — `2022-03-17-programming-languages-web3.md` — 364w
+- 2022-03-14 — [The Greatest Profitability Turnaround in Software History](https://www.tomtunguz.com/from-18b-loss-to-150m-in-profit/) — `2022-03-14-from-18b-loss-to-150m-in-profit.md` — 251w
+- 2022-03-14 — [The App Store Model Comes to Web3](https://www.tomtunguz.com/app-store-model-tokens/) — `2022-03-14-app-store-model-tokens.md` — 379w
+- 2022-03-11 — [The Health of Cloud Spending in Mid](https://www.tomtunguz.com/early-earnings-season/) — `2022-03-11-early-earnings-season.md` — 255w
+- 2022-03-11 — [Guess the Startup Answers](https://www.tomtunguz.com/guess-the-startup/) — `2022-03-11-guess-the-startup.md` — 367w
+- 2022-02-17 — [The Startup M&A Market Fell 94% Year over Year](https://www.tomtunguz.com/ma-market-2022/) — `2022-02-17-ma-market-2022.md` — 332w
+- 2022-02-09 — [The Critical Question Facing Web3 Infrastructure Startups](https://www.tomtunguz.com/crypto-coin-management-infrastructure/) — `2022-02-09-crypto-coin-management-infrastructure.md` — 309w
+- 2022-02-09 — [Speed Running a 50 Year Old Software Category](https://www.tomtunguz.com/doss/) — `2022-02-09-doss.md` — 355w
+- 2022-02-03 — [Lessons from Watching a Great CEO Operate](https://www.tomtunguz.com/lessons-from-watching-a-great-ceo-operate/) — `2022-02-03-lessons-from-watching-a-great-ceo-operate.md` — 423w
+- 2022-01-25 — [My Laptop is Faster than Your Cloud : Announcing MotherDuck](https://www.tomtunguz.com/motherduck-seed-a/) — `2022-01-25-motherduck-seed-a.md` — 326w
+- 2022-01-19 — [The New Discipline Web3 Software Companies Must Develop](https://www.tomtunguz.com/crypto-company-treasuries/) — `2022-01-19-crypto-company-treasuries.md` — 435w
+- 2022-01-19 — [The Most Popular Financing Round in 2022](https://www.tomtunguz.com/round-extensions/) — `2022-01-19-round-extensions.md` — 245w
+- 2022-01-19 — [How Much Money is Flowing into Crypto?](https://www.tomtunguz.com/how-much-money-flowing-into-crypto/) — `2022-01-19-how-much-money-flowing-into-crypto.md` — 367w
+- 2022-01-04 — [Five Mid](https://www.tomtunguz.com/6-midyear-predictions-web3/) — `2022-01-04-6-midyear-predictions-web3.md` — 545w
+- 2021-12-29 — [My Favorite Books of 2021](https://www.tomtunguz.com/favorite-books-2021/) — `2021-12-29-favorite-books-2021.md` — 628w
+- 2021-12-29 — [AI Impact Curves](https://www.tomtunguz.com/ai-impact-curves/) — `2021-12-29-ai-impact-curves.md` — 269w
+- 2021-12-28 — [The Three Eras of Startup Valuations](https://www.tomtunguz.com/bottoms-up-and-top-down-valuations/) — `2021-12-28-bottoms-up-and-top-down-valuations.md` — 541w
+- 2021-12-17 — [The New Key Competitive Advantage for Web3 Startups](https://www.tomtunguz.com/coming-sophistication-in-web3/) — `2021-12-17-coming-sophistication-in-web3.md` — 331w
+- 2021-12-13 — [Mark-to-Market Rounds](https://www.tomtunguz.com/mark-to-market-rounds/) — `2021-12-13-mark-to-market-rounds.md` — 420w
+- 2021-12-01 — [Partnering with Mysten Labs to Build Foundational Infrastructure for Web3](https://www.tomtunguz.com/mysten/) — `2021-12-01-mysten.md` — 278w
+- 2021-11-16 — [Words Like Loaded Pistols](https://www.tomtunguz.com/words-like-loaded-pistols/) — `2021-11-16-words-like-loaded-pistols.md` — 498w
+- 2021-11-16 — [Four Fundamental Innovations of Web3 that Will Upend Web2 Incumbents](https://www.tomtunguz.com/four-fundamental-innovations-web3/) — `2021-11-16-four-fundamental-innovations-web3.md` — 581w
+- 2021-11-07 — [Pipeline Analysis Playbook](https://www.tomtunguz.com/pipeline-analysis-playbook/) — `2021-11-07-pipeline-analysis-playbook.md` — 377w
+- 2021-10-25 — [Transcripts](https://www.tomtunguz.com/transcripts/) — `2021-10-25-transcripts.md` — 121w
+- 2021-10-19 — [The Spicy Future for Data](https://www.tomtunguz.com/spicy-future-data/) — `2021-10-19-spicy-future-data.md` — 373w
+- 2021-10-19 — [Napoleon's Influence on the Modern Data Stack : hyperdimensional Analysis with Malloy](https://www.tomtunguz.com/malloy-napoleon/) — `2021-10-19-malloy-napoleon.md` — 350w
+- 2021-10-11 — [Justifying Token Equity Multiples using GDP Data](https://www.tomtunguz.com/crypto-token-multiples/) — `2021-10-11-crypto-token-multiples.md` — 548w
+- 2021-10-07 — [Spot.ai](https://www.tomtunguz.com/spotai/) — `2021-10-07-spotai.md` — 392w
+- 2021-10-07 — [Hex - The Best Product for the Technical Analyst](https://www.tomtunguz.com/hex/) — `2021-10-07-hex.md` — 448w
+- 2021-09-27 — [Building a Generational Business Databrick by Databrick](https://www.tomtunguz.com/databricks-snowflake-compare/) — `2021-09-27-databricks-snowflake-compare.md` — 322w
+- 2021-09-14 — [How to Structure Your Sales Compensation Plan to Deliberately Undersell](https://www.tomtunguz.com/how-to-deliberately-undersell/) — `2021-09-14-how-to-deliberately-undersell.md` — 287w
+- 2021-09-02 — [Motive S](https://www.tomtunguz.com/motive-s-1/) — `2021-09-02-motive-s-1.md` — 842w
+- 2021-09-02 — [GitLab S](https://www.tomtunguz.com/gitlab-s-1/) — `2021-09-02-gitlab-s-1.md` — 348w
+- 2021-09-02 — [Asking Users to Complete Tough Mudders to Use Your Product](https://www.tomtunguz.com/virtual_wallets_funnel_optimization/) — `2021-09-02-virtual_wallets_funnel_optimization.md` — 442w
+- 2021-09-02 — [A New Marketing Behemoth Klaviyo : How 7 Key Benchmarks Stack Up in the S-1](https://www.tomtunguz.com/klaviyo-s1/) — `2021-09-02-klaviyo-s1.md` — 489w
+- 2021-08-29 — [Usage Based Pricing: 3 Questions to Ask Before Leaping](https://www.tomtunguz.com/usage-based-pricing/) — `2021-08-29-usage-based-pricing.md` — 708w
+- 2021-08-23 — [What If LLMs Change the Business Model of the Internet?](https://www.tomtunguz.com/what-if-llms-change-the-business-model-of-the-internet/) — `2021-08-23-what-if-llms-change-the-business-model-of-the-internet.md` — 369w
+- 2021-08-18 — [Revenue, Revenue Everywhere. Not a Dollar to Count](https://www.tomtunguz.com/metricflow/) — `2021-08-18-metricflow.md` — 433w
+- 2021-07-30 — [Venture Capital, Withering & Dying](https://www.tomtunguz.com/vc-withering-and-dying/) — `2021-07-30-vc-withering-and-dying.md` — 268w
+- 2021-07-30 — [Passive Investing in Venture Capital and the Parallels to Public Equities](https://www.tomtunguz.com/active-passive-investing/) — `2021-07-30-active-passive-investing.md` — 352w
+- 2021-07-27 — [How Much Further Can We Fall?](https://www.tomtunguz.com/trends-in-multiples/) — `2021-07-27-trends-in-multiples.md` — 280w
+- 2021-07-27 — [How Correlated are the Web 2 and Web 3 Software Markets?](https://www.tomtunguz.com/software_crypto_correlation/) — `2021-07-27-software_crypto_correlation.md` — 426w
+- 2021-07-27 — [Guess the Startup](https://www.tomtunguz.com/tale-of-two-databases/) — `2021-07-27-tale-of-two-databases.md` — 515w
+- 2021-07-09 — [What's Better than a Cookie? A Wallet](https://www.tomtunguz.com/100m-to-spend-web3-marketing/) — `2021-07-09-100m-to-spend-web3-marketing.md` — 400w
+- 2021-07-09 — [The Top Sectors of Web3 in 2022 by Revenue](https://www.tomtunguz.com/where-is-there-value-in-crypto-today/) — `2021-07-09-where-is-there-value-in-crypto-today.md` — 521w
+- 2021-07-09 — [SUI Generis : Office Hours with Evan Cheng of Mysten Labs](https://www.tomtunguz.com/evan-cheng-office-hours/) — `2021-07-09-evan-cheng-office-hours.md` — 233w
+- 2021-07-09 — [Coinbase & Uniswap: How 7 Key Benchmarks Stack Up](https://www.tomtunguz.com/uni-coin-valuation/) — `2021-07-09-uni-coin-valuation.md` — 511w
+- 2021-06-16 — [Innovation in the Financial Markets: Seventy Years of Hedge Funds](https://www.tomtunguz.com/hedge-fund-epochs/) — `2021-06-16-hedge-fund-epochs.md` — 409w
+- 2021-06-16 — [Five Predictions for 2022](https://www.tomtunguz.com/2022-predictions/) — `2021-06-16-2022-predictions.md` — 909w
+- 2021-06-10 — [Redpoint Office Hours with Claire Hughes Johnson, former COO at Stripe](https://www.tomtunguz.com/office-hours-claire-hughes-johnson/) — `2021-06-10-office-hours-claire-hughes-johnson.md` — 313w
+- 2021-05-24 — [Why Seed Rounds Are Growing as Startups Shrink](https://www.tomtunguz.com/death-of-small-seed-round/) — `2021-05-24-death-of-small-seed-round.md` — 432w
+- 2021-05-24 — [The Figures that Will Move the Venture Capital Market in the Next 3](https://www.tomtunguz.com/10-year-yield-and-venture-capital/) — `2021-05-24-10-year-yield-and-venture-capital.md` — 571w
+- 2021-05-24 — [Startup Self](https://www.tomtunguz.com/2022-common-repricing/) — `2021-05-24-2022-common-repricing.md` — 485w
+- 2021-04-04 — [Executive Recruiting as Competitive Advantage - The 3 Knock](https://www.tomtunguz.com/recruiting-as-competitive-advantage/) — `2021-04-04-recruiting-as-competitive-advantage.md` — 447w
+- 2021-03-05 — [Your Customers' Profitability is Your Startup's Future Health](https://www.tomtunguz.com/ten-years-ago-today/) — `2021-03-05-ten-years-ago-today.md` — 308w
+- 2021-03-05 — [Why Lifetime Value is Relevant Again in Software](https://www.tomtunguz.com/why-ltv-matters-more-in-2024/) — `2021-03-05-why-ltv-matters-more-in-2024.md` — 233w
+- 2021-03-05 — [The Sales Strategy Conquering the AI Market](https://www.tomtunguz.com/fde-cs/) — `2021-03-05-fde-cs.md` — 375w
+- 2021-03-05 — [Databricks' Accelerating Growth](https://www.tomtunguz.com/databricks-growth-2024/) — `2021-03-05-databricks-growth-2024.md` — 241w
+- 2021-03-05 — [AI Spending Patterns : It's Not What You Think](https://www.tomtunguz.com/ai-spending-patterns/) — `2021-03-05-ai-spending-patterns.md` — 390w
+- 2021-03-02 — [The IMPACT Conference on the Modern Data Stack](https://www.tomtunguz.com/impact-data-summit-2021/) — `2021-03-02-impact-data-summit-2021.md` — 247w
+- 2021-03-02 — [Snowflake's 4 Areas of Investment in AI](https://www.tomtunguz.com/baris-gutelkin-ai-snowflake/) — `2021-03-02-baris-gutelkin-ai-snowflake.md` — 246w
+- 2021-02-18 — [The Next Step Forward for Conversational Intelligence](https://www.tomtunguz.com/chorus-zoominfo/) — `2021-02-18-chorus-zoominfo.md` — 206w
+- 2021-02-18 — [How Selling Has Changed Post-COVID, and How it Will Change Again Afterwards](https://www.tomtunguz.com/jim-benton-office-hours-notes/) — `2021-02-18-jim-benton-office-hours-notes.md` — 419w
+- 2021-02-16 — [Bezos' Shareholder Letter in 2000](https://www.tomtunguz.com/jeff-bezos-2000-letter/) — `2021-02-16-jeff-bezos-2000-letter.md` — 344w
+- 2021-02-01 — [Systematizing Go-To](https://www.tomtunguz.com/regression-in-hiring/) — `2021-02-01-regression-in-hiring.md` — 277w
+- 2021-01-27 — [Using the Reversal Mental Model to Invest Better](https://www.tomtunguz.com/expectations-investing/) — `2021-01-27-expectations-investing.md` — 278w
+- 2021-01-27 — [Top 10 Insights from the 2022 Startup Sentiment Survey](https://www.tomtunguz.com/2022-market-survey-results/) — `2021-01-27-2022-market-survey-results.md` — 461w
+- 2021-01-27 — [The Post Election Surge is Unevenly Distributed](https://www.tomtunguz.com/post-election-surge/) — `2021-01-27-post-election-surge.md` — 261w
+- 2021-01-27 — [Imagine You're a Venture Capitalist...](https://www.tomtunguz.com/reservations-about-reserves/) — `2021-01-27-reservations-about-reserves.md` — 461w
+- 2021-01-27 — [How Will We Value a Crypto Token?](https://www.tomtunguz.com/how-will-we-value-tokens/) — `2021-01-27-how-will-we-value-tokens.md` — 960w
+- 2021-01-26 — [The Next Key Innovation in the Shift](https://www.tomtunguz.com/investing-in-signadot/) — `2021-01-26-investing-in-signadot.md` — 355w
+- 2021-01-25 — [When AI Favors the Incumbents](https://www.tomtunguz.com/when-ai-favors-the-incumbent/) — `2021-01-25-when-ai-favors-the-incumbent.md` — 384w
+- 2021-01-25 — [Nobody Wants to Read Your Stuff](https://www.tomtunguz.com/nobody-wants-to-read-your-stuff/) — `2021-01-25-nobody-wants-to-read-your-stuff.md` — 318w
+- 2021-01-20 — [Semantic Cultivators : The Critical Future Role to Enable AI](https://www.tomtunguz.com/semantic-layer/) — `2021-01-20-semantic-layer.md` — 389w
+- 2021-01-18 — [If You Had $10k to Invest, Which Stock Would You Buy?](https://www.tomtunguz.com/question-facing-late-stage-investors/) — `2021-01-18-question-facing-late-stage-investors.md` — 366w
+- 2021-01-11 — [How VCs Value Rainbow Foals in 2022](https://www.tomtunguz.com/history-of-unicorns/) — `2021-01-11-history-of-unicorns.md` — 306w
+- 2021-01-11 — [Can You Guess This Business's Name?](https://www.tomtunguz.com/saas-bundles-annuities/) — `2021-01-11-saas-bundles-annuities.md` — 268w
+- 2020-12-21 — [Why Every Startup Needs an AI Strategy](https://www.tomtunguz.com/every-company-will-be-an-ai-company/) — `2020-12-21-every-company-will-be-an-ai-company.md` — 304w
+- 2020-12-21 — [Messaging: the Bottleneck for Web3](https://www.tomtunguz.com/messaging-unlocking-crypto/) — `2020-12-21-messaging-unlocking-crypto.md` — 311w
+- 2020-12-17 — [The Future of Startup Office](https://www.tomtunguz.com/history-of-the-cubicle/) — `2020-12-17-history-of-the-cubicle.md` — 338w
+- 2020-12-17 — [The Four Types of Startup COOs](https://www.tomtunguz.com/four-types-coo/) — `2020-12-17-four-types-coo.md` — 460w
+- 2020-12-17 — [My Mental Model for the World of Crypto](https://www.tomtunguz.com/mental-model-crypto/) — `2020-12-17-mental-model-crypto.md` — 759w
+- 2020-12-15 — [How Much is 20% More NDR Worth to Your SaaS Startup?](https://www.tomtunguz.com/ndr-delta/) — `2020-12-15-ndr-delta.md` — 198w
+- 2020-12-07 — [Scaling and Measuring an Effective Developer Relations Organization](https://www.tomtunguz.com/shawn-wang-office-hours/) — `2020-12-07-shawn-wang-office-hours.md` — 232w
+- 2020-12-07 — [Five Pillars of PLG with Carilu Dietrich](https://www.tomtunguz.com/five-pillars-of-plg/) — `2020-12-07-five-pillars-of-plg.md` — 407w
+- 2020-11-30 — [Where to Start if You're Curious about Macroeconomics Today](https://www.tomtunguz.com/macroeconomic-changes/) — `2020-11-30-macroeconomic-changes.md` — 555w
+- 2020-11-30 — [The Fifth SaaS Correction](https://www.tomtunguz.com/five-corrections-saas/) — `2020-11-30-five-corrections-saas.md` — 329w
+- 2020-11-27 — [Rediscovering the Power of the Command Line](https://www.tomtunguz.com/going-to-the-terminal/) — `2020-11-27-going-to-the-terminal.md` — 722w
+- 2020-11-20 — [5 Predictions for 2021](https://www.tomtunguz.com/2021-predictions/) — `2020-11-20-2021-predictions.md` — 650w
+- 2020-11-17 — [Top 10 Learnings from Startups to a $100M+ ARR General Manager, Linda Tong](https://www.tomtunguz.com/linda-tong-office-hours-notes/) — `2020-11-17-linda-tong-office-hours-notes.md` — 1267w
+- 2020-10-26 — [The Secret to Recruiting Quickly and Retaining Your People](https://www.tomtunguz.com/middle-management/) — `2020-10-26-middle-management.md` — 413w
+- 2020-09-22 — [The Missing Insight Around Software Multiples for Valuing Companies](https://www.tomtunguz.com/multiples-linearity/) — `2020-09-22-multiples-linearity.md` — 389w
+- 2020-09-22 — [Benchmarking Amplitude's S](https://www.tomtunguz.com/amplitude-s-1/) — `2020-09-22-amplitude-s-1.md` — 377w
+- 2020-09-22 — [Are AI Companies Valued Differently Than Non](https://www.tomtunguz.com/valuing-ai-non-ai/) — `2020-09-22-valuing-ai-non-ai.md` — 206w
+- 2020-09-21 — [The Parallels in the Culture Between the Two Category Defining Companies](https://www.tomtunguz.com/no-rules-rules/) — `2020-09-21-no-rules-rules.md` — 346w
+- 2020-09-21 — [The 4 States of an Engineering Team](https://www.tomtunguz.com/an-elegant-problem-will-larson.md/) — `2020-09-21-an-elegant-problem-will-larson-md.md` — 401w
+- 2020-09-13 — [The End of Web3](https://www.tomtunguz.com/web3-moniker/) — `2020-09-13-web3-moniker.md` — 268w
+- 2020-09-08 — [Would You Work for This Person?](https://www.tomtunguz.com/would-you-work-for-this-person/) — `2020-09-08-would-you-work-for-this-person.md` — 313w
+- 2020-09-08 — [Why Burnout Should be a Topic at Your Next Board Meeting, and What to Do About It](https://www.tomtunguz.com/burnout-covid-what-to-do-about-it/) — `2020-09-08-burnout-covid-what-to-do-about-it.md` — 302w
+- 2020-09-08 — [The Sales Sandwich](https://www.tomtunguz.com/longitudinal-sales-analysis/) — `2020-09-08-longitudinal-sales-analysis.md` — 569w
+- 2020-09-08 — [From Hyper Growth to Hyperscale: What I Learned Managing Small and Massive Teams](https://www.tomtunguz.com/linda-tong-office-hours/) — `2020-09-08-linda-tong-office-hours.md` — 277w
+- 2020-09-08 — [A Little Yellow Book in the Corner Bookshelf of a Coffee Shop](https://www.tomtunguz.com/the-art-of-possibility/) — `2020-09-08-the-art-of-possibility.md` — 342w
+- 2020-09-08 — [A Common and Critical Mistake When Forecasting Next Year's Bookings](https://www.tomtunguz.com/sales_planning_using_median_not_mean/) — `2020-09-08-sales_planning_using_median_not_mean.md` — 486w
+- 2020-09-01 — [Notes from Office Hours with Kimbre Lancaster on How to Run Successful Virtual Events](https://www.tomtunguz.com/notes-office-hours-kimbre-lancaster/) — `2020-09-01-notes-office-hours-kimbre-lancaster.md` — 374w
+- 2020-08-24 — [The Three Questions to Ask When Hiring Your Startup's Head of Sales](https://www.tomtunguz.com/three-questions-head-of-sales/) — `2020-08-24-three-questions-head-of-sales.md` — 459w
+- 2020-08-24 — [A Quick Diagnostic to Determine if Your Sales & Marketing Teams are Aligned](https://www.tomtunguz.com/sales-marketing-slope-connected/) — `2020-08-24-sales-marketing-slope-connected.md` — 440w
+- 2020-08-21 — [How to Predict the Forward Multiple of a Software Company](https://www.tomtunguz.com/correlates-to-forward-multiple/) — `2020-08-21-correlates-to-forward-multiple.md` — 240w
+- 2020-08-17 — [Redpoint Office Hours with Kimbre Lancaster on Hosting Successful Virtual Events](https://www.tomtunguz.com/office-hours-kimbre-lancaster/) — `2020-08-17-office-hours-kimbre-lancaster.md` — 207w
+- 2020-08-02 — [The Supercharger Boosting Startupland Fundraising and Exits](https://www.tomtunguz.com/interest-rates-and-exits/) — `2020-08-02-interest-rates-and-exits.md` — 447w
+- 2020-07-31 — [Managing Data as Product : Office Hours with Philip Zelitchenko](https://www.tomtunguz.com/managing-data-as-product/) — `2020-07-31-managing-data-as-product.md` — 181w
+- 2020-07-31 — [Dremio - A Foundational Component of the Modern Data Stack](https://www.tomtunguz.com/dremio_series_e/) — `2020-07-31-dremio_series_e.md` — 220w
+- 2020-07-31 — [Cloud Data Lakes](https://www.tomtunguz.com/subsurface2021/) — `2020-07-31-subsurface2021.md` — 238w
+- 2020-07-31 — [9 Predictions for Data in 2023](https://www.tomtunguz.com/9-predictions-for-data-2023/) — `2020-07-31-9-predictions-for-data-2023.md` — 618w
+- 2020-07-19 — [Marketing Teams as Hedge Funds](https://www.tomtunguz.com/surfing-the-marketing-surges/) — `2020-07-19-surfing-the-marketing-surges.md` — 264w
+- 2020-07-09 — [What I've Learned about Modern Monetary Theory](https://www.tomtunguz.com/modern-monetary-theory/) — `2020-07-09-modern-monetary-theory.md` — 473w
+- 2020-07-09 — [The Most Popular Startup Domain Suffixes - .com, .co, .gg](https://www.tomtunguz.com/startup_suffixes/) — `2020-07-09-startup_suffixes.md` — 575w
+- 2020-07-09 — [The Five Important Trends in Data, and the One Megatrend Powering Them All](https://www.tomtunguz.com/five-data-trends-one-mega-trend-data-lifecycle/) — `2020-07-09-five-data-trends-one-mega-trend-data-lifecycle.md` — 633w
+- 2020-07-09 — [The Best Economic History Books According to Readers](https://www.tomtunguz.com/economic-history-books/) — `2020-07-09-economic-history-books.md` — 399w
+- 2020-07-09 — [The Art of Doing Science & Engineering](https://www.tomtunguz.com/science-and-engineering/) — `2020-07-09-science-and-engineering.md` — 501w
+- 2020-07-09 — [Height - The Project Management Tool for the Modern Worker](https://www.tomtunguz.com/height-announcement/) — `2020-07-09-height-announcement.md` — 240w
+- 2020-07-05 — [Redpoint Office Hours with Medha Agarwal & Shopify’s Kaz Nejatian](https://www.tomtunguz.com/office-hours-with-kaz-nejatian/) — `2020-07-05-office-hours-with-kaz-nejatian.md` — 279w
+- 2020-07-05 — [Never Raising, Always Raising](https://www.tomtunguz.com/maturation-venture-industry/) — `2020-07-05-maturation-venture-industry.md` — 594w
+- 2020-06-30 — [Why Remote Work Changes the Nature of Leadership, and the Kinds of Leaders to Recruit in Startups](https://www.tomtunguz.com/recruiting-different-characteristics-remote-managers/) — `2020-06-30-recruiting-different-characteristics-remote-managers.md` — 395w
+- 2020-06-30 — [The One Force that Will Govern How We Return to Work](https://www.tomtunguz.com/returning-to-work/) — `2020-06-30-returning-to-work.md` — 532w
+- 2020-06-17 — [Your Responsibility as a Manager is to Hire 7 People](https://www.tomtunguz.com/your-responsibility-leader-hire-seven-people/) — `2020-06-17-your-responsibility-leader-hire-seven-people.md` — 307w
+- 2020-06-17 — [The Productivity Implications of Working from Home Across 150,000 Employees](https://www.tomtunguz.com/work-from-home-productivity/) — `2020-06-17-work-from-home-productivity.md` — 378w
+- 2020-06-17 — [How Important is Your Software to Your Customer? It's Time to Find Out.](https://www.tomtunguz.com/doing-more-with-less/) — `2020-06-17-doing-more-with-less.md` — 291w
+- 2020-06-17 — [2024 Theory Ventures Go-to-Market Survey: Optimism Rises Amid Changing Market Dynamics](https://www.tomtunguz.com/2024-gtm-survey-results/) — `2020-06-17-2024-gtm-survey-results.md` — 464w
+- 2020-06-15 — [Two Charts that I've Been Wondering About](https://www.tomtunguz.com/two-charts-2020/) — `2020-06-15-two-charts-2020.md` — 296w
+- 2020-05-25 — [Where are Most Unicorns Headquartered?](https://www.tomtunguz.com/california-houses-more-unicorns/) — `2020-05-25-california-houses-more-unicorns.md` — 190w
+- 2020-05-19 — [Notes from Office Hours with Hollie Wegman](https://www.tomtunguz.com/office-hours-hollie-notes/) — `2020-05-19-office-hours-hollie-notes.md` — 721w
+- 2020-05-06 — [The Inflationary Forces in Startupland](https://www.tomtunguz.com/2021-environment/) — `2020-05-06-2021-environment.md` — 584w
+- 2020-05-06 — [Conflicting Data on the State of the US Early Stage Market](https://www.tomtunguz.com/conflicting-data-early-stage-market/) — `2020-05-06-conflicting-data-early-stage-market.md` — 339w
+- 2020-05-05 — [An Economic History of the US in Five Stock Market Crashes](https://www.tomtunguz.com/us-economic-history-5-crashes/) — `2020-05-05-us-economic-history-5-crashes.md` — 631w
+- 2020-04-17 — [The Compounding Advantage of a Big Chip Stack in a Downturn](https://www.tomtunguz.com/the-big-chip-stack-advantage/) — `2020-04-17-the-big-chip-stack-advantage.md` — 379w
+- 2020-03-29 — [What if Every SaaS App Spoke English?](https://www.tomtunguz.com/what-if-every-saas-app-had-an-llm/) — `2020-03-29-what-if-every-saas-app-had-an-llm.md` — 376w
+- 2020-03-29 — [How a Merger of Salesforce and Slack Would Change the SaaS Landscape](https://www.tomtunguz.com/slack-salesforce-rumors/) — `2020-03-29-slack-salesforce-rumors.md` — 512w
+- 2020-03-20 — [Why Startups Should Establish Qualifying Signals for Sales Teams Early On](https://www.tomtunguz.com/why-startups-should-establish-qualifying-signals-for-sales-teams-early-on/) — `2020-03-20-why-startups-should-establish-qualifying-signals-for-sales-teams-early-on.md` — 295w
+- 2020-03-16 — [The Startup Sectors Most Impacted by the Coronavirus](https://www.tomtunguz.com/layoff-categories-2020-04-06/) — `2020-03-16-layoff-categories-2020-04-06.md` — 299w
+- 2020-03-16 — [The Change in Burn Multiple for Startups in 2023](https://www.tomtunguz.com/burn-multiple-2023/) — `2020-03-16-burn-multiple-2023.md` — 191w
+- 2020-03-16 — [Surveying Sales Leaders - How Coronavirus is Impacting Quotas, Bookings, and Budgets](https://www.tomtunguz.com/revenue-collective-survey/) — `2020-03-16-revenue-collective-survey.md` — 344w
+- 2020-03-12 — [The Fundraising Market Two Quarters into COVID](https://www.tomtunguz.com/fundraising-market-corona-two-quarters-in/) — `2020-03-12-fundraising-market-corona-two-quarters-in.md` — 452w
+- 2020-03-12 — [How Much will the US Early Stage Venture Market Contract in 2023?](https://www.tomtunguz.com/venture-market-2023/) — `2020-03-12-venture-market-2023.md` — 358w
+- 2020-03-06 — [What do Tariffs Mean for Startupland?](https://www.tomtunguz.com/tariffs-startups/) — `2020-03-06-tariffs-startups.md` — 437w
+- 2020-03-06 — [The Great Game of Risk Played in Category Creation, and Why the Winning Strategy is Aggression](https://www.tomtunguz.com/category-creation-speed-strategy/) — `2020-03-06-category-creation-speed-strategy.md` — 456w
+- 2020-03-04 — [Building a Product-Led Growth Machine: Office Hours with GC Lionetti](https://www.tomtunguz.com/office-hours-giancarlo-2020-12-07/) — `2020-03-04-office-hours-giancarlo-2020-12-07.md` — 279w
+- 2020-02-25 — [Soft in the Middle](https://www.tomtunguz.com/the-shape-of-your-company/) — `2020-02-25-the-shape-of-your-company.md` — 248w
+- 2020-02-25 — [How Should You Structure Sales Teams for Optimal Performance?](https://www.tomtunguz.com/how-should-you-structure-your-sales-team-for-success/) — `2020-02-25-how-should-you-structure-your-sales-team-for-success.md` — 354w
+- 2020-02-23 — [The Great CEO Within](https://www.tomtunguz.com/the-great-ceo-within/) — `2020-02-23-the-great-ceo-within.md` — 419w
+- 2020-02-13 — [Why Margin Matters Now in Startupland](https://www.tomtunguz.com/why-margin-matters-2020/) — `2020-02-13-why-margin-matters-2020.md` — 442w
+- 2020-02-13 — [2023 is the Year of _________](https://www.tomtunguz.com/2023-the-year-of/) — `2020-02-13-2023-the-year-of.md` — 210w
+- 2020-02-12 — [Building GTM for AI : Office Hours with Maggie Hott](https://www.tomtunguz.com/office-hours-maggie-hott/) — `2020-02-12-office-hours-maggie-hott.md` — 123w
+- 2020-02-10 — [Why You Should Repeat Yourself, A Lot](https://www.tomtunguz.com/why-you-should-repeat-yourself/) — `2020-02-10-why-you-should-repeat-yourself.md` — 334w
+- 2020-02-10 — [Why Databases Won't Charge for Storage in the Future](https://www.tomtunguz.com/why-databases-wont-charge-storage/) — `2020-02-10-why-databases-wont-charge-storage.md` — 346w
+- 2020-02-10 — [What is the Product the Customer Buys Before They Buy Yours?](https://www.tomtunguz.com/the-tool-before-your-product/) — `2020-02-10-the-tool-before-your-product.md` — 337w
+- 2020-02-10 — [The Feedback Loops in Data that Will Change SaaS Architecture](https://www.tomtunguz.com/data-feedback-loop/) — `2020-02-10-data-feedback-loop.md` — 707w
+- 2020-02-10 — [Data Lake Engines - The Essential Layer of the Next Generation Data Architecture](https://www.tomtunguz.com/dremio-data-lake-engine/) — `2020-02-10-dremio-data-lake-engine.md` — 328w
+- 2020-02-04 — [How Predictive is SDR/BDR Quota Attainment of AE Quota Attainment?](https://www.tomtunguz.com/xdr-attainment-ae-attainment/) — `2020-02-04-xdr-attainment-ae-attainment.md` — 286w
+- 2020-01-27 — [The Impact of the Coronavirus on Software Valuation Multiples](https://www.tomtunguz.com/valuation_multiples_2020-03-02/) — `2020-01-27-valuation_multiples_2020-03-02.md` — 410w
+- 2020-01-27 — [A New Chapter](https://www.tomtunguz.com/a-new-chapter/) — `2020-01-27-a-new-chapter.md` — 281w
+- 2020-01-20 — [Month Zero Cash-on-Cash Payback](https://www.tomtunguz.com/month-zero-cash-on-cash/) — `2020-01-20-month-zero-cash-on-cash.md` — 368w
+- 2020-01-13 — [Office Hours with Bill Binch: Structuring Sales Teams for Success](https://www.tomtunguz.com/office-hours-bill-binch/) — `2020-01-13-office-hours-bill-binch.md` — 180w
+- 2020-01-05 — [The Need for Two Types of Payback Period Calculations](https://www.tomtunguz.com/payback-period/) — `2020-01-05-payback-period.md` — 554w
+- 2020-01-05 — [Benchmarking Sales Prospecting Volumes, Deal Terms, and Meetings in the Coronavirus Era](https://www.tomtunguz.com/chorus-daily-briefing/) — `2020-01-05-chorus-daily-briefing.md` — 273w
+- 2019-12-19 — [Why IPOs, Direct Listings, and SPACs Will Flourish in Startupland](https://www.tomtunguz.com/comparing-valuations-public-and-private-companies/) — `2019-12-19-comparing-valuations-public-and-private-companies.md` — 407w
+- 2019-12-19 — [What Will this Crisis Accelerate in Your Ecosystem?](https://www.tomtunguz.com/crises-accelerate-change/) — `2019-12-19-crises-accelerate-change.md` — 528w
+- 2019-12-15 — [Top 10 Posts of 2023](https://www.tomtunguz.com/top-10-posts-2023/) — `2019-12-15-top-10-posts-2023.md` — 492w
+- 2019-12-12 — [Artisanal Emails](https://www.tomtunguz.com/artisanal-emails/) — `2019-12-12-artisanal-emails.md` — 327w
+- 2019-12-02 — [The Secret to Productive Group Meetings over Video](https://www.tomtunguz.com/secret-productive-group-meetings-video/) — `2019-12-02-secret-productive-group-meetings-video.md` — 350w
+- 2019-11-21 — [The Most Effective Tools and Techniques for Selling Today](https://www.tomtunguz.com/jim-benton-office-hours/) — `2019-11-21-jim-benton-office-hours.md` — 216w
+- 2019-11-18 — [The People Roadmap for Startups](https://www.tomtunguz.com/architecting-teams/) — `2019-11-18-architecting-teams.md` — 379w
+- 2019-11-10 — [How to Recruit a Marketing Team with Great Product Marketing and Demand Generation Abilities](https://www.tomtunguz.com/how-to-recruit-great-product-marketing-and-demand-generation/) — `2019-11-10-how-to-recruit-great-product-marketing-and-demand-generation.md` — 424w
+- 2019-11-07 — [Redpoint Office Hours with Tyler McNally from Gainsight](https://www.tomtunguz.com/redpoint-office-hours-mcnally/) — `2019-11-07-redpoint-office-hours-mcnally.md` — 185w
+- 2019-10-28 — [The Average Founder Ages 6 Months Each Year](https://www.tomtunguz.com/founder-age-median-trend/) — `2019-10-28-founder-age-median-trend.md` — 258w
+- 2019-10-28 — [Questions about Returning to Work](https://www.tomtunguz.com/questions-about-returning-to-work/) — `2019-10-28-questions-about-returning-to-work.md` — 260w
+- 2019-10-28 — [Product Launches Become the Operating Cadence of a Startup](https://www.tomtunguz.com/creating-an-operating-cadence-in-a-startup/) — `2019-10-28-creating-an-operating-cadence-in-a-startup.md` — 360w
+- 2019-10-28 — [How to Transform Your Board Meeting with Written Narratives](https://www.tomtunguz.com/written-board-meetings/) — `2019-10-28-written-board-meetings.md` — 459w
+- 2019-10-28 — [How Would You Manage Your Business Differently if Shelter-in](https://www.tomtunguz.com/how-would-you-change-your-business-if-sip-lasted-18-months/) — `2019-10-28-how-would-you-change-your-business-if-sip-lasted-18-months.md` — 433w
+- 2019-10-22 — [Eliminating Data Downtime with Data Observability](https://www.tomtunguz.com/monte-carlo-announcement/) — `2019-10-22-monte-carlo-announcement.md` — 280w
+- 2019-10-21 — [Observations about Silicon Valley Two Weeks into Quarantine](https://www.tomtunguz.com/observations-startup-land-two-weeks-in/) — `2019-10-21-observations-startup-land-two-weeks-in.md` — 441w
+- 2019-10-14 — [Cloud Prem Architecture - The New Way of Serving the Enterprise with a Hub and Spoke Data Model](https://www.tomtunguz.com/cloud-prem-architecture/) — `2019-10-14-cloud-prem-architecture.md` — 707w
+- 2019-10-04 — [On Humility and Making Better Decisions](https://www.tomtunguz.com/on-humility-and-making-better-decisions/) — `2019-10-04-on-humility-and-making-better-decisions.md` — 494w
+- 2019-09-30 — [How Much Revenue Must a Company Generate to IPO?](https://www.tomtunguz.com/ipo-size-2024/) — `2019-09-30-ipo-size-2024.md` — 370w
+- 2019-09-23 — [Office Hours with Anthony Kennada on Category Creation on Nov 14](https://www.tomtunguz.com/anthony-kennada-office-hours/) — `2019-09-23-anthony-kennada-office-hours.md` — 223w
+- 2019-09-23 — [Notes from Office Hours with Nick Mehta](https://www.tomtunguz.com/notes-from-office-hours-with-nick-mehta/) — `2019-09-23-notes-from-office-hours-with-nick-mehta.md` — 512w
+- 2019-09-17 — [Welcoming Travis Bryant, Again!](https://www.tomtunguz.com/welcoming-travis-bryant-again/) — `2019-09-17-welcoming-travis-bryant-again.md` — 425w
+- 2019-09-16 — [Little Known Facts about the VC Industry](https://www.tomtunguz.com/lessons-from-history/) — `2019-09-16-lessons-from-history.md` — 410w
+- 2019-09-11 — [Asana S-1 Analysis - Comparing One Productivity Powerhouse to Another](https://www.tomtunguz.com/asana-s-1/) — `2019-09-11-asana-s-1.md` — 608w
+- 2019-09-05 — [The Rise of the Founder](https://www.tomtunguz.com/founder_ceo_trends/) — `2019-09-05-founder_ceo_trends.md` — 470w
+- 2019-09-05 — [One of the Most Frequent Errors in Sales Planning and Forecasting](https://www.tomtunguz.com/matching-sales-cycles-to-ramp-times/) — `2019-09-05-matching-sales-cycles-to-ramp-times.md` — 391w
+- 2019-09-05 — [How to Be a Great COO: Lessons Learned Leading a Unicorn to Success](https://www.tomtunguz.com/allison-pickens-office-hours/) — `2019-09-05-allison-pickens-office-hours.md` — 273w
+- 2019-09-05 — [Do You Lose Sales Opportunities Because of Sales Execution or Product Insufficiency?](https://www.tomtunguz.com/do-you-lose-sales-opportunities-because-of-sales-execution-or-product-insufficiency/) — `2019-09-05-do-you-lose-sales-opportunities-because-of-sales-execution-or-product-insufficie.md` — 330w
+- 2019-09-02 — [Tokens as CAC - Are Crypto Companies More or Less Efficient in Acquiring Customers?](https://www.tomtunguz.com/tokens-as-cac/) — `2019-09-02-tokens-as-cac.md` — 651w
+- 2019-08-08 — [The $20/Month Software Revolution](https://www.tomtunguz.com/vibe-coding-ubiquitous/) — `2019-08-08-vibe-coding-ubiquitous.md` — 364w
+- 2019-08-02 — [Why Your Startup's Org Chart is Limiting Your Growth](https://www.tomtunguz.com/secret-of-scaling-teams/) — `2019-08-02-secret-of-scaling-teams.md` — 333w
+- 2019-07-19 — [Why Early Valuations Might Surge in 2022](https://www.tomtunguz.com/hf_moving_early/) — `2019-07-19-hf_moving_early.md` — 451w
+- 2019-07-19 — [A Clever Hack to Reading More Books](https://www.tomtunguz.com/a-clever-hack-to-reading-more-books/) — `2019-07-19-a-clever-hack-to-reading-more-books.md` — 391w
+- 2019-07-16 — [High-Flying SaaS Startups' Surge Won't Change the Valuations in Ventureland](https://www.tomtunguz.com/high-flying-saascos/) — `2019-07-16-high-flying-saascos.md` — 260w
+- 2019-06-20 — [The Top 10 Posts of 2019](https://www.tomtunguz.com/the-top-10-posts-of-2019/) — `2019-06-20-the-top-10-posts-of-2019.md` — 742w
+- 2019-06-20 — [Observations from the Enterprise Tech 30 List](https://www.tomtunguz.com/observations-from-the-enterprise-30-list/) — `2019-06-20-observations-from-the-enterprise-30-list.md` — 411w
+- 2019-06-20 — [Do PE Acquisitions of Public Startups Imply We've Hit a Pricing Bottom?](https://www.tomtunguz.com/take-privates-mid-2022/) — `2019-06-20-take-privates-mid-2022.md` — 321w
+- 2019-06-19 — [Design and Open Source: A Potentially Powerful Combination](https://www.tomtunguz.com/design-and-open-source/) — `2019-06-19-design-and-open-source.md` — 443w
+- 2019-06-17 — [Office Hours with Lisa Lawson](https://www.tomtunguz.com/office-hours-with-lisa-lawson/) — `2019-06-17-office-hours-with-lisa-lawson.md` — 193w
+- 2019-06-17 — [Notes from Office Hours with Guillaume Cabane](https://www.tomtunguz.com/notes-from-office-hours-with-guillaume-cabane/) — `2019-06-17-notes-from-office-hours-with-guillaume-cabane.md` — 360w
+- 2019-06-11 — [Preset Cloud - The Visualization Layer for the Modern Data Stack](https://www.tomtunguz.com/preset/) — `2019-06-11-preset.md` — 259w
+- 2019-06-11 — [Fighting for Context](https://www.tomtunguz.com/survival-not-granted-in-the-ai-era/) — `2019-06-11-survival-not-granted-in-the-ai-era.md` — 329w
+- 2019-06-10 — [Your Startup is a Series of Cycles](https://www.tomtunguz.com/your-startup-series-of-cycles/) — `2019-06-10-your-startup-series-of-cycles.md` — 280w
+- 2019-06-10 — [Why Churn Rates Can Spike When Your SaaS Startup Experiences Hypergrowth](https://www.tomtunguz.com/churn-rates-and-growth/) — `2019-06-10-churn-rates-and-growth.md` — 280w
+- 2019-06-06 — [Looking into the Future of BI With Colin Zima](https://www.tomtunguz.com/looking-into-the-future-of-bi/) — `2019-06-06-looking-into-the-future-of-bi.md` — 222w
+- 2019-05-30 — [How Much Turnover in Your Sales Team Should Your Startup Expect?](https://www.tomtunguz.com/ae-attrition-benchmarks/) — `2019-05-30-ae-attrition-benchmarks.md` — 322w
+- 2019-05-24 — [The Benefits of and Questions Facing Remote and Distributed Startups](https://www.tomtunguz.com/remote-and-fully-distributed/) — `2019-05-24-remote-and-fully-distributed.md` — 607w
+- 2019-05-20 — [The Early Discipline of Remote Startups](https://www.tomtunguz.com/the-early-discipline-of-remote-startups/) — `2019-05-20-the-early-discipline-of-remote-startups.md` — 380w
+- 2019-05-20 — [One Call to Make Before Picking Your Startup's Headquarters](https://www.tomtunguz.com/one-call-to-make-before-picking-your-startup-s-headquarters/) — `2019-05-20-one-call-to-make-before-picking-your-startup-s-headquarters.md` — 297w
+- 2019-05-20 — [How Stripe Scaled - Notes from Office Hours with Claire Hughes Johnson](https://www.tomtunguz.com/claire-hughes-johnson-notes/) — `2019-05-20-claire-hughes-johnson-notes.md` — 443w
+- 2019-05-13 — [What I've learned about IPOs and Direct Listings](https://www.tomtunguz.com/what-i-ve-learned-about-ipos-and-direct-listings/) — `2019-05-13-what-i-ve-learned-about-ipos-and-direct-listings.md` — 1057w
+- 2019-05-10 — [Growing Product and Engineering Orgs from Zero to IPO](https://www.tomtunguz.com/a-conversation-with-nick-caldwell/) — `2019-05-10-a-conversation-with-nick-caldwell.md` — 265w
+- 2019-05-06 — [The SaaS Valuation Environment in Mid](https://www.tomtunguz.com/the-saas-valuation-environment-in-mid-2019/) — `2019-05-06-the-saas-valuation-environment-in-mid-2019.md` — 542w
+- 2019-04-29 — [What do Google Search Query Trends Reveal about the Changes in How We Work?](https://www.tomtunguz.com/google-trends-coronavirus/) — `2019-04-29-google-trends-coronavirus.md` — 368w
+- 2019-04-29 — [The SaaS Correction of Late 2019](https://www.tomtunguz.com/the-saas-correction-in-late-2019/) — `2019-04-29-the-saas-correction-in-late-2019.md` — 346w
+- 2019-04-29 — [100k+ ACV SaaS Companies: Do Their Metrics Differ from Other SaaS Companies?](https://www.tomtunguz.com/100k-saas-companies-do-they-behave-differently-than-other-saas-companies/) — `2019-04-29-100k-saas-companies-do-they-behave-differently-than-other-saas-companies.md` — 460w
+- 2019-04-25 — [Synthesis as Brilliance : Worldly Wisdom from Charlie Munger](https://www.tomtunguz.com/munger/) — `2019-04-25-munger.md` — 398w
+- 2019-04-22 — [Office Hours with Adam FitzGerald, Hashicorp, on Developer Evangelism](https://www.tomtunguz.com/adam-fitzgerald-office-hours/) — `2019-04-22-adam-fitzgerald-office-hours.md` — 231w
+- 2019-04-02 — [Private Equity as an Exit Option for SaaS Startups](https://www.tomtunguz.com/pe-in-saas/) — `2019-04-02-pe-in-saas.md` — 329w
+- 2019-04-02 — [B2B vs B2C: How Should Your Sales Team Be Allocated to Maximize Success?](https://www.tomtunguz.com/b2b-vs-b2c/) — `2019-04-02-b2b-vs-b2c.md` — 296w
+- 2019-03-24 — [Benchmarking DataDog's S](https://www.tomtunguz.com/benchmarking-datadog-s-s-1-how-7-key-metrics-stack-up/) — `2019-03-24-benchmarking-datadog-s-s-1-how-7-key-metrics-stack-up.md` — 583w
+- 2019-03-21 — [It's Supposed to Be Hard. You're Changing the World.](https://www.tomtunguz.com/its-supposed-to-be-hard/) — `2019-03-21-its-supposed-to-be-hard.md` — 303w
+- 2019-03-11 — [Will Your Startup Borrow More in 2022?](https://www.tomtunguz.com/friedman-interest-rate-fallacy/) — `2019-03-11-friedman-interest-rate-fallacy.md` — 294w
+- 2019-03-11 — [Just How Troubled is the Bay Area Startup Scene?](https://www.tomtunguz.com/bayarea-startup-vc-2022/) — `2019-03-11-bayarea-startup-vc-2022.md` — 344w
+- 2019-03-11 — [Information as Surprise](https://www.tomtunguz.com/information-as-surprise/) — `2019-03-11-information-as-surprise.md` — 339w
+- 2019-02-26 — [The Publicly Traded Company Worth 250x More in 10 Years](https://www.tomtunguz.com/nvda-250x/) — `2019-02-26-nvda-250x.md` — 341w
+- 2019-02-19 — [The Siren Song of ROI Based Pricing](https://www.tomtunguz.com/the-siren-song-of-roi-based-sales/) — `2019-02-19-the-siren-song-of-roi-based-sales.md` — 391w
+- 2019-02-07 — [Estimating the Impact of the Coronavirus on Growth](https://www.tomtunguz.com/estimating-impact-to-growth-coronavirus/) — `2019-02-07-estimating-impact-to-growth-coronavirus.md` — 264w
+- 2019-02-06 — [Deliberately Underselling as Sales Strategy](https://www.tomtunguz.com/deliberately-underselling/) — `2019-02-06-deliberately-underselling.md` — 385w
+- 2019-02-05 — [How to Cut a Path through the Jungle of Regulatory Compliance](https://www.tomtunguz.com/todd-smithline-office-hours/) — `2019-02-05-todd-smithline-office-hours.md` — 208w
+- 2019-02-04 — [As Your Sales Team Scales, Focus on Your Middle](https://www.tomtunguz.com/as-your-sales-team-scales-focus-on-your-middle/) — `2019-02-04-as-your-sales-team-scales-focus-on-your-middle.md` — 382w
+- 2019-02-01 — [Top 10 Learnings from the Redpoint Free Trial Survey](https://www.tomtunguz.com/top-10-learnings-from-the-redpoint-free-trial-survey/) — `2019-02-01-top-10-learnings-from-the-redpoint-free-trial-survey.md` — 566w
+- 2019-01-24 — [Should Your Startup Differentiate On Pricing?](https://www.tomtunguz.com/should-your-startup-differentiate-on-pricing/) — `2019-01-24-should-your-startup-differentiate-on-pricing.md` — 497w
+- 2019-01-21 — [The Redpoint 2020 Go To Market Survey](https://www.tomtunguz.com/the-redpoint-2020-go-to-market-survey/) — `2019-01-21-the-redpoint-2020-go-to-market-survey.md` — 194w
+- 2019-01-21 — [Office Hours with Travis Bryant](https://www.tomtunguz.com/office-hours-with-travis-bryant/) — `2019-01-21-office-hours-with-travis-bryant.md` — 356w
+- 2019-01-21 — [Office Hours with Guillaume Cabane on June 27](https://www.tomtunguz.com/office-hours-with-guillaume-cabane-1/) — `2019-01-21-office-hours-with-guillaume-cabane-1.md` — 222w
+- 2019-01-07 — [Viewing Valuation as a Discount of Future Value](https://www.tomtunguz.com/why-growth-matters-so-much/) — `2019-01-07-why-growth-matters-so-much.md` — 241w
+- 2019-01-04 — [Adding Engineering Metrics to the Redpoint SaaS Metrics Template](https://www.tomtunguz.com/engineering-metrics/) — `2019-01-04-engineering-metrics.md` — 206w
+- 2018-12-18 — [5 Predictions for 2020](https://www.tomtunguz.com/5-predictions-for-2020/) — `2018-12-18-5-predictions-for-2020.md` — 521w
+- 2018-12-01 — [My Quest for Speed - Learning to Use My Computer the Fastest Way Possible](https://www.tomtunguz.com/latency/) — `2018-12-01-latency.md` — 449w
+- 2018-10-28 — [The Next Chapter for StackRox](https://www.tomtunguz.com/stackrox-redhat/) — `2018-10-28-stackrox-redhat.md` — 192w
+- 2018-10-09 — [The Dislocation Between Public & Private Web3 Markets](https://www.tomtunguz.com/web3-disclocation-public-private/) — `2018-10-09-web3-disclocation-public-private.md` — 266w
+- 2018-09-26 — [Narrative Economics and the Power of Stories](https://www.tomtunguz.com/narrative-economics/) — `2018-09-26-narrative-economics.md` — 462w
+- 2018-07-23 — [Inside Rounds Have Become a Sign of Strength at the Series B](https://www.tomtunguz.com/inside-rounds-swelling-series-b-covid/) — `2018-07-23-inside-rounds-swelling-series-b-covid.md` — 610w
+- 2018-07-08 — [Cloud Data Lakes](https://www.tomtunguz.com/cloud-data-lakes/) — `2018-07-08-cloud-data-lakes.md` — 317w
+- 2018-07-08 — [A Random Walk Down Sand Hill Road](https://www.tomtunguz.com/a-random-walk-down-sand-hill-road/) — `2018-07-08-a-random-walk-down-sand-hill-road.md` — 453w
+- 2018-06-27 — [What Could the Venture Market Look Like in the Coronavirus Era](https://www.tomtunguz.com/analogy-coronavirus-2008-crash/) — `2018-06-27-analogy-coronavirus-2008-crash.md` — 510w
+- 2018-06-27 — [The Math Behind Starting a Successful Software Startup](https://www.tomtunguz.com/math-behind-successful-software-startups/) — `2018-06-27-math-behind-successful-software-startups.md` — 384w
+- 2018-06-27 — [Office Hours for 2022 Market Conditions Market Survey Results](https://www.tomtunguz.com/office-hours-survey/) — `2018-06-27-office-hours-survey.md` — 150w
+- 2018-06-27 — [Before You Raise a Round of Funding, Ask Yourself This Question](https://www.tomtunguz.com/before-you-raise-a-round-of-funding-ask-yourself-this-question/) — `2018-06-27-before-you-raise-a-round-of-funding-ask-yourself-this-question.md` — 454w
+- 2018-06-24 — [The Fundraising Environment in 2019](https://www.tomtunguz.com/fundraising-environment-2019/) — `2018-06-24-fundraising-environment-2019.md` — 505w
+- 2018-06-24 — [The Fastest Growing Category of Venture Investment in 2024](https://www.tomtunguz.com/ai-investment-2024/) — `2018-06-24-ai-investment-2024.md` — 203w
+- 2018-06-24 — [How Will the 52% Correction in the Stock Market Impact the Startup Fundraising Market?](https://www.tomtunguz.com/multiples-2022-01-19/) — `2018-06-24-multiples-2022-01-19.md` — 284w
+- 2018-06-24 — [Do Data Startups Command a Premium in the Fundraising Market?](https://www.tomtunguz.com/data-company-valuations/) — `2018-06-24-data-company-valuations.md` — 275w
+- 2018-06-24 — [1.01^365 = 37.7](https://www.tomtunguz.com/1-01365--37-7/) — `2018-06-24-1-01365--37-7.md` — 172w
+- 2018-06-21 — [This is the Most Ridiculous Use of Money Management I've Ever Heard. What is Wrong with You?](https://www.tomtunguz.com/druckenmiller-soros-british-pound/) — `2018-06-21-druckenmiller-soros-british-pound.md` — 395w
+- 2018-06-21 — [That Will Never Work](https://www.tomtunguz.com/that-will-never-work/) — `2018-06-21-that-will-never-work.md` — 478w
+- 2018-06-21 — [Redpoint 8](https://www.tomtunguz.com/redpoint-8/) — `2018-06-21-redpoint-8.md` — 249w
+- 2018-06-03 — [The Five Flavors of ARR](https://www.tomtunguz.com/the-great-metrics-confabulation/) — `2018-06-03-the-great-metrics-confabulation.md` — 457w
+- 2018-06-03 — [Simpson's Paradox in Measuring Net Dollar Retention Rate](https://www.tomtunguz.com/simpsons-paradox-ndr/) — `2018-06-03-simpsons-paradox-ndr.md` — 437w
+- 2018-05-06 — [You'll Never Login the Same Way Again](https://www.tomtunguz.com/logging-in-a-whole-new-way/) — `2018-05-06-logging-in-a-whole-new-way.md` — 405w
+- 2018-05-04 — [Six Startup Disciplines for Challenging Times](https://www.tomtunguz.com/key-disciplines-2020/) — `2018-05-04-key-disciplines-2020.md` — 487w
+- 2018-04-01 — [How Our Journey with Snowflake Began](https://www.tomtunguz.com/snowflake/) — `2018-04-01-snowflake.md` — 312w
+- 2018-03-18 — [What a Valuation Implies About a Business](https://www.tomtunguz.com/what-a-valuation-implies-about-a-business/) — `2018-03-18-what-a-valuation-implies-about-a-business.md` — 671w
+- 2018-03-18 — [AI SaaS Companies Will Be More Profitable](https://www.tomtunguz.com/ai-software-margins/) — `2018-03-18-ai-software-margins.md` — 292w
+- 2018-02-08 — [Define the What But Delegate the How](https://www.tomtunguz.com/what-am-i-uniquely-good-at/) — `2018-02-08-what-am-i-uniquely-good-at.md` — 676w
+- 2018-01-26 — [The First $100m ARR AI Security Company](https://www.tomtunguz.com/100m-in-ai-security/) — `2018-01-26-100m-in-ai-security.md` — 444w
+- 2018-01-19 — [Why Fast Learning Curves are So Important to Startups](https://www.tomtunguz.com/why-you-need-to-plan-six-months-ahead/) — `2018-01-19-why-you-need-to-plan-six-months-ahead.md` — 517w
+- 2018-01-19 — [I Talk to Robots While Driving](https://www.tomtunguz.com/working-with-ai/) — `2018-01-19-working-with-ai.md` — 498w
+- 2018-01-19 — [A Decade Long Mac User Tries Out Windows for the First Time in 15 Years](https://www.tomtunguz.com/windows/) — `2018-01-19-windows.md` — 630w
+- 2018-01-17 — [The Four Strategic Questions Facing AI Agencies](https://www.tomtunguz.com/the-four-strategic-questions-facing-ai-agencies/) — `2018-01-17-the-four-strategic-questions-facing-ai-agencies.md` — 704w
+- 2018-01-11 — [Which Categories of Seed Startups are Thriving? Which Aren't?](https://www.tomtunguz.com/which-categories-of-seed-startups-are-thriving-which-aren-t/) — `2018-01-11-which-categories-of-seed-startups-are-thriving-which-aren-t.md` — 468w
+- 2018-01-04 — [AI Superpowers - A History of Chinese Startups and the Implications for the Future of Startupland](https://www.tomtunguz.com/ai-superpowers/) — `2018-01-04-ai-superpowers.md` — 694w
+- 2018-01-01 — [The Strategic Importance of Competition](https://www.tomtunguz.com/the-strategic-importance-of-competition/) — `2018-01-01-the-strategic-importance-of-competition.md` — 426w
+- 2017-11-26 — [The Future of Money](https://www.tomtunguz.com/future-of-money/) — `2017-11-26-future-of-money.md` — 371w
+- 2017-11-22 — [A Lasting and Enduring Gift](https://www.tomtunguz.com/a-lasting-and-enduring-gift/) — `2017-11-22-a-lasting-and-enduring-gift.md` — 512w
+- 2017-11-11 — [In Defense of Troublemakers](https://www.tomtunguz.com/in-defense-of-troublemakers/) — `2017-11-11-in-defense-of-troublemakers.md` — 297w
+- 2017-11-08 — [Inflation and Deflation in Web2 and Web3 Startups](https://www.tomtunguz.com/stocks-tokens-inflation-deflation/) — `2017-11-08-stocks-tokens-inflation-deflation.md` — 551w
+- 2017-11-08 — [10 Lessons Learned after $5B of M&A](https://www.tomtunguz.com/what-ive-learned-ma/) — `2017-11-08-what-ive-learned-ma.md` — 572w
+- 2017-11-05 — [The Two Cap Tables of Crypto Companies: What They Are and How They Relate to Each Other](https://www.tomtunguz.com/equity-cap-table-vs-token-cap-table/) — `2017-11-05-equity-cap-table-vs-token-cap-table.md` — 471w
+- 2017-10-29 — [Are Software Companies Good Businesses?](https://www.tomtunguz.com/is-software-profitable/) — `2017-10-29-is-software-profitable.md` — 406w
+- 2017-08-23 — [If You Have Great NDR Retention, Should You Increase Your Marketing Spend?](https://www.tomtunguz.com/does-better-ndr-imply-greater-tolerance-for-higher-cac/) — `2017-08-23-does-better-ndr-imply-greater-tolerance-for-higher-cac.md` — 599w
+- 2017-08-21 — [What the $6B Coupa Acquisition Means for Software Startups](https://www.tomtunguz.com/coupa-thoma/) — `2017-08-21-coupa-thoma.md` — 342w
+- 2017-08-21 — [The 100x ARR Multiple](https://www.tomtunguz.com/100x-arr/) — `2017-08-21-100x-arr.md` — 409w
+- 2017-08-21 — [Bullwhip and Base Rates - The Two Major Forces Impacting Startups in Q2](https://www.tomtunguz.com/bullwhip-effect-base-rates/) — `2017-08-21-bullwhip-effect-base-rates.md` — 401w
+- 2017-08-13 — [A Common Mistake in Hiring Plans](https://www.tomtunguz.com/a-common-mistake-in-hiring-plans/) — `2017-08-13-a-common-mistake-in-hiring-plans.md` — 263w
+- 2017-07-23 — [Has VC Become So Big It Must Be Disrupted?](https://www.tomtunguz.com/is-venture-capital-worth-the-risk/) — `2017-07-23-is-venture-capital-worth-the-risk.md` — 516w
+- 2017-07-19 — [Data Meshes, Apache Iceberg & Project Nessie](https://www.tomtunguz.com/subsurface-summer-2021/) — `2017-07-19-subsurface-summer-2021.md` — 239w
+- 2017-07-09 — [More Activity Means More Business. Don't Overthink It.](https://www.tomtunguz.com/more-activity-more-business/) — `2017-07-09-more-activity-more-business.md` — 284w
+- 2017-07-04 — [Five Reasons to Sell End-to](https://www.tomtunguz.com/selling-end-to-end-products-in-early-markets/) — `2017-07-04-selling-end-to-end-products-in-early-markets.md` — 445w
+- 2017-06-01 — [Mental Models for Hiring Salespeople at Startups](https://www.tomtunguz.com/mental-models-hiring-in-sales/) — `2017-06-01-mental-models-hiring-in-sales.md` — 429w
+- 2017-06-01 — [Every Customer is a Design Partner - Leading Your Sales Motion with Sales Engineering](https://www.tomtunguz.com/leading-with-sales-engineering/) — `2017-06-01-leading-with-sales-engineering.md` — 353w
+- 2017-05-14 — [Top 10 Learnings from the Redpoint 2020 GTM Survey](https://www.tomtunguz.com/redpoint-2020-gtm-survey/) — `2017-05-14-redpoint-2020-gtm-survey.md` — 505w
+- 2017-05-14 — [Theory SaaS Startup Key Metrics Template](https://www.tomtunguz.com/saas-startup-metrics-template/) — `2017-05-14-saas-startup-metrics-template.md` — 369w
+- 2017-05-14 — [The Hardest Round to Raise in 2023](https://www.tomtunguz.com/2023q1-venture-market/) — `2017-05-14-2023q1-venture-market.md` — 267w
+- 2017-04-30 — [The Strategic Question at Seed Today](https://www.tomtunguz.com/the-strategic-question-at-seed-today/) — `2017-04-30-the-strategic-question-at-seed-today.md` — 419w
+- 2017-04-21 — [The Mispricing of Software Companies](https://www.tomtunguz.com/mispricing-of-software-companies/) — `2017-04-21-mispricing-of-software-companies.md` — 329w
+- 2017-04-17 — [The Most Frequent Mishire in Startups](https://www.tomtunguz.com/most-frequent-mishire/) — `2017-04-17-most-frequent-mishire.md` — 477w
+- 2017-04-07 — [Hustle As Strategy](https://www.tomtunguz.com/hustle-as-strategy/) — `2017-04-07-hustle-as-strategy.md` — 394w
+- 2017-03-23 — [Sizing the Web3 B2B Software Market](https://www.tomtunguz.com/sizing-web3-b2b-market/) — `2017-03-23-sizing-web3-b2b-market.md` — 356w
+- 2017-03-23 — [Information Cascades - How Many Rational People Can Make Logical Decisions and Yet Still Create a Bubble](https://www.tomtunguz.com/information-cascades/) — `2017-03-23-information-cascades.md` — 629w
+- 2017-03-23 — [Benchmarking Zoom's S](https://www.tomtunguz.com/benchmarking-zoom-s-s-1-how-7-key-metrics-stack-up/) — `2017-03-23-benchmarking-zoom-s-s-1-how-7-key-metrics-stack-up.md` — 431w
+- 2017-03-06 — [A New Axis of Competition](https://www.tomtunguz.com/a-new-axis-of-competition/) — `2017-03-06-a-new-axis-of-competition.md` — 329w
+- 2017-02-15 — [The 37% Rule: How to Decide When to Stop Wondering and Start Deciding](https://www.tomtunguz.com/explore-vs-exploit-in-business/) — `2017-02-15-explore-vs-exploit-in-business.md` — 405w
+- 2017-02-07 — [When AI Becomes Table Stakes](https://www.tomtunguz.com/ml-as-table-stakes/) — `2017-02-07-ml-as-table-stakes.md` — 336w
+- 2017-02-01 — [A Mental Model for Prioritizing Your Startup's Energies](https://www.tomtunguz.com/a-mental-model-for-prioritizing-your-startup-s-energies/) — `2017-02-01-a-mental-model-for-prioritizing-your-startup-s-energies.md` — 317w
+- 2017-01-27 — [Can You Still Make Money Starting a SaaS Company?](https://www.tomtunguz.com/can-you-still-make-money-in-saas/) — `2017-01-27-can-you-still-make-money-in-saas.md` — 341w
+- 2017-01-24 — [The Journey From Fortune 100 Executive to Startup Entrepreneur](https://www.tomtunguz.com/padmasree-warrior-office-hours/) — `2017-01-24-padmasree-warrior-office-hours.md` — 184w
+- 2017-01-22 — [What It Feels Like to Build in AI](https://www.tomtunguz.com/what-it-feels-like-to-build-in-ai/) — `2017-01-22-what-it-feels-like-to-build-in-ai.md` — 320w
+- 2017-01-18 — [How Much More Efficient Should a SaaS Startup Be When Using AI?](https://www.tomtunguz.com/how-much-more-profitable-saas/) — `2017-01-18-how-much-more-profitable-saas.md` — 383w
+- 2017-01-17 — [UIPath S](https://www.tomtunguz.com/uipath_s1_analysis/) — `2017-01-17-uipath_s1_analysis.md` — 726w
+- 2017-01-11 — [Voodoo, Obsidian & Zettlekasten](https://www.tomtunguz.com/modern-note-taking-zettlekasten/) — `2017-01-11-modern-note-taking-zettlekasten.md` — 492w
+- 2016-12-21 — [Theory Two](https://www.tomtunguz.com/theory-2/) — `2016-12-21-theory-2.md` — 161w
+- 2016-12-05 — [The Capex Conquest in the Cloud](https://www.tomtunguz.com/capex_conquest/) — `2016-12-05-capex_conquest.md` — 328w
+- 2016-10-17 — [Setting the Salesforce/Tableau Acquisition in Context](https://www.tomtunguz.com/setting-the-salesforce-tableau-acquisition-in-context/) — `2016-10-17-setting-the-salesforce-tableau-acquisition-in-context.md` — 284w
+- 2016-09-09 — [Cash Flow Shockwaves](https://www.tomtunguz.com/cash-flow-shockwaves/) — `2016-09-09-cash-flow-shockwaves.md` — 313w
+- 2016-08-17 — [My Little Library](https://www.tomtunguz.com/my-little-prompt-library/) — `2016-08-17-my-little-prompt-library.md` — 241w
+- 2016-08-15 — [SaaS Office Hours Go to Market Survey Edition & Which Metric Should Your SDR/BDR Team Use?](https://www.tomtunguz.com/saas-gtm-office-hours/) — `2016-08-15-saas-gtm-office-hours.md` — 392w
+- 2016-08-08 — [The Missing Letter from the English Alphabet](https://www.tomtunguz.com/the-missing-letter/) — `2016-08-08-the-missing-letter.md` — 228w
+- 2016-08-08 — [A Founder's Guide to Venture Capital & Startup Fundraising](https://www.tomtunguz.com/venture-capital-guide/) — `2016-08-08-venture-capital-guide.md` — 537w
+- 2016-08-04 — [The Bacon & the Skillet: When Does the AI Market Congeal?](https://www.tomtunguz.com/the-bacon-and-the-skillet-when-ai-market-share-congeals/) — `2016-08-04-the-bacon-and-the-skillet-when-ai-market-share-congeals.md` — 352w
+- 2016-07-19 — [The Radically Different Early Stage Fundraising Market](https://www.tomtunguz.com/the-radically-different-early-stage-fundraising-market/) — `2016-07-19-the-radically-different-early-stage-fundraising-market.md` — 419w
+- 2016-07-19 — [The Decline of Venture Debt at the Early Stage](https://www.tomtunguz.com/venture-debt-2021/) — `2016-07-19-venture-debt-2021.md` — 297w
+- 2016-06-20 — [The Optimal Pricing Strategy for Your Startup](https://www.tomtunguz.com/pricing-with-madhavan/) — `2016-06-20-pricing-with-madhavan.md` — 181w
+- 2016-06-16 — [Why You Should Expect Your VP Product to Sign Up for a Lead Quota](https://www.tomtunguz.com/2021-plg-report-pocus-frc/) — `2016-06-16-2021-plg-report-pocus-frc.md` — 384w
+- 2016-06-16 — [The SaaS Marketing Scorecard](https://www.tomtunguz.com/saas-marketing-scorecard/) — `2016-06-16-saas-marketing-scorecard.md` — 421w
+- 2016-06-10 — [The Challenge of the AI Demo](https://www.tomtunguz.com/the-challenge-of-the-ai-demo/) — `2016-06-10-the-challenge-of-the-ai-demo.md` — 389w
+- 2016-06-10 — [How ChatGPT Will Restructure Engineering Teams & Create Opportunity for Startups](https://www.tomtunguz.com/reorientation-of-the-data-team/) — `2016-06-10-reorientation-of-the-data-team.md` — 327w
+- 2016-06-10 — [Competitive Strategy in the Age of AI](https://www.tomtunguz.com/competitive-strategy-in-ai/) — `2016-06-10-competitive-strategy-in-ai.md` — 197w
+- 2016-04-29 — [A 1600% Improvement in Sales to Lead Conversion](https://www.tomtunguz.com/earnings-2025-04-24/) — `2016-04-29-earnings-2025-04-24.md` — 250w
+- 2016-04-26 — [Is the Software Market in Trouble?](https://www.tomtunguz.com/weakness-in-software/) — `2016-04-26-weakness-in-software.md` — 445w
+- 2016-04-25 — [Internal Communication - Why it Matters More than Ever & How to Succeed](https://www.tomtunguz.com/office-hours-daria-kisser/) — `2016-04-25-office-hours-daria-kisser.md` — 219w
+- 2016-04-22 — [The Complete Guide to SaaS Pricing Strategy](https://www.tomtunguz.com/pricing-guide/) — `2016-04-22-pricing-guide.md` — 3661w
+- 2016-04-10 — [MotherDuck](https://www.tomtunguz.com/motherduck-launch/) — `2016-04-10-motherduck-launch.md` — 278w
+- 2016-04-01 — [The Health of the US Venture Market in 2020](https://www.tomtunguz.com/the-health-of-the-us-venture-market-in-2020/) — `2016-04-01-the-health-of-the-us-venture-market-in-2020.md` — 479w
+- 2016-04-01 — [Just How Inaccurate are Quarterly Venture Capital Activity Reports?](https://www.tomtunguz.com/venture-activity-reports-inaccuracy/) — `2016-04-01-venture-activity-reports-inaccuracy.md` — 514w
+- 2016-03-27 — [Things that Used to be Impossible, but are Now Really Hard](https://www.tomtunguz.com/the-marginal-task/) — `2016-03-27-the-marginal-task.md` — 378w
+- 2016-03-21 — [Looker Joins Google Cloud](https://www.tomtunguz.com/looker-joins-google-cloud/) — `2016-03-21-looker-joins-google-cloud.md` — 190w
+- 2016-03-18 — [Office Hours with Nick Mehta of Gainsight Oct 9](https://www.tomtunguz.com/office-hours-with-nick-mehta-of-gainsight-oct-9/) — `2016-03-18-office-hours-with-nick-mehta-of-gainsight-oct-9.md` — 179w
+- 2016-03-18 — [Office Hours with Lee Kirkpatrick, former Twilio CFO on Managing through Turbulence](https://www.tomtunguz.com/lee-kirkpatrick-office-hours/) — `2016-03-18-lee-kirkpatrick-office-hours.md` — 193w
+- 2016-03-04 — [Puzzles, Not Problems](https://www.tomtunguz.com/facing-world-war-ii-in-its-darkest-moments/) — `2016-03-04-facing-world-war-ii-in-its-darkest-moments.md` — 329w
+- 2016-02-18 — [What I Expect in the Next Few Months in Startupland](https://www.tomtunguz.com/bullwhip-corona/) — `2016-02-18-bullwhip-corona.md` — 738w
+- 2016-02-09 — [Why is the Stock Market Only Down 15%?](https://www.tomtunguz.com/why-is-the-stock-market-down-only-15-percent/) — `2016-02-09-why-is-the-stock-market-down-only-15-percent.md` — 487w
+- 2016-01-29 — [Free SaaS Enabled Marketplaces - A Novel Go-To](https://www.tomtunguz.com/software-enabled-marketplaces/) — `2016-01-29-software-enabled-marketplaces.md` — 559w
+- 2016-01-08 — [The Secret to Keeping Your Software Running and Keeping Customers Happy](https://www.tomtunguz.com/chaos-2021/) — `2016-01-08-chaos-2021.md` — 356w
+- 2015-11-09 — [The Largest Software Acquisition in History](https://www.tomtunguz.com/vmware-broadcom-acquisition/) — `2015-11-09-vmware-broadcom-acquisition.md` — 331w
+- 2015-11-09 — [California Dreaming - Is Silicon Valley Still the Best Place to Start a Company?](https://www.tomtunguz.com/is-california-still-the-best-place-to-start-a-company/) — `2015-11-09-is-california-still-the-best-place-to-start-a-company.md` — 375w
+- 2015-11-06 — [What is the Structure of the Typical SaaS Company as it Scales?](https://www.tomtunguz.com/structure-typical-saas-startup/) — `2015-11-06-structure-typical-saas-startup.md` — 410w
+- 2015-10-11 — [Benchmarking Your Sales and Customer Success Teams](https://www.tomtunguz.com/conversational-intelligence-benchmarks/) — `2015-10-11-conversational-intelligence-benchmarks.md` — 189w
+- 2015-09-21 — [What is a Best in Class Payback Period for a Software Company in 2020?](https://www.tomtunguz.com/payback_period_2020/) — `2015-09-21-payback_period_2020.md` — 342w
+- 2015-08-30 — [When You Have an Advantage, Speed Up the Game](https://www.tomtunguz.com/two-biased-random-walk-competitive-strategy/) — `2015-08-30-two-biased-random-walk-competitive-strategy.md` — 466w
+- 2015-08-30 — [Auctions in AI : Cost of Capital as a Strategic Advantage](https://www.tomtunguz.com/wacc-cost-of-capital/) — `2015-08-30-wacc-cost-of-capital.md` — 282w
+- 2015-08-24 — [Growth is No Longer the Best Predictor of a Software Company's Value](https://www.tomtunguz.com/multiple-correlates-2022/) — `2015-08-24-multiple-correlates-2022.md` — 235w
+- 2015-08-20 — [Observations Using LLMs Every Day for Two Months](https://www.tomtunguz.com/observations-using-llms/) — `2015-08-20-observations-using-llms.md` — 609w
+- 2015-08-07 — [Why Product Innovation Slows After the Series A](https://www.tomtunguz.com/when-product-innovation-slows/) — `2015-08-07-when-product-innovation-slows.md` — 567w
+- 2015-08-07 — [Product-Market Fit in Different Capital Environments](https://www.tomtunguz.com/pmf-capital-markets/) — `2015-08-07-pmf-capital-markets.md` — 410w
+- 2015-07-26 — [How Will a Venture Capital Recovery Feel? Observations from 2008](https://www.tomtunguz.com/what-will-a-turnaround-feel-like/) — `2015-07-26-what-will-a-turnaround-feel-like.md` — 334w
+- 2015-07-26 — [Crypto Companies Insider Ownership is Approaching that of Classic Startups](https://www.tomtunguz.com/l1-ownership-over-time/) — `2015-07-26-l1-ownership-over-time.md` — 556w
+- 2015-06-19 — [Open Source Models : What Can We Determine from Download Patterns?](https://www.tomtunguz.com/open-source-models/) — `2015-06-19-open-source-models.md` — 327w
+- 2015-06-16 — [Mattermost's $50M Series B](https://www.tomtunguz.com/mattermost-series-b/) — `2015-06-16-mattermost-series-b.md` — 304w
+- 2015-06-14 — [Intensity Oozes from these Pages](https://www.tomtunguz.com/amp-it-up/) — `2015-06-14-amp-it-up.md` — 492w
+- 2015-06-08 — [What 70m Thread Users Mean for B2B Marketers](https://www.tomtunguz.com/multi-threaded-marketing/) — `2015-06-08-multi-threaded-marketing.md` — 324w
+- 2015-06-08 — [The Digital Hot Dog : Marketing in the Age of AI](https://www.tomtunguz.com/webinar-in-the-age-ai/) — `2015-06-08-webinar-in-the-age-ai.md` — 260w
+- 2015-06-08 — [Should Your Startup Employ Both Assisted and Unassisted Trials to Acquire Customers?](https://www.tomtunguz.com/assisted-and-unassisted-strategy/) — `2015-06-08-assisted-and-unassisted-strategy.md` — 615w
+- 2015-05-28 — [The State of the Startup IPO Market](https://www.tomtunguz.com/the-state-of-the-ipo-market/) — `2015-05-28-the-state-of-the-ipo-market.md` — 431w
+- 2015-05-26 — [Covid's Impact on Software Sales Efficiency](https://www.tomtunguz.com/sales-efficiency-covid/) — `2015-05-26-sales-efficiency-covid.md` — 245w
+- 2015-05-07 — [How to Develop Best in Class Sales Efficiency](https://www.tomtunguz.com/net-dollar-retention-correlations/) — `2015-05-07-net-dollar-retention-correlations.md` — 527w
+- 2015-04-30 — [Producing Charts with AI](https://www.tomtunguz.com/data-analysis-gpt/) — `2015-04-30-data-analysis-gpt.md` — 280w
+- 2015-04-28 — [The Identity Crisis Facing Open Source Companies in the Cloud](https://www.tomtunguz.com/open-source-cloud-identity-crisis/) — `2015-04-28-open-source-cloud-identity-crisis.md` — 732w
+- 2015-03-10 — [Pipeline Supply Shocks in SaaS Sales](https://www.tomtunguz.com/pipeline-sales-cycle/) — `2015-03-10-pipeline-sales-cycle.md` — 309w
+- 2015-03-06 — [The Fundraising Market Has Changed, But Not in the Way I Thought](https://www.tomtunguz.com/fundraising-market-q1-2020/) — `2015-03-06-fundraising-market-q1-2020.md` — 377w
+- 2015-03-06 — [Step-Ups & Duration : The Shape of Things to Come to the Series A in 2024](https://www.tomtunguz.com/the-typical-round-in-2023/) — `2015-03-06-the-typical-round-in-2023.md` — 204w
+- 2015-02-17 — [Pulp Nonfiction : What I Learned Writing a Blog Post with ChatGPT](https://www.tomtunguz.com/pulp-nonfiction/) — `2015-02-17-pulp-nonfiction.md` — 391w
+- 2015-01-30 — [The Unforeseen Benefits of Online Events](https://www.tomtunguz.com/vevents/) — `2015-01-30-vevents.md` — 510w
+- 2015-01-13 — [The Rise of the Agent Manager](https://www.tomtunguz.com/how-many-agents-can-you-manage/) — `2015-01-13-how-many-agents-can-you-manage.md` — 368w
+- 2015-01-07 — [How Many Technologies Can a Company Adopt at Once?](https://www.tomtunguz.com/how-many-technologies-can-a-company-adopt-at-once/) — `2015-01-07-how-many-technologies-can-a-company-adopt-at-once.md` — 325w
+- 2014-12-16 — [Where Have All the Angels Gone?](https://www.tomtunguz.com/where-have-all-the-angels-gone/) — `2014-12-16-where-have-all-the-angels-gone.md` — 409w
+- 2014-12-11 — [Samsara S](https://www.tomtunguz.com/samsara-s-1/) — `2014-12-11-samsara-s-1.md` — 503w
+- 2014-12-05 — [The Velocity of Money in Startupland](https://www.tomtunguz.com/vc-market-mid-2021/) — `2014-12-05-vc-market-mid-2021.md` — 304w
+- 2014-11-05 — [Per Seat or Per Use Pricing: A Framework for Evaluating the Right Strategy for Your Startup](https://www.tomtunguz.com/seat-vs-usage-based-pricing/) — `2014-11-05-seat-vs-usage-based-pricing.md` — 585w
+- 2014-11-04 — [Is Compensation Stagnation to Blame for the Great Resignation?](https://www.tomtunguz.com/employee_expense_inflation_2021/) — `2014-11-04-employee_expense_inflation_2021.md` — 327w
+- 2014-10-08 — [The Fastest Growing Sectors of Startup Fundraising in 2020](https://www.tomtunguz.com/fastest-growing-startup-categories-2021/) — `2014-10-08-fastest-growing-startup-categories-2021.md` — 426w
+- 2014-09-22 — [Benchmarking Slack's S](https://www.tomtunguz.com/slack-s-1-analysis/) — `2014-09-22-slack-s-1-analysis.md` — 687w
+- 2014-09-22 — [Benchmarking PagerDuty's S](https://www.tomtunguz.com/benchmarking-pagerduty-s-s-1-how-7-key-metrics-stack-up/) — `2014-09-22-benchmarking-pagerduty-s-s-1-how-7-key-metrics-stack-up.md` — 504w
+- 2014-08-04 — [Figma's 50x ARR Multiple & What it Means for Startup Fundraising](https://www.tomtunguz.com/figma-acquisition/) — `2014-08-04-figma-acquisition.md` — 284w
+- 2014-07-31 — [The Three Types of Customer Success Teams](https://www.tomtunguz.com/customer-success-evolution/) — `2014-07-31-customer-success-evolution.md` — 508w
+- 2014-07-21 — [How Much Is A Venture Firm Worth?](https://www.tomtunguz.com/how-much-is-a-vc-firm-worth/) — `2014-07-21-how-much-is-a-vc-firm-worth.md` — 428w
+- 2014-05-05 — [The 13 Critical Questions to Answer about Your Startup's Product Marketing](https://www.tomtunguz.com/the-13-critical-questions-to-answer-about-your-startup-s-product-marketing/) — `2014-05-05-the-13-critical-questions-to-answer-about-your-startup-s-product-marketing.md` — 441w
+- 2014-05-05 — [Office Hours with Hollie Wegman](https://www.tomtunguz.com/office-hours-with-hollie-wegman/) — `2014-05-05-office-hours-with-hollie-wegman.md` — 161w
+- 2014-04-04 — [Do SaaS Startups Still Require Less Capital than 10 Years Ago?](https://www.tomtunguz.com/capital-efficiency-five-years-later/) — `2014-04-04-capital-efficiency-five-years-later.md` — 489w
+- 2014-03-19 — [PE in VC in 22](https://www.tomtunguz.com/pe-vc-2022/) — `2014-03-19-pe-vc-2022.md` — 332w
+- 2014-01-30 — [10 Predictions for Data at the Impact Summit](https://www.tomtunguz.com/ten-predictions-for-data-2022/) — `2014-01-30-ten-predictions-for-data-2022.md` — 236w
+- 2014-01-27 — [The Importance of Building & Maintaining Great Developer Documentation](https://www.tomtunguz.com/office-hours-pavi-sandhu-developer-docs/) — `2014-01-27-office-hours-pavi-sandhu-developer-docs.md` — 249w
+- 2014-01-27 — [How Developer Marketing Parallels Consumer Marketing](https://www.tomtunguz.com/developer-and-consumer-marketing-parallels/) — `2014-01-27-developer-and-consumer-marketing-parallels.md` — 491w
+- 2014-01-07 — [How to Maximize the Impact of Your Website When Targeting Two Personas](https://www.tomtunguz.com/marketing-to-two-different-people-at-the-same-time/) — `2014-01-07-marketing-to-two-different-people-at-the-same-time.md` — 457w
+- 2014-01-01 — [Integrations as Competitive Advantage](https://www.tomtunguz.com/integrations-as-advantage/) — `2014-01-01-integrations-as-advantage.md` — 246w
+- 2014-01-01 — [Higher Levels of Abstraction](https://www.tomtunguz.com/higher-level-of-abstraction/) — `2014-01-01-higher-level-of-abstraction.md` — 409w
+- 2013-12-17 — [The Software Industry's Productivity Boom: Analyzing Revenue per Employee Trends](https://www.tomtunguz.com/revenue-per-employee-2023/) — `2013-12-17-revenue-per-employee-2023.md` — 329w
+- 2013-11-11 — [The Free Trial Survey on the Saastr Podcast and Hitting a Blogging Milestone](https://www.tomtunguz.com/saastr-podcast/) — `2013-11-11-saastr-podcast.md` — 269w
+- 2013-08-13 — [Omni](https://www.tomtunguz.com/omni-series-a/) — `2013-08-13-omni-series-a.md` — 265w
+- 2013-06-17 — [What Customer Demand and Your Startup Balance Sheets Imply about Your Startup's Strategy](https://www.tomtunguz.com/2x2-strategy-balance-sheet-customer-demand/) — `2013-06-17-2x2-strategy-balance-sheet-customer-demand.md` — 491w
+- 2013-05-22 — [The Best Time of Year to Raise for Your Startup](https://www.tomtunguz.com/fundraising-seasonality/) — `2013-05-22-fundraising-seasonality.md` — 182w
+- 2013-05-07 — [Seizing the Moment: Strategies for Startups to Outmaneuver Competition in a Turning Economy](https://www.tomtunguz.com/big-balance-sheet-as-an-advantage/) — `2013-05-07-big-balance-sheet-as-an-advantage.md` — 258w
+- 2013-05-03 — [The 10x Salesperson](https://www.tomtunguz.com/the-10x-ae/) — `2013-05-03-the-10x-ae.md` — 223w
+- 2013-04-24 — [Writing Software for Robots](https://www.tomtunguz.com/writing-software-for-robots/) — `2013-04-24-writing-software-for-robots.md` — 353w
+- 2013-03-27 — [How Much Should You Bet To Maximize Your Investments, or Your Company's Odds of Success?](https://www.tomtunguz.com/bet-sizing-kelly-criterion/) — `2013-03-27-bet-sizing-kelly-criterion.md` — 405w
+- 2013-03-22 — [Answering Readers' Questions about the Free Trial Survey](https://www.tomtunguz.com/readers-questions-about-the-free-trial-survey/) — `2013-03-22-readers-questions-about-the-free-trial-survey.md` — 439w
+- 2013-03-20 — [Four Marketing Principles That Redefine Markets from Klaviyo's Former CMO](https://www.tomtunguz.com/your-icp/) — `2013-03-20-your-icp.md` — 691w
+- 2013-02-14 — [Vercel's AI Sales Agent : 10 SDRs Down to 1 in Six Weeks](https://www.tomtunguz.com/vercel-ai-sales-agents-jeanne-grosser/) — `2013-02-14-vercel-ai-sales-agents-jeanne-grosser.md` — 374w
+- 2012-11-13 — [Notes from Office Hours with Lisa Lawson](https://www.tomtunguz.com/lisa-lawson-notes/) — `2012-11-13-lisa-lawson-notes.md` — 556w
+- 2012-11-02 — [The Price of Distinctiveness](https://www.tomtunguz.com/price-for-distinctiveness/) — `2012-11-02-price-for-distinctiveness.md` — 177w
+- 2012-09-10 — [One of the Biggest Public Offerings in 20 Years](https://www.tomtunguz.com/btc-etf-flows/) — `2012-09-10-btc-etf-flows.md` — 178w
+- 2012-08-22 — [Antifragility as a Competitive Advantage in 2022](https://www.tomtunguz.com/antifragile-2022-recession/) — `2012-08-22-antifragile-2022-recession.md` — 183w

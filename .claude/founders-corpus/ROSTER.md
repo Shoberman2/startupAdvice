@@ -9,66 +9,66 @@ Each founder ships with a URL-only `INDEX.md`; optional local post files are gen
 |---|---|---|---|---|---|
 | 1 | Paul Graham | Y Combinator | 229 | 546k | `paul-graham` |
 | 2 | Patrick Collison | Stripe | 12 | 16k | `patrick-collison` |
-| 3 | Sam Altman | OpenAI / Y Combinator | 54 | 41k | `sam-altman` |
+| 3 | Sam Altman | OpenAI / Y Combinator | 116 | 98k | `sam-altman` |
 | 4 | Garry Tan | Y Combinator / Initialized | 223 | 119k | `garry-tan` |
 | 5 | Tobi Lutke | Shopify | 9 | 8k | `tobi-lutke` |
-| 6 | Matt Mullenweg | WordPress / Automattic | 32 | 10k | `matt-mullenweg` |
+| 6 | Matt Mullenweg | WordPress / Automattic | 346 | 141k | `matt-mullenweg` |
 | 7 | Michael Seibel | Justin.tv / Y Combinator | 21 | 18k | `michael-seibel` |
-| 8 | Reid Hoffman | LinkedIn | 86 | 181k | `reid-hoffman` |
-| 9 | Caterina Fake | Flickr / Hunch | 83 | 39k | `caterina-fake` |
+| 8 | Reid Hoffman | LinkedIn | 261 | 373k | `reid-hoffman` |
+| 9 | Caterina Fake | Flickr / Hunch | 191 | 78k | `caterina-fake` |
 
 ## Product, growth & craft
 
 | # | Name | Company | Posts | Words | Slug |
 |---|---|---|---|---|---|
-| 10 | Eugene Wei | Remains of the Day | 93 | 167k | `eugene-wei` |
-| 11 | Steve Blank | E.piphany / Lean LaunchPad | 98 | 267k | `steve-blank` |
-| 12 | Eric Ries | IMVU / Lean Startup | 100 | 94k | `eric-ries` |
-| 13 | Dharmesh Shah | HubSpot | 70 | 71k | `dharmesh-shah` |
-| 14 | Joel Spolsky | Fog Creek / Stack Overflow | 40 | 10k | `joel-spolsky` |
-| 15 | Patrick McKenzie | Bingo Card Creator / Stripe | 9 | 30k | `patrick-mckenzie` |
-| 16 | Andrew Chen | Reforge / a16z | 100 | 108k | `andrew-chen` |
-| 17 | Jeff Atwood | Stack Overflow / Discourse | 99 | 105k | `jeff-atwood` |
-| 18 | Seth Godin | Yoyodyne / Squidoo | 47 | 14k | `seth-godin` |
-| 19 | Brian Balfour | Reforge | 95 | 113k | `brian-balfour` |
-| 20 | Nir Eyal | AdNectar | 100 | 119k | `nir-eyal` |
-| 21 | Lenny Rachitsky | Localmind / Airbnb | 81 | 64k | `lenny-rachitsky` |
-| 22 | Julie Zhuo | Sundial | 77 | 109k | `julie-zhuo` |
-| 23 | Dan Shipper | Firefly / Every | 89 | 87k | `dan-shipper` |
-| 24 | Hiten Shah | KISSmetrics / Nira | 65 | 50k | `hiten-shah` |
+| 10 | Eugene Wei | Remains of the Day | 866 | 605k | `eugene-wei` |
+| 11 | Steve Blank | E.piphany / Lean LaunchPad | 675 | 885k | `steve-blank` |
+| 12 | Eric Ries | IMVU / Lean Startup | 390 | 436k | `eric-ries` |
+| 13 | Dharmesh Shah | HubSpot | 468 | 431k | `dharmesh-shah` |
+| 14 | Joel Spolsky | Fog Creek / Stack Overflow | 567 | 416k | `joel-spolsky` |
+| 15 | Patrick McKenzie | Bingo Card Creator / Stripe | 10 | 41k | `patrick-mckenzie` |
+| 16 | Andrew Chen | Reforge / a16z | 585 | 524k | `andrew-chen` |
+| 17 | Jeff Atwood | Stack Overflow / Discourse | 988 | 735k | `jeff-atwood` |
+| 18 | Seth Godin | Yoyodyne / Squidoo | 535 | 140k | `seth-godin` |
+| 19 | Brian Balfour | Reforge | 120 | 138k | `brian-balfour` |
+| 20 | Nir Eyal | AdNectar | 409 | 1135k | `nir-eyal` |
+| 21 | Lenny Rachitsky | Localmind / Airbnb | 718 | 741k | `lenny-rachitsky` |
+| 22 | Julie Zhuo | Sundial | 75 | 105k | `julie-zhuo` |
+| 23 | Dan Shipper | Firefly / Every | 101 | 94k | `dan-shipper` |
+| 24 | Hiten Shah | KISSmetrics / Nira | 76 | 55k | `hiten-shah` |
 
 ## Bootstrappers & indie
 
 | # | Name | Company | Posts | Words | Slug |
 |---|---|---|---|---|---|
-| 25 | Jason Fried | 37signals / Basecamp | 93 | 31k | `jason-fried` |
-| 26 | David Heinemeier Hansson | 37signals / Rails | 98 | 51k | `david-heinemeier-hansson` |
-| 27 | Derek Sivers | CD Baby | 42 | 28k | `derek-sivers` |
-| 28 | Pieter Levels | Nomad List / Remote OK | 46 | 13k | `pieter-levels` |
-| 29 | David Cummings | Pardot / Atlanta Tech Village | 100 | 51k | `david-cummings` |
-| 30 | Jason Cohen | WP Engine / Smart Bear | 100 | 180k | `jason-cohen` |
+| 25 | Jason Fried | 37signals / Basecamp | 185 | 69k | `jason-fried` |
+| 26 | David Heinemeier Hansson | 37signals / Rails | 494 | 283k | `david-heinemeier-hansson` |
+| 27 | Derek Sivers | CD Baby | 934 | 1114k | `derek-sivers` |
+| 28 | Pieter Levels | Nomad List / Remote OK | 350 | 308k | `pieter-levels` |
+| 29 | David Cummings | Pardot / Atlanta Tech Village | 967 | 371k | `david-cummings` |
+| 30 | Jason Cohen | WP Engine / Smart Bear | 226 | 303k | `jason-cohen` |
 | 31 | Rob Walling | Drip / TinySeed | 92 | 105k | `rob-walling` |
-| 32 | Arvid Kahl | FeedbackPanda | 93 | 169k | `arvid-kahl` |
-| 33 | Matt Blumberg | Return Path / Bolster | 60 | 17k | `matt-blumberg` |
-| 34 | Nathan Barry | ConvertKit | 84 | 65k | `nathan-barry` |
+| 32 | Arvid Kahl | FeedbackPanda | 419 | 1413k | `arvid-kahl` |
+| 33 | Matt Blumberg | Return Path / Bolster | 888 | 397k | `matt-blumberg` |
+| 34 | Nathan Barry | ConvertKit | 375 | 1667k | `nathan-barry` |
 | 35 | Amy Hoy | Noko / Stacking the Bricks | 24 | 40k | `amy-hoy` |
-| 36 | Noah Kagan | AppSumo | 100 | 70k | `noah-kagan` |
-| 37 | Anne-Laure Le Cunff | Ness Labs | 100 | 113k | `anne-laure-le-cunff` |
+| 36 | Noah Kagan | AppSumo | 579 | 513k | `noah-kagan` |
+| 37 | Anne-Laure Le Cunff | Ness Labs | 637 | 818k | `anne-laure-le-cunff` |
 
 ## Investors & VCs
 
 | # | Name | Company | Posts | Words | Slug |
 |---|---|---|---|---|---|
 | 38 | Naval Ravikant | AngelList | 201 | 292k | `naval` |
-| 39 | Fred Wilson | Union Square Ventures | 92 | 40k | `fred-wilson` |
-| 40 | Elad Gil | Color / Mixer Labs | 94 | 163k | `elad-gil` |
-| 41 | Tomasz Tunguz | Theory Ventures | 19 | 8k | `tomasz-tunguz` |
-| 42 | Brad Feld | Foundry Group / Techstars | 93 | 49k | `brad-feld` |
-| 43 | Chris Dixon | Hunch / a16z crypto | 83 | 52k | `chris-dixon` |
-| 44 | Hunter Walk | Homebrew | 51 | 21k | `hunter-walk` |
-| 45 | David Skok | SilverStream / Matrix Partners | 90 | 179k | `david-skok` |
-| 46 | Bill Gurley | Benchmark | 93 | 97k | `bill-gurley` |
+| 39 | Fred Wilson | Union Square Ventures | 737 | 244k | `fred-wilson` |
+| 40 | Elad Gil | Color / Mixer Labs | 203 | 300k | `elad-gil` |
+| 41 | Tomasz Tunguz | Theory Ventures | 914 | 364k | `tomasz-tunguz` |
+| 42 | Brad Feld | Foundry Group / Techstars | 926 | 412k | `brad-feld` |
+| 43 | Chris Dixon | Hunch / a16z crypto | 290 | 140k | `chris-dixon` |
+| 44 | Hunter Walk | Homebrew | 866 | 526k | `hunter-walk` |
+| 45 | David Skok | SilverStream / Matrix Partners | 118 | 216k | `david-skok` |
+| 46 | Bill Gurley | Benchmark | 116 | 165k | `bill-gurley` |
 | 47 | Marc Andreessen | Netscape / a16z | 13 | 21k | `marc-andreessen` |
-| 48 | Balaji Srinivasan | Counsyl / Earn.com | 97 | 176k | `balaji-srinivasan` |
-| 49 | Om Malik | GigaOm | 97 | 98k | `om-malik` |
-| 50 | Ben Casnocha | Comcate / Village Global | 90 | 115k | `ben-casnocha` |
+| 48 | Balaji Srinivasan | Counsyl / Earn.com | 96 | 171k | `balaji-srinivasan` |
+| 49 | Om Malik | GigaOm | 863 | 555k | `om-malik` |
+| 50 | Ben Casnocha | Comcate / Village Global | 843 | 574k | `ben-casnocha` |
