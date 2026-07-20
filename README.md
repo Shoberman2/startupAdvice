@@ -1,6 +1,6 @@
 # Founder Panel
 
-**Source-grounded startup office hours for Claude Code.**
+**Source-grounded one on one startup advice for Claude Code.**
 
 Founder Panel is two open-source Claude Code skills backed by URL indexes for 50 founders and investors and 4,057 public essays and posts:
 

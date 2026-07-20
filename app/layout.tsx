@@ -6,7 +6,7 @@ const siteUrl = deploymentHost ? `https://${deploymentHost}` : "http://localhost
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
-  title: "Founder Panel · Startup office hours for Claude Code",
+  title: "Founder Panel · One on one startup advice for Claude Code",
   description:
     "Two open-source Claude Code commands for source-grounded conversations with 50 founders and investors.",
   keywords: ["Claude Code", "Claude skills", "startup advice", "founder advice", "open source"],
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Founder Panel",
-    description: "Source-grounded startup office hours for Claude Code.",
+    description: "Source-grounded one on one startup advice for Claude Code.",
     images: ["/og.png"],
   },
 };

@@ -58,7 +58,7 @@ export default function HomePage() {
           <em className="hl">playbook</em>.
         </h1>
         <p className="hero-dek fade-up" style={stagger(110)}>
-          Two Claude Code commands for source-grounded startup advice. Take office hours with one
+          Two Claude Code commands for source-grounded startup advice. Go one on one with a
           founder, or seat a board that debates your idea. Every answer is drawn from what they
           actually wrote and <strong>cited back to the source</strong>.
         </p>
@@ -121,22 +121,20 @@ export default function HomePage() {
       <section className="commands-section page-shell" id="commands">
         <Reveal className="section-intro">
           <h2>
-            Office hours when you need <em className="hl">focus</em>. A board room when you need{" "}
+            One on one when you need <em className="hl">focus</em>. A board room when you need{" "}
             <em className="hl">friction</em>.
           </h2>
         </Reveal>
 
         <article className="command-feature conversation-feature">
           <Reveal className="command-copy">
-            <div className="command-number">01</div>
             <code className="command-name">/founder-conversation</code>
             <h3>
               Choose one mind. <em className="hl">Go deep.</em>
             </h3>
             <p>
               Pick any of the {stats.voices} voices. Claude reads your idea memo, pulls that
-              person&apos;s most relevant writing, and runs a focused office-hours conversation with
-              receipts.
+              person&apos;s most relevant writing, and runs a focused one on one with receipts.
             </p>
             <ul className="feature-list">
               <li>One founder or investor at a time</li>
@@ -176,7 +174,6 @@ export default function HomePage() {
 
         <article className="command-feature board-feature">
           <Reveal className="command-copy">
-            <div className="command-number">02</div>
             <code className="command-name">/board-room</code>
             <h3>
               Seat a board that <em className="hl">disagrees usefully</em>.
@@ -233,7 +230,6 @@ export default function HomePage() {
           <ol className="steps">
             <li>
               <Reveal className="step-inner">
-                <span>01</span>
                 <div>
                   <h3>Bring an idea</h3>
                   <p>Start fresh or reopen a private Markdown memo. Your context never leaves your local workspace.</p>
@@ -242,7 +238,6 @@ export default function HomePage() {
             </li>
             <li>
               <Reveal className="step-inner" delay={110}>
-                <span>02</span>
                 <div>
                   <h3>Choose your room</h3>
                   <p>Select one voice for depth, or assemble a board of two to five for productive disagreement.</p>
@@ -251,7 +246,6 @@ export default function HomePage() {
             </li>
             <li>
               <Reveal className="step-inner" delay={220}>
-                <span>03</span>
                 <div>
                   <h3>Follow every claim</h3>
                   <p>Advice links to the original essays. When the sources are silent, it says so instead of inventing.</p>
@@ -305,7 +299,7 @@ export default function HomePage() {
       <footer className="site-footer page-shell">
         <div>
           <a className="wordmark" href="#top">Founder Panel<span className="wordmark-mark">/</span></a>
-          <p>Open-source startup office hours for Claude Code.</p>
+          <p>Open-source, source-grounded startup advice for Claude Code.</p>
         </div>
         <div className="footer-links">
           <a href={GITHUB_URL} target="_blank" rel="noreferrer">GitHub ↗</a>
