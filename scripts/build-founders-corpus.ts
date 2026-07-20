@@ -167,7 +167,7 @@ async function writeCorpus(slug: string, posts: Post[]): Promise<{ posts: number
   return { posts: written, words: totalWords };
 }
 
-async function migrateGarry(): Promise<FounderReport> {
+export async function migrateGarry(): Promise<FounderReport> {
   const dir = join(OUT_ROOT, "garry-tan");
   try {
     await stat(join(dir, "INDEX.md"));
@@ -397,7 +397,7 @@ async function rssContentPosts(home: string): Promise<Post[] | null> {
   return null;
 }
 
-async function buildFounder(slug: string, maxPosts: number, force: boolean): Promise<FounderReport> {
+export async function buildFounder(slug: string, maxPosts: number, force: boolean): Promise<FounderReport> {
   if (slug === "garry-tan") return migrateGarry();
 
   if (!force) {
@@ -571,4 +571,4 @@ async function main() {
   console.log(`\nDone. ${passing} founders passing. Roster: ${join(OUT_ROOT, "ROSTER.md")}`);
 }
 
-main();
+if (import.meta.main) void main();

@@ -83,18 +83,19 @@ a:focus-visible {
 
 .wordmark {
   display: inline-flex;
-  align-items: baseline;
-  gap: 5px;
+  align-items: center;
+  gap: 8px;
   font-family: var(--serif);
   font-size: 21px;
   font-weight: 600;
   letter-spacing: -0.02em;
 }
 
-.wordmark-mark {
-  color: var(--red);
-  font-family: var(--mono);
-  font-weight: 500;
+.wordmark-logo {
+  flex: 0 0 auto;
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
 }
 
 .site-header nav {
