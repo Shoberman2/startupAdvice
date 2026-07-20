@@ -1,5 +1,6 @@
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
+import sharp from "sharp";
 import { describe, expect, test } from "vitest";
 
 const ROOT = join(import.meta.dirname, "..");
@@ -24,13 +25,35 @@ describe("Product Hunt launch assets", () => {
     ["public/brand/founder-panel-logo.png", 1254],
     ["public/brand/founder-panel-product-hunt.png", 930],
     ["app/icon.png", 512],
-  ])("ships a square, transparent RGBA PNG at %s", (relativePath, size) => {
+  ])("ships a square, opaque paper-background RGBA PNG at %s", async (relativePath, size) => {
     expect(pngMetadata(relativePath)).toEqual({
       width: size,
       height: size,
       bitDepth: 8,
       colorType: 6,
     });
+
+    const { data, info } = await sharp(join(ROOT, relativePath))
+      .ensureAlpha()
+      .raw()
+      .toBuffer({ resolveWithObject: true });
+    const pixelAt = (x: number, y: number) => {
+      const offset = (y * info.width + x) * info.channels;
+      return [...data.subarray(offset, offset + 4)];
+    };
+
+    expect([
+      pixelAt(0, 0),
+      pixelAt(info.width - 1, 0),
+      pixelAt(0, info.height - 1),
+      pixelAt(info.width - 1, info.height - 1),
+    ]).toEqual(Array.from({ length: 4 }, () => [244, 240, 231, 255]));
+
+    let minimumAlpha = 255;
+    for (let offset = 3; offset < data.length; offset += info.channels) {
+      minimumAlpha = Math.min(minimumAlpha, data[offset]);
+    }
+    expect(minimumAlpha).toBe(255);
   });
 
   test("renders the compact logo in both the header and footer", () => {

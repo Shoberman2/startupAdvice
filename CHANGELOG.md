@@ -4,7 +4,7 @@
 
 ### Added
 
-- You can launch Founder Panel with a classic `FP` logo, transparent Product Hunt thumbnail, app icon, and ready-to-paste listing copy in `PRODUCT_HUNT.md`.
+- You can launch Founder Panel with a classic `FP` logo, platform-matched Product Hunt thumbnail, app icon, and ready-to-paste listing copy in `PRODUCT_HUNT.md`.
 - Release checks now validate the launch images, responsive safeguards, corpus merge precedence, and supported `--only` argument forms with 49 automated tests.
 
 ### Fixed

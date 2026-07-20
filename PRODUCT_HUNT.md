@@ -10,7 +10,7 @@ Founder Panel adds two open-source Claude Code commands for AI syntheses grounde
 
 ## Thumbnail
 
-Upload `public/brand/founder-panel-product-hunt.png`. It is a square transparent PNG; Product Hunt recommends a square thumbnail at 240 × 240 or larger.
+Upload `public/brand/founder-panel-product-hunt.png`. It is a square PNG on the same warm paper background as the platform; Product Hunt recommends a square thumbnail at 240 × 240 or larger.
 
 Product URL: https://startup-advice-rho.vercel.app
 

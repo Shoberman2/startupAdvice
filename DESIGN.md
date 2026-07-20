@@ -35,7 +35,7 @@ or AI imagery.
 - **Letterform:** exact capital `FP`, heavy black engraved/woodcut character
 - **Accent:** one restrained diagonal slash in brick red `#A03B2A`
 - **Treatment:** flat, vector-like, high contrast, no gradients or shadows
-- **Background:** transparent in every shipped asset
+- **Background:** opaque warm paper `#F4F0E7` in every shipped asset
 - **Avoid:** robots, light bulbs, speech bubbles, rockets, brains, and extra text
 - **Master:** `public/brand/founder-panel-logo.png`
 - **Square launch asset:** `public/brand/founder-panel-product-hunt.png`
