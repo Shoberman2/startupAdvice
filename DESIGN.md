@@ -29,15 +29,22 @@ Avoid generic SaaS patterns: gradients, bubbly cards, icon grids, oversized pill
 
 The single page contains:
 
-1. a sticky, blurred-glass wordmark navigation bar with a GitHub action;
-2. a large, plain-language hero explaining the product, with staggered entrance;
-3. proof points (count-up statistics) and a self-typing terminal demo;
-4. a full-bleed marquee of all 43 roster names;
+1. a sticky, blurred-glass wordmark navigation bar with a GitHub button;
+2. a large, centered, plain-language hero with staggered entrance, one red italic
+   accent phrase per heading (`.hl`), a licensed avatar cluster, and a
+   four-cell statistics row;
+3. a self-typing terminal demo;
+4. a full-bleed marquee of every roster member with a licensed portrait or
+   initials medallion;
 5. two detailed previews: one founder conversation and one three-person board;
-6. a three-step explanation of source grounding;
-7. clone-and-run installation instructions;
-8. a prominent non-affiliation disclosure; and
-9. image-license attribution.
+6. a centered three-step explanation of source grounding on the dark band;
+7. clone-and-run installation instructions on a deep-paper band;
+8. a prominent, centered non-affiliation statement card; and
+9. generated portrait attribution from data/founder-portraits.json.
+
+No eyebrow labels or generic tag chips anywhere. Section intros are centered;
+emphasis comes from the single red italic accent per heading, never from
+additional badges.
 
 The primary action is always GitHub. There are no sign-up, payment, or in-product actions.
 

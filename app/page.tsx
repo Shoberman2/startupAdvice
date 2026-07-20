@@ -53,69 +53,63 @@ export default function HomePage() {
       </header>
 
       <section className="hero page-shell">
-        <div className="hero-copy">
-          <p className="eyebrow fade-up" style={stagger(0)}>
-            Free, open-source Claude Code skills
-          </p>
-          <h1 className="fade-up" style={stagger(90)}>
-            Put your startup idea in front of the founders who wrote the{" "}
-            <em className="hl">playbook</em>.
-          </h1>
-          <p className="hero-dek fade-up" style={stagger(190)}>
-            Two Claude Code commands for source-grounded startup advice. Take office hours with one
-            founder, or seat a board that debates your idea. Every answer is drawn from what they
-            actually wrote and cited back to the source.
-          </p>
-          <div className="hero-actions fade-up" style={stagger(290)}>
-            <a className="button button-primary" href={GITHUB_URL} target="_blank" rel="noreferrer">
-              Get it free on GitHub <span className="button-arrow" aria-hidden="true">↗</span>
-            </a>
-            <a className="text-link" href="#commands">
-              Watch it work <span aria-hidden="true">↓</span>
-            </a>
+        <h1 className="fade-up" style={stagger(0)}>
+          Put your startup idea in front of the founders who wrote the{" "}
+          <em className="hl">playbook</em>.
+        </h1>
+        <p className="hero-dek fade-up" style={stagger(110)}>
+          Two Claude Code commands for source-grounded startup advice. Take office hours with one
+          founder, or seat a board that debates your idea. Every answer is drawn from what they
+          actually wrote and <strong>cited back to the source</strong>.
+        </p>
+        <div className="hero-actions fade-up" style={stagger(210)}>
+          <a className="button button-primary" href={GITHUB_URL} target="_blank" rel="noreferrer">
+            Get it free on GitHub <span className="button-arrow" aria-hidden="true">↗</span>
+          </a>
+          <a className="text-link" href="#commands">
+            Watch it work <span aria-hidden="true">↓</span>
+          </a>
+        </div>
+        <p className="cta-note fade-up" style={stagger(280)}>
+          Free and open source · Works with the Claude Code you already have · 2-minute setup
+        </p>
+
+        <div className="hero-founders fade-up" style={stagger(360)} aria-label="Featured voices">
+          <div className="avatar-stack" aria-hidden="true">
+            <Image src="/founders/paul-graham.jpg" alt="" width={240} height={320} />
+            <Image src="/founders/naval-ravikant.png" alt="" width={220} height={220} />
+            <Image src="/founders/garry-tan.jpg" alt="" width={220} height={220} />
+            <Image src="/founders/patrick-collison.jpg" alt="" width={220} height={220} />
+            <span className="avatar-more">+{stats.voices - 4}</span>
           </div>
-          <p className="cta-note fade-up" style={stagger(360)}>
-            Open source · Works with the Claude Code you already have · 2-minute setup
+          <p>
+            Paul Graham, Naval Ravikant, Garry Tan, Patrick Collison and {stats.voices - 4} more,
+            argued from their own writing only.
           </p>
         </div>
 
-        <aside className="hero-rail fade-up" style={stagger(420)} aria-label="Product facts">
-          <div className="rail-avatars">
-            <div className="avatar-stack" aria-hidden="true">
-              <Image src="/founders/paul-graham.jpg" alt="" width={240} height={320} />
-              <Image src="/founders/naval-ravikant.png" alt="" width={220} height={220} />
-              <Image src="/founders/garry-tan.jpg" alt="" width={220} height={220} />
-              <Image src="/founders/patrick-collison.jpg" alt="" width={220} height={220} />
-              <span className="avatar-more">+{stats.voices - 4}</span>
-            </div>
-            <p>
-              Paul Graham, Naval Ravikant, Garry Tan, Patrick Collison and {stats.voices - 4}{" "}
-              more, argued from their own writing only.
-            </p>
+        <div className="hero-stats fade-up" style={stagger(440)} aria-label="Product facts">
+          <div>
+            <strong>
+              <CountUp value={stats.voices} />
+            </strong>
+            <span>founder and investor voices</span>
           </div>
-          <div className="rail-stats">
-            <div>
-              <strong>
-                <CountUp value={stats.voices} />
-              </strong>
-              <span>founder and investor voices</span>
-            </div>
-            <div>
-              <strong>
-                <CountUp value={stats.posts} />
-              </strong>
-              <span>essays and posts indexed</span>
-            </div>
-            <div>
-              <strong>{stats.millionWords}M</strong>
-              <span>words of primary sources</span>
-            </div>
-            <div>
-              <strong>2</strong>
-              <span>commands, no app, no account</span>
-            </div>
+          <div>
+            <strong>
+              <CountUp value={stats.posts} />
+            </strong>
+            <span>essays and posts indexed</span>
           </div>
-        </aside>
+          <div>
+            <strong>{stats.millionWords}M</strong>
+            <span>words of primary sources</span>
+          </div>
+          <div>
+            <strong>2</strong>
+            <span>commands, no app, no account</span>
+          </div>
+        </div>
 
         <div className="hero-terminal fade-up" style={stagger(520)}>
           <TypingTerminal />
@@ -126,15 +120,19 @@ export default function HomePage() {
 
       <section className="commands-section page-shell" id="commands">
         <Reveal className="section-intro">
-          <p className="eyebrow">Two modes of thinking</p>
-          <h2>Office hours when you need focus. A board room when you need friction.</h2>
+          <h2>
+            Office hours when you need <em className="hl">focus</em>. A board room when you need{" "}
+            <em className="hl">friction</em>.
+          </h2>
         </Reveal>
 
         <article className="command-feature conversation-feature">
           <Reveal className="command-copy">
             <div className="command-number">01</div>
             <code className="command-name">/founder-conversation</code>
-            <h3>Choose one mind. Go deep.</h3>
+            <h3>
+              Choose one mind. <em className="hl">Go deep.</em>
+            </h3>
             <p>
               Pick any of the {stats.voices} voices. Claude reads your idea memo, pulls that
               person&apos;s most relevant writing, and runs a focused office-hours conversation with
@@ -180,7 +178,9 @@ export default function HomePage() {
           <Reveal className="command-copy">
             <div className="command-number">02</div>
             <code className="command-name">/board-room</code>
-            <h3>Seat a board that disagrees usefully.</h3>
+            <h3>
+              Seat a board that <em className="hl">disagrees usefully</em>.
+            </h3>
             <p>
               Choose two to five people. Each member argues only from their own corpus: opening
               views, cross-examination, and a chair who names the real tension before you get
@@ -226,8 +226,9 @@ export default function HomePage() {
       <section className="how-section" id="how-it-works">
         <div className="page-shell how-grid">
           <Reveal className="section-intro">
-            <p className="eyebrow">Public writing in. Receipts out.</p>
-            <h2>Built to sharpen your judgment, not impersonate anyone.</h2>
+            <h2>
+              Built to sharpen your <em className="hl">judgment</em>, not impersonate anyone.
+            </h2>
           </Reveal>
           <ol className="steps">
             <li>
@@ -264,8 +265,9 @@ export default function HomePage() {
       <section className="install-band" id="install">
         <div className="page-shell install-section">
           <Reveal className="install-copy">
-            <p className="eyebrow">Open source · free forever</p>
-            <h2>Clone it. Open Claude Code. Start the conversation.</h2>
+            <h2>
+              Clone it. Open Claude Code. <em className="hl">Start the conversation.</em>
+            </h2>
             <p>
               The skills live in the repository and are discovered automatically by Claude Code. No
               account, hosted dashboard, or API key beyond your existing Claude access. Requires
@@ -292,7 +294,6 @@ export default function HomePage() {
 
       <section className="disclosure-band page-shell" aria-labelledby="disclosure-title">
         <Reveal className="disclosure">
-          <p className="eyebrow">A clear line</p>
           <h2 id="disclosure-title">The founders are sources, not participants.</h2>
           <p>
             Founder Panel produces AI syntheses grounded in public writing. It is not affiliated with, endorsed by,
