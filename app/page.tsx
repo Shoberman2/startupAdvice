@@ -4,6 +4,7 @@ import CountUp from "@/components/landing/CountUp";
 import FounderMarquee from "@/components/landing/FounderMarquee";
 import Reveal from "@/components/landing/Reveal";
 import TypingTerminal from "@/components/landing/TypingTerminal";
+import { loadPortraits } from "@/lib/portraits";
 import { rosterStats } from "@/lib/roster";
 
 const GITHUB_URL = "https://github.com/Shoberman2/startupAdvice";
@@ -33,6 +34,7 @@ const boardMembers = [
 
 export default function HomePage() {
   const stats = rosterStats();
+  const portraits = loadPortraits();
   return (
     <main id="top">
       <header className="site-header">
@@ -310,10 +312,16 @@ export default function HomePage() {
           <a href="#image-credits">Portrait credits</a>
         </div>
         <div className="image-credits" id="image-credits">
-          Portraits via Wikimedia Commons: <a href="https://commons.wikimedia.org/wiki/File:Paulgraham_240x320.jpg">Paul Graham · Sarah Harlin · public domain</a>;{" "}
-          <a href="https://commons.wikimedia.org/wiki/File:Naval2019.png">Naval Ravikant · Edmund Hillary Fellowship · CC BY 3.0</a>;{" "}
-          <a href="https://commons.wikimedia.org/wiki/File:Garry_Tan,_Web_Summit_2018,_November_6_SD5_6949_(45700698642)(portrait_4x3_crop).jpg">Garry Tan · Web Summit · CC BY 2.0</a>; and{" "}
-          <a href="https://commons.wikimedia.org/wiki/File:Patrick_Collison.jpg">Patrick Collison · JD Lasica · CC BY 2.0</a>.
+          Portraits via Wikimedia Commons:{" "}
+          {portraits.map((portrait, index) => (
+            <span key={portrait.slug}>
+              <a href={portrait.sourceFilePage}>
+                {portrait.name} · {portrait.author} · {portrait.license}
+              </a>
+              {index < portraits.length - 1 ? "; " : "."}
+            </span>
+          ))}{" "}
+          Members without a licensed portrait are shown as initials.
         </div>
       </footer>
     </main>

@@ -1,0 +1,218 @@
+[
+  {
+    "slug": "paul-graham",
+    "name": "Paul Graham",
+    "file": "/founders/paul-graham.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:Paulgraham_240x320.jpg",
+    "author": "Sarah Harlin",
+    "license": "Public domain"
+  },
+  {
+    "slug": "naval",
+    "name": "Naval Ravikant",
+    "file": "/founders/naval-ravikant.png",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:Naval2019.png",
+    "author": "Edmund Hillary Fellowship",
+    "license": "CC BY 3.0"
+  },
+  {
+    "slug": "garry-tan",
+    "name": "Garry Tan",
+    "file": "/founders/garry-tan.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:Garry_Tan,_Web_Summit_2018,_November_6_SD5_6949_(45700698642)(portrait_4x3_crop).jpg",
+    "author": "Web Summit",
+    "license": "CC BY 2.0"
+  },
+  {
+    "slug": "patrick-collison",
+    "name": "Patrick Collison",
+    "file": "/founders/patrick-collison.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:Patrick_Collison.jpg",
+    "author": "JD Lasica",
+    "license": "CC BY 2.0"
+  },
+  {
+    "slug": "sam-altman",
+    "name": "Sam Altman",
+    "file": "/founders/roster/sam-altman.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:Sam_Altman_speaking_at_TED_(cropped).jpg",
+    "author": "Steve Jurvetson",
+    "license": "CC BY 2.0"
+  },
+  {
+    "slug": "tobi-lutke",
+    "name": "Tobi Lutke",
+    "file": "/founders/roster/tobi-lutke.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:Tobias_L%C3%BCtke%2C_Shopify.jpg",
+    "author": "Union Eleven",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "slug": "matt-mullenweg",
+    "name": "Matt Mullenweg",
+    "file": "/founders/roster/matt-mullenweg.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:Matt_Mullenweg_(1).jpg",
+    "author": "Joi",
+    "license": "CC BY 2.0"
+  },
+  {
+    "slug": "michael-seibel",
+    "name": "Michael Seibel",
+    "file": "/founders/roster/michael-seibel.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_(48834157928).jpg",
+    "author": "TechCrunch",
+    "license": "CC BY 2.0"
+  },
+  {
+    "slug": "reid-hoffman",
+    "name": "Reid Hoffman",
+    "file": "/founders/roster/reid-hoffman.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:2022_Reid_Hoffman_(cropped).jpg",
+    "author": "U.S. Secretary of Defense",
+    "license": "CC BY 2.0"
+  },
+  {
+    "slug": "caterina-fake",
+    "name": "Caterina Fake",
+    "file": "/founders/roster/caterina-fake.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:Caterina_Fake.jpg",
+    "author": "Robert Scoble from Half Moon Bay, USA",
+    "license": "CC BY 2.0"
+  },
+  {
+    "slug": "steve-blank",
+    "name": "Steve Blank",
+    "file": "/founders/roster/steve-blank.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:Steve_Blank.jpg",
+    "author": "Eric Millette",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "slug": "eric-ries",
+    "name": "Eric Ries",
+    "file": "/founders/roster/eric-ries.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:Eric_Ries2.jpg",
+    "author": "Margot Duane 2012",
+    "license": "CC BY-SA 2.0"
+  },
+  {
+    "slug": "joel-spolsky",
+    "name": "Joel Spolsky",
+    "file": "/founders/roster/joel-spolsky.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:Joel_spolsky_on_20_sept_2007.jpg",
+    "author": "D. McGinnis",
+    "license": "CC BY-SA 2.5 ca"
+  },
+  {
+    "slug": "jeff-atwood",
+    "name": "Jeff Atwood",
+    "file": "/founders/roster/jeff-atwood.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:Long_Zheng%2C_Dan_Rigsby%2C_Jeff_Atwood_(2979598012).jpg",
+    "author": "Long Zheng from Melbourne, Australia",
+    "license": "CC BY-SA 2.0"
+  },
+  {
+    "slug": "seth-godin",
+    "name": "Seth Godin",
+    "file": "/founders/roster/seth-godin.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:Seth_Godin_in_2009.jpg",
+    "author": "Joi Ito",
+    "license": "CC BY 2.0"
+  },
+  {
+    "slug": "nir-eyal",
+    "name": "Nir Eyal",
+    "file": "/founders/roster/nir-eyal.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:TNW_USA_2014_(16269164341).jpg",
+    "author": "The Next Web",
+    "license": "CC BY-SA 2.0"
+  },
+  {
+    "slug": "julie-zhuo",
+    "name": "Julie Zhuo",
+    "file": "/founders/roster/julie-zhuo.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:Julie_Zhuo_Collision_Conf_2018_04.jpg",
+    "author": "Collision Conf",
+    "license": "CC BY 2.0"
+  },
+  {
+    "slug": "david-heinemeier-hansson",
+    "name": "David Heinemeier Hansson",
+    "file": "/founders/roster/david-heinemeier-hansson.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:David_Heinemeier_Hansson_Driver_of_Abu_Dhabi_Proton_Racing's_Porsche_911_RSR_(27225732035)_(cropped).jpg",
+    "author": "David Merrett from Daventry, England",
+    "license": "CC BY 2.0"
+  },
+  {
+    "slug": "derek-sivers",
+    "name": "Derek Sivers",
+    "file": "/founders/roster/derek-sivers.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:Derek_Sivers%2C_November_2014.jpg",
+    "author": "DerekSivers",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "slug": "rob-walling",
+    "name": "Rob Walling",
+    "file": "/founders/roster/rob-walling.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:Rob_Walling.jpg",
+    "author": "49945carlo",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "slug": "noah-kagan",
+    "name": "Noah Kagan",
+    "file": "/founders/roster/noah-kagan.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:Noah_headshot.jpg",
+    "author": "Brandon Wells",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "slug": "fred-wilson",
+    "name": "Fred Wilson",
+    "file": "/founders/roster/fred-wilson.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:FredWilsonJI1.jpg",
+    "author": "Joi Ito",
+    "license": "CC BY 2.0"
+  },
+  {
+    "slug": "brad-feld",
+    "name": "Brad Feld",
+    "file": "/founders/roster/brad-feld.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:Brad-Feld-Techstars-June-24-2013.jpg",
+    "author": "A.b.s",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "slug": "bill-gurley",
+    "name": "Bill Gurley",
+    "file": "/founders/roster/bill-gurley.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:Bill_Gurley%2C_2013.jpg",
+    "author": "TechCrunch",
+    "license": "CC BY 2.0"
+  },
+  {
+    "slug": "marc-andreessen",
+    "name": "Marc Andreessen",
+    "file": "/founders/roster/marc-andreessen.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:Marc_Andreessen-9_(cropped).jpg",
+    "author": "JD Lasica",
+    "license": "CC BY 2.0"
+  },
+  {
+    "slug": "om-malik",
+    "name": "Om Malik",
+    "file": "/founders/roster/om-malik.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:Om_Malik_-_2017_(24077302307)_(cropped).jpg",
+    "author": "Christopher Michel from San Francisco, USA",
+    "license": "CC BY 2.0"
+  },
+  {
+    "slug": "ben-casnocha",
+    "name": "Ben Casnocha",
+    "file": "/founders/roster/ben-casnocha.jpg",
+    "sourceFilePage": "https://commons.wikimedia.org/wiki/File:Ben_Casnocha_(2021).jpg",
+    "author": "Christopher Michel",
+    "license": "CC BY 2.0"
+  }
+]

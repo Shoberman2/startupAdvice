@@ -131,7 +131,7 @@ a:focus-visible {
   display: grid;
   grid-template-columns: minmax(0, 1.28fr) minmax(280px, 0.72fr);
   column-gap: clamp(64px, 9vw, 148px);
-  padding-top: clamp(72px, 10vw, 136px);
+  padding-top: clamp(48px, 6vw, 88px);
   padding-bottom: 72px;
 }
 
@@ -228,8 +228,8 @@ a:focus-visible {
 .hero-rail {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  gap: 44px;
+  justify-content: flex-start;
+  gap: 40px;
   border-left: 1px solid var(--rule);
   padding-left: clamp(28px, 3.2vw, 46px);
 }
@@ -1086,6 +1086,13 @@ a:focus-visible {
     font-size: 16px;
   }
 
+  .marquee-item img,
+  .marquee-initials {
+    width: 28px;
+    height: 28px;
+    margin-right: 10px;
+  }
+
   .commands-section {
     padding-top: 88px;
     padding-bottom: 88px;
@@ -1264,8 +1271,8 @@ a:focus-visible {
 
 .marquee-item {
   display: inline-flex;
-  align-items: baseline;
-  padding-right: 22px;
+  align-items: center;
+  padding-right: 24px;
   white-space: nowrap;
   font-family: var(--serif);
   font-size: 19px;
@@ -1273,8 +1280,32 @@ a:focus-visible {
   letter-spacing: -0.02em;
 }
 
+.marquee-item img,
+.marquee-initials {
+  width: 34px;
+  height: 34px;
+  margin-right: 13px;
+  border: 1px solid var(--rule);
+  border-radius: 50%;
+  object-fit: cover;
+  filter: grayscale(1) contrast(1.05);
+}
+
+.marquee-initials {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--paper);
+  color: var(--red);
+  filter: none;
+  font-family: var(--sans);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
 .marquee-item em {
-  margin-left: 22px;
+  margin-left: 24px;
   color: var(--red);
   font-family: var(--mono);
   font-size: 13px;
