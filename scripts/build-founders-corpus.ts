@@ -18,6 +18,7 @@
  * Usage:
  *   bun run scripts/build-founders-corpus.ts            # all candidates, skip done
  *   bun run scripts/build-founders-corpus.ts --only slug1,slug2 --force
+ *   bun run scripts/build-founders-corpus.ts --only slug1 --only slug2
  */
 
 import { cp, mkdir, readFile, readdir, rm, stat, writeFile } from "node:fs/promises";
@@ -26,6 +27,14 @@ import { checkRobotsTxt, htmlToParagraphs, politeFetch, type Post } from "../lib
 import { scraperFor } from "../lib/scrape/index";
 import { makeGenericScraper } from "../lib/scrape/generic";
 import { FOUNDER_SOURCE_BY_SLUG } from "../data/founder-sources";
+import { parseRoster } from "../lib/roster";
+import {
+  collectOnlySlugs,
+  corpusIndexStats,
+  mergeFounderReports,
+  reportsFromRoster,
+  type FounderReport,
+} from "../lib/founder-corpus-build";
 
 const ROOT = join(import.meta.dirname, "..");
 const OUT_ROOT = join(ROOT, ".claude", "founders-corpus");
@@ -95,14 +104,6 @@ const CATEGORY_ORDER = [
   "Investors & VCs",
 ] as const;
 const CANDIDATE_ORDER = new Map<string, number>(CANDIDATES.map((slug, index) => [slug, index]));
-
-interface FounderReport {
-  slug: string;
-  status: "pass" | "thin" | "robots_disallowed" | "error" | "skipped_existing";
-  posts: number;
-  words: number;
-  note?: string;
-}
 
 function wordCount(paragraphs: string[]): number {
   return paragraphs.join(" ").split(/\s+/).filter(Boolean).length;
@@ -182,9 +183,10 @@ async function migrateGarry(): Promise<FounderReport> {
   }
   const files = (await readdir(dir)).filter((f) => f !== "INDEX.md" && f.endsWith(".md"));
   const index = await readFile(join(dir, "INDEX.md"), "utf8");
-  const stats = /^(\d+) posts, (\d+) words\./m.exec(index);
-  let words = Number(stats?.[2] ?? 0);
-  if (!stats) {
+  const indexed = corpusIndexStats(index);
+  const posts = indexed?.posts ?? files.length;
+  let words = indexed?.words ?? 0;
+  if (!indexed) {
     for (const f of files) {
       const source = await readFile(join(dir, f), "utf8");
       const body = /^---\n[\s\S]*?\n---\n([\s\S]*)$/m.exec(source)?.[1] ?? "";
@@ -193,8 +195,8 @@ async function migrateGarry(): Promise<FounderReport> {
   }
   return {
     slug: "garry-tan",
-    status: files.length >= MIN_POSTS && words >= MIN_WORDS ? "pass" : "thin",
-    posts: files.length,
+    status: posts >= MIN_POSTS && words >= MIN_WORDS ? "pass" : "thin",
+    posts,
     words,
   };
 }
@@ -402,8 +404,7 @@ async function buildFounder(slug: string, maxPosts: number, force: boolean): Pro
     try {
       await stat(join(OUT_ROOT, slug, "INDEX.md"));
       const body = await readFile(join(OUT_ROOT, slug, "INDEX.md"), "utf8");
-      const posts = Number(/^(\d+) posts, (\d+) words/m.exec(body)?.[1] ?? 0);
-      const words = Number(/^(\d+) posts, (\d+) words/m.exec(body)?.[2] ?? 0);
+      const { posts, words } = corpusIndexStats(body) ?? { posts: 0, words: 0 };
       return { slug, status: "skipped_existing", posts, words };
     } catch {
       // Not built yet — proceed.
@@ -519,12 +520,12 @@ async function writeRosterAndReport(reports: FounderReport[]) {
 
 async function main() {
   const args = process.argv.slice(2);
-  const onlyArg = args.indexOf("--only");
   const maxPostsArg = args.indexOf("--max-posts");
   const concurrencyArg = args.indexOf("--concurrency");
   const force = args.includes("--force");
 
-  const slugs = onlyArg > -1 ? args[onlyArg + 1].split(",") : [...CANDIDATES];
+  const onlySlugs = collectOnlySlugs(args);
+  const slugs = onlySlugs.length ? onlySlugs : [...CANDIDATES];
   const maxPosts = maxPostsArg > -1 ? Number(args[maxPostsArg + 1]) : 100;
   const concurrency = concurrencyArg > -1 ? Number(args[concurrencyArg + 1]) : 6;
 
@@ -548,15 +549,24 @@ async function main() {
   });
   await Promise.all(workers);
 
-  // Merge with any prior report so --only reruns don't drop other founders.
-  let merged = reports;
+  // Partial reruns preserve both prior report data and the committed roster.
+  // report.json is intentionally untracked, so a clean clone needs ROSTER.md
+  // as its durable baseline.
+  let prior: FounderReport[] = [];
   try {
-    const prior: FounderReport[] = JSON.parse(await readFile(join(OUT_ROOT, "report.json"), "utf8"));
-    const fresh = new Set(reports.map((r) => r.slug));
-    merged = [...prior.filter((r) => !fresh.has(r.slug)), ...reports];
+    prior = JSON.parse(await readFile(join(OUT_ROOT, "report.json"), "utf8"));
   } catch {
     // No prior report.
   }
+  let roster: FounderReport[] = [];
+  if (onlySlugs.length) {
+    try {
+      roster = reportsFromRoster(parseRoster(await readFile(join(OUT_ROOT, "ROSTER.md"), "utf8")));
+    } catch {
+      // No committed roster baseline.
+    }
+  }
+  const merged = mergeFounderReports({ roster, prior, fresh: reports });
   const passing = await writeRosterAndReport(merged);
   console.log(`\nDone. ${passing} founders passing. Roster: ${join(OUT_ROOT, "ROSTER.md")}`);
 }
