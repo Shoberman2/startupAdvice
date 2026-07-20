@@ -893,10 +893,14 @@ a:focus-visible {
   grid-column: 1 / -1;
   color: var(--muted);
   font-family: var(--sans);
-  font-size: 9px;
+  font-size: 10px;
+  line-height: 1.6;
 }
 
 .image-credits a {
+  display: inline-block;
+  min-height: 24px;
+  padding-block: 4px;
   text-decoration: underline;
   text-decoration-color: var(--rule);
   text-underline-offset: 2px;
