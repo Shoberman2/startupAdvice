@@ -1,39 +1,39 @@
 import type { Metadata } from "next";
 import "./globals.css";
 
+const deploymentHost = process.env.VERCEL_PROJECT_PRODUCTION_URL ?? process.env.VERCEL_URL;
+const siteUrl = deploymentHost ? `https://${deploymentHost}` : "http://localhost:3000";
+
 export const metadata: Metadata = {
-  title: "Founder Panel",
+  metadataBase: new URL(siteUrl),
+  title: "Founder Panel — Startup office hours for Claude Code",
   description:
-    "An AI research agent that turns public founder writing into source-backed startup advice.",
+    "Two open-source Claude Code commands for source-grounded conversations with 43 founders and investors.",
+  keywords: ["Claude Code", "Claude skills", "startup advice", "founder advice", "open source"],
+  openGraph: {
+    title: "Founder Panel",
+    description: "Put your startup idea in a room with the people who shaped the playbook.",
+    type: "website",
+    images: [{ url: "/og.png", width: 1728, height: 909, alt: "Founder Panel for Claude Code" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Founder Panel",
+    description: "Source-grounded startup office hours for Claude Code.",
+    images: ["/og.png"],
+  },
 };
 
-// Runs before paint. Reads localStorage and prefers-color-scheme, sets
-// data-theme on <html>. Synchronous so the first paint is correct.
-const themeBootstrap = `
-(function () {
-  try {
-    var stored = localStorage.getItem('fp-theme');
-    var theme = stored === 'light' || stored === 'dark'
-      ? stored
-      : (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
-    document.documentElement.setAttribute('data-theme', theme);
-  } catch (e) {
-    document.documentElement.setAttribute('data-theme', 'light');
-  }
-})();
-`;
-
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="en" data-theme="light" suppressHydrationWarning>
+    <html lang="en">
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link
-          href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap"
+          href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap"
           rel="stylesheet"
         />
-        <script dangerouslySetInnerHTML={{ __html: themeBootstrap }} />
       </head>
       <body>{children}</body>
     </html>

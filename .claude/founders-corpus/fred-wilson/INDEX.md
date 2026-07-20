@@ -1,0 +1,97 @@
+# Fred Wilson corpus index
+
+Source: https://avc.com — fetched 2026-07-19
+92 posts, 40045 words. Format: date — [title](canonical url) — `file` — words.
+
+- 2024-05-02 — [I’ve Moved Onchain](https://avc.com/2024/05/ive-moved-onchain/) — `2024-05-02-2024-05-ive-moved-onchain.md` — 730w
+- 2024-01-10 — [Transit Tech Lab](https://avc.com/2024/01/transit-tech-lab/) — `2024-01-10-2024-01-transit-tech-lab.md` — 236w
+- 2024-01-09 — [Empire AI](https://avc.com/2024/01/empire-ai/) — `2024-01-09-2024-01-empire-ai.md` — 385w
+- 2024-01-08 — [Read Write Own](https://avc.com/2024/01/read-write-own/) — `2024-01-08-2024-01-read-write-own.md` — 481w
+- 2024-01-01 — [What Will Happen In 2024](https://avc.com/2024/01/what-will-happen-in-2024/) — `2024-01-01-2024-01-what-will-happen-in-2024.md` — 1223w
+- 2023-12-31 — [What Happened In 2023](https://avc.com/2023/12/what-happened-in-2023/) — `2023-12-31-2023-12-what-happened-in-2023.md` — 435w
+- 2023-10-30 — [Sleep](https://avc.com/2023/10/sleep/) — `2023-10-30-2023-10-sleep.md` — 739w
+- 2023-10-12 — [Open Office Hours at NYC Tech Week](https://avc.com/2023/10/open-office-hours-at-nyc-tech-week/) — `2023-10-12-2023-10-open-office-hours-at-nyc-tech-week.md` — 159w
+- 2023-09-26 — [The Heist](https://avc.com/2023/09/the-heist/) — `2023-09-26-2023-09-the-heist.md` — 681w
+- 2023-08-28 — [CEO 360s](https://avc.com/2023/08/ceo-360s/) — `2023-08-28-2023-08-ceo-360s.md` — 378w
+- 2023-08-23 — [Subscribing To AVC](https://avc.com/2023/08/subscribing-to-avc/) — `2023-08-23-2023-08-subscribing-to-avc.md` — 400w
+- 2023-08-13 — [Yubikey Authenticator](https://avc.com/2023/08/yubikey-authenticator/) — `2023-08-13-2023-08-yubikey-authenticator.md` — 279w
+- 2023-08-06 — [Helium Mobile](https://avc.com/2023/08/helium-mobile/) — `2023-08-06-2023-08-helium-mobile.md` — 202w
+- 2023-07-30 — [Art On The Wall](https://avc.com/2023/07/art-on-the-wall/) — `2023-07-30-2023-07-art-on-the-wall.md` — 426w
+- 2023-07-26 — [The New York Tech Sector](https://avc.com/2023/07/the-new-york-tech-sector/) — `2023-07-26-2023-07-the-new-york-tech-sector.md` — 401w
+- 2023-07-17 — [How This Ends (Part Three)](https://avc.com/2023/07/how-this-ends-part-three/) — `2023-07-17-2023-07-how-this-ends-part-three.md` — 330w
+- 2023-07-12 — [Flooding](https://avc.com/2023/07/flooding/) — `2023-07-12-2023-07-flooding.md` — 278w
+- 2023-07-07 — [Threads](https://avc.com/2023/07/threads/) — `2023-07-07-2023-07-threads.md` — 367w
+- 2023-07-03 — [Bi-Directional EV Charging](https://avc.com/2023/07/bi-directional-ev-charging/) — `2023-07-03-2023-07-bi-directional-ev-charging.md` — 496w
+- 2023-06-26 — [Software That You Can’t Shut Down](https://avc.com/2023/06/software-that-you-cant-shut-down/) — `2023-06-26-2023-06-software-that-you-cant-shut-down.md` — 337w
+- 2023-06-18 — [Voice Input](https://avc.com/2023/06/voice-input-2/) — `2023-06-18-2023-06-voice-input-2.md` — 306w
+- 2023-06-13 — [Coming Back Up For Air](https://avc.com/2023/06/coming-back-up-for-air/) — `2023-06-13-2023-06-coming-back-up-for-air.md` — 653w
+- 2023-05-23 — [The Freedom To Innovate](https://avc.com/2023/05/the-freedom-to-innovate/) — `2023-05-23-2023-05-the-freedom-to-innovate.md` — 149w
+- 2023-05-19 — [Fun Friday: Upside Pizza Club](https://avc.com/2023/05/fun-friday-upside-pizza-club/) — `2023-05-19-2023-05-fun-friday-upside-pizza-club.md` — 186w
+- 2023-05-12 — [Funding Friday: Crowdfunding Restaurants Via Blackbird](https://avc.com/2023/05/funding-friday-crowdfunding-restaurants-via-blackbird/) — `2023-05-12-2023-05-funding-friday-crowdfunding-restaurants-via-blackbird.md` — 274w
+- 2023-05-10 — [AI Art](https://avc.com/2023/05/ai-art/) — `2023-05-10-2023-05-ai-art.md` — 302w
+- 2023-05-04 — [AIVC](https://avc.com/2023/05/aivc-2/) — `2023-05-04-2023-05-aivc-2.md` — 238w
+- 2023-04-26 — [The Annual Computer Science Fair](https://avc.com/2023/04/the-annual-computer-science-fair-2/) — `2023-04-26-2023-04-the-annual-computer-science-fair-2.md` — 266w
+- 2023-04-23 — [Etsy Lens](https://avc.com/2023/04/etsy-lens/) — `2023-04-23-2023-04-etsy-lens.md` — 278w
+- 2023-04-17 — [What Is A Protocol And Why Does It Matter?](https://avc.com/2023/04/what-is-a-protocol-and-why-does-it-matter/) — `2023-04-17-2023-04-what-is-a-protocol-and-why-does-it-matter.md` — 667w
+- 2023-04-12 — [Noya](https://avc.com/2023/04/noya/) — `2023-04-12-2023-04-noya.md` — 124w
+- 2023-04-10 — [Leading From The Heart](https://avc.com/2023/04/leading-from-the-heart/) — `2023-04-10-2023-04-leading-from-the-heart.md` — 508w
+- 2023-04-05 — [The Blackbird Platform](https://avc.com/2023/04/the-blackbird-platform/) — `2023-04-05-2023-04-the-blackbird-platform.md` — 297w
+- 2023-03-29 — [The Daily Bolster](https://avc.com/2023/03/the-daily-bolster/) — `2023-03-29-2023-03-the-daily-bolster.md` — 152w
+- 2023-03-06 — [The Newest Members of the USV Team](https://avc.com/2023/03/the-newest-members-of-the-usv-team/) — `2023-03-06-2023-03-the-newest-members-of-the-usv-team.md` — 132w
+- 2023-02-27 — [The VC’s Customer](https://avc.com/2023/02/the-vcs-customer/) — `2023-02-27-2023-02-the-vcs-customer.md` — 126w
+- 2023-02-21 — [What Does “Native” Mean](https://avc.com/2023/02/what-does-native-mean/) — `2023-02-21-2023-02-what-does-native-mean.md` — 157w
+- 2023-02-14 — [The 83b Election](https://avc.com/2023/02/the-83b-election/) — `2023-02-14-2023-02-the-83b-election.md` — 607w
+- 2023-02-07 — [The Rebrand](https://avc.com/2023/02/the-rebrand/) — `2023-02-07-2023-02-the-rebrand.md` — 311w
+- 2023-01-31 — [The Cleanse](https://avc.com/2023/01/the-cleanse/) — `2023-01-31-2023-01-the-cleanse.md` — 621w
+- 2023-01-23 — [The AI Assist](https://avc.com/2023/01/the-ai-assist/) — `2023-01-23-2023-01-the-ai-assist.md` — 263w
+- 2023-01-17 — [Coding Again](https://avc.com/2023/01/coding-again/) — `2023-01-17-2023-01-coding-again.md` — 215w
+- 2023-01-09 — [Machine Learning and Schools](https://avc.com/2023/01/machine-learning-and-schools/) — `2023-01-09-2023-01-machine-learning-and-schools.md` — 275w
+- 2023-01-01 — [What Will Happen In 2023](https://avc.com/2023/01/what-will-happen-in-2023/) — `2023-01-01-2023-01-what-will-happen-in-2023.md` — 1114w
+- 2022-12-31 — [What Happened In 2022](https://avc.com/2022/12/what-happened-in-2022/) — `2022-12-31-2022-12-what-happened-in-2022.md` — 822w
+- 2022-12-09 — [The Hour Of Code](https://avc.com/2022/12/the-hour-of-code-2023/) — `2022-12-09-2022-12-the-hour-of-code-2023.md` — 332w
+- 2022-12-05 — [Sign Everything](https://avc.com/2022/12/sign-everything/) — `2022-12-05-2022-12-sign-everything.md` — 354w
+- 2022-11-28 — [The Buy And Hold Mindset](https://avc.com/2022/11/the-buy-and-hold-mindset/) — `2022-11-28-2022-11-the-buy-and-hold-mindset.md` — 1377w
+- 2022-11-21 — [NFT Art CDMX](https://avc.com/2022/11/nft-art-cdmx/) — `2022-11-21-2022-11-nft-art-cdmx.md` — 284w
+- 2022-11-15 — [Taking A Long Term View Of Web3](https://avc.com/2022/11/taking-a-long-term-view-of-web3/) — `2022-11-15-2022-11-taking-a-long-term-view-of-web3.md` — 999w
+- 2022-11-14 — [Helping More Ukrainian Families and Children](https://avc.com/2022/11/helping-more-ukrainian-families-and-children/) — `2022-11-14-2022-11-helping-more-ukrainian-families-and-children.md` — 143w
+- 2022-11-13 — [Two Weeks In Paris](https://avc.com/2022/11/two-weeks-in-paris/) — `2022-11-13-2022-11-two-weeks-in-paris.md` — 1192w
+- 2022-11-06 — [Creator Royalties](https://avc.com/2022/11/creator-royalties/) — `2022-11-06-2022-11-creator-royalties.md` — 675w
+- 2022-10-24 — [Direct Air Carbon Capture](https://avc.com/2022/10/direct-air-carbon-capture/) — `2022-10-24-2022-10-direct-air-carbon-capture.md` — 245w
+- 2022-10-17 — [NFT Screens](https://avc.com/2022/10/nft-screens/) — `2022-10-17-2022-10-nft-screens.md` — 377w
+- 2022-10-11 — [Vaccines](https://avc.com/2022/10/vaccines/) — `2022-10-11-2022-10-vaccines.md` — 296w
+- 2022-10-03 — [Is It A Computer Or A Car?](https://avc.com/2022/10/is-it-a-computer-or-a-car/) — `2022-10-03-2022-10-is-it-a-computer-or-a-car.md` — 372w
+- 2022-09-26 — [Demand Response](https://avc.com/2022/09/demand-response/) — `2022-09-26-2022-09-demand-response.md` — 341w
+- 2022-09-18 — [Changing Public Perception](https://avc.com/2022/09/changing-public-perception/) — `2022-09-18-2022-09-changing-public-perception.md` — 423w
+- 2022-09-12 — [Regenerative Finance (ReFi)](https://avc.com/2022/09/regenerative-finance-refi/) — `2022-09-12-2022-09-regenerative-finance-refi.md` — 424w
+- 2022-09-06 — [Face To Face](https://avc.com/2022/09/face-to-face/) — `2022-09-06-2022-09-face-to-face.md` — 396w
+- 2022-08-29 — [Deep Dives](https://avc.com/2022/08/deep-dives/) — `2022-08-29-2022-08-deep-dives.md` — 280w
+- 2022-08-22 — [Going From One Hundred To Four](https://avc.com/2022/08/going-from-one-hundred-to-four/) — `2022-08-22-2022-08-going-from-one-hundred-to-four.md` — 229w
+- 2022-08-15 — [The Merge](https://avc.com/2022/08/the-merge/) — `2022-08-15-2022-08-the-merge.md` — 636w
+- 2022-08-08 — [Bridge Loans](https://avc.com/2022/08/bridge-loans/) — `2022-08-08-2022-08-bridge-loans.md` — 698w
+- 2022-07-25 — [Remote, Hybrid, or In-Person?](https://avc.com/2022/07/remote-hybrid-or-in-person/) — `2022-07-25-2022-07-remote-hybrid-or-in-person.md` — 1222w
+- 2022-07-18 — [Valuing a Venture Capital Portfolio](https://avc.com/2022/07/valuing-a-venture-capital-portfolio/) — `2022-07-18-2022-07-valuing-a-venture-capital-portfolio.md` — 539w
+- 2022-07-10 — [Some Thoughts On Twitter (continued)](https://avc.com/2022/07/some-thoughts-on-twitter-continued/) — `2022-07-10-2022-07-some-thoughts-on-twitter-continued.md` — 443w
+- 2022-07-03 — [The New AVC](https://avc.com/2022/07/the-new-avc-2/) — `2022-07-03-2022-07-the-new-avc-2.md` — 355w
+- 2022-06-27 — [The Case For EVs](https://avc.com/2022/06/the-case-for-evs/) — `2022-06-27-2022-06-the-case-for-evs.md` — 362w
+- 2022-06-21 — [Staying Positive](https://avc.com/2022/06/staying-positive-2/) — `2022-06-21-2022-06-staying-positive-2.md` — 357w
+- 2022-06-12 — [The Partnership](https://avc.com/2022/06/the-partnership/) — `2022-06-12-2022-06-the-partnership.md` — 554w
+- 2022-06-07 — [The Gillibrand Lummis Bill](https://avc.com/2022/06/the-gillibrand-lummis-bill/) — `2022-06-07-2022-06-the-gillibrand-lummis-bill.md` — 226w
+- 2022-05-31 — [Gotham Gives](https://avc.com/2022/05/gotham-gives/) — `2022-05-31-2022-05-gotham-gives.md` — 298w
+- 2022-05-22 — [How This Ends](https://avc.com/2022/05/how-this-ends-2/) — `2022-05-22-2022-05-how-this-ends-2.md` — 520w
+- 2022-05-11 — [The Founder Resolve](https://avc.com/2022/05/the-founder-resolve/) — `2022-05-11-2022-05-the-founder-resolve.md` — 341w
+- 2022-05-09 — [Tech Year NYC](https://avc.com/2022/05/tech-year/) — `2022-05-09-2022-05-tech-year.md` — 257w
+- 2022-05-01 — [Getting Together In Person](https://avc.com/2022/05/getting-together-in-person-2/) — `2022-05-01-2022-05-getting-together-in-person-2.md` — 252w
+- 2022-04-26 — [Some Thoughts On Twitter](https://avc.com/2022/04/some-thoughts-on-twitter/) — `2022-04-26-2022-04-some-thoughts-on-twitter.md` — 157w
+- 2022-04-22 — [An Earth Day Message To The New York State Legislature](https://avc.com/2022/04/an-earth-day-message-to-the-new-york-state-legislature/) — `2022-04-22-2022-04-an-earth-day-message-to-the-new-york-state-legislature.md` — 336w
+- 2022-04-18 — [A Visit To The 6529 Museum District](https://avc.com/2022/04/a-visit-to-the-6529-museum-district/) — `2022-04-18-2022-04-a-visit-to-the-6529-museum-district.md` — 131w
+- 2022-04-10 — [Content Moderation and Free Speech](https://avc.com/2022/04/content-moderation-and-free-speech/) — `2022-04-10-2022-04-content-moderation-and-free-speech.md` — 481w
+- 2022-04-04 — [Scaling The Ethereum Ecosystem](https://avc.com/2022/04/scaling-the-ethereum-ecosystem/) — `2022-04-04-2022-04-scaling-the-ethereum-ecosystem.md` — 416w
+- 2022-03-28 — [Competing To Win Deals](https://avc.com/2022/03/competing-to-win-deals-2/) — `2022-03-28-2022-03-competing-to-win-deals-2.md` — 802w
+- 2022-03-20 — [Keeping It Simple](https://avc.com/2022/03/keeping-it-simple/) — `2022-03-20-2022-03-keeping-it-simple.md` — 559w
+- 2022-03-14 — [The Benefits Of Venture Capital In Web3](https://avc.com/2022/03/the-benefits-of-venture-capital-in-web3/) — `2022-03-14-2022-03-the-benefits-of-venture-capital-in-web3.md` — 327w
+- 2022-03-07 — [The Range Anxiety Weekend](https://avc.com/2022/03/the-range-anxiety-weekend/) — `2022-03-07-2022-03-the-range-anxiety-weekend.md` — 809w
+- 2022-02-20 — [A Return To Fundamentals](https://avc.com/2022/02/a-return-to-fundamentals/) — `2022-02-20-2022-02-a-return-to-fundamentals.md` — 341w
+- 2022-02-15 — [A Blistering Pace](https://avc.com/2022/02/a-blistering-pace/) — `2022-02-15-2022-02-a-blistering-pace.md` — 380w
+- 2022-02-07 — [NFPs](https://avc.com/2022/02/nfps/) — `2022-02-07-2022-02-nfps.md` — 473w
+- 2022-02-01 — [Get Paid In Crypto](https://avc.com/2022/02/get-paid-in-crypto/) — `2022-02-01-2022-02-get-paid-in-crypto.md` — 155w
+- 2022-01-24 — [On Covid](https://avc.com/2022/01/on-covid/) — `2022-01-24-2022-01-on-covid.md` — 873w

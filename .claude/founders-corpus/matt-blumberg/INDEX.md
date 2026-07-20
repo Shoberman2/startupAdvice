@@ -1,0 +1,65 @@
+# Matt Blumberg corpus index
+
+Source: https://startupceo.com — fetched 2026-07-19
+60 posts, 17437 words. Format: date — [title](canonical url) — `file` — words.
+
+- 2006-06-08 — [Counter Cliche: But It's Ok If Some of Them Turn Out to Be Frogs](https://startupceo.com/2006/06/counter_cliche_-3) — `2006-06-08-2006-06-counter_cliche_-3.md` — 186w
+- 2006-06-04 — [What Kind of Entrepreneur Do You Want to Be?](https://startupceo.com/2006/06/what_kind_of_en) — `2006-06-04-2006-06-what_kind_of_en.md` — 410w
+- 2006-06-02 — [Big Apple, Little Company](https://startupceo.com/2006/06/big_apple_littl) — `2006-06-02-2006-06-big_apple_littl.md` — 522w
+- 2006-05-10 — [Blogiversary, Part II](https://startupceo.com/2006/05/blogiversary_pa-2) — `2006-05-10-2006-05-blogiversary_pa-2.md` — 237w
+- 2006-05-08 — [Counter Cliché: And Founders, Too](https://startupceo.com/2006/05/counter_clich_a) — `2006-05-08-2006-05-counter_clich_a.md` — 254w
+- 2006-04-19 — [Counter Cliche: I Know When I See One, Too](https://startupceo.com/2006/04/counter_cliche_-4) — `2006-04-19-2006-04-counter_cliche_-4.md` — 354w
+- 2006-03-23 — [Million Dollar Baby](https://startupceo.com/2006/03/million_dollar_) — `2006-03-23-2006-03-million_dollar_.md` — 321w
+- 2005-12-09 — [Counter Cliche: How Much Paranoia is Too Much Paranoia?, Part II](https://startupceo.com/2005/12/counter_cliche__1-3) — `2005-12-09-2005-12-counter_cliche__1-3.md` — 330w
+- 2005-12-06 — [Six Candles: You Can't Tell What The Living Room Looks Like From the Front Porch](https://startupceo.com/2005/12/six_candles_you) — `2005-12-06-2005-12-six_candles_you.md` — 325w
+- 2005-12-05 — [Holiday Card Anon, Part II](https://startupceo.com/2005/12/holiday_card_an) — `2005-12-05-2005-12-holiday_card_an.md` — 127w
+- 2005-12-05 — [Deliverability Resources](https://startupceo.com/2005/12/deliverability_) — `2005-12-05-2005-12-deliverability_.md` — 244w
+- 2005-11-29 — [Wanted! Comp Benchmark Participants](https://startupceo.com/2005/11/wanted_comp_ben-2) — `2005-11-29-2005-11-wanted_comp_ben-2.md` — 188w
+- 2005-11-23 — [Not-so](https://startupceo.com/2005/11/notsocounter_cl) — `2005-11-23-2005-11-notsocounter_cl.md` — 738w
+- 2005-11-08 — [Overload](https://startupceo.com/2005/11/overload) — `2005-11-08-2005-11-overload.md` — 353w
+- 2005-10-21 — [Return Path Blog is Up](https://startupceo.com/2005/10/return_path_blo) — `2005-10-21-2005-10-return_path_blo.md` — 370w
+- 2005-10-06 — [Counter Cliche: Failure Is Not an Orphan](https://startupceo.com/2005/10/counter_cliche_-7) — `2005-10-06-2005-10-counter_cliche_-7.md` — 290w
+- 2005-08-29 — [Compression](https://startupceo.com/2005/08/compression) — `2005-08-29-2005-08-compression.md` — 146w
+- 2005-08-20 — [Unfolding the Map](https://startupceo.com/2005/08/unfolding_the_m) — `2005-08-20-2005-08-unfolding_the_m.md` — 180w
+- 2005-08-12 — [Email and Business Development: Two Great Tastes…](https://startupceo.com/2005/08/email_and_busin) — `2005-08-12-2005-08-email_and_busin.md` — 334w
+- 2005-08-10 — [Counter Cliche: It's Fun at the Top](https://startupceo.com/2005/08/counter_cliche_-8) — `2005-08-10-2005-08-counter_cliche_-8.md` — 250w
+- 2005-07-27 — [Counter Cliche: Win The Peace](https://startupceo.com/2005/07/counter_cliche_-9) — `2005-07-27-2005-07-counter_cliche_-9.md` — 275w
+- 2005-07-18 — [Highs and Lows](https://startupceo.com/2005/07/highs_and_lows) — `2005-07-18-2005-07-highs_and_lows.md` — 202w
+- 2005-06-22 — [Counter Cliche: Sleeves, or Shoes?](https://startupceo.com/2005/06/counter_cliche__1-4) — `2005-06-22-2005-06-counter_cliche__1-4.md` — 301w
+- 2005-06-03 — [Shifting Gears](https://startupceo.com/2005/06/shifting_gears) — `2005-06-03-2005-06-shifting_gears.md` — 516w
+- 2005-05-26 — [Counter Cliche: The VC Pass](https://startupceo.com/2005/05/counter_cliche_-11) — `2005-05-26-2005-05-counter_cliche_-11.md` — 256w
+- 2005-05-22 — [Mental Math](https://startupceo.com/2005/05/mental_math) — `2005-05-22-2005-05-mental_math.md` — 166w
+- 2005-04-27 — [Counter Cliche: No Conflict, No Interest](https://startupceo.com/2005/04/counter_cliche__1-5) — `2005-04-27-2005-04-counter_cliche__1-5.md` — 227w
+- 2005-04-14 — [Go Ahead…Make My Day](https://startupceo.com/2005/04/go_aheadmake_my) — `2005-04-14-2005-04-go_aheadmake_my.md` — 209w
+- 2005-04-11 — [Counter Cliche: Good Choices Are Made From Good Options](https://startupceo.com/2005/04/counter_cliche_-12) — `2005-04-11-2005-04-counter_cliche_-12.md` — 337w
+- 2005-03-09 — [Counter Cliche: As Simple As the Wheel](https://startupceo.com/2005/03/counter_cliche__1-6) — `2005-03-09-2005-03-counter_cliche__1-6.md` — 276w
+- 2005-02-27 — [A Different Take on The Gates](https://startupceo.com/2005/02/a_different_tak) — `2005-02-27-2005-02-a_different_tak.md` — 151w
+- 2005-02-04 — [Everyone's a Direct Marketer, Part II](https://startupceo.com/2005/02/everyones_a_dir_1) — `2005-02-04-2005-02-everyones_a_dir_1.md` — 559w
+- 2005-01-21 — [Ratcheting Up Is Hard To Do (or Boiling the Frog, Part II)](https://startupceo.com/2005/01/ratcheting_up_i) — `2005-01-21-2005-01-ratcheting_up_i.md` — 465w
+- 2005-01-09 — [Boiling the Frog](https://startupceo.com/2005/01/boiling_the_fro) — `2005-01-09-2005-01-boiling_the_fro.md` — 505w
+- 2005-01-05 — [Sometimes It's Worth Travelling 5,000 Miles for a 5 Minute Meeting](https://startupceo.com/2005/01/sometimes_its_w) — `2005-01-05-2005-01-sometimes_its_w.md` — 193w
+- 2004-12-22 — [How to Negotiate a Term Sheet with a VC, Part II](https://startupceo.com/2004/12/how_to_negotiat-2) — `2004-12-22-2004-12-how_to_negotiat-2.md` — 440w
+- 2004-12-17 — [Holiday Card Anon](https://startupceo.com/2004/12/holiday_card_an-2) — `2004-12-17-2004-12-holiday_card_an-2.md` — 139w
+- 2004-12-12 — [The Hiring Challenge](https://startupceo.com/2004/12/the_hiring_chal) — `2004-12-12-2004-12-the_hiring_chal.md` — 156w
+- 2004-12-09 — [Being the Client](https://startupceo.com/2004/12/being_the_clien) — `2004-12-09-2004-12-being_the_clien.md` — 179w
+- 2004-11-30 — [Why Entrepreneurship is Like Windows](https://startupceo.com/2004/11/why_entrepreneu) — `2004-11-30-2004-11-why_entrepreneu.md` — 286w
+- 2004-11-30 — [The Rumors of Email's Demise Have Been Greatly Exaggerated, Part II](https://startupceo.com/2004/11/the_rumors_of_e-4) — `2004-11-30-2004-11-the_rumors_of_e-4.md` — 130w
+- 2004-10-25 — [Everyone's a Marketer, Part I](https://startupceo.com/2004/10/everyones_a_mar-3) — `2004-10-25-2004-10-everyones_a_mar-3.md` — 436w
+- 2004-10-17 — [Why Email Will Win the Day](https://startupceo.com/2004/10/why_email_will_) — `2004-10-17-2004-10-why_email_will_.md` — 228w
+- 2004-10-17 — [Giving Away State Secrets](https://startupceo.com/2004/10/giving_away_sta) — `2004-10-17-2004-10-giving_away_sta.md` — 133w
+- 2004-10-10 — [Angel and Strategic Investors](https://startupceo.com/2004/10/angel_and_strat) — `2004-10-10-2004-10-angel_and_strat.md` — 408w
+- 2004-09-29 — [Picking Your VC](https://startupceo.com/2004/09/picking_your_vc) — `2004-09-29-2004-09-picking_your_vc.md` — 133w
+- 2004-09-28 — [When Do You Hire a Real Head of Sales?](https://startupceo.com/2004/09/when_do_you_hir) — `2004-09-28-2004-09-when_do_you_hir.md` — 301w
+- 2004-09-15 — [Breaking Up Is Hard to Do, Continued](https://startupceo.com/2004/09/breaking_up_is__1) — `2004-09-15-2004-09-breaking_up_is__1.md` — 162w
+- 2004-09-11 — [Our Next July 4?](https://startupceo.com/2004/09/our_next_july_4) — `2004-09-11-2004-09-our_next_july_4.md` — 141w
+- 2004-08-25 — [Wrap](https://startupceo.com/2004/08/wrapup_on_prefe) — `2004-08-25-2004-08-wrapup_on_prefe.md` — 159w
+- 2004-08-18 — [What's Your Preference?](https://startupceo.com/2004/08/whats_your_pref) — `2004-08-18-2004-08-whats_your_pref.md` — 842w
+- 2004-08-18 — [A More Cynical View of VCs](https://startupceo.com/2004/08/a_more_cynical_) — `2004-08-18-2004-08-a_more_cynical_.md` — 148w
+- 2004-08-10 — [Why French Fries are Like Marketing](https://startupceo.com/2004/08/why_french_frie) — `2004-08-10-2004-08-why_french_frie.md` — 207w
+- 2004-08-02 — [Whatever Happened to 'The Customer is King'?](https://startupceo.com/2004/08/whatever_happen) — `2004-08-02-2004-08-whatever_happen.md` — 243w
+- 2004-07-05 — [American Entrepreneurs](https://startupceo.com/2004/07/american_entrep) — `2004-07-05-2004-07-american_entrep.md` — 327w
+- 2004-06-20 — [Good Question – How's the Blog Working Out So Far?](https://startupceo.com/2004/06/good_question_h) — `2004-06-20-2004-06-good_question_h.md` — 270w
+- 2004-06-15 — [FTC on Email – Missing the Point](https://startupceo.com/2004/06/today_the_ftc_v) — `2004-06-15-2004-06-today_the_ftc_v.md` — 334w
+- 2004-06-02 — [Anything Worth Doing is Worth Doing Well](https://startupceo.com/2004/06/anything_worth_-2) — `2004-06-02-2004-06-anything_worth_-2.md` — 210w
+- 2004-05-19 — [Blog Blacklists: A New View of Internet Vigilantes](https://startupceo.com/2004/05/blog_blacklists) — `2004-05-19-2004-05-blog_blacklists.md` — 343w
+- 2004-05-10 — [You're Only a First Time CEO Once](https://startupceo.com/2004/05/youre_only_a_fi) — `2004-05-10-2004-05-youre_only_a_fi.md` — 285w

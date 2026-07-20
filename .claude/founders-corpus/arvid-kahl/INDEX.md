@@ -1,0 +1,98 @@
+# Arvid Kahl corpus index
+
+Source: https://thebootstrappedfounder.com — fetched 2026-07-19
+93 posts, 168619 words. Format: date — [title](canonical url) — `file` — words.
+
+- undated — [Zero to Sold — How to Start, Run, and Sell a Bootstrapped Business](https://thebootstrappedfounder.com/zero-to-sold/) — `undated-zero-to-sold.md` — 551w
+- 2026-04-03 — [The Bootstrapped Founder](https://thebootstrappedfounder.com/blog-feed/) — `2026-04-03-blog-feed.md` — 658w
+- 2020-07-30 — [The Power of Omission: Killing Features for Fun and Profit](https://thebootstrappedfounder.com/the-power-of-omission-killing-features-for-fun-and-profit/) — `2020-07-30-the-power-of-omission-killing-features-for-fun-and-profit.md` — 1995w
+- 2020-07-23 — [Made to Stick: Shaping an Extensible Product](https://thebootstrappedfounder.com/made-to-stick-shaping-an-extensible-product/) — `2020-07-23-made-to-stick-shaping-an-extensible-product.md` — 2353w
+- 2020-07-17 — [The Bootstrapped Founder Newsletter Episode 36 – July 17th, 2020](https://thebootstrappedfounder.com/newsletter/episode-36/) — `2020-07-17-newsletter-episode-36.md` — 1451w
+- 2020-07-16 — [Standard Operating Procedures: Managing Your Future Self](https://thebootstrappedfounder.com/standard-operating-procedures-managing-your-future-self/) — `2020-07-16-standard-operating-procedures-managing-your-future-self.md` — 1301w
+- 2020-07-10 — [The Bootstrapped Founder Newsletter Episode 35 – July 10th, 2020](https://thebootstrappedfounder.com/newsletter/episode-35/) — `2020-07-10-newsletter-episode-35.md` — 1655w
+- 2020-07-09 — [Roadmaps and You: Building a Future Together](https://thebootstrappedfounder.com/roadmaps-and-you-building-a-future-together/) — `2020-07-09-roadmaps-and-you-building-a-future-together.md` — 1100w
+- 2020-07-03 — [The Bootstrapped Founder Newsletter Episode 34 – July 3rd, 2020](https://thebootstrappedfounder.com/newsletter/episode-34/) — `2020-07-03-newsletter-episode-34.md` — 2360w
+- 2020-07-02 — [Customer Retention: How to Keep Them Around](https://thebootstrappedfounder.com/customer-retention-how-to-keep-them-around/) — `2020-07-02-customer-retention-how-to-keep-them-around.md` — 1766w
+- 2020-06-26 — [The Bootstrapped Founder Newsletter Episode 33 – June 26th, 2020](https://thebootstrappedfounder.com/newsletter/episode-33/) — `2020-06-26-newsletter-episode-33.md` — 1448w
+- 2020-06-25 — [Customer Exploration: Seeing Through Your Customer’s Eyes](https://thebootstrappedfounder.com/customer-exploration-seeing-through-your-customers-eyes/) — `2020-06-25-customer-exploration-seeing-through-your-customers-eyes.md` — 1111w
+- 2020-06-19 — [The Bootstrapped Founder Newsletter Episode 32 – June 19th 2020](https://thebootstrappedfounder.com/newsletter/episode-32/) — `2020-06-19-newsletter-episode-32.md` — 1927w
+- 2020-06-18 — [Being Small Is a Benefit: How to Leverage Being a Bootstrapper](https://thebootstrappedfounder.com/being-small-is-a-benefit-how-to-leverage-being-a-bootstrapper/) — `2020-06-18-being-small-is-a-benefit-how-to-leverage-being-a-bootstrapper.md` — 1576w
+- 2020-06-14 — [Zero to Sold: Additional Resources](https://thebootstrappedfounder.com/zero-to-sold/additional-resources/) — `2020-06-14-zero-to-sold-additional-resources.md` — 1071w
+- 2020-06-12 — [The Bootstrapped Founder Newsletter Episode 31 – June 12th 2020](https://thebootstrappedfounder.com/newsletter/episode-31/) — `2020-06-12-newsletter-episode-31.md` — 1866w
+- 2020-06-11 — [Spreading the Word: How to Do Marketing on a Shoestring Budget](https://thebootstrappedfounder.com/spreading-the-word-how-to-do-marketing-on-a-shoestring-budget/) — `2020-06-11-spreading-the-word-how-to-do-marketing-on-a-shoestring-budget.md` — 1388w
+- 2020-06-05 — [The Bootstrapped Founder Newsletter Episode 30 – June 5th 2020](https://thebootstrappedfounder.com/newsletter/episode-30/) — `2020-06-05-newsletter-episode-30.md` — 1850w
+- 2020-06-04 — [Seller Beware: Pricing Models That Can Break Your Business](https://thebootstrappedfounder.com/seller-beware-pricing-models-that-can-break-your-business/) — `2020-06-04-seller-beware-pricing-models-that-can-break-your-business.md` — 1229w
+- 2020-05-29 — [The Bootstrapped Founder Newsletter Episode 29 – May 29th 2020](https://thebootstrappedfounder.com/newsletter/episode-29/) — `2020-05-29-newsletter-episode-29.md` — 1145w
+- 2020-05-28 — [Not All Subscriptions Are Equal: Offer Yearly Plans from the Start](https://thebootstrappedfounder.com/not-all-subscriptions-are-equal-offer-yearly-plans-from-the-start/) — `2020-05-28-not-all-subscriptions-are-equal-offer-yearly-plans-from-the-start.md` — 731w
+- 2020-05-22 — [The Bootstrapped Founder Newsletter Episode 28 – May 22nd 2020](https://thebootstrappedfounder.com/newsletter/episode-28/) — `2020-05-22-newsletter-episode-28.md` — 2641w
+- 2020-05-21 — [Not All Subscribers Are Equal: How to Deal with Plans That No Longer Work](https://thebootstrappedfounder.com/not-all-subscribers-are-equal-how-to-deal-with-plans-that-no-longer-work/) — `2020-05-21-not-all-subscribers-are-equal-how-to-deal-with-plans-that-no-longer-work.md` — 818w
+- 2020-05-19 — [Profit-Sharing as Employee Compensation for Bootstrappers](https://thebootstrappedfounder.com/profit-sharing-as-employee-compensation-for-bootstrappers/) — `2020-05-19-profit-sharing-as-employee-compensation-for-bootstrappers.md` — 1386w
+- 2020-05-15 — [The Bootstrapped Founder Newsletter Episode 27 – May 15th 2020](https://thebootstrappedfounder.com/newsletter/episode-27/) — `2020-05-15-newsletter-episode-27.md` — 2667w
+- 2020-05-14 — [Price Is Not Set In Stone: Strategies For Increasing Your Revenue](https://thebootstrappedfounder.com/price-is-not-set-in-stone-strategies-for-increasing-your-revenue/) — `2020-05-14-price-is-not-set-in-stone-strategies-for-increasing-your-revenue.md` — 1823w
+- 2020-05-08 — [The Bootstrapped Founder Newsletter Episode 26 – May 8th 2020](https://thebootstrappedfounder.com/newsletter/episode-26/) — `2020-05-08-newsletter-episode-26.md` — 2381w
+- 2020-05-07 — [You May Be Barking Up the Wrong Tree: Re](https://thebootstrappedfounder.com/you-may-be-barking-up-the-wrong-tree-re-evaluating-your-audience/) — `2020-05-07-you-may-be-barking-up-the-wrong-tree-re-evaluating-your-audience.md` — 1793w
+- 2020-05-01 — [The Bootstrapped Founder Newsletter Episode 25 – May 1st 2020](https://thebootstrappedfounder.com/newsletter/episode-25/) — `2020-05-01-newsletter-episode-25.md` — 2378w
+- 2020-04-30 — [Build for Value, Not for Applause: Product Management Under Heavy Constraints](https://thebootstrappedfounder.com/build-for-value-not-for-applause-product-management-under-heavy-constraints/) — `2020-04-30-build-for-value-not-for-applause-product-management-under-heavy-constraints.md` — 1508w
+- 2020-04-24 — [The Bootstrapped Founder Newsletter Episode 24 – April 24th 2020](https://thebootstrappedfounder.com/newsletter/episode-24/) — `2020-04-24-newsletter-episode-24.md` — 2064w
+- 2020-04-23 — [First Things First: Feature Prioritization Frameworks](https://thebootstrappedfounder.com/first-things-first-feature-prioritization-frameworks/) — `2020-04-23-first-things-first-feature-prioritization-frameworks.md` — 1532w
+- 2020-04-17 — [The Bootstrapped Founder Newsletter Episode 23 – April 17th 2020](https://thebootstrappedfounder.com/newsletter/episode-23/) — `2020-04-17-newsletter-episode-23.md` — 1982w
+- 2020-04-16 — [Forget Goals, Create Systems: Foundations of a Sustainable Bootstrapped Business](https://thebootstrappedfounder.com/forget-goals-create-systems-foundations-of-a-sustainable-bootstrapped-business/) — `2020-04-16-forget-goals-create-systems-foundations-of-a-sustainable-bootstrapped-business.md` — 1910w
+- 2020-04-10 — [The Bootstrapped Founder Newsletter Episode 22 – April 10th 2020](https://thebootstrappedfounder.com/newsletter/episode-22/) — `2020-04-10-newsletter-episode-22.md` — 1793w
+- 2020-04-09 — [The Boring Truth of Successful Products That Survive](https://thebootstrappedfounder.com/the-boring-truth-of-successful-products-that-survive/) — `2020-04-09-the-boring-truth-of-successful-products-that-survive.md` — 1593w
+- 2020-04-03 — [The Bootstrapped Founder Newsletter Episode 21 – April 3rd 2020](https://thebootstrappedfounder.com/newsletter/episode-21/) — `2020-04-03-newsletter-episode-21.md` — 1598w
+- 2020-04-02 — [Making Tech Choices: Don’t Add Risk to an Already Risky Business](https://thebootstrappedfounder.com/making-tech-choices/) — `2020-04-02-making-tech-choices.md` — 2028w
+- 2020-03-27 — [The Bootstrapped Founder Newsletter Episode 20 – March 27th 2020](https://thebootstrappedfounder.com/newsletter/episode-20/) — `2020-03-27-newsletter-episode-20.md` — 1191w
+- 2020-03-26 — [Not in House: On Reinventing the Wheel](https://thebootstrappedfounder.com/not-in-house-on-reinventing-the-wheel/) — `2020-03-26-not-in-house-on-reinventing-the-wheel.md` — 2272w
+- 2020-03-20 — [The Bootstrapped Founder Newsletter Episode 19 – March 20th 2020](https://thebootstrappedfounder.com/newsletter/episode-19/) — `2020-03-20-newsletter-episode-19.md` — 3916w
+- 2020-03-20 — [Surviving a Recession as a Bootstrapped Business](https://thebootstrappedfounder.com/recession/) — `2020-03-20-recession.md` — 3655w
+- 2020-03-13 — [The Bootstrapped Founder Newsletter Episode 18 – March 13th 2020](https://thebootstrappedfounder.com/newsletter/episode-18/) — `2020-03-13-newsletter-episode-18.md` — 2139w
+- 2020-03-12 — [How to Release as a Bootstrapper: Often, Early, and Safely](https://thebootstrappedfounder.com/how-to-release-as-a-bootstrapper-often-early-and-safely/) — `2020-03-12-how-to-release-as-a-bootstrapper-often-early-and-safely.md` — 3237w
+- 2020-03-06 — [The Bootstrapped Founder Newsletter Episode 17 – March 6th 2020](https://thebootstrappedfounder.com/newsletter/episode-17/) — `2020-03-06-newsletter-episode-17.md` — 2004w
+- 2020-03-05 — [The Do’s and Don’ts of the Minimum Viable Product](https://thebootstrappedfounder.com/the-dos-and-donts-of-the-minimum-viable-product/) — `2020-03-05-the-dos-and-donts-of-the-minimum-viable-product.md` — 2672w
+- 2020-02-28 — [The Bootstrapped Founder Newsletter Episode 16 – February 28th 2020](https://thebootstrappedfounder.com/newsletter/episode-16/) — `2020-02-28-newsletter-episode-16.md` — 1734w
+- 2020-02-27 — [The Myth of The Finished Product](https://thebootstrappedfounder.com/the-myth-of-the-finished-product/) — `2020-02-27-the-myth-of-the-finished-product.md` — 3260w
+- 2020-02-21 — [The Bootstrapped Founder Newsletter Episode 15 – February 21st 2020](https://thebootstrappedfounder.com/newsletter/episode-15/) — `2020-02-21-newsletter-episode-15.md` — 2198w
+- 2020-02-20 — [Solution Validation Doesn’t Happen In a Vacuum: How to Talk To Your Future Customers](https://thebootstrappedfounder.com/solution-validation-doesnt-happen-in-a-vacuum-how-to-talk-to-your-future-customers/) — `2020-02-20-solution-validation-doesnt-happen-in-a-vacuum-how-to-talk-to-your-future-custome.md` — 1999w
+- 2020-02-14 — [The Bootstrapped Founder Newsletter Episode 14 – February 14th 2020](https://thebootstrappedfounder.com/newsletter/episode-14/) — `2020-02-14-newsletter-episode-14.md` — 1529w
+- 2020-02-14 — [Make It Sell Itself: On Referral Systems](https://thebootstrappedfounder.com/on-referral-systems/) — `2020-02-14-on-referral-systems.md` — 3582w
+- 2020-02-07 — [The Bootstrapped Founder Newsletter Episode 13 – February 7th 2020](https://thebootstrappedfounder.com/newsletter/episode-13/) — `2020-02-07-newsletter-episode-13.md` — 2352w
+- 2020-02-06 — [Problem Validation: Making Sure You’re Talking To The Right People](https://thebootstrappedfounder.com/problem-validation/) — `2020-02-06-problem-validation.md` — 2127w
+- 2020-01-31 — [The Bootstrapped Founder Newsletter Episode 12 – January 31st 2020](https://thebootstrappedfounder.com/newsletter/episode-12/) — `2020-01-31-newsletter-episode-12.md` — 1874w
+- 2020-01-30 — [Finding the Most Painful Problem in a Market](https://thebootstrappedfounder.com/finding-the-most-painful-problem/) — `2020-01-30-finding-the-most-painful-problem.md` — 2974w
+- 2020-01-24 — [The Bootstrapped Founder Newsletter Episode 11 – January 24th 2020](https://thebootstrappedfounder.com/newsletter/episode-11/) — `2020-01-24-newsletter-episode-11.md` — 1841w
+- 2020-01-23 — [The Power of the Niche](https://thebootstrappedfounder.com/power-of-the-niche/) — `2020-01-23-power-of-the-niche.md` — 2550w
+- 2020-01-17 — [The Tale of the Deli Hustler](https://thebootstrappedfounder.com/tales/deli-hustler/) — `2020-01-17-tales-deli-hustler.md` — 1995w
+- 2020-01-16 — [The Bootstrapped Founder Newsletter Episode 10 – January 17th 2020](https://thebootstrappedfounder.com/newsletter/episode-10/) — `2020-01-16-newsletter-episode-10.md` — 1749w
+- 2020-01-16 — [Do You Need a Co](https://thebootstrappedfounder.com/co-founder/) — `2020-01-16-co-founder.md` — 2248w
+- 2020-01-15 — [The Emotional Journey of a Bootstrapped Founder: Negative Self](https://thebootstrappedfounder.com/emotional-journey/negative-self-talk/) — `2020-01-15-emotional-journey-negative-self-talk.md` — 2075w
+- 2020-01-14 — [The Emotional Journey of a Bootstrapped Founder: Obsession with Perfection](https://thebootstrappedfounder.com/emotional-journey/obsession-with-perfection/) — `2020-01-14-emotional-journey-obsession-with-perfection.md` — 2064w
+- 2020-01-09 — [The Bootstrapped Founder Newsletter Episode 9 – January 10th 2020](https://thebootstrappedfounder.com/newsletter/episode-9/) — `2020-01-09-newsletter-episode-9.md` — 1549w
+- 2020-01-09 — [So You Got an Offer: How to Do Due Diligence on Your Potential Acquirer](https://thebootstrappedfounder.com/how-to-do-due-diligence-on-your-potential-acquirer/) — `2020-01-09-how-to-do-due-diligence-on-your-potential-acquirer.md` — 3069w
+- 2020-01-07 — [The Emotional Journey of a Bootstrapped Founder: Fear of Slippery Slope](https://thebootstrappedfounder.com/emotional-journey/fear-of-slippery-slope/) — `2020-01-07-emotional-journey-fear-of-slippery-slope.md` — 1250w
+- 2020-01-06 — [The Emotional Journey of a Bootstrapped Founder](https://thebootstrappedfounder.com/emotional-journey/) — `2020-01-06-emotional-journey.md` — 262w
+- 2020-01-03 — [Your Initial Pricing Will Never Be Right, But Try Anyway](https://thebootstrappedfounder.com/your-initial-pricing-will-never-be-right/) — `2020-01-03-your-initial-pricing-will-never-be-right.md` — 1667w
+- 2020-01-02 — [The Bootstrapped Founder Newsletter Episode 8 – January 3rd 2020](https://thebootstrappedfounder.com/newsletter/episode-8/) — `2020-01-02-newsletter-episode-8.md` — 1442w
+- 2019-12-24 — [The Bootstrapped Founder Newsletter Episode 7 – December 27th 2019](https://thebootstrappedfounder.com/newsletter/episode-7/) — `2019-12-24-newsletter-episode-7.md` — 1547w
+- 2019-12-20 — [Churn, Retention, and Revenue: What Makes Customers Stick Around and Why That’s Important](https://thebootstrappedfounder.com/churn-retention-and-revenue/) — `2019-12-20-churn-retention-and-revenue.md` — 2012w
+- 2019-12-19 — [The Bootstrapped Founder Newsletter Episode 6 – December 20th 2019](https://thebootstrappedfounder.com/newsletter/episode-6/) — `2019-12-19-newsletter-episode-6.md` — 1646w
+- 2019-12-17 — [Continuous Validation: Staying in Touch with Your Market](https://thebootstrappedfounder.com/continuous-validation/) — `2019-12-17-continuous-validation.md` — 1862w
+- 2019-12-09 — [Too Many Eyes: Why Bootstrapped Companies Stop Being Transparent (Eventually)](https://thebootstrappedfounder.com/too-many-eyes/) — `2019-12-09-too-many-eyes.md` — 1543w
+- 2019-12-09 — [The Bootstrapped Founder Newsletter Episode 5 – December 13th 2019](https://thebootstrappedfounder.com/newsletter/episode-5/) — `2019-12-09-newsletter-episode-5.md` — 1251w
+- 2019-12-06 — [The Bootstrapper’s Plight: The Social Headaches of Building a Business](https://thebootstrappedfounder.com/the-bootstrappers-plight/) — `2019-12-06-the-bootstrappers-plight.md` — 1542w
+- 2019-12-05 — [Finding the Critical Problem: How to Work on The Right Things](https://thebootstrappedfounder.com/finding-the-critical-problem/) — `2019-12-05-finding-the-critical-problem.md` — 2411w
+- 2019-11-28 — [How to Do Maximum Customer Support with Minimum Effort](https://thebootstrappedfounder.com/how-to-do-maximum-customer-support-with-minimum-effort/) — `2019-11-28-how-to-do-maximum-customer-support-with-minimum-effort.md` — 2182w
+- 2019-11-28 — [Finding a Market to Build a SaaS](https://thebootstrappedfounder.com/finding-a-market-to-build-a-saas/) — `2019-11-28-finding-a-market-to-build-a-saas.md` — 2464w
+- 2019-11-27 — [The 5 Books That Helped Build and Sell a Bootstrapped SaaS in Under Two Years](https://thebootstrappedfounder.com/the-5-books-that-helped-build-and-sell-a-bootstrapped-saas-in-under-two-years/) — `2019-11-27-the-5-books-that-helped-build-and-sell-a-bootstrapped-saas-in-under-two-years.md` — 3002w
+- 2019-11-27 — [Clarity Call](https://thebootstrappedfounder.com/consulting/) — `2019-11-27-consulting.md` — 203w
+- 2019-11-26 — [Bootstrapper’s Bookshelf: The E](https://thebootstrappedfounder.com/bookshelf/the-e-myth-revisited/) — `2019-11-26-bookshelf-the-e-myth-revisited.md` — 466w
+- 2019-11-26 — [Bootstrapper’s Bookshelf: The 4](https://thebootstrappedfounder.com/bookshelf/the-4-hour-workweek/) — `2019-11-26-bookshelf-the-4-hour-workweek.md` — 551w
+- 2019-11-26 — [Bootstrapper’s Bookshelf: Hooked](https://thebootstrappedfounder.com/bookshelf/hooked/) — `2019-11-26-bookshelf-hooked.md` — 826w
+- 2019-11-26 — [Bootstrapper’s Bookshelf: Built to Sell](https://thebootstrappedfounder.com/bookshelf/built-to-sell/) — `2019-11-26-bookshelf-built-to-sell.md` — 596w
+- 2019-11-26 — [Bookstrapper’s Bookshelf: The Mom Test](https://thebootstrappedfounder.com/bookshelf/the-mom-test/) — `2019-11-26-bookshelf-the-mom-test.md` — 501w
+- 2019-11-22 — [Real and Imaginary Responsibilities of a Bootstrapped Founder](https://thebootstrappedfounder.com/real-and-imaginary-responsibilities-of-a-bootstrapped-founder/) — `2019-11-22-real-and-imaginary-responsibilities-of-a-bootstrapped-founder.md` — 2330w
+- 2019-11-19 — [Bootstrapper’s Bookshelf](https://thebootstrappedfounder.com/bookshelf/) — `2019-11-19-bookshelf.md` — 5286w
+- 2019-11-14 — [Determining the Size of Your SaaS Market](https://thebootstrappedfounder.com/determining-the-size-of-your-saas-market/) — `2019-11-14-determining-the-size-of-your-saas-market.md` — 2109w
+- 2019-11-13 — [A Secret Weapon for Entrepreneurs & Creators](https://thebootstrappedfounder.com/newsletter/) — `2019-11-13-newsletter.md` — 121w
+- 2019-11-11 — [Legal](https://thebootstrappedfounder.com/legal/) — `2019-11-11-legal.md` — 461w
+- 2019-11-09 — [From Founding to Exit in Two Years: The FeedbackPanda Story](https://thebootstrappedfounder.com/from-founding-to-exit-in-two-years-the-feedbackpanda-story/) — `2019-11-09-from-founding-to-exit-in-two-years-the-feedbackpanda-story.md` — 510w
+- 2019-11-06 — [Scaling Your SaaS Without Scaling Your Anxiety](https://thebootstrappedfounder.com/scaling-your-saas-without-scaling-your-anxiety/) — `2019-11-06-scaling-your-saas-without-scaling-your-anxiety.md` — 2294w

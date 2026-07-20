@@ -1,0 +1,94 @@
+# Dan Shipper corpus index
+
+Source: https://danshipper.com — fetched 2026-07-19
+89 posts, 87039 words. Format: date — [title](canonical url) — `file` — words.
+
+- undated — [“Damn” is a dirty word](https://danshipper.com/damn-is-a-dirty-word) — `undated-damn-is-a-dirty-word.md` — 482w
+- undated — [You’re selling it wrong](https://danshipper.com/youre-selling-it-wrong) — `undated-youre-selling-it-wrong.md` — 923w
+- undated — [Your goals are holding you back](https://danshipper.com/159185755) — `undated-159185755.md` — 2319w
+- undated — [You Have To Get Good Before You Get Better](https://danshipper.com/you-have-to-get-good-before-you-get-better) — `undated-you-have-to-get-good-before-you-get-better.md` — 801w
+- undated — [Writing and Running: Haruki Murakami](https://danshipper.com/writing-and-running-haruki-murakami) — `undated-writing-and-running-haruki-murakami.md` — 1119w
+- undated — [Would I do this for 10 years?](https://danshipper.com/would-i-do-this-for-10-years) — `undated-would-i-do-this-for-10-years.md` — 466w
+- undated — [Why you’re on a startup rollercoaster](https://danshipper.com/why-youre-on-a-startup-rollercoaster) — `undated-why-youre-on-a-startup-rollercoaster.md` — 1234w
+- undated — [Why are you in such a rush?](https://danshipper.com/why-are-you-in-such-a-rush) — `undated-why-are-you-in-such-a-rush.md` — 1937w
+- undated — [Why a Venture Capital Bubble Is Good for Bootstrapped Entrepreneurs](https://danshipper.com/why-a-venture-capital-bubble-is-good-for-boot) — `undated-why-a-venture-capital-bubble-is-good-for-boot.md` — 394w
+- undated — [Why We Do Startups](https://danshipper.com/92091937) — `undated-92091937.md` — 640w
+- undated — [Why Social Proof Matters To Your Startup](https://danshipper.com/why-social-proof-matters-to-your-startup) — `undated-why-social-proof-matters-to-your-startup.md` — 460w
+- undated — [Why I’m doing it all wrong](https://danshipper.com/why-im-doing-it-all-wrong) — `undated-why-im-doing-it-all-wrong.md` — 1164w
+- undated — [Why Credibility Matters](https://danshipper.com/45460668) — `undated-45460668.md` — 472w
+- undated — [What do you want to do least today? Do that first.](https://danshipper.com/what-do-you-want-to-do-least-today-do-that-fi) — `undated-what-do-you-want-to-do-least-today-do-that-fi.md` — 280w
+- undated — [What Makes Life Worth Living: A List of Beautiful Things](https://danshipper.com/what-makes-life-worth-living-a-list-of-beauti) — `undated-what-makes-life-worth-living-a-list-of-beauti.md` — 771w
+- undated — [What I learned bootstrapping a 6](https://danshipper.com/what-i-learned-bootstrapping-a-6-figure-business-from-school) — `undated-what-i-learned-bootstrapping-a-6-figure-business-from-school.md` — 4014w
+- undated — [What I Read Over Break](https://danshipper.com/what-i-read-over-break) — `undated-what-i-read-over-break.md` — 201w
+- undated — [What Does It Mean To Love What You Do?](https://danshipper.com/love-is-right-in-front-of-you) — `undated-love-is-right-in-front-of-you.md` — 940w
+- undated — [We’re Running Completely Blind](https://danshipper.com/were-running-completely-blind) — `undated-were-running-completely-blind.md` — 525w
+- undated — [Twitter’s Beginnings](https://danshipper.com/twitters-beginnings) — `undated-twitters-beginnings.md` — 230w
+- undated — [This Is 2016 Not 2012](https://danshipper.com/124690091) — `undated-124690091.md` — 591w
+- undated — [The “now” syndrome](https://danshipper.com/the-now-syndrome) — `undated-the-now-syndrome.md` — 801w
+- undated — [The regret fallacy](https://danshipper.com/the-regret-fallacy) — `undated-the-regret-fallacy.md` — 968w
+- undated — [The choices are fake and the truth is all made up](https://danshipper.com/the-choices-are-fake-and-the-truth-is-all-made-up) — `undated-the-choices-are-fake-and-the-truth-is-all-made-up.md` — 1305w
+- undated — [The Theory of Constraints (Or Why Bottlenecks Matter)](https://danshipper.com/58226479) — `undated-58226479.md` — 1205w
+- undated — [The Pragmatist and The Visionary](https://danshipper.com/the-pragmatist-and-the-visionary) — `undated-the-pragmatist-and-the-visionary.md` — 939w
+- undated — [The Most Common Type of Startup Idea That Probably Won’t Succeed](https://danshipper.com/the-most-common-type-of-startup-idea-that-pro) — `undated-the-most-common-type-of-startup-idea-that-pro.md` — 520w
+- undated — [The Inverted Pyramid: What Bertrand Russell Can Teach Us About The Limits of Logic](https://danshipper.com/the-inverted-pyramid-what-bertrand-russell-can-teach-us-about-the-limits-of-logic) — `undated-the-inverted-pyramid-what-bertrand-russell-can-teach-us-about-the-limits-of-logi.md` — 1098w
+- undated — [The Book of Five Rings](https://danshipper.com/the-book-of-five-rings) — `undated-the-book-of-five-rings.md` — 183w
+- undated — [Taste Isn’t Everything](https://danshipper.com/taste-isnt-everything) — `undated-taste-isnt-everything.md` — 460w
+- undated — [Taking off the rose colored glasses](https://danshipper.com/taking-off-the-rose-colored-glasses) — `undated-taking-off-the-rose-colored-glasses.md` — 1110w
+- undated — [Success is in NP](https://danshipper.com/success-is-in-np) — `undated-success-is-in-np.md` — 1025w
+- undated — [Stop Taking Yourself So Seriously](https://danshipper.com/stop-taking-yourself-so-seriously) — `undated-stop-taking-yourself-so-seriously.md` — 1181w
+- undated — [So that’s what they were talking about](https://danshipper.com/so-thats-what-they-were-talking-about) — `undated-so-thats-what-they-were-talking-about.md` — 1368w
+- undated — [Showing up is not enough](https://danshipper.com/showing-up-is-not-enough) — `undated-showing-up-is-not-enough.md` — 858w
+- undated — [Should I OEM my product?](https://danshipper.com/should-i-oem-my-product) — `undated-should-i-oem-my-product.md` — 2426w
+- undated — [Selling Umbrellas in a Synagogue](https://danshipper.com/selling-umbrellas-in-a-synagogue) — `undated-selling-umbrellas-in-a-synagogue.md` — 1249w
+- undated — [Say Hello To Airtime for Email](https://danshipper.com/say-hello-to-airtime-for-email) — `undated-say-hello-to-airtime-for-email.md` — 488w
+- undated — [Public speaking for introverts](https://danshipper.com/public-speaking-for-introverts) — `undated-public-speaking-for-introverts.md` — 1419w
+- undated — [Programming Is Like Dancing](https://danshipper.com/106071264) — `undated-106071264.md` — 807w
+- undated — [Pricing heuristics](https://danshipper.com/pricing-heuristics) — `undated-pricing-heuristics.md` — 673w
+- undated — [One good trick for interviewing candidates at a small startup](https://danshipper.com/one-good-trick-for-interviewing-candidates-at-a-small-startup) — `undated-one-good-trick-for-interviewing-candidates-at-a-small-startup.md` — 133w
+- undated — [One Month Two New Projects](https://danshipper.com/one-month-two-new-projects) — `undated-one-month-two-new-projects.md` — 288w
+- undated — [On negotiating your first few partnerships](https://danshipper.com/on-negotiating-your-first-few-partnerships) — `undated-on-negotiating-your-first-few-partnerships.md` — 2620w
+- undated — [On How to Live Your Life](https://danshipper.com/on-how-to-live-your-life) — `undated-on-how-to-live-your-life.md` — 192w
+- undated — [Nerd Culture](https://danshipper.com/nerd-culture) — `undated-nerd-culture.md` — 399w
+- undated — [My New Side](https://danshipper.com/my-new-side-project-domainpolish) — `undated-my-new-side-project-domainpolish.md` — 190w
+- undated — [My Goals for November](https://danshipper.com/my-goals-for-november) — `undated-my-goals-for-november.md` — 528w
+- undated — [My Credo](https://danshipper.com/my-credo) — `undated-my-credo.md` — 891w
+- undated — [My 10 Hour Project](https://danshipper.com/my-10-hour-project) — `undated-my-10-hour-project.md` — 120w
+- undated — [More on Limits](https://danshipper.com/more-on-limits) — `undated-more-on-limits.md` — 300w
+- undated — [Life Lessons According to Reddit](https://danshipper.com/life-lessons-according-to-reddit) — `undated-life-lessons-according-to-reddit.md` — 142w
+- undated — [Latent serendipity](https://danshipper.com/latent-serendipity) — `undated-latent-serendipity.md` — 4353w
+- undated — [I’m Sure It Will Only Take You A Few Days To Code](https://danshipper.com/non-technical-people-cant-estimate-developmen) — `undated-non-technical-people-cant-estimate-developmen.md` — 884w
+- undated — [Interviewing at Y Combinator Part 2](https://danshipper.com/interviewing-at-y-combinator-part-2) — `undated-interviewing-at-y-combinator-part-2.md` — 680w
+- undated — [Interviewing At Y Combinator Part 1](https://danshipper.com/interviewing-at-y-combinator-part-1) — `undated-interviewing-at-y-combinator-part-1.md` — 511w
+- undated — [I am a terrible programmer](https://danshipper.com/i-am-a-terrible-programmer) — `undated-i-am-a-terrible-programmer.md` — 854w
+- undated — [I Accidentally Blogged For A Year](https://danshipper.com/i-accidentally-blogged-for-a-year) — `undated-i-accidentally-blogged-for-a-year.md` — 352w
+- undated — [How to read a lot of books](https://danshipper.com/how-to-read-a-lot-of-books) — `undated-how-to-read-a-lot-of-books.md` — 1076w
+- undated — [How to make a million dollars](https://danshipper.com/how-to-make-a-million-dollars) — `undated-how-to-make-a-million-dollars.md` — 1897w
+- undated — [How to get your first 10 customers](https://danshipper.com/nothing-happens-until-the-sale-is-made) — `undated-nothing-happens-until-the-sale-is-made.md` — 2322w
+- undated — [How to figure out what you’re good at](https://danshipper.com/how-to-figure-out-what-youre-good-at) — `undated-how-to-figure-out-what-youre-good-at.md` — 1688w
+- undated — [How to build a blog readership](https://danshipper.com/how-to-build-a-blog-readership) — `undated-how-to-build-a-blog-readership.md` — 1695w
+- undated — [How To Tell Someone You Won’t Sign Their NDA](https://danshipper.com/how-to-tell-someone-you-wont-sign-their-nda) — `undated-how-to-tell-someone-you-wont-sign-their-nda.md` — 425w
+- undated — [How To Get Covered In a Major Tech Blog](https://danshipper.com/how-to-get-covered-in-a-major-tech-blog) — `undated-how-to-get-covered-in-a-major-tech-blog.md` — 604w
+- undated — [How To Cross The Street](https://danshipper.com/how-to-cross-the-street) — `undated-how-to-cross-the-street.md` — 130w
+- undated — [How To Become A Competent Web Designer in 2012](https://danshipper.com/how-to-become-a-competent-web-designer-in-201) — `undated-how-to-become-a-competent-web-designer-in-201.md` — 601w
+- undated — [How Is Chess Like The Socratic Method?](https://danshipper.com/how-is-chess-like-the-socratic-method) — `undated-how-is-chess-like-the-socratic-method.md` — 805w
+- undated — [How I Made $350 In Two Days With Three Pages and Some Payment Code](https://danshipper.com/how-i-made-350-in-two-days-with-three-pages-a) — `undated-how-i-made-350-in-two-days-with-three-pages-a.md` — 1029w
+- undated — [Here’s what I learned hanging out with Jason Fried](https://danshipper.com/heres-what-i-learned-hanging-out-with-jason-fried) — `undated-heres-what-i-learned-hanging-out-with-jason-fried.md` — 2804w
+- undated — [Grim Tweeper – The easy way to clean out your follow list](https://danshipper.com/grim-tweeper-the-easy-way-to-clean-out-your-f) — `undated-grim-tweeper-the-easy-way-to-clean-out-your-f.md` — 203w
+- undated — [Great design is all around us](https://danshipper.com/great-design-is-all-around-us) — `undated-great-design-is-all-around-us.md` — 338w
+- undated — [Getting Up Really Early](https://danshipper.com/getting-up-really-early) — `undated-getting-up-really-early.md` — 416w
+- undated — [Getting Started With SEO: Build A Base](https://danshipper.com/123815408) — `undated-123815408.md` — 922w
+- undated — [Gary Vaynerchuck](https://danshipper.com/gary-vaynerchuck) — `undated-gary-vaynerchuck.md` — 197w
+- undated — [DomainPolish: From MVP To Exit In 6 Months](https://danshipper.com/110636263) — `undated-110636263.md` — 1486w
+- undated — [DomainPolish 2 Months Later: $3,000 in Revenue](https://danshipper.com/domainpolish-2-months-later-3000-in-revenue) — `undated-domainpolish-2-months-later-3000-in-revenue.md` — 530w
+- undated — [Doing Away With Dogmatism](https://danshipper.com/doing-away-with-dogmatism) — `undated-doing-away-with-dogmatism.md` — 746w
+- undated — [Difference between doing it first and doing it right.](https://danshipper.com/difference-between-doing-it-first-and-doing-i) — `undated-difference-between-doing-it-first-and-doing-i.md` — 139w
+- undated — [Design Your Website Like A Trash Can](https://danshipper.com/design-your-website-like-a-trash-can) — `undated-design-your-website-like-a-trash-can.md` — 675w
+- undated — [Cultivating frugality](https://danshipper.com/cultivating-frugality) — `undated-cultivating-frugality.md` — 602w
+- undated — [Charlie Munger On How To Build A $2 Trillion Startup](https://danshipper.com/charlie-munger-on-how-to-build-a-2-trillion-startup) — `undated-charlie-munger-on-how-to-build-a-2-trillion-startup.md` — 4660w
+- undated — [Building a Better Train to Brooklyn](https://danshipper.com/building-a-better-train-to-brooklyn) — `undated-building-a-better-train-to-brooklyn.md` — 4309w
+- undated — [Bertrand Russell and Will Durant on Philosophy, Science and Religion](https://danshipper.com/bertrand-russell-and-will-durant-on-philosophy-science-and-religion) — `undated-bertrand-russell-and-will-durant-on-philosophy-science-and-religion.md` — 945w
+- undated — [Battle In The Boardroom: Why Groupon Probably Paid Off Its Early Employees](https://danshipper.com/battle-in-the-boardroom-why-groupon-probably) — `undated-battle-in-the-boardroom-why-groupon-probably.md` — 364w
+- undated — [B2B is unsexy, and I know it](https://danshipper.com/b2b-is-unsexy-and-i-know-it) — `undated-b2b-is-unsexy-and-i-know-it.md` — 638w
+- undated — [B2B Sales Aren’t As Simple As They Seem](https://danshipper.com/b2b-sales-arent-as-simple-as-they-seem) — `undated-b2b-sales-arent-as-simple-as-they-seem.md` — 539w
+- undated — [19 things that should be fixed](https://danshipper.com/19-things-that-should-be-fixed) — `undated-19-things-that-should-be-fixed.md` — 374w
+- undated — [#1 On HN: Our Traffic Stats](https://danshipper.com/1-on-hn-our-traffic-stats) — `undated-1-on-hn-our-traffic-stats.md` — 397w

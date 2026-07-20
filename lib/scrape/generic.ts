@@ -8,7 +8,7 @@ import {
 } from "./base";
 
 const COMMON_FEED_PATHS = ["/feed", "/feed.xml", "/rss", "/rss.xml", "/atom.xml"];
-const COMMON_SITEMAP_PATHS = ["/sitemap.xml", "/sitemap_index.xml"];
+const COMMON_SITEMAP_PATHS = ["/sitemap.xml", "/sitemap_index.xml", "/wp-sitemap.xml"];
 const MAX_INDEX_LINKS = 500;
 
 export function makeGenericScraper(source: FounderSource): BlogScraper {

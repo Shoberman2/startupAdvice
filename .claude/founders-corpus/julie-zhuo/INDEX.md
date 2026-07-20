@@ -1,0 +1,82 @@
+# Julie Zhuo corpus index
+
+Source: https://lg.substack.com — fetched 2026-07-19
+77 posts, 109036 words. Format: date — [title](canonical url) — `file` — words.
+
+- undated — [You're definitely going to be a manager now](https://lg.substack.com/p/managing-ai-is-like-managing-humans) — `undated-p-managing-ai-is-like-managing-humans.md` — 999w
+- undated — [When AI Has Better Taste Than You](https://lg.substack.com/p/when-ai-has-better-taste-than-you) — `undated-p-when-ai-has-better-taste-than-you.md` — 1497w
+- undated — [What It Actually Takes to Trust AI With Your Data](https://lg.substack.com/p/what-it-actually-takes-to-trust-ai) — `undated-p-what-it-actually-takes-to-trust-ai.md` — 1859w
+- undated — [Truth, Context, and Social Media](https://lg.substack.com/p/the-looking-glass-truth-context-and) — `undated-p-the-looking-glass-truth-context-and.md` — 1604w
+- undated — [To All the Folks Who Are About to Be Rich](https://lg.substack.com/p/to-all-the-folks-who-are-about-to) — `undated-p-to-all-the-folks-who-are-about-to.md` — 1688w
+- undated — [The gifts of 40](https://lg.substack.com/p/the-gifts-of-40) — `undated-p-the-gifts-of-40.md` — 1211w
+- undated — [The Words Count](https://lg.substack.com/p/the-looking-glass-the-words-count) — `undated-p-the-looking-glass-the-words-count.md` — 892w
+- undated — [The Valuable Employee Paradox](https://lg.substack.com/p/the-looking-glass-the-valuable-employee) — `undated-p-the-looking-glass-the-valuable-employee.md` — 1272w
+- undated — [The Thing You Are Expert at Will Be Your Career Downfall](https://lg.substack.com/p/the-thing-you-are-expert-at-will) — `undated-p-the-thing-you-are-expert-at-will.md` — 1826w
+- undated — [The Nag Metric](https://lg.substack.com/p/the-nag-metric) — `undated-p-the-nag-metric.md` — 1253w
+- undated — [The Making of a Founder](https://lg.substack.com/p/the-making-of-a-founder) — `undated-p-the-making-of-a-founder.md` — 830w
+- undated — [The Lost Art of Crying](https://lg.substack.com/p/the-lost-art-of-crying) — `undated-p-the-lost-art-of-crying.md` — 2819w
+- undated — [The Looking Glass: the biggest reasons I failed to influence](https://lg.substack.com/p/the-looking-glass-the-biggest-reasons) — `undated-p-the-looking-glass-the-biggest-reasons.md` — 1137w
+- undated — [The Looking Glass: You Cannot Teach Wisdom](https://lg.substack.com/p/the-looking-glass-you-cannot-teach) — `undated-p-the-looking-glass-you-cannot-teach.md` — 1653w
+- undated — [The Looking Glass: Why we do what we do](https://lg.substack.com/p/the-looking-glass-why-we-do-what) — `undated-p-the-looking-glass-why-we-do-what.md` — 164w
+- undated — [The Looking Glass: What company politics actually is](https://lg.substack.com/p/the-looking-glass-what-company-politics) — `undated-p-the-looking-glass-what-company-politics.md` — 2137w
+- undated — [The Looking Glass: What Incentives Good Work?](https://lg.substack.com/p/the-looking-glass-what-incentives) — `undated-p-the-looking-glass-what-incentives.md` — 130w
+- undated — [The Looking Glass: What Aladdin Should have Wished For](https://lg.substack.com/p/the-looking-glass-what-aladdin-should) — `undated-p-the-looking-glass-what-aladdin-should.md` — 1426w
+- undated — [The Looking Glass: What AI Won't Change](https://lg.substack.com/p/the-looking-glass-what-ai-wont-change) — `undated-p-the-looking-glass-what-ai-wont-change.md` — 1158w
+- undated — [The Looking Glass: Unintuitive, lying truths](https://lg.substack.com/p/the-looking-glass-those-unintuitive) — `undated-p-the-looking-glass-those-unintuitive.md` — 648w
+- undated — [The Looking Glass: The craft of creating](https://lg.substack.com/p/the-looking-glass-the-craft-of-creating) — `undated-p-the-looking-glass-the-craft-of-creating.md` — 1763w
+- undated — [The Looking Glass: The Year of Everyday Risks](https://lg.substack.com/p/the-looking-glass-the-year-of-everyday) — `undated-p-the-looking-glass-the-year-of-everyday.md` — 1694w
+- undated — [The Looking Glass: The Stories That Become History](https://lg.substack.com/p/the-looking-glass-the-stories-that) — `undated-p-the-looking-glass-the-stories-that.md` — 2086w
+- undated — [The Looking Glass: The Power of the Mindmeld](https://lg.substack.com/p/the-looking-glass-the-power-of-the) — `undated-p-the-looking-glass-the-power-of-the.md` — 1743w
+- undated — [The Looking Glass: The Paradoxes of Data](https://lg.substack.com/p/the-looking-glass-the-paradoxes-of) — `undated-p-the-looking-glass-the-paradoxes-of.md` — 1897w
+- undated — [The Looking Glass: The Origins of Leadership and Burnout](https://lg.substack.com/p/the-looking-glass-the-origins-of) — `undated-p-the-looking-glass-the-origins-of.md` — 1113w
+- undated — [The Looking Glass: The Most Operationalized Product Teams](https://lg.substack.com/p/the-looking-glass-bd6) — `undated-p-the-looking-glass-bd6.md` — 1047w
+- undated — [The Looking Glass: The Loudest Way to Lead](https://lg.substack.com/p/the-looking-glass-the-loudest-way) — `undated-p-the-looking-glass-the-loudest-way.md` — 1024w
+- undated — [The Looking Glass: The Curse of Perfect](https://lg.substack.com/p/the-looking-glass-the-curse-of-perfect) — `undated-p-the-looking-glass-the-curse-of-perfect.md` — 2767w
+- undated — [The Looking Glass: So you want to write better?](https://lg.substack.com/p/the-looking-glass-so-you-want-to) — `undated-p-the-looking-glass-so-you-want-to.md` — 1367w
+- undated — [The Looking Glass: Sharpening Judgement](https://lg.substack.com/p/the-looking-glass-sharpening-judgement) — `undated-p-the-looking-glass-sharpening-judgement.md` — 1161w
+- undated — [The Looking Glass: Reader Empathy and Weird People](https://lg.substack.com/p/the-looking-glass-reader-empathy) — `undated-p-the-looking-glass-reader-empathy.md` — 1417w
+- undated — [The Looking Glass: Prioritize until it hurts](https://lg.substack.com/p/the-looking-glass) — `undated-p-the-looking-glass.md` — 578w
+- undated — [The Looking Glass: New Year, New Form](https://lg.substack.com/p/the-looking-glass-new-year-new-form) — `undated-p-the-looking-glass-new-year-new-form.md` — 218w
+- undated — [The Looking Glass: Managing your Manager](https://lg.substack.com/p/the-looking-glass-managing-your-manager) — `undated-p-the-looking-glass-managing-your-manager.md` — 2053w
+- undated — [The Looking Glass: Love the problem](https://lg.substack.com/p/the-looking-glass-love-the-problem) — `undated-p-the-looking-glass-love-the-problem.md` — 1635w
+- undated — [The Looking Glass: If someone's gonna do it, why not you?](https://lg.substack.com/p/the-looking-glass-if-someones-gonna) — `undated-p-the-looking-glass-if-someones-gonna.md` — 157w
+- undated — [The Looking Glass: How to tell if work is beautiful](https://lg.substack.com/p/the-looking-glass-how-to-tell-if) — `undated-p-the-looking-glass-how-to-tell-if.md` — 922w
+- undated — [The Looking Glass: Holding Up the Mirror](https://lg.substack.com/p/the-looking-glass-holding-up-the) — `undated-p-the-looking-glass-holding-up-the.md` — 849w
+- undated — [The Looking Glass: Higher Level Design](https://lg.substack.com/p/the-looking-glass-higher-level-design) — `undated-p-the-looking-glass-higher-level-design.md` — 2283w
+- undated — [The Looking Glass: Handy Lists for Your Everyday](https://lg.substack.com/p/the-looking-glass-handy-lists-for) — `undated-p-the-looking-glass-handy-lists-for.md` — 176w
+- undated — [The Looking Glass: Get Over Yourself](https://lg.substack.com/p/the-looking-glass-get-over-yourself) — `undated-p-the-looking-glass-get-over-yourself.md` — 1540w
+- undated — [The Looking Glass: Fundraising, AI and Little Snacks](https://lg.substack.com/p/the-looking-glass-fundraising-ai) — `undated-p-the-looking-glass-fundraising-ai.md` — 1118w
+- undated — [The Looking Glass: Fear of What Others Think](https://lg.substack.com/p/the-looking-glass-fear-of-what-others) — `undated-p-the-looking-glass-fear-of-what-others.md` — 1869w
+- undated — [The Looking Glass: Faith and skepticism](https://lg.substack.com/p/the-looking-glass-faith-and-skepticism) — `undated-p-the-looking-glass-faith-and-skepticism.md` — 1861w
+- undated — [The Looking Glass: Elephants, Blind Men, and that One 15](https://lg.substack.com/p/the-looking-glass-elephants-blind) — `undated-p-the-looking-glass-elephants-blind.md` — 1396w
+- undated — [The Looking Glass: Culture Changers](https://lg.substack.com/p/the-looking-glass-culture-changers) — `undated-p-the-looking-glass-culture-changers.md` — 1559w
+- undated — [The Looking Glass: Changes and Confidence](https://lg.substack.com/p/the-looking-glass-changes-and-confidence) — `undated-p-the-looking-glass-changes-and-confidence.md` — 1439w
+- undated — [The Looking Glass: Chains of Assumptions](https://lg.substack.com/p/the-looking-glass-chains-of-assumptions) — `undated-p-the-looking-glass-chains-of-assumptions.md` — 1095w
+- undated — [The Looking Glass: Chains of Assumptions (Part 2)](https://lg.substack.com/p/the-looking-glass-chains-of-assumptions-b15) — `undated-p-the-looking-glass-chains-of-assumptions-b15.md` — 2454w
+- undated — [The Looking Glass: Back on the Saddle](https://lg.substack.com/p/the-looking-glass-back-on-the-saddle) — `undated-p-the-looking-glass-back-on-the-saddle.md` — 717w
+- undated — [The Looking Glass: All the world is made of trust](https://lg.substack.com/p/the-looking-glass-all-the-world-is) — `undated-p-the-looking-glass-all-the-world-is.md` — 1893w
+- undated — [The Looking Glass: All About Execution](https://lg.substack.com/p/the-looking-glass-all-about-execution) — `undated-p-the-looking-glass-all-about-execution.md` — 127w
+- undated — [The Looking Glass: 7 Questions to Impress Your Boss](https://lg.substack.com/p/the-looking-glass-7-questions-to) — `undated-p-the-looking-glass-7-questions-to.md` — 2509w
+- undated — [The Looking Glass: 2 Motivations and No Truths](https://lg.substack.com/p/the-looking-glass-2-motivations-and) — `undated-p-the-looking-glass-2-motivations-and.md` — 930w
+- undated — [The Looking Glass Mailing List](https://lg.substack.com/p/coming-soon) — `undated-p-coming-soon.md` — 152w
+- undated — [The Death of Product Development as We Know it](https://lg.substack.com/p/the-death-of-product-development) — `undated-p-the-death-of-product-development.md` — 1159w
+- undated — [The Data Job isn't Dying Because the Trust Problem is Exploding](https://lg.substack.com/p/the-data-job-isnt-dying-because-the) — `undated-p-the-data-job-isnt-dying-because-the.md` — 760w
+- undated — [The Cost of Self](https://lg.substack.com/p/the-cost-of-self-improvement) — `undated-p-the-cost-of-self-improvement.md` — 184w
+- undated — [The AI Quality Coup](https://lg.substack.com/p/the-ai-quality-coup) — `undated-p-the-ai-quality-coup.md` — 1699w
+- undated — [Stay Healthy. Stay Data](https://lg.substack.com/p/stay-healthy-stay-data-informed) — `undated-p-stay-healthy-stay-data-informed.md` — 1907w
+- undated — [Seven Reminders about Racism](https://lg.substack.com/p/the-looking-glass-seven-reminders) — `undated-p-the-looking-glass-seven-reminders.md` — 1270w
+- undated — [Seeking the Roots](https://lg.substack.com/p/the-looking-glass-seeking-the-roots) — `undated-p-the-looking-glass-seeking-the-roots.md` — 1794w
+- undated — [Products, Politics, Eyes, Networks, oh my](https://lg.substack.com/p/products-politics-eyes-networks-oh) — `undated-p-products-politics-eyes-networks-oh.md` — 132w
+- undated — [Playing Authentic Games](https://lg.substack.com/p/playing-authentic-games) — `undated-p-playing-authentic-games.md` — 926w
+- undated — [Our Souls Need Proof of Work](https://lg.substack.com/p/the-looking-glass-our-souls-need) — `undated-p-the-looking-glass-our-souls-need.md` — 2077w
+- undated — [Once More, With Feeling](https://lg.substack.com/p/once-more-with-feeling) — `undated-p-once-more-with-feeling.md` — 1175w
+- undated — [Managing Remotely](https://lg.substack.com/p/managing-remotely) — `undated-p-managing-remotely.md` — 1551w
+- undated — [I am an idiot](https://lg.substack.com/p/i-am-an-idiot) — `undated-p-i-am-an-idiot.md` — 1398w
+- undated — [How life was different during the early Internet](https://lg.substack.com/p/some-people-like-restoring-vintage) — `undated-p-some-people-like-restoring-vintage.md` — 3325w
+- undated — [Don't Let the Trolls Win](https://lg.substack.com/p/the-looking-glass-dont-let-the-trolls) — `undated-p-the-looking-glass-dont-let-the-trolls.md` — 1366w
+- undated — [Conversational Interfaces: the Good, the Ugly & the Billion](https://lg.substack.com/p/conversational-interfaces-the-good) — `undated-p-conversational-interfaces-the-good.md` — 2767w
+- undated — [Candidates, Companies, and the Matchmaking Problem](https://lg.substack.com/p/the-looking-glass-candidates-companies) — `undated-p-the-looking-glass-candidates-companies.md` — 2035w
+- undated — [A User Guide To Working With You](https://lg.substack.com/p/the-looking-glass-a-user-guide-to) — `undated-p-the-looking-glass-a-user-guide-to.md` — 3102w
+- 2026-06-09 — [What Excellent Growth Teams See That Others Miss](https://lg.substack.com/p/what-excellent-growth-teams-see-that) — `2026-06-09-p-what-excellent-growth-teams-see-that.md` — 1545w
+- 2026-06-09 — [How to Spot a World](https://lg.substack.com/p/how-to-spot-a-world-class-designer) — `2026-06-09-p-how-to-spot-a-world-class-designer.md` — 2192w
+- 2026-04-14 — [The Art and Excellence of Sales](https://lg.substack.com/p/the-art-and-excellence-of-sales) — `2026-04-14-p-the-art-and-excellence-of-sales.md` — 1860w

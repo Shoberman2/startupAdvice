@@ -1,9 +1,4 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "crons": [
-    {
-      "path": "/api/cron/debate-tick",
-      "schedule": "*/15 * * * *"
-    }
-  ]
+  "framework": "nextjs"
 }

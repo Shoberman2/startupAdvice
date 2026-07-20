@@ -1,0 +1,52 @@
+# Seth Godin corpus index
+
+Source: https://seths.blog — fetched 2026-07-19
+47 posts, 13937 words. Format: date — [title](canonical url) — `file` — words.
+
+- 2005-06-10 — [Journalists don’t always matter](https://seths.blog/2005/06/journalists_don/) — `2005-06-10-2005-06-journalists_don.md` — 163w
+- 2005-06-09 — [On being alert](https://seths.blog/2005/06/on_being_alert/) — `2005-06-09-2005-06-on_being_alert.md` — 230w
+- 2005-06-07 — [Treating people like they’re smart](https://seths.blog/2005/06/treating_people/) — `2005-06-07-2005-06-treating_people.md` — 527w
+- 2005-06-06 — [more on small](https://seths.blog/2005/06/more_on_small/) — `2005-06-06-2005-06-more_on_small.md` — 506w
+- 2005-06-05 — [Small is the new big](https://seths.blog/2005/06/small_is_the_ne/) — `2005-06-05-2005-06-small_is_the_ne.md` — 670w
+- 2005-06-04 — [Live by the cow…](https://seths.blog/2005/06/live_by_the_cow/) — `2005-06-04-2005-06-live_by_the_cow.md` — 136w
+- 2005-06-03 — [We don’t have to care, part I](https://seths.blog/2005/06/we_dont_have_to_1/) — `2005-06-03-2005-06-we_dont_have_to_1.md` — 402w
+- 2005-06-03 — [We don’t have to care, part II](https://seths.blog/2005/06/we_dont_have_to/) — `2005-06-03-2005-06-we_dont_have_to.md` — 218w
+- 2005-05-26 — [Is J. D. Salinger a Liar? Are You?](https://seths.blog/2005/05/is_j_d_salinger_1/) — `2005-05-26-2005-05-is_j_d_salinger_1.md` — 395w
+- 2005-05-26 — [ChangeThis, reborn](https://seths.blog/2005/05/changethis_rebo/) — `2005-05-26-2005-05-changethis_rebo.md` — 135w
+- 2005-05-25 — [Two more thoughts about podcasting](https://seths.blog/2005/05/two_more_though/) — `2005-05-25-2005-05-two_more_though.md` — 294w
+- 2005-05-25 — [Thinking about podcasting](https://seths.blog/2005/05/thinking_about_-5/) — `2005-05-25-2005-05-thinking_about_-5.md` — 284w
+- 2005-05-24 — [Web pages are so ugly!](https://seths.blog/2005/05/web_pages_are_s/) — `2005-05-24-2005-05-web_pages_are_s.md` — 158w
+- 2005-05-23 — [The Placebo Affect*](https://seths.blog/2005/05/the_placebo_aff/) — `2005-05-23-2005-05-the_placebo_aff.md` — 607w
+- 2005-05-23 — [$17 billion a year](https://seths.blog/2005/05/17_billion_a_ye/) — `2005-05-23-2005-05-17_billion_a_ye.md` — 147w
+- 2005-05-22 — [The Knut Masco story](https://seths.blog/2005/05/the_knut_masco_/) — `2005-05-22-2005-05-the_knut_masco_.md` — 370w
+- 2005-05-22 — [A letter from Kentucky](https://seths.blog/2005/05/a_letter_from_k/) — `2005-05-22-2005-05-a_letter_from_k.md` — 930w
+- 2005-05-20 — [Whatever happened to ChangeThis?](https://seths.blog/2005/05/whatever_happen/) — `2005-05-20-2005-05-whatever_happen.md` — 288w
+- 2005-05-20 — [Fundable… a next big thing?](https://seths.blog/2005/05/fundable_a_next/) — `2005-05-20-2005-05-fundable_a_next.md` — 187w
+- 2005-05-19 — [What will be on your tombstone](https://seths.blog/2005/05/what_will_be_on/) — `2005-05-19-2005-05-what_will_be_on.md` — 132w
+- 2005-05-19 — [Stagnation is easy, change is hard](https://seths.blog/2005/05/stagnation_is_e/) — `2005-05-19-2005-05-stagnation_is_e.md` — 538w
+- 2005-05-19 — [More downgrading](https://seths.blog/2005/05/more_downgradin/) — `2005-05-19-2005-05-more_downgradin.md` — 185w
+- 2005-05-17 — [Are you checking on yourself?](https://seths.blog/2005/05/are_you_checkin/) — `2005-05-17-2005-05-are_you_checkin.md` — 185w
+- 2005-05-16 — [Seth’s New eBook is ready](https://seths.blog/2005/05/seths_new_ebook/) — `2005-05-16-2005-05-seths_new_ebook.md` — 204w
+- 2005-05-16 — [Hostage to the fans (and the bureaucracy)](https://seths.blog/2005/05/hostage_to_the_/) — `2005-05-16-2005-05-hostage_to_the_.md` — 405w
+- 2005-05-15 — [The one and only](https://seths.blog/2005/05/the_one_and_onl/) — `2005-05-15-2005-05-the_one_and_onl.md` — 149w
+- 2005-05-15 — [How cool is this](https://seths.blog/2005/05/how_cool_is_thi/) — `2005-05-15-2005-05-how_cool_is_thi.md` — 180w
+- 2005-05-14 — [Same people, different moment](https://seths.blog/2005/05/same_people_dif/) — `2005-05-14-2005-05-same_people_dif.md` — 164w
+- 2005-05-12 — [What I learned at summer camp](https://seths.blog/2005/05/what_i_learned_-2/) — `2005-05-12-2005-05-what_i_learned_-2.md` — 367w
+- 2005-05-12 — [We and They](https://seths.blog/2005/05/we_and_they/) — `2005-05-12-2005-05-we_and_they.md` — 274w
+- 2005-05-12 — [The end of the cosmic jukebox](https://seths.blog/2005/05/the_end_of_the_-2/) — `2005-05-12-2005-05-the_end_of_the_-2.md` — 230w
+- 2005-05-12 — [If you have a web site](https://seths.blog/2005/05/if_you_have_a_w/) — `2005-05-12-2005-05-if_you_have_a_w.md` — 162w
+- 2005-05-12 — [Do you judge a book by its cover?](https://seths.blog/2005/05/do_you_judge_a_/) — `2005-05-12-2005-05-do_you_judge_a_.md` — 179w
+- 2005-05-11 — [public service announcement](https://seths.blog/2005/05/public_service_/) — `2005-05-11-2005-05-public_service_.md` — 219w
+- 2005-05-10 — [On Critics, Criticism and Remarkability](https://seths.blog/2005/05/on_critics_crit/) — `2005-05-10-2005-05-on_critics_crit.md` — 630w
+- 2005-05-09 — [What Every Good Marketer Knows](https://seths.blog/2005/05/what_every_good/) — `2005-05-09-2005-05-what_every_good.md` — 589w
+- 2005-05-09 — [The Reviews are trickling in…](https://seths.blog/2005/05/the_reviews_are_1/) — `2005-05-09-2005-05-the_reviews_are_1.md` — 159w
+- 2005-05-07 — [The New Digital Divide](https://seths.blog/2005/05/the_new_digital/) — `2005-05-07-2005-05-the_new_digital.md` — 569w
+- 2005-05-05 — [Seth’s favorite blog posts, part II](https://seths.blog/2005/05/seths_favorite_/) — `2005-05-05-2005-05-seths_favorite_.md` — 121w
+- 2005-05-05 — [It’s national tell-a-friend-about](https://seths.blog/2005/05/its_national_te/) — `2005-05-05-2005-05-its_national_te.md` — 134w
+- 2005-05-04 — [TED in the UK](https://seths.blog/2005/05/ted_in_the_uk/) — `2005-05-04-2005-05-ted_in_the_uk.md` — 371w
+- 2005-05-03 — [I bet you think this post is about you](https://seths.blog/2005/05/i_bet_you_think/) — `2005-05-03-2005-05-i_bet_you_think.md` — 183w
+- 2005-05-01 — [So a rabbi, a priest, a talking duck and a blonde walk into a bar…](https://seths.blog/2005/04/so_a_rabbi_a_pr/) — `2005-05-01-2005-04-so_a_rabbi_a_pr.md` — 290w
+- 2005-05-01 — [Hello?](https://seths.blog/2005/05/hello/) — `2005-05-01-2005-05-hello.md` — 190w
+- 2005-04-22 — [Nouns and verbs](https://seths.blog/2005/04/nouns_and_verbs/) — `2005-04-22-2005-04-nouns_and_verbs.md` — 158w
+- 2005-04-20 — [Things that change](https://seths.blog/2005/04/things_that_cha/) — `2005-04-20-2005-04-things_that_cha.md` — 194w
+- 2005-04-16 — [Playing by (and losing by) the rules](https://seths.blog/2005/04/playing_by_and_/) — `2005-04-16-2005-04-playing_by_and_.md` — 129w

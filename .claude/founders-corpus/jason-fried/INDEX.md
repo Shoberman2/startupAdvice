@@ -1,0 +1,98 @@
+# Jason Fried corpus index
+
+Source: https://world.hey.com/jason — fetched 2026-07-19
+93 posts, 31191 words. Format: date — [title](canonical url) — `file` — words.
+
+- 2026-03-20 — [The bespoke software revolution? I'm not buying it.](https://world.hey.com/jason/the-bespoke-software-revolution-i-m-not-buying-it-4bfad9ec) — `2026-03-20-jason-the-bespoke-software-revolution-i-m-not-buying-it-4bfad9ec.md` — 320w
+- 2026-01-14 — [Great design was a Cuisinart](https://world.hey.com/jason/great-design-was-a-cuisinart-86a83d1f) — `2026-01-14-jason-great-design-was-a-cuisinart-86a83d1f.md` — 141w
+- 2026-01-06 — [The joy of delegating to competence](https://world.hey.com/jason/the-joy-of-delegating-to-competence-55f50d4d) — `2026-01-06-jason-the-joy-of-delegating-to-competence-55f50d4d.md` — 134w
+- 2026-01-05 — [The big regression](https://world.hey.com/jason/the-big-regression-da7fc60d) — `2026-01-05-jason-the-big-regression-da7fc60d.md` — 568w
+- 2025-12-03 — [Introducing Fizzy, our newest product](https://world.hey.com/jason/introducing-fizzy-our-newest-product-83a4144f) — `2025-12-03-jason-introducing-fizzy-our-newest-product-83a4144f.md` — 411w
+- 2025-11-29 — [A beta is like inviting guests over](https://world.hey.com/jason/a-beta-is-like-inviting-guests-over-a146c056) — `2025-11-29-jason-a-beta-is-like-inviting-guests-over-a146c056.md` — 208w
+- 2025-11-18 — [Quality: The Concept2 RowErg](https://world.hey.com/jason/quality-the-concept2-rowerg-7f7bb027) — `2025-11-18-jason-quality-the-concept2-rowerg-7f7bb027.md` — 158w
+- 2025-10-07 — [When design drives behavior](https://world.hey.com/jason/when-design-drives-behavior-49baf157) — `2025-10-07-jason-when-design-drives-behavior-49baf157.md` — 489w
+- 2025-09-25 — [What to do with $2M?](https://world.hey.com/jason/what-to-do-with-2m-4f0a16b2) — `2025-09-25-jason-what-to-do-with-2m-4f0a16b2.md` — 130w
+- 2025-08-28 — [Marketing is...](https://world.hey.com/jason/marketing-is-8d39f651) — `2025-08-28-jason-marketing-is-8d39f651.md` — 195w
+- 2025-08-21 — [An obligation to independence](https://world.hey.com/jason/an-obligation-to-independence-670b78af) — `2025-08-21-jason-an-obligation-to-independence-670b78af.md` — 136w
+- 2025-07-25 — [Knives and battleships](https://world.hey.com/jason/knives-and-battleships-ac8dc8c2) — `2025-07-25-jason-knives-and-battleships-ac8dc8c2.md` — 457w
+- 2025-07-19 — [A fly and luck](https://world.hey.com/jason/a-fly-and-luck-c8adb7a4) — `2025-07-19-jason-a-fly-and-luck-c8adb7a4.md` — 148w
+- 2025-06-04 — [Years of evidence](https://world.hey.com/jason/years-of-evidence-9f0504db) — `2025-06-04-jason-years-of-evidence-9f0504db.md` — 121w
+- 2025-05-22 — [Cover letters? Yes!](https://world.hey.com/jason/cover-letters-yes-25dcdd0c) — `2025-05-22-jason-cover-letters-yes-25dcdd0c.md` — 283w
+- 2025-05-18 — [On Legacy](https://world.hey.com/jason/on-legacy-a083673f) — `2025-05-18-jason-on-legacy-a083673f.md` — 158w
+- 2025-05-08 — [Why new when?](https://world.hey.com/jason/why-new-when-752d0c5a) — `2025-05-08-jason-why-new-when-752d0c5a.md` — 186w
+- 2025-04-08 — [Doing what you think, not what you thought](https://world.hey.com/jason/doing-what-you-think-not-what-you-thought-60bb5bef) — `2025-04-08-jason-doing-what-you-think-not-what-you-thought-60bb5bef.md` — 247w
+- 2025-03-25 — [Go do business](https://world.hey.com/jason/go-do-business-00af347c) — `2025-03-25-jason-go-do-business-00af347c.md` — 151w
+- 2025-03-12 — [Randomly right](https://world.hey.com/jason/randomly-right-a2f3af64) — `2025-03-12-jason-randomly-right-a2f3af64.md` — 193w
+- 2025-02-21 — [Hiring judgement](https://world.hey.com/jason/hiring-judgement-bcf7ff6f) — `2025-02-21-jason-hiring-judgement-bcf7ff6f.md` — 246w
+- 2025-02-07 — [Governor Newsom: Please help Franklin fire victims](https://world.hey.com/jason/governor-newsom-please-help-franklin-fire-victims-a7fef514) — `2025-02-07-jason-governor-newsom-please-help-franklin-fire-victims-a7fef514.md` — 754w
+- 2025-02-06 — [What's still here?](https://world.hey.com/jason/what-s-still-here-7c5d0e03) — `2025-02-06-jason-what-s-still-here-7c5d0e03.md` — 148w
+- 2025-01-23 — [Subjectivity in productivity](https://world.hey.com/jason/subjectivity-in-productivity-e0b4e2ee) — `2025-01-23-jason-subjectivity-in-productivity-e0b4e2ee.md` — 445w
+- 2024-11-14 — [Making it happen vs. Letting it happen](https://world.hey.com/jason/making-it-happen-vs-letting-it-happen-28d4b4c0) — `2024-11-14-jason-making-it-happen-vs-letting-it-happen-28d4b4c0.md` — 283w
+- 2024-10-31 — [High and Low](https://world.hey.com/jason/high-and-low-b7125d81) — `2024-10-31-jason-high-and-low-b7125d81.md` — 251w
+- 2024-10-23 — [Version 1 is for you](https://world.hey.com/jason/version-1-is-for-you-658422f3) — `2024-10-23-jason-version-1-is-for-you-658422f3.md` — 558w
+- 2024-10-11 — [The Teenage Engineering TP-7](https://world.hey.com/jason/the-teenage-engineering-tp-7-2acc5b6d) — `2024-10-11-jason-the-teenage-engineering-tp-7-2acc5b6d.md` — 201w
+- 2024-10-09 — [Don't have a biggest customer](https://world.hey.com/jason/don-t-have-a-biggest-customer-99d1cafe) — `2024-10-09-jason-don-t-have-a-biggest-customer-99d1cafe.md` — 250w
+- 2024-10-04 — [Appetites instead of estimates](https://world.hey.com/jason/appetites-instead-of-estimates-192d39ba) — `2024-10-04-jason-appetites-instead-of-estimates-192d39ba.md` — 351w
+- 2024-09-27 — [No assistant](https://world.hey.com/jason/no-assistant-c81fb5e4) — `2024-09-27-jason-no-assistant-c81fb5e4.md` — 166w
+- 2024-09-12 — [Questions and Answers vs. Features and Benefits](https://world.hey.com/jason/questions-and-answers-vs-features-and-benefits-96523a76) — `2024-09-12-jason-questions-and-answers-vs-features-and-benefits-96523a76.md` — 247w
+- 2024-08-26 — [A company is a language](https://world.hey.com/jason/a-company-is-a-language-66517a62) — `2024-08-26-jason-a-company-is-a-language-66517a62.md` — 413w
+- 2024-07-12 — [Achieving optionality](https://world.hey.com/jason/achieving-optionality-56634dd3) — `2024-07-12-jason-achieving-optionality-56634dd3.md` — 401w
+- 2024-07-11 — [Directional decisions](https://world.hey.com/jason/directional-decisions-22bcd41c) — `2024-07-11-jason-directional-decisions-22bcd41c.md` — 766w
+- 2024-07-03 — [Introducing Writebook](https://world.hey.com/jason/introducing-writebook-e217cae3) — `2024-07-03-jason-introducing-writebook-e217cae3.md` — 344w
+- 2024-06-28 — [Sometimes it's better, sometimes it's worse](https://world.hey.com/jason/sometimes-it-s-better-sometimes-it-s-worse-c601264c) — `2024-06-28-jason-sometimes-it-s-better-sometimes-it-s-worse-c601264c.md` — 362w
+- 2024-06-26 — [Software defaults](https://world.hey.com/jason/software-defaults-15955a8e) — `2024-06-26-jason-software-defaults-15955a8e.md` — 330w
+- 2024-06-22 — [Thoughts on the search for life](https://world.hey.com/jason/thoughts-on-the-search-for-life-7bb9c6e6) — `2024-06-22-jason-thoughts-on-the-search-for-life-7bb9c6e6.md` — 555w
+- 2024-05-28 — [Lighten your grip](https://world.hey.com/jason/lighten-your-grip-724c37a3) — `2024-05-28-jason-lighten-your-grip-724c37a3.md` — 259w
+- 2024-05-10 — [Separation](https://world.hey.com/jason/separation-162a4b53) — `2024-05-10-jason-separation-162a4b53.md` — 508w
+- 2024-05-03 — [Why am I still doing this?](https://world.hey.com/jason/why-am-i-still-doing-this-b931cdf8) — `2024-05-03-jason-why-am-i-still-doing-this-b931cdf8.md` — 428w
+- 2024-04-13 — [Surface area vs. Depth in product design](https://world.hey.com/jason/surface-area-vs-depth-in-product-design-eabd0cb4) — `2024-04-13-jason-surface-area-vs-depth-in-product-design-eabd0cb4.md` — 144w
+- 2024-04-04 — [Motivation](https://world.hey.com/jason/motivation-50ab8280) — `2024-04-04-jason-motivation-50ab8280.md` — 126w
+- 2024-03-14 — [Avoiding pile-ups](https://world.hey.com/jason/avoiding-pile-ups-88f71f6b) — `2024-03-14-jason-avoiding-pile-ups-88f71f6b.md` — 318w
+- 2024-03-03 — [Hooks, towel bars, and software](https://world.hey.com/jason/hooks-towel-bars-and-software-14c66c8c) — `2024-03-03-jason-hooks-towel-bars-and-software-14c66c8c.md` — 286w
+- 2024-02-27 — [Do learn](https://world.hey.com/jason/do-learn-54ece4d4) — `2024-02-27-jason-do-learn-54ece4d4.md` — 357w
+- 2024-02-21 — [You couldn't know](https://world.hey.com/jason/you-couldn-t-know-3d98330d) — `2024-02-21-jason-you-couldn-t-know-3d98330d.md` — 344w
+- 2024-02-20 — [Don't delegate your word](https://world.hey.com/jason/don-t-delegate-your-word-1875de99) — `2024-02-20-jason-don-t-delegate-your-word-1875de99.md` — 156w
+- 2024-02-07 — [The data came from where?](https://world.hey.com/jason/the-data-came-from-where-a82d198d) — `2024-02-07-jason-the-data-came-from-where-a82d198d.md` — 253w
+- 2024-02-05 — [Making it balance](https://world.hey.com/jason/making-it-balance-5056a8fb) — `2024-02-05-jason-making-it-balance-5056a8fb.md` — 380w
+- 2024-02-05 — [Basecamp turns 20](https://world.hey.com/jason/basecamp-turns-20-a34c88e1) — `2024-02-05-jason-basecamp-turns-20-a34c88e1.md` — 724w
+- 2024-01-31 — [Enough feedback](https://world.hey.com/jason/enough-feedback-ccbc303c) — `2024-01-31-jason-enough-feedback-ccbc303c.md` — 196w
+- 2024-01-17 — [It’s all a judgment call](https://world.hey.com/jason/it-s-all-a-judgment-call-6ab5d025) — `2024-01-17-jason-it-s-all-a-judgment-call-6ab5d025.md` — 309w
+- 2024-01-16 — [Apple Vision Pro POV](https://world.hey.com/jason/apple-vision-pro-pov-d6ffafaf) — `2024-01-16-jason-apple-vision-pro-pov-d6ffafaf.md` — 523w
+- 2024-01-12 — [Swimming the center or the edge](https://world.hey.com/jason/swimming-the-center-or-the-edge-a61c6187) — `2024-01-12-jason-swimming-the-center-or-the-edge-a61c6187.md` — 324w
+- 2024-01-03 — [To make](https://world.hey.com/jason/to-make-5a88817f) — `2024-01-03-jason-to-make-5a88817f.md` — 290w
+- 2023-12-27 — [Cars and business](https://world.hey.com/jason/cars-and-business-eea60b8d) — `2023-12-27-jason-cars-and-business-eea60b8d.md` — 670w
+- 2023-11-27 — [Live with it for a while](https://world.hey.com/jason/live-with-it-for-a-while-a9191f5f) — `2023-11-27-jason-live-with-it-for-a-while-a9191f5f.md` — 238w
+- 2023-11-16 — [Commodities, generics, and software](https://world.hey.com/jason/commodities-generics-and-software-393ccf10) — `2023-11-16-jason-commodities-generics-and-software-393ccf10.md` — 237w
+- 2023-11-08 — [Heard Something, Read Something, Saw Something [#16]](https://world.hey.com/jason/heard-something-read-something-saw-something-16-afce97da) — `2023-11-08-jason-heard-something-read-something-saw-something-16-afce97da.md` — 180w
+- 2023-11-03 — [Look back less](https://world.hey.com/jason/look-back-less-848e9db0) — `2023-11-03-jason-look-back-less-848e9db0.md` — 658w
+- 2023-10-23 — [An influence or a trap?](https://world.hey.com/jason/an-influence-or-a-trap-3e09b8c3) — `2023-10-23-jason-an-influence-or-a-trap-3e09b8c3.md` — 265w
+- 2023-10-19 — [Always cheer](https://world.hey.com/jason/always-cheer-ccd76145) — `2023-10-19-jason-always-cheer-ccd76145.md` — 212w
+- 2023-10-18 — [Then just say it like that!](https://world.hey.com/jason/then-just-say-it-like-that-3fe992bb) — `2023-10-18-jason-then-just-say-it-like-that-3fe992bb.md` — 199w
+- 2023-10-13 — [Teaching iteration](https://world.hey.com/jason/teaching-iteration-2787a665) — `2023-10-13-jason-teaching-iteration-2787a665.md` — 766w
+- 2023-10-02 — [No one's complaining](https://world.hey.com/jason/no-one-s-complaining-48a64c8b) — `2023-10-02-jason-no-one-s-complaining-48a64c8b.md` — 216w
+- 2023-09-29 — [Don't take their word for it](https://world.hey.com/jason/don-t-take-their-word-for-it-f8cdea9c) — `2023-09-29-jason-don-t-take-their-word-for-it-f8cdea9c.md` — 455w
+- 2023-09-25 — [Keeping easy from becoming hard](https://world.hey.com/jason/keeping-easy-from-becoming-hard-e6af27d0) — `2023-09-25-jason-keeping-easy-from-becoming-hard-e6af27d0.md` — 514w
+- 2023-09-12 — [Company culture is the last 50 days](https://world.hey.com/jason/company-culture-is-the-last-50-days-dab19416) — `2023-09-12-jason-company-culture-is-the-last-50-days-dab19416.md` — 252w
+- 2023-09-08 — [Feeling it](https://world.hey.com/jason/feeling-it-0fdcdbf8) — `2023-09-08-jason-feeling-it-0fdcdbf8.md` — 139w
+- 2023-08-23 — [Scatter](https://world.hey.com/jason/scatter-8a4a1e4a) — `2023-08-23-jason-scatter-8a4a1e4a.md` — 163w
+- 2023-07-20 — [Effective > Productive](https://world.hey.com/jason/effective-productive-acfa210d) — `2023-07-20-jason-effective-productive-acfa210d.md` — 218w
+- 2023-07-17 — [Stalking, not sales](https://world.hey.com/jason/stalking-not-sales-8c750b03) — `2023-07-17-jason-stalking-not-sales-8c750b03.md` — 192w
+- 2023-07-12 — [Who do you do business with?](https://world.hey.com/jason/who-do-you-do-business-with-47c6c9d5) — `2023-07-12-jason-who-do-you-do-business-with-47c6c9d5.md` — 536w
+- 2023-07-10 — [You only compete with one thing](https://world.hey.com/jason/you-only-compete-with-one-thing-48a20d93) — `2023-07-10-jason-you-only-compete-with-one-thing-48a20d93.md` — 638w
+- 2023-06-20 — [73% of what?](https://world.hey.com/jason/73-of-what-80e24c13) — `2023-06-20-jason-73-of-what-80e24c13.md` — 397w
+- 2023-06-19 — [Promise not to promise](https://world.hey.com/jason/promise-not-to-promise-18eca88a) — `2023-06-19-jason-promise-not-to-promise-18eca88a.md` — 442w
+- 2023-06-11 — [Heard Something, Read Something, Saw Something [#15]](https://world.hey.com/jason/heard-something-read-something-saw-something-15-c20deaf4) — `2023-06-11-jason-heard-something-read-something-saw-something-15-c20deaf4.md` — 177w
+- 2023-06-08 — [Advice Expires](https://world.hey.com/jason/advice-expires-d37374e6) — `2023-06-08-jason-advice-expires-d37374e6.md` — 526w
+- 2023-06-06 — [Two visions of the future](https://world.hey.com/jason/two-visions-of-the-future-88e4d9bf) — `2023-06-06-jason-two-visions-of-the-future-88e4d9bf.md` — 178w
+- 2023-06-02 — [Protectionism](https://world.hey.com/jason/protectionism-56be443d) — `2023-06-02-jason-protectionism-56be443d.md` — 407w
+- 2023-05-17 — [Kill Overkill](https://world.hey.com/jason/kill-overkill-4689acac) — `2023-05-17-jason-kill-overkill-4689acac.md` — 452w
+- 2023-05-12 — [Yet](https://world.hey.com/jason/yet-1b219fa8) — `2023-05-12-jason-yet-1b219fa8.md` — 411w
+- 2023-05-11 — [We stand with the Underdogs](https://world.hey.com/jason/we-stand-with-the-underdogs-7d487d64) — `2023-05-11-jason-we-stand-with-the-underdogs-7d487d64.md` — 202w
+- 2023-05-10 — [You can learn AI later](https://world.hey.com/jason/you-can-learn-ai-later-08fce896) — `2023-05-10-jason-you-can-learn-ai-later-08fce896.md` — 311w
+- 2023-05-08 — [On hiring, rehiring, and one question to answer them all](https://world.hey.com/jason/on-hiring-rehiring-and-one-question-to-answer-them-all-5db97bcb) — `2023-05-08-jason-on-hiring-rehiring-and-one-question-to-answer-them-all-5db97bcb.md` — 639w
+- 2023-05-05 — [Heard Something, Read Something, Saw Something [#14]](https://world.hey.com/jason/heard-something-read-something-saw-something-14-d7628c64) — `2023-05-05-jason-heard-something-read-something-saw-something-14-d7628c64.md` — 163w
+- 2023-05-02 — [Evaluating a redesign](https://world.hey.com/jason/evaluating-a-redesign-80309257) — `2023-05-02-jason-evaluating-a-redesign-80309257.md` — 261w
+- 2023-04-26 — [Founder & CEO is kinda a BS title](https://world.hey.com/jason/founder-ceo-is-kinda-a-bs-title-9fe101e9) — `2023-04-26-jason-founder-ceo-is-kinda-a-bs-title-9fe101e9.md` — 489w
+- 2023-04-14 — [Innovation is overrated](https://world.hey.com/jason/innovation-is-overrated-4994874c) — `2023-04-14-jason-innovation-is-overrated-4994874c.md` — 227w
+- 2023-04-04 — [How we built something useful](https://world.hey.com/jason/how-we-built-something-useful-8ff6a83b) — `2023-04-04-jason-how-we-built-something-useful-8ff6a83b.md` — 882w
+- 2023-03-29 — [The improv instinct](https://world.hey.com/jason/the-improv-instinct-bdf7d930) — `2023-03-29-jason-the-improv-instinct-bdf7d930.md` — 449w

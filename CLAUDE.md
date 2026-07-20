@@ -1,19 +1,30 @@
 # Founder Panel
 
-Eight founders. Your question. With receipts. A Next.js App Router app on Vercel with AI SDK v6, streaming answers from a pgvector-backed corpus of founder essays.
+Founder Panel has exactly two product surfaces:
 
-See `README.md` for the architecture diagram, env vars, and run instructions.
+1. Claude Code skills: `/founder-conversation` and `/board-room`.
+2. A single installation landing page at `/` linking to the GitHub repository.
 
-## Design System
+Do not add a hosted chat product, API routes, authentication, payments, databases, user accounts, analytics, founder profile pages, or other application routes unless the user explicitly changes the product direction.
 
-Always read `DESIGN.md` before making any visual or UI decisions. It is the source of truth for typography, color, spacing, motion, and per-surface composition (`/`, `/panel`, `/with`, `/watch`, `/watch/[id]`, `/think`, `/think/[founder]/[topic]`, citation drawer).
+## Command contract
 
-All font choices, colors, spacing, radii, and aesthetic direction are defined there. Do not deviate without explicit user approval — open a PR that updates `DESIGN.md` first, then the code that consumes it.
+- Project skills live under `.claude/skills/<name>/SKILL.md`.
+- The generated roster and URL-only source indexes are committed under `.claude/founders-corpus/`.
+- Full-text research copies and `ideas/` memos are local and gitignored.
+- Every answer is source-grounded, uses canonical citations, limits quotations, and includes a no-affiliation disclosure.
+- `/founder-conversation` selects exactly one roster member.
+- `/board-room` seats 2–5 roster members and keeps each member's evidence separate.
 
-In QA mode, flag any code that doesn't match `DESIGN.md`. Specifically:
-- Chat bubbles anywhere
-- Status pills / tag chips for live/concluded state
-- Card grids for things that should be typographic lists
-- `system-ui` or `-apple-system` as primary font
-- Border-radius > 8px on anything except avatars
-- Anything else on the AI-slop blacklist in `DESIGN.md`
+## Validation
+
+```bash
+bun run founders:validate:release
+bun run founders:validate
+bun test
+bun run build
+```
+
+## Landing page
+
+The design source of truth is `DESIGN.md`. Keep the landing page static, fast, accessible, and focused on explaining the two commands and sending visitors to GitHub.

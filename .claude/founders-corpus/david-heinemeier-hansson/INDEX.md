@@ -1,0 +1,103 @@
+# David Heinemeier Hansson corpus index
+
+Source: https://world.hey.com/dhh — fetched 2026-07-19
+98 posts, 50543 words. Format: date — [title](canonical url) — `file` — words.
+
+- 2026-07-16 — [Three sacred cows that must die so Europe can live](https://world.hey.com/dhh/three-sacred-cows-that-must-die-so-europe-can-live-1afb203d) — `2026-07-16-dhh-three-sacred-cows-that-must-die-so-europe-can-live-1afb203d.md` — 843w
+- 2026-07-14 — [Dell is on a roll with the XPS](https://world.hey.com/dhh/dell-is-on-a-roll-with-the-xps-5a09a84e) — `2026-07-14-dhh-dell-is-on-a-roll-with-the-xps-5a09a84e.md` — 1051w
+- 2026-07-12 — [The will to power will return](https://world.hey.com/dhh/the-will-to-power-will-return-58ffb9dc) — `2026-07-12-dhh-the-will-to-power-will-return-58ffb9dc.md` — 431w
+- 2026-07-11 — [But Y](https://world.hey.com/dhh/but-y-2c04e16a) — `2026-07-11-dhh-but-y-2c04e16a.md` — 763w
+- 2026-06-19 — [European Delusions & Danish Drones](https://world.hey.com/dhh/european-delusions-danish-drones-a3da0d27) — `2026-06-19-dhh-european-delusions-danish-drones-a3da0d27.md` — 433w
+- 2026-06-17 — [The Rape of Britain](https://world.hey.com/dhh/the-rape-of-britain-610412f8) — `2026-06-17-dhh-the-rape-of-britain-610412f8.md` — 273w
+- 2026-06-03 — [A pond of interesting problems](https://world.hey.com/dhh/a-pond-of-interesting-problems-5f697567) — `2026-06-03-dhh-a-pond-of-interesting-problems-5f697567.md` — 321w
+- 2026-06-01 — [Let the agents democratize open source](https://world.hey.com/dhh/let-the-agents-democratize-open-source-9fd630a9) — `2026-06-01-dhh-let-the-agents-democratize-open-source-9fd630a9.md` — 350w
+- 2026-05-26 — [Basecamp Five](https://world.hey.com/dhh/basecamp-five-8fcfd2ef) — `2026-05-26-dhh-basecamp-five-8fcfd2ef.md` — 557w
+- 2026-04-21 — [Celebrating computers at Omacon](https://world.hey.com/dhh/celebrating-computers-at-omacon-163eb568) — `2026-04-21-dhh-celebrating-computers-at-omacon-163eb568.md` — 396w
+- 2026-04-15 — [The malleable computer](https://world.hey.com/dhh/the-malleable-computer-7c187a9b) — `2026-04-15-dhh-the-malleable-computer-7c187a9b.md` — 314w
+- 2026-04-06 — [Panther Lake is the real deal](https://world.hey.com/dhh/panther-lake-is-the-real-deal-4bd731f1) — `2026-04-06-dhh-panther-lake-is-the-real-deal-4bd731f1.md` — 767w
+- 2026-03-25 — [Basecamp becomes agent accessible](https://world.hey.com/dhh/basecamp-becomes-agent-accessible-3ae6b949) — `2026-03-25-dhh-basecamp-becomes-agent-accessible-3ae6b949.md` — 440w
+- 2026-03-23 — [Denmark desperately needs more inequality](https://world.hey.com/dhh/denmark-desperately-needs-more-inequality-8e84a8d0) — `2026-03-23-dhh-denmark-desperately-needs-more-inequality-8e84a8d0.md` — 727w
+- 2026-03-16 — [ONCE (Again)](https://world.hey.com/dhh/once-again-3e99f755) — `2026-03-16-dhh-once-again-3e99f755.md` — 337w
+- 2026-02-18 — [Omacon comes to New York](https://world.hey.com/dhh/omacon-comes-to-new-york-e6ee93cb) — `2026-02-18-dhh-omacon-comes-to-new-york-e6ee93cb.md` — 361w
+- 2026-02-05 — [Clankers with claws](https://world.hey.com/dhh/clankers-with-claws-9f86fa71) — `2026-02-05-dhh-clankers-with-claws-9f86fa71.md` — 501w
+- 2026-02-03 — [Cloud gaming is kinda amazing](https://world.hey.com/dhh/cloud-gaming-is-kinda-amazing-b8a19c57) — `2026-02-03-dhh-cloud-gaming-is-kinda-amazing-b8a19c57.md` — 847w
+- 2026-01-07 — [Promoting AI agents](https://world.hey.com/dhh/promoting-ai-agents-3ee04945) — `2026-01-07-dhh-promoting-ai-agents-3ee04945.md` — 692w
+- 2025-12-16 — [The O'Saasy License](https://world.hey.com/dhh/the-o-saasy-license-336c5c8f) — `2025-12-16-dhh-the-o-saasy-license-336c5c8f.md` — 251w
+- 2025-12-09 — [Europe is weak and delusional (but not doomed)](https://world.hey.com/dhh/europe-is-weak-and-delusional-but-not-doomed-8b10e7cb) — `2025-12-09-dhh-europe-is-weak-and-delusional-but-not-doomed-8b10e7cb.md` — 1100w
+- 2025-12-03 — [Fizzy is our fun, modern take on Kanban (and we made it open source!)](https://world.hey.com/dhh/fizzy-is-our-fun-modern-take-on-kanban-and-we-made-it-open-source-54ac41b6) — `2025-12-03-dhh-fizzy-is-our-fun-modern-take-on-kanban-and-we-made-it-open-source-54ac41b6.md` — 588w
+- 2025-12-01 — [Six billion reasons to cheer for Shopify](https://world.hey.com/dhh/six-billion-reasons-to-cheer-for-shopify-55720846) — `2025-12-01-dhh-six-billion-reasons-to-cheer-for-shopify-55720846.md` — 525w
+- 2025-11-25 — [Local LLMs are how nerds now justify a big computer they don't need](https://world.hey.com/dhh/local-llms-are-how-nerds-now-justify-a-big-computer-they-don-t-need-af2fcb7b) — `2025-11-25-dhh-local-llms-are-how-nerds-now-justify-a-big-computer-they-don-t-need-af2fcb7b.md` — 271w
+- 2025-11-24 — [No backup, no cry](https://world.hey.com/dhh/no-backup-no-cry-274e0c31) — `2025-11-24-dhh-no-backup-no-cry-274e0c31.md` — 325w
+- 2025-10-29 — [Sabbaticals keep our attrition at bay](https://world.hey.com/dhh/sabbaticals-keep-our-attrition-at-bay-9ccba5c0) — `2025-10-29-dhh-sabbaticals-keep-our-attrition-at-bay-9ccba5c0.md` — 421w
+- 2025-10-25 — [Success always spawns haters](https://world.hey.com/dhh/success-always-spawns-haters-75edaede) — `2025-10-25-dhh-success-always-spawns-haters-75edaede.md` — 300w
+- 2025-10-16 — [A petabyte worth of Omarchy in a month](https://world.hey.com/dhh/a-petabyte-worth-of-omarchy-in-a-month-a1fc538e) — `2025-10-16-dhh-a-petabyte-worth-of-omarchy-in-a-month-a1fc538e.md` — 697w
+- 2025-10-07 — [Give me AI slop over human sludge any day](https://world.hey.com/dhh/give-me-ai-slop-over-human-sludge-any-day-8c4b747d) — `2025-10-07-dhh-give-me-ai-slop-over-human-sludge-any-day-8c4b747d.md` — 324w
+- 2025-10-04 — [Pay yourself first](https://world.hey.com/dhh/pay-yourself-first-e86f8147) — `2025-10-04-dhh-pay-yourself-first-e86f8147.md` — 281w
+- 2025-09-24 — [Calling someone a "nazi" is a permission slip for violence](https://world.hey.com/dhh/calling-someone-a-nazi-is-a-permission-slip-for-violence-4bfbbb82) — `2025-09-24-dhh-calling-someone-a-nazi-is-a-permission-slip-for-violence-4bfbbb82.md` — 356w
+- 2025-09-22 — [The great falls of Boeing, Intel, and Apple](https://world.hey.com/dhh/the-great-falls-of-boeing-intel-and-apple-4c18ca39) — `2025-09-22-dhh-the-great-falls-of-boeing-intel-and-apple-4c18ca39.md` — 428w
+- 2025-09-15 — [As I remember London](https://world.hey.com/dhh/as-i-remember-london-e7d38e64) — `2025-09-15-dhh-as-i-remember-london-e7d38e64.md` — 1059w
+- 2025-09-14 — [Apple has no one left who can say no](https://world.hey.com/dhh/apple-has-no-one-left-who-can-say-no-1a542329) — `2025-09-14-dhh-apple-has-no-one-left-who-can-say-no-1a542329.md` — 736w
+- 2025-09-11 — [Words are not violence](https://world.hey.com/dhh/words-are-not-violence-c751f14f) — `2025-09-11-dhh-words-are-not-violence-c751f14f.md` — 654w
+- 2025-09-06 — [Thrice charmed at Rails World](https://world.hey.com/dhh/thrice-charmed-at-rails-world-c4ed0006) — `2025-09-06-dhh-thrice-charmed-at-rails-world-c4ed0006.md` — 863w
+- 2025-09-06 — [Engineering excellence starts on edge](https://world.hey.com/dhh/engineering-excellence-starts-on-edge-c36e4c59) — `2025-09-06-dhh-engineering-excellence-starts-on-edge-c36e4c59.md` — 409w
+- 2025-08-26 — [Omarchy 2.0](https://world.hey.com/dhh/omarchy-2-0-16fefc15) — `2025-08-26-dhh-omarchy-2-0-16fefc15.md` — 243w
+- 2025-08-26 — [National pride](https://world.hey.com/dhh/national-pride-f7aa1e92) — `2025-08-26-dhh-national-pride-f7aa1e92.md` — 338w
+- 2025-08-14 — [Omarchy micro-forks Chromium](https://world.hey.com/dhh/omarchy-micro-forks-chromium-1287486d) — `2025-08-14-dhh-omarchy-micro-forks-chromium-1287486d.md` — 158w
+- 2025-08-09 — [All-in on Omarchy at 37signals](https://world.hey.com/dhh/all-in-on-omarchy-at-37signals-68162450) — `2025-08-09-dhh-all-in-on-omarchy-at-37signals-68162450.md` — 530w
+- 2025-08-08 — [It's beginning to feel like the 80s in America again](https://world.hey.com/dhh/it-s-beginning-to-feel-like-the-80s-in-america-again-68c2708e) — `2025-08-08-dhh-it-s-beginning-to-feel-like-the-80s-in-america-again-68c2708e.md` — 867w
+- 2025-08-07 — [YouTube has earned its crown](https://world.hey.com/dhh/youtube-has-earned-its-crown-48f12ccc) — `2025-08-07-dhh-youtube-has-earned-its-crown-48f12ccc.md` — 436w
+- 2025-08-07 — [The Framework Desktop is a beast](https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff) — `2025-08-07-dhh-the-framework-desktop-is-a-beast-636fb4ff.md` — 1314w
+- 2025-08-05 — [Omarchy is on the move](https://world.hey.com/dhh/omarchy-is-on-the-move-8f848fa4) — `2025-08-05-dhh-omarchy-is-on-the-move-8f848fa4.md` — 295w
+- 2025-07-31 — [Executives should be the least busy people](https://world.hey.com/dhh/executives-should-be-the-least-busy-people-bb94fb18) — `2025-07-31-dhh-executives-should-be-the-least-busy-people-bb94fb18.md` — 238w
+- 2025-07-28 — [The beauty of ideals](https://world.hey.com/dhh/the-beauty-of-ideals-b3dccf72) — `2025-07-28-dhh-the-beauty-of-ideals-b3dccf72.md` — 374w
+- 2025-07-25 — [Building competency is better than therapy](https://world.hey.com/dhh/building-competency-is-better-than-therapy-4622c6b7) — `2025-07-25-dhh-building-competency-is-better-than-therapy-4622c6b7.md` — 409w
+- 2025-07-24 — [You expect principles but should wish for none](https://world.hey.com/dhh/you-expect-principles-but-should-wish-for-none-531988ec) — `2025-07-24-dhh-you-expect-principles-but-should-wish-for-none-531988ec.md` — 513w
+- 2025-07-23 — [It's a Beelink, baby](https://world.hey.com/dhh/it-s-a-beelink-baby-243fdaf1) — `2025-07-23-dhh-it-s-a-beelink-baby-243fdaf1.md` — 586w
+- 2025-07-17 — [American hype](https://world.hey.com/dhh/american-hype-6f7afd1b) — `2025-07-17-dhh-american-hype-6f7afd1b.md` — 429w
+- 2025-07-16 — [Linux crosses magic market share threshold in US](https://world.hey.com/dhh/linux-crosses-magic-market-share-threshold-in-us-1f914771) — `2025-07-16-dhh-linux-crosses-magic-market-share-threshold-in-us-1f914771.md` — 275w
+- 2025-07-14 — [The 6 Hours of Lex](https://world.hey.com/dhh/the-6-hours-of-lex-888cbf16) — `2025-07-14-dhh-the-6-hours-of-lex-888cbf16.md` — 215w
+- 2025-07-03 — [Get in losers, we're moving to Linux!](https://world.hey.com/dhh/get-in-losers-we-re-moving-to-linux-5e1b93cd) — `2025-07-03-dhh-get-in-losers-we-re-moving-to-linux-5e1b93cd.md` — 450w
+- 2025-06-29 — [The parental dead end of consent morality](https://world.hey.com/dhh/the-parental-dead-end-of-consent-morality-e4e8a8ee) — `2025-06-29-dhh-the-parental-dead-end-of-consent-morality-e4e8a8ee.md` — 852w
+- 2025-06-27 — [Self-driving is finally happening](https://world.hey.com/dhh/self-driving-is-finally-happening-1d973fdd) — `2025-06-27-dhh-self-driving-is-finally-happening-1d973fdd.md` — 303w
+- 2025-06-26 — [Omarchy is out](https://world.hey.com/dhh/omarchy-is-out-4666dd31) — `2025-06-26-dhh-omarchy-is-out-4666dd31.md` — 412w
+- 2025-06-03 — [Gender and Sexuality Alliances in primary school at CIS?!](https://world.hey.com/dhh/gender-and-sexuality-alliances-in-primary-school-at-cis-97f66c06) — `2025-06-03-dhh-gender-and-sexuality-alliances-in-primary-school-at-cis-97f66c06.md` — 837w
+- 2025-06-03 — [Denmark gets more serious about digital sovereignty](https://world.hey.com/dhh/denmark-gets-more-serious-about-digital-sovereignty-7736f756) — `2025-06-03-dhh-denmark-gets-more-serious-about-digital-sovereignty-7736f756.md` — 643w
+- 2025-06-02 — [Omarchy: Bottling that inspiration before it spoils](https://world.hey.com/dhh/omarchy-bottling-that-inspiration-before-it-spoils-cd75e26b) — `2025-06-02-dhh-omarchy-bottling-that-inspiration-before-it-spoils-cd75e26b.md` — 813w
+- 2025-05-20 — [HEY is finally for sale on the iPhone!](https://world.hey.com/dhh/hey-is-finally-for-sale-on-the-iphone-a08cb218) — `2025-05-20-dhh-hey-is-finally-for-sale-on-the-iphone-a08cb218.md` — 1024w
+- 2025-05-19 — [Have you tried the exact opposite?](https://world.hey.com/dhh/have-you-tried-the-exact-opposite-1d55b7b5) — `2025-05-19-dhh-have-you-tried-the-exact-opposite-1d55b7b5.md` — 232w
+- 2025-05-18 — [Cheap mini PCs have gotten really good](https://world.hey.com/dhh/cheap-mini-pcs-have-gotten-really-good-c70ab40f) — `2025-05-18-dhh-cheap-mini-pcs-have-gotten-really-good-c70ab40f.md` — 929w
+- 2025-05-13 — [Coding should be a vibe!](https://world.hey.com/dhh/coding-should-be-a-vibe-50908f49) — `2025-05-13-dhh-coding-should-be-a-vibe-50908f49.md` — 516w
+- 2025-04-28 — [Don't make Google sell Chrome](https://world.hey.com/dhh/don-t-make-google-sell-chrome-93cefbc6) — `2025-04-28-dhh-don-t-make-google-sell-chrome-93cefbc6.md` — 390w
+- 2025-04-24 — [We'll always need junior programmers](https://world.hey.com/dhh/we-ll-always-need-junior-programmers-69ddb4a1) — `2025-04-24-dhh-we-ll-always-need-junior-programmers-69ddb4a1.md` — 288w
+- 2025-04-17 — [The new Framework 13 HX370](https://world.hey.com/dhh/the-new-framework-13-hx370-68675e0e) — `2025-04-17-dhh-the-new-framework-13-hx370-68675e0e.md` — 616w
+- 2025-04-15 — [Normal boyhood is ADHD](https://world.hey.com/dhh/normal-boyhood-is-adhd-a9593488) — `2025-04-15-dhh-normal-boyhood-is-adhd-a9593488.md` — 719w
+- 2025-04-11 — [Believe it's going to work even though it probably won't](https://world.hey.com/dhh/believe-it-s-going-to-work-even-though-it-probably-won-t-58fd9dc5) — `2025-04-11-dhh-believe-it-s-going-to-work-even-though-it-probably-won-t-58fd9dc5.md` — 271w
+- 2025-04-08 — [Why we won't hire a junior with five years of experience](https://world.hey.com/dhh/why-we-won-t-hire-a-junior-with-five-years-of-experience-0a548994) — `2025-04-08-dhh-why-we-won-t-hire-a-junior-with-five-years-of-experience-0a548994.md` — 395w
+- 2025-04-07 — [Universal Basic Dead End](https://world.hey.com/dhh/universal-basic-dead-end-8b7178b9) — `2025-04-07-dhh-universal-basic-dead-end-8b7178b9.md` — 1031w
+- 2025-03-31 — [Great AI Steals](https://world.hey.com/dhh/great-ai-steals-280615be) — `2025-03-31-dhh-great-ai-steals-280615be.md` — 381w
+- 2025-03-29 — [The Year on Linux](https://world.hey.com/dhh/the-year-on-linux-7f30279e) — `2025-03-29-dhh-the-year-on-linux-7f30279e.md` — 428w
+- 2025-03-28 — [Singularity & Serenity](https://world.hey.com/dhh/singularity-serenity-0198b8b5) — `2025-03-28-dhh-singularity-serenity-0198b8b5.md` — 153w
+- 2025-03-26 — [It's five grand a day to miss our S3 exit](https://world.hey.com/dhh/it-s-five-grand-a-day-to-miss-our-s3-exit-b8293563) — `2025-03-26-dhh-it-s-five-grand-a-day-to-miss-our-s3-exit-b8293563.md` — 402w
+- 2025-03-25 — [To hell with forever](https://world.hey.com/dhh/to-hell-with-forever-a7e9099d) — `2025-03-25-dhh-to-hell-with-forever-a7e9099d.md` — 404w
+- 2025-03-19 — [The 80s are still alive in Denmark](https://world.hey.com/dhh/the-80s-are-still-alive-in-denmark-54e7a404) — `2025-03-19-dhh-the-80s-are-still-alive-in-denmark-54e7a404.md` — 716w
+- 2025-03-19 — [Apple needs a new asshole in charge](https://world.hey.com/dhh/apple-needs-a-new-asshole-in-charge-0bf46b94) — `2025-03-19-dhh-apple-needs-a-new-asshole-in-charge-0bf46b94.md` — 223w
+- 2025-03-19 — [Age is a problem at Apple](https://world.hey.com/dhh/age-is-a-problem-at-apple-f7ae6eca) — `2025-03-19-dhh-age-is-a-problem-at-apple-f7ae6eca.md` — 262w
+- 2025-03-16 — [The most interesting people](https://world.hey.com/dhh/the-most-interesting-people-4950913f) — `2025-03-16-dhh-the-most-interesting-people-4950913f.md` — 169w
+- 2025-03-12 — [We wash our trash to repent for killing God](https://world.hey.com/dhh/we-wash-our-trash-to-repent-for-killing-god-d1c823bd) — `2025-03-12-dhh-we-wash-our-trash-to-repent-for-killing-god-d1c823bd.md` — 541w
+- 2025-03-12 — [Our switch to Kamal is complete](https://world.hey.com/dhh/our-switch-to-kamal-is-complete-8e0de22e) — `2025-03-12-dhh-our-switch-to-kamal-is-complete-8e0de22e.md` — 388w
+- 2025-03-11 — [Closing the borders alone won't fix the problems](https://world.hey.com/dhh/closing-the-borders-alone-won-t-fix-the-problems-aca49088) — `2025-03-11-dhh-closing-the-borders-alone-won-t-fix-the-problems-aca49088.md` — 197w
+- 2025-03-10 — [Apple does AI as Microsoft did mobile](https://world.hey.com/dhh/apple-does-ai-as-microsoft-did-mobile-df2c98ca) — `2025-03-10-dhh-apple-does-ai-as-microsoft-did-mobile-df2c98ca.md` — 393w
+- 2025-03-06 — [Beans and vibes in even measure](https://world.hey.com/dhh/beans-and-vibes-in-even-measure-8eff819c) — `2025-03-06-dhh-beans-and-vibes-in-even-measure-8eff819c.md` — 321w
+- 2025-03-05 — [Air purifiers are a simple answer to allergies](https://world.hey.com/dhh/air-purifiers-are-a-simple-answer-to-allergies-3ea70b03) — `2025-03-05-dhh-air-purifiers-are-a-simple-answer-to-allergies-3ea70b03.md` — 401w
+- 2025-03-03 — [Human service is luxury](https://world.hey.com/dhh/human-service-is-luxury-bb5bba1a) — `2025-03-03-dhh-human-service-is-luxury-bb5bba1a.md` — 341w
+- 2025-02-27 — [AMD in everything](https://world.hey.com/dhh/amd-in-everything-0ec0cc6e) — `2025-02-27-dhh-amd-in-everything-0ec0cc6e.md` — 965w
+- 2025-02-26 — [The New York Times gives liberals The Danish Permission to pivot on mass immigration](https://world.hey.com/dhh/the-new-york-times-gives-liberals-the-danish-permission-to-pivot-on-mass-immigration-e7484a14) — `2025-02-26-dhh-the-new-york-times-gives-liberals-the-danish-permission-to-pivot-on-mass-imm.md` — 261w
+- 2025-02-21 — [Stick with the customer](https://world.hey.com/dhh/stick-with-the-customer-4942402f) — `2025-02-21-dhh-stick-with-the-customer-4942402f.md` — 371w
+- 2025-02-20 — [When to give up](https://world.hey.com/dhh/when-to-give-up-1dd951f9) — `2025-02-20-dhh-when-to-give-up-1dd951f9.md` — 719w
+- 2025-02-19 — [Europe must become dangerous again](https://world.hey.com/dhh/europe-must-become-dangerous-again-13413d78) — `2025-02-19-dhh-europe-must-become-dangerous-again-13413d78.md` — 467w
+- 2025-02-17 — [Leave it to the Germans](https://world.hey.com/dhh/leave-it-to-the-germans-94dd4bbe) — `2025-02-17-dhh-leave-it-to-the-germans-94dd4bbe.md` — 451w
+- 2025-02-17 — [Europe's impotent rage](https://world.hey.com/dhh/europe-s-impotent-rage-7edae302) — `2025-02-17-dhh-europe-s-impotent-rage-7edae302.md` — 431w
+- 2025-02-15 — [Europeans don't have or understand free speech](https://world.hey.com/dhh/europeans-don-t-have-or-understand-free-speech-c7c406e8) — `2025-02-15-dhh-europeans-don-t-have-or-understand-free-speech-c7c406e8.md` — 1083w
+- 2025-02-08 — [Serving the country](https://world.hey.com/dhh/serving-the-country-9faa5ef3) — `2025-02-08-dhh-serving-the-country-9faa5ef3.md` — 931w
+- 2025-02-07 — [Servers can last a long time](https://world.hey.com/dhh/servers-can-last-a-long-time-165c955c) — `2025-02-07-dhh-servers-can-last-a-long-time-165c955c.md` — 345w
+- 2025-01-31 — [It burns](https://world.hey.com/dhh/it-burns-9576a115) — `2025-01-31-dhh-it-burns-9576a115.md` — 866w

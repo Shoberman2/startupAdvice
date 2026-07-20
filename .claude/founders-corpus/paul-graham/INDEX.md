@@ -1,0 +1,234 @@
+# Paul Graham corpus index
+
+Source: https://paulgraham.com/articles.html — fetched 2026-07-19
+229 posts, 546028 words. Format: date — [title](canonical url) — `file` — words.
+
+- undated — [Why Arc Isn't Especially Object-Oriented](https://paulgraham.com/noop.html) — `undated-noop-html.md` — 197w
+- undated — [What Languages Fix](https://paulgraham.com/fix.html) — `undated-fix-html.md` — 214w
+- undated — [Programming Bottom-Up](https://paulgraham.com/progbot.html) — `undated-progbot-html.md` — 679w
+- 2026-06-01 — [How to Earn a Billion Dollars](https://paulgraham.com/earn.html) — `2026-06-01-earn-html.md` — 2360w
+- 2026-05-01 — [How to Convert Between Wealth and Income Tax](https://paulgraham.com/winc.html) — `2026-05-01-winc-html.md` — 697w
+- 2026-03-01 — [The Brand Age](https://paulgraham.com/brandage.html) — `2026-03-01-brandage-html.md` — 7654w
+- 2025-06-01 — [The Shape of the Essay Field](https://paulgraham.com/field.html) — `2025-06-01-field-html.md` — 767w
+- 2025-05-01 — [Good Writing](https://paulgraham.com/goodwriting.html) — `2025-05-01-goodwriting-html.md` — 1643w
+- 2025-03-01 — [What to Do](https://paulgraham.com/do.html) — `2025-03-01-do-html.md` — 1588w
+- 2025-01-01 — [The Origins of Wokeness](https://paulgraham.com/woke.html) — `2025-01-01-woke-html.md` — 5993w
+- 2024-10-01 — [Writes and Write-Nots](https://paulgraham.com/writes.html) — `2024-10-01-writes-html.md` — 504w
+- 2024-09-01 — [When To Do What You Love](https://paulgraham.com/when.html) — `2024-09-01-when-html.md` — 1543w
+- 2024-09-01 — [Founder Mode](https://paulgraham.com/foundermode.html) — `2024-09-01-foundermode-html.md` — 1242w
+- 2024-07-01 — [The Right Kind of Stubborn](https://paulgraham.com/persistence.html) — `2024-07-01-persistence-html.md` — 1934w
+- 2024-03-01 — [The Reddits](https://paulgraham.com/reddits.html) — `2024-03-01-reddits-html.md` — 1166w
+- 2024-03-01 — [The Best Essay](https://paulgraham.com/best.html) — `2024-03-01-best-html.md` — 4336w
+- 2024-03-01 — [How to Start Google](https://paulgraham.com/google.html) — `2024-03-01-google-html.md` — 2824w
+- 2023-10-01 — [Superlinear Returns](https://paulgraham.com/superlinear.html) — `2023-10-01-superlinear-html.md` — 4256w
+- 2023-07-01 — [How to Do Great Work](https://paulgraham.com/greatwork.html) — `2023-07-01-greatwork-html.md` — 11790w
+- 2023-01-01 — [How to Get New Ideas](https://paulgraham.com/getideas.html) — `2023-01-01-getideas-html.md` — 145w
+- 2022-11-01 — [What You (Want to)* Want](https://paulgraham.com/want.html) — `2022-11-01-want-html.md` — 509w
+- 2022-11-01 — [The Need to Read](https://paulgraham.com/read.html) — `2022-11-01-read-html.md` — 444w
+- 2022-10-01 — [Alien Truth](https://paulgraham.com/alien.html) — `2022-10-01-alien-html.md` — 682w
+- 2022-09-01 — [What I've Learned from Users](https://paulgraham.com/users.html) — `2022-09-01-users-html.md` — 2159w
+- 2022-04-01 — [Heresy](https://paulgraham.com/heresy.html) — `2022-04-01-heresy-html.md` — 2043w
+- 2022-02-01 — [Putting Ideas into Words](https://paulgraham.com/words.html) — `2022-02-01-words-html.md` — 1162w
+- 2021-11-01 — [Is There Such a Thing as Good Taste?](https://paulgraham.com/goodtaste.html) — `2021-11-01-goodtaste-html.md` — 1121w
+- 2021-10-01 — [Beyond Smart](https://paulgraham.com/smart.html) — `2021-10-01-smart-html.md` — 1420w
+- 2021-08-01 — [Weird Languages](https://paulgraham.com/weird.html) — `2021-08-01-weird-html.md` — 346w
+- 2021-06-01 — [How to Work Hard](https://paulgraham.com/hwh.html) — `2021-06-01-hwh-html.md` — 2973w
+- 2021-06-01 — [A Project of One's Own](https://paulgraham.com/own.html) — `2021-06-01-own-html.md` — 2508w
+- 2021-05-01 — [Fierce Nerds](https://paulgraham.com/fn.html) — `2021-05-01-fn-html.md` — 1246w
+- 2021-05-01 — [Crazy New Ideas](https://paulgraham.com/newideas.html) — `2021-05-01-newideas-html.md` — 1324w
+- 2021-05-01 — [An NFT That Saves Lives](https://paulgraham.com/nft.html) — `2021-05-01-nft-html.md` — 312w
+- 2021-04-01 — [The Real Reason to End the Death Penalty](https://paulgraham.com/real.html) — `2021-04-01-real-html.md` — 761w
+- 2021-04-01 — [How People Get Rich Now](https://paulgraham.com/richnow.html) — `2021-04-01-richnow-html.md` — 2581w
+- 2021-03-01 — [Write Simply](https://paulgraham.com/simply.html) — `2021-03-01-simply-html.md` — 507w
+- 2021-03-01 — [Donate Unrestricted](https://paulgraham.com/donate.html) — `2021-03-01-donate-html.md` — 483w
+- 2021-02-01 — [What I Worked On](https://paulgraham.com/worked.html) — `2021-02-01-worked-html.md` — 13808w
+- 2020-12-01 — [The Airbnbs](https://paulgraham.com/airbnbs.html) — `2020-12-01-airbnbs-html.md` — 1100w
+- 2020-12-01 — [Earnestness](https://paulgraham.com/earnest.html) — `2020-12-01-earnest-html.md` — 1669w
+- 2020-12-01 — [Billionaires Build](https://paulgraham.com/ace.html) — `2020-12-01-ace-html.md` — 3423w
+- 2020-11-01 — [How to Think for Yourself](https://paulgraham.com/think.html) — `2020-11-01-think-html.md` — 3444w
+- 2020-10-01 — [Early Work](https://paulgraham.com/early.html) — `2020-10-01-early-html.md` — 2083w
+- 2020-08-01 — [Modeling a Wealth Tax](https://paulgraham.com/wtax.html) — `2020-08-01-wtax-html.md` — 403w
+- 2020-07-01 — [The Four Quadrants of Conformism](https://paulgraham.com/conformism.html) — `2020-07-01-conformism-html.md` — 1850w
+- 2020-07-01 — [Orthodox Privilege](https://paulgraham.com/orth.html) — `2020-07-01-orth-html.md` — 648w
+- 2020-04-01 — [Coronavirus and Credibility](https://paulgraham.com/cred.html) — `2020-04-01-cred-html.md` — 235w
+- 2020-02-01 — [How to Write Usefully](https://paulgraham.com/useful.html) — `2020-02-01-useful-html.md` — 2862w
+- 2020-01-01 — [Haters](https://paulgraham.com/fh.html) — `2020-01-01-fh-html.md` — 1389w
+- 2020-01-01 — [Being a Noob](https://paulgraham.com/noob.html) — `2020-01-01-noob-html.md` — 371w
+- 2019-12-01 — [The Two Kinds of Moderate](https://paulgraham.com/mod.html) — `2019-12-01-mod-html.md` — 666w
+- 2019-12-01 — [The Lesson to Unlearn](https://paulgraham.com/lesson.html) — `2019-12-01-lesson-html.md` — 4041w
+- 2019-12-01 — [Having Kids](https://paulgraham.com/kids.html) — `2019-12-01-kids-html.md` — 1535w
+- 2019-12-01 — [Fashionable Problems](https://paulgraham.com/fp.html) — `2019-12-01-fp-html.md` — 188w
+- 2019-11-01 — [The Bus Ticket Theory of Genius](https://paulgraham.com/genius.html) — `2019-11-01-genius-html.md` — 2493w
+- 2019-11-01 — [Novelty and Heresy](https://paulgraham.com/nov.html) — `2019-11-01-nov-html.md` — 253w
+- 2017-09-01 — [General and Surprising](https://paulgraham.com/sun.html) — `2017-09-01-sun-html.md` — 437w
+- 2017-01-01 — [The Risk of Discovery](https://paulgraham.com/disc.html) — `2017-01-01-disc-html.md` — 214w
+- 2016-11-01 — [This Year We Can End the Death Penalty in California](https://paulgraham.com/prop62.html) — `2016-11-01-prop62-html.md` — 185w
+- 2016-04-01 — [How to Make Pittsburgh a Startup Hub](https://paulgraham.com/pgh.html) — `2016-04-01-pgh-html.md` — 2634w
+- 2016-01-01 — [The Refragmentation](https://paulgraham.com/re.html) — `2016-01-01-re-html.md` — 7155w
+- 2016-01-01 — [Life is Short](https://paulgraham.com/vb.html) — `2016-01-01-vb-html.md` — 1673w
+- 2016-01-01 — [Economic Inequality](https://paulgraham.com/ineq.html) — `2016-01-01-ineq-html.md` — 3319w
+- 2015-11-01 — [Jessica Livingston](https://paulgraham.com/jessica.html) — `2015-11-01-jessica-html.md` — 1966w
+- 2015-10-01 — [Write Like You Talk](https://paulgraham.com/talk.html) — `2015-10-01-talk-html.md` — 639w
+- 2015-10-01 — [Default Alive or Default Dead?](https://paulgraham.com/aord.html) — `2015-10-01-aord-html.md` — 1496w
+- 2015-10-01 — [A Way to Detect Bias](https://paulgraham.com/bias.html) — `2015-10-01-bias-html.md` — 563w
+- 2015-08-01 — [Why It's Safe for Founders to Be Nice](https://paulgraham.com/safe.html) — `2015-08-01-safe-html.md` — 783w
+- 2015-08-01 — [Change Your Name](https://paulgraham.com/name.html) — `2015-08-01-name-html.md` — 756w
+- 2015-02-01 — [What Microsoft Is this the Altair Basic of?](https://paulgraham.com/altair.html) — `2015-02-01-altair-html.md` — 375w
+- 2015-01-01 — [What Doesn't Seem Like Work?](https://paulgraham.com/work.html) — `2015-01-01-work-html.md` — 481w
+- 2015-01-01 — [The Ronco Principle](https://paulgraham.com/ronco.html) — `2015-01-01-ronco-html.md` — 628w
+- 2015-01-01 — [Don't Talk to Corp Dev](https://paulgraham.com/corpdev.html) — `2015-01-01-corpdev-html.md` — 1226w
+- 2014-12-01 — [The Fatal Pinch](https://paulgraham.com/pinch.html) — `2014-12-01-pinch-html.md` — 1480w
+- 2014-12-01 — [Let the Other 95% of Great Programmers In](https://paulgraham.com/95.html) — `2014-12-01-95-html.md` — 922w
+- 2014-12-01 — [How to Be an Expert in a Changing World](https://paulgraham.com/ecw.html) — `2014-12-01-ecw-html.md` — 1059w
+- 2014-12-01 — [How You Know](https://paulgraham.com/know.html) — `2014-12-01-know-html.md` — 578w
+- 2014-11-01 — [Mean People Fail](https://paulgraham.com/mean.html) — `2014-11-01-mean-html.md` — 1136w
+- 2014-10-01 — [Before the Startup](https://paulgraham.com/before.html) — `2014-10-01-before-html.md` — 4591w
+- 2013-09-01 — [How to Raise Money](https://paulgraham.com/fr.html) — `2013-09-01-fr-html.md` — 10297w
+- 2013-08-01 — [Investor Herd Dynamics](https://paulgraham.com/herd.html) — `2013-08-01-herd-html.md` — 1094w
+- 2013-08-01 — [How to Convince Investors](https://paulgraham.com/convince.html) — `2013-08-01-convince-html.md` — 3467w
+- 2013-07-01 — [Do Things that Don't Scale](https://paulgraham.com/ds.html) — `2013-07-01-ds-html.md` — 4343w
+- 2013-06-01 — [Startup Investing Trends](https://paulgraham.com/invtrend.html) — `2013-06-01-invtrend-html.md` — 2953w
+- 2012-11-01 — [How to Get Startup Ideas](https://paulgraham.com/startupideas.html) — `2012-11-01-startupideas-html.md` — 7073w
+- 2012-10-01 — [The Hardware Renaissance](https://paulgraham.com/hw.html) — `2012-10-01-hw-html.md` — 390w
+- 2012-09-01 — [Startup = Growth](https://paulgraham.com/growth.html) — `2012-09-01-growth-html.md` — 5230w
+- 2012-09-01 — [Black Swan Farming](https://paulgraham.com/swan.html) — `2012-09-01-swan-html.md` — 2146w
+- 2012-04-01 — [The Top of My Todo List](https://paulgraham.com/todo.html) — `2012-04-01-todo-html.md` — 199w
+- 2012-03-01 — [Writing and Speaking](https://paulgraham.com/speak.html) — `2012-03-01-speak-html.md` — 1192w
+- 2012-03-01 — [How Y Combinator Started](https://paulgraham.com/ycstart.html) — `2012-03-01-ycstart-html.md` — 1445w
+- 2012-03-01 — [Frighteningly Ambitious Startup Ideas](https://paulgraham.com/ambitious.html) — `2012-03-01-ambitious-html.md` — 3751w
+- 2012-03-01 — [Defining Property](https://paulgraham.com/property.html) — `2012-03-01-property-html.md` — 978w
+- 2012-01-01 — [Schlep Blindness](https://paulgraham.com/schlep.html) — `2012-01-01-schlep-html.md` — 838w
+- 2012-01-01 — [A Word to the Resourceful](https://paulgraham.com/word.html) — `2012-01-01-word-html.md` — 787w
+- 2011-10-01 — [Why Startup Hubs Work](https://paulgraham.com/hubs.html) — `2011-10-01-hubs-html.md` — 1794w
+- 2011-08-01 — [The Patent Pledge](https://paulgraham.com/patentpledge.html) — `2011-08-01-patentpledge-html.md` — 578w
+- 2011-03-01 — [Subject: Airbnb](https://paulgraham.com/airbnb.html) — `2011-03-01-airbnb-html.md` — 1343w
+- 2010-12-01 — [Tablets](https://paulgraham.com/tablets.html) — `2010-12-01-tablets-html.md` — 547w
+- 2010-12-01 — [Founder Control](https://paulgraham.com/control.html) — `2010-12-01-control-html.md` — 767w
+- 2010-10-01 — [Where to See Silicon Valley](https://paulgraham.com/seesv.html) — `2010-10-01-seesv-html.md` — 1069w
+- 2010-10-01 — [What We Look for in Founders](https://paulgraham.com/founders.html) — `2010-10-01-founders-html.md` — 785w
+- 2010-10-01 — [The New Funding Landscape](https://paulgraham.com/superangels.html) — `2010-10-01-superangels-html.md` — 3570w
+- 2010-09-01 — [High Resolution Fundraising](https://paulgraham.com/hiresfund.html) — `2010-09-01-hiresfund-html.md` — 700w
+- 2010-08-01 — [What Happened to Yahoo](https://paulgraham.com/yahoo.html) — `2010-08-01-yahoo-html.md` — 2037w
+- 2010-08-01 — [The Future of Startup Funding](https://paulgraham.com/future.html) — `2010-08-01-future-html.md` — 3785w
+- 2010-07-01 — [The Top Idea in Your Mind](https://paulgraham.com/top.html) — `2010-07-01-top-html.md` — 1007w
+- 2010-07-01 — [The Acceleration of Addictiveness](https://paulgraham.com/addiction.html) — `2010-07-01-addiction-html.md` — 1271w
+- 2010-07-01 — [How to Lose Time and Money](https://paulgraham.com/selfindulgence.html) — `2010-07-01-selfindulgence-html.md` — 676w
+- 2010-04-01 — [Organic Startup Ideas](https://paulgraham.com/organic.html) — `2010-04-01-organic-html.md` — 992w
+- 2009-11-01 — [Apple's Mistake](https://paulgraham.com/apple.html) — `2009-11-01-apple-html.md` — 1806w
+- 2009-10-01 — [What Startups Are Really Like](https://paulgraham.com/really.html) — `2009-10-01-really-html.md` — 1888w
+- 2009-09-01 — [The List of N Things](https://paulgraham.com/nthings.html) — `2009-09-01-nthings-html.md` — 1444w
+- 2009-09-01 — [The Anatomy of Determination](https://paulgraham.com/determination.html) — `2009-09-01-determination-html.md` — 1487w
+- 2009-09-01 — [Post-Medium Publishing](https://paulgraham.com/publishing.html) — `2009-09-01-publishing-html.md` — 1770w
+- 2009-09-01 — [Persuade xor Discover](https://paulgraham.com/discover.html) — `2009-09-01-discover-html.md` — 1033w
+- 2009-08-01 — [What Kate Saw in Silicon Valley](https://paulgraham.com/kate.html) — `2009-08-01-kate-html.md` — 811w
+- 2009-07-01 — [The Trouble with the Segway](https://paulgraham.com/segway.html) — `2009-07-01-segway-html.md` — 377w
+- 2009-07-01 — [Ramen Profitable](https://paulgraham.com/ramenprofitable.html) — `2009-07-01-ramenprofitable-html.md` — 1750w
+- 2009-07-01 — [Maker's Schedule, Manager's Schedule](https://paulgraham.com/makersschedule.html) — `2009-07-01-makersschedule-html.md` — 1145w
+- 2009-04-01 — [Why Twitter is a Big Deal](https://paulgraham.com/twitter.html) — `2009-04-01-twitter-html.md` — 145w
+- 2009-04-01 — [The Founder Visa](https://paulgraham.com/foundervisa.html) — `2009-04-01-foundervisa-html.md` — 389w
+- 2009-04-01 — [Five Founders](https://paulgraham.com/5founders.html) — `2009-04-01-5founders-html.md` — 755w
+- 2009-04-01 — [A Local Revolution?](https://paulgraham.com/revolution.html) — `2009-04-01-revolution-html.md` — 1337w
+- 2009-03-01 — [Why TV Lost](https://paulgraham.com/convergence.html) — `2009-03-01-convergence-html.md` — 1525w
+- 2009-03-01 — [Relentlessly Resourceful](https://paulgraham.com/relres.html) — `2009-03-01-relres-html.md` — 993w
+- 2009-03-01 — [How to Be an Angel Investor](https://paulgraham.com/angelinvesting.html) — `2009-03-01-angelinvesting-html.md` — 3950w
+- 2009-02-01 — [What I've Learned from Hacker News](https://paulgraham.com/hackernews.html) — `2009-02-01-hackernews-html.md` — 2805w
+- 2009-02-01 — [Startups in 13 Sentences](https://paulgraham.com/13sentences.html) — `2009-02-01-13sentences-html.md` — 1304w
+- 2009-02-01 — [Keep Your Identity Small](https://paulgraham.com/identity.html) — `2009-02-01-identity-html.md` — 865w
+- 2009-02-01 — [Can You Buy a Silicon Valley?  Maybe.](https://paulgraham.com/maybe.html) — `2009-02-01-maybe-html.md` — 1905w
+- 2008-12-01 — [The High-Res Society](https://paulgraham.com/highres.html) — `2008-12-01-highres-html.md` — 1520w
+- 2008-12-01 — [Could VC be a Casualty of the Recession?](https://paulgraham.com/divergence.html) — `2008-12-01-divergence-html.md` — 1347w
+- 2008-12-01 — [After Credentials](https://paulgraham.com/credentials.html) — `2008-12-01-credentials-html.md` — 2312w
+- 2008-11-01 — [The Other Half of "Artists Ship"](https://paulgraham.com/artistsship.html) — `2008-11-01-artistsship-html.md` — 1307w
+- 2008-10-01 — [Why to Start a Startup in a Bad Economy](https://paulgraham.com/badeconomy.html) — `2008-10-01-badeconomy-html.md` — 1096w
+- 2008-08-01 — [A Fundraising Survival Guide](https://paulgraham.com/fundraising.html) — `2008-08-01-fundraising-html.md` — 4705w
+- 2008-07-01 — [The Pooled-Risk Company Management Company](https://paulgraham.com/prcmc.html) — `2008-07-01-prcmc-html.md` — 1256w
+- 2008-05-01 — [Lies We Tell Kids](https://paulgraham.com/lies.html) — `2008-05-01-lies-html.md` — 5065w
+- 2008-05-01 — [Disconnecting Distraction](https://paulgraham.com/distraction.html) — `2008-05-01-distraction-html.md` — 1142w
+- 2008-05-01 — [Cities and Ambition](https://paulgraham.com/cities.html) — `2008-05-01-cities-html.md` — 3595w
+- 2008-04-01 — [Why There Aren't More Googles](https://paulgraham.com/googles.html) — `2008-04-01-googles-html.md` — 1292w
+- 2008-04-01 — [Some Heroes](https://paulgraham.com/heroes.html) — `2008-04-01-heroes-html.md` — 2693w
+- 2008-04-01 — [Be Good](https://paulgraham.com/good.html) — `2008-04-01-good-html.md` — 2946w
+- 2008-03-01 — [You Weren't Meant to Have a Boss](https://paulgraham.com/boss.html) — `2008-03-01-boss-html.md` — 2521w
+- 2008-03-01 — [How to Disagree](https://paulgraham.com/disagree.html) — `2008-03-01-disagree-html.md` — 1229w
+- 2008-03-01 — [A New Venture Animal](https://paulgraham.com/ycombinator.html) — `2008-03-01-ycombinator-html.md` — 1986w
+- 2008-02-01 — [Trolls](https://paulgraham.com/trolls.html) — `2008-02-01-trolls-html.md` — 827w
+- 2008-02-01 — [Six Principles for Making New Things](https://paulgraham.com/newthings.html) — `2008-02-01-newthings-html.md` — 1165w
+- 2007-10-01 — [Why to Move to a Startup Hub](https://paulgraham.com/startuphubs.html) — `2007-10-01-startuphubs-html.md` — 1455w
+- 2007-10-01 — [The Future of Web Startups](https://paulgraham.com/webstartups.html) — `2007-10-01-webstartups-html.md` — 3399w
+- 2007-09-01 — [News from the Front](https://paulgraham.com/colleges.html) — `2007-09-01-colleges-html.md` — 2214w
+- 2007-09-01 — [How to Do Philosophy](https://paulgraham.com/philosophy.html) — `2007-09-01-philosophy-html.md` — 4497w
+- 2007-08-01 — [How Not to Die](https://paulgraham.com/die.html) — `2007-08-01-die-html.md` — 1961w
+- 2007-08-01 — [Holding a Program in One's Head](https://paulgraham.com/head.html) — `2007-08-01-head-html.md` — 1066w
+- 2007-07-01 — [The Equity Equation](https://paulgraham.com/equity.html) — `2007-07-01-equity-html.md` — 1130w
+- 2007-07-01 — [Stuff](https://paulgraham.com/stuff.html) — `2007-07-01-stuff-html.md` — 1244w
+- 2007-05-01 — [An Alternative Theory of Unions](https://paulgraham.com/unions.html) — `2007-05-01-unions-html.md` — 513w
+- 2007-04-01 — [Two Kinds of Judgement](https://paulgraham.com/judgement.html) — `2007-04-01-judgement-html.md` — 738w
+- 2007-04-01 — [The Hacker's Guide to Investors](https://paulgraham.com/guidetoinvestors.html) — `2007-04-01-guidetoinvestors-html.md` — 6156w
+- 2007-04-01 — [Microsoft is Dead](https://paulgraham.com/microsoft.html) — `2007-04-01-microsoft-html.md` — 1190w
+- 2007-03-01 — [Why to Not Not Start a Startup](https://paulgraham.com/notnot.html) — `2007-03-01-notnot-html.md` — 6271w
+- 2007-02-01 — [Is It Worth Being Wise?](https://paulgraham.com/wisdom.html) — `2007-02-01-wisdom-html.md` — 3741w
+- 2007-01-01 — [Learning from Founders](https://paulgraham.com/foundersatwork.html) — `2007-01-01-foundersatwork-html.md` — 773w
+- 2006-12-01 — [How Art Can Be Good](https://paulgraham.com/goodart.html) — `2006-12-01-goodart-html.md` — 3622w
+- 2006-10-01 — [The 18 Mistakes That Kill Startups](https://paulgraham.com/startupmistakes.html) — `2006-10-01-startupmistakes-html.md` — 5591w
+- 2006-10-01 — [A Student's Guide to Startups](https://paulgraham.com/mit.html) — `2006-10-01-mit-html.md` — 6288w
+- 2006-08-01 — [How to Present to Investors](https://paulgraham.com/investors.html) — `2006-08-01-investors-html.md` — 2807w
+- 2006-07-01 — [The Island Test](https://paulgraham.com/island.html) — `2006-07-01-island-html.md` — 753w
+- 2006-07-01 — [Copy What You Like](https://paulgraham.com/copy.html) — `2006-07-01-copy-html.md` — 928w
+- 2006-06-01 — [The Power of the Marginal](https://paulgraham.com/marginal.html) — `2006-06-01-marginal-html.md` — 6050w
+- 2006-05-01 — [Why Startups Condense in America](https://paulgraham.com/america.html) — `2006-05-01-america-html.md` — 4762w
+- 2006-05-01 — [How to Be Silicon Valley](https://paulgraham.com/siliconvalley.html) — `2006-05-01-siliconvalley-html.md` — 3600w
+- 2006-04-01 — [The Hardest Lessons for Startups to Learn](https://paulgraham.com/startuplessons.html) — `2006-04-01-startuplessons-html.md` — 4724w
+- 2006-04-01 — [See Randomness](https://paulgraham.com/randomness.html) — `2006-04-01-randomness-html.md` — 451w
+- 2006-03-01 — [Why YC](https://paulgraham.com/whyyc.html) — `2006-03-01-whyyc-html.md` — 376w
+- 2006-03-01 — [Are Software Patents Evil?](https://paulgraham.com/softwarepatents.html) — `2006-03-01-softwarepatents-html.md` — 4656w
+- 2006-03-01 — [6,631,372](https://paulgraham.com/6631327.html) — `2006-03-01-6631327-html.md` — 630w
+- 2006-01-01 — [How to Do What You Love](https://paulgraham.com/love.html) — `2006-01-01-love-html.md` — 4649w
+- 2005-12-01 — [Good and Bad Procrastination](https://paulgraham.com/procrastination.html) — `2005-12-01-procrastination-html.md` — 1660w
+- 2005-11-01 — [Web 2.0](https://paulgraham.com/web20.html) — `2005-11-01-web20-html.md` — 3144w
+- 2005-11-01 — [The Venture Capital Squeeze](https://paulgraham.com/vcsqueeze.html) — `2005-11-01-vcsqueeze-html.md` — 1566w
+- 2005-11-01 — [How to Fund a Startup](https://paulgraham.com/startupfunding.html) — `2005-11-01-startupfunding-html.md` — 8213w
+- 2005-10-01 — [What I Did this Summer](https://paulgraham.com/sfp.html) — `2005-10-01-sfp-html.md` — 2572w
+- 2005-10-01 — [Ideas for Startups](https://paulgraham.com/ideas.html) — `2005-10-01-ideas-html.md` — 3929w
+- 2005-08-01 — [What Business Can Learn from Open Source](https://paulgraham.com/opensource.html) — `2005-08-01-opensource-html.md` — 4351w
+- 2005-08-01 — [Inequality and Risk](https://paulgraham.com/inequality.html) — `2005-08-01-inequality-html.md` — 2817w
+- 2005-08-01 — [After the Ladder](https://paulgraham.com/ladder.html) — `2005-08-01-ladder-html.md` — 583w
+- 2005-05-01 — [Hiring is Obsolete](https://paulgraham.com/hiring.html) — `2005-05-01-hiring-html.md` — 4742w
+- 2005-04-01 — [Why Smart People Have Bad Ideas](https://paulgraham.com/bronze.html) — `2005-04-01-bronze-html.md` — 3001w
+- 2005-04-01 — [The Submarine](https://paulgraham.com/submarine.html) — `2005-04-01-submarine-html.md` — 2146w
+- 2005-03-01 — [Writing,  Briefly](https://paulgraham.com/writing44.html) — `2005-03-01-writing44-html.md` — 457w
+- 2005-03-01 — [Undergraduation](https://paulgraham.com/college.html) — `2005-03-01-college-html.md` — 3648w
+- 2005-03-01 — [Return of the Mac](https://paulgraham.com/mac.html) — `2005-03-01-mac-html.md` — 1002w
+- 2005-03-01 — [How to Start a Startup](https://paulgraham.com/start.html) — `2005-03-01-start-html.md` — 9737w
+- 2005-03-01 — [A Unified Theory of VC Suckage](https://paulgraham.com/venturecapital.html) — `2005-03-01-venturecapital-html.md` — 1470w
+- 2005-01-01 — [What You'll Wish You'd Known](https://paulgraham.com/hs.html) — `2005-01-01-hs-html.md` — 5068w
+- 2004-11-01 — [Made in USA](https://paulgraham.com/usa.html) — `2004-11-01-usa-html.md` — 1844w
+- 2004-11-01 — [It's Charisma, Stupid](https://paulgraham.com/charisma.html) — `2004-11-01-charisma-html.md` — 1495w
+- 2004-11-01 — [Bradley's Ghost](https://paulgraham.com/polls.html) — `2004-11-01-polls-html.md` — 616w
+- 2004-10-01 — [A Version 1.0](https://paulgraham.com/laundry.html) — `2004-10-01-laundry-html.md` — 4264w
+- 2004-09-01 — [What the Bubble Got Right](https://paulgraham.com/bubble.html) — `2004-09-01-bubble-html.md` — 3727w
+- 2004-09-01 — [The Age of the Essay](https://paulgraham.com/essay.html) — `2004-09-01-essay-html.md` — 4521w
+- 2004-08-01 — [The Python Paradox](https://paulgraham.com/pypar.html) — `2004-08-01-pypar-html.md` — 447w
+- 2004-07-01 — [Great Hackers](https://paulgraham.com/gh.html) — `2004-07-01-gh-html.md` — 5216w
+- 2004-05-01 — [Mind the Gap](https://paulgraham.com/gap.html) — `2004-05-01-gap-html.md` — 5682w
+- 2004-05-01 — [How to Make Wealth](https://paulgraham.com/wealth.html) — `2004-05-01-wealth-html.md` — 8935w
+- 2004-04-01 — [The Word "Hacker"](https://paulgraham.com/gba.html) — `2004-04-01-gba-html.md` — 1935w
+- 2004-01-01 — [What You Can't Say](https://paulgraham.com/say.html) — `2004-01-01-say-html.md` — 5411w
+- 2003-08-01 — [Filters that Fight Back](https://paulgraham.com/ffb.html) — `2003-08-01-ffb-html.md` — 822w
+- 2003-05-01 — [If Lisp is So Great](https://paulgraham.com/iflisp.html) — `2003-05-01-iflisp-html.md` — 337w
+- 2003-05-01 — [Hackers and Painters](https://paulgraham.com/hp.html) — `2003-05-01-hp-html.md` — 5507w
+- 2003-04-01 — [The Hundred-Year Language](https://paulgraham.com/hundred.html) — `2003-04-01-hundred-html.md` — 4789w
+- 2003-02-01 — [Why Nerds are Unpopular](https://paulgraham.com/nerds.html) — `2003-02-01-nerds-html.md` — 5691w
+- 2003-01-01 — [Design and Research](https://paulgraham.com/desres.html) — `2003-01-01-desres-html.md` — 2659w
+- 2003-01-01 — [Better Bayesian Filtering](https://paulgraham.com/better.html) — `2003-01-01-better-html.md` — 4068w
+- 2002-08-01 — [A Plan for Spam](https://paulgraham.com/spam.html) — `2002-08-01-spam-html.md` — 4746w
+- 2002-05-01 — [Succinctness is Power](https://paulgraham.com/power.html) — `2002-05-01-power-html.md` — 2672w
+- 2002-05-01 — [Revenge of the Nerds](https://paulgraham.com/icad.html) — `2002-05-01-icad-html.md` — 4679w
+- 2002-02-01 — [Taste for Makers](https://paulgraham.com/taste.html) — `2002-02-01-taste-html.md` — 4319w
+- 2001-12-01 — [What Made Lisp Different](https://paulgraham.com/diff.html) — `2001-12-01-diff-html.md` — 638w
+- 2001-09-01 — [The Other Road Ahead](https://paulgraham.com/road.html) — `2001-09-01-road-html.md` — 11972w
+- 2001-05-01 — [The Roots of Lisp](https://paulgraham.com/rootsoflisp.html) — `2001-05-01-rootsoflisp-html.md` — 356w
+- 2001-05-01 — [Five Questions about Language Design](https://paulgraham.com/langdes.html) — `2001-05-01-langdes-html.md` — 2939w
+- 2001-05-01 — [Being Popular](https://paulgraham.com/popular.html) — `2001-05-01-popular-html.md` — 7351w
+- 2001-04-01 — [Java's Cover](https://paulgraham.com/javacover.html) — `2001-04-01-javacover-html.md` — 1360w
+- 2001-04-01 — [Beating the Averages](https://paulgraham.com/avg.html) — `2001-04-01-avg-html.md` — 4360w
+- 1998-06-01 — [Snapshot: Viaweb, June 1998](https://paulgraham.com/vw.html) — `1998-06-01-vw-html.md` — 867w

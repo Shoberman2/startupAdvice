@@ -1,0 +1,89 @@
+# Nathan Barry corpus index
+
+Source: https://nathanbarry.com/blog — fetched 2026-07-19
+84 posts, 64781 words. Format: date — [title](canonical url) — `file` — words.
+
+- 2013-07-22 — [Naive Design](https://nathanbarry.com/naive-design/) — `2013-07-22-naive-design.md` — 718w
+- 2013-04-02 — [The Hidden Costs of Contract Work](https://nathanbarry.com/hidden-costs-contract-work/) — `2013-04-02-hidden-costs-contract-work.md` — 577w
+- 2013-01-28 — [Helping People Who Help Themselves](https://nathanbarry.com/helping-people/) — `2013-01-28-helping-people.md` — 417w
+- 2013-01-15 — [Finding a Developer](https://nathanbarry.com/finding-developer/) — `2013-01-15-finding-developer.md` — 1425w
+- 2013-01-10 — [An Unstoppable Combination](https://nathanbarry.com/unstoppable-combination/) — `2013-01-10-unstoppable-combination.md` — 651w
+- 2013-01-08 — [Finding Ideas For Your Next Project](https://nathanbarry.com/finding-ideas-project/) — `2013-01-08-finding-ideas-project.md` — 1729w
+- 2012-12-31 — [Starting The Web App Challenge: From Zero to $5,000/month In 6 Months](https://nathanbarry.com/starting-web-app-challenge/) — `2012-12-31-starting-web-app-challenge.md` — 1177w
+- 2012-12-29 — [One Year After Quitting My Job](https://nathanbarry.com/2012-year-quitting-job/) — `2012-12-29-2012-year-quitting-job.md` — 1603w
+- 2012-12-21 — [$26,679 in 24 hours: Stats from my latest book launch](https://nathanbarry.com/behind-the-scenes/) — `2012-12-21-behind-the-scenes.md` — 1947w
+- 2012-12-12 — [Is your web application painful to use?](https://nathanbarry.com/web-application-painful-use/) — `2012-12-12-web-application-painful-use.md` — 665w
+- 2012-12-06 — [A Preview of Designing Web Applications](https://nathanbarry.com/preview-designing-web-applications/) — `2012-12-06-preview-designing-web-applications.md` — 241w
+- 2012-11-28 — [Ryan Singer from 37signals on software design, workflow, and “Judo”](https://nathanbarry.com/ryan-singer-interview/) — `2012-11-28-ryan-singer-interview.md` — 7015w
+- 2012-11-12 — [How to generate more revenue from your web application today](https://nathanbarry.com/generate-revenue-web-application-today/) — `2012-11-12-generate-revenue-web-application-today.md` — 2272w
+- 2012-10-31 — [My Experience Selling With Gumroad](https://nathanbarry.com/experience-selling-gumroad/) — `2012-10-31-experience-selling-gumroad.md` — 1093w
+- 2012-10-24 — [The commitment that changed my career + my next project.](https://nathanbarry.com/commitment-changed-career/) — `2012-10-24-commitment-changed-career.md` — 794w
+- 2012-10-08 — [$39k in eBook Sales Part 2: Design, Testimonials, and Traffic](https://nathanbarry.com/39k-ebook-sales-part-2/) — `2012-10-08-39k-ebook-sales-part-2.md` — 8087w
+- 2012-10-03 — [How Nathan Barry and Sacha Greif Sold $39k Worth of eBooks](https://nathanbarry.com/nathan-barry-sacha-greif-sold-39k-worth-ebooks/) — `2012-10-03-nathan-barry-sacha-greif-sold-39k-worth-ebooks.md` — 5746w
+- 2012-09-19 — [Design Lessons From The New Twitter iPad App](https://nathanbarry.com/new-twitter-for-ipad/) — `2012-09-19-new-twitter-for-ipad.md` — 1273w
+- 2012-09-18 — [Don’t Repeat My Product Launch Mistakes](https://nathanbarry.com/product-launch-mistakes/) — `2012-09-18-product-launch-mistakes.md` — 1010w
+- 2012-09-13 — [I’m addicted to vanity metrics](https://nathanbarry.com/addicted-vanity-metrics/) — `2012-09-13-addicted-vanity-metrics.md` — 520w
+- 2012-09-04 — [What I learned selling $6,000+ of my ebook today.](https://nathanbarry.com/learned-selling-6000-ebook-today/) — `2012-09-04-learned-selling-6000-ebook-today.md` — 1057w
+- 2012-08-29 — [A Look Inside The App Design Handbook](https://nathanbarry.com/inside-app-design-handbook/) — `2012-08-29-inside-app-design-handbook.md` — 305w
+- 2012-08-24 — [User Experience Lessons From the New Facebook iOS App](https://nathanbarry.com/ux-lessons-from-facebook-ios/) — `2012-08-24-ux-lessons-from-facebook-ios.md` — 925w
+- 2012-08-07 — [Learn iOS Design and Photoshop Tricks with These 1](https://nathanbarry.com/learn-ios-design-photoshop-tricks-1-3-minute-videos/) — `2012-08-07-learn-ios-design-photoshop-tricks-1-3-minute-videos.md` — 148w
+- 2012-07-31 — [Learn To Design a Book Landing Page In Photoshop (Video)](https://nathanbarry.com/designing-book-landing-page-photoshop/) — `2012-07-31-designing-book-landing-page-photoshop.md` — 135w
+- 2012-07-25 — [My new book: The App Design Handbook](https://nathanbarry.com/book-app-design-handbook/) — `2012-07-25-book-app-design-handbook.md` — 171w
+- 2012-07-20 — [89,697 Reasons to Teach Everything You Know](https://nathanbarry.com/89697-reasons-to-teach/) — `2012-07-20-89697-reasons-to-teach.md` — 266w
+- 2012-07-16 — [The World Domination Summit (2012)](https://nathanbarry.com/world-domination-summit-2012/) — `2012-07-16-world-domination-summit-2012.md` — 525w
+- 2012-07-02 — [Giving Yourself Advice](https://nathanbarry.com/giving-yourself-advice/) — `2012-07-02-giving-yourself-advice.md` — 274w
+- 2012-06-26 — [300 or $60,000? How to talk about numbers.](https://nathanbarry.com/300-60000-talk-numbers/) — `2012-06-26-300-60000-talk-numbers.md` — 295w
+- 2012-06-07 — [Bragging About the Wrong Metrics](https://nathanbarry.com/wrong-metrics/) — `2012-06-07-wrong-metrics.md` — 300w
+- 2012-06-02 — [Traveling with a Baby](https://nathanbarry.com/traveling-baby/) — `2012-06-02-traveling-baby.md` — 1307w
+- 2012-05-22 — [The Trip of a Lifetime](https://nathanbarry.com/trip-lifetime/) — `2012-05-22-trip-lifetime.md` — 316w
+- 2012-05-15 — [Minimize Efficiency](https://nathanbarry.com/minimize-efficiency/) — `2012-05-15-minimize-efficiency.md` — 368w
+- 2012-05-08 — [A Todo List for Life](https://nathanbarry.com/life-todo-list/) — `2012-05-08-life-todo-list.md` — 203w
+- 2012-04-24 — [Don’t be a dick. Just be nice.](https://nathanbarry.com/dont-be-a-dick/) — `2012-04-24-dont-be-a-dick.md` — 298w
+- 2012-04-17 — [Focus on Finishing](https://nathanbarry.com/focus-finishing/) — `2012-04-17-focus-finishing.md` — 277w
+- 2012-03-27 — [Boise Code Camp 2012: Links and Notes](https://nathanbarry.com/boise-code-camp-2012-notes-links/) — `2012-03-27-boise-code-camp-2012-notes-links.md` — 126w
+- 2012-03-20 — [25 Free iOS Design Resources](https://nathanbarry.com/25-free-ios-design-resources/) — `2012-03-20-25-free-ios-design-resources.md` — 157w
+- 2012-03-13 — [Why Everyone Else is More Popular Than You Are](https://nathanbarry.com/why-everyone-else-is-more-popular/) — `2012-03-13-why-everyone-else-is-more-popular.md` — 270w
+- 2012-03-06 — [What I’m working on is more important than what you have to say.](https://nathanbarry.com/passive-collaboration/) — `2012-03-06-passive-collaboration.md` — 376w
+- 2012-02-28 — [My Early Design Work](https://nathanbarry.com/my-early-design-work/) — `2012-02-28-my-early-design-work.md` — 122w
+- 2012-02-21 — [3 Tips to Help Your Commitments Succeed](https://nathanbarry.com/3-tips-help-commitments-succeed/) — `2012-02-21-3-tips-help-commitments-succeed.md` — 336w
+- 2012-02-14 — [Productivity Tip: Create and Consume on Different Devices](https://nathanbarry.com/create-consume-different-devices/) — `2012-02-14-create-consume-different-devices.md` — 248w
+- 2012-02-07 — [Designing Buttons in iOS 5](https://nathanbarry.com/designing-buttons-ios5/) — `2012-02-07-designing-buttons-ios5.md` — 334w
+- 2012-01-31 — [The Perfect Tool](https://nathanbarry.com/perfect-tool/) — `2012-01-31-perfect-tool.md` — 302w
+- 2012-01-11 — [Looking forward to 2012](https://nathanbarry.com/looking-forward-2012/) — `2012-01-11-looking-forward-2012.md` — 579w
+- 2012-01-11 — [How my behavior changing iPhone app made $1,673 in the first 3 weeks.](https://nathanbarry.com/commit-iphone-sales-data/) — `2012-01-11-commit-iphone-sales-data.md` — 932w
+- 2012-01-03 — [2011 in Review](https://nathanbarry.com/2011-review/) — `2012-01-03-2011-review.md` — 985w
+- 2011-12-27 — [Commit to Learn and Improve Every Day in 2012](https://nathanbarry.com/commit-learn-improve-day-2012/) — `2011-12-27-commit-learn-improve-day-2012.md` — 222w
+- 2011-12-20 — [A Little Bit Each Day](https://nathanbarry.com/a-little-bit-each-day/) — `2011-12-20-a-little-bit-each-day.md` — 295w
+- 2011-12-13 — [Skill Doesn’t Matter If You Lack Taste](https://nathanbarry.com/skill-doesnt-matter-if-you-lack-taste/) — `2011-12-13-skill-doesnt-matter-if-you-lack-taste.md` — 268w
+- 2011-12-06 — [What Does the #1 Spot on Hacker News Get You?](https://nathanbarry.com/hacker-news-follow-up/) — `2011-12-06-hacker-news-follow-up.md` — 405w
+- 2011-11-29 — [10 Things I’ve Learned in 21 Years](https://nathanbarry.com/10-things-ive-learned-in-21-years/) — `2011-11-29-10-things-ive-learned-in-21-years.md` — 634w
+- 2011-11-22 — [How I am Learning to Program](https://nathanbarry.com/how-i-am-learning-to-program/) — `2011-11-22-how-i-am-learning-to-program.md` — 613w
+- 2011-11-15 — [How I Made $19,000 on the App Store While Learning to Code](https://nathanbarry.com/how-i-made-19000-on-the-app-store-while-learning-to-code/) — `2011-11-15-how-i-made-19000-on-the-app-store-while-learning-to-code.md` — 600w
+- 2011-11-08 — [Designing Fluent](https://nathanbarry.com/designing-fluent/) — `2011-11-08-designing-fluent.md` — 836w
+- 2011-11-01 — [Someone’s Dream](https://nathanbarry.com/someones-dream/) — `2011-11-01-someones-dream.md` — 241w
+- 2011-10-25 — [Managing Ideas](https://nathanbarry.com/managing-ideas/) — `2011-10-25-managing-ideas.md` — 307w
+- 2011-10-18 — [I Quit My Job](https://nathanbarry.com/i-quit-my-job/) — `2011-10-18-i-quit-my-job.md` — 234w
+- 2011-10-11 — [Spending Purposefully](https://nathanbarry.com/spending-purposefully/) — `2011-10-11-spending-purposefully.md` — 423w
+- 2011-10-04 — [OneVoice in the Idaho Business Review](https://nathanbarry.com/onevoice-in-the-idaho-business-review/) — `2011-10-04-onevoice-in-the-idaho-business-review.md` — 162w
+- 2011-09-20 — [Planning Features](https://nathanbarry.com/planning-features/) — `2011-09-20-planning-features.md` — 272w
+- 2011-09-13 — [Learn by Creating](https://nathanbarry.com/learn-by-creating/) — `2011-09-13-learn-by-creating.md` — 287w
+- 2011-09-06 — [Apple, Pricing, and 17+](https://nathanbarry.com/apple-pricing-and-17/) — `2011-09-06-apple-pricing-and-17.md` — 672w
+- 2011-08-23 — [How to Never Miss a Blog Post](https://nathanbarry.com/how-to-never-miss-a-blog-post/) — `2011-08-23-how-to-never-miss-a-blog-post.md` — 191w
+- 2011-08-16 — [iOS Design Weekly: Launch Story and Statistics](https://nathanbarry.com/ios-design-weekly-stats/) — `2011-08-16-ios-design-weekly-stats.md` — 635w
+- 2011-08-09 — [The Story Behind OneVoice](https://nathanbarry.com/the-story-behind-onevoice/) — `2011-08-09-the-story-behind-onevoice.md` — 693w
+- 2011-08-02 — [Designers Who Inspire Me](https://nathanbarry.com/designers-who-inspire-me/) — `2011-08-02-designers-who-inspire-me.md` — 156w
+- 2011-07-26 — [My favorite kind of people](https://nathanbarry.com/my-favorite-kind-of-people/) — `2011-07-26-my-favorite-kind-of-people.md` — 175w
+- 2011-07-19 — [The Downsides of selling in the App Store](https://nathanbarry.com/downsides-of-selling-in-the-app-store/) — `2011-07-19-downsides-of-selling-in-the-app-store.md` — 572w
+- 2011-06-30 — [One Year with iOS](https://nathanbarry.com/one-year-with-ios/) — `2011-06-30-one-year-with-ios.md` — 670w
+- 2011-04-04 — [Designing a Signature](https://nathanbarry.com/designing-a-signature/) — `2011-04-04-designing-a-signature.md` — 575w
+- 2011-03-17 — [The Perfect Presentation: Changing Education Paradigms](https://nathanbarry.com/the-perfect-presentation/) — `2011-03-17-the-perfect-presentation.md` — 290w
+- 2011-01-20 — [A Voice for Congresswoman Giffords.](https://nathanbarry.com/a-voice-for-congresswoman-giffords/) — `2011-01-20-a-voice-for-congresswoman-giffords.md` — 316w
+- 2010-12-07 — [How to By-Pass the TSA No](https://nathanbarry.com/no-fly-list/) — `2010-12-07-no-fly-list.md` — 722w
+- 2010-12-03 — [Being Present](https://nathanbarry.com/being-present/) — `2010-12-03-being-present.md` — 416w
+- 2010-08-16 — [jQuery Mobile](https://nathanbarry.com/jquery-mobile/) — `2010-08-16-jquery-mobile.md` — 120w
+- 2010-03-23 — [The Right Way to Break Design Conventions](https://nathanbarry.com/right-way-break-design-conventions/) — `2010-03-23-right-way-break-design-conventions.md` — 220w
+- 2010-02-04 — [“Right Now” Design for WordPress](https://nathanbarry.com/at-a-glance-design-for-wordpress/) — `2010-02-04-at-a-glance-design-for-wordpress.md` — 170w
+- 2009-12-12 — [Ideas are Worthless…](https://nathanbarry.com/ideas-are-worthless/) — `2009-12-12-ideas-are-worthless.md` — 213w
+- 2009-11-30 — [Emphasis: A Free WordPress Theme](https://nathanbarry.com/emphasis-a-free-wordpress-theme/) — `2009-11-30-emphasis-a-free-wordpress-theme.md` — 246w
+- 2009-07-20 — [An Avatar for a Password: A Lesson in Social Media Security](https://nathanbarry.com/social-media-security/) — `2009-07-20-social-media-security.md` — 653w
+- 2009-07-07 — [4 Tips for Ignite Boise Presenters](https://nathanbarry.com/4-tips-for-ignite-boise-presenters/) — `2009-07-07-4-tips-for-ignite-boise-presenters.md` — 380w

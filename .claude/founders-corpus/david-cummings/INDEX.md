@@ -1,0 +1,105 @@
+# David Cummings corpus index
+
+Source: https://davidcummings.org — fetched 2026-07-19
+100 posts, 50505 words. Format: date — [title](canonical url) — `file` — words.
+
+- 2026-07-18 — [The Personal AI Brain](https://davidcummings.org/2026/07/18/the-personal-ai-brain/) — `2026-07-18-2026-07-18-the-personal-ai-brain.md` — 702w
+- 2026-07-11 — [Why Great Founders Keep Selling](https://davidcummings.org/2026/07/11/why-great-founders-keep-selling/) — `2026-07-11-2026-07-11-why-great-founders-keep-selling.md` — 494w
+- 2026-07-04 — [The Real Return Standard for Most Venture Investors](https://davidcummings.org/2026/07/04/the-real-return-standard-for-most-venture-investors/) — `2026-07-04-2026-07-04-the-real-return-standard-for-most-venture-investors.md` — 517w
+- 2026-06-27 — [Right to Win Competitive Positioning](https://davidcummings.org/2026/06/27/right-to-win-competitive-positioning/) — `2026-06-27-2026-06-27-right-to-win-competitive-positioning.md` — 384w
+- 2026-06-20 — [Combine a National VC with a Regional VC](https://davidcummings.org/2026/06/20/combine-a-national-vc-with-a-regional-vc/) — `2026-06-20-2026-06-20-combine-a-national-vc-with-a-regional-vc.md` — 478w
+- 2026-06-13 — [Non](https://davidcummings.org/2026/06/13/non-horror-story-lessons-from-pitching-vcs/) — `2026-06-13-2026-06-13-non-horror-story-lessons-from-pitching-vcs.md` — 557w
+- 2026-06-06 — [The Backend](https://davidcummings.org/2026/06/06/the-backend-loaded-nature-of-startup-value-creation/) — `2026-06-06-2026-06-06-the-backend-loaded-nature-of-startup-value-creation.md` — 409w
+- 2026-05-30 — [The Send and Delete Employee Test](https://davidcummings.org/2026/05/30/the-send-and-delete-employee-test/) — `2026-05-30-2026-05-30-the-send-and-delete-employee-test.md` — 337w
+- 2026-05-23 — [Founders Green in South Downtown Atlanta](https://davidcummings.org/2026/05/23/founders-green-in-south-downtown-atlanta/) — `2026-05-23-2026-05-23-founders-green-in-south-downtown-atlanta.md` — 1130w
+- 2026-05-16 — [The Hypomanic Edge in Entrepreneurship](https://davidcummings.org/2026/05/16/the-hypomanic-edge-in-entrepreneurship/) — `2026-05-16-2026-05-16-the-hypomanic-edge-in-entrepreneurship.md` — 496w
+- 2026-05-09 — [The Entrepreneur’s Shift From Yes to No](https://davidcummings.org/2026/05/09/the-entrepreneurs-shift-from-yes-to-no/) — `2026-05-09-2026-05-09-the-entrepreneurs-shift-from-yes-to-no.md` — 629w
+- 2026-05-02 — [The Multi](https://davidcummings.org/2026/05/02/the-multi-startup-founder-conundrum/) — `2026-05-02-2026-05-02-the-multi-startup-founder-conundrum.md` — 523w
+- 2026-04-25 — [The Shift to AI](https://davidcummings.org/2026/04/25/the-shift-to-ai-enhanced-employees/) — `2026-04-25-2026-04-25-the-shift-to-ai-enhanced-employees.md` — 413w
+- 2026-04-18 — [Self](https://davidcummings.org/2026/04/18/self-driving-cars-and-changing-human-behavior/) — `2026-04-18-2026-04-18-self-driving-cars-and-changing-human-behavior.md` — 1004w
+- 2026-04-04 — [The First Five Questions to Ask After a Startup Pitch](https://davidcummings.org/2026/04/04/the-first-five-questions-to-ask-after-a-startup-pitch/) — `2026-04-04-2026-04-04-the-first-five-questions-to-ask-after-a-startup-pitch.md` — 475w
+- 2026-03-28 — [The Second Time Around: Why Founders Come Back](https://davidcummings.org/2026/03/28/the-second-time-around-why-founders-come-back/) — `2026-03-28-2026-03-28-the-second-time-around-why-founders-come-back.md` — 506w
+- 2026-03-21 — [8 Moats for Sustainable Software Companies](https://davidcummings.org/2026/03/21/8-moats-for-sustainable-software-companies/) — `2026-03-21-2026-03-21-8-moats-for-sustainable-software-companies.md` — 633w
+- 2026-03-14 — [Product Value vs Product Distribution in the Early Days](https://davidcummings.org/2026/03/14/product-value-vs-product-distribution-in-the-early-days/) — `2026-03-14-2026-03-14-product-value-vs-product-distribution-in-the-early-days.md` — 530w
+- 2026-03-07 — [Every Bit of Effort Helps](https://davidcummings.org/2026/03/07/every-bit-of-effort-helps/) — `2026-03-07-2026-03-07-every-bit-of-effort-helps.md` — 420w
+- 2026-02-28 — [15 Angel Investments and All Failures](https://davidcummings.org/2026/02/28/15-angel-investments-and-all-failures/) — `2026-02-28-2026-02-28-15-angel-investments-and-all-failures.md` — 593w
+- 2026-02-21 — [O Startup, Where Are Thou VC?](https://davidcummings.org/2026/02/21/o-startup-where-are-thou-vc/) — `2026-02-21-2026-02-21-o-startup-where-are-thou-vc.md` — 731w
+- 2026-02-14 — [AI Is a Super Power—Start Treating It Like One](https://davidcummings.org/2026/02/14/ai-is-a-super-power-start-treating-it-like-one/) — `2026-02-14-2026-02-14-ai-is-a-super-power-start-treating-it-like-one.md` — 545w
+- 2026-02-07 — [Seven Reasons SaaS Valuations Are Crumbling in the Age of AI](https://davidcummings.org/2026/02/07/seven-reasons-saas-valuations-are-crumbling-in-the-age-of-ai/) — `2026-02-07-2026-02-07-seven-reasons-saas-valuations-are-crumbling-in-the-age-of-ai.md` — 622w
+- 2026-01-31 — [Pick a North Star Metric (Not Revenue)](https://davidcummings.org/2026/01/31/pick-a-north-star-metric-not-revenue/) — `2026-01-31-2026-01-31-pick-a-north-star-metric-not-revenue.md` — 384w
+- 2026-01-24 — [The Real Threat to SaaS Valuations Isn’t AI—It’s a Million New Startups](https://davidcummings.org/2026/01/24/the-real-threat-to-saas-valuations-isnt-ai-its-a-million-new-startups/) — `2026-01-24-2026-01-24-the-real-threat-to-saas-valuations-isnt-ai-its-a-million-new-startups.md` — 633w
+- 2026-01-17 — [90/10 or 10/90 Entrepreneur](https://davidcummings.org/2026/01/17/90-10-or-10-90-entrepreneur/) — `2026-01-17-2026-01-17-90-10-or-10-90-entrepreneur.md` — 461w
+- 2026-01-10 — [Intentional Story Teller](https://davidcummings.org/2026/01/10/intentional-story-teller/) — `2026-01-10-2026-01-10-intentional-story-teller.md` — 342w
+- 2026-01-03 — [#1 Advice for an Entrepreneur in the New Year](https://davidcummings.org/2026/01/03/1-advice-for-an-entrepreneur-in-the-new-year/) — `2026-01-03-2026-01-03-1-advice-for-an-entrepreneur-in-the-new-year.md` — 683w
+- 2025-12-27 — [The Power of Writing Before You Speak](https://davidcummings.org/2025/12/27/the-power-of-writing-before-you-speak/) — `2025-12-27-2025-12-27-the-power-of-writing-before-you-speak.md` — 282w
+- 2025-12-20 — [Ideas to Professional Slides in 15 Minutes with ChatGPT + Nano Banana](https://davidcummings.org/2025/12/20/ideas-to-professional-slides-in-15-minutes-with-chatgpt-nano-banana/) — `2025-12-20-2025-12-20-ideas-to-professional-slides-in-15-minutes-with-chatgpt-nano-banana.md` — 436w
+- 2025-12-13 — [Use Adjacent Markets to Shape Better Products](https://davidcummings.org/2025/12/13/use-adjacent-markets-to-shape-better-products/) — `2025-12-13-2025-12-13-use-adjacent-markets-to-shape-better-products.md` — 394w
+- 2025-12-06 — [Uncomfortable as an Entrepreneur](https://davidcummings.org/2025/12/06/uncomfortable-as-an-entrepreneur/) — `2025-12-06-2025-12-06-uncomfortable-as-an-entrepreneur.md` — 410w
+- 2025-11-29 — [Value](https://davidcummings.org/2025/11/29/value-first-reimagining-of-a-market/) — `2025-11-29-2025-11-29-value-first-reimagining-of-a-market.md` — 458w
+- 2025-11-22 — [Tech Trends at Local Startup Hubs](https://davidcummings.org/2025/11/22/tech-trends-at-local-startup-hubs/) — `2025-11-22-2025-11-22-tech-trends-at-local-startup-hubs.md` — 361w
+- 2025-11-15 — [Where to Start Evaluating an Angel Investment](https://davidcummings.org/2025/11/15/where-to-start-evaluating-an-angel-investment/) — `2025-11-15-2025-11-15-where-to-start-evaluating-an-angel-investment.md` — 548w
+- 2025-11-08 — [Align Ambition with Startup Idea](https://davidcummings.org/2025/11/08/align-ambition-with-startup-idea/) — `2025-11-08-2025-11-08-align-ambition-with-startup-idea.md` — 457w
+- 2025-11-01 — [The Power of an Annual User Conference](https://davidcummings.org/2025/11/01/the-power-of-an-annual-user-conference/) — `2025-11-01-2025-11-01-the-power-of-an-annual-user-conference.md` — 459w
+- 2025-10-25 — [From Grow, Grow, Grow to Grow, Margin, Burn](https://davidcummings.org/2025/10/25/from-grow-grow-grow-to-grow-margin-burn/) — `2025-10-25-2025-10-25-from-grow-grow-grow-to-grow-margin-burn.md` — 472w
+- 2025-10-18 — [Conversation Questions for Growth Stage Entrepreneurs](https://davidcummings.org/2025/10/18/conversation-questions-for-growth-stage-entrepreneurs/) — `2025-10-18-2025-10-18-conversation-questions-for-growth-stage-entrepreneurs.md` — 507w
+- 2025-10-11 — [Focus on Building a Great Business, Not an Exit](https://davidcummings.org/2025/10/11/focus-on-building-a-great-business-not-an-exit/) — `2025-10-11-2025-10-11-focus-on-building-a-great-business-not-an-exit.md` — 429w
+- 2025-10-04 — [Control Your Controllables](https://davidcummings.org/2025/10/04/control-your-controllables/) — `2025-10-04-2025-10-04-control-your-controllables.md` — 552w
+- 2025-09-27 — [When Potential Investors Don’t Like the Market](https://davidcummings.org/2025/09/27/when-potential-investors-dont-like-the-market/) — `2025-09-27-2025-09-27-when-potential-investors-dont-like-the-market.md` — 535w
+- 2025-09-20 — [Plugging into the Local Startup Community](https://davidcummings.org/2025/09/20/plugging-into-the-local-startup-community/) — `2025-09-20-2025-09-20-plugging-into-the-local-startup-community.md` — 456w
+- 2025-09-13 — [Raise Institutional Capital or Make Do Without](https://davidcummings.org/2025/09/13/raise-institutional-capital-or-make-do-without/) — `2025-09-13-2025-09-13-raise-institutional-capital-or-make-do-without.md` — 640w
+- 2025-09-06 — [What to Look for in an Entrepreneur](https://davidcummings.org/2025/09/06/what-to-look-for-in-an-entrepreneur/) — `2025-09-06-2025-09-06-what-to-look-for-in-an-entrepreneur.md` — 509w
+- 2025-08-30 — [When Competitors Raise Large Rounds](https://davidcummings.org/2025/08/30/when-competitors-raise-large-rounds/) — `2025-08-30-2025-08-30-when-competitors-raise-large-rounds.md` — 712w
+- 2025-08-23 — [Customer Value Financing Part 2](https://davidcummings.org/2025/08/23/customer-value-financing-part-2/) — `2025-08-23-2025-08-23-customer-value-financing-part-2.md` — 630w
+- 2025-08-16 — [2025 Inc. 5000 Atlanta](https://davidcummings.org/2025/08/16/2025-inc-5000-atlanta/) — `2025-08-16-2025-08-16-2025-inc-5000-atlanta.md` — 658w
+- 2025-08-09 — [The Power of Being Around Founders Who Believe](https://davidcummings.org/2025/08/09/the-power-of-being-around-founders-who-believe/) — `2025-08-09-2025-08-09-the-power-of-being-around-founders-who-believe.md` — 534w
+- 2025-08-02 — [Entrepreneurship as Permissionless](https://davidcummings.org/2025/08/02/entrepreneurship-as-permissionless/) — `2025-08-02-2025-08-02-entrepreneurship-as-permissionless.md` — 505w
+- 2025-07-26 — [Beyond Hyper Growth](https://davidcummings.org/2025/07/26/beyond-hyper-growth/) — `2025-07-26-2025-07-26-beyond-hyper-growth.md` — 562w
+- 2025-07-19 — [Robots Everywhere](https://davidcummings.org/2025/07/19/robots-everywhere/) — `2025-07-19-2025-07-19-robots-everywhere.md` — 417w
+- 2025-07-12 — [Foosball and the Startup Journey](https://davidcummings.org/2025/07/12/foosball-and-the-startup-journey/) — `2025-07-12-2025-07-12-foosball-and-the-startup-journey.md` — 550w
+- 2025-07-05 — [KPI Definitions in Board Decks](https://davidcummings.org/2025/07/05/kpi-definitions-in-board-decks/) — `2025-07-05-2025-07-05-kpi-definitions-in-board-decks.md` — 264w
+- 2025-06-28 — [Use Advanced Prompts for More AI Value](https://davidcummings.org/2025/06/28/use-advanced-prompts-for-more-ai-value/) — `2025-06-28-2025-06-28-use-advanced-prompts-for-more-ai-value.md` — 454w
+- 2025-06-21 — [Investor Responsiveness as #1 Value](https://davidcummings.org/2025/06/21/investor-responsiveness-as-1-value/) — `2025-06-21-2025-06-21-investor-responsiveness-as-1-value.md` — 380w
+- 2025-06-14 — [Starting Over as an Entrepreneur](https://davidcummings.org/2025/06/14/starting-over-as-an-entrepreneur/) — `2025-06-14-2025-06-14-starting-over-as-an-entrepreneur.md` — 485w
+- 2025-06-07 — [Ask for the Startup Office Tour](https://davidcummings.org/2025/06/07/ask-for-the-startup-office-tour/) — `2025-06-07-2025-06-07-ask-for-the-startup-office-tour.md` — 318w
+- 2025-05-31 — [Three Quick Questions After Hearing a Founder’s Story](https://davidcummings.org/2025/05/31/three-quick-questions-after-hearing-a-founders-story/) — `2025-05-31-2025-05-31-three-quick-questions-after-hearing-a-founders-story.md` — 612w
+- 2025-05-24 — [The Preemptive Funding Offer](https://davidcummings.org/2025/05/24/the-preemptive-funding-offer/) — `2025-05-24-2025-05-24-the-preemptive-funding-offer.md` — 364w
+- 2025-05-17 — [Matching Funding with Entrepreneur Ambitions](https://davidcummings.org/2025/05/17/matching-funding-with-entrepreneur-ambitions/) — `2025-05-17-2025-05-17-matching-funding-with-entrepreneur-ambitions.md` — 422w
+- 2025-05-10 — [Find the Community Super Connector](https://davidcummings.org/2025/05/10/find-the-community-super-connector/) — `2025-05-10-2025-05-10-find-the-community-super-connector.md` — 278w
+- 2025-05-03 — [The Power of Transferring Belief](https://davidcummings.org/2025/05/03/the-power-of-transferring-belief/) — `2025-05-03-2025-05-03-the-power-of-transferring-belief.md` — 367w
+- 2025-04-26 — [Everything Compounds](https://davidcummings.org/2025/04/26/everything-compounds/) — `2025-04-26-2025-04-26-everything-compounds.md` — 338w
+- 2025-04-19 — [The Rise of AI](https://davidcummings.org/2025/04/19/the-rise-of-ai-powered-vertical-saas/) — `2025-04-19-2025-04-19-the-rise-of-ai-powered-vertical-saas.md` — 364w
+- 2025-04-12 — [Entrepreneurs Selling Equity in a Financing Round](https://davidcummings.org/2025/04/12/entrepreneurs-selling-equity-in-a-financing-round/) — `2025-04-12-2025-04-12-entrepreneurs-selling-equity-in-a-financing-round.md` — 394w
+- 2025-04-05 — [Market A or B for a Startup](https://davidcummings.org/2025/04/05/market-a-or-b-for-a-startup/) — `2025-04-05-2025-04-05-market-a-or-b-for-a-startup.md` — 579w
+- 2025-03-29 — [From Speed Alone to Speed + Quality](https://davidcummings.org/2025/03/29/from-speed-alone-to-speed-quality/) — `2025-03-29-2025-03-29-from-speed-alone-to-speed-quality.md` — 495w
+- 2025-03-22 — [Entrepreneur Updates as Leading Indicator of Success](https://davidcummings.org/2025/03/22/entrepreneur-updates-as-leading-indicator-of-success/) — `2025-03-22-2025-03-22-entrepreneur-updates-as-leading-indicator-of-success.md` — 417w
+- 2025-03-15 — [Three Personal Use Cases for ChatGPT and Grok](https://davidcummings.org/2025/03/15/three-personal-use-cases-for-chatgpt-and-grok/) — `2025-03-15-2025-03-15-three-personal-use-cases-for-chatgpt-and-grok.md` — 537w
+- 2025-03-08 — [Unforgettable Tech Magic Moments](https://davidcummings.org/2025/03/08/unforgettable-tech-magic-moments/) — `2025-03-08-2025-03-08-unforgettable-tech-magic-moments.md` — 484w
+- 2025-03-01 — [Recruiting on Non](https://davidcummings.org/2025/03/01/recruiting-on-non-recruiting-work-trips/) — `2025-03-01-2025-03-01-recruiting-on-non-recruiting-work-trips.md` — 442w
+- 2025-02-22 — [Double Revenue With No Additional Employees](https://davidcummings.org/2025/02/22/double-revenue-with-no-additional-employees/) — `2025-02-22-2025-02-22-double-revenue-with-no-additional-employees.md` — 362w
+- 2025-02-15 — [Round](https://davidcummings.org/2025/02/15/round-two-entrepreneurs/) — `2025-02-15-2025-02-15-round-two-entrepreneurs.md` — 783w
+- 2025-02-08 — [The Entrepreneur’s Passion](https://davidcummings.org/2025/02/08/the-entrepreneurs-passion/) — `2025-02-08-2025-02-08-the-entrepreneurs-passion.md` — 456w
+- 2025-02-01 — [Incredibly Narrow to Start](https://davidcummings.org/2025/02/01/incredibly-narrow-to-start/) — `2025-02-01-2025-02-01-incredibly-narrow-to-start.md` — 414w
+- 2025-01-25 — [45 Pre](https://davidcummings.org/2025/01/25/45-pre-interview-questions-from-brad-jacobs/) — `2025-01-25-2025-01-25-45-pre-interview-questions-from-brad-jacobs.md` — 809w
+- 2025-01-18 — [The Perlant Grand Opening](https://davidcummings.org/2025/01/18/the-perlant-grand-opening/) — `2025-01-18-2025-01-18-the-perlant-grand-opening.md` — 534w
+- 2025-01-11 — [ATV Sylvan Downtown Grand Opening](https://davidcummings.org/2025/01/11/atv-sylvan-downtown-grand-opening/) — `2025-01-11-2025-01-11-atv-sylvan-downtown-grand-opening.md` — 609w
+- 2025-01-04 — [Entrepreneurs Should Look for the ‘Yes’ Face](https://davidcummings.org/2025/01/04/entrepreneurs-should-look-for-the-yes-face/) — `2025-01-04-2025-01-04-entrepreneurs-should-look-for-the-yes-face.md` — 382w
+- 2024-12-28 — [5 Best Practices for Effective Entrepreneur Updates](https://davidcummings.org/2024/12/28/5-best-practices-for-effective-entrepreneur-updates/) — `2024-12-28-2024-12-28-5-best-practices-for-effective-entrepreneur-updates.md` — 742w
+- 2024-12-21 — [When It’s Time to Move on From a Successful Startup](https://davidcummings.org/2024/12/21/when-its-time-to-move-on-from-a-successful-startup/) — `2024-12-21-2024-12-21-when-its-time-to-move-on-from-a-successful-startup.md` — 467w
+- 2024-12-14 — [Daily Check](https://davidcummings.org/2024/12/14/daily-check-in-amongst-entrepreneurs/) — `2024-12-14-2024-12-14-daily-check-in-amongst-entrepreneurs.md` — 356w
+- 2024-12-07 — [The Unknown Entrepreneur Arc](https://davidcummings.org/2024/12/07/the-unknown-entrepreneur-arc/) — `2024-12-07-2024-12-07-the-unknown-entrepreneur-arc.md` — 345w
+- 2024-11-30 — [Beware of Throwaway Comments as a Founder](https://davidcummings.org/2024/11/30/beware-of-throwaway-comments-as-a-founder/) — `2024-11-30-2024-11-30-beware-of-throwaway-comments-as-a-founder.md` — 699w
+- 2024-11-23 — [The Quality of Entrepreneur Interactions](https://davidcummings.org/2024/11/23/the-quality-of-entrepreneur-interactions/) — `2024-11-23-2024-11-23-the-quality-of-entrepreneur-interactions.md` — 530w
+- 2024-11-16 — [Thiel’s Seven Questions Every Business Must Answer](https://davidcummings.org/2024/11/16/thiels-seven-questions-every-business-must-answer/) — `2024-11-16-2024-11-16-thiels-seven-questions-every-business-must-answer.md` — 344w
+- 2024-11-09 — [In Appreciation of Technological Progress](https://davidcummings.org/2024/11/09/in-appreciation-of-technological-progress/) — `2024-11-09-2024-11-09-in-appreciation-of-technological-progress.md` — 341w
+- 2024-11-02 — [Why Atlanta for Startup Investing](https://davidcummings.org/2024/11/02/why-atlanta-for-startup-investing/) — `2024-11-02-2024-11-02-why-atlanta-for-startup-investing.md` — 686w
+- 2024-10-26 — [Event Attendance Yields and Quality Product Feedback](https://davidcummings.org/2024/10/26/event-attendance-yields-and-quality-product-feedback/) — `2024-10-26-2024-10-26-event-attendance-yields-and-quality-product-feedback.md` — 400w
+- 2024-10-19 — [Highlight an Employee Failure at the Town Hall](https://davidcummings.org/2024/10/19/highlight-an-employee-failure-at-the-town-hall/) — `2024-10-19-2024-10-19-highlight-an-employee-failure-at-the-town-hall.md` — 314w
+- 2024-10-12 — [The Vision is Clear, but the Journey is Unknown](https://davidcummings.org/2024/10/12/the-vision-is-clear-but-the-journey-is-unknown/) — `2024-10-12-2024-10-12-the-vision-is-clear-but-the-journey-is-unknown.md` — 290w
+- 2024-10-05 — [Conference Connections Via Personalized Post](https://davidcummings.org/2024/10/05/conference-connections-via-personalized-post-it-notes/) — `2024-10-05-2024-10-05-conference-connections-via-personalized-post-it-notes.md` — 310w
+- 2024-09-28 — [Align Interview Questions with Core Values](https://davidcummings.org/2024/09/28/align-interview-questions-with-core-values-2/) — `2024-09-28-2024-09-28-align-interview-questions-with-core-values-2.md` — 586w
+- 2024-09-21 — [Think Big and Launch Small](https://davidcummings.org/2024/09/21/think-big-and-launch-small/) — `2024-09-21-2024-09-21-think-big-and-launch-small.md` — 366w
+- 2024-09-14 — [The Gift of Believing in Someone](https://davidcummings.org/2024/09/14/the-gift-of-believing-in-someone/) — `2024-09-14-2024-09-14-the-gift-of-believing-in-someone.md` — 579w
+- 2024-09-07 — [The New Conductor Capital](https://davidcummings.org/2024/09/07/the-new-conductor-capital/) — `2024-09-07-2024-09-07-the-new-conductor-capital.md` — 477w
+- 2024-08-31 — [Negative Roadmaps for Startups](https://davidcummings.org/2024/08/31/negative-roadmaps-for-startups/) — `2024-08-31-2024-08-31-negative-roadmaps-for-startups.md` — 607w
+- 2024-08-24 — [Intown Golf Club’s Origin Story](https://davidcummings.org/2024/08/24/intown-golf-clubs-origin-story/) — `2024-08-24-2024-08-24-intown-golf-clubs-origin-story.md` — 993w
+- 2024-08-10 — [From Historic Neighborhood to Startup District in Downtown Atlanta](https://davidcummings.org/2024/08/10/from-historic-neighborhood-to-startup-district-in-downtown-atlanta/) — `2024-08-10-2024-08-10-from-historic-neighborhood-to-startup-district-in-downtown-atlanta.md` — 626w

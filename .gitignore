@@ -35,6 +35,22 @@ test-results
 # tooling
 .turbo
 
-# Claude Code / agent state — developer-specific, not shared
-.claude/
+# Claude Code / agent state — developer-specific, not shared. The two skills,
+# generated roster, and URL-only research indexes ship with the repository.
+.claude/*
+!.claude/skills/
+!.claude/skills/**
+!.claude/founders-corpus/
 .gstack/
+
+# Full-text research copies remain private and regenerable. Only metadata is
+# versioned so a clean clone works immediately via WebFetch.
+.claude/founders-corpus/*
+!.claude/founders-corpus/ROSTER.md
+!.claude/founders-corpus/*/
+.claude/founders-corpus/*/*
+!.claude/founders-corpus/*/INDEX.md
+
+# The user's own idea documents (written by /founder-conversation and
+# /board-room). Private by default; remove this line to version them.
+ideas/

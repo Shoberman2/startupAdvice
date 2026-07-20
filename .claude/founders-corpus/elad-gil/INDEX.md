@@ -1,0 +1,99 @@
+# Elad Gil corpus index
+
+Source: https://blog.eladgil.com — fetched 2026-07-19
+94 posts, 162812 words. Format: date — [title](canonical url) — `file` — words.
+
+- undated — [YC Is A Network Effect Business](https://blog.eladgil.com/p/yc-is-network-effect-business) — `undated-p-yc-is-network-effect-business.md` — 636w
+- undated — [Why Has Israel Succeeded At COVID Vaccination?](https://blog.eladgil.com/p/israel-has-pulled-ahead-of-much-in) — `undated-p-israel-has-pulled-ahead-of-much-in.md` — 2087w
+- undated — [When Executives Break](https://blog.eladgil.com/p/when-executives-break) — `undated-p-when-executives-break.md` — 2861w
+- undated — [What Is A "Good" VC?](https://blog.eladgil.com/p/what-is-good-vc) — `undated-p-what-is-good-vc.md` — 1430w
+- undated — [We Will Crush You](https://blog.eladgil.com/p/we-will-crush-you) — `undated-p-we-will-crush-you.md` — 703w
+- undated — [Waiting Too Long To Go Public](https://blog.eladgil.com/p/waiting-too-long-to-go-public) — `undated-p-waiting-too-long-to-go-public.md` — 1584w
+- undated — [Video and transcript: Fireside chat with Clem Delangue, CEO of Hugging Face](https://blog.eladgil.com/p/video-and-transcript-fireside-chat) — `undated-p-video-and-transcript-fireside-chat.md` — 7766w
+- undated — [Video & transcript: Apoorva Metha, founder & former CEO, Instacart](https://blog.eladgil.com/p/video-and-transcript-apoorva-metha) — `undated-p-video-and-transcript-apoorva-metha.md` — 7381w
+- undated — [Unicorn Market Cap, June 2021 (Almost Post](https://blog.eladgil.com/p/unicorn-market-cap-june-2020-almost) — `undated-p-unicorn-market-cap-june-2020-almost.md` — 1135w
+- undated — [Unicorn Market Cap 2026: SF is the GenAI Super Cluster](https://blog.eladgil.com/p/unicorn-market-cap-2026-sf-is-the) — `undated-p-unicorn-market-cap-2026-sf-is-the.md` — 1651w
+- undated — [Unicorn Market Cap 2023: Rise of AI](https://blog.eladgil.com/p/unicorn-market-cap-2023-rise-of-ai) — `undated-p-unicorn-market-cap-2023-rise-of-ai.md` — 2804w
+- undated — [Unicorn Market Cap & Industry Towns, 2020](https://blog.eladgil.com/p/unicorn-market-cap-industry-towns-2020) — `undated-p-unicorn-market-cap-industry-towns-2020.md` — 1547w
+- undated — [Unequal Cofounders](https://blog.eladgil.com/p/unequal-cofounders) — `undated-p-unequal-cofounders.md` — 1435w
+- undated — [Twitter Features](https://blog.eladgil.com/p/twitter-features) — `undated-p-twitter-features.md` — 838w
+- undated — [Things I Don't Know About AI](https://blog.eladgil.com/p/things-i-dont-know-about-ai) — `undated-p-things-i-dont-know-about-ai.md` — 2341w
+- undated — [The False Narrative Around Theranos](https://blog.eladgil.com/p/the-false-narrative-around-theranos) — `undated-p-the-false-narrative-around-theranos.md` — 730w
+- undated — [The Case For Ethereum](https://blog.eladgil.com/p/the-case-for-ethereum) — `undated-p-the-case-for-ethereum.md` — 1524w
+- undated — [The 3 Types of "Platform" Companies](https://blog.eladgil.com/p/the-3-types-of-platform-companies) — `undated-p-the-3-types-of-platform-companies.md` — 1427w
+- undated — [Telegram's TON Presale As Venture Capital's Crypto Turning Point](https://blog.eladgil.com/p/telegrams-ton-presale-as-venture) — `undated-p-telegrams-ton-presale-as-venture.md` — 436w
+- undated — [Startups in Machine Learning & AI](https://blog.eladgil.com/p/startups-in-machine-learning-ai) — `undated-p-startups-in-machine-learning-ai.md` — 1721w
+- undated — [Startups are an act of desperation](https://blog.eladgil.com/p/startups-are-an-act-of-desperation) — `undated-p-startups-are-an-act-of-desperation.md` — 1612w
+- undated — [Startup Offense and Defense in the Recession](https://blog.eladgil.com/p/startup-offense-and-defense-in-recession) — `undated-p-startup-offense-and-defense-in-recession.md` — 2315w
+- undated — [Startup Markets, Summer 2022 Edition](https://blog.eladgil.com/p/what-may-be-coming-to-startups-2022) — `undated-p-what-may-be-coming-to-startups-2022.md` — 2575w
+- undated — [Startup Decoupling & Reckoning](https://blog.eladgil.com/p/startup-decoupling-and-reckoning) — `undated-p-startup-decoupling-and-reckoning.md` — 3305w
+- undated — [Silicon Valley & Defense Tech](https://blog.eladgil.com/p/silicon-valley-defense-tech) — `undated-p-silicon-valley-defense-tech.md` — 577w
+- undated — [Should Your Lead VC Veto Other Investors?](https://blog.eladgil.com/p/should-your-lead-vc-veto-other-investors) — `undated-p-should-your-lead-vc-veto-other-investors.md` — 731w
+- undated — [Sell Your Startup To A Breakout Company](https://blog.eladgil.com/p/sell-your-startup-to-breakout-company) — `undated-p-sell-your-startup-to-breakout-company.md` — 901w
+- undated — [SPACs: A Brief Overview](https://blog.eladgil.com/p/spacs-brief-overview) — `undated-p-spacs-brief-overview.md` — 2174w
+- undated — [Recruiting Is a Grind](https://blog.eladgil.com/p/recruiting-is-grind) — `undated-p-recruiting-is-grind.md` — 947w
+- undated — [Random thoughts while gazing at the misty AI Frontier](https://blog.eladgil.com/p/random-thoughts-while-gazing-at-the) — `undated-p-random-thoughts-while-gazing-at-the.md` — 2374w
+- undated — [Products I Wish Existed, 2020 Edition](https://blog.eladgil.com/p/products-i-wish-existed-2020-edition) — `undated-p-products-i-wish-existed-2020-edition.md` — 2618w
+- undated — [Product To Distribution](https://blog.eladgil.com/p/product-to-distribution) — `undated-p-product-to-distribution.md` — 557w
+- undated — [Preemptive Rounds](https://blog.eladgil.com/p/preemptive-rounds) — `undated-p-preemptive-rounds.md` — 1250w
+- undated — [Organizational Structure Is All About Pragmatism](https://blog.eladgil.com/p/organizational-structure-is-all-about) — `undated-p-organizational-structure-is-all-about.md` — 1018w
+- undated — [MegaCycles in Tech & Crypto](https://blog.eladgil.com/p/megacycles-in-tech-crypto) — `undated-p-megacycles-in-tech-crypto.md` — 1251w
+- undated — [Markets Are 10X Bigger Than Ever](https://blog.eladgil.com/p/markets-are-10x-bigger-than-ever) — `undated-p-markets-are-10x-bigger-than-ever.md` — 1171w
+- undated — [Market Ending Moves](https://blog.eladgil.com/p/market-ending-moves) — `undated-p-market-ending-moves.md` — 580w
+- undated — [Market Caps & The 2% Rule](https://blog.eladgil.com/p/market-caps-2-rule) — `undated-p-market-caps-2-rule.md` — 1022w
+- undated — [March 11 Coronavirus (COVID](https://blog.eladgil.com/p/coronavirus-covid-19-update-for-startups) — `undated-p-coronavirus-covid-19-update-for-startups.md` — 2807w
+- undated — [Magic Startup Moments](https://blog.eladgil.com/p/magic-startup-moments) — `undated-p-magic-startup-moments.md` — 451w
+- undated — [Leaving Delaware](https://blog.eladgil.com/p/leaving-delaware) — `undated-p-leaving-delaware.md` — 1553w
+- undated — [Jobs, Wozniak, Cook (Build, Sell, Scale)](https://blog.eladgil.com/p/jobs-wozniak-cook-build-sell-scale) — `undated-p-jobs-wozniak-cook-build-sell-scale.md` — 946w
+- undated — [It’s M&A Time! (IPOs Return In 2018)](https://blog.eladgil.com/p/its-m-time-ipos-return-in-2018) — `undated-p-its-m-time-ipos-return-in-2018.md` — 987w
+- undated — [Investor Update Emails](https://blog.eladgil.com/p/investor-update-emails) — `undated-p-investor-update-emails.md` — 753w
+- undated — [Interesting Markets: 2019 Edition](https://blog.eladgil.com/p/interesting-markets-2019-edition) — `undated-p-interesting-markets-2019-edition.md` — 1742w
+- undated — [Industry Towns](https://blog.eladgil.com/p/industry-towns-where-you-start-company) — `undated-p-industry-towns-where-you-start-company.md` — 2749w
+- undated — [Index Companies](https://blog.eladgil.com/p/index-companies) — `undated-p-index-companies.md` — 530w
+- undated — [How To Do A Re](https://blog.eladgil.com/p/how-to-do-re-org) — `undated-p-how-to-do-re-org.md` — 1403w
+- undated — [How To Ask For An Introduction](https://blog.eladgil.com/p/how-to-ask-for-introduction) — `undated-p-how-to-ask-for-introduction.md` — 752w
+- undated — [Hot Markets For 2015](https://blog.eladgil.com/p/hot-markets-for-2015) — `undated-p-hot-markets-for-2015.md` — 2004w
+- undated — [Hiring Executives & Bad Advice](https://blog.eladgil.com/p/hiring-executives-bad-advice) — `undated-p-hiring-executives-bad-advice.md` — 1995w
+- undated — [Hire A Gap Filler](https://blog.eladgil.com/p/hire-gap-filler) — `undated-p-hire-gap-filler.md` — 831w
+- undated — [High Growth Handbook! LIVE!](https://blog.eladgil.com/p/high-growth-handbook-live_38) — `undated-p-high-growth-handbook-live_38.md` — 648w
+- undated — [Founders Should Divide and Conquer](https://blog.eladgil.com/p/founders-should-divide-and-conquer) — `undated-p-founders-should-divide-and-conquer.md` — 872w
+- undated — [Founder Roles](https://blog.eladgil.com/p/founder-roles) — `undated-p-founder-roles.md` — 830w
+- undated — [Founder Investors & Scout Programs](https://blog.eladgil.com/p/founder-investors-scout-programs) — `undated-p-founder-investors-scout-programs.md` — 1862w
+- undated — [For YC Companies Raising Seed Rounds](https://blog.eladgil.com/p/for-companies-raising-seed-rounds) — `undated-p-for-companies-raising-seed-rounds.md` — 576w
+- undated — [Fireside chat with Satya Nadella, CEO of Microsoft](https://blog.eladgil.com/p/fireside-chat-with-satya-nadella) — `undated-p-fireside-chat-with-satya-nadella.md` — 5792w
+- undated — [Feelings of Failure](https://blog.eladgil.com/p/feelings-of-failure) — `undated-p-feelings-of-failure.md` — 1639w
+- undated — [Fear of Sales](https://blog.eladgil.com/p/fear-of-sales) — `undated-p-fear-of-sales.md` — 1912w
+- undated — [Experience, Instincts, and Maturity](https://blog.eladgil.com/p/experience-instincts-and-maturity) — `undated-p-experience-instincts-and-maturity.md` — 992w
+- undated — [End of Cycle?](https://blog.eladgil.com/p/end-of-cycle) — `undated-p-end-of-cycle.md` — 1312w
+- undated — [Early days of AI (and AI Hype Cycle)](https://blog.eladgil.com/p/early-days-of-ai) — `undated-p-early-days-of-ai.md` — 1179w
+- undated — [Don't Ask For Too Much Money](https://blog.eladgil.com/p/dont-ask-for-too-much-money) — `undated-p-dont-ask-for-too-much-money.md` — 841w
+- undated — [Discussion w Arthur Mensch, CEO of Mistral AI](https://blog.eladgil.com/p/discussion-w-arthur-mensch-ceo-of) — `undated-p-discussion-w-arthur-mensch-ceo-of.md` — 6357w
+- undated — [Defensibility And Lock In: Uber & Lyft](https://blog.eladgil.com/p/defensibility-and-lock-in-uber-lyft) — `undated-p-defensibility-and-lock-in-uber-lyft.md` — 860w
+- undated — [Defensibility & Competition](https://blog.eladgil.com/p/defensibility-and-competition) — `undated-p-defensibility-and-competition.md` — 2741w
+- undated — [Cryptocurrency's Netscape Moment](https://blog.eladgil.com/p/cryptocurrencys-netscape-moment) — `undated-p-cryptocurrencys-netscape-moment.md` — 1638w
+- undated — [Cryptocurrency Incentives and Corporate Structures](https://blog.eladgil.com/p/cryptocurrency-incentives-and-corporate) — `undated-p-cryptocurrency-incentives-and-corporate.md` — 2347w
+- undated — [Crypto Twitter](https://blog.eladgil.com/p/crypto-twitter) — `undated-p-crypto-twitter.md` — 606w
+- undated — [Coronavirus (COVID](https://blog.eladgil.com/p/coronavirus-covid-19-overview-for) — `undated-p-coronavirus-covid-19-overview-for.md` — 2080w
+- undated — [Core Cryptocurrency Use Cases](https://blog.eladgil.com/p/core-cryptocurrency-use-cases) — `undated-p-core-cryptocurrency-use-cases.md` — 906w
+- undated — [Collaborative Enterprise (at last!)](https://blog.eladgil.com/p/collaborative-enterprise-at-last) — `undated-p-collaborative-enterprise-at-last.md` — 1320w
+- undated — [Changing times (or, why is every layoff 10](https://blog.eladgil.com/p/changing-times-or-why-is-every-layoff) — `undated-p-changing-times-or-why-is-every-layoff.md` — 3122w
+- undated — [Career Decisions](https://blog.eladgil.com/p/career-decisions) — `undated-p-career-decisions.md` — 1447w
+- undated — [Capital Efficient Businesses](https://blog.eladgil.com/p/capital-efficient-businesses) — `undated-p-capital-efficient-businesses.md` — 1205w
+- undated — [Building VC Relationships](https://blog.eladgil.com/p/building-vc-relationships) — `undated-p-building-vc-relationships.md` — 993w
+- undated — [Building A Recruiting Org](https://blog.eladgil.com/p/building-recruiting-org) — `undated-p-building-recruiting-org.md` — 1662w
+- undated — [Bitcoin Network Effects](https://blog.eladgil.com/p/bitcoin-network-effects_11) — `undated-p-bitcoin-network-effects_11.md` — 1536w
+- undated — [Biotech companies I wish existed](https://blog.eladgil.com/p/biotech-companies-i-wish-existed) — `undated-p-biotech-companies-i-wish-existed.md` — 1094w
+- undated — [Big Banks And Blockchain](https://blog.eladgil.com/p/big-banks-and-blockchain) — `undated-p-big-banks-and-blockchain.md` — 1056w
+- undated — [Better Meetings](https://blog.eladgil.com/p/meeting-etiquette) — `undated-p-meeting-etiquette.md` — 562w
+- undated — [Back to the office](https://blog.eladgil.com/p/back-to-office) — `undated-p-back-to-office.md` — 1643w
+- undated — [Anduril & Defense Tech](https://blog.eladgil.com/p/anduril-defense-tech) — `undated-p-anduril-defense-tech.md` — 626w
+- undated — [AI: Startup Vs Incumbent Value](https://blog.eladgil.com/p/ai-startup-vs-incumbent-value) — `undated-p-ai-startup-vs-incumbent-value.md` — 2289w
+- undated — [AI Safety: Technology vs Species Threats](https://blog.eladgil.com/p/ai-safety-technology-vs-species-threats) — `undated-p-ai-safety-technology-vs-species-threats.md` — 2469w
+- undated — [AI Revolution - Transformers and Large Language Models (LLMs)](https://blog.eladgil.com/p/ai-revolution-transformers-and-large) — `undated-p-ai-revolution-transformers-and-large.md` — 3595w
+- undated — [AI Regulation](https://blog.eladgil.com/p/ai-regulation) — `undated-p-ai-regulation.md` — 2659w
+- undated — [AI Platforms, Markets, & Open Source](https://blog.eladgil.com/p/ai-platforms-markets-and-open-source) — `undated-p-ai-platforms-markets-and-open-source.md` — 4011w
+- undated — [AI Market Clarity](https://blog.eladgil.com/p/ai-market-clarity) — `undated-p-ai-market-clarity.md` — 2732w
+- undated — [A return to company core mission & values](https://blog.eladgil.com/p/a-return-to-company-core-mission) — `undated-p-a-return-to-company-core-mission.md` — 727w
+- undated — [A Brief Guide To Startup Pivots (4 Types Of Pivots)](https://blog.eladgil.com/p/a-brief-guide-to-startup-pivots-4-types) — `undated-p-a-brief-guide-to-startup-pivots-4-types.md` — 2219w
+- undated — [5 Signs A Candidate Just Isn't That Into You](https://blog.eladgil.com/p/5-signs-candidate-just-isnt-that-into) — `undated-p-5-signs-candidate-just-isnt-that-into.md` — 584w
+- undated — [5 SaaS Features For Big Enterprises](https://blog.eladgil.com/p/5-saas-features-for-big-enterprises) — `undated-p-5-saas-features-for-big-enterprises.md` — 753w

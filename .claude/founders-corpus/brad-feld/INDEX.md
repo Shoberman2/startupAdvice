@@ -1,0 +1,98 @@
+# Brad Feld corpus index
+
+Source: https://feld.com — fetched 2026-07-19
+93 posts, 48624 words. Format: date — [title](canonical url) — `file` — words.
+
+- 2026-06-19 — [Read Zero Knowledge As I Write It](https://feld.com/archives/2026/06/read-zero-knowledge-as-i-write-it/) — `2026-06-19-archives-2026-06-read-zero-knowledge-as-i-write-it.md` — 825w
+- 2026-06-17 — [RIP Josh Baer](https://feld.com/archives/2026/06/rip-josh-baer/) — `2026-06-17-archives-2026-06-rip-josh-baer.md` — 692w
+- 2026-06-15 — [Does the Rule of 40 Work for Hardware?](https://feld.com/archives/2026/06/does-the-rule-of-40-work-for-hardware/) — `2026-06-15-archives-2026-06-does-the-rule-of-40-work-for-hardware.md` — 1104w
+- 2026-06-14 — [Writing a Novel with Phin Argofy](https://feld.com/archives/2026/06/writing-a-novel-with-phin-argofy/) — `2026-06-14-archives-2026-06-writing-a-novel-with-phin-argofy.md` — 1003w
+- 2026-06-08 — [Phil Weiser For Colorado Governor](https://feld.com/archives/2026/06/phil-weiser-for-colorado-governor/) — `2026-06-08-archives-2026-06-phil-weiser-for-colorado-governor.md` — 640w
+- 2026-05-29 — [The Premise: The Lead User and the Machines That Build Machines](https://feld.com/archives/2026/05/the-premise-lead-user-machines-that-build-machines/) — `2026-05-29-archives-2026-05-the-premise-lead-user-machines-that-build-machines.md` — 1053w
+- 2026-05-25 — [It](https://feld.com/archives/2026/05/its-summertime/) — `2026-05-25-archives-2026-05-its-summertime.md` — 191w
+- 2026-05-22 — [How to Rule the World](https://feld.com/archives/2026/05/how-to-rule-the-world/) — `2026-05-22-archives-2026-05-how-to-rule-the-world.md` — 578w
+- 2026-05-15 — [The Cognitive Sport of Building Startups](https://feld.com/archives/2026/05/the-cognitive-sport-of-building-startups/) — `2026-05-15-archives-2026-05-the-cognitive-sport-of-building-startups.md` — 606w
+- 2026-05-01 — [Burn Bright, Not Out](https://feld.com/archives/2026/05/burn-bright-not-out/) — `2026-05-01-archives-2026-05-burn-bright-not-out.md` — 342w
+- 2026-04-20 — [Give First, Build Right with Eric Ries](https://feld.com/archives/2026/04/give-first-build-right-with-eric-ries/) — `2026-04-20-archives-2026-04-give-first-build-right-with-eric-ries.md` — 283w
+- 2026-03-29 — [I Built a Plugin Because Anthropic Won](https://feld.com/archives/2026/03/i-built-a-plugin-because-anthropic-wont-stop-shipping/) — `2026-03-29-archives-2026-03-i-built-a-plugin-because-anthropic-wont-stop-shipping.md` — 518w
+- 2026-03-27 — [Nothing New to See Here](https://feld.com/archives/2026/03/nothing-new-to-see-here/) — `2026-03-27-archives-2026-03-nothing-new-to-see-here.md` — 656w
+- 2026-03-26 — [Opt](https://feld.com/archives/2026/03/opt-out-is-not-consent/) — `2026-03-26-archives-2026-03-opt-out-is-not-consent.md` — 646w
+- 2026-03-25 — [Quality](https://feld.com/archives/2026/03/quality/) — `2026-03-25-archives-2026-03-quality.md` — 729w
+- 2026-03-22 — [Three Books for the Next Phase](https://feld.com/archives/2026/03/three-books-for-the-next-phase/) — `2026-03-22-archives-2026-03-three-books-for-the-next-phase.md` — 501w
+- 2026-03-12 — [The Looking Glass Musubi](https://feld.com/archives/2026/03/the-looking-glass-musubi/) — `2026-03-12-archives-2026-03-the-looking-glass-musubi.md` — 342w
+- 2026-03-08 — [Migrating Feld Thoughts from WordPress to Hugo](https://feld.com/archives/2026/03/migrating-feld-thoughts-from-wordpress-to-hugo/) — `2026-03-08-archives-2026-03-migrating-feld-thoughts-from-wordpress-to-hugo.md` — 1221w
+- 2026-02-27 — [Proud Uncle Alert – Sabrina Feld](https://feld.com/archives/2026/02/proud-uncle-alert-sabrina-feld/) — `2026-02-27-archives-2026-02-proud-uncle-alert-sabrina-feld.md` — 442w
+- 2026-02-18 — [Venture Deals Spring 2026 Course](https://feld.com/archives/2026/02/venture-deals-spring-2026-course/) — `2026-02-18-archives-2026-02-venture-deals-spring-2026-course.md` — 129w
+- 2026-02-16 — [Adventures in Claude](https://feld.com/archives/2026/02/adventures-in-claude/) — `2026-02-16-archives-2026-02-adventures-in-claude.md` — 285w
+- 2026-02-14 — [Streamline Workflow with CEOS: Claude Meets EOS](https://feld.com/archives/2026/02/streamline-workflow-with-ceos-claude-meets-eos/) — `2026-02-14-archives-2026-02-streamline-workflow-with-ceos-claude-meets-eos.md` — 1492w
+- 2026-02-12 — [Freshell – Contributing to Open Source](https://feld.com/archives/2026/02/freshell-contributing-to-open-source/) — `2026-02-12-archives-2026-02-freshell-contributing-to-open-source.md` — 304w
+- 2026-02-10 — [Claude Code Now Posts to This Blog](https://feld.com/archives/2026/02/claude-code-now-posts-to-this-blog/) — `2026-02-10-archives-2026-02-claude-code-now-posts-to-this-blog.md` — 422w
+- 2026-02-09 — [Tech I](https://feld.com/archives/2026/02/tech-im-obsessed-with/) — `2026-02-09-archives-2026-02-tech-im-obsessed-with.md` — 410w
+- 2026-02-05 — [Blurry Transitions](https://feld.com/archives/2026/02/blurry-transitions/) — `2026-02-05-archives-2026-02-blurry-transitions.md` — 495w
+- 2026-02-04 — [Interview With Guy Kawasaki](https://feld.com/archives/2026/02/interview-with-guy-kawasaki/) — `2026-02-04-archives-2026-02-interview-with-guy-kawasaki.md` — 406w
+- 2025-12-10 — [The Toll of Stress on Startup Teams and Its Link to Founder Well](https://feld.com/archives/2025/12/the-toll-of-stress-on-startup-teams-and-its-link-to-founder-well-being/) — `2025-12-10-archives-2025-12-the-toll-of-stress-on-startup-teams-and-its-link-to-founder-wel.md` — 361w
+- 2025-12-09 — [Capital Evolution: The New American Economy](https://feld.com/archives/2025/12/capital-evolution-the-new-american-economy/) — `2025-12-09-archives-2025-12-capital-evolution-the-new-american-economy.md` — 316w
+- 2025-12-01 — [@bfeld v60.0](https://feld.com/archives/2025/12/bfeld-v60-0/) — `2025-12-01-archives-2025-12-bfeld-v60-0.md` — 394w
+- 2025-11-21 — [Enshitification](https://feld.com/archives/2025/11/enshitification/) — `2025-11-21-archives-2025-11-enshitification.md` — 526w
+- 2025-10-23 — [Authors & Innovators 2025](https://feld.com/archives/2025/10/authors-innovators-2025/) — `2025-10-23-archives-2025-10-authors-innovators-2025.md` — 293w
+- 2025-10-21 — [The Bear Roars: Dan and Brad](https://feld.com/archives/2025/10/the-bear-roars-dan-and-brad/) — `2025-10-21-archives-2025-10-the-bear-roars-dan-and-brad.md` — 209w
+- 2025-10-13 — [Leveling Up in the Vibe Coding Video Game](https://feld.com/archives/2025/10/leveling-up-in-the-vibe-coding-video-game/) — `2025-10-13-archives-2025-10-leveling-up-in-the-vibe-coding-video-game.md` — 978w
+- 2025-10-11 — [Book: Echoes of October](https://feld.com/archives/2025/10/book-echoes-of-october/) — `2025-10-11-archives-2025-10-book-echoes-of-october.md` — 305w
+- 2025-10-01 — [Break the Fast With Me and Sue Heilbronner in Longmont on 10/2](https://feld.com/archives/2025/10/break-the-fast-with-me-and-sue-heilbronner-in-longmont-on-10-2/) — `2025-10-01-archives-2025-10-break-the-fast-with-me-and-sue-heilbronner-in-longmont-on-10-2.md` — 164w
+- 2025-09-15 — [New(ish) Podcast for Startup Community Builders](https://feld.com/archives/2025/09/newish-podcast-for-startup-community-builders/) — `2025-09-15-archives-2025-09-newish-podcast-for-startup-community-builders.md` — 259w
+- 2025-09-12 — [Reid Hoffman](https://feld.com/archives/2025/09/reid-hoffmans-superagency/) — `2025-09-12-archives-2025-09-reid-hoffmans-superagency.md` — 661w
+- 2025-09-03 — [I](https://feld.com/archives/2025/09/im-ensorcelled-by-books-by-friends/) — `2025-09-03-archives-2025-09-im-ensorcelled-by-books-by-friends.md` — 473w
+- 2025-09-01 — [Welcome To Autumn – And Some Events](https://feld.com/archives/2025/09/welcome-to-autumn-and-some-events/) — `2025-09-01-archives-2025-09-welcome-to-autumn-and-some-events.md` — 221w
+- 2025-08-14 — [We](https://feld.com/archives/2025/08/well-make-great-pets/) — `2025-08-14-archives-2025-08-well-make-great-pets.md` — 208w
+- 2025-08-12 — [Brad Feld](https://feld.com/archives/2025/08/brad-felds-online-book-club/) — `2025-08-12-archives-2025-08-brad-felds-online-book-club.md` — 542w
+- 2025-08-01 — [A Shift](https://feld.com/archives/2025/08/a-shift/) — `2025-08-01-archives-2025-08-a-shift.md` — 672w
+- 2025-07-30 — [Give First Podcast with Bobby Franklin of the NVCA](https://feld.com/archives/2025/07/give-first-podcast-with-bobby-franklin-of-the-nvca/) — `2025-07-30-archives-2025-07-give-first-podcast-with-bobby-franklin-of-the-nvca.md` — 228w
+- 2025-07-23 — [Kansas City, Podcasts, and Hibernation](https://feld.com/archives/2025/07/kansas-city-podcasts-and-hibernation/) — `2025-07-23-archives-2025-07-kansas-city-podcasts-and-hibernation.md` — 839w
+- 2025-07-17 — [Givers, Takers, and Building Cultures That Last with Adam Grant](https://feld.com/archives/2025/07/givers-takers-and-building-cultures-that-last-with-adam-grant/) — `2025-07-17-archives-2025-07-givers-takers-and-building-cultures-that-last-with-adam-grant.md` — 344w
+- 2025-07-16 — [Participate in High Alpha’s 2025 SaaS Benchmarks Survey](https://feld.com/archives/2025/07/participate-in-high-alphas-2025-saas-benchmarks-survey/) — `2025-07-16-archives-2025-07-participate-in-high-alphas-2025-saas-benchmarks-survey.md` — 153w
+- 2025-07-09 — [Leadership, Ego, and Saying No with Seth Godin](https://feld.com/archives/2025/07/leadership-ego-and-saying-no-with-seth-godin/) — `2025-07-09-archives-2025-07-leadership-ego-and-saying-no-with-seth-godin.md` — 319w
+- 2025-07-03 — [My Favorite Books Become Movies](https://feld.com/archives/2025/07/my-favorite-books-become-movies/) — `2025-07-03-archives-2025-07-my-favorite-books-become-movies.md` — 165w
+- 2025-07-02 — [Podcasts on The Startup Community Movement](https://feld.com/archives/2025/07/podcasts-on-the-startup-community-movement/) — `2025-07-02-archives-2025-07-podcasts-on-the-startup-community-movement.md` — 495w
+- 2025-06-30 — [Is AI Just Software?](https://feld.com/archives/2025/06/is-ai-just-software/) — `2025-06-30-archives-2025-06-is-ai-just-software.md` — 2083w
+- 2025-06-27 — [Non-Transactional, Positive-Sum, and Multi](https://feld.com/archives/2025/06/non-transactional-positive-sum-and-multi-turn/) — `2025-06-27-archives-2025-06-non-transactional-positive-sum-and-multi-turn.md` — 785w
+- 2025-06-24 — [Give First is a Philosophy, Not a Religion](https://feld.com/archives/2025/06/give-first/) — `2025-06-24-archives-2025-06-give-first.md` — 697w
+- 2025-06-23 — [Book: Fever Pitch: A Novel About Selling Your Vision, Raising Venture Capital, and Launching Your Startup](https://feld.com/archives/2025/06/book-fever-pitch-a-novel-about-selling-your-vision-raising-venture-capital-and-launching-your-startup/) — `2025-06-23-archives-2025-06-book-fever-pitch-a-novel-about-selling-your-vision-raising-vent.md` — 309w
+- 2025-06-22 — [Tech4Youth – Inspiration at Any Age](https://feld.com/archives/2025/06/tech4youth-inspiration-at-any-age/) — `2025-06-22-archives-2025-06-tech4youth-inspiration-at-any-age.md` — 475w
+- 2025-06-20 — [LLMs Just Lie](https://feld.com/archives/2025/06/llms-just-lie/) — `2025-06-20-archives-2025-06-llms-just-lie.md` — 1486w
+- 2025-06-19 — [Book: The System: A Novel of the Deep State](https://feld.com/archives/2025/06/book-the-system-a-novel-of-the-deep-state/) — `2025-06-19-archives-2025-06-book-the-system-a-novel-of-the-deep-state.md` — 712w
+- 2025-06-18 — [We Are All Just Dust In the Wind](https://feld.com/archives/2025/06/we-are-all-just-dust-in-the-wind/) — `2025-06-18-archives-2025-06-we-are-all-just-dust-in-the-wind.md` — 349w
+- 2025-06-17 — [Give First: Kindle Version Available Today](https://feld.com/archives/2025/06/give-first-kindle-version-available-today/) — `2025-06-17-archives-2025-06-give-first-kindle-version-available-today.md` — 130w
+- 2025-06-16 — [I Have Embraced Absurdism](https://feld.com/archives/2025/06/i-have-embraced-absurdism/) — `2025-06-16-archives-2025-06-i-have-embraced-absurdism.md` — 519w
+- 2025-06-14 — [Three Thoughts on AI and Life](https://feld.com/archives/2025/06/three-thoughts-on-ai-and-life/) — `2025-06-14-archives-2025-06-three-thoughts-on-ai-and-life.md` — 287w
+- 2025-06-13 — [Steve Ballmer](https://feld.com/archives/2025/06/steve-ballmers-tricks/) — `2025-06-13-archives-2025-06-steve-ballmers-tricks.md` — 774w
+- 2025-06-12 — [Being Full of Value‑Added Shit](https://feld.com/archives/2025/06/being-full-of-valueadded-shit/) — `2025-06-12-archives-2025-06-being-full-of-valueadded-shit.md` — 629w
+- 2025-06-11 — [30 Minutes of Awesome With Seth Godin](https://feld.com/archives/2025/06/30-minutes-of-awesome-with-seth-godin/) — `2025-06-11-archives-2025-06-30-minutes-of-awesome-with-seth-godin.md` — 334w
+- 2025-06-09 — [Substack vs. X vs. LinkedIn vs. Medium vs. Blog](https://feld.com/archives/2025/06/substack-vs-x-vs-linkedin-vs-medium-vs-blog/) — `2025-06-09-archives-2025-06-substack-vs-x-vs-linkedin-vs-medium-vs-blog.md` — 392w
+- 2025-06-08 — [Is This What Happens When People Don’t Understand How AI Works?](https://feld.com/archives/2025/06/is-this-what-happens-when-people-dont-understand-how-ai-works/) — `2025-06-08-archives-2025-06-is-this-what-happens-when-people-dont-understand-how-ai-works.md` — 275w
+- 2025-06-04 — [Being Out And About At Public Events](https://feld.com/archives/2025/06/being-out-and-about-at-public-events/) — `2025-06-04-archives-2025-06-being-out-and-about-at-public-events.md` — 471w
+- 2025-06-03 — [Destigmatizing Mental Health in Entrepreneurship](https://feld.com/archives/2025/06/destigmatizing-mental-health-in-entrepreneurship/) — `2025-06-03-archives-2025-06-destigmatizing-mental-health-in-entrepreneurship.md` — 408w
+- 2025-05-31 — [Vibecoding Prompts](https://feld.com/archives/2025/05/vibecoding-prompts/) — `2025-05-31-archives-2025-05-vibecoding-prompts.md` — 946w
+- 2025-05-29 — [A Tweet, Vibe Coding, Jj, and Grok Walk Into A Bar](https://feld.com/archives/2025/05/a-tweet-vibe-coding-jj-and-grok-walk-into-a-bar/) — `2025-05-29-archives-2025-05-a-tweet-vibe-coding-jj-and-grok-walk-into-a-bar.md` — 667w
+- 2025-05-27 — [Give First – Table of Contents](https://feld.com/archives/2025/05/give-first-table-of-contents/) — `2025-05-27-archives-2025-05-give-first-table-of-contents.md` — 275w
+- 2025-05-26 — [Beware the Grinfuckers](https://feld.com/archives/2025/05/beware-the-grinfuckers/) — `2025-05-26-archives-2025-05-beware-the-grinfuckers.md` — 416w
+- 2025-05-22 — [Venture Deals Summer Course 2025 Enrollment Is Open](https://feld.com/archives/2025/05/venture-deals-summer-course-2025-enrollment-is-open/) — `2025-05-22-archives-2025-05-venture-deals-summer-course-2025-enrollment-is-open.md` — 207w
+- 2025-05-21 — [The Power Of Mentorship: A Conversation With Brad Feld and Phil Weiser](https://feld.com/archives/2025/05/the-power-of-mentorship-a-conversation-with-brad-feld-and-phil-weiser/) — `2025-05-21-archives-2025-05-the-power-of-mentorship-a-conversation-with-brad-feld-and-phil-.md` — 407w
+- 2025-05-19 — [Turn Every Page](https://feld.com/archives/2025/05/turn-every-page/) — `2025-05-19-archives-2025-05-turn-every-page.md` — 555w
+- 2025-05-13 — [Random Day on 5/28 at The Composition Shop](https://feld.com/archives/2025/05/random-day-on-5-28-at-the-composition-shop/) — `2025-05-13-archives-2025-05-random-day-on-5-28-at-the-composition-shop.md` — 300w
+- 2025-05-12 — [Back in Boulder](https://feld.com/archives/2025/05/back-in-boulder/) — `2025-05-12-archives-2025-05-back-in-boulder.md` — 238w
+- 2025-05-08 — [My Upcoming Events in Boulder](https://feld.com/archives/2025/05/my-upcoming-events-in-boulder/) — `2025-05-08-archives-2025-05-my-upcoming-events-in-boulder.md` — 503w
+- 2025-05-06 — [This Week In Vibe Coding Learning](https://feld.com/archives/2025/05/this-week-in-vibe-coding-learning/) — `2025-05-06-archives-2025-05-this-week-in-vibe-coding-learning.md` — 239w
+- 2025-05-05 — [Book: Carrie Soto Is Back](https://feld.com/archives/2025/05/book-carrie-soto-is-back/) — `2025-05-05-archives-2025-05-book-carrie-soto-is-back.md` — 576w
+- 2025-05-02 — [The Cost of Passive Avoidance](https://feld.com/archives/2025/05/the-cost-of-passive-avoidance/) — `2025-05-02-archives-2025-05-the-cost-of-passive-avoidance.md` — 734w
+- 2025-05-01 — [Startup Community Trailblazer Brad Feld to Release New Book at GEC 2025](https://feld.com/archives/2025/05/startup-community-trailblazer-brad-feld-to-release-new-book-at-gec-2025/) — `2025-05-01-archives-2025-05-startup-community-trailblazer-brad-feld-to-release-new-book-at-.md` — 187w
+- 2025-04-29 — [Read Everything](https://feld.com/archives/2025/04/read-everything/) — `2025-04-29-archives-2025-04-read-everything.md` — 525w
+- 2025-04-27 — [Dinostroids: My Journey into Vibe Coding](https://feld.com/archives/2025/04/dinostroids-my-journey-into-vibe-coding/) — `2025-04-27-archives-2025-04-dinostroids-my-journey-into-vibe-coding.md` — 665w
+- 2025-04-23 — [Are You Ok?](https://feld.com/archives/2025/04/are-you-ok/) — `2025-04-23-archives-2025-04-are-you-ok.md` — 1056w
+- 2025-04-22 — [Book: Scaleup Arabia: Journeys & Lessons from Top Founders & Leaders Driving Growth in MENA & Beyond](https://feld.com/archives/2025/04/book-scaleup-arabia-journeys-lessons-from-top-founders-leaders-driving-growth-in-mena-beyond/) — `2025-04-22-archives-2025-04-book-scaleup-arabia-journeys-lessons-from-top-founders-leaders-.md` — 166w
+- 2025-04-21 — [Unhibernating For A While](https://feld.com/archives/2025/04/unhibernating-for-a-while/) — `2025-04-21-archives-2025-04-unhibernating-for-a-while.md` — 299w
+- 2025-01-10 — [Bandwidth: The Untold Story of Ambition, Deception, and Innovation that Shaped the Internet Age and Dot](https://feld.com/archives/2025/01/bandwidth-the-untold-story-of-ambition-deception-and-innovation-that-shaped-the-internet-age-and-dot-com-boom/) — `2025-01-10-archives-2025-01-bandwidth-the-untold-story-of-ambition-deception-and-innovation.md` — 515w
+- 2024-09-02 — [EPOCH: A Poetic Psy](https://feld.com/archives/2024/09/epoch-a-poetic-psy-phi-saga/) — `2024-09-02-archives-2024-09-epoch-a-poetic-psy-phi-saga.md` — 525w
+- 2023-07-17 — [Book: Unshackled: A Practical Guide For Highly-Skilled Immigrants To Thrive In The United States](https://feld.com/archives/2023/07/book-unshackled-a-practical-guide-for-highly-skilled-immigrants-to-thrive-in-the-united-states/) — `2023-07-17-archives-2023-07-book-unshackled-a-practical-guide-for-highly-skilled-immigrants.md` — 471w
+- 2023-05-21 — [Book: Draft No. 4: On the Writing Process](https://feld.com/archives/2023/05/book-draft-no-4-on-the-writing-process/) — `2023-05-21-archives-2023-05-book-draft-no-4-on-the-writing-process.md` — 796w
+- 2023-05-10 — [19 Years Ago Today](https://feld.com/archives/2023/05/19-years-ago-today/) — `2023-05-10-archives-2023-05-19-years-ago-today.md` — 437w
+- 2023-05-08 — [The Impact of Stress on the Well](https://feld.com/archives/2023/05/the-impact-of-stress-on-the-well-being-of-startup-founders-and-ceos/) — `2023-05-08-archives-2023-05-the-impact-of-stress-on-the-well-being-of-startup-founders-and-.md` — 364w

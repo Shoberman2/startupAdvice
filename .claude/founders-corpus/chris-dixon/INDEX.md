@@ -1,0 +1,88 @@
+# Chris Dixon corpus index
+
+Source: https://cdixon.org — fetched 2026-07-19
+83 posts, 51525 words. Format: date — [title](canonical url) — `file` — words.
+
+- 2023-06-22 — [I wrote a book: Read Write Own](https://cdixon.org/2023/06/22/read-write-own/) — `2023-06-22-2023-06-22-read-write-own.md` — 573w
+- 2023-06-22 — [Archive](https://cdixon.org/archive/) — `2023-06-22-archive.md` — 1927w
+- 2021-02-27 — [NFTs and A Thousand True Fans](https://cdixon.org/2021/02/27/NFTs-and-a-thousand-true-fans/) — `2021-02-27-2021-02-27-NFTs-and-a-thousand-true-fans.md` — 1039w
+- 2020-10-19 — [Doing old things better vs doing brand new things](https://cdixon.org/2020/10/19/doing-old-things-better-vs-doing-brand-new-things/) — `2020-10-19-2020-10-19-doing-old-things-better-vs-doing-brand-new-things.md` — 451w
+- 2020-01-26 — [Computers that can make commitments](https://cdixon.org/2020/01/26/computers-that-can-make-commitments/) — `2020-01-26-2020-01-26-computers-that-can-make-commitments.md` — 584w
+- 2020-01-17 — [Inside-out vs. outside](https://cdixon.org/2020/01/17/inside-out-vs-outside-in/) — `2020-01-17-2020-01-17-inside-out-vs-outside-in.md` — 411w
+- 2019-01-08 — [Strong and weak technologies](https://cdixon.org/2019/01/08/strong-and-weak-technologies/) — `2019-01-08-2019-01-08-strong-and-weak-technologies.md` — 497w
+- 2019-01-04 — [Who will control the software that powers the Internet?](https://cdixon.org/2019/01/04/how-blockchain-can-wrest-the-internet-from-corporations/) — `2019-01-04-2019-01-04-how-blockchain-can-wrest-the-internet-from-corporations.md` — 849w
+- 2018-02-18 — [Why decentralization matters](https://cdixon.org/2018/02/18/why-decentralization-matters/) — `2018-02-18-2018-02-18-why-decentralization-matters.md` — 1990w
+- 2017-05-27 — [Tokens: A Breakthrough in Open Network Design](https://cdixon.org/2017/05/27/crypto-tokens-a-breakthrough-in-open-network-design/) — `2017-05-27-2017-05-27-crypto-tokens-a-breakthrough-in-open-network-design.md` — 2024w
+- 2017-02-20 — [How Aristotle Created the Computer](https://cdixon.org/2017/02/20/aristotle-computer/) — `2017-02-20-2017-02-20-aristotle-computer.md` — 3880w
+- 2017-01-16 — [Gadgets and Computers](https://cdixon.org/2017/01/16/gadgets-and-computers/) — `2017-01-16-2017-01-16-gadgets-and-computers.md` — 449w
+- 2016-09-25 — [As [Edwin] Land ultimately recognized, the adoption of his [polarized headlight] system was fatally…](https://cdixon.org/2016/09/25/as-edwin-land-ultimately-recognized-the-adoption-of-his-polarized-headlight-system-was-fatally/) — `2016-09-25-2016-09-25-as-edwin-land-ultimately-recognized-the-adoption-of-his-polarized-hea.md` — 301w
+- 2016-08-18 — [Eleven Reasons To Be Excited About The Future of Technology](https://cdixon.org/2016/08/18/eleven-reasons-to-be-excited-about-the-future-of-technology/) — `2016-08-18-2016-08-18-eleven-reasons-to-be-excited-about-the-future-of-technology.md` — 2243w
+- 2016-04-02 — [Comma.ai](https://cdixon.org/2016/04/02/comma-ai/) — `2016-04-02-2016-04-02-comma-ai.md` — 375w
+- 2016-03-13 — [The Internet Economy](https://cdixon.org/2016/03/13/the-internet-economy/) — `2016-03-13-2016-03-13-the-internet-economy.md` — 1037w
+- 2016-02-21 — [What’s Next in Computing?](https://cdixon.org/2016/02/21/what-s-next-in-computing/) — `2016-02-21-2016-02-21-what-s-next-in-computing.md` — 2308w
+- 2016-02-11 — [If an alien film crew chose to feature our species in a nature documentary, they’d have plenty of…](https://cdixon.org/2016/02/11/if-an-alien-film-crew-chose-to-feature-our-species-in-a-nature-documentary-they-d-have-plenty-of/) — `2016-02-11-2016-02-11-if-an-alien-film-crew-chose-to-feature-our-species-in-a-nature-docume.md` — 158w
+- 2015-11-13 — [Nine reasons screenshots are awesome](https://cdixon.org/2015/11/13/nine-reasons-screenshots-are-awesome/) — `2015-11-13-2015-11-13-nine-reasons-screenshots-are-awesome.md` — 127w
+- 2015-10-31 — [Lessons from the PC video game industry](https://cdixon.org/2015/10/31/lessons-from-the-pc-video-game-industry/) — `2015-10-31-2015-10-31-lessons-from-the-pc-video-game-industry.md` — 1633w
+- 2015-10-31 — [It’s hard to believe today, but 10 years ago Wikipedia was widely considered a doomed experiment…](https://cdixon.org/2015/10/31/it-s-hard-to-believe-today-but-10-years-ago-wikipedia-was-widely-considered-a-doomed-experiment/) — `2015-10-31-2015-10-31-it-s-hard-to-believe-today-but-10-years-ago-wikipedia-was-widely-cons.md` — 566w
+- 2015-06-27 — [Keybase: bringing public](https://cdixon.org/2015/06/27/keybase-bringing-public-key-cryptography-to-mainstream-users/) — `2015-06-27-2015-06-27-keybase-bringing-public-key-cryptography-to-mainstream-users.md` — 1041w
+- 2015-06-07 — [The Babe Ruth Effect in Venture Capital](https://cdixon.org/2015/06/07/the-babe-ruth-effect-in-venture-capital/) — `2015-06-07-2015-06-07-the-babe-ruth-effect-in-venture-capital.md` — 620w
+- 2015-05-12 — [Exponential curves feel gradual and then sudden](https://cdixon.org/2015/05/12/exponential-curves-feel-gradual-and-then-sudden/) — `2015-05-12-2015-05-12-exponential-curves-feel-gradual-and-then-sudden.md` — 205w
+- 2015-03-24 — [Improbable: enabling the development of large](https://cdixon.org/2015/03/24/improbable-enabling-the-development-of-large-scale-simulated-worlds/) — `2015-03-24-2015-03-24-improbable-enabling-the-development-of-large-scale-simulated-worlds.md` — 629w
+- 2015-03-13 — ["It all blossomed out of this tiny little seed"](https://cdixon.org/2015/03/13/it-all-blossomed-out-of-this-tiny-little-seed/) — `2015-03-13-2015-03-13-it-all-blossomed-out-of-this-tiny-little-seed.md` — 307w
+- 2015-02-01 — [The idea maze for AI startups](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze/) — `2015-02-01-2015-02-01-the-ai-startup-idea-maze.md` — 1100w
+- 2015-01-31 — [Come for the tool, stay for the network](https://cdixon.org/2015/01/31/come-for-the-tool-stay-for-the-network/) — `2015-01-31-2015-01-31-come-for-the-tool-stay-for-the-network.md` — 202w
+- 2015-01-24 — [Virtual reality: a new creative medium where the default state is belief](https://cdixon.org/2015/01/24/virtual-reality-a-new-creative-medium-where-the-default-state-is-belief/) — `2015-01-24-2015-01-24-virtual-reality-a-new-creative-medium-where-the-default-state-is-beli.md` — 694w
+- 2015-01-20 — [Stack Exchange](https://cdixon.org/2015/01/20/a16z-invests-in-stack-exchange/) — `2015-01-20-2015-01-20-a16z-invests-in-stack-exchange.md` — 492w
+- 2015-01-15 — [Skydio](https://cdixon.org/2015/01/15/skydio/) — `2015-01-15-2015-01-15-skydio.md` — 213w
+- 2015-01-12 — [How We Got To Now](https://cdixon.org/2015/01/12/how-we-got-to-now/) — `2015-01-12-2015-01-12-how-we-got-to-now.md` — 724w
+- 2015-01-10 — [Flow](https://cdixon.org/2015/01/10/flow/) — `2015-01-10-2015-01-10-flow.md` — 246w
+- 2015-01-01 — [The thin edge of the wedge for virtual reality](https://cdixon.org/2015/01/01/the-thin-edge-the-wedge-for-virtual-reality/) — `2015-01-01-2015-01-01-the-thin-edge-the-wedge-for-virtual-reality.md` — 192w
+- 2014-12-27 — ["The Not So Global Internet"](https://cdixon.org/2014/12/27/the-not-so-global-internet/) — `2014-12-27-2014-12-27-the-not-so-global-internet.md` — 223w
+- 2014-12-21 — [Two eras of the internet: pull and push](https://cdixon.org/2014/12/21/two-eras-of-the-internet-pull-and-push/) — `2014-12-21-2014-12-21-two-eras-of-the-internet-pull-and-push.md` — 455w
+- 2014-12-11 — ["The dawn of trustworthy computing"](https://cdixon.org/2014/12/11/the-dawn-of-trustworthy-computing/) — `2014-12-11-2014-12-11-the-dawn-of-trustworthy-computing.md` — 209w
+- 2014-11-23 — ["The business plans of the next 10,000 startups are easy to forecast: Take X and add AI."](https://cdixon.org/2014/11/23/the-business-plans-of-the-next-10000-startups-are-easy-to-forecast-take-x-and-add-ai/) — `2014-11-23-2014-11-23-the-business-plans-of-the-next-10000-startups-are-easy-to-forecast-ta.md` — 184w
+- 2014-11-19 — ["A man will be able to carry one in his vest pocket"](https://cdixon.org/2014/11/19/a-man-will-be-able-to-carry-one-in-his-vest-pocket/) — `2014-11-19-2014-11-19-a-man-will-be-able-to-carry-one-in-his-vest-pocket.md` — 239w
+- 2014-11-15 — ["There's no way to tell where the border is between measurement and manipulation"](https://cdixon.org/2014/11/15/theres-no-way-to-tell-where-the-border-is-between-measurement-and-manipulation/) — `2014-11-15-2014-11-15-theres-no-way-to-tell-where-the-border-is-between-measurement-and-man.md` — 290w
+- 2014-11-14 — [The return of podcasting](https://cdixon.org/2014/11/14/the-return-of-podcasting/) — `2014-11-14-2014-11-14-the-return-of-podcasting.md` — 285w
+- 2014-11-08 — ["The Future of Reading Depends on the Future of Learning Difficult to Learn Things"](https://cdixon.org/2014/11/08/the-future-of-reading-depends-on-the-future-of-learning-difficult-to-learn-things/) — `2014-11-08-2014-11-08-the-future-of-reading-depends-on-the-future-of-learning-difficult-to-.md` — 237w
+- 2014-10-20 — ["The great ideas have come from people who weren’t paid to have great ideas"](https://cdixon.org/2014/10/20/for-every-new-good-idea-you-have-there-ten-thousand-foolish-ones/) — `2014-10-20-2014-10-20-for-every-new-good-idea-you-have-there-ten-thousand-foolish-ones.md` — 206w
+- 2014-10-09 — ["You actually have to remind yourself not to believe"](https://cdixon.org/2014/10/09/the-last-medium/) — `2014-10-09-2014-10-09-the-last-medium.md` — 156w
+- 2014-10-04 — [Some ideas for native bitcoin apps](https://cdixon.org/2014/10/04/some-ideas-for-native-bitcoin-apps/) — `2014-10-04-2014-10-04-some-ideas-for-native-bitcoin-apps.md` — 490w
+- 2014-08-15 — ["Natural languages are adequate, but that doesn't mean they're optimal"](https://cdixon.org/2014/08/15/natural-languages-are-adequate-but-that-doesnt-mean-theyre-optimal-2/) — `2014-08-15-2014-08-15-natural-languages-are-adequate-but-that-doesnt-mean-theyre-optimal-2.md` — 174w
+- 2014-08-13 — ["Bitcoin is the currency the internet deserves and needs"](https://cdixon.org/2014/08/13/bitcoin-is-the-currency-the-internet-deserves-and-needs/) — `2014-08-13-2014-08-13-bitcoin-is-the-currency-the-internet-deserves-and-needs.md` — 226w
+- 2014-08-03 — [As elegantly produced as movies and as engaging as great novels](https://cdixon.org/2014/08/03/as-elegantly-produced-as-movies-and-as-engaging-as-great-novels/) — `2014-08-03-2014-08-03-as-elegantly-produced-as-movies-and-as-engaging-as-great-novels.md` — 248w
+- 2014-08-02 — [Three levels of enthusiasm for technology](https://cdixon.org/2014/08/02/three-levels-of-enthusiasm-for-technology/) — `2014-08-02-2014-08-02-three-levels-of-enthusiasm-for-technology.md` — 189w
+- 2014-07-06 — ["It's pretty difficult to solve big problems in four years"](https://cdixon.org/2014/07/06/its-pretty-difficult-to-solve-big-problems-in-four-years/) — `2014-07-06-2014-07-06-its-pretty-difficult-to-solve-big-problems-in-four-years.md` — 258w
+- 2014-06-15 — [The next twenty years are going to make this last twenty years just pale](https://cdixon.org/2014/06/15/the-next-twenty-years-are-going-to-make-this-last-twenty-years-just-pale/) — `2014-06-15-2014-06-15-the-next-twenty-years-are-going-to-make-this-last-twenty-years-just-p.md` — 200w
+- 2014-04-13 — [Software eats software development](https://cdixon.org/2014/04/13/software-eats-software-development/) — `2014-04-13-2014-04-13-software-eats-software-development.md` — 314w
+- 2014-04-07 — [The decline of the mobile web](https://cdixon.org/2014/04/07/the-decline-of-the-mobile-web/) — `2014-04-07-2014-04-07-the-decline-of-the-mobile-web.md` — 366w
+- 2014-03-25 — [Oculus](https://cdixon.org/2014/03/25/oculus/) — `2014-03-25-2014-03-25-oculus.md` — 261w
+- 2014-03-17 — ["We leverage the billions of dollars spent on the consumer mobile phone business"](https://cdixon.org/2014/03/17/we-leverage-the-billions-of-dollars-spent-on-the-consumer-mobile-phone-business/) — `2014-03-17-2014-03-17-we-leverage-the-billions-of-dollars-spent-on-the-consumer-mobile-phon.md` — 141w
+- 2014-03-16 — ["There's just a tremendous amount of craftsmanship in between a great idea and a great product"](https://cdixon.org/2014/03/16/theres-just-a-tremendous-amount-of-craftsmanship-in-between-a-great-idea-and-a-great-product/) — `2014-03-16-2014-03-16-theres-just-a-tremendous-amount-of-craftsmanship-in-between-a-great-i.md` — 191w
+- 2014-03-15 — [Full stack startups](https://cdixon.org/2014/03/15/full-stack-startups/) — `2014-03-15-2014-03-15-full-stack-startups.md` — 287w
+- 2014-03-14 — [Stored Hashcash](https://cdixon.org/2014/03/14/stored-hashcash/) — `2014-03-14-2014-03-14-stored-hashcash.md` — 535w
+- 2014-03-13 — [Four categories of Bitcoin](https://cdixon.org/2014/03/13/four-categories-of-bitcoin-inspired-projects/) — `2014-03-13-2014-03-13-four-categories-of-bitcoin-inspired-projects.md` — 210w
+- 2013-12-12 — [Coinbase](https://cdixon.org/2013/12/12/coinbase/) — `2013-12-12-2013-12-12-coinbase.md` — 370w
+- 2013-09-28 — [Some thoughts on startup crowdfunding](https://cdixon.org/2013/09/28/some-thoughts-on-startup-crowdfunding/) — `2013-09-28-2013-09-28-some-thoughts-on-startup-crowdfunding.md` — 645w
+- 2013-09-14 — [The Internet is for snacking](https://cdixon.org/2013/09/14/the-internet-is-for-snacking/) — `2013-09-14-2013-09-14-the-internet-is-for-snacking.md` — 448w
+- 2013-08-04 — [The idea maze](https://cdixon.org/2013/08/04/the-idea-maze/) — `2013-08-04-2013-08-04-the-idea-maze.md` — 549w
+- 2013-06-01 — [Some thoughts on mobile](https://cdixon.org/2013/06/01/some-thoughts-on-mobile/) — `2013-06-01-2013-06-01-some-thoughts-on-mobile.md` — 676w
+- 2013-04-30 — [Hardware startups](https://cdixon.org/2013/04/30/hardware-startups/) — `2013-04-30-2013-04-30-hardware-startups.md` — 494w
+- 2013-04-06 — [Technology predictions](https://cdixon.org/2013/04/06/technology-predictions/) — `2013-04-06-2013-04-06-technology-predictions.md` — 233w
+- 2013-03-02 — [What the smartest people do on the weekend is what everyone else will do during the week in ten years](https://cdixon.org/2013/03/02/what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will-do-during-the-week-in-ten-years/) — `2013-03-02-2013-03-02-what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will.md` — 170w
+- 2013-02-26 — [“PCs are going to be like trucks”](https://cdixon.org/2013/02/26/pcs-are-going-to-be-like-trucks/) — `2013-02-26-2013-02-26-pcs-are-going-to-be-like-trucks.md` — 256w
+- 2013-02-12 — [The credentials trap](https://cdixon.org/2013/02/12/the-credentials-trap/) — `2013-02-12-2013-02-12-the-credentials-trap.md` — 399w
+- 2013-02-09 — [The computing deployment phase](https://cdixon.org/2013/02/09/the-computing-deployment-phase/) — `2013-02-09-2013-02-09-the-computing-deployment-phase.md` — 415w
+- 2013-01-20 — [Samsung’s predicament](https://cdixon.org/2013/01/20/samsungs-predicament/) — `2013-01-20-2013-01-20-samsungs-predicament.md` — 505w
+- 2012-12-18 — [Plans are nothing, but planning is indispensable](https://cdixon.org/2012/12/18/plans-are-nothing-but-planning-is-indispensable/) — `2012-12-18-2012-12-18-plans-are-nothing-but-planning-is-indispensable.md` — 4979w
+- 2012-12-02 — [The product lens](https://cdixon.org/2012/12/02/the-product-lens/) — `2012-12-02-2012-12-02-the-product-lens.md` — 831w
+- 2012-11-23 — [Some problems are so hard they need to be solved piece by piece](https://cdixon.org/2012/11/23/some-problems-are-so-hard-they-need-to-be-solved-piece-by-piece/) — `2012-11-23-2012-11-23-some-problems-are-so-hard-they-need-to-be-solved-piece-by-piece.md` — 259w
+- 2012-11-19 — [a16z](https://cdixon.org/2012/11/19/a16z/) — `2012-11-19-2012-11-19-a16z.md` — 390w
+- 2012-10-19 — [Agency problems](https://cdixon.org/2012/10/19/agency-problems/) — `2012-10-19-2012-10-19-agency-problems.md` — 381w
+- 2012-10-18 — [The economic logic behind tech and talent acquisitions](https://cdixon.org/2012/10/18/the-economic-logic-behind-tech-and-talent-acquisitions/) — `2012-10-18-2012-10-18-the-economic-logic-behind-tech-and-talent-acquisitions.md` — 333w
+- 2012-10-10 — [Regulatory hacks](https://cdixon.org/2012/10/10/regulatory-hacks/) — `2012-10-10-2012-10-10-regulatory-hacks.md` — 572w
+- 2012-09-24 — [The rise of enterprise marketing](https://cdixon.org/2012/09/24/the-rise-of-enterprise-marketing/) — `2012-09-24-2012-09-24-the-rise-of-enterprise-marketing.md` — 356w
+- 2012-09-11 — [Vanity milestones](https://cdixon.org/2012/09/11/vanity-milestones/) — `2012-09-11-2012-09-11-vanity-milestones.md` — 150w
+- 2012-09-10 — [Notes on the acquisition process](https://cdixon.org/2012/09/10/notes-on-the-acquisition-process/) — `2012-09-10-2012-09-10-notes-on-the-acquisition-process.md` — 797w
+- 2012-09-03 — [The time to eat the hors d’oeuvres is when they’re being passed](https://cdixon.org/2012/09/03/the-time-to-eat-the-hors-doeuvres-is-when-theyre-being-passed/) — `2012-09-03-2012-09-03-the-time-to-eat-the-hors-doeuvres-is-when-theyre-being-passed.md` — 380w
+- 2012-08-15 — [E](https://cdixon.org/2012/08/15/e-commerce-startups/) — `2012-08-15-2012-08-15-e-commerce-startups.md` — 276w

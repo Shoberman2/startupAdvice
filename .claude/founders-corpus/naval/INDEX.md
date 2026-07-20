@@ -1,0 +1,206 @@
+# Naval Ravikant corpus index
+
+Source: https://nav.al — fetched 2026-07-19
+201 posts, 292088 words. Format: date — [title](canonical url) — `file` — words.
+
+- 2026-06-01 — [The AI Industrial Revolution](https://nav.al/industrial) — `2026-06-01-industrial.md` — 10758w
+- 2026-05-29 — [The Regulatory Frontier](https://nav.al/regulatory) — `2026-05-29-regulatory.md` — 3543w
+- 2026-05-28 — [Vibe Coding Hardware](https://nav.al/hardware) — `2026-05-28-hardware.md` — 2244w
+- 2026-05-27 — [Waste Tokens, Save Time](https://nav.al/tokens) — `2026-05-27-tokens.md` — 2382w
+- 2026-05-11 — [Sell the Truth](https://nav.al/sell) — `2026-05-11-sell.md` — 5658w
+- 2026-05-04 — [‘Nothing Ever Happens’ Is Over](https://nav.al/over) — `2026-05-04-over.md` — 3804w
+- 2026-04-28 — [A Return to Code](https://nav.al/code) — `2026-04-28-code.md` — 5906w
+- 2026-02-19 — [A Motorcycle for the Mind](https://nav.al/ai) — `2026-02-19-ai.md` — 10518w
+- 2025-11-07 — [Curate People](https://nav.al/curate-people) — `2025-11-07-curate-people.md` — 10051w
+- 2025-10-14 — [In the Arena](https://nav.al/in-the-arena) — `2025-10-14-in-the-arena.md` — 8904w
+- 2025-10-01 — [Find the Simplest Thing That Works](https://nav.al/simplest) — `2025-10-01-simplest.md` — 1354w
+- 2025-09-29 — [Good Products Are Hard to Vary](https://nav.al/good-products) — `2025-09-29-good-products.md` — 711w
+- 2025-09-26 — [Most Books Should Be Skimmed, A Few Should Be Devoured](https://nav.al/get) — `2025-09-26-get.md` — 760w
+- 2025-09-24 — [The Best Authors Respect the Reader’s Time](https://nav.al/density) — `2025-09-24-density.md` — 580w
+- 2025-09-22 — [It Is Impossible to Fool Mother Nature](https://nav.al/fool) — `2025-09-22-fool.md` — 895w
+- 2025-08-25 — [Blame Yourself for Everything, and Preserve Your Agency](https://nav.al/agency) — `2025-08-25-agency.md` — 1039w
+- 2025-08-06 — [Pause, Reflect, See How Well it Did](https://nav.al/reflect) — `2025-08-06-reflect.md` — 351w
+- 2025-08-03 — [Hiring a Podcast Editor and Personal Chief of Staff](https://nav.al/hiring) — `2025-08-03-hiring.md` — 415w
+- 2025-07-31 — [You Have to Enjoy It a Lot](https://nav.al/enjoy) — `2025-07-31-enjoy.md` — 624w
+- 2025-07-29 — [Find Your Specific Knowledge Through Action](https://nav.al/find) — `2025-07-29-find.md` — 414w
+- 2025-07-26 — [When You Truly Work for Yourself](https://nav.al/truly) — `2025-07-26-truly.md` — 531w
+- 2025-07-25 — [In Most Difficult Things in Life, The Solution is Indirect](https://nav.al/indirect) — `2025-07-25-indirect.md` — 272w
+- 2025-07-21 — [If You Want to Learn, Do](https://nav.al/do) — `2025-07-21-do.md` — 275w
+- 2025-07-17 — [Life is Lived in The Arena](https://nav.al/arena) — `2025-07-17-arena.md` — 449w
+- 2025-07-15 — [Inspiration All the Way Down](https://nav.al/inspiration) — `2025-07-15-inspiration.md` — 562w
+- 2024-10-11 — [The Deutsch Files IV](https://nav.al/deutsch-files-iv) — `2024-10-11-deutsch-files-iv.md` — 13415w
+- 2024-02-17 — [The Deutsch Files III](https://nav.al/deutsch-files-iii) — `2024-02-17-deutsch-files-iii.md` — 9882w
+- 2024-01-26 — [The Deutsch Files II](https://nav.al/deutsch-files-ii) — `2024-01-26-deutsch-files-ii.md` — 12156w
+- 2024-01-11 — [The Deutsch Files I](https://nav.al/deutsch-files-i) — `2024-01-11-deutsch-files-i.md` — 9164w
+- 2023-08-11 — [David Deutsch: Knowledge Creation and The Human Race, Part 2](https://nav.al/david-deutsch-2) — `2023-08-11-david-deutsch-2.md` — 5659w
+- 2023-02-11 — [David Deutsch: Knowledge Creation and The Human Race, Part 1](https://nav.al/david-deutsch) — `2023-02-11-david-deutsch.md` — 7489w
+- 2022-04-14 — [Vitalik: Ethereum, Part 2](https://nav.al/vitalik-2) — `2022-04-14-vitalik-2.md` — 5227w
+- 2022-04-08 — [Vitalik: Ethereum, Part 1](https://nav.al/vitalik) — `2022-04-08-vitalik.md` — 9523w
+- 2021-12-22 — [The Beginning of Infinity, Part 2](https://nav.al/infinity-2) — `2021-12-22-infinity-2.md` — 10283w
+- 2021-12-13 — [To a Caveman Very Few Things Are Resources](https://nav.al/caveman) — `2021-12-13-caveman.md` — 593w
+- 2021-12-10 — [Knowledge Makes the Existence of Resources Infinite](https://nav.al/infinite-resources) — `2021-12-10-infinite-resources.md` — 528w
+- 2021-12-08 — [Groups Never Admit Failure](https://nav.al/failure) — `2021-12-08-failure.md` — 403w
+- 2021-12-06 — [Making Something Social Destroys the Truth of It](https://nav.al/social) — `2021-12-06-social.md` — 431w
+- 2021-12-03 — [Free Markets Provide the Best Feedback](https://nav.al/feedback) — `2021-12-03-feedback.md` — 510w
+- 2021-11-29 — [The Poverty of Compromise](https://nav.al/compromise) — `2021-11-29-compromise.md` — 530w
+- 2021-11-24 — [Innovation Requires Decentralization and a Frontier](https://nav.al/decentralization) — `2021-11-24-decentralization.md` — 596w
+- 2021-11-22 — [Don’t Rely on Credibility Stamps](https://nav.al/credibility) — `2021-11-22-credibility.md` — 359w
+- 2021-11-19 — [One Einstein Is Worth A Legion Of PhD Drones](https://nav.al/einstein) — `2021-11-19-einstein.md` — 236w
+- 2021-11-17 — [Ideas Are the New Oil](https://nav.al/ideas) — `2021-11-17-ideas.md` — 549w
+- 2021-11-15 — [Aliens Would Visit for Knowledge, Not Resources](https://nav.al/resources) — `2021-11-15-resources.md` — 481w
+- 2021-11-12 — [Aliens Might Just Be Too Far Away](https://nav.al/far-away) — `2021-11-12-far-away.md` — 415w
+- 2021-11-08 — [The Probability of Human Existence Is Infinitesimally Small](https://nav.al/existence) — `2021-11-08-existence.md` — 226w
+- 2021-11-03 — [Intelligent Species Have Risen Only Once on Planet Earth](https://nav.al/intelligent) — `2021-11-03-intelligent.md` — 537w
+- 2021-11-01 — [Where Are the Aliens?](https://nav.al/aliens) — `2021-11-01-aliens.md` — 202w
+- 2021-10-30 — [It’s Mind Blowing That Our Minds Can’t Be Blown](https://nav.al/mind-blowing) — `2021-10-30-mind-blowing.md` — 491w
+- 2021-10-27 — [More Compute Power Doesn’t Produce AGI](https://nav.al/agi) — `2021-10-27-agi.md` — 305w
+- 2021-10-25 — [We Are Qualitatively Different From Other Species](https://nav.al/species) — `2021-10-25-species.md` — 267w
+- 2021-10-22 — [Humans Are Exceptional](https://nav.al/exceptional) — `2021-10-22-exceptional.md` — 402w
+- 2021-10-20 — [Genetic Evolution Was a Prelude to Memetic Evolution](https://nav.al/evolution) — `2021-10-20-evolution.md` — 441w
+- 2021-10-18 — [There Can Be No Final Theory of Gravity](https://nav.al/gravity) — `2021-10-18-gravity.md` — 580w
+- 2021-10-15 — [No Truth Can Be Justified](https://nav.al/justified) — `2021-10-15-justified.md` — 418w
+- 2021-10-08 — [With a Good Theory of Knowledge, You Can Decide What Else Is True](https://nav.al/theory) — `2021-10-08-theory.md` — 268w
+- 2021-07-02 — [The Beginning of Infinity, Part 1](https://nav.al/infinity) — `2021-07-02-infinity.md` — 12170w
+- 2021-05-24 — [Rational Optimism Is the Way Out](https://nav.al/optimism) — `2021-05-24-optimism.md` — 353w
+- 2021-05-17 — [Pessimism Seems Like an Intellectually Serious Position](https://nav.al/pessimism) — `2021-05-17-pessimism.md` — 344w
+- 2021-05-14 — [It’s Easy to Extrapolate How Things Will Get Worse](https://nav.al/extrapolate) — `2021-05-14-extrapolate.md` — 304w
+- 2021-05-12 — [We’re All Equal in Our Infinite Ignorance](https://nav.al/ignorance) — `2021-05-12-ignorance.md` — 270w
+- 2021-05-11 — [It’s Rare to Have Competing, Viable, Scientific Theories](https://nav.al/theories) — `2021-05-11-theories.md` — 605w
+- 2021-05-07 — [Science Advances One Funeral at a Time](https://nav.al/advances) — `2021-05-07-advances.md` — 207w
+- 2021-05-05 — [Make Bold Guesses and Weed Out the Failures](https://nav.al/bold) — `2021-05-05-bold.md` — 375w
+- 2021-05-03 — [Theories Are Explanations, Not Predictions](https://nav.al/predictions) — `2021-05-03-predictions.md` — 394w
+- 2021-04-30 — [Science Is an Error-Correcting Mechanism](https://nav.al/error) — `2021-04-30-error.md` — 371w
+- 2021-04-28 — [Science Expands Our Vision of Reality](https://nav.al/expand) — `2021-04-28-expand.md` — 251w
+- 2021-04-26 — [We Explain the Seen in Terms of the Unseen](https://nav.al/unseen) — `2021-04-26-unseen.md` — 263w
+- 2021-04-21 — [The Multiverse](https://nav.al/multiverse) — `2021-04-21-multiverse.md` — 283w
+- 2021-04-19 — [Is Light a Particle or a Wave?](https://nav.al/light) — `2021-04-19-light.md` — 604w
+- 2021-04-16 — [Probability Is Subjective](https://nav.al/probability) — `2021-04-16-probability.md` — 363w
+- 2021-04-14 — [We Can’t Prove Most Theorems with Known Physics](https://nav.al/prove) — `2021-04-14-prove.md` — 277w
+- 2021-04-12 — [Every Theory Is Held Inside a Physical Substrate](https://nav.al/substrate) — `2021-04-12-substrate.md` — 387w
+- 2021-04-09 — [Is the Universe Discrete or Continuous?](https://nav.al/discrete) — `2021-04-09-discrete.md` — 356w
+- 2021-04-07 — [All Knowledge Is Conjectural](https://nav.al/conjectural) — `2021-04-07-conjectural.md` — 512w
+- 2021-04-05 — [The Methods of Mathematics Are Fallible](https://nav.al/methods) — `2021-04-05-methods.md` — 447w
+- 2021-04-02 — [There Is No Settled Mathematics](https://nav.al/settled) — `2021-04-02-settled.md` — 521w
+- 2021-03-31 — [There Is No End of Science](https://nav.al/end) — `2021-03-31-end.md` — 417w
+- 2021-03-26 — [Good Explanations Are Hard to Vary](https://nav.al/vary) — `2021-03-26-vary.md` — 466w
+- 2021-03-24 — [Good Explanations Are Acts of Creativity](https://nav.al/explanations) — `2021-03-24-explanations.md` — 302w
+- 2021-03-22 — [Humans Are Unique in Our Ability to Understand Things](https://nav.al/understand) — `2021-03-22-understand.md` — 203w
+- 2021-03-19 — [It’s Impossible to Predict the Growth of Knowledge](https://nav.al/predict) — `2021-03-19-predict.md` — 332w
+- 2021-03-17 — [People Are a Force of Nature](https://nav.al/people) — `2021-03-17-people.md` — 371w
+- 2021-03-15 — [We’re at the Beginning of an Infinity of Knowledge](https://nav.al/knowledge) — `2021-03-15-knowledge.md` — 322w
+- 2021-03-12 — [Happiness](https://nav.al/happiness) — `2021-03-12-happiness.md` — 5095w
+- 2021-03-10 — [Read the Best 100 Books Over and Over Again](https://nav.al/read) — `2021-03-10-read.md` — 466w
+- 2021-03-08 — [Explanations That Reach the Entire Universe](https://nav.al/reach) — `2021-03-08-reach.md` — 269w
+- 2021-03-05 — [Nullius in Verba](https://nav.al/nullius) — `2021-03-05-nullius.md` — 355w
+- 2021-03-03 — [This Book Changed the Way I Think](https://nav.al/think) — `2021-03-03-think.md` — 321w
+- 2021-03-01 — [Science Is the Engine That Pulls Humanity Forward](https://nav.al/science-2) — `2021-03-01-science-2.md` — 412w
+- 2020-09-14 — [The Box](https://nav.al/the-box) — `2020-09-14-the-box.md` — 875w
+- 2020-07-15 — [Matt Ridley: How Innovation Works, Part 2](https://nav.al/matt-ridley-2) — `2020-07-15-matt-ridley-2.md` — 5875w
+- 2020-07-09 — [Matt Ridley: How Innovation Works, Part 1](https://nav.al/matt-ridley) — `2020-07-09-matt-ridley.md` — 5575w
+- 2020-06-12 — [How to Angel Invest, Part 2](https://nav.al/angel-2) — `2020-06-12-angel-2.md` — 6206w
+- 2020-05-13 — [Kapil Gupta: Conquering the Mind](https://nav.al/kapil) — `2020-05-13-kapil.md` — 7880w
+- 2020-03-27 — [The Path to Peace Is Truth](https://nav.al/truth) — `2020-03-27-truth.md` — 302w
+- 2020-03-26 — [Groups Search for Consensus, Individuals Search for Truth](https://nav.al/consensus) — `2020-03-26-consensus.md` — 339w
+- 2020-03-10 — [The Closer You Are to the Truth, the More Silent You Become Inside](https://nav.al/silent) — `2020-03-10-silent.md` — 204w
+- 2020-03-05 — [Happiness Is Peace in Motion](https://nav.al/peace-motion) — `2020-03-05-peace-motion.md` — 404w
+- 2020-03-03 — [Finding Peace from Mind](https://nav.al/peace) — `2020-03-03-peace.md` — 410w
+- 2020-02-26 — [Breaking Addiction Is Socially Unacceptable](https://nav.al/unacceptable) — `2020-02-26-unacceptable.md` — 319w
+- 2020-02-24 — [The Modern Struggle Is Fighting Weaponized Addiction](https://nav.al/addiction) — `2020-02-24-addiction.md` — 267w
+- 2020-02-19 — [Work the Least for It](https://nav.al/least) — `2020-02-19-least.md` — 304w
+- 2020-02-17 — [Being Unhappy Is Extremely Inefficient](https://nav.al/inefficient) — `2020-02-17-inefficient.md` — 353w
+- 2020-02-12 — [If You’re So Smart, Why Aren’t You Happy?](https://nav.al/smart) — `2020-02-12-smart.md` — 481w
+- 2020-02-10 — [Desire Is a Contract You Make to Be Unhappy](https://nav.al/desire) — `2020-02-10-desire.md` — 221w
+- 2020-02-03 — [Happiness Is a Skill You Can Develop](https://nav.al/skill) — `2020-02-03-skill.md` — 242w
+- 2020-01-31 — [Happiness Is Not Science or Math](https://nav.al/math) — `2020-01-31-math.md` — 289w
+- 2020-01-29 — [Happiness Without Material Comfort Is Playing on Hard Mode](https://nav.al/material) — `2020-01-29-material.md` — 450w
+- 2020-01-27 — [Live Long Enough and You’ll Become a Philosopher](https://nav.al/philosopher) — `2020-01-27-philosopher.md` — 277w
+- 2020-01-13 — [Finding Time to Invest in Yourself](https://nav.al/finding-time) — `2020-01-13-finding-time.md` — 1926w
+- 2019-11-17 — [How to Angel Invest, Part 1](https://nav.al/angel-1) — `2019-11-17-angel-1.md` — 8693w
+- 2019-07-31 — [Externalities: Calculating the Hidden Costs of Products](https://nav.al/externalities) — `2019-07-31-externalities.md` — 316w
+- 2019-07-29 — [Net Present Value: What Future Income Is Worth Today](https://nav.al/npv) — `2019-07-29-npv.md` — 200w
+- 2019-07-25 — [Price Discrimination: Charge Some People More](https://nav.al/price-discrimination) — `2019-07-25-price-discrimination.md` — 210w
+- 2019-07-25 — [Consumer Surplus: Getting More Than You Paid For](https://nav.al/surplus) — `2019-07-25-surplus.md` — 167w
+- 2019-07-19 — [Compounding Relationships Make Life Easier](https://nav.al/relationships) — `2019-07-19-relationships.md` — 433w
+- 2019-07-15 — [Turn Short-Term Games Into Long-Term Games](https://nav.al/short) — `2019-07-15-short.md` — 461w
+- 2019-07-12 — [Schelling Point: Cooperating Without Communicating](https://nav.al/schelling-point) — `2019-07-12-schelling-point.md` — 307w
+- 2019-07-10 — [Kelly Criterion: Avoid Ruin](https://nav.al/kelly-criterion) — `2019-07-10-kelly-criterion.md` — 300w
+- 2019-07-08 — [Principal-Agent Problem: Act Like an Owner](https://nav.al/principal-agent) — `2019-07-08-principal-agent.md` — 1221w
+- 2019-06-28 — [Envy Can Be Useful, or It Can Eat You Alive](https://nav.al/envy) — `2019-06-28-envy.md` — 690w
+- 2019-06-26 — [Being Ethical Is Long-Term Greedy](https://nav.al/ethics) — `2019-06-26-ethics.md` — 706w
+- 2019-06-24 — [We Should All Be Working for Ourselves](https://nav.al/working-ourselves) — `2019-06-24-working-ourselves.md` — 853w
+- 2019-06-21 — [Accountability Means Letting People Criticize You](https://nav.al/accountability) — `2019-06-21-accountability.md` — 637w
+- 2019-05-24 — [Productize Yourself](https://nav.al/productize-yourself) — `2019-05-24-productize-yourself.md` — 326w
+- 2019-05-23 — [There Are No Get Rich Quick Schemes](https://nav.al/rich-quick) — `2019-05-23-rich-quick.md` — 978w
+- 2019-05-21 — [A Calm Mind, a Fit Body, a House Full of Love](https://nav.al/finally-wealthy) — `2019-05-21-finally-wealthy.md` — 808w
+- 2019-05-20 — [Reject Most Advice](https://nav.al/reject-advice) — `2019-05-20-reject-advice.md` — 523w
+- 2019-05-19 — [Eventually You Will Get What You Deserve](https://nav.al/eventually) — `2019-05-19-eventually.md` — 723w
+- 2019-05-17 — [Play Stupid Games, Win Stupid Prizes](https://nav.al/stupid-games) — `2019-05-17-stupid-games.md` — 438w
+- 2019-05-16 — [Escape Competition Through Authenticity](https://nav.al/competition-authenticity) — `2019-05-16-competition-authenticity.md` — 947w
+- 2019-05-13 — [Keep Redefining What You Do](https://nav.al/redefining) — `2019-05-13-redefining.md` — 378w
+- 2019-05-08 — [Be Too Busy to ‘Do Coffee’](https://nav.al/meetings) — `2019-05-08-meetings.md` — 670w
+- 2019-05-06 — [Work As Hard As You Can](https://nav.al/work-hard) — `2019-05-06-work-hard.md` — 949w
+- 2019-05-01 — [Set an Aspirational Hourly Rate](https://nav.al/hourly-rate) — `2019-05-01-hourly-rate.md` — 705w
+- 2019-04-29 — [Judgment Is the Decisive Skill](https://nav.al/judgment) — `2019-04-29-judgment.md` — 1287w
+- 2019-04-26 — [Example: From Laborer to Entrepreneur](https://nav.al/laborer-tech) — `2019-04-26-laborer-tech.md` — 1179w
+- 2019-04-22 — [Pick a Business Model With Leverage](https://nav.al/business-models) — `2019-04-22-business-models.md` — 1183w
+- 2019-04-19 — [Product Leverage is Egalitarian](https://nav.al/egalitarian-leverage) — `2019-04-19-egalitarian-leverage.md` — 1055w
+- 2019-04-17 — [Product and Media are New Leverage](https://nav.al/product-media) — `2019-04-17-product-media.md` — 1079w
+- 2019-04-15 — [Labor and Capital Are Old Leverage](https://nav.al/labor-capital) — `2019-04-15-labor-capital.md` — 985w
+- 2019-04-13 — [Take Accountability to Earn Equity](https://nav.al/accountability-equity) — `2019-04-13-accountability-equity.md` — 962w
+- 2019-04-11 — [Embrace Accountability to Get Leverage](https://nav.al/accountability-leverage) — `2019-04-11-accountability-leverage.md` — 963w
+- 2019-04-08 — [There’s No Actual Skill Called “Business”](https://nav.al/skill-business) — `2019-04-08-skill-business.md` — 1183w
+- 2019-04-05 — [The Foundations Are Math and Logic](https://nav.al/math-logic) — `2019-04-05-math-logic.md` — 603w
+- 2019-04-03 — [Read What You Love Until You Love to Read](https://nav.al/love-read) — `2019-04-03-love-read.md` — 970w
+- 2019-03-31 — [Learn to Sell, Learn to Build](https://nav.al/build-sell) — `2019-03-31-build-sell.md` — 1116w
+- 2019-03-28 — [Specific Knowledge Is Highly Creative or Technical](https://nav.al/creative-technical) — `2019-03-28-creative-technical.md` — 1131w
+- 2019-03-25 — [Arm Yourself With Specific Knowledge](https://nav.al/specific-knowledge) — `2019-03-25-specific-knowledge.md` — 1319w
+- 2019-03-22 — [Pick Partners With Intelligence, Energy and Integrity](https://nav.al/intelligence-energy-integrity) — `2019-03-22-intelligence-energy-integrity.md` — 1094w
+- 2019-03-22 — [Partner With Rational Optimists](https://nav.al/rational-optimists) — `2019-03-22-rational-optimists.md` — 1152w
+- 2019-03-19 — [The Internet Has Massively Broadened Career Possibilities](https://nav.al/possible-careers) — `2019-03-19-possible-careers.md` — 977w
+- 2019-03-19 — [Play Long-term Games With Long-term People](https://nav.al/long-term) — `2019-03-19-long-term.md` — 1354w
+- 2019-03-14 — [Give Society What It Doesn’t Know How to Get](https://nav.al/product-scale) — `2019-03-14-product-scale.md` — 588w
+- 2019-03-11 — [Live Below Your Means for Freedom](https://nav.al/salary-freedom) — `2019-03-11-salary-freedom.md` — 526w
+- 2019-03-08 — [You Won’t Get Rich Renting Out Your Time](https://nav.al/renting-time) — `2019-03-08-renting-time.md` — 1011w
+- 2019-03-07 — [Make Luck Your Destiny](https://nav.al/luck-destiny) — `2019-03-07-luck-destiny.md` — 875w
+- 2019-03-06 — [Making Money Isn’t About Luck](https://nav.al/money-luck) — `2019-03-06-money-luck.md` — 1095w
+- 2019-03-05 — [Free Markets Are Intrinsic to Humans](https://nav.al/free-markets) — `2019-03-05-free-markets.md` — 841w
+- 2019-03-03 — [Make Abundance for the World](https://nav.al/ethical-wealth) — `2019-03-03-ethical-wealth.md` — 644w
+- 2019-02-28 — [Seek Wealth, Not Money or Status](https://nav.al/seek-wealth) — `2019-02-28-seek-wealth.md` — 1288w
+- 2016-10-18 — [American Fall](https://nav.al/american-fall) — `2016-10-18-american-fall.md` — 899w
+- 2016-01-15 — [American Spring](https://nav.al/american-spring) — `2016-01-15-american-spring.md` — 902w
+- 2013-06-28 — [A Venture SLA](https://nav.al/a-venture-sla) — `2013-06-28-a-venture-sla.md` — 534w
+- 2012-04-27 — [Build a Team that Ships](https://nav.al/build-a-team-that-ships) — `2012-04-27-build-a-team-that-ships.md` — 207w
+- 2011-12-13 — [Why You Can’t Hire](https://nav.al/why-you-cant-hire) — `2011-12-13-why-you-cant-hire.md` — 328w
+- 2011-12-11 — [Towards a Literate Nation](https://nav.al/towards-a-literate-nation) — `2011-12-11-towards-a-literate-nation.md` — 411w
+- 2011-07-07 — [Google should pull an Android on Facebook](https://nav.al/google-should-pull-an-android-on-facebook) — `2011-07-07-google-should-pull-an-android-on-facebook.md` — 284w
+- 2010-12-01 — [There is No Angel Bubble. There are Many Angel Bubbles.](https://nav.al/there-is-no-angel-bubble-there-are-many-angel-bubbles) — `2010-12-01-there-is-no-angel-bubble-there-are-many-angel-bubbles.md` — 1122w
+- 2010-12-01 — [The Unbundling of the Venture Capital Industry](https://nav.al/the-unbundling-of-the-venture-capital-industry) — `2010-12-01-the-unbundling-of-the-venture-capital-industry.md` — 613w
+- 2010-12-01 — [Funding Markets Develop in Reverse](https://nav.al/funding-markets-develop-in-reverse) — `2010-12-01-funding-markets-develop-in-reverse.md` — 478w
+- 2010-10-15 — [Privacy Violations](https://nav.al/privacy-violations) — `2010-10-15-privacy-violations.md` — 124w
+- 2010-04-22 — [Why (Private) Investors are Herd Animals](https://nav.al/why-private-investors-are-herd-animals) — `2010-04-22-why-private-investors-are-herd-animals.md` — 384w
+- 2010-04-10 — [Who has time for meetings?](https://nav.al/who-has-time-for-meetings) — `2010-04-10-who-has-time-for-meetings.md` — 380w
+- 2010-02-23 — [The iPad is imPortant](https://nav.al/the-ipad-is-important) — `2010-02-23-the-ipad-is-important.md` — 206w
+- 2010-01-17 — [Why You Need to be in Silicon Valley](https://nav.al/why-you-need-to-be-in-silicon-valley) — `2010-01-17-why-you-need-to-be-in-silicon-valley.md` — 273w
+- 2010-01-15 — [Live Appearance](https://nav.al/live-appearance) — `2010-01-15-live-appearance.md` — 152w
+- 2009-11-09 — [The returns to entrepreneurship](https://nav.al/the-returns-to-entrepreneurship) — `2009-11-09-the-returns-to-entrepreneurship.md` — 699w
+- 2009-11-06 — [Extrapolating Computing](https://nav.al/extrapolating-computing) — `2009-11-06-extrapolating-computing.md` — 173w
+- 2008-03-10 — [Users bring you traffic](https://nav.al/users-bring-you-traffic) — `2008-03-10-users-bring-you-traffic.md` — 133w
+- 2008-02-21 — [Tumblr customer service blows me away](https://nav.al/tumblr-customer-service-blows-me-away) — `2008-02-21-tumblr-customer-service-blows-me-away.md` — 251w
+- 2008-02-16 — [Perpetual Stimulation Machine](https://nav.al/perpetual-stimulation-machine) — `2008-02-16-perpetual-stimulation-machine.md` — 241w
+- 2008-02-08 — [Life Formulas I](https://nav.al/life-formulas-i) — `2008-02-08-life-formulas-i.md` — 133w
+- 2007-08-08 — [The Aging Entrepreneur](https://nav.al/the-aging-entrepreneur) — `2007-08-08-the-aging-entrepreneur.md` — 962w
+- 2006-10-31 — [Be Chaotic Neutral](https://nav.al/be-chaotic-neutral) — `2006-10-31-be-chaotic-neutral.md` — 266w
+- 2006-07-12 — [Why We May Think](https://nav.al/why-we-may-think) — `2006-07-12-why-we-may-think.md` — 191w
+- 2006-03-14 — [Something Vast This Way Comes](https://nav.al/something-vast-this-way-comes) — `2006-03-14-something-vast-this-way-comes.md` — 634w
+- 2006-02-07 — [Craigslist is Worth More than EBay](https://nav.al/craigslist-is-worth-more-than-ebay) — `2006-02-07-craigslist-is-worth-more-than-ebay.md` — 959w
+- 2006-01-24 — [Dare Microsoft Kill Google? (updated)](https://nav.al/dare-microsoft-kill-google-updated) — `2006-01-24-dare-microsoft-kill-google-updated.md` — 153w
+- 2006-01-21 — [Job Opening at my New Company](https://nav.al/job-opening-at-my-new-company) — `2006-01-21-job-opening-at-my-new-company.md` — 145w
+- 2006-01-10 — [Craigslist takes on Sand Hill Road](https://nav.al/craigslist-takes-on-sand-hill-road) — `2006-01-10-craigslist-takes-on-sand-hill-road.md` — 180w
+- 2005-12-19 — [Isn’t it obvious what Web 2.0 is?](https://nav.al/isnt-it-obvious-what-web-20-is) — `2005-12-19-isnt-it-obvious-what-web-20-is.md` — 245w
+- 2005-12-01 — [VC Bundling](https://nav.al/vc-bundling) — `2005-12-01-vc-bundling.md` — 704w
+- 2005-11-30 — [Lawyers or Insurance Salesmen?](https://nav.al/lawyers-or-insurance-salesmen) — `2005-11-30-lawyers-or-insurance-salesmen.md` — 245w
+- 2005-11-29 — [Unquantifiable Risk](https://nav.al/unquantifiable-risk) — `2005-11-29-unquantifiable-risk.md` — 368w
+- 2005-11-29 — [The 80-hour Myth](https://nav.al/the-80-hour-myth) — `2005-11-29-the-80-hour-myth.md` — 357w
+- 2005-11-29 — [Securitize Citizenship!](https://nav.al/securitize-citizenship) — `2005-11-29-securitize-citizenship.md` — 344w
+- 2005-11-29 — [Natural Beauty](https://nav.al/natural-beauty) — `2005-11-29-natural-beauty.md` — 369w
+- 2005-11-29 — [Do Animals Laugh?](https://nav.al/do-animals-laugh) — `2005-11-29-do-animals-laugh.md` — 187w

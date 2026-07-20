@@ -1,0 +1,59 @@
+# Sam Altman corpus index
+
+Source: https://blog.samaltman.com — fetched 2026-07-19
+54 posts, 41480 words. Format: date — [title](canonical url) — `file` — words.
+
+- 2026-04-10 — [-](https://blog.samaltman.com/2279512) — `2026-04-10-2279512.md` — 1061w
+- 2025-10-04 — [Sora update #1](https://blog.samaltman.com/sora-update-number-1) — `2025-10-04-sora-update-number-1.md` — 393w
+- 2025-09-30 — [Sora 2](https://blog.samaltman.com/sora-2) — `2025-09-30-sora-2.md` — 663w
+- 2025-06-10 — [The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity) — `2025-06-10-the-gentle-singularity.md` — 1738w
+- 2025-02-09 — [Three Observations](https://blog.samaltman.com/three-observations) — `2025-02-09-three-observations.md` — 1320w
+- 2025-01-06 — [Reflections](https://blog.samaltman.com/reflections) — `2025-01-06-reflections.md` — 1950w
+- 2024-05-13 — [GPT-4o](https://blog.samaltman.com/gpt-4o) — `2024-05-13-gpt-4o.md` — 284w
+- 2023-12-21 — [What I Wish Someone Had Told Me](https://blog.samaltman.com/what-i-wish-someone-had-told-me) — `2023-12-21-what-i-wish-someone-had-told-me.md` — 313w
+- 2022-07-13 — [Helion Needs You](https://blog.samaltman.com/helion-needs-you) — `2022-07-13-helion-needs-you.md` — 269w
+- 2022-04-06 — [DALL•E 2](https://blog.samaltman.com/dall-star-e-2) — `2022-04-06-dall-star-e-2.md` — 470w
+- 2021-11-05 — [Helion](https://blog.samaltman.com/helion) — `2021-11-05-helion.md` — 236w
+- 2020-12-01 — [The Strength of Being Misunderstood](https://blog.samaltman.com/the-strength-of-being-misunderstood) — `2020-12-01-the-strength-of-being-misunderstood.md` — 308w
+- 2020-09-25 — [PG and Jessica](https://blog.samaltman.com/pg-and-jessica) — `2020-09-25-pg-and-jessica.md` — 452w
+- 2020-06-19 — [Researchers and Founders](https://blog.samaltman.com/researchers-and-founders) — `2020-06-19-researchers-and-founders.md` — 335w
+- 2020-06-16 — [Project Covalence](https://blog.samaltman.com/project-covalence) — `2020-06-16-project-covalence.md` — 242w
+- 2020-05-28 — [Idea Generation](https://blog.samaltman.com/idea-generation) — `2020-05-28-idea-generation.md` — 772w
+- 2020-03-30 — [Please Fund More Science](https://blog.samaltman.com/please-fund-more-science) — `2020-03-30-please-fund-more-science.md` — 338w
+- 2020-03-15 — [Funding for COVID-19 Projects](https://blog.samaltman.com/funding-for-covid-19-projects) — `2020-03-15-funding-for-covid-19-projects.md` — 151w
+- 2020-03-07 — [The Virus](https://blog.samaltman.com/the-virus) — `2020-03-07-the-virus.md` — 235w
+- 2020-02-26 — [Hard Startups](https://blog.samaltman.com/hard-startups) — `2020-02-26-hard-startups.md` — 565w
+- 2020-01-13 — [How To Invest In Startups](https://blog.samaltman.com/how-to-invest-in-startups) — `2020-01-13-how-to-invest-in-startups.md` — 1950w
+- 2019-01-24 — [How To Be Successful](https://blog.samaltman.com/how-to-be-successful) — `2019-01-24-how-to-be-successful.md` — 3380w
+- 2018-06-25 — [Reinforcement Learning Progress](https://blog.samaltman.com/reinforcement-learning-progress) — `2018-06-25-reinforcement-learning-progress.md` — 212w
+- 2018-05-10 — [US Digital Currency](https://blog.samaltman.com/us-digital-currency) — `2018-05-10-us-digital-currency.md` — 421w
+- 2018-04-10 — [Productivity](https://blog.samaltman.com/productivity) — `2018-04-10-productivity.md` — 2165w
+- 2017-12-16 — [A Clarification](https://blog.samaltman.com/a-clarification) — `2017-12-16-a-clarification.md` — 607w
+- 2017-12-14 — [E Pur Si Muove](https://blog.samaltman.com/e-pur-si-muove) — `2017-12-14-e-pur-si-muove.md` — 763w
+- 2017-12-07 — [The Merge](https://blog.samaltman.com/the-merge) — `2017-12-07-the-merge.md` — 716w
+- 2017-11-27 — [American Equity](https://blog.samaltman.com/american-equity) — `2017-11-27-american-equity.md` — 678w
+- 2017-07-12 — [The United Slate](https://blog.samaltman.com/the-united-slate) — `2017-07-12-the-united-slate.md` — 166w
+- 2017-04-21 — [Quora](https://blog.samaltman.com/quora) — `2017-04-21-quora.md` — 290w
+- 2017-03-31 — [Tech Workers' Values](https://blog.samaltman.com/tech-workers-values) — `2017-03-31-tech-workers-values.md` — 245w
+- 2017-03-07 — [Greg](https://blog.samaltman.com/greg) — `2017-03-07-greg.md` — 484w
+- 2017-02-21 — [What I Heard From Trump Supporters](https://blog.samaltman.com/what-i-heard-from-trump-supporters) — `2017-02-21-what-i-heard-from-trump-supporters.md` — 2148w
+- 2017-02-16 — [2017 YC Annual Letter](https://blog.samaltman.com/2017-yc-annual-letter) — `2017-02-16-2017-yc-annual-letter.md` — 3136w
+- 2017-01-28 — [Time to Take a Stand](https://blog.samaltman.com/time-to-take-a-stand) — `2017-01-28-time-to-take-a-stand.md` — 620w
+- 2017-01-13 — [Affordable Care](https://blog.samaltman.com/affordable-care) — `2017-01-13-affordable-care.md` — 2096w
+- 2016-10-17 — [The 2016 Election](https://blog.samaltman.com/the-2016-election) — `2016-10-17-the-2016-election.md` — 584w
+- 2016-06-20 — [Trump](https://blog.samaltman.com/trump) — `2016-06-20-trump.md` — 685w
+- 2016-06-15 — ['We're in a Bubble'](https://blog.samaltman.com/were-in-a-bubble) — `2016-06-15-were-in-a-bubble.md` — 378w
+- 2016-05-26 — [Housing in the Bay Area](https://blog.samaltman.com/housing-in-the-bay-area) — `2016-05-26-housing-in-the-bay-area.md` — 256w
+- 2016-04-13 — [Cruise](https://blog.samaltman.com/cruise) — `2016-04-13-cruise.md` — 582w
+- 2016-03-30 — [Asana](https://blog.samaltman.com/asana) — `2016-03-30-asana.md` — 326w
+- 2016-03-11 — [Hard Tech is Back](https://blog.samaltman.com/hard-tech-is-back) — `2016-03-11-hard-tech-is-back.md` — 344w
+- 2016-01-15 — [Before Growth](https://blog.samaltman.com/before-growth) — `2016-01-15-before-growth.md` — 299w
+- 2015-11-02 — [The Tech Bust of 2015](https://blog.samaltman.com/the-tech-bust-of-2015) — `2015-11-02-the-tech-bust-of-2015.md` — 933w
+- 2015-09-28 — [Airbnb and San Francisco](https://blog.samaltman.com/airbnb-and-san-francisco) — `2015-09-28-airbnb-and-san-francisco.md` — 710w
+- 2015-09-21 — [Unit Economics](https://blog.samaltman.com/unit-economics) — `2015-09-21-unit-economics.md` — 570w
+- 2015-08-21 — [Financial Misstatements](https://blog.samaltman.com/financial-misstatements) — `2015-08-21-financial-misstatements.md` — 180w
+- 2015-08-20 — [The Post-YC Slump](https://blog.samaltman.com/the-post-yc-slump) — `2015-08-20-the-post-yc-slump.md` — 810w
+- 2015-08-14 — [The U.S. Digital Service](https://blog.samaltman.com/the-us-digital-service) — `2015-08-14-the-us-digital-service.md` — 312w
+- 2015-08-12 — [Projects and Companies](https://blog.samaltman.com/projects-and-companies) — `2015-08-12-projects-and-companies.md` — 532w
+- 2015-06-29 — [Energy](https://blog.samaltman.com/energy) — `2015-06-29-energy.md` — 523w
+- 2015-04-28 — [The days are long but the decades are short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short) — `2015-04-28-the-days-are-long-but-the-decades-are-short.md` — 1284w

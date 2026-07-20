@@ -1,0 +1,98 @@
+# Eugene Wei corpus index
+
+Source: https://www.eugenewei.com — fetched 2026-07-19
+93 posts, 166881 words. Format: date — [title](canonical url) — `file` — words.
+
+- 2023-07-07 — [How to Blow Up a Timeline](https://www.eugenewei.com/blog/2023/7/6/how-to-blow-up-a-timeline) — `2023-07-07-blog-2023-7-6-how-to-blow-up-a-timeline.md` — 6989w
+- 2022-02-28 — [My Favorite Movies of 2021](https://www.eugenewei.com/blog/2022/2/23/my-favorite-movies-of-2021) — `2022-02-28-blog-2022-2-23-my-favorite-movies-of-2021.md` — 8796w
+- 2021-10-10 — [And You Will Know Us by the Company We Keep](https://www.eugenewei.com/blog/2021/9/29/and-you-will-know-us-by-the-company-we-keep) — `2021-10-10-blog-2021-9-29-and-you-will-know-us-by-the-company-we-keep.md` — 5903w
+- 2020-09-20 — [Seeing Like an Algorithm](https://www.eugenewei.com/blog/2020/9/18/seeing-like-an-algorithm) — `2020-09-20-blog-2020-9-18-seeing-like-an-algorithm.md` — 5462w
+- 2020-08-04 — [TikTok and the Sorting Hat](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat) — `2020-08-04-blog-2020-8-3-tiktok-and-the-sorting-hat.md` — 6958w
+- 2020-03-26 — [My Pandemic Zoom Setup](https://www.eugenewei.com/blog/2020/3/26/my-pandemic-zoom-setup) — `2020-03-26-blog-2020-3-26-my-pandemic-zoom-setup.md` — 695w
+- 2020-03-11 — [Veblen values](https://www.eugenewei.com/blog/2020/3/11/veblen-values) — `2020-03-11-blog-2020-3-11-veblen-values.md` — 463w
+- 2020-01-08 — [The John Wick Universe is Cancel Culture](https://www.eugenewei.com/blog/2020/1/7/john-wick-and-cancel-culture) — `2020-01-08-blog-2020-1-7-john-wick-and-cancel-culture.md` — 5354w
+- 2020-01-07 — [The Uncanny Valley of Interactivity](https://www.eugenewei.com/blog/2020/1/7/the-uncanny-valley-of-interactivity) — `2020-01-07-blog-2020-1-7-the-uncanny-valley-of-interactivity.md` — 1099w
+- 2019-12-12 — [Narrative debt](https://www.eugenewei.com/blog/2020/3/11/narrative-debt) — `2019-12-12-blog-2020-3-11-narrative-debt.md` — 1121w
+- 2019-11-14 — [Smoke and Mirrors](https://www.eugenewei.com/blog/2019/11/14/smoke-and-mirrors) — `2019-11-14-blog-2019-11-14-smoke-and-mirrors.md` — 4893w
+- 2019-11-13 — [Status Update, and How Everyone IPO'd in the 21st Century](https://www.eugenewei.com/blog/2019/11/4/status-update) — `2019-11-13-blog-2019-11-4-status-update.md` — 3840w
+- 2018-05-15 — [What I learned from a Taipei alley](https://www.eugenewei.com/blog/2018/5/11/taipei-alley) — `2018-05-15-blog-2018-5-11-taipei-alley.md` — 1926w
+- 2018-04-14 — [The inefficiency of large, infrequent transactions](https://www.eugenewei.com/blog/2018/4/6/the-inefficiency-of-infrequent-transactions) — `2018-04-14-blog-2018-4-6-the-inefficiency-of-infrequent-transactions.md` — 1970w
+- 2018-03-19 — [Catch up](https://www.eugenewei.com/blog/2018/3/19/catch-up) — `2018-03-19-blog-2018-3-19-catch-up.md` — 5968w
+- 2018-01-21 — [Revisionist commentary](https://www.eugenewei.com/blog/2018/1/15/revisionist-commentary) — `2018-01-21-blog-2018-1-15-revisionist-commentary.md` — 828w
+- 2018-01-15 — [Why Information Grows](https://www.eugenewei.com/blog/2017/4/22/why-information-grows) — `2018-01-15-blog-2017-4-22-why-information-grows.md` — 8469w
+- 2018-01-10 — [My first podcast appearance](https://www.eugenewei.com/blog/2018/1/10/my-first-podcast-appearance) — `2018-01-10-blog-2018-1-10-my-first-podcast-appearance.md` — 200w
+- 2018-01-10 — [Beware the lessons of growing up Galapagos](https://www.eugenewei.com/blog/2018/1/9/outdated-playbooks-from-the-age-of-scarcity) — `2018-01-10-blog-2018-1-9-outdated-playbooks-from-the-age-of-scarcity.md` — 3674w
+- 2017-12-06 — [Drawing invisible boundaries in conversational interfaces](https://www.eugenewei.com/blog/2017/11/1/drawing-invisible-boundaries-in-conversational-interfaces) — `2017-12-06-blog-2017-11-1-drawing-invisible-boundaries-in-conversational-interfaces.md` — 808w
+- 2017-12-04 — [10 more browser tabs](https://www.eugenewei.com/blog/2017/11/19/10-more-browser-tabs) — `2017-12-04-blog-2017-11-19-10-more-browser-tabs.md` — 5809w
+- 2017-11-20 — [Helpful tip for data series labels in Excel](https://www.eugenewei.com/blog/2017/11/15/helpful-tip-for-data-series-labels-in-excel) — `2017-11-20-blog-2017-11-15-helpful-tip-for-data-series-labels-in-excel.md` — 829w
+- 2017-11-14 — [Remove the legend to become one](https://www.eugenewei.com/blog/2017/11/13/remove-the-legend) — `2017-11-14-blog-2017-11-13-remove-the-legend.md` — 7428w
+- 2017-11-08 — [Revisiting The Odyssey](https://www.eugenewei.com/blog/2017/11/8/revisiting-the-odyssey) — `2017-11-08-blog-2017-11-8-revisiting-the-odyssey.md` — 3093w
+- 2017-11-07 — [10 browser tabs](https://www.eugenewei.com/blog/2017/11/7/10-browser-tabs) — `2017-11-07-blog-2017-11-7-10-browser-tabs.md` — 4185w
+- 2017-10-29 — [Chasm of comprehension](https://www.eugenewei.com/blog/2017/2/27/chasm-of-comprehension) — `2017-10-29-blog-2017-2-27-chasm-of-comprehension.md` — 2208w
+- 2017-10-28 — [Evaluating mobile map designs](https://www.eugenewei.com/blog/2017/5/31/evaluating-mobile-map-designs) — `2017-10-28-blog-2017-5-31-evaluating-mobile-map-designs.md` — 2246w
+- 2017-10-26 — [When you come to the 2^100 forks in the road...](https://www.eugenewei.com/blog/2017/9/13/when-you-come-to-the-2100-forks-in-the-road) — `2017-10-26-blog-2017-9-13-when-you-come-to-the-2100-forks-in-the-road.md` — 888w
+- 2017-10-26 — [Things I learned from The Defiant Ones](https://www.eugenewei.com/blog/2017/9/6/things-i-learned-from-the-defiant-ones) — `2017-10-26-blog-2017-9-6-things-i-learned-from-the-defiant-ones.md` — 2476w
+- 2017-10-18 — [Selfies as a second language](https://www.eugenewei.com/blog/2017/9/14/selfies-as-a-second-language) — `2017-10-18-blog-2017-9-14-selfies-as-a-second-language.md` — 1321w
+- 2017-10-16 — [Movies I saw at 2017 TIFF](https://www.eugenewei.com/blog/2017/9/20/tiff-2017) — `2017-10-16-blog-2017-9-20-tiff-2017.md` — 7742w
+- 2017-10-09 — [Police and systemic storytelling](https://www.eugenewei.com/blog/2017/10/9/systemic-storytelling) — `2017-10-09-blog-2017-10-9-systemic-storytelling.md` — 2299w
+- 2017-09-03 — [Show don't tell](https://www.eugenewei.com/blog/2017/9/3/show-dont-tell) — `2017-09-03-blog-2017-9-3-show-dont-tell.md` — 660w
+- 2017-08-30 — [Why don't you understand my needs?](https://www.eugenewei.com/blog/2017/8/25/human-ai-marriage-counseling) — `2017-08-30-blog-2017-8-25-human-ai-marriage-counseling.md` — 539w
+- 2017-08-23 — [1 personal update and 10 browser tabs](https://www.eugenewei.com/blog/2017/7/5/clearing-10-browser-tabs) — `2017-08-23-blog-2017-7-5-clearing-10-browser-tabs.md` — 2423w
+- 2017-08-14 — [Virtue signalling](https://www.eugenewei.com/blog/2017/8/13/virtue-signalling) — `2017-08-14-blog-2017-8-13-virtue-signalling.md` — 2129w
+- 2017-08-04 — [Aposematism](https://www.eugenewei.com/blog/2017/5/26/aposematism) — `2017-08-04-blog-2017-5-26-aposematism.md` — 388w
+- 2017-07-27 — [When time stretches eon and eon](https://www.eugenewei.com/blog/2017/7/26/when-time-stretches-eon-and-eon) — `2017-07-27-blog-2017-7-26-when-time-stretches-eon-and-eon.md` — 502w
+- 2017-07-26 — [The rhythm of writing](https://www.eugenewei.com/blog/2017/7/20/the-rhythm-of-writing) — `2017-07-26-blog-2017-7-20-the-rhythm-of-writing.md` — 1515w
+- 2017-06-29 — [The age of distributed truth](https://www.eugenewei.com/blog/2017/6/28/the-truth-is-distributed) — `2017-06-29-blog-2017-6-28-the-truth-is-distributed.md` — 2615w
+- 2017-06-11 — [The greatest sports achievement in my lifetime?](https://www.eugenewei.com/blog/2017/6/10/the-greatest-sports-achievement) — `2017-06-11-blog-2017-6-10-the-greatest-sports-achievement.md` — 1935w
+- 2017-06-10 — [My most popular posts](https://www.eugenewei.com/blog/2017/6/7/my-most-popular-posts) — `2017-06-10-blog-2017-6-7-my-most-popular-posts.md` — 2233w
+- 2017-05-23 — [Compress to impress](https://www.eugenewei.com/blog/2017/5/11/jpeg-your-ideas) — `2017-05-23-blog-2017-5-11-jpeg-your-ideas.md` — 3562w
+- 2017-05-10 — [Hazard disgrace](https://www.eugenewei.com/blog/2017/5/10/hazard-disgrace) — `2017-05-10-blog-2017-5-10-hazard-disgrace.md` — 183w
+- 2017-05-07 — [Movies I've watched recently](https://www.eugenewei.com/blog/2017/5/7/movies-ive-watched) — `2017-05-07-blog-2017-5-7-movies-ive-watched.md` — 2999w
+- 2017-05-07 — [Globalization and its discontents](https://www.eugenewei.com/blog/2017/5/4/9901ktfkio5dngsdt7fov39mev35l9) — `2017-05-07-blog-2017-5-4-9901ktfkio5dngsdt7fov39mev35l9.md` — 810w
+- 2017-04-30 — [Thermodynamic theory of evolution](https://www.eugenewei.com/blog/2017/2/11/uz8yv7ly05ssxevmtafms5kr7t751i) — `2017-04-30-blog-2017-2-11-uz8yv7ly05ssxevmtafms5kr7t751i.md` — 1290w
+- 2017-04-30 — [Gelernter](https://www.eugenewei.com/blog/2017/3/23/gelernter) — `2017-04-30-blog-2017-3-23-gelernter.md` — 589w
+- 2017-04-29 — [Waack](https://www.eugenewei.com/blog/2017/4/16/waack) — `2017-04-29-blog-2017-4-16-waack.md` — 420w
+- 2017-04-14 — [First resort](https://www.eugenewei.com/blog/2017/4/14/first-resort) — `2017-04-14-blog-2017-4-14-first-resort.md` — 522w
+- 2017-04-09 — [Zygmunt Bauman](https://www.eugenewei.com/blog/2017/2/9/zygmunt-bauman) — `2017-04-09-blog-2017-2-9-zygmunt-bauman.md` — 472w
+- 2017-04-09 — [Pareto's two types of elites: lions and foxes](https://www.eugenewei.com/blog/2017/3/6/paretos-two-types-of-elites-lions-and-foxes) — `2017-04-09-blog-2017-3-6-paretos-two-types-of-elites-lions-and-foxes.md` — 533w
+- 2017-04-09 — [Meaning without death](https://www.eugenewei.com/blog/2017/3/23/meaning-without-death) — `2017-04-09-blog-2017-3-23-meaning-without-death.md` — 191w
+- 2017-04-09 — [Deontology Or Trustworthiness?](https://www.eugenewei.com/blog/2016/6/18/deontology-or-trustworthiness) — `2017-04-09-blog-2016-6-18-deontology-or-trustworthiness.md` — 879w
+- 2017-04-09 — [Beginning with the end](https://www.eugenewei.com/blog/2016/9/1/leading-with-the-conclusion-as-it-were) — `2017-04-09-blog-2016-9-1-leading-with-the-conclusion-as-it-were.md` — 476w
+- 2017-04-05 — [I Will Always Love You](https://www.eugenewei.com/blog/2017/4/5/jms0axpmb3qubdj5fv8onmryhdw7ew) — `2017-04-05-blog-2017-4-5-jms0axpmb3qubdj5fv8onmryhdw7ew.md` — 618w
+- 2017-03-06 — [Learning curves sloping up and down](https://www.eugenewei.com/blog/2017/2/27/learning-curve) — `2017-03-06-blog-2017-2-27-learning-curve.md` — 924w
+- 2017-03-05 — [The path of least cost/energy](https://www.eugenewei.com/blog/2017/3/5/compositing) — `2017-03-05-blog-2017-3-5-compositing.md` — 146w
+- 2017-02-27 — [IKEA's Billy bookcase](https://www.eugenewei.com/blog/2017/2/26/w7vya9p48evtk97hfh55ih95ecxt0w) — `2017-02-27-blog-2017-2-26-w7vya9p48evtk97hfh55ih95ecxt0w.md` — 154w
+- 2017-02-25 — [Magic iPod](https://www.eugenewei.com/blog/2017/2/25/magic-ipod) — `2017-02-25-blog-2017-2-25-magic-ipod.md` — 430w
+- 2017-02-09 — [The hardest punch to dodge...](https://www.eugenewei.com/blog/2017/2/6/fn3azuku80w4tlltrgl33yz2519npu) — `2017-02-09-blog-2017-2-6-fn3azuku80w4tlltrgl33yz2519npu.md` — 362w
+- 2017-02-02 — [Twilight of the liberal world order?](https://www.eugenewei.com/blog/2017/1/29/twilight-of-the-liberal-world-order) — `2017-02-02-blog-2017-1-29-twilight-of-the-liberal-world-order.md` — 762w
+- 2017-02-02 — [The Second Law of Thermodynamics](https://www.eugenewei.com/blog/2017/2/2/the-second-law-of-thermodynamics) — `2017-02-02-blog-2017-2-2-the-second-law-of-thermodynamics.md` — 372w
+- 2017-02-02 — [Moral Foundations Theory](https://www.eugenewei.com/blog/2017/2/2/moral-foundations-theory) — `2017-02-02-blog-2017-2-2-moral-foundations-theory.md` — 695w
+- 2017-02-02 — [Last dance](https://www.eugenewei.com/blog/2017/2/2/last-dance) — `2017-02-02-blog-2017-2-2-last-dance.md` — 1047w
+- 2017-01-29 — [Kiyoshi Kurosawa](https://www.eugenewei.com/blog/2017/1/16/kiyoshi-kurosawa) — `2017-01-29-blog-2017-1-16-kiyoshi-kurosawa.md` — 588w
+- 2017-01-24 — [Facts are still high cost, low virality](https://www.eugenewei.com/blog/2017/1/24/facts-are-still-high-cost-low-virality) — `2017-01-24-blog-2017-1-24-facts-are-still-high-cost-low-virality.md` — 519w
+- 2017-01-15 — [Tower of Babel](https://www.eugenewei.com/blog/2017/1/12/tower-of-babel) — `2017-01-15-blog-2017-1-12-tower-of-babel.md` — 3445w
+- 2017-01-15 — [The "always on" computer](https://www.eugenewei.com/blog/2017/1/12/the-always-on-computer) — `2017-01-15-blog-2017-1-12-the-always-on-computer.md` — 387w
+- 2017-01-02 — [Watership Down](https://www.eugenewei.com/blog/2017/1/2/watership-down) — `2017-01-02-blog-2017-1-2-watership-down.md` — 512w
+- 2017-01-02 — [My one New Year's resolution for 2017](https://www.eugenewei.com/blog/2017/1/2/my-one-new-years-resolution-for-2017) — `2017-01-02-blog-2017-1-2-my-one-new-years-resolution-for-2017.md` — 402w
+- 2016-07-30 — [Mistress dispellers](https://www.eugenewei.com/blog/2016/7/30/mistress-dispellers) — `2016-07-30-blog-2016-7-30-mistress-dispellers.md` — 308w
+- 2016-07-30 — [Innovation in organization design](https://www.eugenewei.com/blog/2015/10/5/innovation-in-organization-design) — `2016-07-30-blog-2015-10-5-innovation-in-organization-design.md` — 370w
+- 2016-07-30 — [Buying shares of people](https://www.eugenewei.com/blog/2016/7/21/buying-shares-of-people) — `2016-07-30-blog-2016-7-21-buying-shares-of-people.md` — 243w
+- 2016-07-23 — [The expanding Overton window](https://www.eugenewei.com/blog/2016/7/23/the-expanding-overton-window) — `2016-07-23-blog-2016-7-23-the-expanding-overton-window.md` — 839w
+- 2016-07-23 — [Style transfer](https://www.eugenewei.com/blog/2016/7/23/style-transfer) — `2016-07-23-blog-2016-7-23-style-transfer.md` — 292w
+- 2016-07-23 — [Interview with Matthew Gentzkow](https://www.eugenewei.com/blog/2016/6/25/wa7dlhdvigvt1quo9xzq6xnrbugfyf) — `2016-07-23-blog-2016-6-25-wa7dlhdvigvt1quo9xzq6xnrbugfyf.md` — 1581w
+- 2016-06-18 — [Romance, after the bloom](https://www.eugenewei.com/blog/2016/2/28/romance-after-the-bloom) — `2016-06-18-blog-2016-2-28-romance-after-the-bloom.md` — 616w
+- 2016-06-18 — [Electing one person, or three thousand?](https://www.eugenewei.com/blog/2016/6/18/electing-one-person-or-three-thousand) — `2016-06-18-blog-2016-6-18-electing-one-person-or-three-thousand.md` — 428w
+- 2016-03-18 — [Acoustic pest detection](https://www.eugenewei.com/blog/2016/3/18/p91x73ef6y0l70ay1r7fk8weaiayqf) — `2016-03-18-blog-2016-3-18-p91x73ef6y0l70ay1r7fk8weaiayqf.md` — 389w
+- 2016-02-28 — [The art of the auction](https://www.eugenewei.com/blog/2015/11/16/the-art-of-the-auction) — `2016-02-28-blog-2015-11-16-the-art-of-the-auction.md` — 332w
+- 2016-02-28 — [Process vs results in creative work](https://www.eugenewei.com/blog/2015/10/9/process-vs-results) — `2016-02-28-blog-2015-10-9-process-vs-results.md` — 582w
+- 2016-02-28 — [How to spot a food critic](https://www.eugenewei.com/blog/2016/2/27/how-to-spot-a-food-critic) — `2016-02-28-blog-2016-2-27-how-to-spot-a-food-critic.md` — 553w
+- 2016-02-27 — [The Witch](https://www.eugenewei.com/blog/2016/2/27/the-witch) — `2016-02-27-blog-2016-2-27-the-witch.md` — 537w
+- 2016-02-27 — [Paradox of loss aversion](https://www.eugenewei.com/blog/2016/2/27/paradox-of-low-stakes) — `2016-02-27-blog-2016-2-27-paradox-of-low-stakes.md` — 643w
+- 2016-02-15 — [Trump vs. a Japanese whale](https://www.eugenewei.com/blog/2016/2/15/trump-vs-a-japanese-whale) — `2016-02-15-blog-2016-2-15-trump-vs-a-japanese-whale.md` — 656w
+- 2016-02-14 — [Optimal pricing for bread and circuses](https://www.eugenewei.com/blog/2016/2/14/optimal-pricing-for-restaurants-shows) — `2016-02-14-blog-2016-2-14-optimal-pricing-for-restaurants-shows.md` — 804w
+- 2016-02-13 — [The lady had dropped her napkin](https://www.eugenewei.com/blog/2016/1/28/pete-wells-downgrades-per-se) — `2016-02-13-blog-2016-1-28-pete-wells-downgrades-per-se.md` — 343w
+- 2016-02-13 — [Information tech and variety](https://www.eugenewei.com/blog/2016/1/5/information-tech-and-variety) — `2016-02-13-blog-2016-1-5-information-tech-and-variety.md` — 250w
+- 2016-02-13 — [If the glove kinda fits, do not acquit?](https://www.eugenewei.com/blog/2016/2/13/if-the-glove-somewhat-fits-do-not-acquit) — `2016-02-13-blog-2016-2-13-if-the-glove-somewhat-fits-do-not-acquit.md` — 992w
+- 2016-01-05 — [Through the eyes of a burglar](https://www.eugenewei.com/blog/2016/1/5/through-the-eyes-of-a-burglar) — `2016-01-05-blog-2016-1-5-through-the-eyes-of-a-burglar.md` — 254w
+- 2016-01-04 — [Gonna make you sweat](https://www.eugenewei.com/blog/2016/1/4/gonna-make-you-sweat) — `2016-01-04-blog-2016-1-4-gonna-make-you-sweat.md` — 478w
+- 2015-12-26 — [Santa Claus converts Scrooge with new economics](https://www.eugenewei.com/blog/2015/12/26/santa-claus-converts-scrooge-with-new-economics) — `2015-12-26-blog-2015-12-26-santa-claus-converts-scrooge-with-new-economics.md` — 223w
