@@ -51,6 +51,11 @@ const CANDIDATES = [
   "nir-eyal", "bill-gurley", "marc-andreessen", "balaji-srinivasan",
   "michael-seibel", "justin-kan", "andrew-wilkinson", "nathan-barry",
   "amy-hoy", "lenny-rachitsky", "julie-zhuo", "dan-shipper",
+  "reid-hoffman", "ev-williams", "alexis-ohanian", "caterina-fake",
+  "emmett-shear", "christina-cacioppo", "dalton-caldwell", "david-cancel",
+  "ryan-hoover", "hiten-shah", "noah-kagan", "om-malik",
+  "anne-laure-le-cunff", "john-onolan", "ben-casnocha", "jason-calacanis",
+  "michael-arrington",
 ] as const;
 
 /** Roster grouping shown by the founder pickers in the skills. */
@@ -60,6 +65,14 @@ const CATEGORY: Record<string, string> = {
   "justin-kan": "YC & scale founders", "brian-chesky": "YC & scale founders",
   "patrick-collison": "YC & scale founders", "tobi-lutke": "YC & scale founders",
   "matt-mullenweg": "YC & scale founders",
+  "reid-hoffman": "YC & scale founders", "ev-williams": "YC & scale founders",
+  "alexis-ohanian": "YC & scale founders", "caterina-fake": "YC & scale founders",
+  "emmett-shear": "YC & scale founders", "christina-cacioppo": "YC & scale founders",
+  "dalton-caldwell": "YC & scale founders", "david-cancel": "YC & scale founders",
+  "john-onolan": "Bootstrappers & indie", "noah-kagan": "Bootstrappers & indie",
+  "anne-laure-le-cunff": "Bootstrappers & indie",
+  "ben-casnocha": "Investors & VCs", "jason-calacanis": "Investors & VCs",
+  "michael-arrington": "Investors & VCs", "om-malik": "Investors & VCs",
   naval: "Investors & VCs", "fred-wilson": "Investors & VCs",
   "mark-suster": "Investors & VCs", "brad-feld": "Investors & VCs",
   "elad-gil": "Investors & VCs", "chris-dixon": "Investors & VCs",

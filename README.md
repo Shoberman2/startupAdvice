@@ -2,7 +2,7 @@
 
 **Source-grounded startup office hours for Claude Code.**
 
-Founder Panel is two open-source Claude Code skills backed by URL indexes for 43 founders and investors and 3,436 public essays and posts:
+Founder Panel is two open-source Claude Code skills backed by URL indexes for 50 founders and investors and 4,057 public essays and posts:
 
 - `/founder-conversation` — choose one person for a focused, cited conversation.
 - `/board-room` — seat 2–5 people for openings, cross-examination, and synthesis.

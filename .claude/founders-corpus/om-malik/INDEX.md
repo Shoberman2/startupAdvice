@@ -1,0 +1,102 @@
+# Om Malik corpus index
+
+Source: https://om.co — fetched 2026-07-20
+97 posts, 98021 words. Format: date — [title](canonical url) — `file` — words.
+
+- 2026-06-08 — [Taking a Few Days Off](https://om.co/2026/06/08/taking-a-few-days-off/) — `2026-06-08-2026-06-08-taking-a-few-days-off.md` — 129w
+- 2026-06-07 — [The Myth, the Mythos and the Man](https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/) — `2026-06-07-2026-06-07-the-myth-the-mythos-and-the-man.md` — 2028w
+- 2026-06-04 — [Silicon Valley’s Biggest Payday. Yet!](https://om.co/2026/06/04/silicon-valleys-biggest-payday-yet/) — `2026-06-04-2026-06-04-silicon-valleys-biggest-payday-yet.md` — 1110w
+- 2026-06-02 — [AI models are having their iPhone moment. What’s Next?](https://om.co/2026/06/02/ai-models-are-having-their-iphone-moment-whats-next/) — `2026-06-02-2026-06-02-ai-models-are-having-their-iphone-moment-whats-next.md` — 2099w
+- 2026-06-01 — [Clothes Are Nice. Fashion Biz, Not As Much!](https://om.co/2026/06/01/clothes-are-nice-fashion-biz-not-as-much/) — `2026-06-01-2026-06-01-clothes-are-nice-fashion-biz-not-as-much.md` — 1176w
+- 2026-05-29 — [Anthropic, AI and The “Numbers” Problem](https://om.co/2026/05/29/anthropic-ai-and-the-numbers-problem/) — `2026-05-29-2026-05-29-anthropic-ai-and-the-numbers-problem.md` — 1130w
+- 2026-05-26 — [The Copy and the Guru](https://om.co/2026/05/26/the-copy-and-the-guru/) — `2026-05-26-2026-05-26-the-copy-and-the-guru.md` — 983w
+- 2026-05-25 — [We Are Living in Pinocchio’s World](https://om.co/2026/05/25/we-are-living-in-pinocchios-world/) — `2026-05-25-2026-05-25-we-are-living-in-pinocchios-world.md` — 1599w
+- 2026-05-24 — [What to Read This Weekend](https://om.co/2026/05/24/what-to-read-this-weekend-24/) — `2026-05-24-2026-05-24-what-to-read-this-weekend-24.md` — 866w
+- 2026-05-21 — [The Rocket That Runs on Broadband](https://om.co/2026/05/21/the-rocket-that-runs-on-broadband/) — `2026-05-21-2026-05-21-the-rocket-that-runs-on-broadband.md` — 1256w
+- 2026-05-20 — [Snowcaps](https://om.co/2026/05/20/snowcaps/) — `2026-05-20-2026-05-20-snowcaps.md` — 135w
+- 2026-05-15 — [AI in Everything, Everywhere](https://om.co/2026/05/15/ai-in-everything-everywhere/) — `2026-05-15-2026-05-15-ai-in-everything-everywhere.md` — 502w
+- 2026-05-13 — [AI is the New Netflix](https://om.co/2026/05/13/ai-is-the-new-netflix/) — `2026-05-13-2026-05-13-ai-is-the-new-netflix.md` — 597w
+- 2026-05-12 — [Signing off in a world of what’s next](https://om.co/2026/05/12/signing-off-in-a-world-of-whats-next/) — `2026-05-12-2026-05-12-signing-off-in-a-world-of-whats-next.md` — 695w
+- 2026-05-04 — [Say Hello to the Internet of AI](https://om.co/2026/05/04/say-hello-to-the-internet-of-ai/) — `2026-05-04-2026-05-04-say-hello-to-the-internet-of-ai.md` — 4905w
+- 2026-05-04 — [How AI Is Changing the Network(s)](https://om.co/2026/05/04/how-ai-is-changing-the-networks/) — `2026-05-04-2026-05-04-how-ai-is-changing-the-networks.md` — 322w
+- 2026-05-03 — [What to read this weekend](https://om.co/2026/05/03/what-to-read-this-weekend-23/) — `2026-05-03-2026-05-03-what-to-read-this-weekend-23.md` — 490w
+- 2026-05-01 — [What Microsoft’s 10-Q Says About OpenAI](https://om.co/2026/05/01/what-microsofts-10-q-says-about-openai/) — `2026-05-01-2026-05-01-what-microsofts-10-q-says-about-openai.md` — 1882w
+- 2026-04-30 — [With AI, Headline isn’t the story](https://om.co/2026/04/30/with-ai-headline-isnt-the-story/) — `2026-04-30-2026-04-30-with-ai-headline-isnt-the-story.md` — 717w
+- 2026-04-30 — [What’s wrong in my thinking about Errors?](https://om.co/2026/04/30/whats-wrong-in-my-thinking-about-errors/) — `2026-04-30-2026-04-30-whats-wrong-in-my-thinking-about-errors.md` — 411w
+- 2026-04-30 — [What I Learned about Hyperscalers’ AI Spend](https://om.co/2026/04/30/what-i-learned-about-hyperscalers-ai-spend/) — `2026-04-30-2026-04-30-what-i-learned-about-hyperscalers-ai-spend.md` — 1161w
+- 2026-04-27 — [Memory Is the Machine](https://om.co/2026/04/27/memory-is-the-machine/) — `2026-04-27-2026-04-27-memory-is-the-machine.md` — 1616w
+- 2026-04-27 — [Gigabit First Nation by 2030](https://om.co/2026/04/27/gigabit-first-nation-by-2030/) — `2026-04-27-2026-04-27-gigabit-first-nation-by-2030.md` — 140w
+- 2026-04-22 — [Software Eats Its Own](https://om.co/2026/04/22/software-eats-its-own/) — `2026-04-22-2026-04-22-software-eats-its-own.md` — 516w
+- 2026-04-20 — [John Appleseed](https://om.co/2026/04/20/john-appleseed/) — `2026-04-20-2026-04-20-john-appleseed.md` — 680w
+- 2026-04-18 — [Wishes for Ron Conway](https://om.co/2026/04/18/wishes-for-ron-conway/) — `2026-04-18-2026-04-18-wishes-for-ron-conway.md` — 375w
+- 2026-04-18 — [What to Read This Weekend](https://om.co/2026/04/18/what-to-read-this-weekend-22/) — `2026-04-18-2026-04-18-what-to-read-this-weekend-22.md` — 682w
+- 2026-04-16 — [Eat Your Words](https://om.co/2026/04/16/eat-your-words/) — `2026-04-16-2026-04-16-eat-your-words.md` — 1358w
+- 2026-04-15 — [Newbird.AI! Or Loony.AI](https://om.co/2026/04/15/newbirds-ai-is-really-loonybirds-ai/) — `2026-04-15-2026-04-15-newbirds-ai-is-really-loonybirds-ai.md` — 690w
+- 2026-04-14 — [Human Error is OK! Machine Madness is a No-No! Why?](https://om.co/2026/04/14/human-error-is-ok-machine-madness-is-a-no-no-why/) — `2026-04-14-2026-04-14-human-error-is-ok-machine-madness-is-a-no-no-why.md` — 1171w
+- 2026-04-12 — [What To Read This Weekend,](https://om.co/2026/04/12/what-to-read-this-weekend-21/) — `2026-04-12-2026-04-12-what-to-read-this-weekend-21.md` — 695w
+- 2026-04-08 — [Upstream Speeds, Needs Up Again](https://om.co/2026/04/08/upstream-speeds-needs-up-again/) — `2026-04-08-2026-04-08-upstream-speeds-needs-up-again.md` — 205w
+- 2026-04-08 — [Banksy, Satoshi & The Unmasking Impulse](https://om.co/2026/04/08/banksy-satoshi-the-unmasking-impulse/) — `2026-04-08-2026-04-08-banksy-satoshi-the-unmasking-impulse.md` — 1420w
+- 2026-04-05 — [What To Read This Weekend](https://om.co/2026/04/05/what-to-read-this-weekend-20/) — `2026-04-05-2026-04-05-what-to-read-this-weekend-20.md` — 837w
+- 2026-04-05 — [Sam Always Wins](https://om.co/2026/04/05/951836/) — `2026-04-05-2026-04-05-951836.md` — 187w
+- 2026-04-02 — [Why OpenAI bought TBPN](https://om.co/2026/04/02/openai-masters-of-agitprop-2-0/) — `2026-04-02-2026-04-02-openai-masters-of-agitprop-2-0.md` — 630w
+- 2026-03-31 — [OpenAI: The Fix Is In](https://om.co/2026/03/31/openai-the-fix-is-in/) — `2026-03-31-2026-03-31-openai-the-fix-is-in.md` — 725w
+- 2026-03-30 — [Penimimal](https://om.co/2026/03/30/minimal-and-abstract-pen-photography/) — `2026-03-30-2026-03-30-minimal-and-abstract-pen-photography.md` — 558w
+- 2026-03-29 — [What To Read This Weekend](https://om.co/2026/03/29/what-to-read-this-weekend-19/) — `2026-03-29-2026-03-29-what-to-read-this-weekend-19.md` — 696w
+- 2026-03-28 — [Seeker](https://om.co/2026/03/28/seeker/) — `2026-03-28-2026-03-28-seeker.md` — 747w
+- 2026-03-27 — [‘Astound’ed. Google Flips Its Fiber To PE.](https://om.co/2026/03/27/astounded-google-flips-its-fiber-to-pe/) — `2026-03-27-2026-03-27-astounded-google-flips-its-fiber-to-pe.md` — 1787w
+- 2026-03-26 — [Jargon Sucks](https://om.co/2026/03/26/jargon-sucks/) — `2026-03-26-2026-03-26-jargon-sucks.md` — 403w
+- 2026-03-25 — [We Are Now An Upload (Broadband) Nation](https://om.co/2026/03/25/we-are-now-an-upload-broadband-nation/) — `2026-03-25-2026-03-25-we-are-now-an-upload-broadband-nation.md` — 985w
+- 2026-03-25 — [Meta’s Moment of Reckoning](https://om.co/2026/03/25/metas-may-day/) — `2026-03-25-2026-03-25-metas-may-day.md` — 1770w
+- 2026-03-25 — [23 years!](https://om.co/2026/03/25/23-years/) — `2026-03-25-2026-03-25-23-years.md` — 185w
+- 2026-03-23 — [More Magic Math from OpenAI?](https://om.co/2026/03/23/more-magic-math-from-openai/) — `2026-03-23-2026-03-23-more-magic-math-from-openai.md` — 703w
+- 2026-03-22 — [What To Read This Weekend](https://om.co/2026/03/22/what-to-read-this-weekend-18/) — `2026-03-22-2026-03-22-what-to-read-this-weekend-18.md` — 734w
+- 2026-03-21 — [Why Fraud Is The Boring Problem](https://om.co/2026/03/21/manufacturing-legitimacy-in-the-ai-era/) — `2026-03-21-2026-03-21-manufacturing-legitimacy-in-the-ai-era.md` — 659w
+- 2026-03-19 — [How Not to Interview (Interesting People)](https://om.co/2026/03/19/how-not-to-interview-interesting-people/) — `2026-03-19-2026-03-19-how-not-to-interview-interesting-people.md` — 1484w
+- 2026-03-17 — [OpenAI Has New Focus (on the IPO)](https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/) — `2026-03-17-2026-03-17-openai-has-new-focus-on-the-ipo.md` — 1335w
+- 2026-03-16 — [Lobster Boil](https://om.co/2026/03/16/lobster-boil/) — `2026-03-16-2026-03-16-lobster-boil.md` — 1649w
+- 2026-03-15 — [What To Read This Weekend](https://om.co/2026/03/15/what-to-read-this-weekend-17/) — `2026-03-15-2026-03-15-what-to-read-this-weekend-17.md` — 943w
+- 2026-03-14 — [The Return of Travis Kalanick: Fact & Fluff!](https://om.co/2026/03/14/the-fact-fluff-of-return-of-travis-kalanick/) — `2026-03-14-2026-03-14-the-fact-fluff-of-return-of-travis-kalanick.md` — 1919w
+- 2026-03-13 — [Tanhā & Our Modern Consumerism](https://om.co/2026/03/13/tanha-our-modern-consumerism/) — `2026-03-13-2026-03-13-tanha-our-modern-consumerism.md` — 1156w
+- 2026-03-13 — [Neo Symbolic Capitalism](https://om.co/2026/03/13/symbolic-capitalism/) — `2026-03-13-2026-03-13-symbolic-capitalism.md` — 1209w
+- 2026-03-10 — [The Essence of a Machine](https://om.co/2026/03/10/the-essence-of-a-machine/) — `2026-03-10-2026-03-10-the-essence-of-a-machine.md` — 1340w
+- 2026-03-10 — [Life Has a Hex Code](https://om.co/2026/03/10/life-has-a-hex-code/) — `2026-03-10-2026-03-10-life-has-a-hex-code.md` — 1234w
+- 2026-03-09 — [The Debt Beneath the Dream](https://om.co/2026/03/09/the-debt-beneath-the-dream/) — `2026-03-09-2026-03-09-the-debt-beneath-the-dream.md` — 1458w
+- 2026-03-09 — [The 2026 iPad Air M4: Early Impressions](https://om.co/2026/03/09/the-2026-ipad-air-m4-early-impressions/) — `2026-03-09-2026-03-09-the-2026-ipad-air-m4-early-impressions.md` — 1106w
+- 2026-03-08 — [What To Read This Weekend](https://om.co/2026/03/08/what-to-read-this-weekend-16/) — `2026-03-08-2026-03-08-what-to-read-this-weekend-16.md` — 778w
+- 2026-03-05 — [The Great (ai) Game vs AI Theater](https://om.co/2026/03/05/the-great-ai-game-vs-ai-theater/) — `2026-03-05-2026-03-05-the-great-ai-game-vs-ai-theater.md` — 838w
+- 2026-03-04 — [With Neo, Apple Goes After Windows 11](https://om.co/2026/03/04/apple-goes-after-window-11-with-neo/) — `2026-03-04-2026-03-04-apple-goes-after-window-11-with-neo.md` — 528w
+- 2026-03-04 — [Luckin Isn’t Stupid](https://om.co/2026/03/04/luckin-isnt-stupid/) — `2026-03-04-2026-03-04-luckin-isnt-stupid.md` — 268w
+- 2026-03-03 — [Apple Does Fusion.](https://om.co/2026/03/03/apple-does-fusion/) — `2026-03-03-2026-03-03-apple-does-fusion.md` — 1363w
+- 2026-03-02 — [Apple Does Value (Week)](https://om.co/2026/03/02/apple-does-value-week/) — `2026-03-02-2026-03-02-apple-does-value-week.md` — 563w
+- 2026-03-02 — [$110 Billion in Name Only](https://om.co/2026/03/02/110-billion-in-name-only/) — `2026-03-02-2026-03-02-110-billion-in-name-only.md` — 479w
+- 2026-03-01 — [What To Read This Weekend](https://om.co/2026/03/01/what-to-read-this-weekend-15/) — `2026-03-01-2026-03-01-what-to-read-this-weekend-15.md` — 664w
+- 2026-02-28 — [Block & Tackle: Job Cuts & the AI Narrative](https://om.co/2026/02/28/block-tackle-job-cuts-the-ai-narrative/) — `2026-02-28-2026-02-28-block-tackle-job-cuts-the-ai-narrative.md` — 1522w
+- 2026-02-27 — [Amazon & The Cost of (AI) Lateness](https://om.co/2026/02/27/amazon-the-cost-of-ai-lateness/) — `2026-02-27-2026-02-27-amazon-the-cost-of-ai-lateness.md` — 1085w
+- 2026-02-24 — [The Big Poppa](https://om.co/2026/02/24/the-big-poppa/) — `2026-02-24-2026-02-24-the-big-poppa.md` — 478w
+- 2026-02-16 — [Sam “Claws” Attention Back OpenAI](https://om.co/2026/02/16/sam-claws-attention-back-openai/) — `2026-02-16-2026-02-16-sam-claws-attention-back-openai.md` — 1182w
+- 2026-02-14 — [YouTube on Vision Pro! Finally!](https://om.co/2026/02/14/youtube-on-vision-pro-finally/) — `2026-02-14-2026-02-14-youtube-on-vision-pro-finally.md` — 377w
+- 2026-02-13 — [Mad Money & The Big AI Race](https://om.co/2026/02/13/mad-money-the-big-ai-race/) — `2026-02-13-2026-02-13-mad-money-the-big-ai-race.md` — 916w
+- 2026-02-12 — [Living in the Petri Dish of the Future](https://om.co/2026/02/12/living-in-the-petri-dish-of-the-future/) — `2026-02-12-2026-02-12-living-in-the-petri-dish-of-the-future.md` — 787w
+- 2026-02-12 — [Is Waymo Worth $126 Billion?](https://om.co/2026/02/12/is-waymo-worth-126-billion/) — `2026-02-12-2026-02-12-is-waymo-worth-126-billion.md` — 1559w
+- 2026-02-09 — [Conveniencing Ourselves to Irrelevance](https://om.co/2026/02/09/conveniencing-ourselves-to-irrelevance/) — `2026-02-09-2026-02-09-conveniencing-ourselves-to-irrelevance.md` — 1469w
+- 2026-02-06 — [The Greatest Invention is….](https://om.co/2026/02/06/the-greatest-invention-is/) — `2026-02-06-2026-02-06-the-greatest-invention-is.md` — 681w
+- 2026-02-06 — [How AI Goes to Work](https://om.co/2026/02/06/how-ai-goes-to-work/) — `2026-02-06-2026-02-06-how-ai-goes-to-work.md` — 2634w
+- 2026-02-04 — [Our Crazy Unhinged Now](https://om.co/2026/02/04/our-crazy-unhinged-present/) — `2026-02-04-2026-02-04-our-crazy-unhinged-present.md` — 1389w
+- 2026-02-04 — [OpenClaw is Hawt](https://om.co/2026/02/04/openclaw-is-hawt/) — `2026-02-04-2026-02-04-openclaw-is-hawt.md` — 131w
+- 2026-02-03 — [Word Boost](https://om.co/2026/02/03/word-boost/) — `2026-02-03-2026-02-03-word-boost.md` — 174w
+- 2026-02-02 — [The New Announcement Economy](https://om.co/2026/02/02/openai-and-the-announcement-economy/) — `2026-02-02-2026-02-02-openai-and-the-announcement-economy.md` — 991w
+- 2026-02-02 — [The Dark Side of FOMO](https://om.co/2026/02/02/the-dark-side-of-fomo/) — `2026-02-02-2026-02-02-the-dark-side-of-fomo.md` — 387w
+- 2026-02-01 — [Why Tech (&) Media is complicated](https://om.co/2026/02/01/why-tech-media-is-complicated/) — `2026-02-01-2026-02-01-why-tech-media-is-complicated.md` — 1748w
+- 2026-01-27 — [A CEO, Captured.](https://om.co/2026/01/27/a-ceo-captured/) — `2026-01-27-2026-01-27-a-ceo-captured.md` — 370w
+- 2026-01-26 — [Does Evidence Even Matter?](https://om.co/2026/01/26/does-evidence-even-matter/) — `2026-01-26-2026-01-26-does-evidence-even-matter.md` — 1677w
+- 2026-01-25 — [The Joy of Neo-noir](https://om.co/2026/01/25/neo-noir/) — `2026-01-25-2026-01-25-neo-noir.md` — 1975w
+- 2026-01-21 — [Velocity Is the New Authority. Here’s Why](https://om.co/2026/01/21/velocity-is-the-new-authority-heres-why/) — `2026-01-21-2026-01-21-velocity-is-the-new-authority-heres-why.md` — 1652w
+- 2026-01-16 — [Our Algorithmic Grey-Beige World](https://om.co/2026/01/16/our-algorithmic-grey-beige-world/) — `2026-01-16-2026-01-16-our-algorithmic-grey-beige-world.md` — 1344w
+- 2026-01-07 — [Who decides what’s real in the age of AI? Instagram does.](https://om.co/2026/01/07/who-decides-whats-real-in-the-age-of-ai-instagram-does/) — `2026-01-07-2026-01-07-who-decides-whats-real-in-the-age-of-ai-instagram-does.md` — 1231w
+- 2026-01-01 — [What is Instagram’s Adam Mosseri really saying in his year-end memo?](https://om.co/2026/01/01/what-is-instagrams-adam-mosseri-really-saying-in-his-year-end-memo/) — `2026-01-01-2026-01-01-what-is-instagrams-adam-mosseri-really-saying-in-his-year-end-memo.md` — 1798w
+- 2026-01-01 — [Welcome to 2026.](https://om.co/2026/01/01/welcome-to-2026/) — `2026-01-01-2026-01-01-welcome-to-2026.md` — 604w
+- 2026-01-01 — [A Pen Hobbyist Looks Back at 2025](https://om.co/2026/01/01/a-pen-hobbyist-looks-back-at-2025/) — `2026-01-01-2026-01-01-a-pen-hobbyist-looks-back-at-2025.md` — 1491w
+- 2025-12-31 — [My Top Ten Pens of  2025](https://om.co/2025/12/31/my-top-ten-pens-of-2025/) — `2025-12-31-2025-12-31-my-top-ten-pens-of-2025.md` — 1377w
+- 2025-12-30 — [A Morning (Photo) Walk](https://om.co/2025/12/30/a-morning-photo-walk/) — `2025-12-30-2025-12-30-a-morning-photo-walk.md` — 215w
+- 2025-12-27 — [#18 & AI: 2025 Reading List](https://om.co/2025/12/27/18-ai-2025-reading-list/) — `2025-12-27-2025-12-27-18-ai-2025-reading-list.md` — 905w
+- 2025-12-17 — [Lady In Red](https://om.co/2025/12/17/lady-in-red/) — `2025-12-17-2025-12-17-lady-in-red.md` — 211w

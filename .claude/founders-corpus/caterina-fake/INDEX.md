@@ -1,0 +1,88 @@
+# Caterina Fake corpus index
+
+Source: https://caterina.net — fetched 2026-07-20
+83 posts, 38814 words. Format: date — [title](canonical url) — `file` — words.
+
+- 2026-01-14 — [Bed for Dreaming: Caterina Fake interviewed by Natasha Boas](https://caterina.net/2026/01/14/bed-for-dreaming/) — `2026-01-14-2026-01-14-bed-for-dreaming.md` — 1266w
+- 2023-11-02 — [What Would Herzog Do?](https://caterina.net/2023/11/02/what-would-herzog-do/) — `2023-11-02-2023-11-02-what-would-herzog-do.md` — 1099w
+- 2023-10-09 — [W. Kamau Bell on the Ingenious podcast](https://caterina.net/2023/10/09/w-kamau-bell-on-the-ingenious-podcast/) — `2023-10-09-2023-10-09-w-kamau-bell-on-the-ingenious-podcast.md` — 339w
+- 2023-09-27 — [Dave Eggers on the Ingenious podcast](https://caterina.net/2023/09/27/dave-eggers-on-ingenious/) — `2023-09-27-2023-09-27-dave-eggers-on-ingenious.md` — 1590w
+- 2023-09-21 — [Reading by Night: The Makioka Sisters](https://caterina.net/2023/09/21/reading-by-night/) — `2023-09-21-2023-09-21-reading-by-night.md` — 480w
+- 2022-11-24 — [Thanksgiving debunked](https://caterina.net/2022/11/24/thanksgiving-debunked/) — `2022-11-24-2022-11-24-thanksgiving-debunked.md` — 393w
+- 2022-11-22 — [](https://caterina.net/2022/11/21/7782/) — `2022-11-22-2022-11-21-7782.md` — 194w
+- 2022-11-22 — [The Twitter Advertiser Exodus](https://caterina.net/2022/11/21/the-twitter-advertiser-exodus/) — `2022-11-22-2022-11-21-the-twitter-advertiser-exodus.md` — 839w
+- 2022-11-22 — [A List of Non-Crazy Conservative Journalists and Commentators](https://caterina.net/2022/11/21/a-list-of-non-crazy-conservative-journalists-and-commentators/) — `2022-11-22-2022-11-21-a-list-of-non-crazy-conservative-journalists-and-commentators.md` — 146w
+- 2022-09-19 — [Complex Personhood](https://caterina.net/2022/09/19/complex-personhood/) — `2022-09-19-2022-09-19-complex-personhood.md` — 423w
+- 2022-03-04 — [How Russians think, and why they do what they do](https://caterina.net/2022/03/04/how-russians-think-and-why-they-do-what-they-do/) — `2022-03-04-2022-03-04-how-russians-think-and-why-they-do-what-they-do.md` — 2009w
+- 2022-01-10 — [Nothing Talk](https://caterina.net/2022/01/10/nothing-talk/) — `2022-01-10-2022-01-10-nothing-talk.md` — 207w
+- 2021-09-27 — [The Dutch House](https://caterina.net/2021/09/27/the-dutch-house/) — `2021-09-27-2021-09-27-the-dutch-house.md` — 131w
+- 2021-08-20 — [What to call Prostituted Women & Children](https://caterina.net/2021/08/20/what-to-call-prostituted-women-children/) — `2021-08-20-2021-08-20-what-to-call-prostituted-women-children.md` — 261w
+- 2021-04-26 — [Hooray, Hooray the first of May!](https://caterina.net/2021/04/25/hooray-hooray-the-first-of-may/) — `2021-04-26-2021-04-25-hooray-hooray-the-first-of-may.md` — 270w
+- 2021-04-16 — [Fraudulent reviews on Indeed.com, with an assist from Indeed itself](https://caterina.net/2021/04/16/fraudulent-reviews-on-indeed-com-with-an-assist-from-indeed-itself/) — `2021-04-16-2021-04-16-fraudulent-reviews-on-indeed-com-with-an-assist-from-indeed-itself.md` — 389w
+- 2021-02-17 — [Fellini & Scorsese](https://caterina.net/2021/02/16/fellini-scorsese-and-me/) — `2021-02-17-2021-02-16-fellini-scorsese-and-me.md` — 477w
+- 2020-12-19 — [Recommendations for Migri](https://caterina.net/2020/12/19/recommendations-for-migri/) — `2020-12-19-2020-12-19-recommendations-for-migri.md` — 600w
+- 2020-10-10 — [Race Relief](https://caterina.net/2020/10/09/race-relief/) — `2020-10-10-2020-10-09-race-relief.md` — 485w
+- 2020-10-04 — [September Reading](https://caterina.net/2020/10/04/september-reading/) — `2020-10-04-2020-10-04-september-reading.md` — 370w
+- 2020-09-07 — [QAnon, Satan, and the Perfect Victim](https://caterina.net/2020/09/07/qanon-satan-and-the-perfect-victim/) — `2020-09-07-2020-09-07-qanon-satan-and-the-perfect-victim.md` — 1377w
+- 2020-09-01 — [August Reading](https://caterina.net/2020/09/01/august-reading/) — `2020-09-01-2020-09-01-august-reading.md` — 242w
+- 2020-08-11 — [Nice White Parents and Point Omega](https://caterina.net/2020/08/11/nice-white-parents-and-point-omega/) — `2020-08-11-2020-08-11-nice-white-parents-and-point-omega.md` — 269w
+- 2020-08-11 — [Middlemarch and Civil Society. Chapters 23](https://caterina.net/2020/08/11/middlemarch-and-civil-society-chapters-23-42/) — `2020-08-11-2020-08-11-middlemarch-and-civil-society-chapters-23-42.md` — 546w
+- 2020-08-03 — [July Reading](https://caterina.net/2020/08/03/july-reading/) — `2020-08-03-2020-08-03-july-reading.md` — 240w
+- 2020-08-02 — [Vocabulary loss and the narrowing of understanding](https://caterina.net/2020/08/02/vocabulary-loss-and-the-narrowing-of-understanding/) — `2020-08-02-2020-08-02-vocabulary-loss-and-the-narrowing-of-understanding.md` — 858w
+- 2020-07-31 — [Racial Injustice & the Bill of Rights](https://caterina.net/2020/07/31/racial-injustice-the-bill-of-rights/) — `2020-07-31-2020-07-31-racial-injustice-the-bill-of-rights.md` — 736w
+- 2020-07-30 — [Middlemarch Diary #2, Chapters 14](https://caterina.net/2020/07/30/middlemarch-diary-2-pages-52-131/) — `2020-07-30-2020-07-30-middlemarch-diary-2-pages-52-131.md` — 560w
+- 2020-07-20 — [Middlemarch Diary. Prologue & Chapters 1](https://caterina.net/2020/07/20/middlemarch-diary-prologue-pages-1-51/) — `2020-07-20-2020-07-20-middlemarch-diary-prologue-pages-1-51.md` — 463w
+- 2020-07-04 — [June Quarantine Reading](https://caterina.net/2020/07/04/june-quarantine-reading/) — `2020-07-04-2020-07-04-june-quarantine-reading.md` — 255w
+- 2020-04-20 — [Community-run testing for COVID](https://caterina.net/2020/04/20/community-run-testing-for-covid-19/) — `2020-04-20-2020-04-20-community-run-testing-for-covid-19.md` — 723w
+- 2020-02-08 — [Freedom Colonies](https://caterina.net/2020/02/08/freedom-colonies/) — `2020-02-08-2020-02-08-freedom-colonies.md` — 669w
+- 2019-12-27 — [Help the Kelp and eat Purple Sea Urchin](https://caterina.net/2019/12/27/help-the-kelp-and-eat-purple-sea-urchin/) — `2019-12-27-2019-12-27-help-the-kelp-and-eat-purple-sea-urchin.md` — 300w
+- 2019-11-12 — [San Francisco Politics, PG&E](https://caterina.net/2019/11/12/san-francisco-politics-pge/) — `2019-11-12-2019-11-12-san-francisco-politics-pge.md` — 529w
+- 2019-08-15 — [“This is where people can learn to rely on each other”](https://caterina.net/2019/08/15/this-is-where-people-can-learn-to-rely-on-each-other/) — `2019-08-15-2019-08-15-this-is-where-people-can-learn-to-rely-on-each-other.md` — 166w
+- 2019-07-30 — [Planting a Trillion Trees](https://caterina.net/2019/07/30/planting-a-trillion-trees/) — `2019-07-30-2019-07-30-planting-a-trillion-trees.md` — 129w
+- 2019-05-08 — [How to Prevent Domestic Violence](https://caterina.net/2019/05/07/how-to-prevent-domestic-violence/) — `2019-05-08-2019-05-07-how-to-prevent-domestic-violence.md` — 175w
+- 2019-04-30 — [The Believer Festival](https://caterina.net/2019/04/30/the-believer-festival/) — `2019-04-30-2019-04-30-the-believer-festival.md` — 169w
+- 2019-04-09 — [The Din & Boom](https://caterina.net/2019/04/09/the-din-boom/) — `2019-04-09-2019-04-09-the-din-boom.md` — 853w
+- 2019-03-29 — [Appalled by Sexism in the Valley? Meet the Tech Bros of Finland](https://caterina.net/2019/03/29/appalled-by-sexism-in-the-valley-meet-the-tech-bros-of-finland-2/) — `2019-03-29-2019-03-29-appalled-by-sexism-in-the-valley-meet-the-tech-bros-of-finland-2.md` — 1026w
+- 2019-03-28 — [Wired Podcast, Recycling & Claude Parent](https://caterina.net/2019/03/27/wired-podcast-recycling-claude-parent/) — `2019-03-28-2019-03-27-wired-podcast-recycling-claude-parent.md` — 296w
+- 2019-03-26 — [Finland’s “National Happiness” shouldn’t mean “Move to Finland”](https://caterina.net/2019/03/26/finlands-national-happiness-shouldnt-mean-move-to-finland/) — `2019-03-26-2019-03-26-finlands-national-happiness-shouldnt-mean-move-to-finland.md` — 296w
+- 2019-03-17 — [Emma Kunz](https://caterina.net/2019/03/17/emma-kunz/) — `2019-03-17-2019-03-17-emma-kunz.md` — 202w
+- 2019-03-05 — [Thwarting the Supermajority](https://caterina.net/2019/03/05/thwarting-the-supermajority/) — `2019-03-05-2019-03-05-thwarting-the-supermajority.md` — 310w
+- 2019-02-27 — [Should This Exist? Woebot](https://caterina.net/2019/02/27/should-this-exist-woebot/) — `2019-02-27-2019-02-27-should-this-exist-woebot.md` — 549w
+- 2019-02-27 — [NYT Review of “Mama’s Last Hug”](https://caterina.net/2019/02/26/nyt-review-of-mamas-last-hug/) — `2019-02-27-2019-02-26-nyt-review-of-mamas-last-hug.md` — 399w
+- 2019-02-22 — [Should This Exist: Halo Neuroscience](https://caterina.net/2019/02/21/should-this-exist-halo-neuroscience/) — `2019-02-22-2019-02-21-should-this-exist-halo-neuroscience.md` — 489w
+- 2019-02-20 — [Thoreau the Technophile](https://caterina.net/2019/02/20/thoreau-the-technophile/) — `2019-02-20-2019-02-20-thoreau-the-technophile.md` — 827w
+- 2019-02-08 — [Should This Exist?](https://caterina.net/2019/02/08/should-this-exist/) — `2019-02-08-2019-02-08-should-this-exist.md` — 411w
+- 2019-02-06 — [Scouts, Water, Lorena Bobbit](https://caterina.net/2019/02/06/scouts-water-lorena-bobbit/) — `2019-02-06-2019-02-06-scouts-water-lorena-bobbit.md` — 236w
+- 2019-02-06 — [3 Recommendations: Kanopy, Recomendo and DF Tube](https://caterina.net/2019/02/05/3-recommendations-kanopy-recomendo-and-df-tube/) — `2019-02-06-2019-02-05-3-recommendations-kanopy-recomendo-and-df-tube.md` — 213w
+- 2019-02-01 — [Anxy, Hilma & Vassar](https://caterina.net/2019/01/31/anxy-hilma-vassar/) — `2019-02-01-2019-01-31-anxy-hilma-vassar.md` — 572w
+- 2019-01-17 — [Reducetarian, not vegetarian](https://caterina.net/2019/01/17/reducetarian-not-vegetarian/) — `2019-01-17-2019-01-17-reducetarian-not-vegetarian.md` — 474w
+- 2018-11-28 — [The Environmental Cost of 2 Day Shipping](https://caterina.net/2018/11/27/the-environmental-cost-of-2-day-shipping/) — `2018-11-28-2018-11-27-the-environmental-cost-of-2-day-shipping.md` — 191w
+- 2018-10-27 — [The Social Media Transformation of César Sayoc: I disagree](https://caterina.net/2018/10/27/social-media-transformation-i-disagree/) — `2018-10-27-2018-10-27-social-media-transformation-i-disagree.md` — 159w
+- 2018-09-30 — [Harassment, Redress & Roman Law](https://caterina.net/2018/09/30/kavanaugh-harassment-redress-roman-law/) — `2018-09-30-2018-09-30-kavanaugh-harassment-redress-roman-law.md` — 534w
+- 2018-09-29 — [Great Things, and “The Everglades”, by Marjory Stoneman Douglas](https://caterina.net/2018/09/29/great-things-and-the-everglades-by-marjory-stoneman-douglas/) — `2018-09-29-2018-09-29-great-things-and-the-everglades-by-marjory-stoneman-douglas.md` — 261w
+- 2018-08-07 — [The Anthrobscene](https://caterina.net/2018/08/07/the-anthrobscene/) — `2018-08-07-2018-08-07-the-anthrobscene.md` — 289w
+- 2018-07-18 — [Heidegger, Journalism vs. Trump, Translations](https://caterina.net/2018/07/18/gallimaufry-heidegger-journalism-vs-trump-translations/) — `2018-07-18-2018-07-18-gallimaufry-heidegger-journalism-vs-trump-translations.md` — 443w
+- 2018-04-09 — [Reading & Treecentricity](https://caterina.net/2018/04/09/reading-treecentricity/) — `2018-04-09-2018-04-09-reading-treecentricity.md` — 542w
+- 2018-03-28 — [“Put a king over us”](https://caterina.net/2018/03/28/put-a-king-over-us/) — `2018-03-28-2018-03-28-put-a-king-over-us.md` — 289w
+- 2018-02-07 — [Online Communities Gone Bad (and getting them back on track)](https://caterina.net/2018/02/06/online-communities-gone-bad-and-getting-them-back-on-track/) — `2018-02-07-2018-02-06-online-communities-gone-bad-and-getting-them-back-on-track.md` — 340w
+- 2018-01-24 — [Announcing Yes VC](https://caterina.net/2018/01/24/announcing-yes-vc/) — `2018-01-24-2018-01-24-announcing-yes-vc.md` — 603w
+- 2018-01-18 — [David Bull & Ukiyo-e](https://caterina.net/2018/01/18/david-bull-ukiyo-e/) — `2018-01-18-2018-01-18-david-bull-ukiyo-e.md` — 162w
+- 2018-01-05 — [Massive Stars more Common than Believed](https://caterina.net/2018/01/04/massive-stars-more-common-than-believed/) — `2018-01-05-2018-01-04-massive-stars-more-common-than-believed.md` — 133w
+- 2017-11-21 — [Harassment: ways to cope](https://caterina.net/2017/11/21/harassment/) — `2017-11-21-2017-11-21-harassment.md` — 601w
+- 2017-11-20 — [Heard, read and seen](https://caterina.net/2017/11/20/heard-read-and-seen/) — `2017-11-20-2017-11-20-heard-read-and-seen.md` — 171w
+- 2017-11-19 — [No difference at all](https://caterina.net/2017/11/19/no-difference-at-all/) — `2017-11-19-2017-11-19-no-difference-at-all.md` — 128w
+- 2016-11-12 — [Notes from Wendell Berry's Home Economics](https://caterina.net/2016/11/12/notes-from-wendell-berrys-home-economics/) — `2016-11-12-2016-11-12-notes-from-wendell-berrys-home-economics.md` — 464w
+- 2016-06-06 — [Youth sports are destructive to family life](https://caterina.net/2016/06/05/youth-sports-are-destructive-to-family-life/) — `2016-06-06-2016-06-05-youth-sports-are-destructive-to-family-life.md` — 356w
+- 2016-03-22 — [Comments Sections: A Clarification](https://caterina.net/2016/03/22/comments-sections-a-clarification/) — `2016-03-22-2016-03-22-comments-sections-a-clarification.md` — 356w
+- 2015-02-06 — [Social Peacocking and the Shadow](https://caterina.net/2015/02/05/social-peacocking-and-the-shadow/) — `2015-02-06-2015-02-05-social-peacocking-and-the-shadow.md` — 593w
+- 2014-01-10 — [Parenting, Communities and Crime](https://caterina.net/2014/01/09/parenting-communities-and-crime/) — `2014-01-10-2014-01-09-parenting-communities-and-crime.md` — 523w
+- 2013-07-25 — [Online communities](https://caterina.net/2013/07/24/online-communities/) — `2013-07-25-2013-07-24-online-communities.md` — 918w
+- 2013-06-29 — [Human rights begin in small places](https://caterina.net/2013/06/29/humanrights/) — `2013-06-29-2013-06-29-humanrights.md` — 132w
+- 2012-08-12 — [11 year old boys make a neighborhood](https://caterina.net/2012/08/11/in-the-january/) — `2012-08-12-2012-08-11-in-the-january.md` — 206w
+- 2012-03-12 — [The masters of information have forgotten about poetry](https://caterina.net/2012/03/12/the-masters-of-information-have-forgotten-about-poetry/) — `2012-03-12-2012-03-12-the-masters-of-information-have-forgotten-about-poetry.md` — 121w
+- 2012-01-06 — [Unconscious Schizophrenia in modern business leaders](https://caterina.net/2012/01/05/unconscious-schizophrenia-in-modern-business-leaders/) — `2012-01-06-2012-01-05-unconscious-schizophrenia-in-modern-business-leaders.md` — 297w
+- 2011-07-26 — [Anonymity and Pseudonyms in Social Software](https://caterina.net/2011/07/26/anonymity-and-the-use-of-pseudonyms-in-social-software/) — `2011-07-26-2011-07-26-anonymity-and-the-use-of-pseudonyms-in-social-software.md` — 900w
+- 2011-05-16 — [Creativity, Collaboration and Hacking](https://caterina.net/2011/05/16/creativity-collaboration-and-hacking/) — `2011-05-16-2011-05-16-creativity-collaboration-and-hacking.md` — 673w
+- 2011-03-15 — [FOMO and Social Media](https://caterina.net/2011/03/15/fomo-and-social-media/) — `2011-03-15-2011-03-15-fomo-and-social-media.md` — 524w
+- 2011-01-02 — [Tinkering as Learning](https://caterina.net/2011/01/02/tinkering-as-learning/) — `2011-01-02-2011-01-02-tinkering-as-learning.md` — 247w
+- 2010-08-15 — [Individualism, infantilism](https://caterina.net/2010/08/15/individualism-infantilism/) — `2010-08-15-2010-08-15-individualism-infantilism.md` — 131w

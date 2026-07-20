@@ -1,0 +1,70 @@
+# Hiten Shah corpus index
+
+Source: https://hitenism.com — fetched 2026-07-20
+65 posts, 49643 words. Format: date — [title](canonical url) — `file` — words.
+
+- 2017-04-25 — [Growth hacking was invented with a mint julep and two beers](https://hitenism.com/growth-hacking/) — `2017-04-25-growth-hacking.md` — 2006w
+- 2017-01-20 — [How to Focus When You’re Overwhelmed By Marketing Options](https://hitenism.com/focus-youre-overwhelmed-marketing-options/) — `2017-01-20-focus-youre-overwhelmed-marketing-options.md` — 1652w
+- 2017-01-16 — [We Haven’t Hit Peak SaaS](https://hitenism.com/havent-hit-peak-saas/) — `2017-01-16-havent-hit-peak-saas.md` — 1632w
+- 2017-01-09 — [How To Grow Your Startup By Asking Better Questions](https://hitenism.com/startup-questions/) — `2017-01-09-startup-questions.md` — 1530w
+- 2017-01-06 — [The 3-Step Startup Marketing Framework We Created to Grow KISSmetrics](https://hitenism.com/marketing-framework/) — `2017-01-06-marketing-framework.md` — 2790w
+- 2016-12-26 — [The Best SaaS Articles of 2016 From Around the Web](https://hitenism.com/best-saas-articles-2016/) — `2016-12-26-best-saas-articles-2016.md` — 1504w
+- 2016-11-14 — [Here’s The Content Marketing Assembly Line Based On a Survey of 2,203 Companies](https://hitenism.com/content-marketing-assembly-line/) — `2016-11-14-content-marketing-assembly-line.md` — 1000w
+- 2016-11-07 — [How Amazon Web Services (AWS) Achieved an $11.5B Run Rate by Working Backwards](https://hitenism.com/amazon-working-backwards/) — `2016-11-07-amazon-working-backwards.md` — 1030w
+- 2016-10-17 — [Pitch Deck Templates Won’t Get You Funding, Here’s What You Can Do](https://hitenism.com/pitch-deck-templates-wont-get-funding/) — `2016-10-17-pitch-deck-templates-wont-get-funding.md` — 911w
+- 2016-10-03 — [The Five Most Critical Mistakes Founders Make When Raising Money](https://hitenism.com/mistakes-founders-make-raising-money/) — `2016-10-03-mistakes-founders-make-raising-money.md` — 1304w
+- 2016-09-19 — [3 Lessons that SaaS Founders Should Learn from David Cancel](https://hitenism.com/david-cancel/) — `2016-09-19-david-cancel.md` — 1168w
+- 2016-09-12 — [How Optimizely Shrunk Google’s Market Share by 92%](https://hitenism.com/optimizely-google-website-optimizer/) — `2016-09-12-optimizely-google-website-optimizer.md` — 1251w
+- 2016-08-29 — [Create products that people love by validating your idea first](https://hitenism.com/business-ideas/) — `2016-08-29-business-ideas.md` — 1911w
+- 2016-08-23 — [New eBook: 5 Habits to Building Better Products Faster](https://hitenism.com/product-habits-ebook-announcement/) — `2016-08-23-product-habits-ebook-announcement.md` — 289w
+- 2016-08-15 — [Crawl, Walk, Run: Business Lessons from a Toddler](https://hitenism.com/crawl-walk-run-business-lessons-toddler/) — `2016-08-15-crawl-walk-run-business-lessons-toddler.md` — 725w
+- 2016-08-08 — [Set Your Company Up for Marketing Success by Working Backwards from 15 Million Blog Visits](https://hitenism.com/set-company-marketing-success-working-backwards-15-million-blog-visits/) — `2016-08-08-set-company-marketing-success-working-backwards-15-million-blog-visits.md` — 1824w
+- 2016-08-01 — [Why Less Isn’t Always More for SaaS Sites](https://hitenism.com/less-not-more/) — `2016-08-01-less-not-more.md` — 1333w
+- 2016-07-25 — [27 books every startup ought to read](https://hitenism.com/startup-books/) — `2016-07-25-startup-books.md` — 1922w
+- 2016-07-04 — [How to Build a Brand from Nothing](https://hitenism.com/build-brand/) — `2016-07-04-build-brand.md` — 1128w
+- 2016-06-23 — [Copycat Your Competitors to Take the Market](https://hitenism.com/copycat-competitors-take-market/) — `2016-06-23-copycat-competitors-take-market.md` — 1530w
+- 2016-06-20 — [Free eBook: Content Marketing Playbook from 83,232,461 Website Visits](https://hitenism.com/content-marketing-ebook-announcement/) — `2016-06-20-content-marketing-ebook-announcement.md` — 309w
+- 2016-04-17 — [A Short History of Unicorns](https://hitenism.com/unicorns/) — `2016-04-17-unicorns.md` — 3352w
+- 2016-04-11 — [The First Law of Content Marketing](https://hitenism.com/the-first-law-of-content-marketing/) — `2016-04-11-the-first-law-of-content-marketing.md` — 1331w
+- 2016-03-28 — [Even Unicorns Die Too](https://hitenism.com/even-unicorns-die-too/) — `2016-03-28-even-unicorns-die-too.md` — 195w
+- 2016-02-01 — [Competing in SaaS by Leading With Product](https://hitenism.com/competing-in-saas-by-leading-with-product/) — `2016-02-01-competing-in-saas-by-leading-with-product.md` — 991w
+- 2016-01-17 — [How to Compete in SaaS Today and for the Future](https://hitenism.com/competing-in-saas/) — `2016-01-17-competing-in-saas.md` — 812w
+- 2016-01-11 — [Why we’re focused on product before growth and venture capital](https://hitenism.com/focusing-on-product-before-raising-funding/) — `2016-01-11-focusing-on-product-before-raising-funding.md` — 522w
+- 2016-01-03 — [A new year, a new company](https://hitenism.com/a-new-year-a-new-company/) — `2016-01-03-a-new-year-a-new-company.md` — 396w
+- 2015-05-18 — [731 Slack Users Reveal Why It’s So Addictive](https://hitenism.com/slack-product-market-fit-survey/) — `2015-05-18-slack-product-market-fit-survey.md` — 2288w
+- 2014-11-04 — [You don’t have time for boredom](https://hitenism.com/no-time-for-boredom/) — `2014-11-04-no-time-for-boredom.md` — 273w
+- 2014-11-02 — [Week Four update of the 30 days of blogging challenge](https://hitenism.com/week-four-30-days-of-blogging-challenge/) — `2014-11-02-week-four-30-days-of-blogging-challenge.md` — 144w
+- 2014-11-02 — [Self-funding versus raising money for your business](https://hitenism.com/self-funding-versus-raising-money/) — `2014-11-02-self-funding-versus-raising-money.md` — 282w
+- 2014-11-01 — [A farmer’s lesson for us all](https://hitenism.com/farmers-lesson/) — `2014-11-01-farmers-lesson.md` — 236w
+- 2014-10-31 — [Focus on what’s next](https://hitenism.com/focus-on-whats-next/) — `2014-10-31-focus-on-whats-next.md` — 134w
+- 2014-10-30 — [Learn about a company’s culture with these two questions](https://hitenism.com/company-culture-questions/) — `2014-10-30-company-culture-questions.md` — 288w
+- 2014-10-28 — [The hype cycle and how things become the norm fast](https://hitenism.com/hype-cycle-and-the-norm/) — `2014-10-28-hype-cycle-and-the-norm.md` — 532w
+- 2014-10-27 — [7 books that every lifelong learner should read (and reread)](https://hitenism.com/books-for-lifelong-learners/) — `2014-10-27-books-for-lifelong-learners.md` — 440w
+- 2014-10-26 — [Week Three update of the 30 days of blogging challenge](https://hitenism.com/week-three-30-days-of-blogging/) — `2014-10-26-week-three-30-days-of-blogging.md` — 147w
+- 2014-10-25 — [Give faster feedback by easily editing any webpage](https://hitenism.com/edit-any-website/) — `2014-10-25-edit-any-website.md` — 252w
+- 2014-10-24 — [Facebook Rooms, Mobile Acquisition and Distribution Bets](https://hitenism.com/facebook-rooms-mobile-acquisition-distribution-bets/) — `2014-10-24-facebook-rooms-mobile-acquisition-distribution-bets.md` — 602w
+- 2014-10-23 — [Culture isn’t a chore](https://hitenism.com/culture-isnt-chore/) — `2014-10-23-culture-isnt-chore.md` — 578w
+- 2014-10-21 — [It’s easier than ever to acquire customers for your SaaS business](https://hitenism.com/saas-customer-acquisition/) — `2014-10-21-saas-customer-acquisition.md` — 348w
+- 2014-10-21 — [5 hacks to increase your daily consumption of information](https://hitenism.com/hacks-for-infovores/) — `2014-10-21-hacks-for-infovores.md` — 185w
+- 2014-10-19 — [Week Two update of the 30 days of blogging challenge](https://hitenism.com/week-two-30-days-of-blogging/) — `2014-10-19-week-two-30-days-of-blogging.md` — 150w
+- 2014-10-19 — [Love it or change it](https://hitenism.com/love-change/) — `2014-10-19-love-change.md` — 188w
+- 2014-10-17 — [It just works](https://hitenism.com/just-works/) — `2014-10-17-just-works.md` — 202w
+- 2014-10-16 — [Son, it’s your job to get everyone on the same page](https://hitenism.com/everyone-on-the-same-page/) — `2014-10-16-everyone-on-the-same-page.md` — 253w
+- 2014-10-15 — [Do hard things that scare you](https://hitenism.com/do-hard-things-that-scare-you/) — `2014-10-15-do-hard-things-that-scare-you.md` — 404w
+- 2014-10-14 — [My favorite interview question for early stage startup candidates](https://hitenism.com/startup-interview-question/) — `2014-10-14-startup-interview-question.md` — 231w
+- 2014-10-12 — [Week One update of the 30 days of blogging challenge](https://hitenism.com/week-one-30-days-of-blogging/) — `2014-10-12-week-one-30-days-of-blogging.md` — 174w
+- 2014-10-11 — [30 days of blogging challenge](https://hitenism.com/30-days-of-blogging/) — `2014-10-11-30-days-of-blogging.md` — 288w
+- 2014-10-10 — [Feedback is a gift](https://hitenism.com/critical-feedback/) — `2014-10-10-critical-feedback.md` — 558w
+- 2014-10-09 — [You don’t need more advice, you need more practice](https://hitenism.com/you-need-more-practice/) — `2014-10-09-you-need-more-practice.md` — 580w
+- 2014-10-09 — [Learn faster than you think you can!](https://hitenism.com/learn-faster/) — `2014-10-09-learn-faster.md` — 406w
+- 2014-10-08 — [You’re not the best unless your customers say so](https://hitenism.com/youre-not-the-best-unless-your-customers-say-so/) — `2014-10-08-youre-not-the-best-unless-your-customers-say-so.md` — 599w
+- 2014-10-07 — [Stop comparing yourself to other startups!](https://hitenism.com/stop-comparing-yourself-to-other-startups/) — `2014-10-07-stop-comparing-yourself-to-other-startups.md` — 525w
+- 2014-04-20 — [How I give advice to people](https://hitenism.com/giving-advice/) — `2014-04-20-giving-advice.md` — 428w
+- 2013-12-02 — [Amazon Prime Air](https://hitenism.com/amazon-prime-air/) — `2013-12-02-amazon-prime-air.md` — 171w
+- 2013-12-01 — [On ideas, opinions and execution](https://hitenism.com/opinions-ideas-and-execution/) — `2013-12-01-opinions-ideas-and-execution.md` — 126w
+- 2013-09-04 — [Anger Management](https://hitenism.com/anger-management/) — `2013-09-04-anger-management.md` — 197w
+- 2013-07-19 — [Focus on your own success](https://hitenism.com/focus-on-your-own-success/) — `2013-07-19-focus-on-your-own-success.md` — 145w
+- 2013-05-13 — [Steve Jobs’ Secret of Life](https://hitenism.com/steve-jobs-secret-of-life/) — `2013-05-13-steve-jobs-secret-of-life.md` — 263w
+- 2013-05-03 — [MicroConf](https://hitenism.com/microconf/) — `2013-05-03-microconf.md` — 243w
+- 2013-04-21 — [What’s the greater purpose behind your brand?](https://hitenism.com/purpose-behind-your-brand/) — `2013-04-21-purpose-behind-your-brand.md` — 220w
+- 2013-04-15 — [Joel Spolsky on Pricing Software](https://hitenism.com/joel-spolsky-on-pricing-software/) — `2013-04-15-joel-spolsky-on-pricing-software.md` — 215w

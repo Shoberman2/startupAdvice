@@ -1,0 +1,95 @@
+# Ben Casnocha corpus index
+
+Source: https://casnocha.com — fetched 2026-07-20
+90 posts, 115292 words. Format: date — [title](canonical url) — `file` — words.
+
+- 2026-07-12 — [The Three Ways to Express Disagreement with a Colleague](https://casnocha.com/2026/07/the-three-ways-to-express-disagreement-with-a-colleague.html) — `2026-07-12-2026-07-the-three-ways-to-express-disagreement-with-a-colleague-html.md` — 260w
+- 2026-01-05 — [Remembering Steve Armstrong and His Dhamma Wisdom](https://casnocha.com/2026/01/remembering-steve-armstrong-and-his-dhamma-wisdom.html) — `2026-01-05-2026-01-remembering-steve-armstrong-and-his-dhamma-wisdom-html.md` — 1345w
+- 2026-01-03 — [What I’ve Been Reading](https://casnocha.com/2026/01/what-ive-been-reading-30.html) — `2026-01-03-2026-01-what-ive-been-reading-30-html.md` — 854w
+- 2025-11-08 — [Book Notes: Good Material by Dolly Alderton](https://casnocha.com/2025/11/book-notes-good-material-by-dolly-alderton.html) — `2025-11-08-2025-11-book-notes-good-material-by-dolly-alderton-html.md` — 483w
+- 2025-10-12 — [Book Notes: Either/Or by Elif Batuman](https://casnocha.com/2025/10/book-review-either-or-by-elif-batuman.html) — `2025-10-12-2025-10-book-review-either-or-by-elif-batuman-html.md` — 1528w
+- 2025-07-26 — [Book Notes: Splinters by Leslie Jamison](https://casnocha.com/2025/07/book-notes-splinters-by-leslie-jamison.html) — `2025-07-26-2025-07-book-notes-splinters-by-leslie-jamison-html.md` — 2067w
+- 2025-05-25 — [Adapting to People in Pursuit of Interpersonal Connection](https://casnocha.com/2025/05/adapting-to-people-in-pursuit-of-interpersonal-connection.html) — `2025-05-25-2025-05-adapting-to-people-in-pursuit-of-interpersonal-connection-html.md` — 524w
+- 2025-02-02 — [Forming Conviction and Talking About It on an Investment Team](https://casnocha.com/2025/02/forming-conviction-and-talking-about-it-on-an-investment-team.html) — `2025-02-02-2025-02-forming-conviction-and-talking-about-it-on-an-investment-team-html.md` — 642w
+- 2025-01-18 — [AI Medical Assistants and Pain](https://casnocha.com/2025/01/ai-medical-assistants-and-pain.html) — `2025-01-18-2025-01-ai-medical-assistants-and-pain-html.md` — 523w
+- 2024-12-26 — [Book Review: Late Admissions: Confessions of a Black Conservative](https://casnocha.com/2024/12/book-review-late-admissions-confessions-of-a-black-conservative.html) — `2024-12-26-2024-12-book-review-late-admissions-confessions-of-a-black-conservative-html.md` — 2082w
+- 2024-11-24 — [Book Notes: Love Undetectable and Stay True](https://casnocha.com/2024/11/book-notes-love-undetectable-and-stay-true.html) — `2024-11-24-2024-11-book-notes-love-undetectable-and-stay-true-html.md` — 2016w
+- 2024-10-26 — [Recent Appearances and Interviews](https://casnocha.com/2024/10/recent-appearances-and-interviews.html) — `2024-10-26-2024-10-recent-appearances-and-interviews-html.md` — 154w
+- 2024-09-22 — [Vipassana Meditation Retreat July 2024 with Joseph Goldstein and Kamala Masters](https://casnocha.com/2024/09/vipassana-meditation-retreat-july-2024-with-joseph-goldstein-and-kamala-masters.html) — `2024-09-22-2024-09-vipassana-meditation-retreat-july-2024-with-joseph-goldstein-and-kamala-.md` — 5143w
+- 2024-07-13 — [The Optimal Amount of Early Success for Maximum Long Term Success](https://casnocha.com/2024/07/the-optimal-amount-of-early-success-for-maximum-long-term-success.html) — `2024-07-13-2024-07-the-optimal-amount-of-early-success-for-maximum-long-term-success-html.md` — 452w
+- 2024-04-27 — [“The Cult of Smart” and “How the Elites Ate the Social Justice Movement”](https://casnocha.com/2024/04/the-cult-of-smart-and-how-the-elites-ate-the-social-justice-movement.html) — `2024-04-27-2024-04-the-cult-of-smart-and-how-the-elites-ate-the-social-justice-movement-htm.md` — 1764w
+- 2024-03-17 — [How to Network at an Unstructured Happy Hour](https://casnocha.com/2024/03/how-to-network-at-an-unstructured-happy-hour.html) — `2024-03-17-2024-03-how-to-network-at-an-unstructured-happy-hour-html.md` — 1141w
+- 2024-03-06 — [Team Player vs. Me Player](https://casnocha.com/2024/03/team-player-vs-me-player.html) — `2024-03-06-2024-03-team-player-vs-me-player-html.md` — 268w
+- 2024-01-13 — [Impressions from a Longer Stay in Tokyo (2023)](https://casnocha.com/2024/01/impressions-from-a-longer-stay-in-tokyo-2023.html) — `2024-01-13-2024-01-impressions-from-a-longer-stay-in-tokyo-2023-html.md` — 3659w
+- 2023-12-30 — [Non-Fiction Writers Who Throw Heat](https://casnocha.com/2023/12/non-fiction-writers-who-throw-heat.html) — `2023-12-30-2023-12-non-fiction-writers-who-throw-heat-html.md` — 1807w
+- 2023-12-02 — [Your Last 90 Days at a Company](https://casnocha.com/2023/12/your-last-90-days-at-a-company.html) — `2023-12-02-2023-12-your-last-90-days-at-a-company-html.md` — 379w
+- 2023-11-30 — [Book Short: Klara and the Sun](https://casnocha.com/2023/11/book-short-klara-and-the-sun.html) — `2023-11-30-2023-11-book-short-klara-and-the-sun-html.md` — 195w
+- 2023-10-29 — [Book Review: Vladimir by Julia Jones](https://casnocha.com/2023/10/book-review-vladimir-by-julia-jones.html) — `2023-10-29-2023-10-book-review-vladimir-by-julia-jones-html.md` — 1198w
+- 2023-09-11 — [Book Review: Henry Kissinger by Walter Isaacson](https://casnocha.com/2023/09/book-review-henry-kissinger-by-walter-isaacson.html) — `2023-09-11-2023-09-book-review-henry-kissinger-by-walter-isaacson-html.md` — 1467w
+- 2023-09-05 — [Impressions of Singapore](https://casnocha.com/2023/09/impressions-of-singapore.html) — `2023-09-05-2023-09-impressions-of-singapore-html.md` — 2570w
+- 2023-08-24 — [Marginal Revolution’s 20th Anniversery](https://casnocha.com/2023/08/marginal-revolutions-20th-anniversery.html) — `2023-08-24-2023-08-marginal-revolutions-20th-anniversery-html.md` — 558w
+- 2023-07-23 — [Relaxed Concentration Unlocks a Secret to Winning: Not Trying Too Hard](https://casnocha.com/2023/07/relaxed-concentration-unlocks-a-secret-to-winning-not-trying-too-hard.html) — `2023-07-23-2023-07-relaxed-concentration-unlocks-a-secret-to-winning-not-trying-too-hard-ht.md` — 1384w
+- 2023-07-04 — [Fintech Preferences from the Unbanked of Cambodia](https://casnocha.com/2023/07/fintech-preferences-from-the-unbanked-of-cambodia.html) — `2023-07-04-2023-07-fintech-preferences-from-the-unbanked-of-cambodia-html.md` — 362w
+- 2023-06-16 — [What I’ve Been Reading (June, 2023)](https://casnocha.com/2023/06/what-ive-been-reading-june-2023.html) — `2023-06-16-2023-06-what-ive-been-reading-june-2023-html.md` — 4005w
+- 2023-05-31 — [Arriving in a New Place: Bolivia](https://casnocha.com/2023/05/arriving-in-a-new-place-bolivia.html) — `2023-05-31-2023-05-arriving-in-a-new-place-bolivia-html.md` — 633w
+- 2023-04-30 — [Hiring Superstars is Different](https://casnocha.com/2023/04/hiring-superstars-is-different.html) — `2023-04-30-2023-04-hiring-superstars-is-different-html.md` — 613w
+- 2023-02-18 — [Thinking Clearly about a Person’s Substance Amidst Stylistic Differences](https://casnocha.com/2023/02/thinking-clearly-about-a-persons-substance-amidst-stylistic-differences.html) — `2023-02-18-2023-02-thinking-clearly-about-a-persons-substance-amidst-stylistic-differences-.md` — 487w
+- 2023-01-22 — [On Intentionally Vague, Mystique-Infused Explanations of Talent](https://casnocha.com/2023/01/on-intentionally-vague-mystique-infused-explanations-of-talent.html) — `2023-01-22-2023-01-on-intentionally-vague-mystique-infused-explanations-of-talent-html.md` — 512w
+- 2023-01-08 — [Book Notes: Lost & Found by Kathryn Shulz](https://casnocha.com/2023/01/book-notes-lost-found-by-kathryn-shulz.html) — `2023-01-08-2023-01-book-notes-lost-found-by-kathryn-shulz-html.md` — 2583w
+- 2022-09-25 — [What I’ve Been Reading (September, 2022)](https://casnocha.com/2022/09/what-ive-been-reading-september-2022.html) — `2022-09-25-2022-09-what-ive-been-reading-september-2022-html.md` — 5688w
+- 2022-06-19 — [“Mindfulness of Consciousness” Meditation Retreat](https://casnocha.com/2022/06/mindfulness-of-consciousness-meditation-retreat.html) — `2022-06-19-2022-06-mindfulness-of-consciousness-meditation-retreat-html.md` — 4210w
+- 2022-05-29 — [Book Notes: The Mind Illuminated](https://casnocha.com/2022/05/book-notes-the-mind-illuminated.html) — `2022-05-29-2022-05-book-notes-the-mind-illuminated-html.md` — 2993w
+- 2022-05-08 — [10 Year Anniversary Edition of Startup of You](https://casnocha.com/2022/05/10-year-anniversary-edition-of-startup-of-you.html) — `2022-05-08-2022-05-10-year-anniversary-edition-of-startup-of-you-html.md` — 171w
+- 2022-03-19 — [The Interdependence of Animals and the Human Kingdom](https://casnocha.com/2022/03/the-interdependence-of-animals-and-the-human-kingdom.html) — `2022-03-19-2022-03-the-interdependence-of-animals-and-the-human-kingdom-html.md` — 528w
+- 2022-02-14 — [Book Review: Crossroads by Jonathan Franzen](https://casnocha.com/2022/02/book-review-crossroads-by-jonathan-franzen.html) — `2022-02-14-2022-02-book-review-crossroads-by-jonathan-franzen-html.md` — 1336w
+- 2022-01-13 — [Book Reviews: The Sweet Spot and 4,000 Weeks, on Happiness and Meaning and Time Management](https://casnocha.com/2022/01/book-reviews-the-sweet-spot-and-4000-weeks-on-happiness-and-meaning-and-time-management.html) — `2022-01-13-2022-01-book-reviews-the-sweet-spot-and-4000-weeks-on-happiness-and-meaning-and-.md` — 2533w
+- 2021-10-03 — [What I’ve Been Reading (September 2021)](https://casnocha.com/2021/10/what-ive-been-reading-september-2021.html) — `2021-10-03-2021-10-what-ive-been-reading-september-2021-html.md` — 2611w
+- 2021-08-07 — [Are Covid Restrictions the New TSA?](https://casnocha.com/2021/08/are-covid-restrictions-the-new-tsa.html) — `2021-08-07-2021-08-are-covid-restrictions-the-new-tsa-html.md` — 133w
+- 2021-07-25 — [The Future of VC and Lessons from Village Global](https://casnocha.com/2021/07/the-future-of-vc-and-lessons-from-village-global.html) — `2021-07-25-2021-07-the-future-of-vc-and-lessons-from-village-global-html.md` — 180w
+- 2021-05-17 — [The Code Breakers](https://casnocha.com/2021/05/the-code-breakers.html) — `2021-05-17-2021-05-the-code-breakers-html.md` — 307w
+- 2021-04-17 — [Planet of Cops](https://casnocha.com/2021/04/planet-of-cops.html) — `2021-04-17-2021-04-planet-of-cops-html.md` — 345w
+- 2021-04-04 — [Two Podcast Interviews: Michael Balaoing (Public Speaking Coach) and Elliot Shmukler (Legendary PM)](https://casnocha.com/2021/04/two-podcast-interviews-michael-balaoing-public-speaking-coach-and-elliot-shmukler-legendary-pm.html) — `2021-04-04-2021-04-two-podcast-interviews-michael-balaoing-public-speaking-coach-and-elliot.md` — 316w
+- 2021-03-17 — [Book Review: Ron Chernow’s Biography of Ulysses S. Grant](https://casnocha.com/2021/03/book-review-ron-chernows-biography-of-ulysses-s-grant.html) — `2021-03-17-2021-03-book-review-ron-chernows-biography-of-ulysses-s-grant-html.md` — 4274w
+- 2021-03-11 — [Breath Work and James Nestor’s “Breath”](https://casnocha.com/2021/03/breath-work-and-james-nestors-breath.html) — `2021-03-11-2021-03-breath-work-and-james-nestors-breath-html.md` — 1785w
+- 2021-02-13 — [Clubhouse and Continuous Partial Attention](https://casnocha.com/2021/02/clubhouse-and-continuous-partial-attention.html) — `2021-02-13-2021-02-clubhouse-and-continuous-partial-attention-html.md` — 775w
+- 2021-01-23 — [What I Read Over the Holidays](https://casnocha.com/2021/01/what-read-holidays.html) — `2021-01-23-2021-01-what-read-holidays-html.md` — 2660w
+- 2021-01-02 — [Setting Up a Home Sauna and Cold Plunge](https://casnocha.com/2021/01/setting-sauna-plunge.html) — `2021-01-02-2021-01-setting-sauna-plunge-html.md` — 908w
+- 2020-11-29 — [What I’ve Been Reading](https://casnocha.com/2020/11/what-ive-been-reading-29.html) — `2020-11-29-2020-11-what-ive-been-reading-29-html.md` — 610w
+- 2020-11-08 — [What Kinds of People Prefer In-Person vs. Zoom?](https://casnocha.com/2020/11/people-prefer-person.html) — `2020-11-08-2020-11-people-prefer-person-html.md` — 627w
+- 2020-10-11 — [The More Success You Have, The More You Can (and Should) Hire Appropriately-Rated People](https://casnocha.com/2020/10/success-should-appropriately.html) — `2020-10-11-2020-10-success-should-appropriately-html.md` — 966w
+- 2020-10-08 — [Book Reviews: Killing Commendatore and Americanah](https://casnocha.com/2020/10/reviews-commendatore-americanah.html) — `2020-10-08-2020-10-reviews-commendatore-americanah-html.md` — 903w
+- 2020-09-19 — [What I’ve Been Reading (September, 2020)](https://casnocha.com/2020/09/what-reading-september.html) — `2020-09-19-2020-09-what-reading-september-html.md` — 586w
+- 2020-09-07 — [Questions Worth Pondering](https://casnocha.com/2020/09/questions-worth-pondering.html) — `2020-09-07-2020-09-questions-worth-pondering-html.md` — 147w
+- 2020-08-09 — [What I’ve Been Reading (August 2020)](https://casnocha.com/2020/08/what-reading-august.html) — `2020-08-09-2020-08-what-reading-august-html.md` — 1943w
+- 2020-07-19 — [What I’ve Been Reading (in Quarantine)](https://casnocha.com/2020/07/what-reading-quarantine.html) — `2020-07-19-2020-07-what-reading-quarantine-html.md` — 588w
+- 2020-05-23 — [Confidence Placebos](https://casnocha.com/2020/05/confidence-placebos.html) — `2020-05-23-2020-05-confidence-placebos-html.md` — 762w
+- 2020-05-18 — [Nothing in Life is Perfect, Permanent, or Personal](https://casnocha.com/2020/05/nothing-in-life-is-perfect-permanent-or-personal.html) — `2020-05-18-2020-05-nothing-in-life-is-perfect-permanent-or-personal-html.md` — 349w
+- 2020-04-21 — [Most VC Firms Are Fragile Partnerships, Not Institutions](https://casnocha.com/2020/04/most-vc-firms-are-fragile-partnerships-not-institutions.html) — `2020-04-21-2020-04-most-vc-firms-are-fragile-partnerships-not-institutions-html.md` — 487w
+- 2020-04-18 — [“Founder Bets”](https://casnocha.com/2020/04/founder-bets.html) — `2020-04-18-2020-04-founder-bets-html.md` — 709w
+- 2020-03-28 — [Book Review: Just Mercy by Bryan Stevenson](https://casnocha.com/2020/03/book-review-just-mercy-by-bryan-stevenson.html) — `2020-03-28-2020-03-book-review-just-mercy-by-bryan-stevenson-html.md` — 605w
+- 2020-03-07 — [What I’ve Been Reading](https://casnocha.com/2020/03/what-ive-been-reading-28.html) — `2020-03-07-2020-03-what-ive-been-reading-28-html.md` — 879w
+- 2020-02-15 — [Light Suppression vs. Strong Suppression](https://casnocha.com/2020/02/light-suppression-strong.html) — `2020-02-15-2020-02-light-suppression-strong-html.md` — 702w
+- 2020-01-22 — [Book Notes: The Recovering: Intoxication and Its Aftermath](https://casnocha.com/2020/01/recovering-intoxication-aftermath.html) — `2020-01-22-2020-01-recovering-intoxication-aftermath-html.md` — 864w
+- 2020-01-12 — [Sauna Culture in Europe Over the Holidays](https://casnocha.com/2020/01/culture-europe-holidays.html) — `2020-01-12-2020-01-culture-europe-holidays-html.md` — 1060w
+- 2019-12-15 — [Thinking About People Who Have Less Than You Before Writing/Bragging About It](https://casnocha.com/2019/12/thinking-writing-bragging.html) — `2019-12-15-2019-12-thinking-writing-bragging-html.md` — 392w
+- 2019-11-28 — [What I’ve Been Reading](https://casnocha.com/2019/11/what-ive-been-reading-27.html) — `2019-11-28-2019-11-what-ive-been-reading-27-html.md` — 930w
+- 2019-10-29 — [Venture Capital Scout Programs: FAQs](https://casnocha.com/2019/10/venture-capital-programs.html) — `2019-10-29-2019-10-venture-capital-programs-html.md` — 2153w
+- 2019-10-01 — [Book Review: Our Man by George Packer](https://casnocha.com/2019/10/review-george-packer.html) — `2019-10-01-2019-10-review-george-packer-html.md` — 3552w
+- 2019-09-29 — [Lessons and Impressions from T-Group Retreat on Interpersonal Dynamics](https://casnocha.com/2019/09/impressions-interpersonal-dynamics.html) — `2019-09-29-2019-09-impressions-interpersonal-dynamics-html.md` — 3931w
+- 2019-08-31 — [Burning Man 2019](https://casnocha.com/2019/08/burning-man-2019.html) — `2019-08-31-2019-08-burning-man-2019-html.md` — 1643w
+- 2019-08-17 — [My notes from leading a session on Oral Communication](https://casnocha.com/2019/08/leading-session-communication.html) — `2019-08-17-2019-08-leading-session-communication-html.md` — 312w
+- 2019-08-06 — [Keen on Resurfacing Interesting, Old Articles? Paid Internship](https://casnocha.com/2019/08/resurfacing-interesting-internship.html) — `2019-08-06-2019-08-resurfacing-interesting-internship-html.md` — 192w
+- 2019-07-14 — [Scuba Diving in Roatan](https://casnocha.com/2019/07/scuba-diving-roatan.html) — `2019-07-14-2019-07-scuba-diving-roatan-html.md` — 279w
+- 2019-06-30 — [Book Review: The Second Mountain by David Brooks](https://casnocha.com/2019/06/second-mountain-brooks.html) — `2019-06-30-2019-06-second-mountain-brooks-html.md` — 2654w
+- 2019-06-23 — [What I’ve Been Reading](https://casnocha.com/2019/06/what-ive-been-reading-26.html) — `2019-06-23-2019-06-what-ive-been-reading-26-html.md` — 1564w
+- 2019-05-28 — [The Sacred Valley of Peru](https://casnocha.com/2019/05/sacred-valley-peru.html) — `2019-05-28-2019-05-sacred-valley-peru-html.md` — 1280w
+- 2019-05-04 — [Why Do So Many VCs Say They’re Introverted?](https://casnocha.com/2019/05/many-theyre-introverted.html) — `2019-05-04-2019-05-many-theyre-introverted-html.md` — 1090w
+- 2019-04-28 — [Village Global: Hiring, Network Catalyst, Founder Retreat](https://casnocha.com/2019/04/catalyst-founder-retreat.html) — `2019-04-28-2019-04-catalyst-founder-retreat-html.md` — 131w
+- 2019-04-23 — [How I Officiated a Wedding](https://casnocha.com/2019/04/how-officiated-wedding.html) — `2019-04-23-2019-04-how-officiated-wedding-html.md` — 814w
+- 2019-04-17 — [Book Review: An American Marriage](https://casnocha.com/2019/04/review-american-marriage.html) — `2019-04-17-2019-04-review-american-marriage-html.md` — 454w
+- 2019-03-21 — [Smart Is Not Enough: What Marc Benioff Taught Me When I Was 15 Years Old](https://casnocha.com/2019/03/enough-benioff-taught.html) — `2019-03-21-2019-03-enough-benioff-taught-html.md` — 1117w
+- 2019-03-20 — [I’ve Been Off Instagram in 2019 (and Book Review: Digital Minimalism by Cal Newport)](https://casnocha.com/2019/03/instagram-minimalism-newport.html) — `2019-03-20-2019-03-instagram-minimalism-newport-html.md` — 715w
+- 2019-03-12 — [The Wisdom of Eric Ries](https://casnocha.com/2019/03/wisdom-eric-ries.html) — `2019-03-12-2019-03-wisdom-eric-ries-html.md` — 529w
+- 2019-02-28 — [Book Notes: The Point Is by Lee Eisenberg](https://casnocha.com/2019/02/notes-point-eisenberg.html) — `2019-02-28-2019-02-notes-point-eisenberg-html.md` — 1079w
+- 2019-02-13 — [Book Review: 11/22/63 by Stephen King](https://casnocha.com/2019/02/book-review-11-22-63.html) — `2019-02-13-2019-02-book-review-11-22-63-html.md` — 280w
+- 2019-01-06 — [Impressions of Vietnam and Taiwan](https://casnocha.com/2019/01/impressions-vietnam-taiwan.html) — `2019-01-06-2019-01-impressions-vietnam-taiwan-html.md` — 2003w
