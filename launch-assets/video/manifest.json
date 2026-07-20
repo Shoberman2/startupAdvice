@@ -1,0 +1,29 @@
+{
+  "title": "Founder Panel terminal demo",
+  "purpose": "Product Hunt launch gallery video",
+  "source": "launch-assets/video/terminal-demo.html",
+  "renderScript": "launch-assets/video/render-terminal-demo.mjs",
+  "deliverables": {
+    "video": "public/launch/founder-panel-terminal-demo.mp4",
+    "poster": "public/launch/founder-panel-terminal-demo-poster.png"
+  },
+  "specification": {
+    "width": 1920,
+    "height": 1080,
+    "durationSeconds": 24,
+    "frameRate": 30,
+    "videoCodec": "H.264",
+    "pixelFormat": "yuv420p",
+    "audio": false
+  },
+  "brand": {
+    "paper": "#F4F0E7",
+    "ink": "#171714",
+    "accent": "#A03B2A"
+  },
+  "provenance": [
+    "Terminal interface, copy, logo, counts, citations, and disclaimer are deterministic HTML overlays.",
+    "Camera zoom and pan are CSS animation; no third-party video generator was used.",
+    "The board-member lines are labeled synthesis lenses and mirror approved landing-page copy."
+  ]
+}

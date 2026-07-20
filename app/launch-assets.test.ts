@@ -1,4 +1,4 @@
-import { readFileSync } from "node:fs";
+import { readFileSync, statSync } from "node:fs";
 import { join } from "node:path";
 import sharp from "sharp";
 import { describe, expect, test } from "vitest";
@@ -21,6 +21,30 @@ function pngMetadata(relativePath: string) {
 }
 
 describe("Product Hunt launch assets", () => {
+  test("keeps the Product Hunt tagline and description within listing limits", () => {
+    const launchCopy = readFileSync(join(ROOT, "PRODUCT_HUNT.md"), "utf8");
+    const tagline = /## Tagline\s+([^\n]+)/.exec(launchCopy)?.[1].trim();
+    const description = /## Description\s+([^\n]+)/.exec(launchCopy)?.[1].trim();
+
+    expect(tagline).toBe("Startup advice grounded in 50 founders' public writing");
+    expect(tagline?.length).toBeLessThanOrEqual(60);
+    expect(description?.length).toBeLessThanOrEqual(260);
+    expect(description).toContain("20,347 public posts");
+    expect(description).toContain("50 founders and investors");
+  });
+
+  test("ships a playable 1080p Product Hunt demo and poster", async () => {
+    const videoPath = join(ROOT, "public", "launch", "founder-panel-terminal-demo.mp4");
+    const video = readFileSync(videoPath);
+    const poster = await sharp(join(ROOT, "public", "launch", "founder-panel-terminal-demo-poster.png"))
+      .metadata();
+
+    expect(video.subarray(4, 8).toString("ascii")).toBe("ftyp");
+    expect(statSync(videoPath).size).toBeGreaterThan(1_000_000);
+    expect(poster.width).toBe(1920);
+    expect(poster.height).toBe(1080);
+  });
+
   test.each([
     ["public/brand/founder-panel-logo.png", 1254],
     ["public/brand/founder-panel-product-hunt.png", 930],
