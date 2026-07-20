@@ -18,7 +18,7 @@ import { join } from "node:path";
 import { htmlToParagraphs, politeFetch, checkRobotsTxt } from "../lib/scrape/base";
 
 const FEED = "https://blog.garrytan.com/posts.atom";
-const OUT_DIR = join(import.meta.dir, "..", ".claude", "founders-corpus", "garry-tan");
+const OUT_DIR = join(import.meta.dirname, "..", ".claude", "founders-corpus", "garry-tan");
 const MIN_POST_WORDS = 120;
 const MAX_POST_WORDS = 15_000;
 

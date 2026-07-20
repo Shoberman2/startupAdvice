@@ -10,7 +10,7 @@ import { readdir, readFile, stat } from "node:fs/promises";
 import { join } from "node:path";
 import { FOUNDER_SOURCE_BY_SLUG } from "../data/founder-sources";
 
-const ROOT = join(import.meta.dir, "..");
+const ROOT = join(import.meta.dirname, "..");
 const CORPUS_ROOT = join(ROOT, ".claude", "founders-corpus");
 const MIN_FOUNDERS = 30;
 const MIN_POSTS = 8;
