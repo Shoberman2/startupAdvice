@@ -80,6 +80,15 @@ describe("Product Hunt launch assets", () => {
     expect(minimumAlpha).toBe(255);
   });
 
+  test("ships the Founder Panel mark as a classic browser favicon", () => {
+    const favicon = readFileSync(join(ROOT, "app", "favicon.ico"));
+
+    expect(favicon.subarray(0, 6)).toEqual(Buffer.from([0, 0, 1, 0, 1, 0]));
+    expect(favicon[6]).toBe(64);
+    expect(favicon[7]).toBe(64);
+    expect(favicon.readUInt16LE(12)).toBe(32);
+  });
+
   test("renders the compact logo in both the header and footer", () => {
     const page = readFileSync(join(ROOT, "app", "page.tsx"), "utf8");
     const logoReferences = page.match(/src="\/brand\/founder-panel-product-hunt\.png"/g) ?? [];

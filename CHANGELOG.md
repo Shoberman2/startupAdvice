@@ -6,7 +6,8 @@
 
 - You can launch Founder Panel with a classic `FP` logo, platform-matched Product Hunt thumbnail, app icon, ready-to-paste listing copy, and a 1080p terminal demo in `PRODUCT_HUNT.md`.
 - The landing page now embeds the 24-second terminal walkthrough with a responsive, accessible video player and poster frame.
-- Release checks now validate the launch images and video, listing limits, responsive safeguards, corpus merge precedence, and supported `--only` argument forms with 52 automated tests.
+- The FP logo now ships as a classic `/favicon.ico` fallback alongside the high-resolution PNG icon for consistent browser-tab branding.
+- Release checks now validate the launch images and video, favicon, listing limits, responsive safeguards, corpus merge precedence, and supported `--only` argument forms with 53 automated tests.
 
 ### Fixed
 
