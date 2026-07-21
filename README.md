@@ -2,7 +2,7 @@
 
 **Source-grounded one on one startup advice for Claude Code.**
 
-Founder Panel is two open-source Claude Code skills backed by URL indexes for 50 founders and investors and 4,057 public essays and posts:
+Founder Panel is two open-source Claude Code skills backed by URL indexes for 50 founders and investors and 20,347 public essays and posts:
 
 - `/founder-conversation` — choose one person for a focused, cited conversation.
 - `/board-room` — seat 2–5 people for openings, cross-examination, and synthesis.
@@ -65,12 +65,18 @@ Build one person only:
 bun run founders:corpus --only paul-graham
 ```
 
+Build several people with comma-separated or repeated `--only` values:
+
+```bash
+bun run founders:corpus --only paul-graham,naval --only garry-tan
+```
+
 ## Verify
 
 ```bash
 bun run founders:validate:release  # clean-clone/index-only contract
 bun run founders:validate          # also checks local full-text copies when present
-bun test                           # scraper regression tests
+bun run test                       # automated regression tests
 bun run build                      # landing-page production build
 ```
 
@@ -89,6 +95,8 @@ data/founder-sources.ts      # public source registry
 lib/scrape/                  # optional local corpus builders
 scripts/                     # corpus build + integrity validation
 ```
+
+See [DESIGN.md](./DESIGN.md) for the visual system and logo assets, [PRODUCT_HUNT.md](./PRODUCT_HUNT.md) for launch copy, and [CHANGELOG.md](./CHANGELOG.md) for release history.
 
 ## Legal and privacy posture
 

@@ -25,6 +25,22 @@ Avoid generic SaaS patterns: gradients, bubbly cards, icon grids, oversized pill
   - hover micro-interactions: offset shadows grow on previews/terminal, nav underlines scale in, button arrows nudge;
   - ambient depth only: fixed film grain overlay and one slow-drifting warm radial glow behind the hero. No other gradients.
 
+## Logo
+
+The primary mark is a compact `FP` printer's monogram: a classic editorial
+colophon with a contemporary brick-red diagonal slash. It should read clearly
+at favicon and Product Hunt thumbnail sizes without drifting into generic SaaS
+or AI imagery.
+
+- **Letterform:** exact capital `FP`, heavy black engraved/woodcut character
+- **Accent:** one restrained diagonal slash in brick red `#A03B2A`
+- **Treatment:** flat, vector-like, high contrast, no gradients or shadows
+- **Background:** opaque warm paper `#F4F0E7` in every shipped asset
+- **Avoid:** robots, light bulbs, speech bubbles, rockets, brains, and extra text
+- **Master:** `public/brand/founder-panel-logo.png`
+- **Square launch asset:** `public/brand/founder-panel-product-hunt.png`
+- **App icon:** `app/icon.png`
+
 ## Composition
 
 The single page contains:

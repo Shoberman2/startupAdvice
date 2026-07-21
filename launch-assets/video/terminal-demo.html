@@ -1,0 +1,516 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Founder Panel terminal demo</title>
+    <style>
+      :root {
+        --paper: #f4f0e7;
+        --paper-deep: #e9e1d4;
+        --ink: #171714;
+        --red: #a03b2a;
+        --red-bright: #d24a31;
+        --rule: #cbc3b4;
+        --muted: #8e887f;
+        --terminal: #131311;
+        --terminal-soft: #201f1b;
+        --terminal-text: #f4f0e7;
+        --terminal-muted: #98948c;
+        --green: #8eaa82;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        width: 1920px;
+        height: 1080px;
+        margin: 0;
+        overflow: hidden;
+        background: var(--paper);
+      }
+
+      body {
+        color: var(--ink);
+        font-family: Inter, "Helvetica Neue", Arial, sans-serif;
+        -webkit-font-smoothing: antialiased;
+      }
+
+      body::before {
+        position: fixed;
+        inset: 0;
+        content: "";
+        pointer-events: none;
+        opacity: 0.26;
+        background-image:
+          linear-gradient(rgba(23, 23, 20, 0.025) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(23, 23, 20, 0.025) 1px, transparent 1px);
+        background-size: 64px 64px;
+      }
+
+      .world {
+        position: relative;
+        width: 100%;
+        height: 100%;
+      }
+
+      .topbar {
+        position: absolute;
+        top: 44px;
+        left: 64px;
+        right: 64px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        z-index: 4;
+      }
+
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: 14px;
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 28px;
+        font-weight: 700;
+        letter-spacing: -0.03em;
+      }
+
+      .brand img {
+        width: 50px;
+        height: 50px;
+        object-fit: cover;
+      }
+
+      .demo-label {
+        border-bottom: 2px solid var(--red);
+        color: #625e57;
+        font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+        font-size: 15px;
+        font-weight: 700;
+        letter-spacing: 0.13em;
+        padding-bottom: 7px;
+        text-transform: uppercase;
+      }
+
+      .intro {
+        position: absolute;
+        top: 128px;
+        left: 90px;
+        z-index: 3;
+        width: 640px;
+        animation: introFade 24s ease forwards;
+      }
+
+      .intro h1 {
+        margin: 0;
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 73px;
+        font-weight: 500;
+        letter-spacing: -0.055em;
+        line-height: 0.94;
+      }
+
+      .intro h1 em {
+        color: var(--red);
+        font-weight: 500;
+      }
+
+      .intro p {
+        width: 520px;
+        margin: 22px 0 0;
+        color: #6f6a62;
+        font-size: 21px;
+        line-height: 1.45;
+      }
+
+      @keyframes introFade {
+        0%, 13% { opacity: 1; transform: translateY(0); }
+        19%, 100% { opacity: 0; transform: translateY(-18px); }
+      }
+
+      .terminal-wrap {
+        position: absolute;
+        top: 214px;
+        left: 250px;
+        width: 1420px;
+        height: 738px;
+        z-index: 2;
+        animation: terminalCamera 24s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+      }
+
+      @keyframes terminalCamera {
+        0%, 12% { top: 325px; left: 770px; width: 1020px; height: 560px; opacity: 0.48; }
+        23%, 49% { top: 214px; left: 250px; width: 1420px; height: 738px; opacity: 1; }
+        58%, 75% { top: 150px; left: 145px; width: 1630px; height: 850px; opacity: 1; }
+        82% { top: 214px; left: 250px; width: 1420px; height: 738px; opacity: 1; filter: none; }
+        87%, 100% { top: 228px; left: 250px; width: 1420px; height: 738px; opacity: 0.14; filter: blur(3px); }
+      }
+
+      .terminal {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        border: 1px solid #3b3933;
+        border-radius: 18px;
+        background: var(--terminal);
+        box-shadow: 0 48px 100px rgba(23, 23, 20, 0.28), 0 12px 30px rgba(23, 23, 20, 0.18);
+      }
+
+      .terminal-bar {
+        height: 62px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        border-bottom: 1px solid #35342f;
+        background: #1b1a17;
+        padding: 0 25px;
+      }
+
+      .dots {
+        display: flex;
+        gap: 10px;
+      }
+
+      .dots i {
+        display: block;
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+        background: #525049;
+      }
+
+      .terminal-title,
+      .grounded {
+        font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+        font-size: 15px;
+        letter-spacing: 0.04em;
+      }
+
+      .terminal-title {
+        position: absolute;
+        left: 50%;
+        color: #77736b;
+        transform: translateX(-50%);
+      }
+
+      .grounded {
+        color: var(--green);
+      }
+
+      .screen {
+        position: relative;
+        height: calc(100% - 62px);
+        padding: 35px 44px 42px;
+        color: var(--terminal-text);
+        font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+        font-size: 22px;
+        line-height: 1.48;
+        animation: screenZoom 24s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+      }
+
+      @keyframes screenZoom {
+        0%, 49% { font-size: 22px; }
+        58%, 75% { font-size: 24px; }
+        82%, 100% { font-size: 22px; }
+      }
+
+      .command-row {
+        display: flex;
+        align-items: flex-start;
+        min-height: 38px;
+      }
+
+      .prompt {
+        width: 31px;
+        flex: 0 0 31px;
+        color: var(--red-bright);
+        font-weight: 700;
+      }
+
+      .cursor {
+        display: inline-block;
+        width: 12px;
+        height: 25px;
+        margin: 0 0 -5px 3px;
+        background: var(--paper);
+        animation: blink 0.78s steps(1) infinite;
+      }
+
+      @keyframes blink {
+        0%, 52% { opacity: 1; }
+        53%, 100% { opacity: 0; }
+      }
+
+      .output {
+        padding-left: 31px;
+      }
+
+      .line {
+        opacity: 0;
+        transform: translateY(8px);
+        animation: lineIn 0.42s ease forwards;
+      }
+
+      @keyframes lineIn {
+        to { opacity: 1; transform: translateY(0); }
+      }
+
+      .status-line {
+        color: var(--terminal-muted);
+        font-size: 18px;
+      }
+
+      .status-line b {
+        color: var(--green);
+        font-weight: 500;
+      }
+
+      .question {
+        margin: 18px 0 11px;
+        color: #d6d1c7;
+      }
+
+      .question strong {
+        color: var(--paper);
+        font-weight: 600;
+      }
+
+      .divider {
+        display: flex;
+        align-items: center;
+        gap: 13px;
+        margin: 17px 0 13px;
+        color: #706c64;
+        font-size: 14px;
+        font-weight: 700;
+        letter-spacing: 0.13em;
+      }
+
+      .divider::after {
+        height: 1px;
+        flex: 1;
+        content: "";
+        background: #3a3833;
+      }
+
+      .lens {
+        display: grid;
+        grid-template-columns: 180px 1fr 42px;
+        gap: 16px;
+        padding: 8px 0;
+        border-bottom: 1px solid rgba(203, 195, 180, 0.1);
+        font-size: 18px;
+      }
+
+      .lens-name {
+        color: #c15a44;
+        font-weight: 700;
+      }
+
+      .lens-copy {
+        color: #ddd8ce;
+      }
+
+      .cite {
+        color: #77736b;
+      }
+
+      .tension {
+        margin-top: 15px;
+        border-left: 3px solid var(--red);
+        padding: 8px 0 8px 17px;
+        color: #f0ebe1;
+        font-size: 18px;
+      }
+
+      .tension span {
+        display: block;
+        margin-bottom: 3px;
+        color: #858078;
+        font-size: 12px;
+        font-weight: 700;
+        letter-spacing: 0.13em;
+        text-transform: uppercase;
+      }
+
+      .sources {
+        margin-top: 13px;
+        color: #716d65;
+        font-size: 14px;
+      }
+
+      .disclosure {
+        position: absolute;
+        right: 36px;
+        bottom: 24px;
+        color: #77736b;
+        font-family: Inter, "Helvetica Neue", Arial, sans-serif;
+        font-size: 13px;
+      }
+
+      .end-card {
+        position: absolute;
+        inset: 0;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        opacity: 0;
+        background: var(--paper);
+        animation: endReveal 24s ease forwards;
+      }
+
+      @keyframes endReveal {
+        0%, 80% { opacity: 0; pointer-events: none; }
+        87%, 100% { opacity: 1; }
+      }
+
+      .end-inner {
+        width: 1240px;
+        display: grid;
+        grid-template-columns: 280px 1fr;
+        align-items: center;
+        gap: 78px;
+      }
+
+      .end-inner img {
+        width: 280px;
+        height: 280px;
+      }
+
+      .end-copy h2 {
+        margin: 0;
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 75px;
+        font-weight: 500;
+        letter-spacing: -0.055em;
+        line-height: 0.98;
+      }
+
+      .end-copy h2 em {
+        color: var(--red);
+        font-weight: 500;
+      }
+
+      .end-copy p {
+        margin: 22px 0 28px;
+        color: #68635c;
+        font-size: 22px;
+      }
+
+      .end-meta {
+        display: flex;
+        align-items: center;
+        gap: 24px;
+      }
+
+      .cta {
+        display: inline-flex;
+        align-items: center;
+        min-height: 58px;
+        padding: 0 22px;
+        background: var(--ink);
+        color: var(--paper);
+        font-size: 17px;
+        font-weight: 700;
+      }
+
+      .free {
+        color: #777168;
+        font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+        font-size: 15px;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="world">
+      <header class="topbar">
+        <div class="brand">
+          <img src="../../public/brand/founder-panel-product-hunt.png" alt="" />
+          <span>Founder Panel</span>
+        </div>
+        <div class="demo-label">Claude Code · live demo</div>
+      </header>
+
+      <section class="intro">
+        <h1>Meet your board.<br /><em>Inside the terminal.</em></h1>
+        <p>Two commands turn public founder writing into source-grounded startup advice.</p>
+      </section>
+
+      <section class="terminal-wrap">
+        <div class="terminal">
+          <div class="terminal-bar">
+            <div class="dots"><i></i><i></i><i></i></div>
+            <div class="terminal-title">claude — founder-panel</div>
+            <div class="grounded">● source-grounded</div>
+          </div>
+          <div class="screen">
+            <div class="command-row">
+              <span class="prompt">›</span>
+              <span id="typed"></span><span class="cursor" id="cursor"></span>
+            </div>
+            <div class="output" id="output"></div>
+            <div class="disclosure">AI syntheses grounded in public writing · not the real people</div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <section class="end-card">
+      <div class="end-inner">
+        <img src="../../public/brand/founder-panel-product-hunt.png" alt="" />
+        <div class="end-copy">
+          <h2>50 minds. 20,347 sources.<br /><em>Two commands.</em></h2>
+          <p>Startup advice grounded in what founders actually wrote.</p>
+          <div class="end-meta">
+            <div class="cta">Get it free on GitHub ↗</div>
+            <div class="free">github.com/Shoberman2/startupAdvice</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <script>
+      const command = "/board-room naval, garry-tan, patrick-collison";
+      const typed = document.querySelector("#typed");
+      const cursor = document.querySelector("#cursor");
+      const output = document.querySelector("#output");
+
+      function addLine(html, className, delay) {
+        window.setTimeout(() => {
+          const line = document.createElement("div");
+          line.className = `line ${className}`;
+          line.innerHTML = html;
+          output.appendChild(line);
+        }, delay);
+      }
+
+      window.setTimeout(() => {
+        let index = 0;
+        const timer = window.setInterval(() => {
+          typed.textContent = command.slice(0, index + 1);
+          index += 1;
+          if (index >= command.length) {
+            window.clearInterval(timer);
+            window.setTimeout(() => { cursor.style.display = "none"; }, 220);
+          }
+        }, 44);
+      }, 3700);
+
+      addLine("<b>✓</b> Seating Naval Ravikant · Garry Tan · Patrick Collison", "status-line", 6100);
+      addLine("<b>✓</b> Grounding 3 independent voices in 436 indexed posts", "status-line", 6900);
+      addLine("<b>✓</b> Keeping every argument attached to its own source", "status-line", 7700);
+      addLine("Question · <strong>Should we sell to operators first, or go bottom-up?</strong>", "question", 8800);
+      addLine("ROUND 1 · SOURCE-GROUNDED OPENINGS", "divider", 9900);
+      addLine('<span class="lens-name">NAVAL LENS</span><span class="lens-copy">Start with leverage: what compounds as each customer joins?</span><span class="cite">[1]</span>', "lens", 10900);
+      addLine('<span class="lens-name">GARRY LENS</span><span class="lens-copy">Find ten people who feel this weekly. Watch them use it.</span><span class="cite">[2]</span>', "lens", 12300);
+      addLine('<span class="lens-name">PATRICK LENS</span><span class="lens-copy">Ask whether the product makes a hard workflow disappear.</span><span class="cite">[3]</span>', "lens", 13700);
+      addLine('<span>CHAIR\'S TENSION</span>High-touch learning loop, or product-led distribution advantage?', "tension", 15100);
+      addLine("[1] nav.al · [2] garrytan.com · [3] patrickcollison.com", "sources", 16400);
+    </script>
+  </body>
+</html>

@@ -21,7 +21,7 @@ Do not add a hosted chat product, API routes, authentication, payments, database
 ```bash
 bun run founders:validate:release
 bun run founders:validate
-bun test
+bun run test
 bun run build
 ```
 

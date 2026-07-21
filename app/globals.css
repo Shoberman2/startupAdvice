@@ -83,18 +83,19 @@ a:focus-visible {
 
 .wordmark {
   display: inline-flex;
-  align-items: baseline;
-  gap: 5px;
+  align-items: center;
+  gap: 8px;
   font-family: var(--serif);
   font-size: 21px;
   font-weight: 600;
   letter-spacing: -0.02em;
 }
 
-.wordmark-mark {
-  color: var(--red);
-  font-family: var(--mono);
-  font-weight: 500;
+.wordmark-logo {
+  flex: 0 0 auto;
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
 }
 
 .site-header nav {
@@ -241,6 +242,14 @@ a:focus-visible {
   font-family: var(--sans);
   font-size: 12px;
   line-height: 1.55;
+}
+
+.hero-founders .hero-disclaimer {
+  max-width: 680px;
+  padding: 12px 16px;
+  border: 1px solid var(--rule);
+  background: var(--paper-deep);
+  color: var(--ink);
 }
 
 .avatar-stack {
@@ -893,10 +902,14 @@ a:focus-visible {
   grid-column: 1 / -1;
   color: var(--muted);
   font-family: var(--sans);
-  font-size: 9px;
+  font-size: 10px;
+  line-height: 1.6;
 }
 
 .image-credits a {
+  display: inline-block;
+  min-height: 24px;
+  padding-block: 4px;
   text-decoration: underline;
   text-decoration-color: var(--rule);
   text-underline-offset: 2px;
@@ -982,7 +995,12 @@ a:focus-visible {
   }
 
   .install-section {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .install-copy,
+  .install-block-wrap {
+    min-width: 0;
   }
 
   .install-copy {

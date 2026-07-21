@@ -40,7 +40,15 @@ export default function HomePage() {
       <header className="site-header">
         <div className="page-shell header-inner">
           <a className="wordmark" href="#top" aria-label="Founder Panel home">
-            Founder Panel<span className="wordmark-mark">/</span>
+            <Image
+              className="wordmark-logo"
+              src="/brand/founder-panel-product-hunt.png"
+              alt=""
+              width={64}
+              height={64}
+              priority
+            />
+            <span>Founder Panel</span>
           </a>
           <nav aria-label="Primary navigation">
             <a href="#commands">Commands</a>
@@ -85,6 +93,10 @@ export default function HomePage() {
           <p>
             Paul Graham, Naval Ravikant, Garry Tan, Patrick Collison and {stats.voices - 4} more,
             argued from their own writing only.
+          </p>
+          <p className="hero-disclaimer">
+            AI research syntheses based on public writing. The featured people do not participate
+            in, endorse, or have any affiliation with Founder Panel.
           </p>
         </div>
 
@@ -298,7 +310,16 @@ export default function HomePage() {
 
       <footer className="site-footer page-shell">
         <div>
-          <a className="wordmark" href="#top">Founder Panel<span className="wordmark-mark">/</span></a>
+          <a className="wordmark" href="#top">
+            <Image
+              className="wordmark-logo"
+              src="/brand/founder-panel-product-hunt.png"
+              alt=""
+              width={64}
+              height={64}
+            />
+            <span>Founder Panel</span>
+          </a>
           <p>Open-source, source-grounded startup advice for Claude Code.</p>
         </div>
         <div className="footer-links">
