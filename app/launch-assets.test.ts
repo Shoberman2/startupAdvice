@@ -89,6 +89,20 @@ describe("Product Hunt launch assets", () => {
     expect(page).toContain('alt=""');
   });
 
+  test("embeds the terminal demo as a lightweight, accessible landing-page player", () => {
+    const page = readFileSync(join(ROOT, "app", "page.tsx"), "utf8");
+    const video = /<video([\s\S]*?)<\/video>/.exec(page)?.[0] ?? "";
+
+    expect(page).toContain('href="#demo"');
+    expect(page).toContain('id="demo"');
+    expect(video).toContain("controls");
+    expect(video).toContain("playsInline");
+    expect(video).toContain('preload="metadata"');
+    expect(video).toContain('poster="/launch/founder-panel-terminal-demo-poster.png"');
+    expect(video).toContain('src="/launch/founder-panel-terminal-demo.mp4"');
+    expect(video).not.toContain("autoPlay");
+  });
+
   test("keeps launch-critical mobile overflow and credit target safeguards", () => {
     const css = readFileSync(join(ROOT, "app", "globals.css"), "utf8");
 
