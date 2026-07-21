@@ -94,6 +94,10 @@ export default function HomePage() {
             Paul Graham, Naval Ravikant, Garry Tan, Patrick Collison and {stats.voices - 4} more,
             argued from their own writing only.
           </p>
+          <p className="hero-disclaimer">
+            AI research syntheses based on public writing. The featured people do not participate
+            in, endorse, or have any affiliation with Founder Panel.
+          </p>
         </div>
 
         <div className="hero-stats fade-up" style={stagger(440)} aria-label="Product facts">
