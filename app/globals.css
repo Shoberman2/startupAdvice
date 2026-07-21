@@ -405,6 +405,84 @@ a:focus-visible {
   animation: cursorBlink 1.1s steps(2, start) infinite;
 }
 
+.demo-section {
+  display: grid;
+  grid-template-columns: minmax(240px, 0.3fr) minmax(0, 0.7fr);
+  align-items: center;
+  gap: clamp(48px, 8vw, 112px);
+  padding-top: 112px;
+  padding-bottom: 120px;
+  border-bottom: 1px solid var(--ink);
+}
+
+.demo-copy h2 {
+  margin: 0;
+  font-size: clamp(42px, 4.8vw, 66px);
+  font-weight: 450;
+  letter-spacing: -0.05em;
+  line-height: 1;
+}
+
+.demo-copy > p:not(.eyebrow) {
+  margin: 28px 0 0;
+  color: var(--muted);
+  font-size: 18px;
+  line-height: 1.55;
+}
+
+.demo-copy code {
+  color: var(--ink);
+  font-family: var(--mono);
+  font-size: 0.83em;
+}
+
+.demo-player-wrap {
+  min-width: 0;
+}
+
+.demo-player {
+  overflow: hidden;
+  border: 1px solid var(--ink);
+  background: var(--ink);
+  box-shadow: 12px 12px 0 var(--paper-deep);
+}
+
+.demo-player-topline {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 10px 14px;
+  color: var(--paper);
+  font-family: var(--sans);
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+}
+
+.demo-player-topline span:last-child {
+  color: #9e9a92;
+}
+
+.demo-player video {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  background: #11110f;
+  object-fit: cover;
+}
+
+.demo-caption {
+  max-width: 680px;
+  margin: 18px 0 0;
+  color: var(--muted);
+  font-family: var(--sans);
+  font-size: 11px;
+  line-height: 1.55;
+}
+
 .commands-section {
   padding-top: 112px;
   padding-bottom: 136px;
@@ -968,6 +1046,14 @@ a:focus-visible {
     grid-template-columns: 1fr;
   }
 
+  .demo-section {
+    grid-template-columns: 1fr;
+  }
+
+  .demo-copy {
+    max-width: 720px;
+  }
+
   .board-feature .command-copy,
   .board-feature .board-preview {
     grid-column: 1;
@@ -1102,6 +1188,26 @@ a:focus-visible {
   .commands-section {
     padding-top: 88px;
     padding-bottom: 88px;
+  }
+
+  .demo-section {
+    gap: 44px;
+    padding-top: 80px;
+    padding-bottom: 88px;
+  }
+
+  .demo-copy h2 {
+    font-size: 42px;
+  }
+
+  .demo-player {
+    box-shadow: 7px 7px 0 var(--paper-deep);
+  }
+
+  .demo-player-topline {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 4px;
   }
 
   .section-intro {

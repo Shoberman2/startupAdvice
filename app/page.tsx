@@ -74,7 +74,7 @@ export default function HomePage() {
           <a className="button button-primary" href={GITHUB_URL} target="_blank" rel="noreferrer">
             Get it free on GitHub <span className="button-arrow" aria-hidden="true">↗</span>
           </a>
-          <a className="text-link" href="#commands">
+          <a className="text-link" href="#demo">
             Watch it work <span aria-hidden="true">↓</span>
           </a>
         </div>
@@ -129,6 +129,44 @@ export default function HomePage() {
       </section>
 
       <FounderMarquee />
+
+      <section className="demo-section page-shell" id="demo" aria-labelledby="demo-title">
+        <Reveal className="demo-copy">
+          <p className="eyebrow">24-second terminal walkthrough</p>
+          <h2 id="demo-title">
+            See the board <em className="hl">take shape.</em>
+          </h2>
+          <p>
+            Watch <code>/board-room</code> seat three independently grounded perspectives, frame
+            the central tension, and keep every claim tied to its source.
+          </p>
+        </Reveal>
+
+        <Reveal className="demo-player-wrap" delay={120}>
+          <div className="demo-player">
+            <div className="demo-player-topline">
+              <span>Founder Panel · Terminal demo</span>
+              <span>1080p · 24 sec · silent</span>
+            </div>
+            <video
+              aria-label="Founder Panel board room terminal demonstration"
+              controls
+              playsInline
+              poster="/launch/founder-panel-terminal-demo-poster.png"
+              preload="metadata"
+              width="1920"
+              height="1080"
+            >
+              <source src="/launch/founder-panel-terminal-demo.mp4" type="video/mp4" />
+              <a href="/launch/founder-panel-terminal-demo.mp4">Download the terminal demo.</a>
+            </video>
+          </div>
+          <p className="demo-caption">
+            AI research syntheses based on public writing. No featured person participates in or
+            endorses Founder Panel.
+          </p>
+        </Reveal>
+      </section>
 
       <section className="commands-section page-shell" id="commands">
         <Reveal className="section-intro">
